@@ -101,6 +101,8 @@ Typographic markup is converted to USFM character styles:
 
 Footnotes are embedded inline using `\f + \fr {ch}:{v} \ft {text}\f*`.
 
+Cross-references are embedded inline using `\x + \xo {ch}:{v} \xt {text}\x*`. The reference text uses original ODR abbreviations (e.g. `Io. 8, 12.` = John 8:12).
+
 ---
 
 ## Reference documents

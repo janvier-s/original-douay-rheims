@@ -1,6 +1,6 @@
 # Schema Reference
 
-## bible/{raw,plain}/{book}.json
+## bible/{raw,tagged}/{book}.json
 
 Top-level fields:
 
@@ -27,13 +27,21 @@ Top-level fields:
 | `verse` | number | Verse number |
 | `text` | string | Verse text |
 | `notes` | array? | Inline footnotes attached to this verse (optional) |
+| `cross_refs` | array? | Cross-references for this verse (optional) |
+| `has_annotation` | boolean? | True if a chapter annotation sidecar exists for this verse (optional) |
 
 ### Note object (inline)
 
 | Field | Type | Description |
 |-------|------|-------------|
-| `marker` | number \| string | Footnote marker symbol |
+| `label` | number \| string | Footnote label (letter = footnote, number = marginal note) |
 | `text` | string | Footnote text |
+
+### Cross-reference object
+
+| Field | Type | Description |
+|-------|------|-------------|
+| `text` | string | Cross-reference text using original ODR abbreviations (e.g. `"Io. 8, 12."` = John 8:12) |
 
 ### Markup tags (`raw` only)
 
