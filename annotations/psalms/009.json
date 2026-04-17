@@ -1,0 +1,32 @@
+{
+  "chapter": 9,
+  "annotations": [
+    {
+      "verse": 21,
+      "title": "---",
+      "text": "After the 21. verse the late Hebrew Doctors divide this Psalm <mn>[1]</mn>, beginning there the tenth, without any new title: but only this word <i>Sela</i> <mn>[2]</mn>: which the Septuagint, Theodotion, and Symmachus translate <i>Diapsalma</i>, that is, change of meter, or music, also pause or rest in singing. Aquila, whom S. Jerome rather approveth, translateth <i>semper</i> ever <mn>[3]</mn>. Some English Bibles omit it <mn>[4]</mn>, others leave it in the text, not translating it into English. It seemeth to most Interpreters to be added as a note to stir up attention. And it occurreth often, not only in the end of Psalms, but also in other places. For it is thrice in the third Psalm. And therefore maketh no argument, that this Psalm should be divided <mn>[5]</mn>. And those which divide this into two, join two in the 147. Psalm. So that all agree in the number of 150. Psalms in the whole Psalter.",
+      "notes": [
+        {
+          "marker": 1,
+          "text": "Some divide this Psalm into two."
+        },
+        {
+          "marker": 2,
+          "text": "Sela a note of change, or of rest in music, or rather of attention."
+        },
+        {
+          "marker": 3,
+          "text": "<i>Epist. ad Marcel.</i>"
+        },
+        {
+          "marker": 4,
+          "text": "<i>Anno. 1577. 1552. 1603.</i>"
+        },
+        {
+          "marker": 5,
+          "text": "All the Psalms are just 150."
+        }
+      ]
+    }
+  ]
+}

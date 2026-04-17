@@ -1,0 +1,55 @@
+{
+  "section": "nt-table-paul",
+  "title": "A TABLE OF S. PAUL.",
+  "columns": [
+    "Emperor",
+    "Nat. dni.",
+    "Ascen.",
+    "Description"
+  ],
+  "entries": [
+    {
+      "emperor": "Tiberij",
+      "col1": "18",
+      "col2": "34",
+      "col3": "1",
+      "desc": "SEVEN Deacons are elected and ordered by imposition of hands. <i>Act. 6.</i> Steven the principal of them maketh a blessed sermon, for which he was stoned to death, Saul (afterward Paul) consenting and aiding thereunto. <i>Act. 7.</i>"
+    },
+    {
+      "emperor": "Tiberij",
+      "col1": "19",
+      "col2": "35",
+      "col3": "2",
+      "desc": "Saul by commission persecuteth. <i>Act. 9.</i> In his journey to Damascus he is converted. <i>Ibid.</i> He goeth into Arabia and preacheth there. <i>Galat. 1.</i>"
+    },
+    {
+      "emperor": "Tiberij",
+      "col1": "22",
+      "col2": "38",
+      "col3": "5",
+      "desc": "Paul returneth to Damascus, where being in danger he escapeth, let down in a basket by the wall. <i>Act. 9.</i> Thence he cometh to Hierusalem to see Peter. <i>Galat. 1.</i> Where being in danger of his life, the brethren convey him out of the city to Caesarea, and thence to Tarsus. <i>Act. 9.</i> He preacheth in the parts of Syria and Cilicia, <i>Galat. 1.</i> and at Antioch, where the Christians were first called by that name. <i>Act. 11.</i> He and Barnabas being severed from the rest of the Disciples by the appointment of the Holy Ghost, and after fasting and prayer, by imposition of hands consecrated Apostles and Bishops, they come to Cypres, where he converted the Proconsul. <i>Act. 13.</i> He preacheth in Lycaonia, and at Lystra is almost stoned to death. He appointeth Priests in every Church, and returning by Pisidia, came again to Antioch whence they first departed. <i>Act. 14.</i>"
+    },
+    {
+      "emperor": "Claudij",
+      "col1": "9",
+      "col2": "51",
+      "col3": "18",
+      "desc": "At Antioch and there about he remaineth <i>(Act. 14.)</i> until the controversy touching the observation of Moyses' law. For resolution whereof he and Barnabas ascend to Hierusalem. Where they are appointed to bring the determination of the Councel to Antioch. And from thence passing through Syria and Cilicia, they teach the Christians to observe the decrees of the Apostles and Ancients. <i>Act. 15.</i> Doing the same in the cities of Lycaonia and others adjoining, by a vision he is warned to pass over the sea, and so cometh into Macedonia, where he planteth the Gospel. <i>Act. 16. Hence forward S. Luke pursueth S. Paul's story, chapter by chapter, until his apprehension in Hierusalem, and arrival at Rome, in this order.</i> He returneth from Macedonia by Thessalonica to Athens, where he converteth many, namely S. Denys Areopagita. <i>Act. 17.</i> From Athens he cometh to Corinth, where he remaineth 18 months. <i>Act. 18.</i> and having visited the Churches of Asia <i>Act. 19.</i> he cometh back to Corinth <i>Act. 20.</i> Whence he writeth his epistle to the Romans. <i>Ro. 15.</i> From Corinth he saileth to Troas in Asia, where upon a Sunday he raised Eutychus from death, preaching till midnight. From Troas he cometh to Miletum by sea, and there sendeth for the Bishops and Ancients of Ephesus, and exhorteth them. <i>Act. 20.</i>"
+    },
+    {
+      "emperor": "Neronis",
+      "col1": "2",
+      "col2": "58",
+      "col3": "25",
+      "desc": "Thence coming to Hierusalem he is taken, <i>Act. 21</i>: and from the Tribune Lysias delivered to Felix the Governor, <i>Act. 23</i>: and by him left to Festus, <i>Act. 24.</i> he appealeth to Caesar, <i>Act. 25</i>: and so is SENT TO ROME, <i>Act. 27</i>: where he arriveth. <i>Act. 28.</i> At Rome he remaineth in free prison two years, <i>Act. 28.</i> and then is delivered, <i>2. Tim. 4.</i> After his delivery he preached in sundry countries of the west, namely in Spain. <i>Hiero. in Catalogo. Epiph. Haeres. 27.</i> Himself writeth that he purposed so to do. <i>Ro. 15.</i> In his Epistle to the Philippians (c. 1.) he minded to visit the Churches of Asia, which also he did. <i>Genebrard. in Chron.</i> He writeth last of all, his second Epistle to Timothee a little before his death. <i>2. Tim. 4.</i> being now the second time apprehended and in bands at Rome. <i>Theodoret.</i>"
+    },
+    {
+      "emperor": "Neronis",
+      "col1": "14",
+      "col2": "70",
+      "col3": "37",
+      "desc": "He was beheaded at Rome, the same day that Peter was crucified. <i>S. Ambros. ser. 66. 68. S. Maximus.</i>"
+    }
+  ],
+  "closing": []
+}

@@ -1,0 +1,55 @@
+{
+  "section": "nt-apostles-creed",
+  "title": "THE APOSTLES' CREED,",
+  "subtitle": "or SYMBOLUM APOSTOLORUM.",
+  "articles": [
+    {
+      "number": 1,
+      "text": "I Believe <i>in God the Father</i>, almighty, creator of heaven and earth."
+    },
+    {
+      "number": 2,
+      "text": "And in <i>JESUS CHRIST</i>, his only Son, our Lord."
+    },
+    {
+      "number": 3,
+      "text": "Who was conceived by the Holy Ghost, born of the Virgin <i>MARIE.</i>"
+    },
+    {
+      "number": 4,
+      "text": "Suffered under Pontius Pilate, was crucified, dead, and buried: Descended into Hell."
+    },
+    {
+      "number": 5,
+      "text": "The third day he rose again from death:"
+    },
+    {
+      "number": 6,
+      "text": "Ascended into heaven: Sitteth at the right hand of God the Father almighty."
+    },
+    {
+      "number": 7,
+      "text": "From thence he shall come to judge the quick and the dead."
+    },
+    {
+      "number": 8,
+      "text": "I believe <i>in the Holy Ghost.</i>"
+    },
+    {
+      "number": 9,
+      "text": "The holy <i>Catholic Church</i>: the Communion of Saints."
+    },
+    {
+      "number": 10,
+      "text": "Forgiveness of sins."
+    },
+    {
+      "number": 11,
+      "text": "Resurrection of the flesh."
+    },
+    {
+      "number": 12,
+      "text": "Life everlasting. Amen."
+    }
+  ]
+}

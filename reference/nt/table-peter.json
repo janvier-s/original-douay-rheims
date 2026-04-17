@@ -1,0 +1,76 @@
+{
+  "section": "nt-table-peter",
+  "title": "A TABLE OF S. PETER.",
+  "columns": [
+    "Emperor",
+    "Nat. dni.",
+    "Ascen.",
+    "Description"
+  ],
+  "entries": [
+    {
+      "emperor": "Tiberij",
+      "col1": "18",
+      "col2": "34",
+      "col3": "1",
+      "desc": "PETER causeth the Disciples to proceed to the election of another Apostle in Judas' room. <i>Act. 1.</i> Receiving with the rest the gifts of the Holy Ghost on Whit-Sunday, he made the first Sermon, and converted 3000. <i>Act. 2.</i> He cureth one born lame, preacheth Christ and penance to the Jews: so that 5000 believed. <i>Act. 3. & 4.</i> He is imprisoned, released again, threatened and commanded to preach no more: but he with John answereth, that they must obey God more than man. <i>Act. 4.</i> He striketh to death with a word, Ananias and Saphira, for sacrilege. <i>Act. 5.</i> He is sent with John to Samaria, to confirm the newly baptized, where he reproveth Simon Magus. <i>Act. 8.</i>"
+    },
+    {
+      "emperor": "Tiberij",
+      "col1": "19",
+      "col2": "35",
+      "col3": "2",
+      "desc": "He healeth Aeneas at Lydda, and raiseth Tabitha from death at Ioppe. <i>Act. 9.</i> He is warned and taught by a vision, to preach to Cornelius a Gentile. <i>Act. 10.</i> He defendeth his receiving of the Gentiles. <i>Act. 11.</i> and recordeth <i>(Act. 15.)</i> that God called the first Gentiles by his ministry. So that Paul's first preaching to them, and his going to Arabia, must be after this. <i>See S. Chrys. In Act. ho. 22. Euseb. li. 2. c. 3.</i>"
+    },
+    {
+      "emperor": "Tiberij",
+      "col1": "20",
+      "col2": "36",
+      "col3": "3",
+      "desc": "He continueth preaching in diverse parts of Jury and the provinces adjoining. About two years after this, S. Paul visiteth him at Hierusalem. <i>Gal. 1.</i> He preacheth in Syria and the Provinces of Asia minor, Bithynia, Pontus, Galatia, Cappadocia, ordaining Bishops and Priests in diverse places. <i>1. Pet. 1. Nicepho. li. 2. c. 35. Platina in Petro.</i>"
+    },
+    {
+      "emperor": "Tiberij",
+      "col1": "23",
+      "col2": "39",
+      "col3": "6",
+      "desc": "He goeth to Antioch, preaching there, and making that his Seat, yet not remaining there continually, but for the affairs of the Church, departing thence, sometime to Hierusalem, sometime to other places. <i>Hiero. in Catalogo. Ignat. ad Magnesianos.</i> At Hierusalem he is cast into prison after the putting of S. James to death, by the commandment of Herod. He is prayed for by the whole Church, & delivered out of prison by an Angel. <i>Act. 12.</i>"
+    },
+    {
+      "emperor": "Claudij",
+      "col1": "2",
+      "col2": "44",
+      "col3": "11",
+      "desc": "Avoiding the fury of Herod, he leaveth Jury again. He appointeth Evodius Bishop in Antioch. <i>Euseb. in Chron. & li. 3. c. 16. Suidas, Ignat. ad Antiochen.</i> And passing by Corinth, HE CAME TO ROME, to convince Simon Magus. <i>Hiero. in Catalogo. Euseb. li. 2. c. 12. 13. 24. Concil. to. 1.</i> He approveth & declareth the Gospel of S. Mark to be Canonical. <i>Hiero. in Catalo. Euseb. li. 2. c. 14.</i> Having founded the Church at Rome, and planted his Apostolical Seat there, afterward absent from the city (either expelled thence with other Jews, <i>Cornel. Tacit. in Claudio</i>: or rather according to the office of his Apostleship) leaving it for a time, he visited other Churches, and came to Hierusalem again, using both in his absence and presence, Linus and Cletus for his coadjutors. <i>To. 2. Concil. pag. 656. Epiph. to. 2. Haeres. 27.</i>"
+    },
+    {
+      "emperor": "Claudij",
+      "col1": "9",
+      "col2": "51",
+      "col3": "18",
+      "desc": "He holdeth the first Councel. <i>Act. 15.</i> He is reprehended at Antioch by S. Paul. <i>Galat. 1.</i> except that difference fell before the Councel, as some think. <i>August. ep. 19.</i> He returneth to Rome again, the Roman faith by his diligence now made famous through the world. <i>Ro. 1. & 15. Theodoret. in 16. Ro.</i> Thence he writeth his first epistle. <i>1. Pet. 5. Euseb. li. 2. c. 14. Hiero. in Catalogo.</i> He sendeth S. Mark to Alexandria, and others to plant the faith in diverse parts of the world. <i>Grego. li. 5. ep. 60. & li. 6. ep. 37. Nicepho. li. 2. c. 35.</i> He writeth his second epistle a little before his death, which Christ revealed to him to be at hand. <i>2. Pet. 1.</i> He taketh order for his successor."
+    },
+    {
+      "emperor": "Neronis",
+      "col1": "14",
+      "col2": "70",
+      "col3": "37",
+      "desc": "He was finally crucified at Rome. <i>See the last Annot. Ioan. c. 21.</i>"
+    }
+  ],
+  "closing": [
+    {
+      "text": "FOELIX ECCLESIA, cui totam doctrinam Apostoli cum suo sanguine profuderunt: ubi PETRUS Passioni Domini adaequatur, ubi PAULUS Ioannis (Baptistae) exitu coronatur. <i>Tertul. de Praescript.</i>"
+    },
+    {
+      "text": "NON ita coelum splendescit, quando radios sol demittit, quemadmodum ROMANORUM URBS duas illas lampades ubique terrarum effundens. <i>Chrys. in ep. Ro. hom. 32. in moral.</i>"
+    },
+    {
+      "text": "Merita Petri & Pauli propter eundem Passionis diem celebrius & solenniter Roma commendat. <i>S. Aug. de cons. Evang. li. 1. c. 10.</i>"
+    },
+    {
+      "text": "<i>Hic nempe iam regnant duo Apostolorum principes: Alter vocator Gentium, Alter Cathedram possidens Primam, recludit creditas Aeternitatis ianuas.</i>",
+      "note": "Prudent. in Hymno de S. Laurent."
+    }
+  ]
+}
