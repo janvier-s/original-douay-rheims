@@ -16,9 +16,10 @@ attribution required.
 
 | Path | Description |
 |------|-------------|
-| `bible/raw/` | Bible text with original markup tags (73 books) |
-| `bible/clean/` | Bible text with all tags stripped — plain text only |
-| `annotations/` | Chapter-level annotation sidecars (commentary, notes) |
+| `bible/tagged/` | Bible text with all original markup (`<sc>`, `<i>`, `<na>`, `<mn>`, `<cr>`) — 73 books |
+| `bible/raw/` | Bible text as plain prose — all markup and markers stripped |
+| `annotations/` | Chapter-level annotation sidecars (commentary, extended notes) |
+| `usfm/` | USFM files — one per book, footnotes embedded inline |
 | `reference/ot/` | Old Testament front matter (preface, tables, glossary, etc.) |
 | `reference/nt/` | New Testament front matter (preface, tables, glossary, etc.) |
 
@@ -26,21 +27,22 @@ attribution required.
 
 ## Bible JSON format
 
-Each file in `bible/raw/` and `bible/clean/` represents one book.
+Each file in `bible/tagged/` and `bible/raw/` represents one book.
 
 ```json
 {
   "book": "genesis",
-  "testament": "ot",
+  "book_title": "The Book of Genesis",
+  "short_title": "Genesis",
   "chapters": [
     {
       "chapter": 1,
       "verses": [
         {
-          "verse": 1,
-          "text": "In the beginning God created heaven and earth.",
+          "verse": 6,
+          "text": "God also said: Be a firmament made amidst the waters.",
           "notes": [
-            { "marker": 1, "text": "Note text here." }
+            { "label": "a", "text": "The firmament is all the space from the earth..." }
           ]
         }
       ]
@@ -49,26 +51,24 @@ Each file in `bible/raw/` and `bible/clean/` represents one book.
 }
 ```
 
-### Markup tags (raw version only)
+### Markup tags (`bible/tagged/` only)
 
 | Tag | Meaning |
 |-----|---------|
 | `<sc>Word</sc>` | Small caps — proper nouns and significant passages |
-| `<i>word</i>` | Italic — words supplied by translators, absent from the Latin |
-| `<cr>†</cr>` | Cross-reference marker (symbol only, no content) |
-| `<na>*</na>` | Footnote anchor marker (symbol only, no content) |
-| `<mn>[1]</mn>` | Marginal note number |
+| `<i>word</i>` | Italic — words supplied by the translators, absent from the Latin |
 
-In `bible/clean/`, all tags are stripped. `<cr>`, `<na>`, and `<mn>` are removed
-entirely (including their marker content). `<sc>` and `<i>` content is preserved
-as plain text.
+`bible/raw/` strips all tags. `bible/tagged/` preserves everything including
+footnote anchors (`<na>`), marginal note numbers (`<mn>`), and cross-reference
+markers (`<cr>`). Note content is always in the verse's `notes[]` array regardless
+of version.
 
 ---
 
 ## Annotations format
 
 Files in `annotations/{book}/{chapter}.json` contain verse-level commentary and
-extended notes.
+extended notes. Chapters without annotations have no file.
 
 ```json
 {
@@ -87,8 +87,19 @@ extended notes.
 }
 ```
 
-Not all books or chapters have annotation files. Coverage is heaviest in the
-New Testament and major Old Testament books.
+---
+
+## USFM format
+
+Files in `usfm/` follow the Unified Standard Format Markers (USFM 3) spec.
+Typographic markup is converted to USFM character styles:
+
+| ODR tag | USFM marker |
+|---------|-------------|
+| `<sc>Word</sc>` | `\sc Word\sc*` |
+| `<i>word</i>` | `\add word\add*` |
+
+Footnotes are embedded inline using `\f + \fr {ch}:{v} \ft {text}\f*`.
 
 ---
 

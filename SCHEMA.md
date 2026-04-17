@@ -1,6 +1,6 @@
 # Schema Reference
 
-## bible/{raw,clean}/{book}.json
+## bible/{raw,plain}/{book}.json
 
 Top-level fields:
 
