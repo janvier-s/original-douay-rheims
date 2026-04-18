@@ -346,10 +346,6 @@
       "chapter": 4,
       "verses": [
         {
-          "verse": 0,
-          "text": "serve God."
-        },
-        {
           "verse": 1,
           "text": "Hear the word of our Lord ye <na>(a)</na> children of Israel, because there is judgement to our Lord with the inhabitants of the land: for there is no truth, and there is no mercy, and there is <na>(b)</na> no knowledge of God in the land.",
           "notes": [
@@ -459,7 +455,8 @@
           "verse": 19,
           "text": "The spirit hath bound him in his wings, and they shall be confounded at their sacrifices."
         }
-      ]
+      ],
+      "summary": "serve God."
     },
     {
       "chapter": 5,

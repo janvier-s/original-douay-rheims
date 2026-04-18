@@ -2410,10 +2410,6 @@
       "chapter": 16,
       "verses": [
         {
-          "verse": 0,
-          "text": "his mercy on the good. 14. Works of mercy merit great <i>reward. 15. Nothing is hid from God, 20. but many things from men.</i>"
-        },
-        {
           "verse": 1,
           "text": "Rejoice not in impious children, if they be multiplied: neither be delighted upon them, if the fear of God be not in them."
         },
@@ -2559,7 +2555,8 @@
             }
           ]
         }
-      ]
+      ],
+      "summary": "his mercy on the good. 14. Works of mercy merit great <i>reward. 15. Nothing is hid from God, 20. but many things from men.</i>"
     },
     {
       "chapter": 17,
