@@ -797,7 +797,10 @@
           ]
         }
       ],
-      "summary": "15. Mardocheus is in high honour, and his whole nation <i>is esteemed and feared by other people.</i>"
+      "summary": "15. Mardocheus is in high honour, and his whole nation <i>is esteemed and feared by other people.</i>",
+      "summary_continuation": {
+        "text": "15. Mardocheus is in high honour, and his whole nation <i>is esteemed and feared by other people.</i>"
+      }
     },
     {
       "chapter": 9,
@@ -941,7 +944,7 @@
           "notes": [
             {
               "label": "d",
-              "text": "Afeast instituted by Mardocheus was accepted & observed by all the Jews, as a constitution agreeable and not contrary to the law <i>Deut. 4. v. 2. & 12. v. 32.</i>"
+              "text": "A feast instituted by Mardocheus was accepted & observed by all the Jews, as a constitution agreeable and not contrary to the law <i>Deut. 4. v. 2. & 12. v. 32.</i>"
             }
           ]
         },
@@ -1165,7 +1168,11 @@
           "notes": [
             {
               "label": "a",
-              "text": "Here it appeareth that Aman was a favourer of traitors"
+              "text": "Here it appeareth that Aman was a favourer of traitors or perhaps of the same conspiracy."
+            },
+            {
+              "label": "1",
+              "text": "ch. 3. v. 1."
             }
           ]
         }
@@ -1435,7 +1442,7 @@
           "notes": [
             {
               "label": "b",
-              "text": "Anotable example for Noble women; how to keep their state, and remain nevertheless humble in heart."
+              "text": "A notable example for Noble women; how to keep their state, and remain nevertheless humble in heart."
             }
           ]
         },

@@ -6,7 +6,7 @@
   "intros": [
     {
       "title": "THE ARGUMENT OF THE BOOK OF ESTHER.",
-      "text": "OF the authority of this book <i>only two or three ancient writers doubted</i>, before the Councels <mn>[1]</mn> <mn>[2]</mn> of Laodicea and Carthage declared it to be Canonical. <i>All the rest did ever esteem it as divine Scripture</i>. For albeit S. Jerome in his time found not certain parts thereof in the Hebrew, and therefore transposed the same to the end of the book, as now we have them: yet in the Greek he found all these sixteen chapters contained in ten. And it is not unprobable, that these parcels were sometimes in the Hebrew, as were diverse whole books which are now lost. But whether they were at any time in the Hebrew or no, the Church of Christ accounteth the whole Book of infallible authority, reading as well these parts, as the rest in her public office. And the Councel of Trent (sess. 4.) for more express declaration defineth <i>that all the books recited in the same Decree</i> (amongst which is Esther) <i>with all the parts thereof, as they are accustomed to be read in the Catholic Church, and be contained in the old vulgar Latin Edition, are sacred and Canonical Scripture</i>.\n\nIt containeth a particular great danger of the people of Israel, happening (as is probable) <mn>[1]</mn> shortly after their general relaxation, and return of some from the captivity of Babylon; and their delivery from it, through the godly zeal and other virtues of Queen Esther, directed herein by Mardocheus, who being also in imminent danger was delivered and advanced: and finally writ <mn>[2]</mn> the history, which may be divided into four parts, not by order of the chapters as they are here <mn>[3]</mn> transposed, but in order of time. First the author reporteth some things going before the people's danger, in the 11. 1. 2. 12. chapters, and part of the 3. Secondly, their danger and distress, in the rest of the 3. and part of 13. chapters. Thirdly, their delivery: from the 4. chapter to the midst of the 9. and rest of the 13. and in the 14. 15. and 16. Fourthly, the things that ensued hereupon, in the other half of the ninth chapter, the 10. chapter, and first verse of the eleventh.\n\nWhosoever will please to read this history, in order of the time as the things happened, adjoining the latter chapters, which are in the Greek, and not in Hebrew, may follow the letters of the Alphabet, as here we have placed them in the margent, beginning at the second verse of the 11. chapter, where he findeth the letter A. and when he cometh to B. return where the same letter is noted. ch. 1. And so in the rest follow the same direction.",
+      "text": "OF the authority of this book only two or three ancient writers doubted, before the Councels of Laodicea and Carthage declared it to be Canonical. All the rest did ever esteem it as divine Scripture. For albeit S. Jerome in his time found not certain parts thereof in the Hebrew, and therefore transposed the same to the end of the book, as now we have them: yet in the Greek he found all these sixteen chapters contained in ten. And it is not unprobable, that these parcels were sometimes in the Hebrew, as were diverse whole books which are now lost. But whether they were at any time in the Hebrew or no, the Church of Christ accounteth the whole Book of infallible authority, reading as well these parts, as the rest in her public office. And the Councel of Trent (sess. 4.) for more express declaration defineth that all the books recited in the same Decree (amongst which is Esther) with all the parts thereof, as they are accustomed to be read in the Catholic Church, and be contained in the old vulgar Latin Edition, are sacred and Canonical Scripture.\n\nIt containeth a particular great danger of the people of Israel, happening (as is probable) shortly after their general relaxation, and return of some from the captivity of Babylon; and their delivery from it, through the godly zeal and other virtues of Queen Esther, directed herein by Mardocheus, who being also in imminent danger was delivered and advanced: and finally writ the history, which may be divided into four parts, not by order of the chapters as they are here transposed, but in order of time. First the author reporteth some things going before the people's danger, in the 11. 1. 2. 12. chapters, and part of the 3. Secondly, their danger and distress, in the rest of the 3. and part of 13. chapters. Thirdly, their delivery: from the 4. chapter to the midst of the 9. and rest of the 13. and in the 14. 15. and 16. Fourthly, the things that ensued hereupon, in the other half of the ninth chapter, the 10. chapter, and first verse of the eleventh.\n\nWhosoever will please to read this history, in order of the time as the things happened, adjoining the latter chapters, which are in the Greek, and not in Hebrew, may follow the letters of the Alphabet, as here we have placed them in the margent, beginning at the second verse of the 11. chapter, where he findeth the letter A. and when he cometh to B. return where the same letter is noted. ch. 1. And so in the rest follow the same direction.",
       "default": true,
       "notes": [
         {
@@ -15,7 +15,7 @@
         },
         {
           "marker": 2,
-          "text": "<i>Melito. S. Atha. S. Greg. Nazian. Origen apud Euseb. lib. 6. c. 25. hist.</i>"
+          "text": "Melito. S. Atha. S. Greg. Nazian. Origen apud Euseb. lib. 6. c. 25. hist."
         },
         {
           "marker": 1,
@@ -155,7 +155,7 @@
           "text": "and he sent letters to all the Provinces of his Kingdom, as every nation could hear and read, in diverse languages and characters, that the husbands should be Princes and masters in their houses: and that this should be published through all peoples."
         }
       ],
-      "summary": "King Assuerus celebrateth a great banquet to shew his glory, 10. calleth queen Vasthi thereto. Who refusing to come, is by advise of his Counsel deposed. <na>[1]</na>",
+      "summary": "King Assuerus celebrateth a great banquet to shew his glory, 10. calleth queen Vasthi thereto. Who refusing to come, is by advise of his Counsel deposed.",
       "summary_notes": [
         {
           "marker": 1,
@@ -797,7 +797,10 @@
           ]
         }
       ],
-      "summary": "15. Mardocheus is in high honour, and his whole nation is esteemed and feared by other people."
+      "summary": "15. Mardocheus is in high honour, and his whole nation is esteemed and feared by other people.",
+      "summary_continuation": {
+        "text": "15. Mardocheus is in high honour, and his whole nation is esteemed and feared by other people."
+      }
     },
     {
       "chapter": 9,
@@ -941,7 +944,7 @@
           "notes": [
             {
               "label": "d",
-              "text": "Afeast instituted by Mardocheus was accepted & observed by all the Jews, as a constitution agreeable and not contrary to the law Deut. 4. v. 2. & 12. v. 32."
+              "text": "A feast instituted by Mardocheus was accepted & observed by all the Jews, as a constitution agreeable and not contrary to the law Deut. 4. v. 2. & 12. v. 32."
             }
           ]
         },
@@ -1165,7 +1168,11 @@
           "notes": [
             {
               "label": "a",
-              "text": "Here it appeareth that Aman was a favourer of traitors"
+              "text": "Here it appeareth that Aman was a favourer of traitors or perhaps of the same conspiracy."
+            },
+            {
+              "label": "1",
+              "text": "ch. 3. v. 1."
             }
           ]
         }
@@ -1435,7 +1442,7 @@
           "notes": [
             {
               "label": "b",
-              "text": "Anotable example for Noble women; how to keep their state, and remain nevertheless humble in heart."
+              "text": "A notable example for Noble women; how to keep their state, and remain nevertheless humble in heart."
             }
           ]
         },

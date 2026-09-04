@@ -6,7 +6,7 @@
   "intros": [
     {
       "title": "THE ARGUMENT OF THE BOOKS OF JEREMY.",
-      "text": "JEREMY the son of Helcias, Priest and Prophet, being sanctified in his mother's womb, began <mn>[1]</mn> to prophesy as yet a child, in Juda; in the thirteenth year of the reign of king <i>Josias</i>; continued <mn>[2]</mn> the rest of his time, which was nineteen years more; and the eleven years of <i>Joakim</i> (wherein are counted the three months of <i>Joachaz</i>, and other three of <i>Jechonias</i>, otherwise called <i>Ioachin</i> ) and eleven years of <i>Sedecias</i>; in all forty one years; before he went into Aegypt, where he also <mn>[3]</mn> prophesied, and finally was stoned to death by the people, in the city of Taphnis. His whole work containeth two distinct Books, besides an Epistle, which followeth after the Prophecy of <mn>[4]</mn> Baruch. The former book is called his Prophecy, the other his Lamentations. S. Jerom comprehendeth the sum of all briefly, saying: <i>Jeremy connecteth a nutty</i> (or watching) <i>rod, and</i> <mn>[5]</mn> <i>a pot boiling hot, from the face of the north, the leopard spoiled of his colours; and the fourfold Alphabet in diverse meters</i>. Signifying, that God will correct his people with a rod, in his hot <mn>[6]</mn> fury, from the north, to wit, by the king of Babylon, for their pertinacity in sundry kinds of sins. All which the Prophet lamenteth with his doleful verse of diverse meter. The Prophecy may be <mn>[7]</mn> divided into five parts. First, he sheweth the conditions and qualities of himself, with the <mn>[8]</mn> manner of his mission: then God's great clemency in recalling the people from sin, denouncing dangers imminent for their obstinacy: in the twelve first chapters. Secondly, in the eight <mn>[9]</mn> chapters following by diverse Metaphorical, and other figurative descriptions, he declareth the ingratitude, & other sins of the people, threatening punishment, for which they persecute him. Thirdly, in other eight chapters, he reprehendeth the inhabitants of Jerusalem, especially the <mn>[10]</mn> King, evil Priests, and false prophets, some being already carried into captivity: for which free preaching, he is again persecuted. Fourthly in the next eleven chapters, he mixteth <mn>[11]</mn> consolations & threats, especially the destruction of Jerusalem, captivity of king and people, and their release after seventy years. Fifthly, in the other thirteen chapters, he prophesieth the <mn>[12]</mn> destruction of the Jews, that go into Aegypt: and of sundry nations for their idolatry, and for their cruelty against the Jews. In every part interposeth many prophecies of Christ, and his Church: besides the mystical sense included in the historical.",
+      "text": "JEREMY the son of Helcias, Priest and Prophet, being sanctified in his mother's womb, began <mn>[1]</mn> to prophesy as yet a child, in Juda; in the thirteenth year of the reign of king <i>Josias</i>; continued <mn>[2]</mn> the rest of his time, which was nineteen years more; and the eleven years of <i>Joakim</i> (wherein are counted the three months of <i>Joachaz</i>, and other three of <i>Jechonias</i>, otherwise called <i>Ioachin</i> ) and eleven years of <i>Sedecias</i>; in all forty one years; before he went into Aegypt, where he also <mn>[3]</mn> prophesied, and finally was stoned to death by the people, in the city of Taphnis. His whole work containeth two distinct Books, besides an Epistle, which followeth after the Prophecy of <mn>[4]</mn> Baruch. The former book is called his Prophecy, the other his Lamentations. S. Jerome comprehendeth the sum of all briefly, saying: <i>Jeremy connecteth a nutty</i> (or watching) <i>rod, and</i> <mn>[5]</mn> <i>a pot boiling hot, from the face of the north, the leopard spoiled of his colours; and the fourfold Alphabet in diverse meters</i>. Signifying, that God will correct his people with a rod, in his hot <mn>[6]</mn> fury, from the north, to wit, by the king of Babylon, for their pertinacity in sundry kinds of sins. All which the Prophet lamenteth with his doleful verse of diverse meter. The Prophecy may be <mn>[7]</mn> divided into five parts. First, he sheweth the conditions and qualities of himself, with the <mn>[8]</mn> manner of his mission: then God's great clemency in recalling the people from sin, denouncing dangers imminent for their obstinacy: in the twelve first chapters. Secondly, in the eight <mn>[9]</mn> chapters following by diverse Metaphorical, and other figurative descriptions, he declareth the ingratitude, & other sins of the people, threatening punishment, for which they persecute him. Thirdly, in other eight chapters, he reprehendeth the inhabitants of Jerusalem, especially the <mn>[10]</mn> King, evil Priests, and false prophets, some being already carried into captivity: for which free preaching, he is again persecuted. Fourthly in the next eleven chapters, he mixteth <mn>[11]</mn> consolations & threats, especially the destruction of Jerusalem, captivity of king and people, and their release after seventy years. Fifthly, in the other thirteen chapters, he prophesieth the <mn>[12]</mn> destruction of the Jews, that go into Aegypt: and of sundry nations for their idolatry, and for their cruelty against the Jews. In every part interposeth many prophecies of Christ, and his Church: besides the mystical sense included in the historical.",
       "default": true,
       "notes": [
         {
@@ -409,7 +409,10 @@
           "text": "For from hence also thou shalt go, & thy hands shall be upon thy head: because the Lord hath destroyed thy confidence, and thou shalt have nothing prosperous therein."
         }
       ],
-      "summary": "God expostulateth with the Jews, 6. that they regard not his great benefits. 8. Some Priests, and (pretended) Prophets serving false gods, 23. and denying their fault, 25. are obstinate in idolatry: 36. for which they shall be confounded."
+      "summary": "God expostulateth with the Jews, 6. that they regard not his great benefits. 8. Some Priests, and (pretended) Prophets serving false gods, 23. and denying their fault, 25. are obstinate in idolatry: 36. for which they shall be confounded.",
+      "summary_continuation": {
+        "text": "confounded."
+      }
     },
     {
       "chapter": 3,
@@ -532,7 +535,7 @@
         },
         {
           "verse": 21,
-          "text": "Avoice was heard in the ways, weeping & howling of the children of Israel: because they have made their way unjust, they have forgotten our Lord their God."
+          "text": "A voice was heard in the ways, weeping & howling of the children of Israel: because they have made their way unjust, they have forgotten our Lord their God."
         },
         {
           "verse": 22,
@@ -613,7 +616,7 @@
         },
         {
           "verse": 12,
-          "text": "Afull spirit from these shall come to me: and now I will speak my judgement with them."
+          "text": "A full spirit from these shall come to me: and now I will speak my judgement with them."
         },
         {
           "verse": 13,
@@ -2490,7 +2493,7 @@
         },
         {
           "verse": 12,
-          "text": "Athrone of glory of height from the beginning, the place of our sanctification:"
+          "text": "A throne of glory of height from the beginning, the place of our sanctification:"
         },
         {
           "verse": 13,
@@ -2588,7 +2591,7 @@
           "notes": [
             {
               "label": "a",
-              "text": "Apotter can make a new vessel of the same clay being misformed in casting, so it be yet fresh, & moist; but God can also reform man being hardened in heart, as if he made a new pot of an old one, broken into pieces or deformed."
+              "text": "A potter can make a new vessel of the same clay being misformed in casting, so it be yet fresh, & moist; but God can also reform man being hardened in heart, as if he made a new pot of an old one, broken into pieces or deformed."
             }
           ]
         },
@@ -3578,7 +3581,7 @@
         },
         {
           "verse": 36,
-          "text": "Avoice of the cry of the Pastors, and an howling of the Principals of the flock: because our Lord hath wasted their pastures."
+          "text": "A voice of the cry of the Pastors, and an howling of the Principals of the flock: because our Lord hath wasted their pastures."
         },
         {
           "verse": 37,
@@ -4402,7 +4405,7 @@
         },
         {
           "verse": 22,
-          "text": "How long wilt thou be dissolute in deliciousness, o wandering daughter? Because our Lord hath created a new thing upon the earth: <sc>Awoman Shall Compass <na>(f)</na> Aman</sc>.",
+          "text": "How long wilt thou be dissolute in deliciousness, o wandering daughter? Because our Lord hath created a new thing upon the earth: <sc>A woman Shall Compass <na>(f)</na> Aman</sc>.",
           "notes": [
             {
               "label": "f",
@@ -5005,7 +5008,6 @@
         {
           "verse": 1,
           "text": "The word that was made to Jeremy from our Lord in the days <na>(a)</na> of Joakim the son of Josias the king of Juda, saying:",
-          "has_annotation": true,
           "notes": [
             {
               "label": "a",
@@ -5015,7 +5017,8 @@
         },
         {
           "verse": 2,
-          "text": "Go to the house of the Rechabites: and speak to them, & thou shalt bring them into the house of our Lord, into one chamber of the treasuries, & thou shalt give them wine to drink."
+          "text": "Go to the house of the Rechabites: and speak to them, & thou shalt bring them into the house of our Lord, into one chamber of the treasuries, & thou shalt give them wine to drink.",
+          "has_annotation": true
         },
         {
           "verse": 3,
@@ -5284,7 +5287,10 @@
           "text": "And Jeremy took another volume, and gave it to Baruch the son of Nerias the scribe: who wrote in it from the mouth of Jeremy all the words of the book, which Joakim the king of Juda had burnt with fire: & there were added moreover many more words, than had been before."
         }
       ],
-      "summary": "Jeremy in prison sendeth Baruch by God's the people: 7. exhorting them to repent: 9. which being read in a porch of the Temple, 11. Micheas reporteth it to <i>the Nobles in the court, 14. whither Baruch being called readeth the same before them: 20. they inform the King: 21. who hearing part thereof, causeth the book to be burned: 26. and commandeth to apprehend Baruch, and Jeremy. 27. The book is written again by them with addition of more.</i>"
+      "summary": "Jeremy in prison sendeth Baruch by God's the people: 7. exhorting them to repent: 9. which being read in a porch of the Temple, 11. Micheas reporteth it to <i>the Nobles in the court, 14. whither Baruch being called readeth the same before them: 20. they inform the King: 21. who hearing part thereof, causeth the book to be burned: 26. and commandeth to apprehend Baruch, and Jeremy. 27. The book is written again by them with addition of more.</i>",
+      "summary_continuation": {
+        "text": "read in a porch of the Temple, 11. Micheas reporteth it to <i>the Nobles in the court, 14. whither Baruch being called readeth the same before them: 20. they inform the King: 21. who hearing part thereof, causeth the book to be burned: 26. and commandeth to apprehend Baruch, and Jeremy. 27. The book is written again by them with addition of more.</i>"
+      }
     },
     {
       "chapter": 37,
@@ -6480,7 +6486,7 @@
           "notes": [
             {
               "label": "b",
-              "text": "Agreat idol of the Moabites. <i>Num. 21. v. 29. 3. Reg. 11. v. 7. 33. & 44. Reg. 23. v. 13.</i> shall be overthrown; to shew the vanity in trusting to false gods."
+              "text": "A great idol of the Moabites. <i>Num. 21. v. 29. 3. Reg. 11. v. 7. 33. & 44. Reg. 23. v. 13.</i> shall be overthrown; to shew the vanity in trusting to false gods."
             }
           ]
         },
@@ -7071,7 +7077,7 @@
         },
         {
           "verse": 22,
-          "text": "Avoice of battle in the land, and great destruction."
+          "text": "A voice of battle in the land, and great destruction."
         },
         {
           "verse": 23,
@@ -7095,7 +7101,7 @@
         },
         {
           "verse": 28,
-          "text": "Avoice of them that fly, and of them that have escaped out of the land of Babylon: to tell in Sion the revenge of the Lord our God, the revenge of his temple."
+          "text": "A voice of them that fly, and of them that have escaped out of the land of Babylon: to tell in Sion the revenge of the Lord our God, the revenge of his temple."
         },
         {
           "verse": 29,
@@ -7367,7 +7373,7 @@
         },
         {
           "verse": 31,
-          "text": "Arunner shall come to meet the runner, and messenger to meet messenger: to tell the king of Babylon that his city is taken from one end to the other:"
+          "text": "A runner shall come to meet the runner, and messenger to meet messenger: to tell the king of Babylon that his city is taken from one end to the other:"
         },
         {
           "verse": 32,
@@ -7465,7 +7471,7 @@
         },
         {
           "verse": 54,
-          "text": "Avoice of crying from Babylon, and great destruction from the Land of the Chaldees:"
+          "text": "A voice of crying from Babylon, and great destruction from the Land of the Chaldees:"
         },
         {
           "verse": 55,

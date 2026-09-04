@@ -618,6 +618,7 @@
         {
           "verse": 8,
           "text": "But before all things, having mutual charity continual among yourselves: because <cr>[1]</cr> charity covereth the multitude of sins.",
+          "has_annotation": true,
           "cross_refs": [
             {
               "text": "Prov. 10."
@@ -627,7 +628,6 @@
         {
           "verse": 9,
           "text": "<cr>[1]</cr> Using hospitality one toward another without murmuring.",
-          "has_annotation": true,
           "cross_refs": [
             {
               "text": "Ro. 12, Heb. 13."

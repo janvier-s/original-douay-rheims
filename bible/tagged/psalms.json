@@ -13,6 +13,14 @@
           "has_annotation": true,
           "notes": [
             {
+              "label": "a",
+              "text": "He is in the right way to eternal felicity."
+            },
+            {
+              "label": "1",
+              "text": "Mat. 5."
+            },
+            {
               "label": "b",
               "text": "not consented to evil suggestions."
             },
@@ -254,7 +262,7 @@
           "notes": [
             {
               "label": "q",
-              "text": "Aprophecy that Kings shall be converted, and submit themselves to Christ's discipline."
+              "text": "A prophecy that Kings shall be converted, and submit themselves to Christ's discipline."
             }
           ]
         },
@@ -777,6 +785,7 @@
         {
           "verse": 2,
           "text": "Lord, <na>(b)</na> rebuke me not in thy fury; nor <na>(c)</na> chastise me in thy wrath.",
+          "has_annotation": true,
           "notes": [
             {
               "label": "b",
@@ -1520,7 +1529,7 @@
         },
         {
           "verse": 34,
-          "text": "Wherefore hath the impious provoked God? For he hath said in his heart: He will not inquire."
+          "text": "Wherefore hath the impious provoked God? For he hath said in his heart: He will not enquire."
         },
         {
           "verse": 35,
@@ -2732,7 +2741,7 @@
         },
         {
           "verse": 45,
-          "text": "Apeople <na>(f)</na> which I knew not hath served me: in the hearing of the ear it hath obeyed me.",
+          "text": "A people <na>(f)</na> which I knew not hath served me: in the hearing of the ear it hath obeyed me.",
           "notes": [
             {
               "label": "f",
@@ -4156,7 +4165,7 @@
           "notes": [
             {
               "label": "i",
-              "text": "Icannot but singularly love the excellency of this place dedicated to thy service: where is true faith, unity, and charity of thy people, the guard of holy Angels, the administration of sacred mysteries, assistance of the Holy Ghost, real presence of Christ our Lord, all replenished with Divine majesty."
+              "text": "I cannot but singularly love the excellency of this place dedicated to thy service: where is true faith, unity, and charity of thy people, the guard of holy Angels, the administration of sacred mysteries, assistance of the Holy Ghost, real presence of Christ our Lord, all replenished with Divine majesty."
             },
             {
               "label": "k",
@@ -4208,11 +4217,11 @@
           "notes": [
             {
               "label": "q",
-              "text": "Iintend to walk right."
+              "text": "I intend to walk right."
             },
             {
               "label": "r",
-              "text": "Idesire to praise thee amongst thy true faithful servants."
+              "text": "I desire to praise thee amongst thy true faithful servants."
             }
           ]
         }
@@ -4429,7 +4438,7 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Apsalm to David himself. To thee, o Lord, I will cry, my God <na>(a)</na> keep not silence from me: lest at any time thou hold thy peace from me, & I shall be like to them that go down into the lake.",
+          "text": "A psalm to David himself. To thee, o Lord, I will cry, my God <na>(a)</na> keep not silence from me: lest at any time thou hold thy peace from me, & I shall be like to them that go down into the lake.",
           "notes": [
             {
               "label": "a",
@@ -4858,7 +4867,7 @@
             },
             {
               "label": "t",
-              "text": "Ishall always confess and praise thee."
+              "text": "I shall always confess and praise thee."
             }
           ]
         }
@@ -4930,7 +4939,7 @@
           "notes": [
             {
               "label": "e",
-              "text": "Ioffer and resign myself to thee."
+              "text": "I offer and resign myself to thee."
             },
             {
               "label": "f",
@@ -4944,7 +4953,7 @@
         },
         {
           "verse": 8,
-          "text": "Ishall rejoice and be joyful in thy mercy. Because thou hast respected my humility, thou hast saved my soul out of necessities."
+          "text": "I shall rejoice and be joyful in thy mercy. Because thou hast respected my humility, thou hast saved my soul out of necessities."
         },
         {
           "verse": 9,
@@ -5504,7 +5513,7 @@
           "notes": [
             {
               "label": "b",
-              "text": "Ipraise God"
+              "text": "I praise God"
             },
             {
               "label": "c",
@@ -5799,6 +5808,10 @@
           "verse": 15,
           "text": "And they <na>(o)</na> rejoiced against me, and <na>(p)</na> came together: <na>(q)</na> scourges were gathered together upon me, and I was <na>(r)</na> ignorant.",
           "notes": [
+            {
+              "label": "o",
+              "text": "All this was fulfilled according to the letter in our Saviour's passion."
+            },
             {
               "label": "p",
               "text": "See previous note"
@@ -6387,7 +6400,7 @@
           "notes": [
             {
               "label": "f",
-              "text": "Ialready feel in my flesh, in all my bones, and powers, great affliction,"
+              "text": "I already feel in my flesh, in all my bones, and powers, great affliction,"
             },
             {
               "label": "g",
@@ -6527,7 +6540,7 @@
           "notes": [
             {
               "label": "w",
-              "text": "Iresign myself to thee."
+              "text": "I resign myself to thee."
             }
           ]
         },
@@ -6854,7 +6867,7 @@
             },
             {
               "label": "m",
-              "text": "Ialmost faint in considering so many and so great iniquities amongst those that profess Christ."
+              "text": "I almost faint in considering so many and so great iniquities amongst those that profess Christ."
             }
           ]
         },
@@ -6913,7 +6926,16 @@
           ]
         }
       ],
-      "summary": "Redemption of mankind, and to denounce the same in <i>the whole world: 12. prayeth for his servants, undertaking to satisfy for their sins.</i> <na>[1]</na>"
+      "summary": "Redemption of mankind, and to denounce the same in <i>the whole world: 12. prayeth for his servants, undertaking to satisfy for their sins.</i> <na>[1]</na>",
+      "summary_continuation": {
+        "text": "Redemption of mankind, and to denounce the same in <i>the whole world: 12. prayeth for his servants, undertaking to satisfy for their sins.</i> <na>[1]</na>",
+        "notes": [
+          {
+            "label": "1",
+            "text": "Christ's coming and redeeming of mankind.\nThe 5. key."
+          }
+        ]
+      }
     },
     {
       "chapter": 40,
@@ -6973,7 +6995,7 @@
         },
         {
           "verse": 5,
-          "text": "Isaid: <na>(g)</na> Lord have mercy on me: heal my soul, because I have sinned to thee.",
+          "text": "I said: <na>(g)</na> Lord have mercy on me: heal my soul, because I have sinned to thee.",
           "notes": [
             {
               "label": "g",
@@ -7068,7 +7090,7 @@
             },
             {
               "label": "q",
-              "text": "All the Blessed agree in this, that God is eternally to be praised and thereto say <i>Amen,</i> So be it, so be it. Some divide the Psalms into five books, supposing the first book to end here with these words, <i>Be it, be it:</i> not observing that the last Psalm hath not this ending. S. Jerom confuteth this opinion by our Saviour's and S. Peter's naming it the book, not books of Psalms. Luc. 20. v. 42. Act. 1. Moreover if this were the end of one book, then the Psalm following should not be called the 41. Psalm but the first Psalm of the second book."
+              "text": "All the Blessed agree in this, that God is eternally to be praised and thereto say <i>Amen,</i> So be it, so be it. Some divide the Psalms into five books, supposing the first book to end here with these words, <i>Be it, be it:</i> not observing that the last Psalm hath not this ending. S. Jerome confuteth this opinion by our Saviour's and S. Peter's naming it the book, not books of Psalms. Luc. 20. v. 42. Act. 1. Moreover if this were the end of one book, then the Psalm following should not be called the 41. Psalm but the first Psalm of the second book."
             }
           ]
         }
@@ -7113,6 +7135,10 @@
           "text": "My soul hath thirsted after God <na>(d)</na> the strong <na>(e)</na> living: <na>(f)</na> when shall I come and appear before the face of God?",
           "notes": [
             {
+              "label": "d",
+              "text": "God is omnipotent, and indeed the only true living God: devils who are honoured in idols, can do no more than God permitteth, and so they can kill the souls, that consent unto their tentations, but cannot restore spiritual life again."
+            },
+            {
               "label": "e",
               "text": "See previous note"
             },
@@ -7156,7 +7182,7 @@
             },
             {
               "label": "l",
-              "text": "Irender thanks and praises."
+              "text": "I render thanks and praises."
             }
           ]
         },
@@ -7532,7 +7558,7 @@
           "notes": [
             {
               "label": "q",
-              "text": "Aprayer in affliction."
+              "text": "A prayer in affliction."
             }
           ]
         },
@@ -8548,6 +8574,10 @@
             {
               "label": "a",
               "text": "To be sung or tuned by Asaph a master of music."
+            },
+            {
+              "label": "b",
+              "text": "God Almighty, who is greater than all falsely supposed gods; or holy persons, that participating of his goodness are called gods (as Kings, Priests, Judges) coming into this world in man's nature, calleth all men to salvation."
             }
           ]
         },
@@ -8957,7 +8987,7 @@
         },
         {
           "verse": 19,
-          "text": "Asacrifice to God is <na>(e)</na> an afflicted spirit: a contrite and humbled heart, o God, thou wilt not despise.",
+          "text": "A sacrifice to God is <na>(e)</na> an afflicted spirit: a contrite and humbled heart, o God, thou wilt not despise.",
           "has_annotation": true,
           "notes": [
             {
@@ -9304,7 +9334,7 @@
             },
             {
               "label": "n",
-              "text": "Irejoice in thy just judgements against the wicked."
+              "text": "I rejoice in thy just judgements against the wicked."
             }
           ]
         }
@@ -9902,6 +9932,10 @@
           "text": "I will confess to thee among <na>(m)</na> peoples, o Lord: and I will say a Psalm to thee among <na>(n)</na> the Gentiles.",
           "notes": [
             {
+              "label": "m",
+              "text": "God's benefits bestowed upon David, and upon faithful Christians prefigured by him, are for ever to be praised by all people's and nations."
+            },
+            {
               "label": "n",
               "text": "See previous note"
             }
@@ -10405,7 +10439,16 @@
           ]
         }
       ],
-      "summary": "King David after his own and the people's many tribulations, 8. rendereth thanks for their renowned victories, 11. achieved by God's only power. <na>[1]</na>"
+      "summary": "King David after his own and the people's many tribulations, 8. rendereth thanks for their renowned victories, 11. achieved by God's only power. <na>[1]</na>",
+      "summary_continuation": {
+        "text": "victories, 11. achieved by God's only power. <na>[1]</na>",
+        "notes": [
+          {
+            "label": "1",
+            "text": "King David's thanks for victories.\nThe 8. key."
+          }
+        ]
+      }
     },
     {
       "chapter": 60,
@@ -10450,7 +10493,7 @@
         },
         {
           "verse": 5,
-          "text": "Ishall inhabit in <na>(e)</na> thy tabernacle for ever: I shall be protected in the covert of thy wings.",
+          "text": "I shall inhabit in <na>(e)</na> thy tabernacle for ever: I shall be protected in the covert of thy wings.",
           "notes": [
             {
               "label": "e",
@@ -10588,7 +10631,7 @@
           "notes": [
             {
               "label": "k",
-              "text": "Iresolutely purpose not to yield to any tentation."
+              "text": "I resolutely purpose not to yield to any tentation."
             }
           ]
         },
@@ -11787,7 +11830,7 @@
           "notes": [
             {
               "label": "d",
-              "text": "Aprophecy that many should be converted to Christ in Ægypt, & Æthiopia: as appeareth by the innumerable multitude of religious Monks, & Nuns in those countries, shortly after the Apostles' days."
+              "text": "A prophecy that many should be converted to Christ in Ægypt, & Æthiopia: as appeareth by the innumerable multitude of religious Monks, & Nuns in those countries, shortly after the Apostles' days."
             }
           ]
         },
@@ -12092,7 +12135,7 @@
           "notes": [
             {
               "label": "a",
-              "text": "Aprophecy that God would suffer them, to fall from one iniquity to another."
+              "text": "A prophecy that God would suffer them, to fall from one iniquity to another."
             }
           ]
         },
@@ -12325,7 +12368,7 @@
           "notes": [
             {
               "label": "h",
-              "text": "Anecessary prayer for perseverance, which none can have without special and continual help of grace."
+              "text": "A necessary prayer for perseverance, which none can have without special and continual help of grace."
             }
           ]
         },
@@ -12371,7 +12414,7 @@
           "notes": [
             {
               "label": "l",
-              "text": "Iprofess not exact knowledge of natural things;"
+              "text": "I profess not exact knowledge of natural things;"
             },
             {
               "label": "m",
@@ -12477,7 +12520,7 @@
           "notes": [
             {
               "label": "e",
-              "text": "Aprophecy of the Apostles receiving power to preach Christ's Gospel, of peace and reconciliation of men to God by penance,"
+              "text": "A prophecy of the Apostles receiving power to preach Christ's Gospel, of peace and reconciliation of men to God by penance,"
             },
             {
               "label": "f",
@@ -13185,7 +13228,7 @@
         },
         {
           "verse": 5,
-          "text": "Isaid to the wicked: <na>(g)</na> Do not wickedly; and to them that offend: <na>(h)</na> Exalt not the horn.",
+          "text": "I said to the wicked: <na>(g)</na> Do not wickedly; and to them that offend: <na>(h)</na> Exalt not the horn.",
           "notes": [
             {
               "label": "g",
@@ -13499,7 +13542,7 @@
           "notes": [
             {
               "label": "k",
-              "text": "Iarose early before the ordinary time of awaking,"
+              "text": "I arose early before the ordinary time of awaking,"
             },
             {
               "label": "l",
@@ -13509,7 +13552,7 @@
         },
         {
           "verse": 6,
-          "text": "Ithought upon old days: and the eternal years I had in mind."
+          "text": "I thought upon old days: and the eternal years I had in mind."
         },
         {
           "verse": 7,
@@ -13517,7 +13560,7 @@
           "notes": [
             {
               "label": "m",
-              "text": "Idiligently examined my conscience."
+              "text": "I diligently examined my conscience."
             }
           ]
         },
@@ -13623,7 +13666,16 @@
           ]
         }
       ],
-      "summary": "Any faithful devout person meditating God's benefits, 7. examineth his conscience, that nothing be in his soul, that may offend God. Who is always ready to forgive: 11. and therefore he still reneweth his purpose to serve God <i>sincerely, 15. particularly remembering the delivery of Israel from Ægypt.</i> <na>[1]</na>"
+      "summary": "Any faithful devout person meditating God's benefits, 7. examineth his conscience, that nothing be in his soul, that may offend God. Who is always ready to forgive: 11. and therefore he still reneweth his purpose to serve God <i>sincerely, 15. particularly remembering the delivery of Israel from Ægypt.</i> <na>[1]</na>",
+      "summary_continuation": {
+        "text": "and therefore he still reneweth his purpose to serve God <i>sincerely, 15. particularly remembering the delivery of Israel from Ægypt.</i> <na>[1]</na>",
+        "notes": [
+          {
+            "label": "1",
+            "text": "God's special protection of the Jews.\nThe 4. key."
+          }
+        ]
+      }
     },
     {
       "chapter": 77,
@@ -14108,6 +14160,10 @@
             {
               "label": "a",
               "text": "The tenth and greatest plague, Exod. <i>11. v. 5. & c. 12. v. 29.</i>"
+            },
+            {
+              "label": "b",
+              "text": "Egyptians also descended from Cham, by his son Mesraim. <i>Gen. 10. v. 6.</i>"
             }
           ]
         },
@@ -14163,7 +14219,7 @@
           "notes": [
             {
               "label": "h",
-              "text": "Acrooked bow deceiveth the archer, so this people failed to serve God, and deceived themselves."
+              "text": "A crooked bow deceiveth the archer, so this people failed to serve God, and deceived themselves."
             }
           ]
         },
@@ -14962,7 +15018,7 @@
         },
         {
           "verse": 6,
-          "text": "Isaid: You are <na>(f)</na> gods, and the sons of the highest all.",
+          "text": "I said: You are <na>(f)</na> gods, and the sons of the highest all.",
           "notes": [
             {
               "label": "f",
@@ -15583,7 +15639,7 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Aprayer <na>(a)</na> to David himself. Incline thine ear, o Lord, & <na>(b)</na> hear me: <na>(c)</na> because I am needy and poor.",
+          "text": "A prayer <na>(a)</na> to David himself. Incline thine ear, o Lord, & <na>(b)</na> hear me: <na>(c)</na> because I am needy and poor.",
           "notes": [
             {
               "label": "a",
@@ -15733,7 +15789,7 @@
           "notes": [
             {
               "label": "s",
-              "text": "Adigression (usual to Prophets) of Christ's Empire & Kingdom the Church, given to him, being the son of an Immaculate Virgin, the handmaid of God."
+              "text": "A digression (usual to Prophets) of Christ's Empire & Kingdom the Church, given to him, being the son of an Immaculate Virgin, the handmaid of God."
             }
           ]
         },
@@ -16366,7 +16422,7 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Aprayer <na>(a)</na> of Moyses the man of God. Lord, thou art made a refuge for us: <na>(b)</na> from generation unto generation.",
+          "text": "A prayer <na>(a)</na> of Moyses the man of God. Lord, thou art made a refuge for us: <na>(b)</na> from generation unto generation.",
           "notes": [
             {
               "label": "a",
@@ -16462,6 +16518,10 @@
           "verse": 10,
           "text": "the days of our years in them are <na>(l)</na> seventy years. And if in strong ones <na>(m)</na> eighty years: and the more of them, labour & sorrow. Because <na>(n)</na> mildness is come upon us: and we shall be chastised.",
           "notes": [
+            {
+              "label": "l",
+              "text": "These numbers literally shew the shortness of the longer sort of men's lives. Mystically, seven signify the rest after labours of this world, and pertain to the old testament: eight signify the reward in the resurrection, pertaining to the new testament. Which multiplied by ten, a perfect number, make seventy and eighty. Which joined together make a hundred and fifty. The number of all these Psalms."
+            },
             {
               "label": "m",
               "text": "See previous note"
@@ -17005,7 +17065,7 @@
           "notes": [
             {
               "label": "1",
-              "text": "Aprayer of just zeal."
+              "text": "A prayer of just zeal."
             }
           ]
         },
@@ -17029,7 +17089,7 @@
           "notes": [
             {
               "label": "1",
-              "text": "Adescription of heathenish and heretical cruelty."
+              "text": "A description of heathenish and heretical cruelty."
             }
           ]
         },
@@ -17615,14 +17675,23 @@
           ]
         }
       ],
-      "summary": "his coming to judge the world. <na>[1]</na>"
+      "summary": "his coming to judge the world. <na>[1]</na>",
+      "summary_continuation": {
+        "text": "his coming to judge the world. <na>[1]</na>",
+        "notes": [
+          {
+            "label": "1",
+            "text": "The Church in all nations.\nThe 6. key."
+          }
+        ]
+      }
     },
     {
       "chapter": 98,
       "verses": [
         {
           "verse": 1,
-          "text": "Apsalm to David himself. Our Lord hath reigned, <na>(a)</na> let peoples be angry: he that sitteth upon the Cherubs, let <na>(b)</na> the earth be moved.",
+          "text": "A psalm to David himself. Our Lord hath reigned, <na>(a)</na> let peoples be angry: he that sitteth upon the Cherubs, let <na>(b)</na> the earth be moved.",
           "notes": [
             {
               "label": "a",
@@ -17674,6 +17743,14 @@
             {
               "label": "f",
               "text": "Here it is evident (and S. Augustin saith this place taketh away all doubt) that Moyses was a Priest, against those that for maintaining the heresy of Lay-headship, deny it."
+            },
+            {
+              "label": "1",
+              "text": "q. 23. in Levit."
+            },
+            {
+              "label": "g",
+              "text": "By example of their praying and obtaining; the Psalmist confirmeth his prophecy, that Priests of the new Testament shall pray, and obtain mercy of Christ for the Church."
             }
           ]
         },
@@ -17807,7 +17884,7 @@
         },
         {
           "verse": 4,
-          "text": "Aperverse heart hath not cleaved to me: the malignant declining from me I knew not."
+          "text": "A perverse heart hath not cleaved to me: the malignant declining from me I knew not."
         },
         {
           "verse": 5,
@@ -18641,7 +18718,7 @@
           "notes": [
             {
               "label": "w",
-              "text": "Aprediction that impenitent sinners shall be damned, wherein the Prophet conforming his will to God's, uttereth it in form of a prayer."
+              "text": "A prediction that impenitent sinners shall be damned, wherein the Prophet conforming his will to God's, uttereth it in form of a prayer."
             }
           ]
         }
@@ -18663,7 +18740,7 @@
           "notes": [
             {
               "label": "a",
-              "text": "Alleluia signifieth more than Laudate Dominum, Praise ye our Lord. For by these two Hebrew words, Alleluia, the Prophet inviteth all men to praise God, with gladness, and jubilation, with heart, voice, and gesture, with instruments, and howsoever we are able. And therefore S. Jerom, S. Augustin, and all Catholic writers keep the same words, and translate it not, neither in the titles of Psalms, nor ordinarily in any place or holy Scripture. This is the first Psalm thus titled, and is the same Psalm in sense, and in good part of the words, which the Royal Prophet made, and caused to be sung, when he brought the Ark of God from the house of Obededom into his own house. 1. Par. 16. v. 8."
+              "text": "Alleluia signifieth more than Laudate Dominum, Praise ye our Lord. For by these two Hebrew words, Alleluia, the Prophet inviteth all men to praise God, with gladness, and jubilation, with heart, voice, and gesture, with instruments, and howsoever we are able. And therefore S. Jerome, S. Augustin, and all Catholic writers keep the same words, and translate it not, neither in the titles of Psalms, nor ordinarily in any place or holy Scripture. This is the first Psalm thus titled, and is the same Psalm in sense, and in good part of the words, which the Royal Prophet made, and caused to be sung, when he brought the Ark of God from the house of Obededom into his own house. 1. Par. 16. v. 8."
             },
             {
               "label": "b",
@@ -18811,6 +18888,10 @@
             {
               "label": "h",
               "text": "Ægypt, possessed by Mesraim Cham's second son. Gen. <i>10. v. 13.</i>"
+            },
+            {
+              "label": "1",
+              "text": "Gen 46."
             }
           ]
         },
@@ -19015,6 +19096,10 @@
             {
               "label": "a",
               "text": "God is of himself and essentially good. All other goodness is participated of him."
+            },
+            {
+              "label": "1",
+              "text": "Judith 13. v. 21."
             }
           ]
         },
@@ -19682,7 +19767,7 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Acanticle <na>(a)</na> of Psalm, to David himself.",
+          "text": "A canticle <na>(a)</na> of Psalm, to David himself.",
           "notes": [
             {
               "label": "a",
@@ -19828,7 +19913,7 @@
           "notes": [
             {
               "label": "d",
-              "text": "Aprediction that Judas would not make recourse to any good counseller, but complain of his miserable tormented conscience to the wicked, who gave him no comfort at all,"
+              "text": "A prediction that Judas would not make recourse to any good counseller, but complain of his miserable tormented conscience to the wicked, who gave him no comfort at all,"
             },
             {
               "label": "e",
@@ -20765,7 +20850,7 @@
         },
         {
           "verse": 2,
-          "text": "Isaid <na>(d)</na> in mine excess: Every man is a liar.",
+          "text": "I said <na>(d)</na> in mine excess: Every man is a liar.",
           "notes": [
             {
               "label": "d",
@@ -20777,6 +20862,10 @@
           "verse": 3,
           "text": "What <na>(e)</na> shall I render to our Lord, for all things that he <na>(f)</na> hath rendered to me?",
           "notes": [
+            {
+              "label": "e",
+              "text": "Considering that God hath not only given, and bestowed many great benefits upon me, and all mankind, but also hath rendered good for evil, mercy for our sins, we have rendered evil for good: what now shall I render, saith a true penitent, for all that he hath thus rendered to me, deserving so evil?"
+            },
             {
               "label": "f",
               "text": "See previous note"
@@ -21048,7 +21137,7 @@
         },
         {
           "verse": 17,
-          "text": "Ishall not die, but shall live: and I will tell the works of our Lord."
+          "text": "I shall not die, but shall live: and I will tell the works of our Lord."
         },
         {
           "verse": 18,
@@ -21338,7 +21427,7 @@
           "notes": [
             {
               "label": "f",
-              "text": "Agrateful aspiration praising God."
+              "text": "A grateful aspiration praising God."
             },
             {
               "label": "g",
@@ -21450,7 +21539,7 @@
           "notes": [
             {
               "label": "h",
-              "text": "Iconsider that thou, o God, dost sharply reprove the proud contemners of thy commandments:"
+              "text": "I consider that thou, o God, dost sharply reprove the proud contemners of thy commandments:"
             },
             {
               "label": "i",
@@ -21954,7 +22043,7 @@
           "notes": [
             {
               "label": "h",
-              "text": "Agreat benefit, and a singular consolation, that all true living members of Christ, are partakers of all the prayers, good works, and merits, of the whole Church militant and triumphant. Which in our Creed is called, The Communion of Saints."
+              "text": "A great benefit, and a singular consolation, that all true living members of Christ, are partakers of all the prayers, good works, and merits, of the whole Church militant and triumphant. Which in our Creed is called, The Communion of Saints."
             }
           ]
         },
@@ -22068,7 +22157,7 @@
           "notes": [
             {
               "label": "n",
-              "text": "Aclear comparison, that it is better to keep God's law, which bringeth life everlasting, than to have all the riches & Kingdoms of this world."
+              "text": "A clear comparison, that it is better to keep God's law, which bringeth life everlasting, than to have all the riches & Kingdoms of this world."
             }
           ]
         },
@@ -22472,7 +22561,7 @@
           "notes": [
             {
               "label": "d",
-              "text": "Ageneral and very fit prayer, when we addict ourselves by a firm resolution to serve God, beseeching him to receive us into his protection:"
+              "text": "A general and very fit prayer, when we addict ourselves by a firm resolution to serve God, beseeching him to receive us into his protection:"
             },
             {
               "label": "e",
@@ -23099,7 +23188,7 @@
       "articles": [
         {
           "title": "GENERAL ANNOTATIONS UPON THIS CXVIII. PSALM.",
-          "text": "As this Psalm is the longest in the whole Psalter, so it seemeth to the ancient Fathers most profound in sense. And so much the harder to be understood, because also the very hardness <mn>[1]</mn> thereof lieth hidden, which in diverse other Psalms and parts of holy Scripture, easily appeareth to the reader. But here the words being clear, and the sense also plain and easy in some points of doctrine, yet the more diligence is employed, the more difficulty is found in searching the whole sense and meaning of every word and sentence, with the manner observed in composing it, and the frequent repetition of the same or like words. All which maturely considered caused that great Clerk, and light of the Church Saint Augustin, to omit this Psalm, when he explicated all the <mn>[2]</mn> rest. And when at last he added also this, he wittingly omitted one special difficulty, which he doubted not to be contained in the manner of composing it, not only by order of the Hebrew Alphabet, as diverse more Psalms, and some other parts of holy Scripture, but more artificially than any other, the first eight verses all beginning with the first letter Aleph; the next eight, with the second letter Beth: and so to the last of the two and twenty letters. Of which omission he yieldeth this only reason, because he found nothing (as he humbly affirmeth) that might properly pertain thereunto. Confessing also expressly, that whensoever he applied his cogitations to expound the text it-self, it always exceeded his hability. But finally to satisfy the often and earnest request of his brethren and friends, trusting (as always) in God's special help, he largely expoundeth it, in thirty two distinct Sermons. <mn>[3]</mn>\n\nS. Ambrose, also moved with like piety, made two and twenty Sermons in exposition of this <mn>[4]</mn> Psalm. Affirming in his Prologue, that amongst other Psalms, especially this sheweth how great a master King David was of moral good life. For all Moral doctrine, being of his own nature sweet, yet most delighteth the ears, and gently toucheth the mind, being uttered, as here it is, with pleasantness of verse, and sweetness of song. Again whereas this Royal Prophet in many places of this book poureth out sentences of moral Psalms or songs, as bright stars, that shine and <mn>[5]</mn> glister to all the world, here most excellently he produceth a more singular mirror, as the sun, of full light, burning with meridian heat. And for the profit of all, the better to draw our <mn>[6]</mn> attentions, to learn that we may, though we cannot attain to all that we would, he disposed this Psalm through all the Alphabet: that as children beginning with the first letters, make entrance to further knowledge; so by the same beginnings we should lay the first foundation, and thereupon proceed in our spiritual building, towards perfection in good life, the true service of God. Which is yet further insinuated (as the same Doctor teacheth) by the eight verses continually beginning with the same letter, and so other eight in order through the whole Alphabet, to signify that <mn>[7]</mn> after seven days travail in this temporal life, we may come to that unity, which we expected in the eighth day of resurrection, when we hope to rise revived in our Lord Jesus, in newness of eternal life.\n\nLikewise Saint Basil in the Argument of this Psalm admonisheth, that whereas holy David, <mn>◦</mn> according to diverse states, which he passed, writ diverse Psalms: as when he fled from his enemies, when he lamented his distresses, mourned in pensiveness, enjoyed peace and comfort, ran a right course of virtue, fell from God by sin, & again returning observed God's laws; in this one Psalm he comprehendeth all his prayers made to God at sundry times, & here proposeth the same, a certain profitable moral doctrine, to all sorts and states of men. Neither doth he pretermit doctrinal points of faith, but interposeth them also with moral documents, in such sort, that this one Psalm may suffice to teach the well disposed, how to attain to perfection in virtue, to stir up the slothful unto diligent care of their souls, to recreate the desolate with spiritual consolations, & briefly it administereth all kind of medicine to the diverse passions of mortal men.\n\nFor the like judgements of other Fathers we remit the learned reader, to Saint Hilary, <mn>[8]</mn> Theodoret, Prosper, Arnobius, Cassiodorus, Beda, Euthymius, and others, but cannot well omit a brief instruction of S. Jerom. Who in his Epistle to Paula Urbica: not only sheweth the interpretation of the two and twenty letters, but also explicateth their sense in this place, by connecting them into certain short sentences, in this manner: <mn>[9]</mn>\n\n\n\nWhich is the first connection, signifying that the doctrine of the house, that is the Church of God, is found in the fullness of divine books.\nThe second connection is:\n\n\n\nFor what other life can there be without knowledge of Scriptures? Whereby also Christ is known, who is the life of them that believe in him.\nThe third connection is: <mn>◦</mn>\n\n\n\nAlbeit we now could know all things which are written, yet we know but in part, and in part we prophesy: for we see now by a glass, in a dark sort, but when we shall be worthy to be with <mn>[10]</mn> Christ, and shall be like to Angels, then doctrine of books shall cease, & then we shall see face to face the Good Beginning, even as he is. <mn>[11]</mn>\n\nThe fourth connection is: <mn>◦</mn>\n\n\n\nThe hands are understood in work, heart and discipline are understood in sense or meaning, because we cannot rightly do any thing, unless we first know what things are to be done. The fifth connection is:\n\n\n\nThis needeth not explication, for it is manifest as the light, that from Scriptures are eternal helps. The sixth connection is:\n\n\n\nAccording to that which we have expounded in the fourth connection: that deeds & intention must concur.\nThe seventh connection which is last, in which number of seven is also mystical understanding:\n\n\n\nDistinct voice is produced by the teeth, & in these signs we come to the Head of all which is Christ, by whom we have access to the everlasting Kingdom.\nOr thus (not transposing the words) By vocation of Christ the Head, through distinct voice of signs (for words are signs shewing the mind) we are conducted to the eternal Kingdom, the happiness which all men desire.\nWhat I pray thee (saith this holy Doctor) is more sacred than this mystery, what more pleasant than this delight? What meat, & what honey are sweeter, than to know God's wisdom; to enter into his secret closet; to behold the sense of our Creator; and to teach the words of thy Lord God, full of spiritual wisdom, which are derided by the wise of this world.\nWe must also advertise the reader of the like discourses of ancient Fathers (over long to be here recited) concerning the manifold high praises of God's Law, contained in this Psalm, with <mn>[12]</mn> frequent repetition of certain Synonyma words signifying the same thing, in all fourteen, to wit: The Law of God, his Ways, Testimonies, Commandments, Precepts, Statutes, Justifications, <mn>[13]</mn> Judgements, Justice, Equity, Verity, Words, Speeches, & Sermons: of which there is commonly one, in every verse, & sometimes two or three in the same verse. But our English tongue hardly sufficing rightly, to distinguish the three last, which in Latin are Verba, Eloquia, Sermones, we translate WORDS only, adding in the margin, Eloquia, and Sermones, when they occur.\n\nLeaving therefore larger commentaries to others; we shall prosecute our wonted manner of brief glosses. Only here premonishing the diligent readers, especially Clergyman (ourselves and our brethren) who every day sing or read this whole Psalm in the Canonical hours, to observe two particular points of Christian doctrine, evidently proved by many places of this Psalm. The one against the Pelagians' heresy, denying the necessity of God's special grace in meritorious works. For the Psalmist often here inculcateth man's insufficiency, that of himself, and by natural <mn>[14]</mn> forces, he cannot keep the commandments of God, but needeth always the particular grace of God, as well to believe in him, to repent for sins, and to begin good works; as to proceed, and persevere in good state to the end. The other against the heresy of our time, denying merit by grace & freewill. For here it is also manifest, that God's grace maketh man able, to keep his <mn>[15]</mn> commandments, and by keeping them to become just in this life, and so to merit eternal glory. Sundry other principal Articles of Christian Catholic Religion are likewise comprised in this one Psalm: but especially Moral doctrine.",
+          "text": "As this Psalm is the longest in the whole Psalter, so it seemeth to the ancient Fathers most profound in sense. And so much the harder to be understood, because also the very hardness <mn>[1]</mn> thereof lieth hidden, which in diverse other Psalms and parts of holy Scripture, easily appeareth to the reader. But here the words being clear, and the sense also plain and easy in some points of doctrine, yet the more diligence is employed, the more difficulty is found in searching the whole sense and meaning of every word and sentence, with the manner observed in composing it, and the frequent repetition of the same or like words. All which maturely considered caused that great Clerk, and light of the Church Saint Augustin, to omit this Psalm, when he explicated all the <mn>[2]</mn> rest. And when at last he added also this, he wittingly omitted one special difficulty, which he doubted not to be contained in the manner of composing it, not only by order of the Hebrew Alphabet, as diverse more Psalms, and some other parts of holy Scripture, but more artificially than any other, the first eight verses all beginning with the first letter Aleph; the next eight, with the second letter Beth: and so to the last of the two and twenty letters. Of which omission he yieldeth this only reason, because he found nothing (as he humbly affirmeth) that might properly pertain thereunto. Confessing also expressly, that whensoever he applied his cogitations to expound the text it-self, it always exceeded his hability. But finally to satisfy the often and earnest request of his brethren and friends, trusting (as always) in God's special help, he largely expoundeth it, in thirty two distinct Sermons. <mn>[3]</mn>\n\nS. Ambrose, also moved with like piety, made two and twenty Sermons in exposition of this <mn>[4]</mn> Psalm. Affirming in his Prologue, that amongst other Psalms, especially this sheweth how great a master King David was of moral good life. For all Moral doctrine, being of his own nature sweet, yet most delighteth the ears, and gently toucheth the mind, being uttered, as here it is, with pleasantness of verse, and sweetness of song. Again whereas this Royal Prophet in many places of this book poureth out sentences of moral Psalms or songs, as bright stars, that shine and <mn>[5]</mn> glister to all the world, here most excellently he produceth a more singular mirror, as the sun, of full light, burning with meridian heat. And for the profit of all, the better to draw our <mn>[6]</mn> attentions, to learn that we may, though we cannot attain to all that we would, he disposed this Psalm through all the Alphabet: that as children beginning with the first letters, make entrance to further knowledge; so by the same beginnings we should lay the first foundation, and thereupon proceed in our spiritual building, towards perfection in good life, the true service of God. Which is yet further insinuated (as the same Doctor teacheth) by the eight verses continually beginning with the same letter, and so other eight in order through the whole Alphabet, to signify that <mn>[7]</mn> after seven days travail in this temporal life, we may come to that unity, which we expected in the eighth day of resurrection, when we hope to rise revived in our Lord Jesus, in newness of eternal life.\n\nLikewise Saint Basil in the Argument of this Psalm admonisheth, that whereas holy David, <mn>◦</mn> according to diverse states, which he passed, writ diverse Psalms: as when he fled from his enemies, when he lamented his distresses, mourned in pensiveness, enjoyed peace and comfort, ran a right course of virtue, fell from God by sin, & again returning observed God's laws; in this one Psalm he comprehendeth all his prayers made to God at sundry times, & here proposeth the same, a certain profitable moral doctrine, to all sorts and states of men. Neither doth he pretermit doctrinal points of faith, but interposeth them also with moral documents, in such sort, that this one Psalm may suffice to teach the well disposed, how to attain to perfection in virtue, to stir up the slothful unto diligent care of their souls, to recreate the desolate with spiritual consolations, & briefly it administereth all kind of medicine to the diverse passions of mortal men.\n\nFor the like judgements of other Fathers we remit the learned reader, to Saint Hilary, <mn>[8]</mn> Theodoret, Prosper, Arnobius, Cassiodorus, Beda, Euthymius, and others, but cannot well omit a brief instruction of S. Jerome. Who in his Epistle to Paula Urbica: not only sheweth the interpretation of the two and twenty letters, but also explicateth their sense in this place, by connecting them into certain short sentences, in this manner: <mn>[9]</mn>\n\n\n\nWhich is the first connection, signifying that the doctrine of the house, that is the Church of God, is found in the fullness of divine books.\nThe second connection is:\n\n\n\nFor what other life can there be without knowledge of Scriptures? Whereby also Christ is known, who is the life of them that believe in him.\nThe third connection is: <mn>◦</mn>\n\n\n\nAlbeit we now could know all things which are written, yet we know but in part, and in part we prophesy: for we see now by a glass, in a dark sort, but when we shall be worthy to be with <mn>[10]</mn> Christ, and shall be like to Angels, then doctrine of books shall cease, & then we shall see face to face the Good Beginning, even as he is. <mn>[11]</mn>\n\nThe fourth connection is: <mn>◦</mn>\n\n\n\nThe hands are understood in work, heart and discipline are understood in sense or meaning, because we cannot rightly do any thing, unless we first know what things are to be done. The fifth connection is:\n\n\n\nThis needeth not explication, for it is manifest as the light, that from Scriptures are eternal helps. The sixth connection is:\n\n\n\nAccording to that which we have expounded in the fourth connection: that deeds & intention must concur.\nThe seventh connection which is last, in which number of seven is also mystical understanding:\n\n\n\nDistinct voice is produced by the teeth, & in these signs we come to the Head of all which is Christ, by whom we have access to the everlasting Kingdom.\nOr thus (not transposing the words) By vocation of Christ the Head, through distinct voice of signs (for words are signs shewing the mind) we are conducted to the eternal Kingdom, the happiness which all men desire.\nWhat I pray thee (saith this holy Doctor) is more sacred than this mystery, what more pleasant than this delight? What meat, & what honey are sweeter, than to know God's wisdom; to enter into his secret closet; to behold the sense of our Creator; and to teach the words of thy Lord God, full of spiritual wisdom, which are derided by the wise of this world.\nWe must also advertise the reader of the like discourses of ancient Fathers (over long to be here recited) concerning the manifold high praises of God's Law, contained in this Psalm, with <mn>[12]</mn> frequent repetition of certain Synonyma words signifying the same thing, in all fourteen, to wit: The Law of God, his Ways, Testimonies, Commandments, Precepts, Statutes, Justifications, <mn>[13]</mn> Judgements, Justice, Equity, Verity, Words, Speeches, & Sermons: of which there is commonly one, in every verse, & sometimes two or three in the same verse. But our English tongue hardly sufficing rightly, to distinguish the three last, which in Latin are Verba, Eloquia, Sermones, we translate WORDS only, adding in the margin, Eloquia, and Sermones, when they occur.\n\nLeaving therefore larger commentaries to others; we shall prosecute our wonted manner of brief glosses. Only here premonishing the diligent readers, especially Clergyman (ourselves and our brethren) who every day sing or read this whole Psalm in the Canonical hours, to observe two particular points of Christian doctrine, evidently proved by many places of this Psalm. The one against the Pelagians' heresy, denying the necessity of God's special grace in meritorious works. For the Psalmist often here inculcateth man's insufficiency, that of himself, and by natural <mn>[14]</mn> forces, he cannot keep the commandments of God, but needeth always the particular grace of God, as well to believe in him, to repent for sins, and to begin good works; as to proceed, and persevere in good state to the end. The other against the heresy of our time, denying merit by grace & freewill. For here it is also manifest, that God's grace maketh man able, to keep his <mn>[15]</mn> commandments, and by keeping them to become just in this life, and so to merit eternal glory. Sundry other principal Articles of Christian Catholic Religion are likewise comprised in this one Psalm: but especially Moral doctrine.",
           "notes": [
             {
               "marker": 1,
@@ -23155,7 +23244,7 @@
             },
             {
               "marker": "◦",
-              "text": "Most of these letters have also other significations. And are diversely explicated by S. Ambrose, S. Beda, and others. Whereby we may learn (though we understand no more) that holy Scriptures are full of mysteries (as S. Jerom calleth this) & hard to be understood."
+              "text": "Most of these letters have also other significations. And are diversely explicated by S. Ambrose, S. Beda, and others. Whereby we may learn (though we understand no more) that holy Scriptures are full of mysteries (as S. Jerome calleth this) & hard to be understood."
             },
             {
               "marker": 12,
@@ -23182,7 +23271,7 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Agradual Canticle. When I was in tribulation I cried to our Lord: and <na>(a)</na> he heard me.",
+          "text": "A gradual Canticle. When I was in tribulation I cried to our Lord: and <na>(a)</na> he heard me.",
           "notes": [
             {
               "label": "a",
@@ -23286,7 +23375,7 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Agradual Canticle. I have lifted up mine eyes unto <na>(a)</na> the mountains, <na>(b)</na> from whence help shall come to me.",
+          "text": "A gradual Canticle. I have lifted up mine eyes unto <na>(a)</na> the mountains, <na>(b)</na> from whence help shall come to me.",
           "notes": [
             {
               "label": "a",
@@ -23361,7 +23450,7 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Agradual Canticle. I rejoiced in these things, which <na>(a)</na> were said to me: We shall go into the house of our Lord.",
+          "text": "A gradual Canticle. I rejoiced in these things, which <na>(a)</na> were said to me: We shall go into the house of our Lord.",
           "notes": [
             {
               "label": "a",
@@ -23477,7 +23566,7 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Agradual Canticle. To thee have I lifted up mine eyes, which dwellest in the heavens."
+          "text": "A gradual Canticle. To thee have I lifted up mine eyes, which dwellest in the heavens."
         },
         {
           "verse": 2,
@@ -23520,7 +23609,7 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Agradual Canticle. But that our Lord <na>(a)</na> was in us, let Israel now say,",
+          "text": "A gradual Canticle. But that our Lord <na>(a)</na> was in us, let Israel now say,",
           "notes": [
             {
               "label": "a",
@@ -23604,7 +23693,7 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Agradual Canticle. They <na>(a)</na> that trust in our Lord, as mount Sion: he shall not be moved for ever <na>(b)</na> that dwelleth",
+          "text": "A gradual Canticle. They <na>(a)</na> that trust in our Lord, as mount Sion: he shall not be moved for ever <na>(b)</na> that dwelleth",
           "notes": [
             {
               "label": "a",
@@ -23646,7 +23735,11 @@
           "notes": [
             {
               "label": "e",
-              "text": "And no less assuredly God will punish not only the notorious wicked, and principal Authors of wickedness, but"
+              "text": "And no less assuredly God will punish not only the notorious wicked, and principal Authors of wickedness, but also all those that for fear or for commodity, or for any other cause, decline into obligations, bonds, covenants, or any way consent in external shew with the wicked against God: as in outward profession of Heresy, or Schism, though such temporizers do not think in their heart, that the pretended religion is true, whereto they are drawn to yield external conformity. For, as the Psalmist here teacheth, our Lord will bring all such accessory offenders, to the same judgement and punishment, with the principal workers of iniquity."
+            },
+            {
+              "label": "f",
+              "text": "All which being punished, then Jerusalem, the Catholic Church, shall have peace."
             }
           ]
         }
@@ -23657,7 +23750,7 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Agradual Canticle. When our Lord turned the captivity of Sion: we were made as <na>(a)</na> men comforted.",
+          "text": "A gradual Canticle. When our Lord turned the captivity of Sion: we were made as <na>(a)</na> men comforted.",
           "notes": [
             {
               "label": "a",
@@ -23731,7 +23824,7 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Agradual Canticle <na>(a)</na> of Salomon. Unless <na>(b)</na> our Lord build the house, they have laboured in vain that build it. Unless our Lord keep the city, he watcheth in vain that keepeth it.",
+          "text": "A gradual Canticle <na>(a)</na> of Salomon. Unless <na>(b)</na> our Lord build the house, they have laboured in vain that build it. Unless our Lord keep the city, he watcheth in vain that keepeth it.",
           "notes": [
             {
               "label": "a",
@@ -23826,7 +23919,7 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Agradual Canticle. Blessed are all that fear our Lord, that walk in his ways."
+          "text": "A gradual Canticle. Blessed are all that fear our Lord, that walk in his ways."
         },
         {
           "verse": 2,
@@ -23882,7 +23975,7 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Agradual Canticle. <na>(a)</na> Often have they impugned me <na>(b)</na> from my youth, let Israel now say:",
+          "text": "A gradual Canticle. <na>(a)</na> Often have they impugned me <na>(b)</na> from my youth, let Israel now say:",
           "notes": [
             {
               "label": "a",
@@ -23961,7 +24054,7 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Agradual Canticle. From <na>(a)</na> the depths I have cried to thee, o Lord:",
+          "text": "A gradual Canticle. From <na>(a)</na> the depths I have cried to thee, o Lord:",
           "notes": [
             {
               "label": "a",
@@ -24045,7 +24138,7 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Agradual Canticle of <na>(a)</na> David. Lord my heart is not exalted: <na>(b)</na> neither are mine eyes lofty. Neither have I walked in great matters: nor in marvelous things above me.",
+          "text": "A gradual Canticle of <na>(a)</na> David. Lord my heart is not exalted: <na>(b)</na> neither are mine eyes lofty. Neither have I walked in great matters: nor in marvelous things above me.",
           "notes": [
             {
               "label": "a",
@@ -24095,7 +24188,7 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Agradual Canticle. Remember <na>(a)</na> David, o Lord, and all his meekness:",
+          "text": "A gradual Canticle. Remember <na>(a)</na> David, o Lord, and all his meekness:",
           "notes": [
             {
               "label": "a",
@@ -24296,7 +24389,7 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Agradual Canticle <na>(a)</na> of David. Behold <na>(b)</na> how good and how pleasant a thing it is, for brethren to dwell in one.",
+          "text": "A gradual Canticle <na>(a)</na> of David. Behold <na>(b)</na> how good and how pleasant a thing it is, for brethren to dwell in one.",
           "notes": [
             {
               "label": "a",
@@ -24358,7 +24451,7 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Agradual Canticle. Lo <na>(a)</na> now bless our Lord, all ye the servants of our Lord: Which stand in the house of our Lord, in the courts of the house of our God.",
+          "text": "A gradual Canticle. Lo <na>(a)</na> now bless our Lord, all ye the servants of our Lord: Which stand in the house of our Lord, in the courts of the house of our God.",
           "notes": [
             {
               "label": "a",
@@ -25105,7 +25198,7 @@
             },
             {
               "label": "r",
-              "text": "Irenounce all wicked association, get ye away from me all cruel bloody men, that would draw me into everlasting torments."
+              "text": "I renounce all wicked association, get ye away from me all cruel bloody men, that would draw me into everlasting torments."
             }
           ]
         },
@@ -25571,7 +25664,7 @@
             },
             {
               "label": "m",
-              "text": "Idesire to be out of this desert place, and to be in the land, where is right use of religious divine service."
+              "text": "I desire to be out of this desert place, and to be in the land, where is right use of religious divine service."
             }
           ]
         },
@@ -25743,7 +25836,16 @@
           "text": "and in thy mercy thou wilt destroy mine enemies. And thou wilt destroy all that afflict my soul: because I am thy servant."
         }
       ],
-      "summary": "to be speedily delivered; 11. and confidently assureth <i>himself thereof.</i> <na>[1]</na>"
+      "summary": "to be speedily delivered; 11. and confidently assureth <i>himself thereof.</i> <na>[1]</na>",
+      "summary_continuation": {
+        "text": "to be speedily delivered; 11. and confidently assureth <i>himself thereof.</i> <na>[1]</na>",
+        "notes": [
+          {
+            "label": "1",
+            "text": "The seventh penitential Psalm.\nThe 7. key."
+          }
+        ]
+      }
     },
     {
       "chapter": 143,
@@ -25998,6 +26100,7 @@
         {
           "verse": 13,
           "text": "Thy kingdom is a kingdom <na>(h)</na> of all worlds: and thy dominion in all generation and generation. Our Lord is faithful in all his words, and holy in all his works.",
+          "has_annotation": true,
           "notes": [
             {
               "label": "h",
@@ -26008,7 +26111,6 @@
         {
           "verse": 14,
           "text": "Our Lord <na>(i)</na> lifteth up all that fall: and setteth up all that are bruised.",
-          "has_annotation": true,
           "notes": [
             {
               "label": "i",
@@ -26148,7 +26250,7 @@
           "notes": [
             {
               "label": "b",
-              "text": "Aprophecy of the restoration of Jerusalem after the captivity."
+              "text": "A prophecy of the restoration of Jerusalem after the captivity."
             }
           ]
         },

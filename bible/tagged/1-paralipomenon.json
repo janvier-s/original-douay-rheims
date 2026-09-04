@@ -100,7 +100,7 @@
         },
         {
           "verse": 16,
-          "text": "The Aradium also, and the Samarite, & the Hamathite."
+          "text": "The A radium also, and the Samarite, & the Hamathite."
         },
         {
           "verse": 17,
@@ -1391,7 +1391,7 @@
             },
             {
               "label": "c",
-              "text": "<i>Ishod, Virum decorum,</i> that is, A comely, personable, or goodly man. So we leave the Hebrew names in this place because S. Jerom, and the whole Church doth so in the Latin text, which we translate."
+              "text": "<i>Ishod, Virum decorum,</i> that is, A comely, personable, or goodly man. So we leave the Hebrew names in this place because S. Jerome, and the whole Church doth so in the Latin text, which we translate."
             }
           ]
         },
@@ -2358,7 +2358,10 @@
           "text": "Therefore the Ark of God remained in the house of Obededom three months: & our Lord blessed his house, and all things that he had."
         }
       ],
-      "summary": "The Ark is brought from Abinadab's house, 8. David and others dancing before it. 9. Oza for touching it is strucken dead. 13. Whereupon David fearing to bring it to Jerusalem, it remaineth three months in the house of Obededom."
+      "summary": "The Ark is brought from Abinadab's house, 8. David and others dancing before it. 9. Oza for touching it is strucken dead. 13. Whereupon David fearing to bring it to Jerusalem, it remaineth three months in the house of Obededom.",
+      "summary_continuation": {
+        "text": "Obededom."
+      }
     },
     {
       "chapter": 14,
@@ -3104,7 +3107,17 @@
       "verses": [
         {
           "verse": 1,
-          "text": "But <na>(a)[1]</na> Satan rose against Israel: and moved David to number Israel."
+          "text": "But <na>(a)[1]</na> Satan rose against Israel: and moved David to number Israel.",
+          "notes": [
+            {
+              "label": "a",
+              "text": "By God's permission David was tempted and overcome. <i>2. Reg. 24.</i>"
+            },
+            {
+              "label": "1",
+              "text": "2. Reg. 24."
+            }
+          ]
         },
         {
           "verse": 2,
@@ -3607,7 +3620,10 @@
           "text": "And they also did cast lots against their brethren the sons of Aaron before David the king, and Sadoc, and Ahimelech, and the Princes of the Priestly and Levitical families, as well the elder as the younger. Lot divided all equally."
         }
       ],
-      "summary": "King David disposeth sixteen families of Eleazar, and eight of Ithamar, 7. by lots, 19. to serve in the Temple, according to their Priestly function, 20. likewise principal <i>Levites in their offices.</i>"
+      "summary": "King David disposeth sixteen families of Eleazar, and eight of Ithamar, 7. by lots, 19. to serve in the Temple, according to their Priestly function, 20. likewise principal <i>Levites in their offices.</i>",
+      "summary_continuation": {
+        "text": "according to their Priestly function, 20. likewise principal <i>Levites in their offices.</i>"
+      }
     },
     {
       "chapter": 25,
@@ -4153,7 +4169,10 @@
           "text": "Behold the divisions of the Priests and the Levites, for every ministry of the house of our Lord, assist thee, and are ready, and as well the Princes know, as the people, to do all thy precepts."
         }
       ],
-      "summary": "Again king David calling all his states together, with commemoration of God's singular favour in electing him, and Salomon, 8. exhorteth them all, and namely his son to serve God sincerely: 10. and to build the temple, <i>describing in what form to make it.</i>"
+      "summary": "Again king David calling all his states together, with commemoration of God's singular favour in electing him, and Salomon, 8. exhorteth them all, and namely his son to serve God sincerely: 10. and to build the temple, <i>describing in what form to make it.</i>",
+      "summary_continuation": {
+        "text": "to serve God sincerely: 10. and to build the temple, <i>describing in what form to make it.</i>"
+      }
     },
     {
       "chapter": 29,

@@ -575,6 +575,7 @@
         {
           "verse": 10,
           "text": "Then <sc>Jesus</sc> saith to him: Avaunt Satan; for it is written, <cr>[1]</cr> <i>The Lord thy God shalt thou adore, and him only shalt thou serve.</i>",
+          "has_annotation": true,
           "cross_refs": [
             {
               "text": "Deu. 6, 13."
@@ -583,8 +584,7 @@
         },
         {
           "verse": 11,
-          "text": "Then the devil left him; and behold Angels came, and ministered to him.",
-          "has_annotation": true
+          "text": "Then the devil left him; and behold Angels came, and ministered to him."
         },
         {
           "verse": 12,
@@ -1354,7 +1354,7 @@
         },
         {
           "verse": 18,
-          "text": "Agood tree cannot yield evil fruits, neither an evil tree yield good fruits."
+          "text": "A good tree cannot yield evil fruits, neither an evil tree yield good fruits."
         },
         {
           "verse": 19,
@@ -1758,12 +1758,12 @@
         },
         {
           "verse": 19,
-          "text": "And <sc>Jesus</sc> rising up followed him, and his Disciples.",
-          "has_annotation": true
+          "text": "And <sc>Jesus</sc> rising up followed him, and his Disciples."
         },
         {
           "verse": 20,
-          "text": "And behold a woman which was troubled with an issue of blood twelve years, came behind him, and touched the hem of his garment."
+          "text": "And behold a woman which was troubled with an issue of blood twelve years, came behind him, and touched the hem of his garment.",
+          "has_annotation": true
         },
         {
           "verse": 21,
@@ -2039,7 +2039,7 @@
           "notes": [
             {
               "label": "1",
-              "text": "Agoodly comfort for Christians and Catholics and all good men, in the persecutions of Turk, of Heretics, of all wicked men."
+              "text": "A goodly comfort for Christians and Catholics and all good men, in the persecutions of Turk, of Heretics, of all wicked men."
             }
           ]
         },
@@ -2141,7 +2141,10 @@
           ]
         }
       ],
-      "summary": "He giveth to the Twelve the power of Miracles, and so sendeth them to the lost sheep of the Jews. 5. with instructions accordingly: 10. and by occasion of the sending foretelleth of the persecutions after his Ascension, arming them and all other against the same, 40. and also exhorting the people to harbour his servants in such times of persecution."
+      "summary": "He giveth to the Twelve the power of Miracles, and so sendeth them to the lost sheep of the Jews. 5. with instructions accordingly: 10. and by occasion of the sending foretelleth of the persecutions after his Ascension, arming them and all other against the same, 40. and also exhorting the people to harbour his servants in such times of persecution.",
+      "summary_continuation": {
+        "text": "in such times of persecution."
+      }
     },
     {
       "chapter": 11,
@@ -2256,7 +2259,6 @@
         {
           "verse": 18,
           "text": "For <cr>[1]</cr> John came neither eating nor drinking; and they say: He hath a devil.",
-          "has_annotation": true,
           "cross_refs": [
             {
               "text": "Mt. 3, 4."
@@ -2265,7 +2267,8 @@
         },
         {
           "verse": 19,
-          "text": "The Son of man came eating and drinking, and they say: Behold a man that is a glutton and a wine-drinker, a friend of Publicans and sinners. And wisdom is justified of her children."
+          "text": "The Son of man came eating and drinking, and they say: Behold a man that is a glutton and a wine-drinker, a friend of Publicans and sinners. And wisdom is justified of her children.",
+          "has_annotation": true
         },
         {
           "verse": 20,
@@ -2331,7 +2334,10 @@
           "has_annotation": true
         }
       ],
-      "summary": "John the Baptist in prison also doing his diligence, sendeth some of his disciples to Christ: that as they heard, so they might also see his miracles with their eyes. 7 Afterward Christ declareth how worthy of credit John's testimony was: 16 and inveigheth against the Jews, who with neither of their manners of life could be won: 20 no nor with Christ's infinite miracles: 25 praying God's wisdom in this behalf, 27 and calling to himself all <i>such as feel their own burdens.</i>"
+      "summary": "John the Baptist in prison also doing his diligence, sendeth some of his disciples to Christ: that as they heard, so they might also see his miracles with their eyes. 7 Afterward Christ declareth how worthy of credit John's testimony was: 16 and inveigheth against the Jews, who with neither of their manners of life could be won: 20 no nor with Christ's infinite miracles: 25 praying God's wisdom in this behalf, 27 and calling to himself all <i>such as feel their own burdens.</i>",
+      "summary_continuation": {
+        "text": "God's wisdom in this behalf, 27 and calling to himself all <i>such as feel their own burdens.</i>"
+      }
     },
     {
       "chapter": 12,
@@ -2536,7 +2542,7 @@
         },
         {
           "verse": 35,
-          "text": "Agood man out of a good treasure bringeth forth good things: and an evil man out of an evil treasure bringeth forth evil things."
+          "text": "A good man out of a good treasure bringeth forth good things: and an evil man out of an evil treasure bringeth forth evil things."
         },
         {
           "verse": 36,
@@ -3005,7 +3011,7 @@
           "notes": [
             {
               "label": "1",
-              "text": "Awicked and rash oath, and more wickedly fulfilled: because an unlawful oath bindeth no man."
+              "text": "A wicked and rash oath, and more wickedly fulfilled: because an unlawful oath bindeth no man."
             }
           ]
         },
@@ -3679,7 +3685,8 @@
         },
         {
           "verse": 18,
-          "text": "Then came the Disciples to <sc>Jesus</sc> secretly, and said: Why could we not cast him out?"
+          "text": "Then came the Disciples to <sc>Jesus</sc> secretly, and said: Why could we not cast him out?",
+          "has_annotation": true
         },
         {
           "verse": 19,
@@ -3688,12 +3695,12 @@
         },
         {
           "verse": 20,
-          "text": "But this kind is not cast out but by prayer and fasting."
+          "text": "But this kind is not cast out but by prayer and fasting.",
+          "has_annotation": true
         },
         {
           "verse": 21,
           "text": "And <cr>[1]</cr> when they conversed in Galilee, <sc>Jesus</sc> said to them: The Son of man is to be betrayed into the hands of men:",
-          "has_annotation": true,
           "cross_refs": [
             {
               "text": "Mr. 9, 31. Luc. 9, 44."
@@ -3720,7 +3727,8 @@
         },
         {
           "verse": 25,
-          "text": "And he said: Of strangers. <sc>Jesus</sc> said to him: Then the children are free."
+          "text": "And he said: Of strangers. <sc>Jesus</sc> said to him: Then the children are free.",
+          "has_annotation": true
         },
         {
           "verse": 26,
@@ -4081,8 +4089,7 @@
         },
         {
           "verse": 14,
-          "text": "But <sc>Jesus</sc> said to them: Suffer the little children, and stay them not from coming unto me: for the Kingdom of Heaven is for such.",
-          "has_annotation": true
+          "text": "But <sc>Jesus</sc> said to them: Suffer the little children, and stay them not from coming unto me: for the Kingdom of Heaven is for such."
         },
         {
           "verse": 15,
@@ -4406,7 +4413,10 @@
           ]
         }
       ],
-      "summary": "To shew how through God's grace the Jews shall be overrun of the Gentiles, although they begin after, he bringeth a parable of men working sooner and later in the vineyard, but the later rewarded in the end even as the first. 17. He revealeth more to his Disciples touching his passion: 20. Bidding the ambitious two suitors to think rather of suffering with him: 24. And teaching us (in the rest of his Disciples) not to be grieved at our Ecclesiastical Superiors, considering they are (as he was himself) to toil for our Salvation. 29. Then going out of Jericho, he giveth sight unto two blind."
+      "summary": "To shew how through God's grace the Jews shall be overrun of the Gentiles, although they begin after, he bringeth a parable of men working sooner and later in the vineyard, but the later rewarded in the end even as the first. 17. He revealeth more to his Disciples touching his passion: 20. Bidding the ambitious two suitors to think rather of suffering with him: 24. And teaching us (in the rest of his Disciples) not to be grieved at our Ecclesiastical Superiors, considering they are (as he was himself) to toil for our Salvation. 29. Then going out of Jericho, he giveth sight unto two blind.",
+      "summary_continuation": {
+        "text": "Jericho, he giveth sight unto two blind."
+      }
     },
     {
       "chapter": 21,
@@ -4713,7 +4723,16 @@
           "text": "And seeking to lay hands upon him, they feared the multitudes: because they held him as a Prophet."
         }
       ],
-      "summary": "Being now come to the place of his Passion, he entereth with humility and triumph together: 12. Sheweth his zeal for the house of God joined with great marvels. 15. And to the Rulers he boldly defendeth the acclamations of the children. 18. He curseth also that fruitless leafy tree: 23. avoucheth his power by the witness of John: 28. and foretelleth in two parables their reprobation (with the Gentiles' vocation) for their wicked deserts, 42. and consequently their irreparable damnation that shall <i>ensue thereof.</i> <na>[1]</na>"
+      "summary": "Being now come to the place of his Passion, he entereth with humility and triumph together: 12. Sheweth his zeal for the house of God joined with great marvels. 15. And to the Rulers he boldly defendeth the acclamations of the children. 18. He curseth also that fruitless leafy tree: 23. avoucheth his power by the witness of John: 28. and foretelleth in two parables their reprobation (with the Gentiles' vocation) for their wicked deserts, 42. and consequently their irreparable damnation that shall <i>ensue thereof.</i> <na>[1]</na>",
+      "summary_continuation": {
+        "text": "consequently their irreparable damnation that shall <i>ensue thereof.</i> <na>[1]</na>",
+        "notes": [
+          {
+            "label": "1",
+            "text": "THE FIFTH part of this Gospel. Of the Holy Week of his Passion in Hierusalem."
+          }
+        ]
+      }
     },
     {
       "chapter": 22,
@@ -5657,7 +5676,7 @@
           "notes": [
             {
               "label": "1",
-              "text": "Aterrible example for all such as do not employ the very least gift of God, to his glory."
+              "text": "A terrible example for all such as do not employ the very least gift of God, to his glory."
             }
           ]
         },
@@ -6541,7 +6560,10 @@
           "text": "And they departing, made the sepulchre sure; sealing up the stone, with watchmen."
         }
       ],
-      "summary": "The chief of the Jews accuse him to Pilate the Gentile (his betrayer, and the Judge, and the Judge's wife, testifying in the mean time manifoldly his innocency:) 20. and persuade the common people also not only to prefer the murderer Barabbas, but also to cry, CRUCIFIGE: (All, to the reprobation of their whole nation, and nothing but fulfulling the Scriptures.) 27. After many illusions, 31. he is crucified by the Gentiles. 38. which the Jews seeing, do triumph as if they had now the victory. 45. But even then by many wonderful works he declareth his might, to their confusion 57. Finally being buried, they to make all sure, set soldiers to keep <i>his sepulcher.</i>"
+      "summary": "The chief of the Jews accuse him to Pilate the Gentile (his betrayer, and the Judge, and the Judge's wife, testifying in the mean time manifoldly his innocency:) 20. and persuade the common people also not only to prefer the murderer Barabbas, but also to cry, CRUCIFIGE: (All, to the reprobation of their whole nation, and nothing but fulfulling the Scriptures.) 27. After many illusions, 31. he is crucified by the Gentiles. 38. which the Jews seeing, do triumph as if they had now the victory. 45. But even then by many wonderful works he declareth his might, to their confusion 57. Finally being buried, they to make all sure, set soldiers to keep <i>his sepulcher.</i>",
+      "summary_continuation": {
+        "text": "being buried, they to make all sure, set soldiers to keep <i>his sepulcher.</i>"
+      }
     },
     {
       "chapter": 28,

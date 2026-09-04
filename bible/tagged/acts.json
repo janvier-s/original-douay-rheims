@@ -1713,6 +1713,7 @@
         {
           "verse": 57,
           "text": "And casting him forth without the city they stoned him: and the witnesses laid off their garments <cr>[1]</cr> beside the feet of a young man that was called Saul.",
+          "has_annotation": true,
           "cross_refs": [
             {
               "text": "Act. 22, 20."
@@ -1721,8 +1722,7 @@
         },
         {
           "verse": 58,
-          "text": "And they stoned Steven invocating, and saying: Lord <sc>Jesus</sc>, receive my spirit.",
-          "has_annotation": true
+          "text": "And they stoned Steven invocating, and saying: Lord <sc>Jesus</sc>, receive my spirit."
         },
         {
           "verse": 59,
@@ -1735,7 +1735,10 @@
           ]
         }
       ],
-      "summary": "Steven being permitted to answer, beginning at Abraham, sheweth that God was with their fathers both in other places, and also long before the Temple. 48. and that after it was built, it could not be (as they grossly imagined) a house for God to dwell in. 51. Then he inveigheth against their stiffneckedness, and telleth them boldly of their treacherous murdering of Christ, as their fathers had done his Prophets afore him. 54. Whereat they being wood, he seeth heaven open, and JESUS there in his Divine Majesty. 57. Whereat they become more mad, so that they stone him to death (Saul consenting) <i>he commending his soul to <sc>Jesus</sc>, and humbly praying for them.</i>"
+      "summary": "Steven being permitted to answer, beginning at Abraham, sheweth that God was with their fathers both in other places, and also long before the Temple. 48. and that after it was built, it could not be (as they grossly imagined) a house for God to dwell in. 51. Then he inveigheth against their stiffneckedness, and telleth them boldly of their treacherous murdering of Christ, as their fathers had done his Prophets afore him. 54. Whereat they being wood, he seeth heaven open, and JESUS there in his Divine Majesty. 57. Whereat they become more mad, so that they stone him to death (Saul consenting) <i>he commending his soul to <sc>Jesus</sc>, and humbly praying for them.</i>",
+      "summary_continuation": {
+        "text": "mad, so that they stone him to death (Saul consenting) <i>he commending his soul to <sc>Jesus</sc>, and humbly praying for them.</i>"
+      }
     },
     {
       "chapter": 8,
@@ -1888,6 +1891,7 @@
         {
           "verse": 26,
           "text": "<na>[1]</na> And an Angel of our Lord spake to Philippe, saying: Arise, and go toward the South, to the way that goeth down from Jerusalem into Gaza: this is desert.",
+          "has_annotation": true,
           "notes": [
             {
               "label": "1",
@@ -1898,7 +1902,6 @@
         {
           "verse": 27,
           "text": "And rising he went. And behold, a man of Æthiopia, an Eunuch, of great authority under Candace the queen of the Æthiopians, who was over all her treasures, was come to Jerusalem <na>[1]</na> to adore:",
-          "has_annotation": true,
           "notes": [
             {
               "label": "1",
@@ -3125,7 +3128,7 @@
         },
         {
           "verse": 51,
-          "text": "But they <cr>[1]</cr> shaking off the dust of their feet against them, came to Iconium.",
+          "text": "But they <cr>[1]</cr> shaking off the dust of their feet against them, came to I conium.",
           "cross_refs": [
             {
               "text": "Lu. 9, 5."
@@ -3137,14 +3140,23 @@
           "text": "The Disciples also were replenished with joy and with the Holy Ghost."
         }
       ],
-      "summary": "The preachers of the Church of Antioch preparing themselves, the Holy Ghost out of them all, chooseth Saul and Barnabas. 3. They being first consecrated Bishops, 4. go their appointed circuit over all the land of Cypres, the Proconsul whereof is also converted, seeing the miraculous excecation of a Jew by Paul. 13. Thence, into Pamphilia: 14. and Pisidia, where in Antioch Paul preacheth to the Jews, shewing that JESUS is Christ, 38. and that in him is salvation, and not in their Law of Moyses: 40. warning them to beware of the reprobation foretold by the Prophets. 44. But the next Sabboth, they <i>blaspheming, he in plain terms forsaketh them, and turneth to the Gentiles. Whereat the Gentiles be as glad on the contrary side. 50. Finally the Jews raising persecution, they forsake them, pronouncing them to be obstinate contemners.</i> <na>[1]</na>"
+      "summary": "The preachers of the Church of Antioch preparing themselves, the Holy Ghost out of them all, chooseth Saul and Barnabas. 3. They being first consecrated Bishops, 4. go their appointed circuit over all the land of Cypres, the Proconsul whereof is also converted, seeing the miraculous excecation of a Jew by Paul. 13. Thence, into Pamphilia: 14. and Pisidia, where in Antioch Paul preacheth to the Jews, shewing that JESUS is Christ, 38. and that in him is salvation, and not in their Law of Moyses: 40. warning them to beware of the reprobation foretold by the Prophets. 44. But the next Sabboth, they <i>blaspheming, he in plain terms forsaketh them, and turneth to the Gentiles. Whereat the Gentiles be as glad on the contrary side. 50. Finally the Jews raising persecution, they forsake them, pronouncing them to be obstinate contemners.</i> <na>[1]</na>",
+      "summary_continuation": {
+        "text": "foretold by the Prophets. 44. But the next Sabboth, they <i>blaspheming, he in plain terms forsaketh them, and turneth to the Gentiles. Whereat the Gentiles be as glad on the contrary side. 50. Finally the Jews raising persecution, they forsake them, pronouncing them to be obstinate contemners.</i> <na>[1]</na>",
+        "notes": [
+          {
+            "label": "1",
+            "text": "The 5. part. THE taking of the Gospel away from the obstinate Jews, and giving of it to the Gentiles, by the ministry of Paul and Barnabas."
+          }
+        ]
+      }
     },
     {
       "chapter": 14,
       "verses": [
         {
           "verse": 1,
-          "text": "<sc>And</sc> it came to pass at Iconium that they entered together into the Synagogue of the Jews, and so spake, that a very great multitude of Jews and of the Greeks did believe."
+          "text": "<sc>And</sc> it came to pass at I conium that they entered together into the Synagogue of the Jews, and so spake, that a very great multitude of Jews and of the Greeks did believe."
         },
         {
           "verse": 2,
@@ -3225,7 +3237,7 @@
         },
         {
           "verse": 18,
-          "text": "But there came in certain Jews from Antioch and Iconium: and persuading the multitudes, and <cr>[1]</cr> stoning Paul, they drew him out of the city, thinking him to be dead.",
+          "text": "But there came in certain Jews from Antioch and I conium: and persuading the multitudes, and <cr>[1]</cr> stoning Paul, they drew him out of the city, thinking him to be dead.",
           "cross_refs": [
             {
               "text": "2. Cor. 11, 25."
@@ -3238,7 +3250,7 @@
         },
         {
           "verse": 20,
-          "text": "And when they had evangelized to that city, & had taught many, they returned to Lystra and Iconium, and to Antioch:"
+          "text": "And when they had evangelized to that city, & had taught many, they returned to Lystra and I conium, and to Antioch:"
         },
         {
           "verse": 21,
@@ -3289,7 +3301,6 @@
         {
           "verse": 1,
           "text": "<sc>And</sc> certain coming down from Jewry, taught the brethren: That <cr>[1]</cr> unless you be circumcised according to the manner of Moyses, you cannot be saved.",
-          "has_annotation": true,
           "cross_refs": [
             {
               "text": "Gal. 5, 2."
@@ -3299,6 +3310,7 @@
         {
           "verse": 2,
           "text": "No little sedition therefore being risen to Paul and Barnabas against them, they appointed that Paul and Barnabas should go up, & certain others of <na>[1]</na> <alt>the rest</alt>, to the Apostles and <na>[2]</na> Priests unto Jerusalem, upon this question.",
+          "has_annotation": true,
           "notes": [
             {
               "label": "1",
@@ -3464,7 +3476,8 @@
         },
         {
           "verse": 29,
-          "text": "That you abstain from the things immolated to idols, and blood, and that which is strangled, and fornication, from the which things keeping yourselves, you shall do well. Fare ye well."
+          "text": "That you abstain from the things immolated to idols, and blood, and that which is strangled, and fornication, from the which things keeping yourselves, you shall do well. Fare ye well.",
+          "has_annotation": true
         },
         {
           "verse": 30,
@@ -3561,7 +3574,7 @@
         },
         {
           "verse": 2,
-          "text": "To this man the brethren that were in Lystra and Iconium, gave a good testimony."
+          "text": "To this man the brethren that were in Lystra and I conium, gave a good testimony."
         },
         {
           "verse": 3,
@@ -4180,12 +4193,12 @@
         },
         {
           "verse": 15,
-          "text": "But the wicked spirit answering, said to them: <sc>Jesus</sc> I know, and Paul I know: but you, what are ye?"
+          "text": "But the wicked spirit answering, said to them: <sc>Jesus</sc> I know, and Paul I know: but you, what are ye?",
+          "has_annotation": true
         },
         {
           "verse": 16,
           "text": "And the man in whom the wicked spirit was, leaping upon them, and mastering <na>[1]</na> <alt>both</alt>, prevailed against them, so that they fled out of that house naked and wounded.",
-          "has_annotation": true,
           "notes": [
             {
               "label": "1",
@@ -4732,7 +4745,10 @@
           "text": "And when he had permitted him, Paul standing on the stairs, beckoned with his hand to the people. And great silence being made, he spake unto them in the Hebrew tongue, saying."
         }
       ],
-      "summary": "From Miletum going on his journey, 4. he cannot be dissuaded neither at Tyre, 8. nor at Cæsarea (in both which places the Holy Ghost revealed how he should be handled in Hierusalem, 10. the Prophet Agabus expressly foretelling that the Jews there should deliver him to the Gentiles) 15. but to Hierusalem he cometh: where being welcome to the Christians, and namely to James the Bishop, and to the Priests, while he goeth about to satisfy the Christian Jews there, who had been misinformed of him as if he had taught it to be unlawful for the Jews to keep Moyses' Law: 27. he is invaded by the infidel Jews, <i>and ready to be murdered by them, until the Roman soldiers do rescue him.</i>"
+      "summary": "From Miletum going on his journey, 4. he cannot be dissuaded neither at Tyre, 8. nor at Cæsarea (in both which places the Holy Ghost revealed how he should be handled in Hierusalem, 10. the Prophet Agabus expressly foretelling that the Jews there should deliver him to the Gentiles) 15. but to Hierusalem he cometh: where being welcome to the Christians, and namely to James the Bishop, and to the Priests, while he goeth about to satisfy the Christian Jews there, who had been misinformed of him as if he had taught it to be unlawful for the Jews to keep Moyses' Law: 27. he is invaded by the infidel Jews, <i>and ready to be murdered by them, until the Roman soldiers do rescue him.</i>",
+      "summary_continuation": {
+        "text": "keep Moyses' Law: 27. he is invaded by the infidel Jews, <i>and ready to be murdered by them, until the Roman soldiers do rescue him.</i>"
+      }
     },
     {
       "chapter": 22,

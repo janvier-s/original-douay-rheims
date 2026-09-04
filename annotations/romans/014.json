@@ -22,6 +22,7 @@
     },
     {
       "verse": 5,
+      "part": 1,
       "title": "Between day and day.",
       "text": "<mn>◦</mn> By the like deceit they abuse this place against the Holy days of Christ and his B. mother and Saints, which concerneth only the Jews' festivities and observation of times, whereof in the Epistle to the Galatians c. 4, 10.",
       "notes": [
@@ -32,7 +33,8 @@
       ]
     },
     {
-      "verse": 6,
+      "verse": 5,
+      "part": 2,
       "title": "Every one in his own sense.",
       "text": "<mn>◦</mn> The Apostle doth not give freedom, as the Church's enemies would have it, that every man may do or think what he list. But in this matter of Judaical observation of days and meats, & that for a time only, till the Christian religion should be perfectly established, he would have no restraint made, but that every one should be borne withal in his own sense: yet so, that they should not condemn one another, nor make necessity of salvation in the observation of the Judaical rites of meats, days, &c.",
       "notes": [

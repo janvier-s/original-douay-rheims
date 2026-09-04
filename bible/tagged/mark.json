@@ -1148,12 +1148,12 @@
         },
         {
           "verse": 8,
-          "text": "And he commanded them that they should take nothing for the way, but a rod only: not scrip, not bread, nor money in their purse,",
-          "has_annotation": true
+          "text": "And he commanded them that they should take nothing for the way, but a rod only: not scrip, not bread, nor money in their purse,"
         },
         {
           "verse": 9,
-          "text": "but shod with sandals, and that they should not put on two coats."
+          "text": "but shod with sandals, and that they should not put on two coats.",
+          "has_annotation": true
         },
         {
           "verse": 10,
@@ -1179,7 +1179,7 @@
           "notes": [
             {
               "label": "2",
-              "text": "Apreparative to the Sacrament of extreme unction. <i>Iac. 5.</i>"
+              "text": "A preparative to the Sacrament of extreme unction. <i>Iac. 5.</i>"
             }
           ]
         },
@@ -1854,6 +1854,7 @@
         {
           "verse": 3,
           "text": "And there appeared to them <na>[1]</na> Elias with Moyses; and they were talking with <sc>Jesus</sc>.",
+          "has_annotation": true,
           "notes": [
             {
               "label": "1",
@@ -1863,8 +1864,7 @@
         },
         {
           "verse": 4,
-          "text": "And Peter answering, said to <sc>Jesus</sc>: Rabbi, it is good for us to be here; and let us make three tabernacles, one for thee, and one for Moyses, and one for Elias.",
-          "has_annotation": true
+          "text": "And Peter answering, said to <sc>Jesus</sc>: Rabbi, it is good for us to be here; and let us make three tabernacles, one for thee, and one for Moyses, and one for Elias."
         },
         {
           "verse": 5,
@@ -1907,12 +1907,12 @@
         },
         {
           "verse": 12,
-          "text": "But I say to you that Elias also is come (and they have done to him whatsoever they would) as it is written of him."
+          "text": "But I say to you that Elias also is come (and they have done to him whatsoever they would) as it is written of him.",
+          "has_annotation": true
         },
         {
           "verse": 13,
           "text": "And <cr>[1]</cr> coming to his Disciples, he saw a great multitude about them, and the Scribes questioning with them.",
-          "has_annotation": true,
           "cross_refs": [
             {
               "text": "Mt. 17, 14. Lu. 9, 37."
@@ -2109,7 +2109,10 @@
           "text": "Salt is good. But if the salt shall be unseasoned; wherewith will you season it? Have salt in you, and have peace among you."
         }
       ],
-      "summary": "The more to confirm them, he giveth them in his Transfiguration a sight of his glory, whereunto suffering doth bring, 9. and then again doth inculcate his Passion. 14. A Devil also he casteth out, which his Disciples (upon whom therefore the perverse Scribes triumphed in his absence) could not, for lack of fasting and praying. 30. Being yet in Galilee, he revealeth more about his Passion. 33. And (because in the way to Capharnaum they <i>contended for the Primacy (he teacheth them that humility is the way to Primacy before God: 38. bidding them also, not to prohibit such as be not against them: nor to give scandal to any one of the faithful, and on the other side, the faithful to avoid them by whom they may be scandalized and fall, be they never so near unto them.</i>"
+      "summary": "The more to confirm them, he giveth them in his Transfiguration a sight of his glory, whereunto suffering doth bring, 9. and then again doth inculcate his Passion. 14. A Devil also he casteth out, which his Disciples (upon whom therefore the perverse Scribes triumphed in his absence) could not, for lack of fasting and praying. 30. Being yet in Galilee, he revealeth more about his Passion. 33. And (because in the way to Capharnaum they <i>contended for the Primacy (he teacheth them that humility is the way to Primacy before God: 38. bidding them also, not to prohibit such as be not against them: nor to give scandal to any one of the faithful, and on the other side, the faithful to avoid them by whom they may be scandalized and fall, be they never so near unto them.</i>",
+      "summary_continuation": {
+        "text": "33. And (because in the way to Capharnaum they <i>contended for the Primacy (he teacheth them that humility is the way to Primacy before God: 38. bidding them also, not to prohibit such as be not against them: nor to give scandal to any one of the faithful, and on the other side, the faithful to avoid them by whom they may be scandalized and fall, be they never so near unto them.</i>"
+      }
     },
     {
       "chapter": 10,
@@ -2644,7 +2647,16 @@
           "text": "And they answering say to <sc>Jesus</sc>: We know not. And <sc>Jesus</sc> answering saith to them: Neither do I tell you in what power I do these things."
         }
       ],
-      "summary": "Being now come to the place of his Passion, he entereth with triumph as their Christ. 12. He curseth that fruitless leafy tree. 15. He sheweth his zeal for the house of God: <i>for which the Rulers seek his destruction. 24. He exhorteth his Disciples to steadfastness of faith, and to forgive their enemies. 27. He avoucheth his power by the witness of John who was a man sent of God.</i> <na>[1]</na>"
+      "summary": "Being now come to the place of his Passion, he entereth with triumph as their Christ. 12. He curseth that fruitless leafy tree. 15. He sheweth his zeal for the house of God: <i>for which the Rulers seek his destruction. 24. He exhorteth his Disciples to steadfastness of faith, and to forgive their enemies. 27. He avoucheth his power by the witness of John who was a man sent of God.</i> <na>[1]</na>",
+      "summary_continuation": {
+        "text": "leafy tree. 15. He sheweth his zeal for the house of God: <i>for which the Rulers seek his destruction. 24. He exhorteth his Disciples to steadfastness of faith, and to forgive their enemies. 27. He avoucheth his power by the witness of John who was a man sent of God.</i> <na>[1]</na>",
+        "notes": [
+          {
+            "label": "1",
+            "text": "The fourth part of this Gospel, the Holy Week of his Passion in Hierusalem."
+          }
+        ]
+      }
     },
     {
       "chapter": 12,

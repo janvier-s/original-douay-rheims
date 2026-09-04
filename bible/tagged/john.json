@@ -365,7 +365,16 @@
           ]
         }
       ],
-      "summary": "The preface of the Evangelist, commending Christ (as being God the Son incarnate) to the Gentiles, and setting out the blindness of the Jews in not receiving him. 19. Then, the testimonies of John Baptist, first to the solemn <i>legacy of the Jews: 29. secondly, when he saw <sc>Jesus</sc> come to him: 35. thirdly, to his own Disciples also, putting them over from himself to <sc>Jesus</sc>. Who made it plainer to them that he is Christ, 40. and so began he also to have Disciples.</i> <na>[1]</na>"
+      "summary": "The preface of the Evangelist, commending Christ (as being God the Son incarnate) to the Gentiles, and setting out the blindness of the Jews in not receiving him. 19. Then, the testimonies of John Baptist, first to the solemn <i>legacy of the Jews: 29. secondly, when he saw <sc>Jesus</sc> come to him: 35. thirdly, to his own Disciples also, putting them over from himself to <sc>Jesus</sc>. Who made it plainer to them that he is Christ, 40. and so began he also to have Disciples.</i> <na>[1]</na>",
+      "summary_continuation": {
+        "text": "Then, the testimonies of John Baptist, first to the solemn <i>legacy of the Jews: 29. secondly, when he saw <sc>Jesus</sc> come to him: 35. thirdly, to his own Disciples also, putting them over from himself to <sc>Jesus</sc>. Who made it plainer to them that he is Christ, 40. and so began he also to have Disciples.</i> <na>[1]</na>",
+        "notes": [
+          {
+            "label": "1",
+            "text": "The 1. part: THE ACTS of Christ before his manifestation, whilst John Baptist was yet baptizing."
+          }
+        ]
+      }
     },
     {
       "chapter": 2,
@@ -1173,7 +1182,8 @@
         },
         {
           "verse": 34,
-          "text": "But I receive not testimony of man: but I say these things that you may be saved."
+          "text": "But I receive not testimony of man: but I say these things that you may be saved.",
+          "has_annotation": true
         },
         {
           "verse": 35,
@@ -1513,7 +1523,12 @@
         },
         {
           "verse": 51,
-          "text": "<na>[1]</na> I am the living bread, that came down from Heaven.",
+          "text": "<na>[1]</na> I am the living bread, that came down from Heaven. If any man eat of this bread, he shall live for ever: and <cr>[1]</cr> the bread which I will give, is my flesh for the life of the world.",
+          "cross_refs": [
+            {
+              "text": "Mt. 26, 26. Mr. 14, 22. Lu. 22, 19. 1. Cor. 11, 24."
+            }
+          ],
           "notes": [
             {
               "label": "1",
@@ -1523,30 +1538,21 @@
         },
         {
           "verse": 52,
-          "text": "If any man eat of this bread, he shall live for ever: and <cr>[1]</cr> the bread which I will give, is my flesh for the life of the world.",
-          "cross_refs": [
-            {
-              "text": "Mt. 26, 26. Mr. 14, 22. Lu. 22, 19. 1. Cor. 11, 24."
-            }
-          ]
-        },
-        {
-          "verse": 53,
           "text": "The Jews therefore strove among themselves, saying: How can this man give us his flesh to eat?",
           "has_annotation": true
         },
         {
-          "verse": 54,
+          "verse": 53,
           "text": "<sc>Jesus</sc> therefore said to them: Amen, amen I say to you, unless you eat the flesh of the Son of man, and drink his blood, you shall not have life in you.",
           "has_annotation": true
         },
         {
-          "verse": 55,
+          "verse": 54,
           "text": "He that eateth my flesh, and drinketh my blood, hath life everlasting; and I will raise him up in the last day.",
           "has_annotation": true
         },
         {
-          "verse": 56,
+          "verse": 55,
           "text": "<na>[1]</na> For my flesh, is meat indeed: and my blood is drink indeed.",
           "has_annotation": true,
           "notes": [
@@ -1557,33 +1563,32 @@
           ]
         },
         {
-          "verse": 57,
+          "verse": 56,
           "text": "He that eateth my flesh, and drinketh my blood, abideth in me, and I in him."
         },
         {
-          "verse": 58,
+          "verse": 57,
           "text": "As the living Father hath sent me, and I live by the Father: and he that eateth me, the same also shall live by me."
         },
         {
-          "verse": 59,
+          "verse": 58,
           "text": "This is the bread that came down from Heaven. Not as your fathers did eat Manna, and died. He that eateth this bread, shall live for ever.",
           "has_annotation": true
         },
         {
-          "verse": 60,
+          "verse": 59,
           "text": "These things he said teaching in the Synagogue, in Capharnaum."
         },
         {
-          "verse": 61,
+          "verse": 60,
           "text": "Many therefore of his Disciples hearing it, said: This saying is hard, and who can hear it?"
         },
         {
-          "verse": 62,
-          "text": "But <sc>Jesus</sc> knowing with himself that his Disciples murmured at this, he said to them: Doth this scandalize you?",
-          "has_annotation": true
+          "verse": 61,
+          "text": "But <sc>Jesus</sc> knowing with himself that his Disciples murmured at this, he said to them: Doth this scandalize you?"
         },
         {
-          "verse": 63,
+          "verse": 62,
           "text": "If then you shall see <cr>[1]</cr> the Son of man ascend where he was before?",
           "has_annotation": true,
           "cross_refs": [
@@ -1593,42 +1598,43 @@
           ]
         },
         {
-          "verse": 64,
+          "verse": 63,
           "text": "It is the spirit that quickeneth, the flesh profiteth nothing. The words that I have spoken to you, be spirit and life.",
           "has_annotation": true
         },
         {
+          "verse": 64,
+          "text": "But there be certain of you that believe not. For <sc>Jesus</sc> knew from the beginning who they were that did not believe, and who he was that would betray him.",
+          "has_annotation": true
+        },
+        {
           "verse": 65,
-          "text": "But there be certain of you that believe not. For <sc>Jesus</sc> knew from the beginning who they were that did not believe, and who he was that would betray him."
+          "text": "And he said: Therefore did I say to you, that no man can come to me, unless it be given him of my Father."
         },
         {
           "verse": 66,
-          "text": "And he said: Therefore did I say to you, that no man can come to me, unless it be given him of my Father.",
+          "text": "After this many of his Disciples went back: and now they walked not with him.",
           "has_annotation": true
         },
         {
           "verse": 67,
-          "text": "After this many of his Disciples went back: and now they walked not with him."
+          "text": "<sc>Jesus</sc> therefore said to the Twelve: What, will you also depart?"
         },
         {
           "verse": 68,
-          "text": "<sc>Jesus</sc> therefore said to the Twelve: What, will you also depart?",
+          "text": "Simon Peter therefore answered him: Lord, to whom shall we go? thou hast the words of eternal life.",
           "has_annotation": true
         },
         {
           "verse": 69,
-          "text": "Simon Peter therefore answered him: Lord, to whom shall we go? thou hast the words of eternal life."
-        },
-        {
-          "verse": 70,
           "text": "And we believe and have known that thou art Christ the Son of God."
         },
         {
-          "verse": 71,
+          "verse": 70,
           "text": "<sc>Jesus</sc> answered them: Have not I chosen you the Twelve; and of you one is a devil?"
         },
         {
-          "verse": 72,
+          "verse": 71,
           "text": "And he meant Judas Iscariot, Simon's son: for this same was to betray him, whereas he was one of the Twelve."
         }
       ],
@@ -2203,7 +2209,7 @@
         },
         {
           "verse": 38,
-          "text": "Ispeak that which I have seen with my Father: and you do the things that you have seen with your father."
+          "text": "I speak that which I have seen with my Father: and you do the things that you have seen with your father."
         },
         {
           "verse": 39,
@@ -2522,7 +2528,10 @@
           "text": "<sc>Jesus</sc> said to them: If you were blind, you should not have sin, but now you say, That we see. Your sin remaineth."
         }
       ],
-      "summary": "To shew that by his Baptism (being the Sacrament of illumination or faith) he will take away the blindness of the world, he giveth with strange ceremonies sight to one born blind. 8. By which wonderful miracle (the attestation of the party himself and of his parents concurring) first the neighbours, then also the Pharisees themselves are plainly confounded. Yet so obstinate they are, that because it was the Sabboth when he wrought it, they infer that he is not of God: yea and throw out of their Synagogue the party for confessing him. 15. But our Lord receiveth him: 39. and foretelleth by this occasion, <i>the excecation of the Jews (because of their willful obstinacy) and illumination of the Gentiles who confess their own blindness.</i>"
+      "summary": "To shew that by his Baptism (being the Sacrament of illumination or faith) he will take away the blindness of the world, he giveth with strange ceremonies sight to one born blind. 8. By which wonderful miracle (the attestation of the party himself and of his parents concurring) first the neighbours, then also the Pharisees themselves are plainly confounded. Yet so obstinate they are, that because it was the Sabboth when he wrought it, they infer that he is not of God: yea and throw out of their Synagogue the party for confessing him. 15. But our Lord receiveth him: 39. and foretelleth by this occasion, <i>the excecation of the Jews (because of their willful obstinacy) and illumination of the Gentiles who confess their own blindness.</i>",
+      "summary_continuation": {
+        "text": "Lord receiveth him: 39. and foretelleth by this occasion, <i>the excecation of the Jews (because of their willful obstinacy) and illumination of the Gentiles who confess their own blindness.</i>"
+      }
     },
     {
       "chapter": 10,
@@ -2653,7 +2662,7 @@
         },
         {
           "verse": 19,
-          "text": "Adissension rose again among the Jews for these words."
+          "text": "A dissension rose again among the Jews for these words."
         },
         {
           "verse": 20,
@@ -3473,7 +3482,7 @@
         },
         {
           "verse": 18,
-          "text": "Ispeak not of you all: I know whom I have chosen. But that the scripture may be fulfilled, <i>He that eateth bread with me shall lift up his heel against me.</i> <cr>[1]</cr>",
+          "text": "I speak not of you all: I know whom I have chosen. But that the scripture may be fulfilled, <i>He that eateth bread with me shall lift up his heel against me.</i> <cr>[1]</cr>",
           "cross_refs": [
             {
               "text": "Ps. 40, 10."
@@ -3588,7 +3597,10 @@
           "text": "<sc>Jesus</sc> answered him: Thy life wilt thou yield for me? Amen, amen I say to thee, the cock shall not crow, until thou deny me thrice."
         }
       ],
-      "summary": "At his last supper, to give his farewell, and that in most wonderful loving manner, 4. he washeth his Disciples' feet, 6. beginning with Peter, 8. (shewing how necessary it is for us to be washed by him in Baptism, and needful also after Baptism) 12. and by this example teaching them all humility one toward another. 21. Then he foretelleth, that (notwithstanding his exceeding love toward them) one even of them will betray him, meaning Judas, 22. as to John he secretly sheweth. After whose going out, he rejoiceth and saith that even now the hour is come, 34. commendeth unto them to love together, as a new commandment, 36. and foretelleth Peter who presumed too much of his own strength, that <i>even this night he will deny him thrice.</i>"
+      "summary": "At his last supper, to give his farewell, and that in most wonderful loving manner, 4. he washeth his Disciples' feet, 6. beginning with Peter, 8. (shewing how necessary it is for us to be washed by him in Baptism, and needful also after Baptism) 12. and by this example teaching them all humility one toward another. 21. Then he foretelleth, that (notwithstanding his exceeding love toward them) one even of them will betray him, meaning Judas, 22. as to John he secretly sheweth. After whose going out, he rejoiceth and saith that even now the hour is come, 34. commendeth unto them to love together, as a new commandment, 36. and foretelleth Peter who presumed too much of his own strength, that <i>even this night he will deny him thrice.</i>",
+      "summary_continuation": {
+        "text": "Peter who presumed too much of his own strength, that <i>even this night he will deny him thrice.</i>"
+      }
     },
     {
       "chapter": 14,
@@ -4097,7 +4109,7 @@
         },
         {
           "verse": 21,
-          "text": "Awoman when she travaileth, hath sorrow, because her hour is come: but when she hath brought forth the child, now she remembereth not the anguish for joy, that a man is born into the world."
+          "text": "A woman when she travaileth, hath sorrow, because her hour is come: but when she hath brought forth the child, now she remembereth not the anguish for joy, that a man is born into the world."
         },
         {
           "verse": 22,
@@ -4163,7 +4175,10 @@
           "text": "These things I have spoken to you, that in me you may have peace. In the world you shall have distress, but have confidence, I have overcome the world."
         }
       ],
-      "summary": "The cause why he foretelleth them their persecution by the Jews, is, that they be not afterward scandalized thereat. 6. Though they think this heavy news, it is for their vantage that he departeth, because of the great benefits that they shall receive by the coming then of the Holy Ghost, who shall also be his witness against his enemies. 16. Although in this world they shall so be persecuted, yet to his heavenly Father they and their prayers made in his name, shall be most acceptable, and at length the child (that is, Christ in all his members) being born, their joy shall be such as no persecutor can take from them. 31. Howbeit at this instant of his apprehension, they will all forsake him."
+      "summary": "The cause why he foretelleth them their persecution by the Jews, is, that they be not afterward scandalized thereat. 6. Though they think this heavy news, it is for their vantage that he departeth, because of the great benefits that they shall receive by the coming then of the Holy Ghost, who shall also be his witness against his enemies. 16. Although in this world they shall so be persecuted, yet to his heavenly Father they and their prayers made in his name, shall be most acceptable, and at length the child (that is, Christ in all his members) being born, their joy shall be such as no persecutor can take from them. 31. Howbeit at this instant of his apprehension, they will all forsake him.",
+      "summary_continuation": {
+        "text": "apprehension, they will all forsake him."
+      }
     },
     {
       "chapter": 17,
@@ -4619,8 +4634,7 @@
         },
         {
           "verse": 15,
-          "text": "But they cried: Away, away with him, crucify him. Pilate saith to them: Shall I crucify your King? The chief Priests answered: We have no King, but Cæsar.",
-          "has_annotation": true
+          "text": "But they cried: Away, away with him, crucify him. Pilate saith to them: Shall I crucify your King? The chief Priests answered: We have no King, but Cæsar."
         },
         {
           "verse": 16,
@@ -4629,6 +4643,7 @@
         {
           "verse": 17,
           "text": "<cr>[1]</cr> And bearing his own cross he went forth into that which is called the place of Calvary, in Hebrew Golgotha.",
+          "has_annotation": true,
           "cross_refs": [
             {
               "text": "Mt. 27, 33. Mr. 15, 20. Lu. 23, 33."
@@ -4726,7 +4741,7 @@
         },
         {
           "verse": 29,
-          "text": "Avessel therefore stood there full of vinegar. And they putting a sponge full of vinegar about hyssop, offered it to his mouth."
+          "text": "A vessel therefore stood there full of vinegar. And they putting a sponge full of vinegar about hyssop, offered it to his mouth."
         },
         {
           "verse": 30,

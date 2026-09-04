@@ -924,7 +924,17 @@
         },
         {
           "verse": 18,
-          "text": "And you shall cry in that day from the face of the king, which you have chosen you: and our Lord <na>(c)[1]</na> will not hear you in that day, because you desired unto yourselves a king."
+          "text": "And you shall cry in that day from the face of the king, which you have chosen you: and our Lord <na>(c)[1]</na> will not hear you in that day, because you desired unto yourselves a king.",
+          "notes": [
+            {
+              "label": "c",
+              "text": "God always heareth those that truly repent for their sins, but doth not always deliver them from afflictions, which are due for offences, or profitable for probation and merit of his children."
+            },
+            {
+              "label": "1",
+              "text": "Exod. 19. Deut. 17. Iudic. 2. v. 16."
+            }
+          ]
         },
         {
           "verse": 19,
@@ -1456,7 +1466,7 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Achild of <na>(a)</na> one year was Saul when he began to reign, and <na>(b)</na> two years he reigned over Israel.",
+          "text": "A child of <na>(a)</na> one year was Saul when he began to reign, and <na>(b)</na> two years he reigned over Israel.",
           "notes": [
             {
               "label": "a",
@@ -1510,7 +1520,7 @@
         },
         {
           "verse": 12,
-          "text": "Isaid: Now will the Philisthiims come down to me into Galgal, and I have not pacified the face of our Lord. Compelled by necessity, I offered the holocaust."
+          "text": "I said: Now will the Philisthiims come down to me into Galgal, and I have not pacified the face of our Lord. Compelled by necessity, I offered the holocaust."
         },
         {
           "verse": 13,
@@ -2811,7 +2821,10 @@
           "text": "And David arose, and departed: but Jonathas also entered into the City."
         }
       ],
-      "summary": "Jonathas comforteth David, 3. confirmeth their former league. 18. By an appointed sign (24. endeavouring first, but in vain, to pacify his father) 35. certifieth David of <i>his father's malice against him. 41. They meet again secretly, and sorrowfully part each from other.</i>"
+      "summary": "Jonathas comforteth David, 3. confirmeth their former league. 18. By an appointed sign (24. endeavouring first, but in vain, to pacify his father) 35. certifieth David of <i>his father's malice against him. 41. They meet again secretly, and sorrowfully part each from other.</i>",
+      "summary_continuation": {
+        "text": "but in vain, to pacify his father) 35. certifieth David of <i>his father's malice against him. 41. They meet again secretly, and sorrowfully part each from other.</i>"
+      }
     },
     {
       "chapter": 21,
@@ -3158,7 +3171,7 @@
           "notes": [
             {
               "label": "a",
-              "text": "Atender conscience had scruple of a small doubt which was no sin: a large conscience sticketh at nothing."
+              "text": "A tender conscience had scruple of a small doubt which was no sin: a large conscience sticketh at nothing."
             }
           ]
         },
@@ -3866,7 +3879,7 @@
         },
         {
           "verse": 13,
-          "text": "David therefore said to him. Whose art thou? Or whence? And wither goest thou? Who said: I am a young man of Ægypt, the servant of an Amalecite: and my master hath left me, because I began to be sick three days agone."
+          "text": "David therefore said to him. Whose art thou? Or whence? And wither goest thou? Who said: I am a young man of Ægypt, the servant of an A malecite: and my master hath left me, because I began to be sick three days agone."
         },
         {
           "verse": 14,

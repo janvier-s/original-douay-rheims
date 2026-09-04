@@ -1,0 +1,549 @@
+{
+  "schema": 1,
+  "generated": "2026-09-04T06:37:28.418Z",
+  "commit": "cd4439a1b5bbf2abe253d68b0896c3c60e8f27bc",
+  "counts": {
+    "books": 76,
+    "chapters": 1361,
+    "verses": 37180,
+    "usfmVerses": 37130,
+    "annotations": 1677,
+    "annotationFiles": 397,
+    "subNotes": 3609,
+    "referenceFiles": 26
+  },
+  "books": [
+    {
+      "slug": "genesis",
+      "usfm": "GEN",
+      "paratext": "01",
+      "ordinal": 1,
+      "chapters": 50
+    },
+    {
+      "slug": "exodus",
+      "usfm": "EXO",
+      "paratext": "02",
+      "ordinal": 2,
+      "chapters": 40
+    },
+    {
+      "slug": "leviticus",
+      "usfm": "LEV",
+      "paratext": "03",
+      "ordinal": 3,
+      "chapters": 27
+    },
+    {
+      "slug": "numbers",
+      "usfm": "NUM",
+      "paratext": "04",
+      "ordinal": 4,
+      "chapters": 36
+    },
+    {
+      "slug": "deuteronomy",
+      "usfm": "DEU",
+      "paratext": "05",
+      "ordinal": 5,
+      "chapters": 34
+    },
+    {
+      "slug": "josue",
+      "usfm": "JOS",
+      "paratext": "06",
+      "ordinal": 6,
+      "chapters": 24
+    },
+    {
+      "slug": "judges",
+      "usfm": "JDG",
+      "paratext": "07",
+      "ordinal": 7,
+      "chapters": 21
+    },
+    {
+      "slug": "ruth",
+      "usfm": "RUT",
+      "paratext": "08",
+      "ordinal": 8,
+      "chapters": 4
+    },
+    {
+      "slug": "1-kings",
+      "usfm": "1SA",
+      "paratext": "09",
+      "ordinal": 9,
+      "chapters": 31
+    },
+    {
+      "slug": "2-kings",
+      "usfm": "2SA",
+      "paratext": "10",
+      "ordinal": 10,
+      "chapters": 24
+    },
+    {
+      "slug": "3-kings",
+      "usfm": "1KI",
+      "paratext": "11",
+      "ordinal": 11,
+      "chapters": 22
+    },
+    {
+      "slug": "4-kings",
+      "usfm": "2KI",
+      "paratext": "12",
+      "ordinal": 12,
+      "chapters": 25
+    },
+    {
+      "slug": "1-paralipomenon",
+      "usfm": "1CH",
+      "paratext": "13",
+      "ordinal": 13,
+      "chapters": 29
+    },
+    {
+      "slug": "2-paralipomenon",
+      "usfm": "2CH",
+      "paratext": "14",
+      "ordinal": 14,
+      "chapters": 36
+    },
+    {
+      "slug": "1-esdras",
+      "usfm": "EZR",
+      "paratext": "15",
+      "ordinal": 15,
+      "chapters": 10
+    },
+    {
+      "slug": "2-esdras",
+      "usfm": "NEH",
+      "paratext": "16",
+      "ordinal": 16,
+      "chapters": 13
+    },
+    {
+      "slug": "tobias",
+      "usfm": "TOB",
+      "paratext": "68",
+      "ordinal": 17,
+      "chapters": 15
+    },
+    {
+      "slug": "judith",
+      "usfm": "JDT",
+      "paratext": "69",
+      "ordinal": 18,
+      "chapters": 16
+    },
+    {
+      "slug": "esther",
+      "usfm": "ESG",
+      "paratext": "70",
+      "ordinal": 19,
+      "chapters": 16
+    },
+    {
+      "slug": "1-machabees",
+      "usfm": "1MA",
+      "paratext": "78",
+      "ordinal": 20,
+      "chapters": 16
+    },
+    {
+      "slug": "2-machabees",
+      "usfm": "2MA",
+      "paratext": "79",
+      "ordinal": 21,
+      "chapters": 15
+    },
+    {
+      "slug": "job",
+      "usfm": "JOB",
+      "paratext": "18",
+      "ordinal": 22,
+      "chapters": 42
+    },
+    {
+      "slug": "psalms",
+      "usfm": "PSA",
+      "paratext": "19",
+      "ordinal": 23,
+      "chapters": 150
+    },
+    {
+      "slug": "proverbs",
+      "usfm": "PRO",
+      "paratext": "20",
+      "ordinal": 24,
+      "chapters": 31
+    },
+    {
+      "slug": "ecclesiastes",
+      "usfm": "ECC",
+      "paratext": "21",
+      "ordinal": 25,
+      "chapters": 12
+    },
+    {
+      "slug": "canticle-of-canticles",
+      "usfm": "SNG",
+      "paratext": "22",
+      "ordinal": 26,
+      "chapters": 8
+    },
+    {
+      "slug": "wisdom",
+      "usfm": "WIS",
+      "paratext": "71",
+      "ordinal": 27,
+      "chapters": 19
+    },
+    {
+      "slug": "ecclesiasticus",
+      "usfm": "SIR",
+      "paratext": "72",
+      "ordinal": 28,
+      "chapters": 51
+    },
+    {
+      "slug": "isaie",
+      "usfm": "ISA",
+      "paratext": "23",
+      "ordinal": 29,
+      "chapters": 66
+    },
+    {
+      "slug": "jeremie",
+      "usfm": "JER",
+      "paratext": "24",
+      "ordinal": 30,
+      "chapters": 52
+    },
+    {
+      "slug": "lamentations",
+      "usfm": "LAM",
+      "paratext": "25",
+      "ordinal": 31,
+      "chapters": 5
+    },
+    {
+      "slug": "baruch",
+      "usfm": "BAR",
+      "paratext": "73",
+      "ordinal": 32,
+      "chapters": 6
+    },
+    {
+      "slug": "ezechiel",
+      "usfm": "EZK",
+      "paratext": "26",
+      "ordinal": 33,
+      "chapters": 48
+    },
+    {
+      "slug": "daniel",
+      "usfm": "DAG",
+      "paratext": "27",
+      "ordinal": 34,
+      "chapters": 14
+    },
+    {
+      "slug": "osee",
+      "usfm": "HOS",
+      "paratext": "28",
+      "ordinal": 35,
+      "chapters": 14
+    },
+    {
+      "slug": "joel",
+      "usfm": "JOL",
+      "paratext": "29",
+      "ordinal": 36,
+      "chapters": 3
+    },
+    {
+      "slug": "amos",
+      "usfm": "AMO",
+      "paratext": "30",
+      "ordinal": 37,
+      "chapters": 9
+    },
+    {
+      "slug": "abdias",
+      "usfm": "OBA",
+      "paratext": "31",
+      "ordinal": 38,
+      "chapters": 1
+    },
+    {
+      "slug": "jonas",
+      "usfm": "JON",
+      "paratext": "32",
+      "ordinal": 39,
+      "chapters": 4
+    },
+    {
+      "slug": "micheas",
+      "usfm": "MIC",
+      "paratext": "33",
+      "ordinal": 40,
+      "chapters": 7
+    },
+    {
+      "slug": "nahum",
+      "usfm": "NAM",
+      "paratext": "34",
+      "ordinal": 41,
+      "chapters": 3
+    },
+    {
+      "slug": "habacuc",
+      "usfm": "HAB",
+      "paratext": "35",
+      "ordinal": 42,
+      "chapters": 3
+    },
+    {
+      "slug": "sophonias",
+      "usfm": "ZEP",
+      "paratext": "36",
+      "ordinal": 43,
+      "chapters": 3
+    },
+    {
+      "slug": "aggeus",
+      "usfm": "HAG",
+      "paratext": "37",
+      "ordinal": 44,
+      "chapters": 2
+    },
+    {
+      "slug": "zacharias",
+      "usfm": "ZEC",
+      "paratext": "38",
+      "ordinal": 45,
+      "chapters": 14
+    },
+    {
+      "slug": "malachie",
+      "usfm": "MAL",
+      "paratext": "39",
+      "ordinal": 46,
+      "chapters": 4
+    },
+    {
+      "slug": "prayer-of-manasses",
+      "usfm": "MAN",
+      "paratext": "84",
+      "ordinal": 47,
+      "chapters": 1
+    },
+    {
+      "slug": "3-esdras",
+      "usfm": "1ES",
+      "paratext": "82",
+      "ordinal": 48,
+      "chapters": 9
+    },
+    {
+      "slug": "4-esdras",
+      "usfm": "2ES",
+      "paratext": "83",
+      "ordinal": 49,
+      "chapters": 16
+    },
+    {
+      "slug": "matthew",
+      "usfm": "MAT",
+      "paratext": "41",
+      "ordinal": 50,
+      "chapters": 28
+    },
+    {
+      "slug": "mark",
+      "usfm": "MRK",
+      "paratext": "42",
+      "ordinal": 51,
+      "chapters": 16
+    },
+    {
+      "slug": "luke",
+      "usfm": "LUK",
+      "paratext": "43",
+      "ordinal": 52,
+      "chapters": 24
+    },
+    {
+      "slug": "john",
+      "usfm": "JHN",
+      "paratext": "44",
+      "ordinal": 53,
+      "chapters": 21
+    },
+    {
+      "slug": "acts",
+      "usfm": "ACT",
+      "paratext": "45",
+      "ordinal": 54,
+      "chapters": 28
+    },
+    {
+      "slug": "romans",
+      "usfm": "ROM",
+      "paratext": "46",
+      "ordinal": 55,
+      "chapters": 16
+    },
+    {
+      "slug": "1-corinthians",
+      "usfm": "1CO",
+      "paratext": "47",
+      "ordinal": 56,
+      "chapters": 16
+    },
+    {
+      "slug": "2-corinthians",
+      "usfm": "2CO",
+      "paratext": "48",
+      "ordinal": 57,
+      "chapters": 13
+    },
+    {
+      "slug": "galatians",
+      "usfm": "GAL",
+      "paratext": "49",
+      "ordinal": 58,
+      "chapters": 6
+    },
+    {
+      "slug": "ephesians",
+      "usfm": "EPH",
+      "paratext": "50",
+      "ordinal": 59,
+      "chapters": 6
+    },
+    {
+      "slug": "philippians",
+      "usfm": "PHP",
+      "paratext": "51",
+      "ordinal": 60,
+      "chapters": 4
+    },
+    {
+      "slug": "colossians",
+      "usfm": "COL",
+      "paratext": "52",
+      "ordinal": 61,
+      "chapters": 4
+    },
+    {
+      "slug": "1-thessalonians",
+      "usfm": "1TH",
+      "paratext": "53",
+      "ordinal": 62,
+      "chapters": 5
+    },
+    {
+      "slug": "2-thessalonians",
+      "usfm": "2TH",
+      "paratext": "54",
+      "ordinal": 63,
+      "chapters": 3
+    },
+    {
+      "slug": "1-timothy",
+      "usfm": "1TI",
+      "paratext": "55",
+      "ordinal": 64,
+      "chapters": 6
+    },
+    {
+      "slug": "2-timothy",
+      "usfm": "2TI",
+      "paratext": "56",
+      "ordinal": 65,
+      "chapters": 4
+    },
+    {
+      "slug": "titus",
+      "usfm": "TIT",
+      "paratext": "57",
+      "ordinal": 66,
+      "chapters": 3
+    },
+    {
+      "slug": "philemon",
+      "usfm": "PHM",
+      "paratext": "58",
+      "ordinal": 67,
+      "chapters": 1
+    },
+    {
+      "slug": "hebrews",
+      "usfm": "HEB",
+      "paratext": "59",
+      "ordinal": 68,
+      "chapters": 13
+    },
+    {
+      "slug": "james",
+      "usfm": "JAS",
+      "paratext": "60",
+      "ordinal": 69,
+      "chapters": 5
+    },
+    {
+      "slug": "1-peter",
+      "usfm": "1PE",
+      "paratext": "61",
+      "ordinal": 70,
+      "chapters": 5
+    },
+    {
+      "slug": "2-peter",
+      "usfm": "2PE",
+      "paratext": "62",
+      "ordinal": 71,
+      "chapters": 3
+    },
+    {
+      "slug": "1-john",
+      "usfm": "1JN",
+      "paratext": "63",
+      "ordinal": 72,
+      "chapters": 5
+    },
+    {
+      "slug": "2-john",
+      "usfm": "2JN",
+      "paratext": "64",
+      "ordinal": 73,
+      "chapters": 1
+    },
+    {
+      "slug": "3-john",
+      "usfm": "3JN",
+      "paratext": "65",
+      "ordinal": 74,
+      "chapters": 1
+    },
+    {
+      "slug": "jude",
+      "usfm": "JUD",
+      "paratext": "66",
+      "ordinal": 75,
+      "chapters": 1
+    },
+    {
+      "slug": "apocalypse",
+      "usfm": "REV",
+      "paratext": "67",
+      "ordinal": 76,
+      "chapters": 22
+    }
+  ]
+}
