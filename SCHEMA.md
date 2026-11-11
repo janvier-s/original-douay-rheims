@@ -12,13 +12,13 @@ cannot express all of it. Where the two disagree, the JSON is right.
 manifest.json                    schema version, generated date, source commit, counts
 SCHEMA.md                        this file
 LICENSE                          CC0 1.0
-bible/tagged/<book>.json         CANONICAL — inline markup preserved
-bible/raw/<book>.json            derived — markup stripped, apparatus kept structured
-usfm/<NN-BBB>.usfm               derived — \f and \x only
-usfm-study/<NN-BBB>.usfm         derived — the same, plus annotations as \ef
+bible/tagged/<book>.json         CANONICAL: inline markup preserved
+bible/raw/<book>.json            derived: markup stripped, apparatus kept structured
+usfm/<NN-BBB>.usfm               derived: \f and \x only
+usfm-study/<NN-BBB>.usfm         derived: the same, plus annotations as \ef
 annotations/<book>/<NNN>.json    1,521 annotations in 397 files
 reference/{ot,nt}/*.json         34 documents of prefatory matter
-index/lemmas/<book>.json         derived — catchword spans into the tagged text
+index/lemmas/<book>.json         derived: catchword spans into the tagged text
 ```
 
 ## Counts
@@ -50,7 +50,7 @@ intros[]      { title, text, notes[] }              notes[]: { marker, text }
 endMatters[]  { title, text, notes[] }              notes[]: { marker, text }
 chapters[]    { chapter, verses[], summary, summary_notes[], summary_continuation, articles[] }
   summary_notes[]        { marker, text }
-  summary_continuation   { text, notes[], cross_refs[] }   — 49 chapters, see Verse 0
+  summary_continuation   { text, notes[], cross_refs[] }   49 chapters, see Verse 0
   articles[]       { title, text, notes[] }         notes[]: { marker, text }
 verses[]      { verse, text, has_annotation, cross_refs[], notes[] }
   cross_refs[]  { text }
@@ -89,14 +89,14 @@ vocabulary is nine tags. None carries attributes.
 
 | Tag | Meaning | Resolves against |
 |---|---|---|
-| `<i>` | italic | — |
+| `<i>` | italic | none |
 | `<na>` | note marker | verse `notes[]` by `label`; `summary_notes[]` by `marker` |
 | `<mn>` | marginal note marker | that block's `notes[]` by `marker` |
 | `<cr>` | cross-reference marker | verse `cross_refs[]` |
-| `<sc>` | small caps | — |
+| `<sc>` | small caps | none |
 | `<alt>` | the span a marginal variant applies to | the adjacent marker |
-| `<br>` | paragraph break — **void, never closed** | — |
-| `<col-left>`, `<col-right>` | two-column layout (once, in the Romans 9 annotation) | — |
+| `<br>` | paragraph break (**void, never closed**) | none |
+| `<col-left>`, `<col-right>` | two-column layout (once, in the Romans 9 annotation) | none |
 
 Every tag but `<br>` is balanced.
 
@@ -165,7 +165,7 @@ Keyed by `"chapter:verse"`, each value an array of tuples:
 { "1:1": [[0, 67, 2], [0, 29, 1]] }
 ```
 
-`[start, length, part]` — a character offset and length into the verse text,
+`[start, length, part]`, a character offset and length into the verse text,
 **markup included**, plus the `part` of the annotation whose catchword the span
 locates.
 
@@ -364,10 +364,10 @@ The ODR follows Vulgate numbering, so its four Esdras books are not the four a
 modern reader expects. The USFM registry names the Vulgate equivalences
 directly, which decides every case:
 
-- `1ES` — "The 9 chapter book of Greek Ezra in the LXX … called '3 Esdras' in the Vulgate"
-- `2ES` — "The 16 chapter book of Latin Esdras … called '4 Esdras' in the Vulgate"
-- `EZR` — "for Hebrew Ezra, sometimes called 1 Ezra or 1 Esdras"
-- `NEH` — "called 2 Esdras in the Vulgate"
+- `1ES`: "The 9 chapter book of Greek Ezra in the LXX … called '3 Esdras' in the Vulgate"
+- `2ES`: "The 16 chapter book of Latin Esdras … called '4 Esdras' in the Vulgate"
+- `EZR`: "for Hebrew Ezra, sometimes called 1 Ezra or 1 Esdras"
+- `NEH`: "called 2 Esdras in the Vulgate"
 
 **`EZA` / `5EZ` / `6EZ` are rejected.** They are not an alternative spelling of
 the same book. `EZA` is the 12-chapter Ezra Apocalypse alone, `5EZ` the
