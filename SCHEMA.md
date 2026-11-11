@@ -371,7 +371,7 @@ directly, which decides every case:
 
 **`EZA` / `5EZ` / `6EZ` are rejected.** They are not an alternative spelling of
 the same book. `EZA` is the 12-chapter Ezra Apocalypse alone, `5EZ` the
-2-chapter Latin preface, `6EZ` the 2-chapter Latin conclusion — three codes for
+2-chapter Latin preface, `6EZ` the 2-chapter Latin conclusion, three codes for
 translations that publish the pieces separately. The corpus does not:
 `4-esdras` is one 16-chapter book whose chapter 1 opens the preface, chapter 3
 the apocalypse, and chapter 15 the conclusion. That composite is what `2ES`
