@@ -46,11 +46,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "Aleph."
+              "text": "Aleph.",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "The miserable change in Jerusalem made the beholders astonished."
+              "text": "The miserable change in Jerusalem made the beholders astonied.",
+              "kind": "gloss"
             }
           ]
         },
@@ -60,7 +62,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Beth."
+              "text": "Beth.",
+              "kind": "gloss"
             }
           ]
         },
@@ -70,11 +73,13 @@
           "notes": [
             {
               "label": "a",
-              "text": "Some Jews seeing their brethren led captives into Babylon, went into Ægypt, but there also were in misery."
+              "text": "Some Jews seeing their brethren led captives into Babylon, went into Ægypt, but there also were in misery.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "Ghimel."
+              "text": "Ghimel.",
+              "kind": "gloss"
             }
           ]
         },
@@ -84,7 +89,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Daleth."
+              "text": "Daleth.",
+              "kind": "gloss"
             }
           ]
         },
@@ -94,11 +100,13 @@
           "notes": [
             {
               "label": "b",
-              "text": "It is a desolate misery when enemies obtain dominion."
+              "text": "It is a desolate misery when enemies obtain dominion.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "He."
+              "text": "He.",
+              "kind": "gloss"
             }
           ]
         },
@@ -108,21 +116,24 @@
           "notes": [
             {
               "label": "c",
-              "text": "Fleeing from place to place to seek relief."
+              "text": "Fleeing from place to place to seek relief.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "Vau."
+              "text": "Vau.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 7,
-          "text": "<na>[1]</na> Jerusalem hath remembered the days of her affliction, and prevarication of all her things worthy to be desired, which she had from the days of old, when her people fell in the enemy's hand, and there was no helper: the enemies have seen her, and have scorned her sabbaths.",
+          "text": "<na>[1]</na> Jerusalem hath remembered the days of her affliction, and prevarication of all her things worthy to be desired, which she had from the days of old, when her people fell in the enemies hand, and there was no helper: the enemies have seen her, and have scorned her sabbaths.",
           "notes": [
             {
               "label": "1",
-              "text": "Zain."
+              "text": "Zain.",
+              "kind": "gloss"
             }
           ]
         },
@@ -132,7 +143,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Heth."
+              "text": "Heth.",
+              "kind": "gloss"
             }
           ]
         },
@@ -142,11 +154,13 @@
           "notes": [
             {
               "label": "d",
-              "text": "Idolatry which is spiritual adultery."
+              "text": "Idolatry which is spiritual adultery.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "Teth."
+              "text": "Teth.",
+              "kind": "gloss"
             }
           ]
         },
@@ -156,7 +170,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Iod."
+              "text": "Iod.",
+              "kind": "gloss"
             }
           ]
         },
@@ -166,7 +181,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Caph."
+              "text": "Caph.",
+              "kind": "gloss"
             }
           ]
         },
@@ -176,11 +192,13 @@
           "notes": [
             {
               "label": "e",
-              "text": "First Nabuchodonosor took away much treasure. <i>4. Reg. 24.</i> afterwards his captain Nabuzardan spoiled all. <i>4. Reg. 25.</i>"
+              "text": "First Nabuchodonosor took away much treasure. <i>4. Reg. 24.</i> afterwards his captain Nabuzardan spoiled all. <i>4. Reg. 25.</i>",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "Lamed."
+              "text": "Lamed.",
+              "kind": "gloss"
             }
           ]
         },
@@ -190,7 +208,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Mem."
+              "text": "Mem.",
+              "kind": "gloss"
             }
           ]
         },
@@ -200,7 +219,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Nun."
+              "text": "Nun.",
+              "kind": "gloss"
             }
           ]
         },
@@ -210,7 +230,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Samech."
+              "text": "Samech.",
+              "kind": "gloss"
             }
           ]
         },
@@ -220,17 +241,19 @@
           "notes": [
             {
               "label": "1",
-              "text": "Ain."
+              "text": "Ain.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 17,
-          "text": "<na>[1]</na> Sion hath spread forth her hands, there is none to comfort her: our Lord hath commanded against Jacob, round about him are his enemies: Jerusalem is become as a woman polluted with menstruous flowers among them.",
+          "text": "<na>[1]</na> Sion hath spread forth her hands, there is none to comfort her: our Lord hath commanded against Jacob, round about him are his enemies: Jerusalem is become as a woman polluted with menstruous floors among them.",
           "notes": [
             {
               "label": "1",
-              "text": "Phe."
+              "text": "Phe.",
+              "kind": "gloss"
             }
           ]
         },
@@ -240,7 +263,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Sade."
+              "text": "Sade.",
+              "kind": "gloss"
             }
           ]
         },
@@ -250,11 +274,13 @@
           "notes": [
             {
               "label": "f",
-              "text": "Ægypt wherein the Jews trusted to find aid, could not, or at least did not help them. <i>Ier. 2. v. 18. & 37. v.</i> 4. & 6."
+              "text": "Ægypt wherein the Jews trusted to find aid, could not, or at least did not help them. <i>Jere. 2. v. 18. & 37. v.</i> 4. & 6.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "Coph."
+              "text": "Coph.",
+              "kind": "gloss"
             }
           ]
         },
@@ -264,11 +290,13 @@
           "notes": [
             {
               "label": "g",
-              "text": "At home in famine."
+              "text": "At home in famine.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "Res."
+              "text": "Res.",
+              "kind": "gloss"
             }
           ]
         },
@@ -278,7 +306,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Sin."
+              "text": "Sin.",
+              "kind": "gloss"
             }
           ]
         },
@@ -288,7 +317,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Thau."
+              "text": "Thau.",
+              "kind": "gloss"
             }
           ]
         }
@@ -303,11 +333,13 @@
           "notes": [
             {
               "label": "a",
-              "text": "Punishment permitted by God is truly ascribed to him as his fact."
+              "text": "Punishment permitted by God is truly ascribed to him as his fact.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "Aleph."
+              "text": "Aleph.",
+              "kind": "gloss"
             }
           ]
         },
@@ -317,7 +349,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Beth."
+              "text": "Beth.",
+              "kind": "gloss"
             }
           ]
         },
@@ -327,21 +360,24 @@
           "notes": [
             {
               "label": "b",
-              "text": "Strength and forces are called horns, so every horn signifieth all their strength."
+              "text": "Strength and forces are called horns, so every horn signifieth all their strength.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "Ghimel."
+              "text": "Ghimel.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 4,
-          "text": "<na>[1]</na> He hath bent his bow as an enemy, he hath fastened his right hand as an adversary: and he hast killed all, that was fair to behold in the tabernacle of the daughter of Sion, he hath poured out his indignation as fire.",
+          "text": "<na>[1]</na> He hath bent his bow as an enemy, he hath fastened his right hand as an adversary: and he hath killed all, that was fair to behold in the tabernacle of the daughter of Sion, he hath poured out his indignation as fire.",
           "notes": [
             {
               "label": "1",
-              "text": "Daleth."
+              "text": "Daleth.",
+              "kind": "gloss"
             }
           ]
         },
@@ -351,7 +387,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "He."
+              "text": "He.",
+              "kind": "gloss"
             }
           ]
         },
@@ -361,7 +398,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Vau."
+              "text": "Vau.",
+              "kind": "gloss"
             }
           ]
         },
@@ -371,11 +409,13 @@
           "notes": [
             {
               "label": "c",
-              "text": "Suffered his Sanctuary to be polluted."
+              "text": "Suffered his Sanctuary to be polluted.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "Zain."
+              "text": "Zain.",
+              "kind": "gloss"
             }
           ]
         },
@@ -385,7 +425,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Heth."
+              "text": "Heth.",
+              "kind": "gloss"
             }
           ]
         },
@@ -395,7 +436,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Teth."
+              "text": "Teth.",
+              "kind": "gloss"
             }
           ]
         },
@@ -405,7 +447,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Iod."
+              "text": "Iod.",
+              "kind": "gloss"
             }
           ]
         },
@@ -415,7 +458,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Caph."
+              "text": "Caph.",
+              "kind": "gloss"
             }
           ]
         },
@@ -425,7 +469,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Lamed."
+              "text": "Lamed.",
+              "kind": "gloss"
             }
           ]
         },
@@ -435,11 +480,13 @@
           "notes": [
             {
               "label": "d",
-              "text": "As the sea exceedeth all other waters, so the affliction surpasseth other afflictions, which is spoken by <i>hyperbole</i> to signify the grievousness thereof."
+              "text": "As the sea exceedeth all other waters, so the affliction surpasseth other afflictions, which is spoken by <i>hyperbole</i> to signify the grievousness thereof.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "Mem."
+              "text": "Mem.",
+              "kind": "gloss"
             }
           ]
         },
@@ -449,7 +496,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Nun."
+              "text": "Nun.",
+              "kind": "gloss"
             }
           ]
         },
@@ -459,7 +507,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Samech."
+              "text": "Samech.",
+              "kind": "gloss"
             }
           ]
         },
@@ -469,7 +518,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Phe."
+              "text": "Phe.",
+              "kind": "gloss"
             }
           ]
         },
@@ -479,7 +529,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Ain."
+              "text": "Ain.",
+              "kind": "gloss"
             }
           ]
         },
@@ -489,7 +540,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Sade."
+              "text": "Sade.",
+              "kind": "gloss"
             }
           ]
         },
@@ -499,7 +551,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Coph."
+              "text": "Coph.",
+              "kind": "gloss"
             }
           ]
         },
@@ -509,11 +562,13 @@
           "notes": [
             {
               "label": "e",
-              "text": "This happened before in Samaria. <i>4. Reg. 6.</i> and in the siege of Jerusalem, by Titus and Vespasian."
+              "text": "This happened before in Samaria. <i>4. Reg. 6.</i> and in the siege of Jerusalem, by Titus and Vespasian.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "Res."
+              "text": "Res.",
+              "kind": "gloss"
             }
           ]
         },
@@ -523,11 +578,13 @@
           "notes": [
             {
               "label": "f",
-              "text": "More severely than thou art accustomed."
+              "text": "More severely than thou art accustomed.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "Sin."
+              "text": "Sin.",
+              "kind": "gloss"
             }
           ]
         },
@@ -537,7 +594,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Thau."
+              "text": "Thau.",
+              "kind": "gloss"
             }
           ]
         }
@@ -552,11 +610,13 @@
           "notes": [
             {
               "label": "a",
-              "text": "Jeremy himself felt his part of this affliction."
+              "text": "Jeremy himself felt his part of this affliction.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "Aleph."
+              "text": "Aleph.",
+              "kind": "gloss"
             }
           ]
         },
@@ -566,7 +626,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Aleph."
+              "text": "Aleph.",
+              "kind": "gloss"
             }
           ]
         },
@@ -576,7 +637,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Aleph."
+              "text": "Aleph.",
+              "kind": "gloss"
             }
           ]
         },
@@ -586,7 +648,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Beth."
+              "text": "Beth.",
+              "kind": "gloss"
             }
           ]
         },
@@ -596,15 +659,18 @@
           "notes": [
             {
               "label": "b",
-              "text": "Jerusalem was ransacked by Nabuchodonosor."
+              "text": "Jerusalem was ransacked by Nabuchodonosor.",
+              "kind": "gloss"
             },
             {
               "label": "c",
-              "text": "and worse by Nabuzardan."
+              "text": "and worse by Nabuzardan.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "Beth."
+              "text": "Beth.",
+              "kind": "gloss"
             }
           ]
         },
@@ -614,7 +680,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Beth."
+              "text": "Beth.",
+              "kind": "gloss"
             }
           ]
         },
@@ -624,7 +691,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Ghimel."
+              "text": "Ghimel.",
+              "kind": "gloss"
             }
           ]
         },
@@ -634,7 +702,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Ghimel."
+              "text": "Ghimel.",
+              "kind": "gloss"
             }
           ]
         },
@@ -644,7 +713,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Ghimel."
+              "text": "Ghimel.",
+              "kind": "gloss"
             }
           ]
         },
@@ -654,7 +724,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Daleth."
+              "text": "Daleth.",
+              "kind": "gloss"
             }
           ]
         },
@@ -664,7 +735,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Daleth."
+              "text": "Daleth.",
+              "kind": "gloss"
             }
           ]
         },
@@ -674,7 +746,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Daleth."
+              "text": "Daleth.",
+              "kind": "gloss"
             }
           ]
         },
@@ -684,7 +757,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "He."
+              "text": "He.",
+              "kind": "gloss"
             }
           ]
         },
@@ -694,7 +768,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "He."
+              "text": "He.",
+              "kind": "gloss"
             }
           ]
         },
@@ -704,7 +779,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "He."
+              "text": "He.",
+              "kind": "gloss"
             }
           ]
         },
@@ -714,11 +790,13 @@
           "notes": [
             {
               "label": "d",
-              "text": "He describeth his grievous pains, as if his teeth were broken one by one."
+              "text": "He describeth his grievous pains, as if his teeth were broken one by one.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "Vau."
+              "text": "Vau.",
+              "kind": "gloss"
             }
           ]
         },
@@ -728,7 +806,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Vau."
+              "text": "Vau.",
+              "kind": "gloss"
             }
           ]
         },
@@ -738,11 +817,13 @@
           "notes": [
             {
               "label": "e",
-              "text": "The end of my life is come."
+              "text": "The end of my life is come.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "Vau."
+              "text": "Vau.",
+              "kind": "gloss"
             }
           ]
         },
@@ -752,7 +833,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Zain."
+              "text": "Zain.",
+              "kind": "gloss"
             }
           ]
         },
@@ -762,7 +844,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Zain."
+              "text": "Zain.",
+              "kind": "gloss"
             }
           ]
         },
@@ -772,7 +855,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Zain."
+              "text": "Zain.",
+              "kind": "gloss"
             }
           ]
         },
@@ -782,7 +866,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Heth."
+              "text": "Heth.",
+              "kind": "gloss"
             }
           ]
         },
@@ -792,11 +877,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "Heth."
+              "text": "Heth.",
+              "kind": "gloss"
             },
             {
               "label": "f",
-              "text": "God's mercies are every day renewed."
+              "text": "God's mercies are every day renewed.",
+              "kind": "gloss"
             }
           ]
         },
@@ -806,7 +893,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Heth."
+              "text": "Heth.",
+              "kind": "gloss"
             }
           ]
         },
@@ -816,7 +904,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Teth."
+              "text": "Teth.",
+              "kind": "gloss"
             }
           ]
         },
@@ -826,11 +915,13 @@
           "notes": [
             {
               "label": "g",
-              "text": "Which God will give."
+              "text": "Which God will give.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "Teth."
+              "text": "Teth.",
+              "kind": "gloss"
             }
           ]
         },
@@ -840,7 +931,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Teth."
+              "text": "Teth.",
+              "kind": "gloss"
             }
           ]
         },
@@ -850,7 +942,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Iod."
+              "text": "Iod.",
+              "kind": "gloss"
             }
           ]
         },
@@ -860,7 +953,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Iod."
+              "text": "Iod.",
+              "kind": "gloss"
             }
           ]
         },
@@ -870,11 +964,13 @@
           "notes": [
             {
               "label": "h",
-              "text": "Especially understood of Christ. <i>Mat. 26.</i>"
+              "text": "Especially understood of Christ. <i>Mat. 26.</i>",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "Iod."
+              "text": "Iod.",
+              "kind": "gloss"
             }
           ]
         },
@@ -884,7 +980,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Caph."
+              "text": "Caph.",
+              "kind": "gloss"
             }
           ]
         },
@@ -894,7 +991,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Caph."
+              "text": "Caph.",
+              "kind": "gloss"
             }
           ]
         },
@@ -904,11 +1002,13 @@
           "notes": [
             {
               "label": "i",
-              "text": "God punisheth his servants not to hurt them but for their good."
+              "text": "God punisheth his servants not to hurt them but for their good.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "Caph."
+              "text": "Caph.",
+              "kind": "gloss"
             }
           ]
         },
@@ -918,7 +1018,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Lamed."
+              "text": "Lamed.",
+              "kind": "gloss"
             }
           ]
         },
@@ -928,7 +1029,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Lamed."
+              "text": "Lamed.",
+              "kind": "gloss"
             }
           ]
         },
@@ -938,7 +1040,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Lamed."
+              "text": "Lamed.",
+              "kind": "gloss"
             }
           ]
         },
@@ -948,7 +1051,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Mem."
+              "text": "Mem.",
+              "kind": "gloss"
             }
           ]
         },
@@ -958,11 +1062,13 @@
           "notes": [
             {
               "label": "k",
-              "text": "The speech of such as deny God's providence."
+              "text": "The speech of such as deny Gods providence.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "Mem."
+              "text": "Mem.",
+              "kind": "gloss"
             }
           ]
         },
@@ -972,7 +1078,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Mem."
+              "text": "Mem.",
+              "kind": "gloss"
             }
           ]
         },
@@ -982,7 +1089,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Nun."
+              "text": "Nun.",
+              "kind": "gloss"
             }
           ]
         },
@@ -992,7 +1100,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Nun."
+              "text": "Nun.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1002,7 +1111,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Nun."
+              "text": "Nun.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1012,7 +1122,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Samech."
+              "text": "Samech.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1022,7 +1133,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Samech."
+              "text": "Samech.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1032,7 +1144,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Samech."
+              "text": "Samech.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1042,7 +1155,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Phe."
+              "text": "Phe.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1052,11 +1166,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "Phe."
+              "text": "Phe.",
+              "kind": "gloss"
             },
             {
               "label": "l",
-              "text": "Preaching of false Prophets hath brought these evils upon us."
+              "text": "Preaching of false Prophets hath brought these evils upon us.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1066,7 +1182,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Phe."
+              "text": "Phe.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1076,7 +1193,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Ain."
+              "text": "Ain.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1086,7 +1204,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Ain."
+              "text": "Ain.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1096,7 +1215,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Ain."
+              "text": "Ain.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1106,7 +1226,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Sade."
+              "text": "Sade.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1116,7 +1237,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Sade."
+              "text": "Sade.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1126,7 +1248,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Sade."
+              "text": "Sade.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1136,7 +1259,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Coph."
+              "text": "Coph.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1146,7 +1270,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Coph."
+              "text": "Coph.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1156,7 +1281,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Coph."
+              "text": "Coph.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1166,7 +1292,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Res."
+              "text": "Res.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1176,11 +1303,13 @@
           "notes": [
             {
               "label": "m",
-              "text": "Judge thou that which they have judged unjustly."
+              "text": "Judge thou that which they have judged unjustly.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "Res."
+              "text": "Res.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1190,7 +1319,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Res."
+              "text": "Res.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1200,7 +1330,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Sin."
+              "text": "Sin.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1210,7 +1341,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Sin."
+              "text": "Sin.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1220,7 +1352,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Sin."
+              "text": "Sin.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1230,7 +1363,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Thau."
+              "text": "Thau.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1240,15 +1374,18 @@
           "notes": [
             {
               "label": "n",
-              "text": "Give them the pain of hearty sorrow:"
+              "text": "Give them the pain of hearty sorrow:",
+              "kind": "gloss"
             },
             {
               "label": "o",
-              "text": "Wherewith thou afflictest the wicked."
+              "text": "Wherewith thou afflictest the wicked.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "Thau."
+              "text": "Thau.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1258,7 +1395,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Thau."
+              "text": "Thau.",
+              "kind": "gloss"
             }
           ]
         }
@@ -1273,11 +1411,13 @@
           "notes": [
             {
               "label": "a",
-              "text": "Whereas the Temple before glistered with gold, now there appeared burnt smoky walls, & pitiful ruins."
+              "text": "Whereas the Temple before glistered with gold, now there appeared burnt smoky walls, & pitiful ruins.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "Aleph."
+              "text": "Aleph.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1287,7 +1427,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Beth."
+              "text": "Beth.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1297,15 +1438,18 @@
           "notes": [
             {
               "label": "b",
-              "text": "Lamia hath a face like a woman, a body as other brutish beasts, is cruel to others, yet kind to her own brood: but women of Jerusalem in extreme distress were cruel to their own children."
+              "text": "Lamia hath a face like a woman, a body as other brutish beasts, is cruel to others, yet kind to her own brood: but women of Jerusalem in extreme distress were cruel to their own children.",
+              "kind": "gloss"
             },
             {
               "label": "c",
-              "text": "as the ostrich forsaking her eggs."
+              "text": "as the ostrich forsaking her eggs.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "Ghimel."
+              "text": "Ghimel.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1315,7 +1459,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Daleth."
+              "text": "Daleth.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1325,7 +1470,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "He."
+              "text": "He.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1335,7 +1481,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Vau."
+              "text": "Vau.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1345,7 +1492,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Zain."
+              "text": "Zain.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1355,11 +1503,13 @@
           "notes": [
             {
               "label": "d",
-              "text": "One could not know another, though they were acquainted before."
+              "text": "One could not know another, though they were acquainted before.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "Heth."
+              "text": "Heth.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1369,7 +1519,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Teth."
+              "text": "Teth.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1379,19 +1530,23 @@
           "notes": [
             {
               "label": "e",
-              "text": "Women being by nature pitiful, were cruel to their own children."
+              "text": "Women being by nature pitiful, were cruel to their own children.",
+              "kind": "gloss"
             },
             {
               "label": "f",
-              "text": "In the siege of Jerusalem."
+              "text": "In the siege of Jerusalem.",
+              "kind": "gloss"
             },
             {
               "label": "g",
-              "text": "In Hebrew phrase cities are called the daughters of the country."
+              "text": "In Hebrew phrase cities are called the daughters of the country.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "Iod."
+              "text": "Iod.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1401,7 +1556,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Caph."
+              "text": "Caph.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1411,7 +1567,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Lamed."
+              "text": "Lamed.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1421,11 +1578,13 @@
           "notes": [
             {
               "label": "h",
-              "text": "False Prophets were called by the name of Prophets, as they seemed in the world to be."
+              "text": "False Prophets were called by the name of Prophets, as they seemed in the world to be.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "Mem."
+              "text": "Mem.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1435,7 +1594,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Nun."
+              "text": "Nun.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1445,7 +1605,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Samech."
+              "text": "Samech.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1455,17 +1616,19 @@
           "notes": [
             {
               "label": "1",
-              "text": "Phe."
+              "text": "Phe.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 17,
-          "text": "<na>[1]</na> Whilst we yet stood, our eyes failed towards our vain help, when we looked attentive to a nation, that was not able to save.",
+          "text": "<na>[1]</na> Whiles we yet stood, our eyes failed towards our vain help, when we looked attentive to a nation, that was not able to save.",
           "notes": [
             {
               "label": "1",
-              "text": "Ain."
+              "text": "Ain.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1475,7 +1638,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Sade."
+              "text": "Sade.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1485,7 +1649,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Coph."
+              "text": "Coph.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1495,11 +1660,13 @@
           "notes": [
             {
               "label": "i",
-              "text": "This pertaineth either to King Iosias slain by the Ægyptians. <i>2. Par. 35.</i> or to Sedecias taken by the Chaldees. Mystically of Christ our Saviour. <i>Isa. 53. v. 5. S. Aug. l. 18. c. 33. de civit.</i>"
+              "text": "This pertaineth either to King Iosias slain by the Ægyptians. <i>2. Par. 35.</i> or to Sedecias taken by the Chaldees. Mystically of Christ our Saviour. <i>Is. 53. v. 5. S. Aug. li. 18. c. 33. de civ.</i>",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "Res."
+              "text": "Res.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1509,7 +1676,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Sin."
+              "text": "Sin.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1519,7 +1687,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Thau."
+              "text": "Thau.",
+              "kind": "gloss"
             }
           ]
         }
@@ -1542,7 +1711,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Many were orphans without fathers, & all were deprived of their King, who was a father of all the people."
+              "text": "Many were orphans without fathers, & all were deprived of their King, who was a father of all the people.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1560,7 +1730,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "We have put ourselves to work and travail in strange countries to get bread to eat."
+              "text": "We have put ourselves to work and travail in strange countries to get bread to eat.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1578,7 +1749,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>* in danger of the sword.</i>"
+              "text": "<i>* in danger of the sword.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -1596,15 +1768,17 @@
         },
         {
           "verse": 13,
-          "text": "Young men they abused <na>(d)</na> unchastely: and the children fell <na>(e)</na> in wood.",
+          "text": "Young men they abused <na>(d)</na> unchastly: and the children fell <na>(e)</na> in wood.",
           "notes": [
             {
               "label": "d",
-              "text": "They were made to grind naked in the mill:"
+              "text": "They were made to grind naked in the mill:",
+              "kind": "gloss"
             },
             {
               "label": "e",
-              "text": "And beaten with staves."
+              "text": "And beaten with staves.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1622,7 +1796,8 @@
           "notes": [
             {
               "label": "f",
-              "text": "They lost the glory of a kingdom, and were subject to strange and barbarous nations."
+              "text": "They lost the glory of a kingdom, and were subject to strange and barbarous nations.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1648,7 +1823,8 @@
           "notes": [
             {
               "label": "g",
-              "text": "As Iere: <i>31. v. 18.</i> and <i>S. Aug. l. de gratia & l. arb. c. 2. 4. &c.</i>"
+              "text": "As Iere: <i>31. v. 18.</i> and <i>S. Aug. l. de gratia & l. arb. c. 2. 4. &c.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -1658,7 +1834,8 @@
           "notes": [
             {
               "label": "h",
-              "text": "Having so severely punished us, we beseech thee now to cease from more."
+              "text": "Having so severely punished us, we beseech thee now to cease from more.",
+              "kind": "gloss"
             }
           ]
         }

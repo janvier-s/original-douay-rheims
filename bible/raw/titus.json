@@ -82,7 +82,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Epimenides."
+              "text": "Epimenides.",
+              "kind": "gloss"
             }
           ]
         },
@@ -105,7 +106,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "He speaketh not of the Church's abstaining from meats sometimes, which is not for any uncleanness in the creatures, but for chastening their bodies: but he meaneth the Jewish superstition, who now being Christians, would not cease to put difference of clean and unclean according to their old law. See S. Augustine Cont. Faust. li. 31. c. 4."
+              "text": "He speaketh not of the Church's abstaining from meats sometimes, which is not for any uncleanness in the creatures, but for chastening their bodies: but he meaneth the Jewish superstition, who now being Christians, would not cease to put difference of clean and unclean according to their old law. See S. Augustine Cont. Faust. li. 31. c. 4.",
+              "kind": "gloss"
             }
           ]
         },
@@ -129,7 +131,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c σεμνοὺς pudicos"
+              "text": "c σεμνοὺς pudicos",
+              "kind": "gloss"
             }
           ]
         },
@@ -176,7 +179,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle at the first Mass on Christmas day, and"
+              "text": "The Epistle at the first Mass on Christmas day, and",
+              "kind": "lectionary"
             }
           ]
         },
@@ -190,7 +194,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c ἐπιφὰνειαν"
+              "text": "c ἐπιφὰνειαν",
+              "kind": "word"
             }
           ]
         },
@@ -204,7 +209,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Bishops must be stout and command in God's cause, and the people must in nowise disobey or contemn them."
+              "text": "Bishops must be stout and command in God's cause, and the people must in no wise disobey or contemn them.",
+              "kind": "gloss"
             }
           ]
         }
@@ -232,11 +238,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "b The Epistle at the 2. Mass on Christmas day, & within the octave, and in the Votive Mass of our B. Lady between Christmas and Candlemas."
+              "text": "b The Epistle at the 2. Mass on Christmas day, & within the octave, and in the Votive Mass of our B. Lady between Christmas and Candlemas.",
+              "kind": "lectionary"
             },
             {
               "label": "2",
-              "text": "c φιλανθρωπία"
+              "text": "c φιλανθρωπία",
+              "kind": "word"
             }
           ]
         },
@@ -251,7 +259,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "As before in the Sacrament of holy Orders (1. Tim. 4. and 2. Tim. 1.) so here it is plain that Baptism giveth grace, & that by it as by an instrumental cause we be saved."
+              "text": "As before in the Sacrament of holy Orders (1. Tim. 4. and 2. Tim. 1.) so here it is plain that Baptism giveth grace, & that by it as by an instrumental cause we be saved.",
+              "kind": "gloss"
             }
           ]
         },
@@ -283,12 +292,13 @@
         },
         {
           "verse": 10,
-          "text": "Aman that is an heretic after the first and second admonition avoid:",
+          "text": "A man that is an heretic after the first and second admonition avoid:",
           "has_annotation": true,
           "notes": [
             {
               "label": "1",
-              "text": "These admonitions or correptions must be given to such as err, by our Spiritual Governors and Pastors: to whom if they yield not, Christian men must avoid them."
+              "text": "These admonitions or correptions must be given to such as err, by our Spiritual Governors and Pastors: to whom if they yield not, Christian men must avoid them.",
+              "kind": "gloss"
             }
           ]
         },
@@ -311,7 +321,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c προίςασθαι præesse."
+              "text": "c προίςασθαι præesse.",
+              "kind": "word"
             }
           ]
         },

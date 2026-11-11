@@ -78,7 +78,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>c παράκλητον.</i>"
+              "text": "<i>c παράκλητον.</i>",
+              "kind": "word"
             }
           ]
         },
@@ -156,7 +157,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "How all sin & tentation proceed of these three, see S. Thomas in his Sum. 1. 2. <i>quæst. 77. art. 5.</i>"
+              "text": "How all sin & temptation proceed of these three, see S. Thomas in his Sum. 1. 2. <i>quæst. 77. art. 5.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -171,7 +173,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>c ὁ ἀντίχριςος.</i>"
+              "text": "<i>c ὁ ἀντίχριςος.</i>",
+              "kind": "word"
             }
           ]
         },
@@ -182,7 +185,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "They were of us for the time, that is, of and in the Church: otherwise they could not have gone out. But they were not of the constant sort, or of the elect & predestinate: for then they had tarried within, or returned before their death."
+              "text": "They were of us for the time, that is, of and in the Church: otherwise they could not have gone out. But they were not of the constant sort, or of the elect & predestinate: for then they had tarried within, or returned before their death.",
+              "kind": "gloss"
             }
           ]
         },
@@ -193,7 +197,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>c Χρίσμα Chrisma. whereof Christ & Christians</i>"
+              "text": "<i>c Χρίσμα Chrisma. whereof Christ & Christians</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -215,7 +220,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Keep that firmly & constantly which you have heard even from the beginning, by the mouth of the Apostles; & not that only which you have received by writing."
+              "text": "Keep that firmly & constantly which you have heard even from the beginning, by the mouth of the Apostles; & not that only which you have received by writing.",
+              "kind": "gloss"
             }
           ]
         },
@@ -233,7 +239,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c or, <i>in it.</i>"
+              "text": "c or, <i>in it.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -247,7 +254,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "We see it is Apostolical doctrine, that men may do or work justice, and that so doing they be just by their works proceeding of God's grace, & not by faith or imputation only."
+              "text": "We see it is Apostolical doctrine, that men may do or work justice, and that so doing they be just by their works proceeding of God's grace, & not by faith or imputation only.",
+              "kind": "gloss"
             }
           ]
         }
@@ -263,7 +271,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Not by nature, as Christ is: but by grace and adoption."
+              "text": "Not by nature, as Christ is: but by grace and adoption.",
+              "kind": "gloss"
             }
           ]
         },
@@ -273,7 +282,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c How we shall see God & be like unto him in the next life, see S. Augustine. <i>ep. 111. 112. & li. 12. de civit. Dei c. 29.</i>"
+              "text": "c How we shall see God & be like unto him in the next life, see S. Augustine. <i>ep. 111. 112. & li. 12. de civit. Dei c. 29.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -283,7 +293,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "This teacheth us that man sanctifieth himself by his free-will working together with God's grace. S. Augustine <i>upon this place.</i>"
+              "text": "This teacheth us that man sanctifieth himself by his free-will working together with God's grace. S. Augustine <i>upon this place.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -343,8 +354,12 @@
           "notes": [
             {
               "label": "2",
-              "text": "The Epistle for S. Polycarpus, <i>Ian. 26.</i>"
+              "text": "The Epistle for S. Polycarpus, <i>Ian. 26.</i>",
+              "kind": "lectionary"
             }
+          ],
+          "xrefs": [
+            "*Io. 13, 15.*"
           ]
         },
         {
@@ -362,7 +377,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle upon the 2. Sunday after Pentecost."
+              "text": "The Epistle upon the 2. Sunday after Pentecost.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -394,7 +410,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "Every man is bound to give alms according to his ability, when he seeth his brother in great necessity."
+              "text": "Every man is bound to give alms according to his ability, when he seeth his brother in great necessity.",
+              "kind": "gloss"
             }
           ]
         },
@@ -435,8 +452,12 @@
           "notes": [
             {
               "label": "2",
-              "text": "Lest any man should think by the words next before, only faith in Christ to be commanded or to please God, he addeth to faith, the commandment of charity or love of our neighbour."
+              "text": "Lest any man should think by the words next before, only faith in Christ to be commanded or to please God, he addeth to faith, the commandment of charity or love of our neighbour.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "*Io. 17, 3. 13, 34.*"
           ]
         },
         {
@@ -471,7 +492,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>c τὸ τοῦ ἀντίχριςτου.</i>"
+              "text": "<i>c τὸ τοῦ ἀντίχριςτου.</i>",
+              "kind": "word"
             }
           ]
         },
@@ -503,7 +525,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle upon the first Sunday after Pentecost."
+              "text": "The Epistle upon the first Sunday after Pentecost.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -535,8 +558,12 @@
           "notes": [
             {
               "label": "2",
-              "text": "No man in this life, nor with corporal eyes, can see the proper essence or substance of the Deity. See S. August. ad Paulin. de videndo Deo. cp. 112."
+              "text": "No man in this life, nor with corporal eyes, can see the proper essence or substance of the Deity. See S. August. ad Paulin. de videndo Deo. cp. 112.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "*Io. 1, 18. 1 Tim. 6, 16.*"
           ]
         },
         {
@@ -584,7 +611,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Church only, not every private man, hath to prove and discern spirits."
+              "text": "The Church only, not every private man, hath to prove and discern spirits.",
+              "kind": "gloss"
             }
           ]
         }
@@ -618,7 +646,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle <i>upon Dominica in albis</i> or Low Sunday."
+              "text": "The Epistle <i>upon Dominica in albis</i> or Low Sunday.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -628,6 +657,10 @@
           "cross_refs": [
             {
               "text": "1. Cor. 15, 57."
+            },
+            {
+              "text": "he. 1 Cor. 15, 57",
+              "source": "sancta"
             }
           ]
         },
@@ -684,7 +717,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c or, <i>if we know</i>"
+              "text": "c or, <i>if we know</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -699,11 +733,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>c ἀδικία</i>"
+              "text": "<i>c ἀδικία</i>",
+              "kind": "word"
             },
             {
               "label": "2",
-              "text": "<i>not to death.</i>"
+              "text": "<i>not to death.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -731,7 +767,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>ἀπὸ τῶν ἐιδώλων.</i>"
+              "text": "<i>ἀπὸ τῶν ἐιδώλων.</i>",
+              "kind": "word"
             }
           ]
         }

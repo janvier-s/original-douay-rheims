@@ -38,7 +38,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle for S. Marcellus. Ian. 16. and S. Linus Sept. 23. And for some other Martyrs Bishops."
+              "text": "The Epistle for S. Marcellus. Ian. 16. and S. Linus Sept. 23. And for some other Martyrs Bishops.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -48,7 +49,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c διὰ τῆς παρακλήσεως ἕις παρακαλούμεθα."
+              "text": "c διὰ τῆς παρακλήσεως ἕις παρακαλούμεθα.",
+              "kind": "word"
             }
           ]
         },
@@ -167,7 +169,7 @@
         },
         {
           "verse": 7,
-          "text": "so that contrarywise you should rather pardon and comfort him, lest perhaps such an one be swallowed up with over great sorrow."
+          "text": "so that contrariwise you should rather pardon and comfort him, lest perhaps such an one be swallowed up with over great sorrow."
         },
         {
           "verse": 8,
@@ -186,7 +188,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c κεχάρισμαι. Though he did great Penance (saith Theodorete) yet he calleth this pardoning. χάριν, a grace, because his sin was"
+              "text": "c κεχάρισμαι. Though he did great Penance (saith Theodorete) yet he calleth this pardoning. χάριν, a grace, because his sin was",
+              "kind": "gloss"
             }
           ]
         },
@@ -228,7 +231,7 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Begin we again to commend our-selves? or do we need (as certain) epistles of commendation to you, of from you?"
+          "text": "Begin we again to commend our-selves? or do we need (as certain) epistles of commendation to you, or from you?"
         },
         {
           "verse": 2,
@@ -245,7 +248,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle upon the 12. Sunday after Pentecost."
+              "text": "The Epistle upon the 12. Sunday after Pentecost.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -265,7 +269,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Apostles wrote the Gospel in men's hearts much more than in paper."
+              "text": "The Apostles wrote the Gospel in men's hearts much more than in paper.",
+              "kind": "gloss"
             }
           ]
         },
@@ -275,7 +280,7 @@
         },
         {
           "verse": 9,
-          "text": "For if the ministration of damnation be in glory, much more the ministry of justice aboundeth in glory.",
+          "text": "For if the ministration of damnation be in glory, much more the ministery of justice aboundeth in glory.",
           "has_annotation": true
         },
         {
@@ -324,7 +329,7 @@
         },
         {
           "verse": 18,
-          "text": "But we all, beholding the glory of our Lord with face revealed, are transformed into the same image from glory unto glory, as of our Lord's Spirit."
+          "text": "But we all, beholding the glory of our Lord with face revealed, are transformed into the same image from glory unto glory, as of our Lords Spirit."
         }
       ],
       "summary": "Lest the Judaical false Apostles should object again that he praiseth himself, he saith that the Corinthians are his commendation: and they in their hearts being justified by his ministry, he thereof inferreth that the Ministers of the new Testament are far more glorious than they of the old, 12. and our people more lightened than theirs."
@@ -355,7 +360,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle for S. Athanasius. Mai. 2."
+              "text": "The Epistle for S. Athanasius. Mai. 2.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -373,7 +379,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "I c aporiamur. See S. Ambr. Theoph."
+              "text": "I c aporiamur. See S. Ambr. Theoph.",
+              "kind": "gloss"
             }
           ]
         },
@@ -416,22 +423,25 @@
           "notes": [
             {
               "label": "1",
-              "text": "b corrumpitur."
+              "text": "b corrumpitur.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 17,
-          "text": "For that our tribulation which presently is momentary & light, worketh above measure exceedingly an eternal weight of glory in us,",
+          "text": "For that our tribulation which presently is momentany & light, worketh above measure exceedingly an eternal weight of glory in us,",
           "has_annotation": true,
           "notes": [
             {
               "label": "1",
-              "text": "c The English Bible 1577, doth falsely translate, prepareth."
+              "text": "c The English Bible 1577, doth falsely translate, prepareth.",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "c κατεργάζεται."
+              "text": "c κατεργάζεται.",
+              "kind": "word"
             }
           ]
         },
@@ -451,7 +461,7 @@
         },
         {
           "verse": 2,
-          "text": "For in this also do we groan, desirous to be over-clothed with our habitation that is from Heaven:"
+          "text": "For in this also do we groan, desirous to be overclothed with our habitation that is from Heaven:"
         },
         {
           "verse": 3,
@@ -459,11 +469,11 @@
         },
         {
           "verse": 4,
-          "text": "For we also that are in this tabernacle, groan being burdened: because we would not be spoiled, but over-clothed, that that which is mortal might be swallowed up of life."
+          "text": "For we also that are in this tabernacle, groan being burdened: because we would not be spoiled, but overclothed, that that which is mortal might be swallowed up of life."
         },
         {
           "verse": 5,
-          "text": "And he that maketh us of this same, is God, who hath given us the pledge of the Spirit."
+          "text": "And he that maketh us to this same, is God, who hath given us the pledge of the Spirit."
         },
         {
           "verse": 6,
@@ -479,7 +489,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "This place proveth that the Saints departed now since Christ, sleep not till the day of judgement, and that they be not holden in any several place of rest from the fruition of God till the resurrection of their bodies, but that they be present with God in their souls."
+              "text": "This place proveth that the Saints departed now since Christ, sleep not till the day of judgement, and that they be not holden in any several place of rest from the fruition of God till the resurrection of their bodies, but that they be present with God in their souls.",
+              "kind": "gloss"
             }
           ]
         },
@@ -550,7 +561,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c This is to say, a sacrifice and an host for sin. See the last annot. of this chapter."
+              "text": "c This is to say, a sacrifice and an host for sin. See the last annot. of this chapter.",
+              "kind": "gloss"
             }
           ]
         }
@@ -567,7 +579,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle upon the first Sunday of Lent."
+              "text": "The Epistle upon the first Sunday of Lent.",
+              "kind": "gloss"
             }
           ]
         },
@@ -590,7 +603,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle for many Martyrs."
+              "text": "The Epistle for many Martyrs.",
+              "kind": "gloss"
             }
           ]
         },
@@ -621,7 +635,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "S. Augustine (in Ps. 113) gathereth hereby, that the Apostles did vow poverty."
+              "text": "S. Augustine (in Ps. 113) gathereth hereby, that the Apostles did vow poverty.",
+              "kind": "gloss"
             }
           ]
         },
@@ -644,7 +659,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "It is not lawful for Catholics to marry with Heretics or Infidels. See S. Hierom. cont. Iovinian. li. 1. Conc. Laod. c. 10. & 31."
+              "text": "It is not lawful for Catholics to marry with Heretics or Infidels. See S. Hierom. cont. Iovinian. li. 1. Conc. Laod. c. 10. & 31.",
+              "kind": "gloss"
             }
           ]
         },
@@ -728,13 +744,14 @@
           "notes": [
             {
               "label": "1",
-              "text": "Contrition or sorrowful lamenting of our offences, is the cause of salvation. Not only faith then saveth, as the Heretics affirm."
+              "text": "Contrition or sorrowful lamenting of our offences, is the cause of salvation. Not only faith then saveth, as the Heretics affirm.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 11,
-          "text": "For behold this very thing, that you were made sorry according to God, how great carefulness it worketh in you: yea defence, yea indignation, yea fear, yea desire, yea emulation, yea revenge, in all things you have shewed yourselves to be undefiled in the matter."
+          "text": "For behold this very thing, that you were made sorry according to God, how great carefulness it worketh in you: yea defense, yea indignation, yea fear, yea desire, yea emulation, yea revenge, in all things you have shewed yourselves to be undefiled in the matter."
         },
         {
           "verse": 12,
@@ -784,7 +801,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The principal respect next after God, is to be had of our masters in religion, in all temporal and spiritual duties."
+              "text": "The principal respect next after God, is to be had of our masters in religion, in all temporal and spiritual duties.",
+              "kind": "gloss"
             }
           ]
         },
@@ -806,7 +824,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle for S. Paulinus, Iun. 22."
+              "text": "The Epistle for S. Paulinus, Iun. 22.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -846,7 +865,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle upon S. Luke's day, Octob. 18."
+              "text": "The Epistle upon S. Luke's day, Octob. 18.",
+              "kind": "gloss"
             }
           ]
         },
@@ -912,7 +932,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c That is, in this matter of alms Chrysos. Theoph."
+              "text": "c That is, in this matter of alms Chrysos. Theoph.",
+              "kind": "gloss"
             }
           ]
         },
@@ -928,7 +949,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle for S. Laurence, Aug. 10."
+              "text": "The Epistle for S. Laurence, Aug. 10.",
+              "kind": "gloss"
             }
           ]
         },
@@ -956,13 +978,14 @@
           "notes": [
             {
               "label": "2",
-              "text": "The fruit of alms is the increase of grace in all justice and good works to life everlasting: God giving these things for reward & recompense of charitable works, which therefore be called the seed or meritorious cause of these spiritual fruits."
+              "text": "The fruit of alms is the increase of grace in all justice and good works to life everlasting: God giving these things for reward & recompense of charitable works, which therefore be called the seed or meritorious cause of these spiritual fruits.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 10,
-          "text": "And he that ministereth seed to the sower, will give bread also for to eat: and will multiply your seed and will augment the increases of the fruits of your justice:"
+          "text": "And he that ministreth seed to the sower, will give bread also for to eat: and will multiply your seed and will augment the increases of the fruits of your justice:"
         },
         {
           "verse": 11,
@@ -1010,7 +1033,7 @@
         },
         {
           "verse": 5,
-          "text": "and all loftiness extolling itself against the knowledge of God, and bringing into captivity all understanding unto the obedience of Christ,"
+          "text": "and all loftiness extolling it self against the knowledge of God, and bringing into captivity all understanding unto the obedience of Christ,"
         },
         {
           "verse": 6,
@@ -1019,11 +1042,11 @@
         },
         {
           "verse": 7,
-          "text": "See the things that are according to appearance. If any man have affiance in himself, that he is Christ's: let him think this again with himself, that as he is Christ's, so we also."
+          "text": "See the things that are according to appearance. If any man have affiance in him self, that he is Christ's: let him think this again with himself, that as he is Christ's, so we also."
         },
         {
           "verse": 8,
-          "text": "For and if I should glory some-what more of our power, which our Lord hath given us unto edification and not to your destruction; I shall not be ashamed.",
+          "text": "For and if I should glory somewhat more of our power, which our Lord hath given us unto edification and not to your destruction; I shall not be ashamed.",
           "has_annotation": true
         },
         {
@@ -1056,7 +1079,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c ἐλπίδα ἀυξομένης τῆς πίςεως ὑμῶν."
+              "text": "c ἐλπίδα ἀυξομένης τῆς πίςεως ὑμῶν.",
+              "kind": "word"
             }
           ]
         },
@@ -1075,13 +1099,14 @@
           "notes": [
             {
               "label": "2",
-              "text": "The Epistle upon S. Lucy's day 13. Decem. S. Martha's. Iulij 29. S. Agnes. secundo Ian. 28. S. Potentiana's. May 19."
+              "text": "The Epistle upon S. Lucy's day 13. Decem. S. Martha's. Iulij 29. S. Agnes. secundo Ian. 28. S. Potentiana's. May 19.",
+              "kind": "lectionary"
             }
           ]
         },
         {
           "verse": 18,
-          "text": "For not he that commendeth himself, the same is approved; but whom God commendeth."
+          "text": "For not he that commendeth him self, the same is approved; but whom God commendeth."
         }
       ],
       "summary": "Against the false Apostles granting the infirmity of his person, he doth notwithstanding set out the power of his Apostleship, 12. reprehending them also for challenging to themselves the praise of other men's labours."
@@ -1099,7 +1124,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Apostles and their successors did despouse the people whom they converted, to Christ, in all purity & Charity of truth, and wholly undefiled and void of error and heresy."
+              "text": "The Apostles and their successors did despouse the people whom they converted, to Christ, in all purity & Chastity of truth, and wholly undefiled and void of error and heresy.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1119,7 +1145,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The note of a false teacher, to come: that is, without lawful calling or sending to thrust and intrude himself into another man's charge."
+              "text": "The note of a false teacher, to come: that is, without lawful calling or sending to thrust and intrude himself into another man's charge.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1134,7 +1161,7 @@
         },
         {
           "verse": 7,
-          "text": "Or did I commit a sin, humbling myself, that you might be exalted? because I evangelized unto you the Gospel of God gratis?"
+          "text": "Or did I commit a sin, humbling my self, that you might be exalted? because I evangelized unto you the Gospel of God gratis?"
         },
         {
           "verse": 8,
@@ -1142,7 +1169,7 @@
         },
         {
           "verse": 9,
-          "text": "And when I was with you, and had need, I was burdenous to none: for that which I wanted, the brethren supplied that came from Macedonia: and in all things I have kept myself without burden to you, and will keep."
+          "text": "And when I was with you, and had need, I was burdenous to none: for that which I wanted, the brethren supplied that came from Macedonia: and in all things I have kept my self without burden to you, and will keep."
         },
         {
           "verse": 10,
@@ -1162,7 +1189,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "A proper term for Heretics that shape themselves into the habit of true teachers, specially by often allegation and commendation of the Scriptures. Read the notable admonition of the ancient writer Vincentius Lirinensis in his golden book Against the Profane novelties of all heresies."
+              "text": "A proper term for Heretics that shape themselves into the habit of true teachers, specially by often allegation and commendation of the Scriptures. Read the notable admonition of the ancient writer Vincentius Lirinensis in his golden book Against the Profane novelties of all heresies.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1192,7 +1220,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle upon the Sunday of Sexagesima."
+              "text": "The Epistle upon the Sunday of Sexagesime.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -1238,6 +1267,10 @@
             },
             {
               "text": "27, 15."
+            },
+            {
+              "text": "Act. 14, 18 Act. 27, 15",
+              "source": "sancta"
             }
           ]
         },
@@ -1255,7 +1288,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "b ἐπισύςασις. S. Chrysostom and Theophylacte interpret it of daily conspiracy against him: others, of multitude of cares instant & urgent upon him."
+              "text": "b ἐπισύςασις. S. Chrysostom and Theophylacte interpret it of daily conspiracy against him: others, of multitude of cares instant & urgent upon him.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1265,7 +1299,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c non uror? πυροῦμαι ?"
+              "text": "c non uror? πυροῦμαι ?",
+              "kind": "gloss"
             }
           ]
         },
@@ -1307,7 +1342,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "By this we may prove that it is neither impossible, incredible, nor undecent, that is reported by the ancient Fathers of some that have been ravished or rapt (whether in body or out of body god knoweth) & brought to see the state of the next life, as well of the saved as damned."
+              "text": "By this we may prove that it is neither impossible, incredible, nor undecent, that is reported by the ancient Fathers of some that have been ravished or rapt (whether in body or out of body god knoweth) & brought to see the state of the next life, as well of the saved as damned.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1321,7 +1357,7 @@
         },
         {
           "verse": 5,
-          "text": "For such an one I will glory: but for myself I will glory nothing, saving in my infirmities."
+          "text": "For such an one I will glory: but for my self I will glory nothing, saving in my infirmities."
         },
         {
           "verse": 6,
@@ -1341,7 +1377,7 @@
         },
         {
           "verse": 10,
-          "text": "For the which cause I please myself in infirmities, in contumelies, in necessities, in persecutions, in distresses for Christ. For when I am weak, then am I mighty."
+          "text": "For the which cause I please my self in infirmities, in contumelies, in necessities, in persecutions, in distresses for Christ. For when I am weak, then am I mighty."
         },
         {
           "verse": 11,
@@ -1383,13 +1419,14 @@
           "notes": [
             {
               "label": "1",
-              "text": "Again"
+              "text": "Again",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 20,
-          "text": "For I fear lest perhaps when I come, I find you not such as I would: and I be found of you, such an one as you would not. Lest perhaps contentions, emulations, stomachings, dissensions, detractions, whisperings, swellings, seditions be among you."
+          "text": "For I fear lest perhaps when I come, I find you not such as I would: and I be found of you, such an one as you would not. Lest perhaps contentions, emulations, stomakings, dissensions, detractions, whisperings, swellings, seditions be among you."
         },
         {
           "verse": 21,
@@ -1397,7 +1434,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "τῶν μὴ μετανοησάντων. Which S. Augustine saith (ep. 108.) is spoken here of doing great penance for heinous sins, as poenitentes did in the primitive Church. So that it is not only to repent or to amend their lives, as the Protestants translate it."
+              "text": "τῶν μὴ μετανοησάντων. Which S. Augustine saith (ep. 108.) is spoken here of doing great penance for heinous sins, as poenitentes did in the primitive Church. So that it is not only to repent or to amend their lives, as the Protestants translate it.",
+              "kind": "gloss"
             }
           ]
         }
@@ -1439,7 +1477,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "shall know"
+              "text": "shall know",
+              "kind": "gloss"
             }
           ]
         },
@@ -1461,7 +1500,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c Ecclesiastical power to punish offenders by the censures of the Church."
+              "text": "c Ecclesiastical power to punish offenders by the censures of the Church.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1476,13 +1516,17 @@
           "notes": [
             {
               "label": "2",
-              "text": "The Epistle in a votive Mass of the B. Trinity."
+              "text": "The Epistle in a votive Mass of the B. Trinity.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 12,
-          "text": "Salute one another in a holy kiss. All the saints salute you."
+          "text": "Salute one another in a holy kiss. All the saints salute you.",
+          "xrefs": [
+            "Ro. 16, 16. 1. Co. 16, 20."
+          ]
         },
         {
           "verse": 13,

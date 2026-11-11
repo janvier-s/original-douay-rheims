@@ -9,7 +9,13 @@
       "verses": [
         {
           "verse": 1,
-          "text": "The second Book of Esdras the Prophet, the son of Sarei, the son of Azarei, the son of Helcias, the son of Sadanias, the son of Sadoch, the son of Achitob"
+          "text": "The second Book of Esdras the Prophet, the son of Sarei, the son of Azarei, the son of Helcias, the son of Sadanias, the son of Sadoch, the son of Achitob",
+          "cross_refs": [
+            {
+              "text": "1. Esd. 7. v. 1",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 2,
@@ -45,7 +51,13 @@
         },
         {
           "verse": 10,
-          "text": "I have overthrown many kings from them. I have struck Pharao with his servants, and all his host. Exod. 14."
+          "text": "I have overthrown many kings from them. I have stroke Pharao with his servants, and all his host. Exod. 14.",
+          "cross_refs": [
+            {
+              "text": "Exod 14",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 11,
@@ -61,11 +73,23 @@
         },
         {
           "verse": 14,
-          "text": "I gave you light by the pillar of fire, and did many marvelous things among you: but you have forgotten me, saith our Lord. Exod. 13."
+          "text": "I gave you light by the pillar of fire, and did many marvelous things among you: but you have forgotten me, saith our Lord. Exod. 13.",
+          "cross_refs": [
+            {
+              "text": "Exo. 13",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 15,
-          "text": "Thus saith our Lord omnipotent: The quail was a sign to you, I gave you a camp for defence, & there you murmured: Exod. 16."
+          "text": "Thus saith our Lord omnipotent: The quail was a sign to you, I gave you a camp for defence, & there you murmured: Exod. 16.",
+          "cross_refs": [
+            {
+              "text": "Exo. 16",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 16,
@@ -73,7 +97,13 @@
         },
         {
           "verse": 17,
-          "text": "Where are the benefits that I have given you? Did you not cry out to me when you were hungry in the desert, ."
+          "text": "Where are the benefits that I have given you? Did you not cry out to me when you were hungry in the desert, .",
+          "cross_refs": [
+            {
+              "text": "Num. 14",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 18,
@@ -81,15 +111,27 @@
         },
         {
           "verse": 19,
-          "text": "I was sorry for your mournings, & gave you manna to eat. You did eat bread of Angels. Exod. 16. . . v."
+          "text": "I was sorry for your mournings, & gave you manna to eat. You did eat bread of Angels. Exod. 16. . . v.",
+          "cross_refs": [
+            {
+              "text": "Exod. 16",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 20,
-          "text": "When you thirsted did not I cleave the rock, & waters flowed in aboundance? For the heats I covered you with the leaves of trees."
+          "text": "When you thirsted did not I cleave the rock, & waters flowed in abundance? For the heats I covered you with the leaves of trees."
         },
         {
           "verse": 21,
-          "text": "I delivered unto you fat lands: The Chananeites, and Pherezeites, & Philistheans I threw out from your face: what shall I"
+          "text": "I delivered unto you fat lands: The Chananeites, and Pherezeites, & Philistheans I threw out from your face: what shall I",
+          "cross_refs": [
+            {
+              "text": "Isa. 9. v. 4",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 22,
@@ -97,11 +139,23 @@
         },
         {
           "verse": 23,
-          "text": "I gave you not fire for blasphemies, but casting wood into the water, I made the river sweet. ."
+          "text": "I gave you not fire for blasphemies, but casting wood into the water, I made the river sweet. .",
+          "cross_refs": [
+            {
+              "text": "Exo. 15. v. 25",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 24,
-          "text": "What shall I do to thee Jacob? Thou wouldest not obey o Juda. I will transfer myself to other nations, & will give them my name, that they may keep my ordinances."
+          "text": "What shall I do to thee Jacob? Thou wouldest not obey o Juda. I will transfer myself to other nations, & will give them my name, that they may keep my ordinances.",
+          "cross_refs": [
+            {
+              "text": "Exo. 32",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 25,
@@ -109,7 +163,13 @@
         },
         {
           "verse": 26,
-          "text": "When you shall invocate me, I will not hear you. For you have defiled your hands with blood, & your feet are quick to commit murders."
+          "text": "When you shall invocate me, I will not hear you. For you have defiled your hands with blood, & your feet are quick to commit murders.",
+          "cross_refs": [
+            {
+              "text": "Isa. 1. v. 15",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 27,
@@ -125,7 +185,13 @@
         },
         {
           "verse": 30,
-          "text": "So have I gathered you, as the hen her chickens under her wings. But now what shall I do to you? I will throw you from my face. . v."
+          "text": "So have I gathered you, as the hen her chickens under her wings. But now what shall I do to you? I will throw you from my face. . v.",
+          "cross_refs": [
+            {
+              "text": "Mat. 23. v. 37",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 31,
@@ -133,7 +199,13 @@
         },
         {
           "verse": 32,
-          "text": "I sent my servants the Prophets to you, whom being taken you slew, & mangled their bodies, whose blood I will require, saith our Lord."
+          "text": "I sent my servants the Prophets to you, whom being taken you slew, & mangled their bodies, whose blood I will require, saith our Lord.",
+          "cross_refs": [
+            {
+              "text": "Isa. 66. v. 5",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 33,
@@ -165,7 +237,13 @@
         },
         {
           "verse": 40,
-          "text": "& Naum & Habacuc, of Sophonias, Aggæus, Zacharias, & Malachias. Who also is called the Angel of our Lord."
+          "text": "& Naum & Habacuc, of Sophonias, Aggæus, Zacharias, & Malachias. Who also is called the Angel of our Lord.",
+          "cross_refs": [
+            {
+              "text": "Malach. 3. v. 1",
+              "source": "sancta"
+            }
+          ]
         }
       ]
     },
@@ -173,6 +251,10 @@
       "chapter": 2,
       "summary": "The Synagogue expostulateth with her children for their ingratitude; ℣.10. shewing that they shall be forsaken, and the gentiles called. Thus saith our Lord: I brought this people out of bondage, to whom I gave commandment by my servants the Prophets, whom they would not hear, but made my counsel frustrate.",
       "verses": [
+        {
+          "verse": 1,
+          "text": "Thus saith our Lord: I brought this people out of bondage, to whom I gave commandment by my servants the Prophets, whom they would not hear, but made my counsel frustrate."
+        },
         {
           "verse": 2,
           "text": "Their mother that bare them, saith to them: Go children, because I am a widow & forsaken."
@@ -199,7 +281,13 @@
         },
         {
           "verse": 8,
-          "text": "Woe be to thee Assur, which hidest the wicked with thee. Thou naughty nation, remember what I did to Sodom and Gomorrha:"
+          "text": "Woe be to thee Assur, which hidest the wicked with thee. Thou naughty nation, remember what I did to Sodom and Gomorrha:",
+          "cross_refs": [
+            {
+              "text": "Gen. 19. v. 2",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 9,
@@ -243,7 +331,13 @@
         },
         {
           "verse": 19,
-          "text": "& as many fountains flowing milk and honey: and seven huge mountains, having the rose and the lily, in the which I will fill thy children with joy. Exod. 15. v. 27."
+          "text": "& as many fountains flowing milk and honey: and seven huge mountains, having the rose and the lily, in the which I will fill thy children with joy. Exod. 15. v. 27.",
+          "cross_refs": [
+            {
+              "text": "Exod. 15. v. 27",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 20,
@@ -259,7 +353,13 @@
         },
         {
           "verse": 23,
-          "text": "where thou shalt find the dead, commit them to the grave signing it, and I will give thee the first seat in my resurrection."
+          "text": "where thou shalt find the dead, commit them to the grave signing it, and I will give thee the first seat in my resurrection.",
+          "cross_refs": [
+            {
+              "text": "Tobie. 1. v. 12",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 24,
@@ -311,11 +411,11 @@
         },
         {
           "verse": 36,
-          "text": "Fly from the shadow of this world: receive ye the pleasantness of your glory. I openly call to witness my saviour."
+          "text": "Flee from the shadow of this world: receive ye the pleasantness of your glory. I openly call to witness my saviour."
         },
         {
           "verse": 37,
-          "text": "Receive the commended gifts and be pleasant, giving thanks to him that called you to the heavenly Kingdoms."
+          "text": "Receive the commended gift and be pleasant, giving thanks to him that called you to the heavenly Kingdoms."
         },
         {
           "verse": 38,
@@ -335,11 +435,17 @@
         },
         {
           "verse": 42,
-          "text": "I Esdras saw in mount Sion a great multitude, which I could not number, and they did all praise our Lord with songs. Apoc. 7. v. 9."
+          "text": "I Esdras saw in mount Sion a great multitude, which I could not number, and they did all praise our Lord with songs. Apoc. 7. v. 9.",
+          "cross_refs": [
+            {
+              "text": "Apol. 7. v. 9",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 43,
-          "text": "And in the midst of them was a young man high of stature, appearing above over them all, and he put crowns upon every one of their heads, and he was more exalted. And I was astonished at the miracle."
+          "text": "And in the midst of them was a young man high of stature, appearing above over them all, and he put crowns upon every one of their heads, and he was more exalted. And I was astonied at the miracle."
         },
         {
           "verse": 44,
@@ -368,8 +474,12 @@
       "summary": "The works of God are wonderful from the beginning, ℣.7. and men ungrateful. ℣.13. In Abraham God chose to himself a peculiar people: who nevertheless were froward, and obstinate. ℣.23. He also chose David, but still the people were sinful: ℣.28. the Babylonians also, by whom they are afflicted, are no less, but rather greater sinners. In the thirtieth year of the ruin of the city I was in Babylon, & was troubled lying in my chamber, & my cogitations came up over my heart:",
       "verses": [
         {
+          "verse": 1,
+          "text": "In the thirtieth year of the ruin of the city I was in Babylon, and was troubled lying in my chamber, and my cogitations came up over my heart:"
+        },
+        {
           "verse": 2,
-          "text": "because I saw the desolation of Sion, & the aboundance of them that dwelt in Babylon."
+          "text": "because I saw the desolation of Sion, & the abundance of them that dwelt in Babylon."
         },
         {
           "verse": 3,
@@ -377,11 +487,23 @@
         },
         {
           "verse": 4,
-          "text": "and said: O Lord dominator that spakest from the beginning, when thou didst plant the earth, and that alone, & didst rule over the people, ."
+          "text": "and said: O Lord dominator thou spakest from the beginning, when thou didst plant the earth, and that alone, & didst rule over the people, .",
+          "cross_refs": [
+            {
+              "text": "Gen. 1",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 5,
-          "text": "and gavest Adam a dead body, but that also was the work of thy hands, and didst breathe into him the spirit of life, and he was made to live before thee:"
+          "text": "and gavest Adam a dead body, but that also was the work of thy hands, and didst breathe into him the spirit of life, and he was made to live before thee:",
+          "cross_refs": [
+            {
+              "text": "Gen. 2. v. 7",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 6,
@@ -397,7 +519,13 @@
         },
         {
           "verse": 9,
-          "text": "And again in time thou brought in the flood upon inhabitants of the world, and didst destroy them. ."
+          "text": "And again in time thou brought in the flood upon inhabitants of the world, and didst destroy them. .",
+          "cross_refs": [
+            {
+              "text": "Gen. 7",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 10,
@@ -405,7 +533,7 @@
         },
         {
           "verse": 11,
-          "text": "But thou didst leave one of them, Noe with his house, and to him were all the just."
+          "text": "But thou didst leave one of them, Noe with his house, and of him were all the just."
         },
         {
           "verse": 12,
@@ -413,7 +541,13 @@
         },
         {
           "verse": 13,
-          "text": "And it came to pass when they did iniquity before thee, thou didst choose thee a man of them, whose name was Abraham."
+          "text": "And it came to pass when they did iniquity before thee, thou didst choose thee a man of them, whose name was Abraham.",
+          "cross_refs": [
+            {
+              "text": "Gen. 12",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 14,
@@ -429,7 +563,13 @@
         },
         {
           "verse": 17,
-          "text": "And it came to pass when thou didst bring forth his seed out of Ægypt, thou brought it upon mount Sinai. ."
+          "text": "And it came to pass when thou didst bring forth his seed out of Ægypt, thou brought it upon mount Sinai. .",
+          "cross_refs": [
+            {
+              "text": "Exo. 19",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 18,
@@ -473,11 +613,17 @@
         },
         {
           "verse": 28,
-          "text": "Why, do they better things, that inhabit Babylon? And for this shall she rule over Sion? ."
+          "text": "Why, do they better things, that inhabit Babylon? And for this shall she rule over Sion? .",
+          "cross_refs": [
+            {
+              "text": "Iere. 12",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 29,
-          "text": "It came to pass when I was come hither, & had seen the impieties that cannot be numbered: and my soul saw many offending this thirtieth year, and my heart was astonished:"
+          "text": "It came to pass when I was come hither, & had seen the impieties that cannot be numbered: and my soul saw many offending this thirtieth year, and my heart was astonied:"
         },
         {
           "verse": 30,
@@ -513,6 +659,10 @@
       "chapter": 4,
       "summary": "Man's wit and reason is not able to understand the counsel and judgement of God, ℣.22. why his people are afflicted by wicked nations, ℣.33. nor of times, and things to come. And the Angel answered me, that was sent to me, whose name was Uriel,",
       "verses": [
+        {
+          "verse": 1,
+          "text": "And the Angel answered me, that was sent to me, whose name was Uriel,"
+        },
         {
           "verse": 2,
           "text": "and said to me: Thy heart exceeding hath exceeded in this world, and thou thinkest to comprehend the way of the Highest."
@@ -562,12 +712,16 @@
           "text": "And he answered me, and said: Going forth I went forward to a wood of trees in the field, and they devised a device, . 2. Par. 25."
         },
         {
+          "verse": 14,
+          "text": "and said: Come and let us go, and make war against the sea, that it may retire back before us, and we may make us other woods."
+        },
+        {
           "verse": 15,
           "text": "And in like manner the waves of the sea they also devised a device, and said: Come let us go up, let us overthrow the woods of the field, that there also we may consummate another country for ourselves."
         },
         {
           "verse": 16,
-          "text": "And the wood's device was made vain, for fire came, and consumed it."
+          "text": "And the woods device was made vain, for fire came, and consumed it."
         },
         {
           "verse": 17,
@@ -583,7 +737,7 @@
         },
         {
           "verse": 20,
-          "text": "And he answered me, and said: Thou hast judged well, and why hast thou not judged for thyself?"
+          "text": "And he answered me, and said: Thou hast judged well, and why hast thou not judged for thy self?"
         },
         {
           "verse": 21,
@@ -611,7 +765,7 @@
         },
         {
           "verse": 27,
-          "text": "and cannot comprehend the things which in times to come are promised to the just: because this world is full of injustice and infirmities."
+          "text": "and can not comprehend the things which in times to come are promised to the just: because this world is full of injustice and infirmities."
         },
         {
           "verse": 28,
@@ -627,7 +781,7 @@
         },
         {
           "verse": 31,
-          "text": "And esteem with thyself the grain of the ill seed, how much fruit of impiety it hath engendered:"
+          "text": "And esteem with thy self the grain of the ill seed, how much fruit of impiety it hath engendered:"
         },
         {
           "verse": 32,
@@ -667,7 +821,7 @@
         },
         {
           "verse": 41,
-          "text": "And I said it cannot Lord. And he said to me: In hell the cellars of the souls are like to the matrice."
+          "text": "And I said it can not Lord. And he said to me: In hell the cellars of the souls are like to the matrice."
         },
         {
           "verse": 42,
@@ -699,7 +853,7 @@
         },
         {
           "verse": 49,
-          "text": "After these things there passed before me a cloud full of water, and with violence casting in much rain: and when the violence of rain wast cast, the drops therein overcame."
+          "text": "After these things there passed before me a cloud full of water, and with violence casting in much rain: and when the violence of rain was cast, the drops therein overcame."
         },
         {
           "verse": 50,
@@ -720,8 +874,18 @@
       "summary": "Diverse signs of things to come are shewed to Esdras by an Angel: ℣.16. for the comfort of the people in captivity. But concerning signs: behold the days shall come, wherein they that inhabit the earth shall be taken in a great number, and the way of truth shall be hid: and the country shall be barren from faith.",
       "verses": [
         {
+          "verse": 1,
+          "text": "But concerning signs: behold the days shall come, wherein they that inhabit the earth shall be taken in a great number: and the way of truth shall be hid: and the country shall be barren from faith."
+        },
+        {
           "verse": 2,
-          "text": "And injustice shall be multiplied above that which thyself seest, and above that which thou hast heard in time past. Math. 24."
+          "text": "And injustice shall be multiplied above that which thy self seest, and above that which thou hast heard in time past. Math. 24.",
+          "cross_refs": [
+            {
+              "text": "Math. 24",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 3,
@@ -733,7 +897,7 @@
         },
         {
           "verse": 5,
-          "text": "and out of wood blood shall distill, and the stone shall give his voice, and the peoples shall be moved:"
+          "text": "and out of wood blood shall distil, and the stone shall give his voice, and the peoples shall be moved:"
         },
         {
           "verse": 6,
@@ -749,7 +913,7 @@
         },
         {
           "verse": 9,
-          "text": "and in sweet waters shall salt waters be found, and all friends shall overthrow one another: and then shall wit be hid, and understanding shall be separated into his cellar:"
+          "text": "and in sweet waters shall salt waters be found, and all friends shall overthrow one an other: and then shall wit be hid, and understanding shall be separated into his cellar:"
         },
         {
           "verse": 10,
@@ -781,7 +945,7 @@
         },
         {
           "verse": 17,
-          "text": "Knowest thou not that Israel is committed to the in the country of their transmigration?"
+          "text": "Knowest thou not that Israel is committed to thee in the country of their transmigration?"
         },
         {
           "verse": 18,
@@ -813,7 +977,7 @@
         },
         {
           "verse": 25,
-          "text": "and of all depths of the sea, thou has filled thee one river: & of all the builded cities, thou hast sanctified unto thyself Sion:"
+          "text": "and of all depths of the sea, thou hast filled thee one river: & of all the builded cities, thou hast sanctified unto thyself Sion:"
         },
         {
           "verse": 26,
@@ -825,7 +989,7 @@
         },
         {
           "verse": 28,
-          "text": "And now Lord, why hast thou delivered one unto many? And thou had prepared upon one root others, and hast dispersed thy only one in many:"
+          "text": "And now Lord, why hast thou delivered one unto many? And thou hast prepared upon one root others, and hast dispersed thy only one in many:"
         },
         {
           "verse": 29,
@@ -853,7 +1017,7 @@
         },
         {
           "verse": 35,
-          "text": "And he said to me: Thou canst not. And I said: Why Lord? To what was I born, or why was not my mother's womb my grave, that I might not see the labour of Jacob, and the weariness of the stock of Israel?"
+          "text": "And he said to me: Thou canst not. And I said: Why Lord? To what was I born, or why was not my mothers womb my grave, that I might not see the labour of Jacob, and the weariness of the stock of Israel?"
         },
         {
           "verse": 36,
@@ -889,7 +1053,7 @@
         },
         {
           "verse": 44,
-          "text": "And he answered me, and said: The creature cannot hasten above the Creator, nor the world sustain them that are to be created in it, at once."
+          "text": "And he answered me, and said: The creature can not hasten above the Creator, nor the world sustain them that are to be created in it, at once."
         },
         {
           "verse": 45,
@@ -901,7 +1065,7 @@
         },
         {
           "verse": 47,
-          "text": "And I said, it cannot verily: but according to time."
+          "text": "And I said, it can not verily: but according to time."
         },
         {
           "verse": 48,
@@ -925,7 +1089,7 @@
         },
         {
           "verse": 53,
-          "text": "And she also will say unto thee: They that are born in the youth of strength are of one sort, and they of another, that are born about the time of old age, when the matrice faileth."
+          "text": "And she also will say unto thee: They that are born in the youth of strength are of one sort, and they of an other, that are born about the time of old age, when the matrice faileth."
         },
         {
           "verse": 54,
@@ -945,6 +1109,10 @@
       "chapter": 6,
       "summary": "God knowing all things before they were made, created them ℣.54. for man: & considereth the ends of all. And he said to me: In the beginning of the earthly world, and before the ends of the world stood, and before the congregation of the winds did blow, Prover. ℣.8.",
       "verses": [
+        {
+          "verse": 1,
+          "text": "And he said to me: In the beginning of the earthly world, and before the ends of the world stood, and before the congregation of the winds did blow,"
+        },
         {
           "verse": 2,
           "text": "and before the voices of thunders sounded, and before the flashings of lightnings shined, and before the foundations of paradise were confirmed,"
@@ -1015,7 +1183,7 @@
         },
         {
           "verse": 19,
-          "text": "And when I will begin to inquire of them that unjustly have hurt with their injustice, and when the humility of Sion shall be accomplished."
+          "text": "And when I will begin to enquire of them that unjustly have hurt with their injustice, and when the humility of Sion shall be accomplished."
         },
         {
           "verse": 20,
@@ -1163,7 +1331,7 @@
         },
         {
           "verse": 56,
-          "text": "But the residue of the nations born of Adam thou saidst that they were nothing, and that they were like to spittle, and as it were the dropping out of a vessel thou didst liken the aboundance of them."
+          "text": "But the residue of the nations born of Adam thou saidst that they were nothing, and that they were like to spittle, and as it were the dropping out of a vessel thou didst liken the abundance of them."
         },
         {
           "verse": 57,
@@ -1229,7 +1397,7 @@
         },
         {
           "verse": 12,
-          "text": "And the entrances of this world were made strait, and sorrowful, & painful, and few and evil, and full of dangers, and stuffed very much with labour."
+          "text": "And the entrance of this world were made strait, and sorrowful, & painful, and few and evil, and full of dangers, and stuffed very much with labour."
         },
         {
           "verse": 13,
@@ -1249,7 +1417,13 @@
         },
         {
           "verse": 17,
-          "text": "I answered, and said: Lord Dominator: behold thou hast disposed by thy law that the just shall inherit these things, and the impious shall perish. ."
+          "text": "I answered, and said: Lord Dominator: behold thou hast disposed by thy law that the just shall inherit these things, and the impious shall perish. .",
+          "cross_refs": [
+            {
+              "text": "Deut. 8",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 18,
@@ -1297,7 +1471,7 @@
         },
         {
           "verse": 29,
-          "text": "And it shall be after these years, and my son CHRIST shall die: and all men that have breadth,"
+          "text": "And it shall be after these years, and my son CHRIST shall die: and all men that have breath,"
         },
         {
           "verse": 30,
@@ -1333,7 +1507,17 @@
         },
         {
           "verse": 38,
-          "text": "And David for the destruction, and of Salomon for them that came unto the sanctification."
+          "text": "And David for the destruction, and of Salomon for them that came unto the sanctification.",
+          "cross_refs": [
+            {
+              "text": "2 Reg. 24. v. 17",
+              "source": "sancta"
+            },
+            {
+              "text": "2 Paral. 6. v. 13",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 39,
@@ -1341,7 +1525,13 @@
         },
         {
           "verse": 40,
-          "text": "and Ezechias for the people in the days of Sennacherib, and many for many."
+          "text": "and Ezechias for the people in the days of Sennacherib, and many for many.",
+          "cross_refs": [
+            {
+              "text": "4 Reg. 19. v. 15",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 41,
@@ -1373,7 +1563,13 @@
         },
         {
           "verse": 48,
-          "text": "O what hast thou done Adam? For if thou didst sin, it was not made thy fall only, but ours also which came of thee."
+          "text": "O what hast thou done Adam? For if thou didst sin, it was not made thy fall only, but ours also which came of thee.",
+          "cross_refs": [
+            {
+              "text": "Rom. 5. v. 2",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 49,
@@ -1417,7 +1613,13 @@
         },
         {
           "verse": 59,
-          "text": "for this is the life which Moyses spake of when he lived, to the people, saying: Choose unto thee life, that thou mayst live."
+          "text": "for this is the life which Moyses spake of when he lived, to the people, saying: Choose unto thee life, that thou mayst live.",
+          "cross_refs": [
+            {
+              "text": "Deut. 30. v. 19",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 60,
@@ -1453,7 +1655,7 @@
         },
         {
           "verse": 68,
-          "text": "And he giveth: for if he shall not give of his bounty, that they may be relieved which have done iniquity, the tenth thousand part of men cannot be quickened from their iniquities."
+          "text": "And he giveth: for if he shall not give of his bounty, that they may be relieved which have done iniquity, the tenth thousand part of men can not be quickened from their iniquities."
         },
         {
           "verse": 69,
@@ -1466,12 +1668,22 @@
       "summary": "God is merciful in this world, yet few are saved. ℣.6. God's works and disposition of his creatures are marvelous. ℣.15. Esdras prayeth for the people of Israel: ℣.37. and salvation is promised to the just, and punishment threatened to the wicked. And he answered me, and said: This world the Highest made for many, but that to come for few.",
       "verses": [
         {
+          "verse": 1,
+          "text": "And he answered me, and said: This world the Highest made for many, but that to come for few."
+        },
+        {
           "verse": 2,
           "text": "And I will speak a similitude Esdras before thee. For as thou shalt ask the earth, and it will tell thee, that it will give much more earth whereof earthen work may be made, but a little dust whereof gold is made: so also is the act of this present world."
         },
         {
           "verse": 3,
-          "text": "Many indeed are created, but few shall be saved."
+          "text": "Many indeed are created, but few shall be saved.",
+          "cross_refs": [
+            {
+              "text": "Mat. 20:16",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 4,
@@ -1495,7 +1707,7 @@
         },
         {
           "verse": 9,
-          "text": "and itself that keepeth, and that which is kept, both shall be preserved: & the matrice being preserved rendereth again at some time the things that are grown in it."
+          "text": "and it self that keepeth, and that which is kept, both shall be preserved: & the matrice being preserved rendereth again at some time the things that are grown in it."
         },
         {
           "verse": 10,
@@ -1503,7 +1715,7 @@
         },
         {
           "verse": 11,
-          "text": "that the thing which is made, may be nourished till a certain time, and afterward thou mayest dispose him to thy mercy."
+          "text": "that the thing which is made, may be nourished till a certain time, and afterward thou mayst dispose him to thy mercy."
         },
         {
           "verse": 12,
@@ -1515,7 +1727,7 @@
         },
         {
           "verse": 14,
-          "text": "If then thou wilt destroy him that is made with so great labours: it is easy by the commandment to be ordained, that also which was made, might be reserved."
+          "text": "If then thou wilt destroy him that is made with so great labours: it is easy by thy commandment to be ordained, that also which was made, might be preserved."
         },
         {
           "verse": 15,
@@ -1559,7 +1771,7 @@
         },
         {
           "verse": 25,
-          "text": "For whilst I live, I will speak: & whilst I understand, I will answer:"
+          "text": "For whiles I live, I will speak: & whiles I understand, I will answer:"
         },
         {
           "verse": 26,
@@ -1599,7 +1811,13 @@
         },
         {
           "verse": 35,
-          "text": "For in truth there is no man of them that be born, which hath not done impiously, and of them that confess, which have not sinned. 2."
+          "text": "For in truth there is no man of them that be born, which hath not done impiously, and of them that confess, which have not sinned. 2.",
+          "cross_refs": [
+            {
+              "text": "2 Paral. 6:36",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 36,
@@ -1667,7 +1885,7 @@
         },
         {
           "verse": 52,
-          "text": "For to you paradise is open, the tree of life is planted, time to come is prepared, aboundance is prepared, a city is builded, rest is approved, goodness is perfited, & perfit wisdom."
+          "text": "For to you paradise is open, the tree of life is planted, time to come is prepared, abundance is prepared, a city is builded, rest is approved, goodness is perfited, & perfit wisdom."
         },
         {
           "verse": 53,
@@ -1773,7 +1991,13 @@
         },
         {
           "verse": 15,
-          "text": "I have spoken heretofore, and now I say, and hereafter will say: that they are more which perish than that shall be saved: ."
+          "text": "I have spoken heretofore, and now I say, and hereafter will say: that they are more which perish than that shall be saved: .",
+          "cross_refs": [
+            {
+              "text": "Mat. 10",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 16,
@@ -1833,7 +2057,13 @@
         },
         {
           "verse": 30,
-          "text": "Thou Israel hear me, and seed of Jacob attend to my words."
+          "text": "Thou Israel hear me, and seed of Jacob attend to my words.",
+          "cross_refs": [
+            {
+              "text": "Deut. 4",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 31,
@@ -1845,7 +2075,13 @@
         },
         {
           "verse": 33,
-          "text": "For they that received it, perished, not keeping that which had been sown in them."
+          "text": "For they that received it, perished, not keeping that which had been sown in them.",
+          "cross_refs": [
+            {
+              "text": "Exod. 32",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 34,
@@ -1861,7 +2097,13 @@
         },
         {
           "verse": 37,
-          "text": "For the law hath not perished, but hath remained in his labour. Esai. 48."
+          "text": "For the law hath not perished, but hath remained in his labour. Esai. 48.",
+          "cross_refs": [
+            {
+              "text": "Esai. 48",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 38,
@@ -1885,7 +2127,7 @@
         },
         {
           "verse": 43,
-          "text": "I thy servant have been barren, and have not born child, having a husband thirty years."
+          "text": "I thy servant have been barren, and have not borne child, having a husband thirty years."
         },
         {
           "verse": 44,
@@ -1910,6 +2152,10 @@
       "summary": "The state of Jerusalem is prefigured by a woman mourning, ℣.25. and afterwards rejoicing. And it came to pass, when my son was entered into his inner chamber, he fell down, and died:",
       "verses": [
         {
+          "verse": 1,
+          "text": "And it came to pass, when my son was entered into his inner chamber, he fell down, and died:"
+        },
+        {
           "verse": 2,
           "text": "and we all overthrew the lights, and all my citizens rose up to comfort me, and I was quiet until the other day at night."
         },
@@ -1927,7 +2173,7 @@
         },
         {
           "verse": 6,
-          "text": "Thou fool above all woman, seest thou not our mourning, & what things chance to us?"
+          "text": "Thou fool above all women, seest thou not our mourning, & what things chance to us?"
         },
         {
           "verse": 7,
@@ -2103,7 +2349,7 @@
         },
         {
           "verse": 50,
-          "text": "And now the Highest seeth that thou wast sorry from the heart: and because with thy whole heart thou sufferest for her, he hath shewed thee the clearness of her glory, and the fairness of her beauty."
+          "text": "And now the Highest seeth that thou wast sorry from the heart: and because with thy whole heart thou suffered for her, he hath shewed thee the clearness of her glory, and the fairness of her beauty."
         },
         {
           "verse": 51,
@@ -2119,7 +2365,7 @@
         },
         {
           "verse": 54,
-          "text": "For the work of man's building could not be born in the place, where the city of the Highest began to be shewed."
+          "text": "For the work of man's building could not be borne in the place, where the city of the Highest began to be shewed."
         },
         {
           "verse": 55,
@@ -2135,7 +2381,7 @@
         },
         {
           "verse": 58,
-          "text": "And tomorrow night thou shalt tarry here."
+          "text": "And to morrow night thou shalt tarry here."
         },
         {
           "verse": 59,
@@ -2151,6 +2397,10 @@
       "chapter": 11,
       "summary": "An eagle appeareth to Esdras coming forth of the sea, with three heads, and twelve wings: sometimes one reigning in the world, sometimes another, but every one vanisheth away. ℣.36. A lion also appeareth coming forth of the wood, to suppress the eagle. And I saw a dream, and behold an eagle came up out of the sea: which had twelve wings of feathers, and three heads.",
       "verses": [
+        {
+          "verse": 1,
+          "text": "And I saw a dream, and behold an eagle came up out of the sea: which had twelve wings of feathers, and three heads."
+        },
         {
           "verse": 2,
           "text": "And I saw, & behold she spread her wings into all the earth, and all the winds of heaven blew upon her, and were gathered together."
@@ -2221,7 +2471,7 @@
         },
         {
           "verse": 19,
-          "text": "And so it chanced to all the other by one and by one to have the principality, and again to appear no-where."
+          "text": "And so it chanced to all the other by one and by one to have the principality, and again to appear nowhere."
         },
         {
           "verse": 20,
@@ -2262,6 +2512,10 @@
         {
           "verse": 29,
           "text": "and when they were thinking thereon, behold one of the resting heads, which was the middle one awaked, for this was greater than the other two heads."
+        },
+        {
+          "verse": 30,
+          "text": "And I saw that the two heads were complete with themselves."
         },
         {
           "verse": 31,
@@ -2334,8 +2588,12 @@
       "summary": "The eagle vanisheth away, ℣.5. Esdras prayeth, ℣.10. and the former visions are declared to him. And it came to pass, whilst the lion spake these words to the eagle: I saw,",
       "verses": [
         {
+          "verse": 1,
+          "text": "And it came to pass, whiles the lion spake these words to"
+        },
+        {
           "verse": 2,
-          "text": "and behold the head that had overcome, and those four wings appeared not which passed to him, and were set up to reign: and their reign was small, and full of tumult."
+          "text": "the eagle: I saw, and behold the head that had overcome, and those four wings appeared not which passed to him, and were set up to reign: and their reign was small, and full of tumult."
         },
         {
           "verse": 3,
@@ -2371,7 +2629,13 @@
         },
         {
           "verse": 11,
-          "text": "The eagle which thou sawest coming up from the sea, this is the Kingdom which was seen in a vision to Daniel thy brother."
+          "text": "The eagle which thou sawest coming up from the sea, this is the Kingdom which was seen in a vision to Daniel thy brother.",
+          "cross_refs": [
+            {
+              "text": "Dan. 7. v. 7",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 12,
@@ -2390,8 +2654,12 @@
           "text": "For the second shall begin to reign, and he shall continue more time than the rest of the twelve."
         },
         {
+          "verse": 16,
+          "text": "This is the interpretation of the twelve wings which thou sawest."
+        },
+        {
           "verse": 17,
-          "text": "And the voice that spake which thou heardest, not coming forth of her heads, but from the midst of her body,"
+          "text": "And the voice that spake which thou heardst, not coming forth of her heads, but from the midst of her body,"
         },
         {
           "verse": 18,
@@ -2455,11 +2723,11 @@
         },
         {
           "verse": 33,
-          "text": "For he shall set them in judgement alive: and it shall be, when he hath reproved them, then shall he chastise them."
+          "text": "For he shall set them in judgment alive: and it shall be, when he hath reproved them, then shall he chastise them."
         },
         {
           "verse": 34,
-          "text": "For the rest of my people he shall deliver with misery, them that are saved upon my borders, and he shall make them joyful till the end shall come, the day of judgement, whereof I have spoken to thee from the beginning."
+          "text": "For the rest of my people he shall deliver with misery, them that are saved upon my borders, and he shall make them joyful till the end shall come, the day of judgment, whereof I have spoken to thee from the beginning."
         },
         {
           "verse": 35,
@@ -2536,6 +2804,10 @@
       "summary": "A vision of a wind (as it first seemed, but) indeed, . of a man: ℣.5. strong against the enemies: ℣.21. with the interpretation. And it came to pass after seven days, and I dreamed a dream in the night.",
       "verses": [
         {
+          "verse": 1,
+          "text": "And it came to pass after seven days, and I dreamed a dream in the night."
+        },
+        {
           "verse": 2,
           "text": "And behold there rose a wind from the sea, that troubled all the waves thereof."
         },
@@ -2609,7 +2881,7 @@
         },
         {
           "verse": 20,
-          "text": "But yet it is easier, adventuring to come into it, than to pass, as a cloud from the world, and not to see the things that happen in the later time. And he answered me, and said:"
+          "text": "But yet it is easier, adventuring to come into it, than to pass, as a cloud from the world, and now to see the things that happen in the later time. And he answered me, and said:"
         },
         {
           "verse": 21,
@@ -2689,7 +2961,13 @@
         },
         {
           "verse": 40,
-          "text": "These are the ten tribes, which were made captive out of their land in the days of Osee the king, whom Salmanasar the king of the Assyrians led captive: and he transported them beyond the river, and they were transported into another land. 4. ."
+          "text": "These are the ten tribes, which were made captive out of their land in the days of Osee the king, whom Salmanasar the king of the Assyrians led captive: and he transported them beyond the river, and they were transported into another land. 4. .",
+          "cross_refs": [
+            {
+              "text": "4. Reg. 17",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 41,
@@ -2737,7 +3015,7 @@
         },
         {
           "verse": 52,
-          "text": "As thou canst not either search these things, or know what things are in the depth of the sea: so cannot any man upon the earth see my son, or them that are with him, but in the time of a day."
+          "text": "As thou canst not either search these things, or know what things are in the depth of the sea: so can not any man upon the earth see my son, or them that are with him, but in the time of a day."
         },
         {
           "verse": 53,
@@ -2775,7 +3053,13 @@
         },
         {
           "verse": 3,
-          "text": "Revealing I was revealed upon the bush, and spake to Moyses, when the people served in Ægypt, Exod. 3."
+          "text": "Revealing I was revealed upon the bush, and spake to Moyses, when the people served in Ægypt, Exod. 3.",
+          "cross_refs": [
+            {
+              "text": "Exod. 3",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 4,
@@ -2867,7 +3151,7 @@
         },
         {
           "verse": 26,
-          "text": "And then some things thou shalt open to the perfect, some thou shalt deliver secretly to the wise. For tomorrow this hour thou shalt begin to write."
+          "text": "And then some things thou shalt open to the perfect, some thou shalt deliver secretly to the wise. For to morrow this hour thou shalt begin to write."
         },
         {
           "verse": 27,
@@ -2879,7 +3163,13 @@
         },
         {
           "verse": 29,
-          "text": "Our fathers were pilgrims from the beginning in Ægypt, and were delivered from thence. . . Act. 7."
+          "text": "Our fathers were pilgrims from the beginning in Ægypt, and were delivered from thence. . . Act. 7.",
+          "cross_refs": [
+            {
+              "text": "Gen. 47",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 30,
@@ -2915,7 +3205,13 @@
         },
         {
           "verse": 38,
-          "text": "And I was come to the morrow, and behold a voice called me, saying: Esdras open thy mouth, and drink that which I will give thee to drink. Ezech. 3."
+          "text": "And I was come to the morrow, and behold a voice called me, saying: Esdras open thy mouth, and drink that which I will give thee to drink. Ezech. 3.",
+          "cross_refs": [
+            {
+              "text": "Ezech. 3",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 39,
@@ -2960,6 +3256,10 @@
       "summary": "Esdras is bid to denounce, that assuredly many evils will come to the world. ℣.9. God will protect his people, the wicked shall be punished, and lament their final miseries, God revenging for the good. Behold speak into the ears of my people the words of prophecy, which I shall put into thy mouth, saith our Lord:",
       "verses": [
         {
+          "verse": 1,
+          "text": "Behold speak into the ears of my people the words of prophecy, which I shall put into thy mouth, saith our Lord:"
+        },
+        {
           "verse": 2,
           "text": "and see that they be written in paper, because they be faithful and true."
         },
@@ -2985,7 +3285,7 @@
         },
         {
           "verse": 8,
-          "text": "I will not now keep silence of their impieties which they do irreligiously, neither will I bear with those things, which they practise unjustly. Behold the innocent and just blood cryeth to me, & the souls of the just cry continually."
+          "text": "I will not now keep silence of their impieties which they do irreligiously, neither will I bear with those things, which they practise unjustly. Behold the innocent and just blood crieth to me, & the souls of the just cry continually."
         },
         {
           "verse": 9,
@@ -2993,7 +3293,13 @@
         },
         {
           "verse": 10,
-          "text": "Behold my people is led to slaughter as a flock, I will no more suffer it to dwell in the land of Ægypt."
+          "text": "Behold my people is led to slaughter as a flock, I will no more suffer it to dwell in the land of Ægypt.",
+          "cross_refs": [
+            {
+              "text": "v. 2",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 11,
@@ -3125,7 +3431,13 @@
         },
         {
           "verse": 43,
-          "text": "And they shall pass constant unto Babylon, and shall raise her."
+          "text": "And they shall pass constant unto Babylon, and shall raise her.",
+          "cross_refs": [
+            {
+              "text": "Apoc. 18",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 44,
@@ -3165,7 +3477,7 @@
         },
         {
           "verse": 53,
-          "text": "unless thou hadst slain mine elect at all times, exalting the slaughter of the hands, and saying upon their death, when thou was drunken."
+          "text": "unless thou hadst slain mine elect at all times, exalting the slaughter of the hands, and saying upon their death, when thou wast drunken."
         },
         {
           "verse": 54,
@@ -3174,6 +3486,10 @@
         {
           "verse": 55,
           "text": "The reward of thy fornication is in thy bosom, therefore thou shalt receive recompence."
+        },
+        {
+          "verse": 56,
+          "text": "As thou shalt do to my elect, saith our Lord, so shall God do to thee, and shall deliver thee unto evil."
         },
         {
           "verse": 57,
@@ -3375,7 +3691,7 @@
         },
         {
           "verse": 42,
-          "text": "He that selleth as if he should fly, & he that buyeth as he that should lose it."
+          "text": "He that selleth as if he should flee, & he that buyeth as he that should lose it."
         },
         {
           "verse": 43,
@@ -3431,15 +3747,33 @@
         },
         {
           "verse": 56,
-          "text": "For he said: Let the earth be made, and it was made: let the heaven be made, and it was made."
+          "text": "For he said: Let the earth be made, and it was made: let the heaven be made, and it was made.",
+          "cross_refs": [
+            {
+              "text": "Gen. 1",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 57,
-          "text": "And by his word the stars were made, and he knoweth the number of the stars. . v. 4. Job. 38."
+          "text": "And by his word the stars were made, and he knoweth the number of the stars. . v. 4. Job. 38.",
+          "cross_refs": [
+            {
+              "text": "Psal. 146. v. 4",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 58,
-          "text": "Who searcheth the depth and the treasures thereof: who hath measured the sea, and capacity thereof."
+          "text": "Who searcheth the depth and the treasures thereof: who hath measured the sea, and capacity thereof.",
+          "cross_refs": [
+            {
+              "text": "Job. 38",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 59,
@@ -3515,7 +3849,7 @@
         },
         {
           "verse": 77,
-          "text": "And he that keepeth my commandments, and precepts, saith our Lord God: Let not your sins overweigh you, nor your iniquities be advanced over you."
+          "text": "And he that keepeth my commandments, and precepts, saith our Lord God: Let not your sins overway you, nor your iniquities be advanced over you."
         },
         {
           "verse": 78,

@@ -66,11 +66,12 @@
       "verses": [
         {
           "verse": 1,
-          "text": "These are the words, which Moyses spake to all Israel beyond Jordan, in the champion wilderness, against the Red sea, between Pharan and Tophel and Laban and Haseroth, where there is very much gold:",
+          "text": "These are the words, which Moyses spake to all Israel beyond Jordan, in the champion wilderness, against the Red sea, between Pharan and Thophel and Laban and Haseroth, where there is very much gold:",
           "notes": [
             {
               "label": "1",
-              "text": "The first part. A repetition of God's benefits, the people's ingratitude, and punishment."
+              "text": "The first part. A repetition of God's benefits, the people's ingratitude, and punishment.",
+              "kind": "head"
             }
           ]
         },
@@ -84,7 +85,7 @@
         },
         {
           "verse": 4,
-          "text": "after that he had struck Sehon king of the Amorrheites, which dwelt in Hesebon: and Og the king of Basan which abode in Aseroth, and in Edrai,"
+          "text": "after that he had stroke Sehon king of the Amorrheites, which dwelt in Hesebon: and Og the king of Basan which abode in Aseroth, and in Edrai,"
         },
         {
           "verse": 5,
@@ -120,7 +121,7 @@
         },
         {
           "verse": 13,
-          "text": "Give from among you wise and skillful men, and such whose conversation is approved in your tribes, that I may appoint them your princes."
+          "text": "Give from among you wise and skilful men, and such whose conversation is approved in your tribes, that I may appoint them your princes."
         },
         {
           "verse": 14,
@@ -136,7 +137,7 @@
         },
         {
           "verse": 17,
-          "text": "There shall be no difference of persons, so shall you hear the little as the great: neither shall you accept any man's person, because it is the judgment of God. And if any thing seem hard to you, refer it to me, and I will hear it."
+          "text": "There shall be no difference of persons, so shall you hear the little as the great: neither shall you accept any man's person, because it is the judgement of God. And if any thing seem hard to you, refer it to me, and I will hear it."
         },
         {
           "verse": 18,
@@ -188,7 +189,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "God so helpeth his servants, that they also must cooperate. S. Aug. q. 1. in Deut."
+              "text": "God so helpeth his servants, that they also must cooperate. S. Aug. q. 1. in Deut.",
+              "kind": "gloss"
             }
           ]
         },
@@ -226,17 +228,19 @@
           "notes": [
             {
               "label": "b",
-              "text": "Difference of sins."
+              "text": "Difference of sins.",
+              "kind": "gloss"
             },
             {
               "label": "c",
-              "text": "God is also angry with his good servants, & punisheth them temporally for small sins. S. Aug. q. 1. in Iosue."
+              "text": "God is also angry with his good servants, & punisheth them temporally for small sins. S. Aug. q. 1. in Iosue.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 38,
-          "text": "But Josue the son of Nun thy minister, he shall enter for thee: exhort and strengthen him, and he shall by lot divide the Land of Israel."
+          "text": "But Josue the son of Nun thy minister, he shall enter for thee: exhort and strengthen him, and he shall by lot divide the Land to Israel."
         },
         {
           "verse": 39,
@@ -256,7 +260,7 @@
         },
         {
           "verse": 43,
-          "text": "Ispake, and you heard not: But resisting the commandment of our Lord, and swelling with pride you went up into the mountain."
+          "text": "I spake, and you heard not: But resisting the commandment of our Lord, and swelling with pride you went up into the mountain."
         },
         {
           "verse": 44,
@@ -318,7 +322,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "These were men of very great stature, but not equal to the giants before the flood."
+              "text": "These were men of very great stature, but not equal to the giants before the flood.",
+              "kind": "gloss"
             }
           ]
         },
@@ -380,7 +385,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "By this we are instructed to fight against infidels, but not without special cause against Christians, signified by the children of Lot & Esau."
+              "text": "By this we are instructed to fight against infidels, but not without special cause against Christians, signified by the children of Lot & Esau.",
+              "kind": "gloss"
             }
           ]
         },
@@ -406,7 +412,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "The Idumeans once denied them passage. Num. 20. v. 20. but afterwards granted thereto."
+              "text": "The Idumeans once denied them passage. Num. 20. v. 20. but afterward granted thereto.",
+              "kind": "gloss"
             }
           ]
         },
@@ -416,7 +423,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "God permitted him for his former sins, to indurate himself. See Exod. 7. v. 3."
+              "text": "God permitted him for his former sins, to indurate himself. See Exod. 7. v. 3.",
+              "kind": "gloss"
             }
           ]
         },
@@ -464,7 +472,7 @@
         },
         {
           "verse": 3,
-          "text": "Therefore the Lord our God delivered into our hands Og also the king of Basan, and all his people: and we struck them to utter destruction,"
+          "text": "Therefore the Lord our God delivered into our hands Og also the king of Basan, and all his people: and we stroke them to utter destruction,"
         },
         {
           "verse": 4,
@@ -500,7 +508,8 @@
           "notes": [
             {
               "label": "e",
-              "text": "Longer sort of cubits are a foot and 9. inches: so this bed was 15. foot and nine inches long, and 7. foot broad. Vitruvius Agricola."
+              "text": "Longer sort of cubits are a foot and 9. inches: so this bed was 15. foot and nine inches long, and 7. foot broad. Vitruvius Agricola.",
+              "kind": "gloss"
             }
           ]
         },
@@ -518,7 +527,8 @@
           "notes": [
             {
               "label": "f",
-              "text": "Esdras adding these words, & often times the like, did not against the law, because such additions are agreeable & not contrary to that which was written before."
+              "text": "Esdras adding these words, & often times the like, did not against the law, because such additions are agreeable & not contrary to that which was written before.",
+              "kind": "gloss"
             }
           ]
         },
@@ -572,7 +582,8 @@
           "notes": [
             {
               "label": "g",
-              "text": "See Num. 20. v. 12."
+              "text": "See Num. 20. v. 12.",
+              "kind": "gloss"
             }
           ]
         },
@@ -596,11 +607,12 @@
       "verses": [
         {
           "verse": 1,
-          "text": "And now Israel hear the precepts and judgments, which I teach thee: that doing them, thou mayest live, and entering in mayest possess the Land, which the Lord the God of your fathers will give you.",
+          "text": "And now Israel hear the precepts and judgements, which I teach thee: that doing them, thou mayest live, and entering in mayest possess the Land, which the Lord the God of your fathers will give you.",
           "notes": [
             {
               "label": "1",
-              "text": "The second part. A repetition & explication of the law."
+              "text": "The second part. A repetition & explication of the law.",
+              "kind": "head"
             }
           ]
         },
@@ -623,11 +635,12 @@
         },
         {
           "verse": 6,
-          "text": "and you shall observe, and fulfill them in work. For this is your wisdom, and understanding before peoples, that hearing all these precepts, may say: Behold a people full of wisdom and understanding, a great nation.",
+          "text": "and you shall observe, and fulfil them in work. For this is your wisdom, and understanding before peoples, that hearing all these precepts, may say: Behold a people full of wisdom and understanding, a great nation.",
           "notes": [
             {
               "label": "a",
-              "text": "To keep God's commandments by all nations the most excellent wisdom."
+              "text": "To keep God's commandments by all nations the most excellent wisdom.",
+              "kind": "gloss"
             }
           ]
         },
@@ -637,7 +650,7 @@
         },
         {
           "verse": 8,
-          "text": "For what other nation is there so renowned that hath the ceremonies, and just judgments, and the whole law, which I will set forth this day before your eyes."
+          "text": "For what other nation is there so renowned that hath the ceremonies, and just judgements, and the whole law, which I will set forth this day before your eyes."
         },
         {
           "verse": 9,
@@ -661,13 +674,14 @@
           "notes": [
             {
               "label": "b",
-              "text": "Here and in other places it is manifest that the commandments, called the Decalogue, are just ten."
+              "text": "Here and in other places it is manifest that the commandments, called the Decalogue, are just ten.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 14,
-          "text": "And he commanded me at that time that I should teach you the ceremonies and judgments, which you should do in the Land, that you shall possess."
+          "text": "And he commanded me at that time that I should teach you the ceremonies and judgements, which you should do in the Land, that you shall possess."
         },
         {
           "verse": 15,
@@ -699,7 +713,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Venial and least sins pass not without temporal punishment."
+              "text": "Venial and least sins pass not without temporal punishment.",
+              "kind": "gloss"
             }
           ]
         },
@@ -709,7 +724,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "This was also a Mystery, that the old law, signified by Moyses, could not bring to heaven, the true land of promise but the law of Christ, signified by Josue. Theod. q. 43. in Deut."
+              "text": "This was also a Mystery, that the old law, signified by Moyses, could not bring to heaven, the true land of promise but the law of Christ, signified by Josue. Theodoret. q. 43. in Deut.",
+              "kind": "gloss"
             }
           ]
         },
@@ -747,7 +763,8 @@
           "notes": [
             {
               "label": "e",
-              "text": "Conversion of the Jews in the end of the world."
+              "text": "Conversion of the Jews in the end of the world.",
+              "kind": "gloss"
             }
           ]
         },
@@ -809,11 +826,11 @@
         },
         {
           "verse": 45,
-          "text": "and these are the testimonies and ceremonies and judgments, which he spake to the children of Israel, when they came out of Ægypt,"
+          "text": "and these are the testimonies and ceremonies and judgements, which he spake to the children of Israel, when they came out of Ægypt,"
         },
         {
           "verse": 46,
-          "text": "beyond Jordan in the valley against the temple of Phogor in the land of Sehon king of the Ammorrheite, that dwelt in Hesebon, whom Moyses struck. The children of Israel also coming out of Ægypt"
+          "text": "beyond Jordan in the valley against the temple of Phogor in the land of Sehon king of the Ammorrheite, that dwelt in Hesebon, whom Moyses stroke. The children of Israel also coming out of Ægypt"
         },
         {
           "verse": 47,
@@ -835,11 +852,12 @@
       "verses": [
         {
           "verse": 1,
-          "text": "And Moyses called all Israel, and said to them: Hear Israel the ceremonies and judgments, which I speak in your ears this day: learn them, and fulfill them in work.",
+          "text": "And Moyses called all Israel, and said to them: Hear Israel the ceremonies and judgements, which I speak in your ears this day: learn them, and fulfil them in work.",
           "notes": [
             {
               "label": "a",
-              "text": "It is not enough to believe only, or to know the commandments, but necessary also to fulfill them in work."
+              "text": "It is not enough to believe only, or to know the commandments, but necessary also to fulfil them in work.",
+              "kind": "gloss"
             }
           ]
         },
@@ -861,7 +879,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "The title of Mediator lawfully ascribed to God's lieutenant in earth."
+              "text": "The title of Mediator lawfully ascribed to God's lieutenant in earth.",
+              "kind": "gloss"
             }
           ]
         },
@@ -932,7 +951,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Coveting another man's wife, & coveting his goods, differ as much, as the exterior acts of adultery and of theft. And so these two commandments are as distinct as the former two."
+              "text": "Coveting another man's wife, & coveting his goods, differ as much, as the exterior acts of adultery and of theft. And so these two commandments are as distinct as the former two.",
+              "kind": "gloss"
             }
           ]
         },
@@ -974,7 +994,7 @@
         },
         {
           "verse": 31,
-          "text": "But thou stand here with me, and I will speak to thee all my commandments, and ceremonies, and judgments: which thou shalt teach them, that they may do them in the Land, which I will give them in possession."
+          "text": "But thou stand here with me, and I will speak to thee all my commandments, and ceremonies, and judgements: which thou shalt teach them, that they may do them in the Land, which I will give them in possession."
         },
         {
           "verse": 32,
@@ -992,15 +1012,15 @@
       "verses": [
         {
           "verse": 1,
-          "text": "These are the precepts, and ceremonies, and judgments, which the Lord your God commanded that I should teach you, and you should do them in the Land, whereunto you pass over to possess it:"
+          "text": "These are the precepts, and ceremonies, and judgements, which the Lord your God commanded that I should teach you, and you should do them in the Land, whereunto you pass over to possess it:"
         },
         {
           "verse": 2,
-          "text": "that thou mayst fear the Lord thy God, and keep his commandments and precepts, which I command thee, and thy sons, and nephews, all the days of thy life, that thy days may be prolonged."
+          "text": "that thou mayest fear the Lord thy God, and keep his commandments and precepts, which I command thee, and thy sons, and nephews, all the days of thy life, that thy days may be prolonged."
         },
         {
           "verse": 3,
-          "text": "Hear Israel, and observe that thou do the things which our Lord hath commanded thee, and it may be well with thee, and thou mayst be greatly multiplied, as the Lord God of thy fathers hath promised thee a land flowing with milk & honey."
+          "text": "Hear Israel, and observe that thou do the things which our Lord hath commanded thee, and it may be well with thee, and thou mayest be greatly multiplied, as the Lord God of thy fathers hath promised thee a land flowing with milk & honey."
         },
         {
           "verse": 4,
@@ -1044,7 +1064,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Some adoration agreeth to creatures, but service of Latria to God only. S. Aug. q. 61. in Gen."
+              "text": "Some adoration agreeth to creatures, but service of Latria to God only. S. Aug. q. 61. in Gen.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1074,7 +1095,7 @@
         },
         {
           "verse": 20,
-          "text": "And when thy son shall ask thee tomorrow, saying: What mean these testimonies, and ceremonies, and judgments, which the Lord our God hath commanded us?"
+          "text": "And when thy son shall ask thee tomorrow, saying: What mean these testimonies, and ceremonies, and judgements, which the Lord our God hath commanded us?"
         },
         {
           "verse": 21,
@@ -1140,25 +1161,27 @@
         },
         {
           "verse": 10,
-          "text": "and rendering forthwith to them that hate him, so that he destroyeth them, and deferreth no longer, immediately rendering to them that they deserve.",
+          "text": "and rendering forthwith to them that hate him, so that he destroyeth them, and differeth no longer, immediately rendering to them that they deserve.",
           "notes": [
             {
               "label": "a",
-              "text": "Notwithstanding this commination, God oftentimes deferreth punishment, expecting the sinner's repentance."
+              "text": "Notwithstanding this commination, God oftentimes differeth punishment, expecting the sinner's repentance.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 11,
-          "text": "Keep therefore the precepts and ceremonies and judgments, which I command thee this day to do them."
+          "text": "Keep therefore the precepts and ceremonies and judgements, which I command thee this day to do them."
         },
         {
           "verse": 12,
-          "text": "If after thou hast heard these judgments, thou keep and do them, the Lord also thy God will keep the covenant unto thee, and the mercy which he sware to thy fathers:",
+          "text": "If after thou hast heard these judgements, thou keep and do them, the Lord also thy God will keep the covenant unto thee, and the mercy which he sware to thy fathers:",
           "notes": [
             {
               "label": "b",
-              "text": "God's promises conditional, if his people serve him."
+              "text": "God's promises conditional, if his people serve him.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1204,7 +1227,7 @@
         },
         {
           "verse": 23,
-          "text": "And the Lord thy God will give them in thy sight: an will kill them until they be utterly destroyed."
+          "text": "And the Lord thy God will give them in thy sight: and will kill them until they be utterly destroyed."
         },
         {
           "verse": 24,
@@ -1238,7 +1261,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "God is able to make food of what he please, or to sustain men without meat."
+              "text": "God is able to make food of what he please, or to sustain men without meat.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1252,7 +1276,7 @@
         },
         {
           "verse": 6,
-          "text": "that thou shouldst keep the commandments of the Lord thy God, and walk in his ways, and fear him."
+          "text": "that thou shouldest keep the commandments of the Lord thy God, and walk in his ways, and fear him."
         },
         {
           "verse": 7,
@@ -1272,7 +1296,7 @@
         },
         {
           "verse": 11,
-          "text": "Observe, and beware lest at any time thou forget the Lord thy God, and neglect his commandments and judgments and ceremonies, which I command thee this day:"
+          "text": "Observe, and beware lest at any time thou forget the Lord thy God, and neglect his commandments and judgements and ceremonies, which I command thee this day:"
         },
         {
           "verse": 12,
@@ -1292,7 +1316,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "A serpent less than a scorpion, making those whom he biteth to die of thirst. Solinus in polyhist. cap. de Africa."
+              "text": "A serpent less than a scorpion, making those whom he biteth to die of thirst. Solinus in polyhist. cap. de Africa.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1302,11 +1327,11 @@
         },
         {
           "verse": 17,
-          "text": "lest thou shouldst say in thy heart: Mine own force, & the strength of mine own hand, have achieved all these things for me."
+          "text": "lest thou shouldest say in thy heart: Mine own force, & the strength of mine own hand, have achieved all these things for me."
         },
         {
           "verse": 18,
-          "text": "But remember the Lord thy God, that he hath given thee strength, that he might fulfill his covenant, concerning which he sware to thy fathers, as this present day sheweth."
+          "text": "But remember the Lord thy God, that he hath given thee strength, that he might fulfil his covenant, concerning which he sware to thy fathers, as this present day sheweth."
         },
         {
           "verse": 19,
@@ -1328,7 +1353,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Holy Scripture useth the figure Hyperbole, following the vulgar manner of speaking, as well to help the understanding, as to move affection in great & extraordinary things."
+              "text": "Holy Scripture useth the figure Hyperbole, following the vulgar manner of speaking, as well to help the understanding, as to move affection in great & extraordinary things.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1346,7 +1372,7 @@
         },
         {
           "verse": 5,
-          "text": "For not because of thy justices and equity of thy heart dost thou enter in to possess their lands: but because they have done impiously, at thy entering in they are destroyed: and that our Lord might accomplish his word, which by oath he promised to thy fathers Abraham, Isaac, and Jacob."
+          "text": "For not because of thy justices and equity of thy heart doest thou enter in to possess their lands: but because they have done impiously, at thy entering in they are destroyed: and that our Lord might accomplish his word, which by oath he promised to thy fathers Abraham, Isaac, and Jacob."
         },
         {
           "verse": 6,
@@ -1378,7 +1404,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "The similitude of a calf, and called it their God. Exod. 32."
+              "text": "The similitude of a calf, and called it their God. Exod. 32.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1458,7 +1485,7 @@
       "verses": [
         {
           "verse": 1,
-          "text": "At that time our Lord said to me: Hew thee two tables of stones, as the former were, & come up to me into the mount: & thou shalt make an ark of wood,"
+          "text": "At that time our Lord said to me: Hew thee two tables of stone, as the former were, & come up to me into the mount: & thou shalt make an ark of wood,"
         },
         {
           "verse": 2,
@@ -1466,7 +1493,7 @@
         },
         {
           "verse": 3,
-          "text": "I made therefore an ark of the wood Setim. And when I had hewed two tables of stone like to the former, I went up into the mount, having them in my hands."
+          "text": "I made therefore an ark of the wood Settim. And when I had hewed two tables of stone like to the former, I went up into the mount, having them in my hands."
         },
         {
           "verse": 4,
@@ -1482,7 +1509,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "This Mosera where Aaron died, is more commonly called Hor. Num. 20. & 33."
+              "text": "This Mosera where Aaron died, is more commonly called Hor. Num. 20. & 33.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1532,7 +1560,7 @@
         },
         {
           "verse": 18,
-          "text": "He doth judgment to the pupil and the widow, loveth the stranger, and giveth him victual and raiment."
+          "text": "He doth judgement to the pupil and the widow, loveth the stranger, and giveth him victual and raiment."
         },
         {
           "verse": 19,
@@ -1544,7 +1572,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "When just cause requireth an oath, it must be made in the name of God, not of false gods."
+              "text": "When just cause requireth an oath, it must be made in the name of God, not of false gods.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1576,7 +1605,7 @@
         },
         {
           "verse": 4,
-          "text": "and to all the host of the Ægyptians, and to their hosts and chariots: how the waters of the red sea covered them, when they pursued you, and how our Lord destroyed them until this present day:"
+          "text": "and to all the host of the Ægyptians, and to their horses and chariots: how the waters of the red sea covered them, when they pursued you, and how our Lord destroyed them until this present day:"
         },
         {
           "verse": 5,
@@ -1620,7 +1649,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Rain after sending harvest, signifieth God's grace first stirring up the soul, and assisting the same to the end."
+              "text": "Rain after sending harvest, signifieth God's grace first stirring up the soul, and assisting the same to the end.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1658,7 +1688,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The second lesson in Mass on Imber Saturday in Lent."
+              "text": "The second lesson in Mass on Imber Saturday in Lent.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1680,7 +1711,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "God worketh, and we cooperate, for he taketh not away, but helpeth freewill. S. Aug. q. 15. in Deut."
+              "text": "God worketh, and we cooperate, for he taketh not away, but helpeth freewill. S. Aug. q. 15. in Deut.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1706,7 +1738,7 @@
         },
         {
           "verse": 32,
-          "text": "See therefore that you fulfill the ceremonies and judgments, which I shall set this day in your sight."
+          "text": "See therefore that you fulfil the ceremonies and judgments, which I shall set this day in your sight."
         }
       ],
       "summary": "For the benefits of God (whereof some are repeated, and others promised) the Israelites are bound to love him. 16. But if they forsake him he threateneth punishments, 26. proposing benediction and malediction as they shall deserve."
@@ -1736,7 +1768,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Peculiar place appropriate to God's service."
+              "text": "Peculiar place appropriate to God's service.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1754,7 +1787,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "In the desert they could not observe the ceremonies of the Law: but coming to rest they were bound to keep all one set form of holy rites."
+              "text": "In the desert they could not observe the ceremonies of the Law: but coming to rest they were bound to keep all one set form of holy rites.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1784,7 +1818,7 @@
         },
         {
           "verse": 15,
-          "text": "But if thou wilt eat, and the eating of flesh delight thee, kill, and eat according to the blessing of the Lord thy God, which he hath given thee in the cities: whether it be unclean, that is to say, blemished and feeble: or clean, that is to say, sound and without blemish, such as is lawful to be offered, as the doe and the hart, shalt thou eat it,"
+          "text": "But if thou wilt eat, and the eating of flesh delight thee, kill, and eat according to the blessing of the Lord thy God, which he hath given thee in thy cities: whether it be unclean, that is to say, blemished and feeble: or clean, that is to say, sound and without blemish, such as is lawful to be offered, as the doe and the hart, shalt thou eat it,"
         },
         {
           "verse": 16,
@@ -1796,7 +1830,7 @@
         },
         {
           "verse": 18,
-          "text": "but before the Lord thy God shalt thou eat them in the place, which the Lord thy God shall choose, thou and thy son and thy daughter, and man servant, and woman servant, and the Levite, that dwelleth in thy cities: and thou shall rejoice and be refreshed before the Lord thy God in all things, whereunto thou shalt extend thy hand."
+          "text": "but before the Lord thy God shalt thou eat them in the place, which the Lord thy God shall choose, thou and thy son and thy daughter, and man servant, and woman servant, and the Levite, that dwelleth in thy cities: and thou shalt rejoice and be refreshed before the Lord thy God in all things, whereunto thou shalt extend thy hand."
         },
         {
           "verse": 19,
@@ -1812,7 +1846,7 @@
         },
         {
           "verse": 22,
-          "text": "As the doe is eaten and the hart, so shall thou eat them: both the clean and unclean shall eat in common."
+          "text": "As the doe is eaten and the hart, so shalt thou eat them: both the clean and unclean shall eat in common."
         },
         {
           "verse": 23,
@@ -1832,7 +1866,7 @@
         },
         {
           "verse": 27,
-          "text": "and shalt offer thy oblations the flesh and the blood upon the altar of the Lord thy God: the blood of thy hosts thou shalt pour on the altar: and the flesh thyself shalt eat."
+          "text": "and shalt offer thy oblations the flesh and the blood upon the altar of the Lord thy God: the blood of thy hosts thou shalt pour on the altar: and the flesh thy self shalt eat."
         },
         {
           "verse": 28,
@@ -1840,7 +1874,7 @@
         },
         {
           "verse": 29,
-          "text": "When the Lord thy God shall have destroyed before thy face the nations, that thou enterest in to possess, & thou shalt possess them, & dwell in their land:"
+          "text": "When the Lord thy God shall have destroyed before thy face the nations, that thou entrest in to possess, & thou shalt possess them, & dwell in their land:"
         },
         {
           "verse": 30,
@@ -1871,13 +1905,14 @@
           "notes": [
             {
               "label": "a",
-              "text": "Novelty in Religion is a mark of idolatry or heresy."
+              "text": "Novelty in Religion is a mark of idolatry or heresy.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 3,
-          "text": "thou shalt not hear the words of that Prophet or dreamer: for the Lord your God tempteth you, that it may appear whether you love him or not, with all your heart, and with all your soul."
+          "text": "thou shalt not hear the words of that Prophet or dreamer: for the Lord your God tempteth you, that it may appear whether you love him or no, with all your heart, and with all your soul."
         },
         {
           "verse": 4,
@@ -1905,7 +1940,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Every private man is not commanded nor warranted by this to kill: but every one is bound to inform the Magistrate, and so by order of justice to proceed against the wicked."
+              "text": "Every private man is not commanded nor warranted by this to kill: but every one is bound to inform the Magistrate, and so by order of justice to proceed against the wicked.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1927,7 +1963,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Such as will not endure discipline are called children of Belial, that is without yoke."
+              "text": "Such as will not endure discipline are called children of Belial, that is without yoke.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2011,7 +2048,7 @@
         },
         {
           "verse": 14,
-          "text": "and all of the raven's kind,"
+          "text": "and all of the ravens kind,"
         },
         {
           "verse": 15,
@@ -2023,7 +2060,7 @@
         },
         {
           "verse": 17,
-          "text": "and the diver, the porphirion, and nightcrow,"
+          "text": "and the diver, the porphyrion, and nightcrow,"
         },
         {
           "verse": 18,
@@ -2043,11 +2080,13 @@
           "notes": [
             {
               "label": "a",
-              "text": "If these things were unclean by nature, they were not lawful for any nation to eat, but being only forbid to the Jews, sheweth that this prohibition was ceremonial, only for that time & people."
+              "text": "If these things were unclean by nature, they were not lawful for any nation to eat, but being only forbid to the Jews, sheweth that this prohibition was ceremonial, only for that time & people.",
+              "kind": "gloss"
             },
             {
               "label": "b",
-              "text": "All shew of cruelty to be avoided. Mystically this prefigured, that Christ (for the similitude of sinful flesh signified by a kid) should not be slain in his infancy S. Tho. 1. 2. q. 102. a. 6. ad 4."
+              "text": "All shew of cruelty to be avoided. Mystically this prefigured, that Christ (for the similitude of sinful flesh signified by a kid) should not be slain in his infancy S. Tho. 1. 2. q. 102. a. 6. ad 4.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2057,7 +2096,7 @@
         },
         {
           "verse": 23,
-          "text": "and thou shalt eat in the sight of our Lord thy God in the place, which he shall choose, that his name may be invocated therein, the tithe of thy corn, and wine, and oil, and the first born of thy herds and sheep: that thou mayest learn to fear the Lord thy God at all time."
+          "text": "and thou shalt eat in the sight of our Lord thy God in the place, which he shall choose, that his name may be invocated therein, the tithe of thy corn, and wine, and oil, and the first born of thy herds and sheep: that thou mayest learn to fear our Lord thy God at all time."
         },
         {
           "verse": 24,
@@ -2069,7 +2108,7 @@
         },
         {
           "verse": 26,
-          "text": "and thou shalt buy with the same money whatsoever pleaseth thee, either of herds, or of sheep, wine also and sicer, and all that thy soul desireth: and thou shalt eat before our Lord thy God, and shall feast, thou and thy house:"
+          "text": "and thou shalt buy with the same money whatsoever pleaseth thee, either of herds, or of sheep, wine also and sicere, and all that thy soul desireth: and thou shalt eat before our Lord thy God, and shalt feast, thou and thy house:"
         },
         {
           "verse": 27,
@@ -2107,7 +2146,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "The Israelites were bound to do their endeavour that none should be needy among them: notwithstanding for exercise of love and charity, God's providence suffered some to be poor. v. 7. & 11."
+              "text": "The Israelites were bound to do their endeavour that none should be needy among them: notwithstanding for exercise of love and charity, God's providence suffered some to be poor. v. 7. & 11.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2133,7 +2173,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "He that can and will not feed his neighbour in extremity, killeth him. S. Amb. li. 2. de Offic. c. 7."
+              "text": "He that can and will not feed his neighbour in extremity, killeth him. S. Amb. li. 2. de Offic. c. 7.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2159,7 +2200,7 @@
         },
         {
           "verse": 15,
-          "text": "Remember that thyself also didst serve in the Land of Ægypt, and our Lord thy God made thee free, and therefore do I now command thee."
+          "text": "Remember that thy self also didst serve in the Land of Ægypt, and our Lord thy God made thee free, and therefore do I now command thee."
         },
         {
           "verse": 16,
@@ -2205,15 +2246,18 @@
           "notes": [
             {
               "label": "a",
-              "text": "Here only three of the principal."
+              "text": "Here only three of the principal.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "The rest of the feasts are mentioned Levit. 23. Num. 28. & 29."
+              "text": "The rest of the feasts are mentioned Levit. 23. Num. 28. & 29.",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "1. Pasch."
+              "text": "1. Pasch.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2247,11 +2291,12 @@
         },
         {
           "verse": 9,
-          "text": "Seven weeks shalt thou number thee from that day wherein thou didst put the sicle to the corn,",
+          "text": "Seven weeks shalt thou number thee from that day wherein thou didst put the sickle to the corn,",
           "notes": [
             {
               "label": "1",
-              "text": "2. Pentecost."
+              "text": "2. Pentecost.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2273,7 +2318,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "3. Feast of Tabernacles."
+              "text": "3. Feast of Tabernacles.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2303,7 +2349,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "It is not enough to do that is just, except it be done justly, to a good end, for love of justice."
+              "text": "It is not enough to do that is just, except it be done justly, to a good end, for love of justice.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2317,7 +2364,7 @@
         },
         {
           "verse": 22,
-          "text": "Neither shalt thou make nor set to thyself a statue: which thing our Lord thy God hateth."
+          "text": "Neither shalt thou make nor set to thy self a statue: which thing our Lord thy God hateth."
         }
       ],
       "summary": "Three more solemn feasts to be kept every year, Pasch, 9. Pentecost, 13. and the feast of tabernacles. 18. Just Judges to be appointed in every city. 21. All occasions of Idolatry to be avoided."
@@ -2365,7 +2412,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "In the Councel of Priests one supreme Judge, which was the High-Priest. v. 12."
+              "text": "In the Councel of Priests one supreme Judge, which was the High priest. v. 12.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2375,7 +2423,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "There were not many Presidents at once, but in succession, one after another."
+              "text": "There were not many Presidents at once, but in succession, one after another.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2410,7 +2459,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Plurality of wives is not here forbid; for King David transgressed not this precept having more than one or two: but Salomon offended in multiplying many wives. S. Aug. q. 27. in Deut."
+              "text": "Plurality of wives is not here forbid; for King David transgressed not this precept having more than one or two: but Salomon offended in multiplying many wives. S. Aug. q. 27. in Deut.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2420,7 +2470,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "Temporal good Princes take the law, and word of God, at the Priest's hands."
+              "text": "Temporal good Princes take the law, and word of God, at the Priests hands.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2521,11 +2572,13 @@
           "notes": [
             {
               "label": "a",
-              "text": "This sort of false prophets signified Heretics, that preach false things in Christ's name."
+              "text": "This sort of false prophets signified Heretics, that preach false things in Christ's name.",
+              "kind": "gloss"
             },
             {
               "label": "b",
-              "text": "These prefigured Apostates, which renouncing Christ, expressly profess false gods."
+              "text": "These prefigured Apostates, which renouncing Christ, expressly profess false gods.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2553,21 +2606,22 @@
         },
         {
           "verse": 3,
-          "text": "preparing diligently the way: and thou shalt divide the whole province of thy Land equally into three parts: that he which for murder is a fugitive, may have near at hand, wither to escape.",
+          "text": "preparing diligently the way: and thou shalt divide the whole province of thy Land equally into three parts: that he which for murder is a fugitive, may have near at hand, whither to escape.",
           "notes": [
             {
               "label": "a",
-              "text": "The way to the cities of refuge were paved, and marks set for direction, that he which fled might not err in his way."
+              "text": "The way to the cities of refuge were paved, and marks set for direction, that he which fled might not err in his way.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 4,
-          "text": "This shall be the law of the murderer that flyeth, whose life is to be saved: He that striketh his neighbour unwitting, & that is proved yesterday & the day before to have had no hatred against him,"
+          "text": "This shall be the law of the murderer that fleeth, whose life is to be saved: He that striketh his neighbour unwitting, & that is proved yesterday & the day before to have had no hatred against him,"
         },
         {
           "verse": 5,
-          "text": "but to have gone with him simply unto the wood to cut wood, and in cutting of wood the axe slipped out of his hand, & the iron falling from the handle struck his friend, and killed him: he shall fly to one of the cities aforesaid, and live:"
+          "text": "but to have gone with him simply unto the wood to cut wood, and in cutting of wood the axe slipped out of his hand, & the iron falling from the handle stroke his friend, and killed him: he shall flee to one of the cities aforesaid, and live:"
         },
         {
           "verse": 6,
@@ -2591,7 +2645,7 @@
         },
         {
           "verse": 11,
-          "text": "But if any man hating his neighbour, lie in wait for his life, and rise and strike him, and he die, and he fly to one of the cities aforesaid,"
+          "text": "But if any man hating his neighbour, lie in wait for his life, and rise and strike him, and he die, and he flee to one of the cities aforesaid,"
         },
         {
           "verse": 12,
@@ -2603,13 +2657,14 @@
           "notes": [
             {
               "label": "b",
-              "text": "This was said to the whole people, who must not entreat for the murderer's pardon: but the kinsmen of him that was slain, might remit the punishment."
+              "text": "This was said to the whole people, who must not entreat for the murderer's pardon: but the kinsmen of him that was slain, might remit the punishment.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 14,
-          "text": "Thou shalt not take, and transfer thy neighbour's bounds, which thy predecessors did set in thy possession, which our Lord thy God will give thee in the Land, that thou shalt receive to possess."
+          "text": "Thou shalt not take, and transfer thy neighbours bounds, which thy predecessors did set in thy possession, which our Lord thy God will give thee in the Land, that thou shalt receive to possess."
         },
         {
           "verse": 15,
@@ -2637,11 +2692,12 @@
         },
         {
           "verse": 21,
-          "text": "Thou shalt not pity him, but life for life, eye for eye, tooth for tooth, hand for hand, foot for foot shall thou exact.",
+          "text": "Thou shalt not pity him, but life for life, eye for eye, tooth for tooth, hand for hand, foot for foot shalt thou exact.",
           "notes": [
             {
               "label": "c",
-              "text": "This pertained to the Judge, who without partiality must do justice."
+              "text": "This pertained to the Judge, who without partiality must do justice.",
+              "kind": "gloss"
             }
           ]
         }
@@ -2653,7 +2709,7 @@
       "verses": [
         {
           "verse": 1,
-          "text": "If thou go forth to war against thine enemies, and see the horse men and chariots, and the multitude of the adversary's host greater than thou hast, thou shalt not fear them: because the Lord thy God is with thee, which brought thee out of the Land of Ægypt."
+          "text": "If thou go forth to war against thine enemies, and see the horse men and chariots, and the multitude of the adversaries host greater than thou hast, thou shalt not fear them: because the Lord thy God is with thee, which brought thee out of the Land of Ægypt."
         },
         {
           "verse": 2,
@@ -2673,7 +2729,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "Men possessed with such desires have not like valor to good soldiers: And by word or example often discourage others. So in spiritual war-fare, we must not be addicted to worldly profits, or pleasures."
+              "text": "Men possessed with such desires have not like value to good soldiers: And by word or example often discourage others. So in spiritual warfare, we must not be addicted to worldly profits, or pleasures.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2773,7 +2830,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "By this ceremony & abjuration they purged themselves, that they were not negligent in doing justice."
+              "text": "By this ceremony & abjuration they purged themselves, that they were not negligent in doing justice.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2803,11 +2861,11 @@
         },
         {
           "verse": 14,
-          "text": "But if afterward she content not thy mind, thou shall let her go free, neither canst thou sell her for money, nor oppress her by might: because thou hast humbled her."
+          "text": "But if afterward she content not thy mind, thou shalt let her go free, neither canst thou sell her for money, nor oppress her by might: because thou hast humbled her."
         },
         {
           "verse": 15,
-          "text": "If a man have two wives, one beloved, and the other hated, and they have begotten children by him, & the son of the hated be the first-born,"
+          "text": "If a man have two wives, one beloved, and the other hated, and they have begotten children by him, & the son of the hated be the firstborn,"
         },
         {
           "verse": 16,
@@ -2843,7 +2901,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Mystically, he is cursed that persisteth in sin, as it were hanging on the tree, by which our first parents sinned."
+              "text": "Mystically, he is cursed that persisteth in sin, as it were hanging on the tree, by which our first parents sinned.",
+              "kind": "gloss"
             }
           ]
         }
@@ -2890,7 +2949,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Their houses had flat roofs as many of our church's palaces, and castles, where battlements are necessary for danger of falling, when any walk thereon."
+              "text": "Their houses had flat roofs as many of our churches palaces, and castles, where battlements are necessary for danger of falling, when any walk thereon.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2900,7 +2960,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "For correction of so covetous a mind the whole fruit must be offered to pious uses. Theodoret. q. 23. in Deut."
+              "text": "For correction of so covetous a mind the whole fruit must be offered to pious uses. Theodoret. q. 23. in Deut.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3003,7 +3064,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Such as are barren in good works cannot enter into God's house. Theod. q. 25. in Deut."
+              "text": "Such as are barren in good works cannot enter into God's house. Theod. q. 25. in Deut.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3017,7 +3079,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "These nations not able to hurt the children of Israel, neither by denying ordinary courtesies, nor by force, nor by hiring Balaam to curse them, yet inveigling them with carnal sins, signified obstinate perverse sinners, that never amending can never be rightly received into the Church of God."
+              "text": "These nations not able to hurt the children of Israel, neither by denying ordinary courtesies, nor by force, nor by hiring Balaam to curse them, yet inveigling them with carnal sins, signified obstinate perverse sinners, that never amending can never be rightly received into the Church of God.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3091,7 +3154,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Only lawful enemies are here called strangers: where therefore is just cause of war, there only it is lawful to exercise usury. S. Amb. li. de Tobia c. 15."
+              "text": "Only lawful enemies are here called strangers: where therefore is just cause of war, there only it is lawful to exercise usury. S. Amb. li. de Tobia c. 15.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3105,7 +3169,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "vows bind where otherwise was no obligation."
+              "text": "vows bind where otherwise was no obligation.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3154,7 +3219,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "this Hebrew phrase signifieth, that pledging the thing wherein the means of life consisteth is as if he pledged his life."
+              "text": "this Hebrew phrase signifieth, that pledging the thing wherein the means of life consisteth is as if he pledged his life.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3164,11 +3230,11 @@
         },
         {
           "verse": 8,
-          "text": "Observe diligently that thou incur not the plague of leprosy, but thou shalt do whatsoever the Priests of the Levitical stock shall teach thee, according to that, which I have commanded them, and fulfill thou it carefully."
+          "text": "Observe diligently that thou incur not the plague of leprosy, but thou shalt do whatsoever the Priests of the Levitical stock shall teach thee, according to that, which I have commanded them, and fulfil thou it carefully."
         },
         {
           "verse": 9,
-          "text": "Remember what our Lord your God did to Mary, in the way when you came out of Ægypt."
+          "text": "Remember what our Lord your God did to Marie, in the way when you came out of Ægypt."
         },
         {
           "verse": 10,
@@ -3196,7 +3262,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "In case the labourer sustaineth his life by his daily wages, then not to pay him is in effect to kill him: and such sin cryeth to God for revenge."
+              "text": "In case the labourer sustaineth his life by his daily wages, then not to pay him is in effect to kill him: and such sin crieth to God for revenge.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3206,7 +3273,7 @@
         },
         {
           "verse": 17,
-          "text": "Thou shalt not pervert the judgment of the stranger and the pupil, neither shalt thou take away the widow's raiment for a pledge."
+          "text": "Thou shalt not pervert the judgement of the stranger and the pupil, neither shalt thou take away the widow's raiment for a pledge."
         },
         {
           "verse": 18,
@@ -3214,7 +3281,7 @@
         },
         {
           "verse": 19,
-          "text": "When thou hast reaped the corn in the field, and forgetting hast left a sheaf, thou shalt not return to take it away: but thou shalt suffer the stranger, and the pupil, and the widow to take it away, that our Lord thy God may bless thee in all the work of thy hands."
+          "text": "When thou hast reaped the corn in thy field, and forgetting hast left a sheaf, thou shalt not return to take it away: but thou shalt suffer the stranger, and the pupil, and the widow to take it away, that our Lord thy God may bless thee in all the work of thy hands."
         },
         {
           "verse": 20,
@@ -3236,7 +3303,7 @@
       "verses": [
         {
           "verse": 1,
-          "text": "If there be a controversy between some, & they call upon the judges: whom they shall perceive to be just, to him they shall give the prize of justice: whom impious, him they shall condemn of impiety."
+          "text": "If there be a controversy between some, & they call upon the judges: whom they shall perceive to be just, to him they shall give the price of justice: whom impious, him they shall condemn of impiety."
         },
         {
           "verse": 2,
@@ -3252,7 +3319,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "S. Paul expoundeth this of the spiritual labourer in God's Church that he must have his maintenance for his travail. 1. Cor. 9. & 1. Tim. 5. It was also meant of oxen, so it hath two literal senses. Theo. q. 31. in Deut."
+              "text": "S. Paul expoundeth this of the spiritual labourer in God's Church that he must have his maintenance for his travail. 1. Cor. 9. & 1. Tim. 5. It was also meant of oxen, so it hath two literal senses. Theo. q. 31. in Deut.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3279,7 +3347,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "He that disdaineth to honour his brother is justly despised."
+              "text": "He that disdaineth to honour his brother is justly despised.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3289,7 +3358,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Alazy family & unprofitable to the commonwealth. Mystically, Pastors must beget spiritual children to Christ, not to themselves; & so they are called Christians, not Paulians, whom S. Paul converted. And he that is elected by the Church to spiritual function, & neglecteth his duty, is worthy of reproach and infamy. S. Aug. li. 32. c. 10. cont. Faust. Manich."
+              "text": "Alazy family & unprofitable to the commonwealth. Mystically, Pastors must beget spiritual children to Christ, not to themselves; & so they are called Christians, not Paulians, whom S. Paul converted. And he that is elected by the Church to spiritual function, & neglecteth his duty, is worthy of reproach and infamy. S. Aug. li. 32. c. 10. cont. Faust. Manich.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3323,7 +3393,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "Amalec first impugned Israel after they had passed the red sea. Exod. 17."
+              "text": "Amalec first impugned Israel after they had passed the red sea. Exod. 17.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3347,7 +3418,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The third lesson in Mass on Imber Saturday in whitsunweek."
+              "text": "The third lesson in Mass on Imber Saturday in whitsunweek.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3369,7 +3441,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Laban pursued Jacob, when he parted from Mesopotamia of Syria. Gen. 27."
+              "text": "Laban pursued Jacob, when he parted from Mesopotamia of Syria. Gen. 27.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3399,7 +3472,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The first lesson in Mass on Imber Saturday in Lent."
+              "text": "The first lesson in Mass on Imber Saturday in Lent.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3409,7 +3483,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "The people payed every year two tithes: the first to the Levites: the second for entertaining travelers to & from Jerusalem: & every third year a third tithe for relief of the poor inhabitants."
+              "text": "The people payed every year two tithes: the first to the Levites: the second for entertaining travelers to & from Jerusalem: & every third year a third tithe for relief of the poor inhabitants.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3427,11 +3502,12 @@
         },
         {
           "verse": 16,
-          "text": "This day our Lord thy God hath commanded thee to do these commandments and judgments: that thou keep and fulfill them with all thy heart, and with all thy soul.",
+          "text": "This day our Lord thy God hath commanded thee to do these commandments and judgments: that thou keep and fulfil them with all thy heart, and with all thy soul.",
           "notes": [
             {
               "label": "c",
-              "text": "Mutual pact between God & his people; that they serving him, he will reward them."
+              "text": "Mutual pact between God & his people; that they serving him, he will reward them.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3441,11 +3517,11 @@
         },
         {
           "verse": 18,
-          "text": "And our Lord hath chosen thee this day, that thou shouldst be his peculiar people, as he hath spoken to thee, and thou shouldst keep all his commandments:"
+          "text": "And our Lord hath chosen thee this day, that thou shouldest be his peculiar people, as he hath spoken to thee, and thou shouldest keep all his commandments:"
         },
         {
           "verse": 19,
-          "text": "and make thee higher than all nations which he created, to his praise, and name, and glory: that thou mayst be a holy people of our Lord thy God, as he hath spoken."
+          "text": "and make thee higher than all nations which he created, to his praise, and name, and glory: that thou mayest be a holy people of our Lord thy God, as he hath spoken."
         }
       ],
       "summary": "First fruits must be offered in special place assigned to God's service, professing of gratitude for the land possessed according to God's promise. 12. Likewise tithes of the third year, 16. with conclusion, that the people promise to observe all the precepts of God, and so doing he will protect and prosper them."
@@ -3459,7 +3535,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The third part. God's promises & threats, for keeping or breaking his commandments."
+              "text": "The third part. God's promises & threats, for keeping or breaking his commandments.",
+              "kind": "head"
             }
           ]
         },
@@ -3469,7 +3546,7 @@
         },
         {
           "verse": 3,
-          "text": "that thou mayst write on them all the words of this law, when thou hast passed over Jordan: that thou mayst enter into the Land, which our Lord thy God will give thee, a land flowing with milk and honey, as he sware to thy fathers."
+          "text": "that thou mayest write on them all the words of this law, when thou hast passed over Jordan: that thou mayest enter into the Land, which our Lord thy God will give thee, a land flowing with milk and honey, as he sware to thy fathers."
         },
         {
           "verse": 4,
@@ -3509,11 +3586,13 @@
           "notes": [
             {
               "label": "d",
-              "text": "The ancients of every tribe."
+              "text": "The ancients of every tribe.",
+              "kind": "gloss"
             },
             {
               "label": "e",
-              "text": "The Levites' proper office was to bless."
+              "text": "The Levites' proper office was to bless.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3527,7 +3606,8 @@
           "notes": [
             {
               "label": "f",
-              "text": "But by occasion of sin their office was also to pronounce curses."
+              "text": "But by occasion of sin their office was also to pronounce curses.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3537,7 +3617,8 @@
           "notes": [
             {
               "label": "g",
-              "text": "Though the sins were secret, yet the offenders were cursed: public sins were also publicly punished."
+              "text": "Though the sins were secret, yet the offenders were cursed: public sins were also publicly punished.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3583,7 +3664,7 @@
         },
         {
           "verse": 26,
-          "text": "Cursed be he that abideth not in the words of this law, and fulfilleth them not in work, and all the people shall say: Amen."
+          "text": "Cursed be he that obeyeth not in the words of this law, and fulfilleth them not in work, and all the people shall say: Amen."
         }
       ],
       "summary": "God's commandments must be written in plastered stones. An Altar erected, and Sacrifices offered. 12. Observers of the commandments must be blessed, and transgressors cursed. 14. With the form of cursing of idolaters, and diverse other enormous sinners."
@@ -3601,7 +3682,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Temporal blessings belonged to sensual people of the old testament: now the poor in spirit are blessed, that mourn, and suffer persecution for truth and justice."
+              "text": "Temporal blessings belonged to sensual people of the old testament: now the poor in spirit are blessed, that mourn, and suffer persecution for truth and justice.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3619,7 +3701,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "The poor being relieved of thy superfluity shall bless thee."
+              "text": "The poor being relieved of thy superfluity shall bless thee.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3629,7 +3712,7 @@
         },
         {
           "verse": 7,
-          "text": "Our Lord will give thine enemies, that rise up against thee, to fall down in thy sight: one way they shall come against thee, and seven ways they shall fly from thy face."
+          "text": "Our Lord will give thine enemies, that rise up against thee, to fall down in thy sight: one way they shall come against thee, and seven ways they shall flee from thy face."
         },
         {
           "verse": 8,
@@ -3657,11 +3740,13 @@
           "notes": [
             {
               "label": "c",
-              "text": "Thou shalt rule over others & none over thee."
+              "text": "Thou shalt rule over others & none over thee.",
+              "kind": "gloss"
             },
             {
               "label": "d",
-              "text": "Yet always with this condition: if thou serve God."
+              "text": "Yet always with this condition: if thou serve God.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3675,7 +3760,8 @@
           "notes": [
             {
               "label": "e",
-              "text": "Thus most commonly sinners were cursed in the old Testament, but such as now serve not God rightly, and yet prosper in this world, shall in a moment descend into hell. Job. 21."
+              "text": "Thus most commonly sinners were cursed in the old Testament, but such as now serve not God rightly, and yet prosper in this world, shall in a moment descend into hell. Job. 21.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3717,7 +3803,7 @@
         },
         {
           "verse": 25,
-          "text": "Our Lord deliver thee to fall down before thine enemies. One way go thou forth against them, & fly seven, and be thou dispersed throughout all the Kingdoms of the earth."
+          "text": "Our Lord deliver thee to fall down before thine enemies. One way go thou forth against them, & flee seven, and be thou dispersed throughout all the Kingdoms of the earth."
         },
         {
           "verse": 26,
@@ -3725,7 +3811,7 @@
         },
         {
           "verse": 27,
-          "text": "Our Lord strike thee with the boyle of Ægypt, and the part of thy body, by the which dung is cast out, with scab also and itch, so that thou canst not be cured."
+          "text": "Our Lord strike thee with the boil of Ægypt, and the part of thy body, by the which dung is cast out, with scab also and itch, so that thou canst not be cured."
         },
         {
           "verse": 28,
@@ -3793,7 +3879,8 @@
           "notes": [
             {
               "label": "f",
-              "text": "After many other plagues and punishments, at last the Jews refusing and persecuting Christ were rejected, and Gentiles called into the Church, and advanced above them. Theod. q. 34. in Deut."
+              "text": "After many other plagues and punishments, at last the Jews refusing and persecuting Christ were rejected, and Gentiles called into the Church, and advanced above them. Theod. q. 34. in Deut.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3819,7 +3906,7 @@
         },
         {
           "verse": 49,
-          "text": "Our Lord will bring upon thee a Nation from a far, and from the uttermost ends of the earth, in likeness of an eagle that flyeth with vehemency: whose tongue thou canst not understand:"
+          "text": "Our Lord will bring upon thee a Nation from a far, and from the uttermost ends of the earth, in likeness of an eagle that flieth with vehemency: whose tongue thou canst not understand:"
         },
         {
           "verse": 50,
@@ -3895,7 +3982,7 @@
         },
         {
           "verse": 68,
-          "text": "Our Lord shall bring thee again with ships into Ægypt by the way, whereof he said to thee that thou shouldst see it no more. There shalt thou be sold to thine enemies for bondmen and bondwomen, and no man shall buy you."
+          "text": "Our Lord shall bring thee again with ships into Ægypt by the way, whereof he said to thee that thou shouldest see it no more. There shalt thou be sold to thine enemies for bondmen and bondwomen, and no man shall buy you."
         }
       ],
       "summary": "Diverse blessings are promised to the observers of God's commandments, 15. and curses threatened to transgressors."
@@ -3921,7 +4008,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "For sins past God letteth some run into reprobate sense, permitting them to their own freewill, who being void of grace willfully obdurate themselves. Theod. q. 37. in Deut."
+              "text": "For sins past God letteth some run into reprobate sense, permitting them to their own freewill, who being void of grace wilfully obdurate themselves. Theod. q. 37. in Deut.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3935,7 +4023,7 @@
         },
         {
           "verse": 7,
-          "text": "And you came to this place: and there came forth Sehon the king of Hesebon, and Og the king of Basan, meeting us to fight. And we struck them."
+          "text": "And you came to this place: and there came forth Sehon the king of Hesebon, and Og the king of Basan, meeting us to fight. And we stroke them."
         },
         {
           "verse": 8,
@@ -3943,7 +4031,7 @@
         },
         {
           "verse": 9,
-          "text": "Keep therefore the words of this covenant, and fulfill them: that you may understand all things that you do."
+          "text": "Keep therefore the words of this covenant, and fulfil them: that you may understand all things that you do."
         },
         {
           "verse": 10,
@@ -3983,7 +4071,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Amind secretly infected with idolatry."
+              "text": "Amind secretly infected with idolatry.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3993,7 +4082,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "The appetite drunken with pleasures thirsteth still more."
+              "text": "The appetite drunken with pleasures thirsteth still more.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4039,7 +4129,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "Secret things are known to God, manifest things to men. Theod. q. 38. in Deut."
+              "text": "Secret things are known to God, manifest things to men. Theod. q. 38. in Deut.",
+              "kind": "gloss"
             }
           ]
         }
@@ -4071,7 +4162,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Some sinners through great repentance become more virtuous, & are more rewarded than some that offended less."
+              "text": "Some sinners through great repentance become more virtuous, & are more rewarded than some that offended less.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4103,7 +4195,7 @@
         },
         {
           "verse": 12,
-          "text": "nor situated in heaven that thou mayest say: Which of us is able to ascend unto heaven to bring it to us, that we may hear and fulfill it in work?"
+          "text": "nor situated in heaven that thou mayest say: Which of us is able to ascend unto heaven to bring it to us, that we may hear and fulfil it in work?"
         },
         {
           "verse": 13,
@@ -4115,7 +4207,7 @@
         },
         {
           "verse": 15,
-          "text": "Consider that I have set before thee this day life and good, and contrarywise death and evil:",
+          "text": "Consider that I have set before thee this day life and good, and contrariwise death and evil:",
           "has_annotation": true
         },
         {
@@ -4137,7 +4229,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "God gave man liberty to choose what he would follow. S. Amb. in Psal. 40. v. 10."
+              "text": "God gave man liberty to choose what he would follow. S. Amb. in Psal. 40. v. 10.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4157,11 +4250,12 @@
         },
         {
           "verse": 2,
-          "text": "and said to them: I am this day an hundred and twenty years old, I cannot go out & come in any longer, especially whereas our Lord also hath said to me: Thou shalt not pass over this Jordan:",
+          "text": "and said to them: I am this day a hundred and twenty years old, I cannot go out & come in any longer, especially whereas our Lord also hath said to me: Thou shalt not pass over this Jordan:",
           "notes": [
             {
               "label": "a",
-              "text": "He meaneth that he cannot exercise the office of a captain general, and bring the people into the promised land."
+              "text": "He meaneth that he can not exercise the office of a captain general, and bring the people into the promised land.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4203,7 +4297,7 @@
         },
         {
           "verse": 12,
-          "text": "and the people being assembled together, as well men as women, children, & strangers, that are within thy gates: that hearing they may learn, and fear our Lord your God, and keep, and fulfill all the words of this law."
+          "text": "and the people being assembled together, as well men as women, children, & strangers, that are within thy gates: that hearing they may learn, and fear our Lord your God, and keep, and fulfil all the words of this law."
         },
         {
           "verse": 13,
@@ -4219,7 +4313,7 @@
         },
         {
           "verse": 16,
-          "text": "And our Lord said to Moyses: Behold thou shalt sleep with thy fathers, and this people rising up will fornicate after strange gods in the Land, to the which it entereth to dwell therein: there will they forsake me, and will make the covenant, which I have made with them, of none effect."
+          "text": "And our Lord said to Moyses: Behold thou shalt sleep with thy fathers, and this people rising up will fornicate after strange gods in the Land, to the which it entreth to dwell therein: there will they forsake me, and will make the covenant, which I have made with them, of none effect."
         },
         {
           "verse": 17,
@@ -4235,11 +4329,13 @@
           "notes": [
             {
               "label": "b",
-              "text": "Meter is more easily kept in memory than prose."
+              "text": "Meter is more easily kept in memory than prose.",
+              "kind": "gloss"
             },
             {
               "label": "c",
-              "text": "And so by this Canticle they are convinced that they were aboundantly forewarned, not to break covenant with God."
+              "text": "And so by this Canticle they are convinced that they were abundantly forewarned, not to break covenant with God.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4257,7 +4353,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The eleventh prophecy in the office before Mass on Easter eve. And the third on Whitsuneve."
+              "text": "The eleventh prophecy in the office before Mass on Easter eve. And the third on Withsuneue.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4311,7 +4408,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "All things in heaven and in earth testify that God dealeth well with his people."
+              "text": "All things in heaven and in earth testify that God dealeth well with his people.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4321,7 +4419,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Doctrine doth fructify in good souls as rain & dew in the ground."
+              "text": "Doctrine doth fructify in good souls as rain & dew in the ground.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4331,7 +4430,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Man's first duty is to praise God."
+              "text": "Man's first duty is to praise God.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4345,7 +4445,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "The next, to acknowledge his own sins & defects."
+              "text": "The next, to acknowledge his own sins & defects.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4363,11 +4464,13 @@
           "notes": [
             {
               "label": "e",
-              "text": "At the tower of Babel."
+              "text": "At the tower of Babel.",
+              "kind": "gloss"
             },
             {
               "label": "f",
-              "text": "Israel being but one people possessed the inheritance of seven other nations."
+              "text": "Israel being but one people possessed the inheritance of seven other nations.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4377,11 +4480,12 @@
         },
         {
           "verse": 10,
-          "text": "He found him in a desert land, and a place of horror, and of vast wilderness: he led him about, and taught him: and kept him as the apple of his eye.",
+          "text": "He found him in a desert land, in a place of horror, and of waste wilderness: he led him about, and taught him: and kept him as the apple of his eye.",
           "notes": [
             {
               "label": "g",
-              "text": "God chose Israel to be his peculiar people of mere grace, and protected them."
+              "text": "God chose Israel to be his peculiar people of mere grace, and protected them.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4399,11 +4503,13 @@
           "notes": [
             {
               "label": "h",
-              "text": "Bees without men's industry made honey in the rocks."
+              "text": "Bees without men's industry made honey in the rocks.",
+              "kind": "gloss"
             },
             {
               "label": "i",
-              "text": "Olive trees prospered in stony places."
+              "text": "Olive trees prospered in stony places.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4417,7 +4523,8 @@
           "notes": [
             {
               "label": "k",
-              "text": "Temporal prosperity occasion of the Jews' revolting from God."
+              "text": "Temporal prosperity occasion of the Jews' revolting from God.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4431,7 +4538,8 @@
           "notes": [
             {
               "label": "l",
-              "text": "Novelty allureth carnal people to idolatry and heresy."
+              "text": "Novelty allureth carnal people to idolatry and heresy.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4450,7 +4558,8 @@
           "notes": [
             {
               "label": "m",
-              "text": "For their perverseness God withdrew his help from them."
+              "text": "For their perverseness God withdrew his help from them.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4460,11 +4569,13 @@
           "notes": [
             {
               "label": "n",
-              "text": "God first loveth, before any man loveth him, but men first forsake God, before he forsake them."
+              "text": "God first loveth, before any man loveth him, but men first forsake God, before he forsake them.",
+              "kind": "gloss"
             },
             {
               "label": "o",
-              "text": "The Jews reputed most Gentiles foolish yet now they are inferior to all."
+              "text": "The Jews reputed most Gentiles foolish yet now they are inferior to all.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4486,7 +4597,7 @@
         },
         {
           "verse": 26,
-          "text": "I said: Where are they? I will make their memory to cease from among man."
+          "text": "I said: Where are they? I will make their memory to cease from among men."
         },
         {
           "verse": 27,
@@ -4494,7 +4605,8 @@
           "notes": [
             {
               "label": "p",
-              "text": "For just causes God sometimes deferreth punishment."
+              "text": "For just causes God sometimes deferreth punishment.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4508,7 +4620,8 @@
           "notes": [
             {
               "label": "q",
-              "text": "True wisdom considereth things past, understandeth"
+              "text": "True wisdom considereth things past, understandeth",
+              "kind": "gloss"
             }
           ]
         },
@@ -4522,7 +4635,8 @@
           "notes": [
             {
               "label": "r",
-              "text": "All infidels confess more Majesty in the true God and in his Religion, than in their own."
+              "text": "All infidels confess more Majesty in the true God and in his Religion, than in their own.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4548,7 +4662,8 @@
           "notes": [
             {
               "label": "s",
-              "text": "Even such offenders as think themselves secure, escape not."
+              "text": "Even such offenders as think themselves secure, escape not.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4562,7 +4677,8 @@
           "notes": [
             {
               "label": "t",
-              "text": "It is unpossible that false gods should help their followers in necessity."
+              "text": "It is unpossible that false gods should help their followers in necessity.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4584,7 +4700,8 @@
           "notes": [
             {
               "label": "u",
-              "text": "The vain counsel of the wicked being detected shall be punished."
+              "text": "The vain counsel of the wicked being detected shall be punished.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4603,7 +4720,7 @@
         },
         {
           "verse": 46,
-          "text": "& he said to them: Set your hearts on all the words, which I testify to you this day: that you command them to your children to keep and to do, and to fulfill all things of this law that are written:"
+          "text": "& he said to them: Set your hearts on all the words, which I testify to you this day: that you command them to your children to keep and to do, and to fulfil all things of this law that are written:"
         },
         {
           "verse": 47,
@@ -4647,7 +4764,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "The ancient fathers expound these blessings rather of the Church of Christ, than of the Jews' Synagogue. S Aug. q. 56. Theod. q. 44. in Deut."
+              "text": "The ancient fathers expound these blessings rather of the Church of Christ, than of the Jews' Synagogue. S Aug. q. 56. Theod. q. 44. in Deut.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4686,7 +4804,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "The Priestly tribe must especially prefer God's service before their nearest kindred."
+              "text": "The Priestly tribe must especially prefer God's service before their nearest kindred.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4704,7 +4823,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "The Temple was built in the tribe of Benjamin, which God more specially protected, and so they dwelt more securely. Theod. q. 45. in Deut."
+              "text": "The Temple was built in the tribe of Benjamin, which God more specially protected, and so they dwelt more securely. Theod. q. 45. in Deut.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4730,7 +4850,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "Ephraim is preferred before his elder brother, agreeable to their grandfather's prophetical blessing. Gen 48."
+              "text": "Ephraim is preferred before his elder brother, agreeable to their grandfather's prophetical blessing. Gen 48.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4780,7 +4901,8 @@
           "notes": [
             {
               "label": "e",
-              "text": "The sin of Zambri a Prince of Simeon's tribe, in fresh memory (Nu. 25.) seemeth to be the cause, why this tribe is not particularly blessed, but only in general with all Israel."
+              "text": "The sin of Zambri a Prince of Simeon's tribe, in fresh memory (Nu. 25.) seemeth to be the cause, why this tribe is not particularly blessed, but only in general with all Israel.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4800,7 +4922,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "God elevated his visive power above nature to see so far."
+              "text": "God elevated his visive power above nature to see so far.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4826,7 +4949,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Only Angels (whose ministry God used herein) knew the place of his burial: lest the Jews prone to idolatry might have honoured him for God."
+              "text": "Only Angels (whose ministry God used herein) knew the place of his burial: lest the Jews prone to idolatry might have honoured him for God.",
+              "kind": "gloss"
             }
           ]
         },

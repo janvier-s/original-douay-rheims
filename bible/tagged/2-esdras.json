@@ -38,11 +38,13 @@
           "notes": [
             {
               "label": "a",
-              "text": "Nehemias by <i>his legacy,</i> being sent from a King; by <i>his name</i> which signifieth comforter from our Lord; and by <i>his building</i> again the walls of Jerusalem; prefigured our Saviour, who was sent from God the Father, himself being the comforter of mankind, & the sender of another comforter the Holy Ghost, to remain with his Church. <i>S. Beda prolog. in Nehemiam.</i>"
+              "text": "Nehemias by <i>his legacy,</i> being sent from a King; by <i>his name</i> which signifieth comforter from our Lord; and by <i>his building</i> again the walls of Jerusalem; prefigured our Saviour, who was sent from God the Father, himself being the comforter of mankind, & the sender of another comforter the Holy Ghost, to remain with his Church. <i>S. Beda prolog. in Nehemiam.</i>",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "The first part. Nehemias his commiseration of his country."
+              "text": "The first part. Nehemias his commiseration of his country.",
+              "kind": "head"
             }
           ]
         },
@@ -68,11 +70,11 @@
         },
         {
           "verse": 7,
-          "text": "we have been seduced with vanity, & have not kept the commandments & ceremonies & judgment, which thou hast commanded to Moyses thy servant."
+          "text": "we have been seduced with vanity, & have not kept thy commandments & ceremonies & judgement, which thou hast commanded to Moyses thy servant."
         },
         {
           "verse": 8,
-          "text": "Remember the word, that thou didst command unto Moyses thy servant, saying: When you shall transgress, I will disperse you into peoples:"
+          "text": "Remember the word, that thou didst command unto Moyses thy servant, saying: When you shall transgress, I will depress you into peoples:"
         },
         {
           "verse": 9,
@@ -84,7 +86,7 @@
         },
         {
           "verse": 11,
-          "text": "I beseech thee Lord, let thine ear be attent to the prayer of thy servant, and to the prayer of thy servants, which will fear thy name: and direct thy servant this day, and give him mercy before this man. For I was the king's cup-bearer."
+          "text": "I beseech thee Lord, let thine ear be attent to the prayer of thy servant, and to the prayer of thy servants, which will fear thy name: and direct thy servant this day, and give him mercy before this man. For I was the king's cupbearer."
         }
       ],
       "summary": "Nehemias hearing the miserable state of his country-men in Jury, 4. lamenteth, fasteth, and prayeth God for their relief."
@@ -114,27 +116,28 @@
         },
         {
           "verse": 6,
-          "text": "And the king said to me, & the queen that sat by him: Unto what time will thy journey be, and when wilt thou return? And it pleased before the king, and he sent me: and I appointed him a time."
+          "text": "And the king said to me, & the queen that sate by him: Unto what time will thy journey be, and when wilt thou return? And it pleased before the king, and he sent me: and I appointed him a time."
         },
         {
           "verse": 7,
-          "text": "And I said to the king: If it seem good to the king, let him give me letters to the governors of the country beyond the River, that they conduct me, till I come into Jewry:"
+          "text": "And I said to the king: If it seem good to the king, let him give me letters to the governours of the country beyond the River, that they conduct me, till I come into Jewry:"
         },
         {
           "verse": 8,
-          "text": "and a letter to Asaph the keeper of the king's forest, to give me timber that I may cover the gates of the tower of the house, and the walls of the city, and the house that I shall enter into. And the king gave according to the good hand of my God with me."
+          "text": "and a letter to Asaph the keeper of the kings forest, to give me timber that I may cover the gates of the tower of the house, and the walls of the city, and the house that I shall enter into. And the king gave according to the good hand of my God with me."
         },
         {
           "verse": 9,
-          "text": "And I came to the dukes of the country beyond the River, and gave them the king's letters. And the king had sent with me captains of soldiers, and horsemen."
+          "text": "And I came to the dukes of the country beyond the River, and gave them the kings letters. And the king had sent with me captains of soldiers, and horsemen."
         },
         {
           "verse": 10,
-          "text": "And Sanaballat an Horonite, and Tobias a servant an Ammanite heard it, and <na>(a)</na> were grieved with great affliction, that a man was come, which sought the prosperity of the children of Israel.",
+          "text": "And Sanaballat an Horonite, and Tobias a servant an Ammonite heard it, and <na>(a)</na> were grieved with great affliction, that a man was come, which sought the prosperity of the children of Israel.",
           "notes": [
             {
               "label": "a",
-              "text": "Infidels and Heretics are grieved, that others endeavour to repair the ruins of the Church in any country."
+              "text": "Infidels and Heretics are grieved, that others endeavour to repair the ruins of the Church in any country.",
+              "kind": "gloss"
             }
           ]
         },
@@ -144,7 +147,7 @@
         },
         {
           "verse": 12,
-          "text": "And I arose in the night, I and a few men with me, and I told not any man what God had put in my heart to do in Jerusalem, and there was no beast with me, but the beast whereon I sat."
+          "text": "And I arose in the night, I and a few men with me, and I told not any man what God had put in my heart to do in Jerusalem, and there was no beast with me, but the beast whereon I sate."
         },
         {
           "verse": 13,
@@ -152,7 +155,7 @@
         },
         {
           "verse": 14,
-          "text": "And I passed to the gate of the fountain, and to the king's conduit, and there was no place for the beast where on I sat, to pass."
+          "text": "And I passed to the gate of the fountain, and to the kings conduit, and there was no place for the beast where on I sat, to pass."
         },
         {
           "verse": 15,
@@ -168,11 +171,12 @@
         },
         {
           "verse": 18,
-          "text": "And I shewed them <na>(b)</na> the hand of my God, that it was good with me, and the king's words, which he had spoken to me, and I said: Let us rise, and let us build. And their hands were encouraged in good.",
+          "text": "And I shewed them <na>(b)</na> the hand of my God, that it was good with me, and the kings words, which he had spoken to me, and I said: Let us rise, and let us build. And their hands were encouraged in good.",
           "notes": [
             {
               "label": "b",
-              "text": "God's hand was clearly shewed in the effect of obtaining the King's favorable letters."
+              "text": "Gods hand was clearly shewed in the effect of obtaining the Kings favourable letters.",
+              "kind": "gloss"
             }
           ]
         },
@@ -196,11 +200,13 @@
           "notes": [
             {
               "label": "a",
-              "text": "Finishing the gate they dedicated it to God's service, being for defence of his holy city: & so sanctified it."
+              "text": "Finishing the gate they dedicated it to Gods service, being for defence of his holy city: & so sanctified it.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "The second part. How the city was repaired with walls and people."
+              "text": "The second part. How the city was repaired with walls and people.",
+              "kind": "head"
             }
           ]
         },
@@ -210,11 +216,11 @@
         },
         {
           "verse": 3,
-          "text": "But the fish-gate the children of Asnaa did build: they covered it, and set up the doors thereof, and the locks, and bars. And besides them built Marimuth the son of Urias the son of Accas."
+          "text": "But the fishgate the children of Asnaa did build: they covered it, and set up the doors thereof, and the locks, and bars. And besides them built Marimuth the son of Urias the son of Accas."
         },
         {
           "verse": 4,
-          "text": "And besides him built Mosollam the son of Bazachias, the son of Mesezebel, & besides them built Sadoc the son of Baana."
+          "text": "And besides him built Mosollam the son of Bazachias, the son of Merezebel, & besides them built Sadoc the son of Baana."
         },
         {
           "verse": 5,
@@ -222,7 +228,7 @@
         },
         {
           "verse": 6,
-          "text": "And Joiada the son of Phasea, and Mosollam the son of Besodia built the old-gate, covered it, & set up the doors thereof, and the locks, and bars."
+          "text": "And Joiada the son of Phasea, and Mosollam the son of Besodia built the oldgate, covered it, & set up the doors thereof, and the locks, and bars."
         },
         {
           "verse": 7,
@@ -258,7 +264,7 @@
         },
         {
           "verse": 15,
-          "text": "And the gate of the fountain Sellum builded the son of Colhoza, Prince of the village of Maspha: he built it, and covered it, and set up the doors thereof, and the locks, and bars, and the walls of the pool of Siloe unto the king's garden, and unto the steps that go down from the city of David."
+          "text": "And the gate of the fountain Sellum builded the son of Colhoza, Prince of the village of Maspha: he built it, and covered it, and set up the doors thereof, and the locks, and bars, and the walls of the pool of Siloe unto the kings garden, and unto the steps that go down from the city of David."
         },
         {
           "verse": 16,
@@ -286,11 +292,11 @@
         },
         {
           "verse": 22,
-          "text": "And after him built the Priests, men of the champion of Jordan."
+          "text": "And after him built the Priests, men of the champaign of Jordan."
         },
         {
           "verse": 23,
-          "text": "After him built Benjamin and Hasub against their house: and after him built Azarias the son of Maasias the son of Ananias against his house."
+          "text": "After him built Benjamin and Hasub against their house: and after him built Azarias the son of Masias the son of Ananias against his house."
         },
         {
           "verse": 24,
@@ -298,7 +304,7 @@
         },
         {
           "verse": 25,
-          "text": "Phalel the son of Ozi against the bending and the tower, which appeareth from out of the king's high house, that is, in the court of the prison: after him Phadaia the son of Pharos."
+          "text": "Phalel the son of Ozi against the bending and the tower, which appeareth from out of the kings high house, that is, in the court of the prison: after him Phadaia the son of Pharos."
         },
         {
           "verse": 26,
@@ -318,7 +324,7 @@
         },
         {
           "verse": 30,
-          "text": "After him built Hanania the son of Selemia, and Hanun the son of Seleph the sixth, the second measure: after him built Mosollam the son of Barachias, against his treasury. After him Melchias a gold-smith son unto the house of the Nathineites, and of them that sold old stuff against the judgment gate, and unto the upper chamber of the corner."
+          "text": "After him built Hanania the son of Selemia, and Hanun the son of Seleph the sixth, the second measure: after him built Mosollam the son of Barachias, against his treasury. After him Melchias a goldsmith son unto the house of the Natheneites, and of them that sold old stuff against the judgement gate, and unto the upper chamber of the corner."
         },
         {
           "verse": 31,
@@ -340,7 +346,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "It was God's providence that the enemies mocking at the reparation of Jerusalem did not so furiously resist, till the work was performed: so sometimes heretics scoff at the endeavours of poor Priests labouring to restore Catholic religion: but whether they scoff or rage, God's holy work proceedeth and prospereth."
+              "text": "It was Gods providence that the enemies mocking at the reparation of Jerusalem did not so furiously resist, till the work was performed: so sometimes heretics scoff at the endeavours of poor Priests laboring to restore Catholic religion: but whether they scoff or rage, Gods holy work proceedeth and prospereth.",
+              "kind": "gloss"
             }
           ]
         },
@@ -350,7 +357,7 @@
         },
         {
           "verse": 4,
-          "text": "Hear our God, because we are had in despise: turn the reproach upon their head, and give them into despise in a Land of captivity."
+          "text": "Hear our God, because we are had in despise: turn the reproach upon their head, and give them into despite in a Land of captivity."
         },
         {
           "verse": 5,
@@ -426,7 +433,7 @@
         },
         {
           "verse": 23,
-          "text": "And I and my brethren, & my servants, and the watchmen that were behind me, did not put off our cloths: every man was made bare only to washing."
+          "text": "And I and my brethren, & my servants, and the watchmen that were behind me, did not put off our clothes: every man was made bare only to washing."
         }
       ],
       "summary": "Notwithstanding the enemies' rage and oppose against the building of the walls, 4. the Jews build with one hand, & hold their swords in the other. Nehemias encourageth them, and the work proceedeth."
@@ -440,7 +447,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "S. Beda in his time lamented that some spiritual Superiors neglected to feed their flock, either spiritually or temporally, and yet exacted temporal revenues, and oppressed the poor people. <i>li. 3. c. 21. in Esd.</i> How much more may we with him, wish another Nehemias, that is a <i>comforter from our Lord</i> to correct this fault, & to relieve poor Catholics distressed?"
+              "text": "S. Beda in his time lamented that some spiritual Superiors neglected to feed their flock, either spiritually or temporally, and yet exacted temporal revenues, and oppressed the poor people. <i>li. 3. c. 21. in Esd.</i> How much more may we with him, wish another Nehemias, that is a <i>comforter from our Lord</i> to correct this fault, & to relieve poor Catholics distressed?",
+              "kind": "gloss"
             }
           ]
         },
@@ -454,7 +462,7 @@
         },
         {
           "verse": 4,
-          "text": "And others said: Let us borrow money for the king's tributes, and let us give our fields and vineyards,"
+          "text": "And others said: Let us borrow money for the kings tributes, and let us give our fields and vineyards,"
         },
         {
           "verse": 5,
@@ -478,7 +486,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Aright property of a true pastor, to do that good which he preacheth to others. <i>S. Beda ibidem.</i>"
+              "text": "Aright property of a true pastor, to do that good which he preacheth to others. <i>S. Beda ibidem.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -500,7 +509,7 @@
         },
         {
           "verse": 14,
-          "text": "And from that day, wherein the king commanded me to the Duke in the land of Juda, from the twentieth year till the two and thirtieth year of Artaxerxes the king, for twelve years, I and my brethren did not eat the yearly allowance, that was due to the Dukes."
+          "text": "And from that day, wherein the king commended me to the Duke in the land of Juda, from the twentieth year till the two and thirtieth year of Artaxerxes the king, for twelve years, I and my brethren did not eat the yearly allowance, that was due to the Dukes."
         },
         {
           "verse": 15,
@@ -516,7 +525,7 @@
         },
         {
           "verse": 18,
-          "text": "And there was prepared for me day by day one oxe, six chosen rams, beside fowls, and within ten days diverse wines, and many other things did I give. Moreover also the yearly allowance of my dukedom I sought not, for the people was very much impoverished."
+          "text": "And there was prepared for me day by day one oxe, six chosen rams, beside fowls, and within ten days divers wines, and many other things did I give. Moreover also the yearly allowance of my dukedom I sought not, for the people was very much impoverished."
         },
         {
           "verse": 19,
@@ -524,7 +533,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Agood conscience hath great confidence in God, and justly hopeth for reward."
+              "text": "A good conscience hath great confidence in God, and justly hopeth for reward.",
+              "kind": "gloss"
             }
           ]
         }
@@ -544,7 +554,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "When heretics & other adversaries of the Church find themselves not able to suppress Catholics, they offer conditions of peace, and liberty to all: So when Protestants began, and where they are weak, they would have none persecuted for any opinions in religion; but where they are strong they hardly grant toleration to Catholics."
+              "text": "When heretics & other adversaries of the Church find themselves not able to suppress Catholics, they offer conditions of peace, and liberty to all: So when Protestants began, and where they are weak, they would have none persecuted for any opinions in religion; but where they are strong they hardly grant toleration to Catholics.",
+              "kind": "gloss"
             }
           ]
         },
@@ -582,7 +593,7 @@
         },
         {
           "verse": 11,
-          "text": "And I said. Doth any man that is like unto me fly? And who being as I am, will go into the temple, and live? I will not go in."
+          "text": "And I said. Doth any man that is like unto me flee? And who being as I am, will go into the temple, and live? I will not go in."
         },
         {
           "verse": 12,
@@ -636,7 +647,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Three special defences of a city, are the strength of walls, shutting and opening the gates in due time, & diligent watchmen: so to the custody of faithful souls three things are necessary; the grace of God, due regard of the outward senses, and continual watch against our invisible enemies."
+              "text": "Three special defences of a city, are the strength of walls, shutting and opening the gates in due time, & diligent watchmen: so to the custody of faithful souls three things are necessary; the grace of God, due regard of the outward senses, and continual watch against our invisible enemies.",
+              "kind": "gloss"
             }
           ]
         },
@@ -730,7 +742,7 @@
         },
         {
           "verse": 26,
-          "text": "The children of Bethlehem, and Netupha, an hundred eighty eight."
+          "text": "The children of Betlehem, and Netupha, an hundred eighty eight."
         },
         {
           "verse": 27,
@@ -798,7 +810,7 @@
         },
         {
           "verse": 43,
-          "text": "The children of Josue and Cedmihel, the children"
+          "text": "The children of Josue and Cedmiel, the children"
         },
         {
           "verse": 44,
@@ -818,7 +830,7 @@
         },
         {
           "verse": 48,
-          "text": "the children of Ceros, the children of Siaa, the children of Phadon, the children of Lebana, the children of Hagaba, the children of Selmai,"
+          "text": "the children of Ceros, the children of Siaa, the children of Phadon, the children of Lebana, the children of Haguba, the children of Seimai,"
         },
         {
           "verse": 49,
@@ -838,7 +850,7 @@
         },
         {
           "verse": 53,
-          "text": "the children of Bacbuc, the children of Hacupha, the children of Harhur,"
+          "text": "the children of Bacbuc, the children of Hacupha, the children of Harur,"
         },
         {
           "verse": 54,
@@ -862,7 +874,7 @@
         },
         {
           "verse": 59,
-          "text": "the children of Saphatia, the children of Hatil, the children of Phochereth, who was born unto Sabaim, the son of Amon."
+          "text": "the children of Saphia, the children of Hatil, the children of Phohereth, who was born unto Sabaim, the son of Amon."
         },
         {
           "verse": 60,
@@ -878,7 +890,7 @@
         },
         {
           "verse": 63,
-          "text": "And of the Priests, the children of Habia, the children of Accos, the children of Berzellai, who took a wife of the daughters of Berzellai a Galaadite, and he was called by their name."
+          "text": "And of the Priests, the children of Habia, the children of Accos, the children of Berzellai, who took a wife of the daughters of Berzellai a Galeadite, and he was called by their name."
         },
         {
           "verse": 64,
@@ -898,7 +910,7 @@
         },
         {
           "verse": 68,
-          "text": "Their horses, seven hundred thirty six, their mules two hundred forty five,"
+          "text": "Their horses, two hundred thirty six, their mules two hundred forty five,"
         },
         {
           "verse": 69,
@@ -906,7 +918,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>S. Jerome</i> here noteth whence he received each part of this book, which is all Canonical Scripture, being all alike so declared by the Church."
+              "text": "<i>S. Jerome</i> here noteth whence he received each part of this book, which is all Canonical Scripture, being all alike so declared by the Church.",
+              "kind": "gloss"
             }
           ]
         },
@@ -942,13 +955,14 @@
           "notes": [
             {
               "label": "a",
-              "text": "The people requested Esdras to <i>bring the book</i> of the law, and he <i>brought it,</i> neither is there any mention that he writ the whole law out of his memory or by miracle: which maketh it probable that all copies were not burned or lost, but some reserved by Jeremias, Ezechiel, Daniel, Aggeus, Zacharias, or by himself or others, out of which he collected one entire volume, correcting faults committed by scribes, & adding some things for explication sake & supplement of the histories: and that either by tradition or revelation."
+              "text": "The people requested Esdras to <i>bring the book</i> of the law, and he <i>brought it,</i> neither is there any mention that he writ the whole law out of his memory or by miracle: which maketh it probable that all copies were not burned or lost, but some reserved by Jeremias, Ezechiel, Daniel, Aggeus, Zacharias, or by himself or others, out of which he collected one entire volume, correcting faults committed by scribes, & adding some things for explication sake & supplement of the histories: and that either by tradition or revelation.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 3,
-          "text": "And he read it plainly in the street that was before the water gate, from morning until midday, in the presence of the men, and women, & of those that understood: & the ears of all the people were attent to the book."
+          "text": "And he read it plainly in the street that was before the water gate, from morning until midday, in the presence of the men, and women, & of these that understood: & the ears of all the people were attent to the book."
         },
         {
           "verse": 4,
@@ -981,7 +995,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "<i>Athersatha privileged,</i> by reason of his favour with King Artaxerxes, <i>chap. 2.</i>"
+              "text": "<i>Athersatha privileged,</i> by reason of his favour with King Artaxerxes, <i>chap. 2.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -1037,7 +1052,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "True repentance requireth works of penance, & especially the removing of occasions of sin: a separation from evil company, abandoning of evil cogitations, and of much worldly pleasure."
+              "text": "True repentance requireth works of penance, & especially the removing of occasions of sin: as separation from evil company, abandoning of evil cogitations, and of much worldly pleasure.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1063,13 +1079,14 @@
           "notes": [
             {
               "label": "b",
-              "text": "Changing of names importeth some beneficial mystery. <i>Gen. 17.</i>"
+              "text": "Changing of names importeth some beneficial mystery. <i>Gen. 17.</i>",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 8,
-          "text": "And thou didst find his heart faithful before thee: and thou madest a covenant with him, that thou wouldest give him the land of the Chananeite, of the Hetheite, and of the Amorrheite, and of the Pherezeite, and of the Jebuseite, and of the Gergeseite, to give unto his seed: and thou hast fulfilled thy words, because thou art just."
+          "text": "And thou didst find his heart faithful before thee: and thou madest a covenant with him, that thou wouldest give him the land of the Chananite, of the Hetheite, and of the Amorrheite, and of the Pherezeite, and of the Jebuseite, and of the Gergeseite, to give unto his seed: and thou hast fulfilled thy words, because thou art just."
         },
         {
           "verse": 9,
@@ -1089,7 +1106,7 @@
         },
         {
           "verse": 13,
-          "text": "To mount Sinai also thou didst descend, and spakest with them from heaven, and thou gavest them right judgments, and the law of truth, ceremonies, and good precepts."
+          "text": "To mount Sinai also thou didst descend, and spakest with them from heaven, and thou gavest them right judgements, and the law of truth, ceremonies, and good precepts."
         },
         {
           "verse": 14,
@@ -1097,7 +1114,7 @@
         },
         {
           "verse": 15,
-          "text": "Bread also from heaven thou gavest them in their hunger, and water out of the rock thou didst bring forth to them thirsting, and thou saidst to them that they should enter in and possess the land, upon which thou didst lift up thy hand to deliver it them."
+          "text": "Bread also from heaven thou gavest them in their hunger, and water out of the rock thou didst bring forth to them thirsting, and thou saidest to them that they should enter in and possess the land, upon which thou didst lift up thy hand to deliver it them."
         },
         {
           "verse": 16,
@@ -1109,7 +1126,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Free will in sinners."
+              "text": "Free will in sinners.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1147,7 +1165,7 @@
         },
         {
           "verse": 26,
-          "text": "But they provoked thee to wrath, and departed from thee, and threw the law behind their backs: and they killed thy Prophets, which admonished them earnestly to return to thee: and they did great blasphemies."
+          "text": "But they provoked thee to wrath, and departed from thee, and threw thy law behind their backs: and they killed thy Prophets, which admonished them earnestly to return to thee: and they did great blasphemies."
         },
         {
           "verse": 27,
@@ -1155,11 +1173,11 @@
         },
         {
           "verse": 28,
-          "text": "And when they had rested, they returned to do evil in thy sight: and thou didst leave them in the hand of their enemies, and they possessed them. And they returned, and cried to thee: and thou heardest from heaven, and deliveredst them in thy mercies many times."
+          "text": "And when they had rested, they returned to do evil in thy sight: and thou didst leave them in the land of their enemies, and they possessed them. And they returned, and cried to thee: and thou heardest from heaven, and deliveredst them in thy mercies many times."
         },
         {
           "verse": 29,
-          "text": "And thou didst admonish them that they should return to thy law. But they did proudly, and heard not thy commandments, and sinned in thy judgments, which a man should do, and shall live in them, and they gave the revolting shoulder, & hardened their neck, neither did they hear."
+          "text": "And thou didst admonish them that they should return to thy law. But they did proudly, and heard not thy commandments, and sinned in thy judgements, which a man should do, and shall live in them, and they gave the revolting shoulder, & hardened their neck, neither did they hear."
         },
         {
           "verse": 30,
@@ -1317,7 +1335,7 @@
         },
         {
           "verse": 29,
-          "text": "All that could understand, promising for their brethren, their Princes, and they that came to promise, and swear that they would walk in the law of God, which he gave in the hand of Moyses the servant of God, that they would do and keep all the commandments of the Lord our God, and his judgments and his ceremonies."
+          "text": "All that could understand, promising for their brethren, their Princes, and they that came to promise, and swear that they would walk in the law of God, which he gave in the hand of Moyses the servant of God, that they would do and keep all the commandments of the Lord our God, and his judgements and his ceremonies."
         },
         {
           "verse": 30,
@@ -1325,7 +1343,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "In all leagues & covenants of peace those articles are specially mentioned wherein breach hath been made in former times."
+              "text": "In all leagues & covenants of peace those articles are specially mentioned wherein breach hath been made in former times.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1359,7 +1378,7 @@
         },
         {
           "verse": 38,
-          "text": "And the Priest the son of Aaron shall be with the Levites in the tithes of the Levites, and the Levites shall offer the tenth part of their tithe in the house of our God, to the treasury in the treasure-house."
+          "text": "And the Priest the son of Aaron shall be with the Levites in the tithes of the Levites, and the Levites shall offer the tenth part of their tithe in the house of our God, to the treasury in the treasure house."
         },
         {
           "verse": 39,
@@ -1377,7 +1396,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Because Jerusalem was most impugned by enemies few were willing to dwell there,"
+              "text": "Because Jerusalem was most impugned by enemies few were willing to dwell there,",
+              "kind": "gloss"
             }
           ]
         },
@@ -1387,7 +1407,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "yet many valiant men of the tribes of Juda, Benjamin, and Levi, offered themselves: of other tribes the tenth part were chosen by lots. Whereby is gathered that many of the ten tribes returned also into Chanaan, though the holy Scripture doth not so expressly record what became of them as of the other tree tribes, because Jerusalem pertained to the lot of Benjamin, Juda was the Kingly tribe, and Levi the Priestly. S. Beda. lib. 3. cap. 31. in Esdr."
+              "text": "yet many valiant men of the tribes of Juda, Benjamin, and Levi, offered themselves: of other tribes the tenth part were chosen by lots. Whereby is gathered that many of the ten tribes returned also into Chanaan, though the whole Scripture doth not so expressly record what became of them as of the other tree tribes, because Jerusalem pertained to the lot of Benjamin, Juda was the Kingly tribe, and Levi the Priestly. S. Beda. lib. 3. cap. 31. in Esdr.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1421,7 +1442,7 @@
         },
         {
           "verse": 10,
-          "text": "And of the Priests, Idaia the son of Joarib, Jachin,"
+          "text": "And of the Priests, Idaia the son of Joarib, Jachim,"
         },
         {
           "verse": 11,
@@ -1449,7 +1470,7 @@
         },
         {
           "verse": 17,
-          "text": "And Mathania the son of Micha, the son of Zebedei, the son of Asaph Prince to praise, and to confess in prayer, and Becbecia second of his brethren, and Abda the son of Samua, the son of Galal, the son of Idithun."
+          "text": "And Mathania the son of Micha, the son of Zebedei, the son of Asaph Prince to praise, and to confess in prayer, and Becbecia second of his brethren, and Abda the son of Samua, the son of Galal, the son of Idithum."
         },
         {
           "verse": 18,
@@ -1505,7 +1526,7 @@
         },
         {
           "verse": 31,
-          "text": "And the children of Benjamin, of Geba, Mecmas, and Hai, and Bethel, and her daughters,"
+          "text": "And the children of Benjamin, of Geba, Mecmas, and Hai, and Bethhel, and her daughters,"
         },
         {
           "verse": 32,
@@ -1517,7 +1538,7 @@
         },
         {
           "verse": 34,
-          "text": "Hadid, Seboim, and Neballat, Lod,"
+          "text": "Hadid, Seboim, and Neballac, Lod,"
         },
         {
           "verse": 35,
@@ -1539,7 +1560,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Esdras went again to Babylon, and obtaining a favourable commission of the King brought many with him into Jerusalem. <i>1. Esdr. 7.</i>"
+              "text": "Esdras went again to Babylon, and obtaining a favourable commission of the King brought many with him into Jerusalem. <i>1. Esdr. 7.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -1577,11 +1599,12 @@
         },
         {
           "verse": 10,
-          "text": "And <na>(b)</na> Josue begat Ioacim, and Ioacim begat Eliasib, and Eliasib begat Joiada,",
+          "text": "And <na>(b)</na> Josue begat Ioacim, and Ioacim begat Eilasib, and Eliasib begat Joiada,",
           "notes": [
             {
               "label": "b",
-              "text": "The genealogy of high Priests from Iosue to Ieddoa, otherwise called Iaddus."
+              "text": "The genealogy of high Priests from Iosue to Ieddoa, otherwise called Iaddus.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1623,7 +1646,7 @@
         },
         {
           "verse": 20,
-          "text": "Of Sellai, Celai: Of Amoc, Heber:"
+          "text": "Of Sellai, Sellai: Of Amoc, Heber:"
         },
         {
           "verse": 21,
@@ -1635,7 +1658,7 @@
         },
         {
           "verse": 23,
-          "text": "The children of Levi, Princes of the families, written in the book of Chronicles of days, and unto the days of Jonathan the son of Eliasib."
+          "text": "The children of Levi, Princes of the families, written in the book of Chronicles of days, and unto the days of Jonathan the son of Eilasib."
         },
         {
           "verse": 24,
@@ -1655,7 +1678,7 @@
         },
         {
           "verse": 28,
-          "text": "And the children of the singing men were gathered together out of the champion about Jerusalem, and out of the towns Nethuphati,"
+          "text": "And the children of the singing men were gathered together out of the champaign about Jerusalem, and out of the towns Nethuphati,"
         },
         {
           "verse": 29,
@@ -1667,7 +1690,7 @@
         },
         {
           "verse": 31,
-          "text": "And I made the Princes of Juda go up upon the wall, and I set two great choirs of them that should praise. And they went on the right hand upon the wall to the gate of the dunghill."
+          "text": "And I made the Princes of Juda go up upon the wall, and I set two great quires of them that should praise. And they went on the right hand upon the wall to the gate of the dunghill."
         },
         {
           "verse": 32,
@@ -1679,7 +1702,7 @@
         },
         {
           "verse": 34,
-          "text": "And of the children of the Priests with trumpets, Zacharias the son of Jonathan, the son of Semeia, the son of Mathania, the son of Michaia, the son Zechur, the son Asaph,"
+          "text": "And of the children of the Priests with trumpets, Zacharias the son of Jonathan, the son of Semeia, the son of Nathania, the son of Michaia, the son Zechur, the son Asaph,"
         },
         {
           "verse": 35,
@@ -1691,7 +1714,7 @@
         },
         {
           "verse": 37,
-          "text": "And the second choir of thanks-givers went on the contrary side, and I after it, & the half part of the people upon the wall, & above the tower of the furnaces, and unto the broadest wall,"
+          "text": "And the second quire of thanks-givers went on the contrary side, and I after it, & the half part of the people upon the wall, & above the tower of the furnaces, and unto the broadest wall,"
         },
         {
           "verse": 38,
@@ -1699,7 +1722,7 @@
         },
         {
           "verse": 39,
-          "text": "and there stood two choirs of them that praised in the house of God, and I, and the half part of the magistrates with me."
+          "text": "and there stood two quires of them that praised in the house of God, and I, and the half part of the magistrates with me."
         },
         {
           "verse": 40,
@@ -1715,7 +1738,7 @@
         },
         {
           "verse": 43,
-          "text": "They numbered also in that day men over the storehouses of the treasure, for the libaments, and for the first fruits, & for the tithes, that the Princes of the city might bring in by them in the honour of thanks-giving, Priests and Levites: because Juda was made joyful in the Priests and Levites standing by."
+          "text": "They numbered also in that day men over the storehouses of the treasure, for the libaments, and for the first fruits, & for the tithes, that the Princes of the city might bring in by them in the honour of thanksgiving, Priests and Levites: because Juda was made joyful in the Priests and Levites standing by."
         },
         {
           "verse": 44,
@@ -1731,7 +1754,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "As others gave tithes to the Levites: so they gave to Priests. <i>Num. 18. v. 21. 28.</i>"
+              "text": "As others gave tithes to the Levites: so they gave to Priests. <i>Num. 18. v. 21. 28.</i>",
+              "kind": "gloss"
             }
           ]
         }
@@ -1747,7 +1771,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The third part. Correction of faults."
+              "text": "The third part. Correction of faults.",
+              "kind": "head"
             }
           ]
         },
@@ -1766,11 +1791,12 @@
         },
         {
           "verse": 4,
-          "text": "And over this thing was Eliasib the Priest, who had been made overseer in the treasury of the house of our God, and near a-kin to <na>(a)</na> Tobias.",
+          "text": "And over this thing was Eliasib the Priest, who had been made overseer in the treasury of the house of our God, and near akin to <na>(a)</na> Tobias.",
           "notes": [
             {
               "label": "a",
-              "text": "This Tobias was an Ammonite & a persecuter, <i>c. 14.</i> to whom Eliasib being a-kin (by reason of unlawful marriages) joined fellowship with him for wicked lucre: which therefore Nehemias corrected, prefiguring therein our Saviour's zeal, who threw buyers and sellers out of the temple <i>Mat. 21.</i> And these persecuters prefigured heretics in their words and acts, as Venerable Bede expoundeth. <i>li. 3. in Esd. c. 19.</i>"
+              "text": "This Tobias was an Ammonite & a persecuter, <i>c. 14.</i> to whom Eliasib being akin (by reason of unlawful marriages) joined fellowship with him for wicked lucre: which therefore Nehemias corrected, prefiguring therein our Saviour's zeal, who threw buyers and sellers out of the temple <i>Mat. 21.</i> And these persecuters prefigured heretics in their words and acts, as Venerable Beda expoundeth. <i>li. 3. in Esd. c. 19.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -1796,7 +1822,7 @@
         },
         {
           "verse": 10,
-          "text": "And I knew that the portions of the Levites had not been given: and that every man was fled into his country of the Levites, and the singing men, and of them that ministered:"
+          "text": "And I knew that the portion of the Levites had not been given: and that every man was fled into his country of the Levites, and the singing men, and of them that ministered:"
         },
         {
           "verse": 11,
@@ -1844,7 +1870,7 @@
         },
         {
           "verse": 22,
-          "text": "Ispake also to the Levites that they should be cleansed, and should come to keep the gates, and to sanctify the day of the Sabbath: therefore for this also remember me my God, and spare me according to the multitude of thy mercies."
+          "text": "I spake also to the Levites that they should be cleansed, and should come to keep the gates, and to sanctify the day of the Sabbath: therefore for this also remember me my God, and spare me according to the multitude of thy mercies."
         },
         {
           "verse": 23,
@@ -1884,7 +1910,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Ajust man that hath merited by good works may pray with great confidence for reward. <i>The third and fourth Books of Esdras, with the prayer of Manasses, follow after the Machabees.</i>"
+              "text": "Ajust man that hath merited by good works may pray with great confidence for reward. <i>The third and fourth Books of Esdras, with the prayer of Manasses, follow after the Machabees.</i>",
+              "kind": "gloss"
             }
           ]
         }

@@ -42,7 +42,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "In the end of this world the earth shall be purified, & so remain for ever."
+              "text": "In the end of this world the earth shall be purified, & so remain for ever.",
+              "kind": "gloss"
             }
           ]
         },
@@ -60,7 +61,7 @@
         },
         {
           "verse": 8,
-          "text": "All things are hard: man cannot explicate them in word. The eye is not filled with seeing, neither is the ear filled with hearing."
+          "text": "All things are hard: man can not explicate them in word. The eye is not filled with seeing, neither is the ear filled with hearing."
         },
         {
           "verse": 9,
@@ -72,7 +73,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Men's souls daily created are of the same kind as Adam's soul: other creatures either were in their kinds from"
+              "text": "Men's souls daily created are of the same kind as Adam's soul: other creatures either were in their kinds from",
+              "kind": "gloss"
             }
           ]
         },
@@ -94,7 +96,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "All natural things are insufficient means to attain felicity."
+              "text": "All natural things are insufficient means to attain felicity.",
+              "kind": "gloss"
             }
           ]
         },
@@ -117,7 +120,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "Wisdom is the best thing in this world, yet is not perfect felicity, but the means to attain it."
+              "text": "Wisdom is the best thing in this world, yet is not perfect felicity, but the means to attain it.",
+              "kind": "gloss"
             }
           ]
         }
@@ -139,11 +143,13 @@
           "notes": [
             {
               "label": "a",
-              "text": "A worldly man may object, that seeing wisdom bringeth not felicity in this life, it seemeth best to take his pleasure & ease & not to labour for it."
+              "text": "A worldly man may object, that seeing wisdom bringeth not felicity in this life, it seemeth best to take his pleasure & ease & not to labour for it.",
+              "kind": "gloss"
             },
             {
               "label": "b",
-              "text": "But the wise man confuteth this conceipt. Because worldly joy is short & uncertain, neither is any joy that men have in this life true joy of the blessed, but only a consolation in miseries."
+              "text": "But the wise man confuteth this conceipt. Because worldly joy is short & uncertain, neither is any joy that men have in this life true joy of the blessed, but only a consolation in miseries.",
+              "kind": "gloss"
             }
           ]
         },
@@ -169,11 +175,11 @@
         },
         {
           "verse": 7,
-          "text": "I have possessed men-servants and women-servants, and have had a great family: herds also, and great flocks of sheep, above all that were before me in Jerusalem:"
+          "text": "I have possessed menservants and womenservants, and have had a great family: herds also, and great flocks of sheep, above all that were before me in Jerusalem:"
         },
         {
           "verse": 8,
-          "text": "I have heaped together to myself silver, and gold, and the substance of kings, and provinces: I made me singing men, & singing women, and the delights of the children of men: cups, and goblets to serve to pour out wines:"
+          "text": "I have heaped together to myself silver, and gold, and the substance of kings, and provinces: I made me singingmen, & singing women, and the delights of the children of men: cups, and goblets to serve to pour out wines:"
         },
         {
           "verse": 9,
@@ -181,7 +187,7 @@
         },
         {
           "verse": 10,
-          "text": "And all things that mine eyes desired, I have not denied to them: neither have I stayed my heart, but that it enjoyed all pleasure, & delighted it-self in these things, which I had prepared: and this I esteemed my portion, if I did use my labour."
+          "text": "And all things that mine eyes desired, I have not denied to them: neither have I stayed my heart, but that it enjoyed all pleasure, & delighted itself in these things, which I had prepared: and this I esteemed my portion, if I did use my labour."
         },
         {
           "verse": 11,
@@ -201,7 +207,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Consideration is the directory of all good works."
+              "text": "Consideration is the directory of all good works.",
+              "kind": "gloss"
             }
           ]
         },
@@ -211,7 +218,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "The conceit of worldly men not considering the life to come."
+              "text": "The conceit of worldly men not considering the life to come.",
+              "kind": "gloss"
             }
           ]
         },
@@ -253,7 +261,8 @@
           "notes": [
             {
               "label": "e",
-              "text": "It is better to use that is honestly gotten for our necessity, than to be still solicitous to get more."
+              "text": "It is better to use that is honestly gotten for our necessity, than to be still solicitous to get more.",
+              "kind": "gloss"
             }
           ]
         },
@@ -277,7 +286,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Generation, Corruption, & Alteration, pertain only to things of this world under heaven, often here described by the term, Under the sun. For spiritual substances are not comprehended in time nor place. <i>S. Ierom. in hunc locum. tom 7.</i>"
+              "text": "Generation, Corruption, & Alteration, pertain only to things of this world under heaven, often here described by the term, Under the sun. For spiritual substances are not comprehended in time nor place. <i>S. Ierom. in hunc locum. tom 7.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -307,7 +317,7 @@
         },
         {
           "verse": 8,
-          "text": "A time to love, and a time of hatred. A time of war, and a time of peace."
+          "text": "A time of love, and a time of hatred. A time of war, and a time of peace."
         },
         {
           "verse": 9,
@@ -315,7 +325,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "All this sheweth that nothing of this world is perpetual, but to be used interchangeably, in due time, place, manner, and order. For disorder maketh confusion."
+              "text": "All this sheweth that nothing of this world is perpetual, but to be used interchangeably, in due time, place, manner, and order. For disorder maketh confusion.",
+              "kind": "gloss"
             }
           ]
         },
@@ -379,11 +390,12 @@
       "verses": [
         {
           "verse": 1,
-          "text": "I turned myself to other things, and I saw the oppressions, that are done under the sun, and the <na>(a)</na> tears of the innocents, and no comforter: & that they cannot resist their violence, being destitute of all men's help.",
+          "text": "I turned my self to other things, and I saw the oppressions, that are done under the sun, and the <na>(a)</na> tears of the innocents, and no comforter: & that they can not resist their violence, being destitute of all men's help.",
           "notes": [
             {
               "label": "a",
-              "text": "God suffereth the innocent to be afflicted for a time, of his special providence: because they thereby merit a great reward. Psal. 72."
+              "text": "God suffereth the innocent to be afflicted for a time, of his special providence: because they thereby merit a great reward. Psal. 72.",
+              "kind": "gloss"
             }
           ]
         },
@@ -397,7 +409,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "It is indeed better not to be at all, than to be in eternal misery <i>(Mat. 26. v. 24.)</i> but temporal affliction which the just suffer is not misery, as worldly men esteem it, but a special mean to attain eternal felicity."
+              "text": "It is indeed better not to be at all, than to be in eternal misery <i>(Mat. 26. v. 24.)</i> but temporal affliction which the just suffer is not misery, as worldly men esteem it, but a special mean to attain eternal felicity.",
+              "kind": "gloss"
             }
           ]
         },
@@ -440,7 +453,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "True charity not contaminate with envy, by how much it is increased in number, so much it increaseth in strength. S. Ierom."
+              "text": "True charity not contaminate with envy, by how much it is increased in number, so much it increaseth in strength. S. Ierom.",
+              "kind": "gloss"
             }
           ]
         },
@@ -481,7 +495,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Because no man is able to attain perfect knowledge of God, it behoveth all to speak and think soberly of him."
+              "text": "Because no man is able to attain perfect knowledge of God, it behoveth all to speak and think soberly of him.",
+              "kind": "gloss"
             }
           ]
         },
@@ -491,15 +506,17 @@
         },
         {
           "verse": 3,
-          "text": "<na>(b)[1]</na> If thou hast vowed any thing to God, defer not to pay it: for an unfaithful and foolish promise displeaseth him. But whatsoever thou hast vowed, pay it:",
+          "text": "<na>(b)[1]</na> If thou hast vowed any thing to God, differ not to pay it: for an unfaithful and foolish promise displeaseth him. But whatsoever thou hast vowed, pay it:",
           "notes": [
             {
               "label": "b",
-              "text": "Vow or promise once made must be fulfilled."
+              "text": "Vow or promise once made must be fulfilled.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "Deu. 23."
+              "text": "Deu. 23.",
+              "kind": "gloss"
             }
           ]
         },
@@ -513,7 +530,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "The proper Angel which associateth every man."
+              "text": "The proper Angel which associateth every man.",
+              "kind": "gloss"
             }
           ]
         },
@@ -543,6 +561,10 @@
           "cross_refs": [
             {
               "text": "Job. 20."
+            },
+            {
+              "text": "Job 2",
+              "source": "sancta"
             }
           ]
         },
@@ -556,7 +578,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "As temporal riches are often the occasion of their owner's ruin: so vain philosophy and heresy avail not heretics, nor their followers, but as they came naked from their mother's womb, the perverse Church, so shall both such masters, and scholers depart without comfort into the wrath which they prepare to themselves. <i>S. Ierom. in hunc. locum.</i>"
+              "text": "As temporal riches are often the occasion of their owners ruin: so vain philosophy and heresy avail not heretics, nor their followers, but as they came naked from their mothers womb, the perverse Church, so shall both such masters, and scholars depart without comfort into the wrath which they prepare to themselves. <i>S. Ierom. in hunc. locum.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -596,11 +619,12 @@
         },
         {
           "verse": 2,
-          "text": "Aman to whom God hath given riches, and substance, and honour, and nothing is lacking to his soul of all things, which he desireth: neither doth God give him power to eat thereof: but a strange man shall eat it up. This is <na>(b)</na> vanity and great misery.",
+          "text": "A man to whom God hath given riches, and substance, and honour, and nothing is lacking to his soul of all things, which he desireth: neither doth God give him power to eat thereof: but a strange man shall eat it up. This is <na>(b)</na> vanity and great misery.",
           "notes": [
             {
               "label": "b",
-              "text": "All this sheweth that felicity consisteth not in riches."
+              "text": "All this sheweth that felicity consisteth not in riches.",
+              "kind": "gloss"
             }
           ]
         },
@@ -638,7 +662,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "It is plainly preached (saith S. Iero.) of the coming of Christ, whose name was given, and known before he was born in flesh."
+              "text": "It is plainly preached (saith S. Iero.) of the coming of Christ, whose name was given, and known before he was born in flesh.",
+              "kind": "gloss"
             }
           ]
         },
@@ -658,7 +683,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "None can perfectly know the nature of all things present, or to come."
+              "text": "None can perfectly know the nature of all things present, or to come.",
+              "kind": "gloss"
             }
           ]
         },
@@ -673,7 +699,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "The 2. part. True felicity is procured by good life, and consisteth in the eternal sight of God."
+              "text": "The 2. part. True felicity is procured by good life, and consisteth in the eternal sight of God.",
+              "kind": "gloss"
             }
           ]
         },
@@ -687,7 +714,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Anger rightly used, is commendable & beneficial to correct our own faults and others."
+              "text": "Anger rightly used, is commendable & beneficial to correct our own faults and others.",
+              "kind": "gloss"
             }
           ]
         },
@@ -713,7 +741,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "But hasty, or immoderate anger is sinful and hurtful."
+              "text": "But hasty, or immoderate anger is sinful and hateful.",
+              "kind": "gloss"
             }
           ]
         },
@@ -731,7 +760,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Likewise moderate riches profit the servants of God, so that they set not their mind upon them."
+              "text": "Likewise moderate riches profit the servants of God, so that they set not their mind upon them.",
+              "kind": "gloss"
             }
           ]
         },
@@ -806,7 +836,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>* The preacher.</i>"
+              "text": "<i>* The preacher.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -816,11 +847,13 @@
           "notes": [
             {
               "label": "d",
-              "text": "Man's reason which is the superior part of his soul, rarely thinketh good:"
+              "text": "Man's reason which is the superior part of his soul, rarely thinketh good:",
+              "kind": "gloss"
             },
             {
               "label": "e",
-              "text": "Sensuality still inclineth to evil."
+              "text": "Sensuality still inclineth to evil.",
+              "kind": "gloss"
             }
           ]
         },
@@ -830,11 +863,13 @@
           "notes": [
             {
               "label": "f",
-              "text": "God made man right, & he of his own will fell from God. See <i>S. Aug. li. 14. c. 11. civit.</i>"
+              "text": "God made man right, & he of his own will fell from God. See <i>S. Aug. li. 14. c. 11. civit.</i>",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "<i>* The obscure thing.</i>"
+              "text": "<i>* The obscure thing.</i>",
+              "kind": "gloss"
             }
           ]
         }
@@ -850,7 +885,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "As probable conjecture of a man's inward disposition is made by his exterior countenance: so his good works shining before men are good sign of internal virtues; which indeed are right and meritorious, when the intention is sincere, referring all to God's glory, & edification of others, without desire of vain praise in the world."
+              "text": "As probable conjecture of a man's inward disposition is made by his exterior countenance: so his good works shining before men are good sign of internal virtues; which indeed are right and meritorious, when the intention is sincere, referring all to God's glory, & edification of others, without desire of vain praise in the world.",
+              "kind": "gloss"
             }
           ]
         },
@@ -888,7 +924,7 @@
         },
         {
           "verse": 10,
-          "text": "Isaw the impious buried: who also when they yet lived, were in holy place, and were praised in the city as men of just works. But this also is vanity."
+          "text": "I saw the impious buried: who also when they yet lived, were in holy place, and were praised in the city as men of just works. But this also is vanity."
         },
         {
           "verse": 11,
@@ -908,7 +944,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "By this term (vanity) is still understood that felicity is not in prosperous things of this world: neither are all men miserable, that suffer adversity."
+              "text": "By this term (vanity) is still understood that felicity is not in prosperous things of this world: neither are all men miserable, that suffer adversity.",
+              "kind": "gloss"
             }
           ]
         },
@@ -922,7 +959,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>* Busy searching.</i>"
+              "text": "<i>* Busy searching.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -942,13 +980,14 @@
           "notes": [
             {
               "label": "a",
-              "text": "Mortal men suffering calamities know not whether the same be inflicted for their proof and merit, as in Job and Tobie, or for their sins only, as in Pharao, & the Ægyptians: but shall know in the judgment after their death."
+              "text": "Mortal men suffering calamities know not whether the same be inflicted for their proof and merit, as in Job and Tobie, or for their sins only, as in Pharao, & the Ægyptians: but shall know in the judgement after their death.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 2,
-          "text": "but all things are reserved uncertain for the time to come, because all things do equally chance to the just and impious, to the good and the evil, to the clean and unclean, to him that immolateth victims, and him that contemneth sacrifices. As the good, so also is the sinner: as the perjured, so he also that sweareth truth."
+          "text": "but all things are reserved uncertain for the time to come, because all things do equally chance to the just and impious, to the good and the evil, to the clean and unclean, to him that immoleth victims, and him that contemneth sacrifices. As the good, so also is the sinner: as the perjured, so he also that sweareth truth."
         },
         {
           "verse": 3,
@@ -960,7 +999,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "A sinner in this life may amend if he will, & become just: but after death he cannot repent. chap. 11. v. 3. Mystically, the Gentiles were judged by Salomon better than the Jews. <i>S. Ierom.</i>"
+              "text": "A sinner in this life may amend if he will, & become just: but after death he cannot repent. chap. 11. v. 3. Mystically, the Gentiles were judged by Salomon better than the Jews. <i>S. Ierom.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -974,7 +1014,13 @@
         },
         {
           "verse": 7,
-          "text": "Go therefore and eat thy bread in joy, & drink thy wine with gladness: because thy works please God."
+          "text": "Go therefore and eat thy bread in joy, & drink thy wine with gladness: because thy works please God.",
+          "cross_refs": [
+            {
+              "text": "chap. 11. v. 5",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 8,
@@ -1032,7 +1078,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Base & vicious men mixt with the good, corrupt the whole company: much more a mortal sin in a man's soul destroyeth all the virtues, that were there before."
+              "text": "Base & vicious men mixt with the good, corrupt the whole company: much more a mortal sin in a man's soul destroyeth all the virtues, that were there before.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1062,7 +1109,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Evil men advanced seem to prosper:"
+              "text": "Evil men advanced seem to prosper:",
+              "kind": "gloss"
             }
           ]
         },
@@ -1072,7 +1120,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "But they fall into their own traps."
+              "text": "But they fall into their own traps.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1106,7 +1155,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "Such as seek by sense and reason to obtain true knowledge, enter not into the city, the Church: They labour in vain, and are afflicted in study of Scriptures, when they walk in the desert, and cannot find the city. S. Ierom."
+              "text": "Such as seek by sense and reason to obtain true knowledge, enter not into the city, the Church: They labour in vain, and are afflicted in study of Scriptures, when they walk in the desert, and cannot find the city. S. Ierom.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1143,7 +1193,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Of all virtues, the works of mercy, corporal and spiritual, most avail for obtaining eternal felicity. <i>Mat. 25.</i>"
+              "text": "Of all virtues, the works of mercy, corporal and spiritual, most avail for obtaining eternal felicity. <i>Mat. 25.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -1153,7 +1204,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "So the same be grounded in true faith, believing all that is written in the old and new testament, signified by seven & eight."
+              "text": "So the same be grounded in true faith, believing all that is written in the old and new testament, signified by seven & eight.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1163,7 +1215,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "After death, none can either merit or demerit."
+              "text": "After death, none can either merit or demerit.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1181,7 +1234,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "Both in youth and old age do good works."
+              "text": "Both in youth and old age do good works.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1219,7 +1273,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "An admonition to all in general to live well in this world, remembering the day of general judgement, before which such signs shall come as are described here, and by our Saviour <i>Mat. 24.</i> And likewise every one is admonished in particular to serve God diligently whiles he hath time, before death come, when all his senses & former helps shall fail."
+              "text": "An admonition to all in general to live well in this world, remembering the day of general judgement, before which such signs shall come as are described here, and by our Saviour <i>Mat. 24.</i> And likewise every one is admonished in particular to serve God diligently whiles he hath time, before death come, when all his senses & former helps shall fail.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1233,7 +1288,7 @@
         },
         {
           "verse": 4,
-          "text": "and they shall shut the doors in the street, at the baseness of the grinder's voice, and they shall rise up at the voice of the bird, and all the daughters of song shall be deaf."
+          "text": "and they shall shut the doors in the street, at the baseness of the grinders voice, and they shall rise up at the voice of the bird, and all the daughters of song shall be deaf."
         },
         {
           "verse": 5,
@@ -1241,7 +1296,7 @@
         },
         {
           "verse": 6,
-          "text": "Before the silver cord be broken, and the golden head-band recur, and the water-pot be broken upon the fountain, and the wheel be broken upon the cistern,"
+          "text": "Before the silver cord be broken, and the golden headband recur, and the water pot be broken upon the fountain, and the wheel be broken upon the cistern,"
         },
         {
           "verse": 7,
@@ -1253,7 +1308,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>* The preacher.</i>"
+              "text": "<i>* The preacher.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -1267,7 +1323,7 @@
         },
         {
           "verse": 11,
-          "text": "The words of wisemen are as pricks, and as nails deeply strucken in, which by the counsel of masters are given of one pastor."
+          "text": "The words of wisemen are as pricks, and as nails deeply stricken in, which by the counsel of masters are given of one pastor."
         },
         {
           "verse": 12,
@@ -1279,7 +1335,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "This is the brief sum of all profitable doctrine: Fear God, & keep his commandments."
+              "text": "This is the brief sum of all profitable doctrine: Fear God, & keep his commandments.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1289,7 +1346,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>* Hidden, or obscure thing.</i>"
+              "text": "<i>* Hidden, or obscure thing.</i>",
+              "kind": "gloss"
             }
           ]
         }

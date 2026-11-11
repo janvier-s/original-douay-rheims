@@ -42,7 +42,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The first part beginneth in the 11. ch."
+              "text": "The first part beginneth in the 11. ch.",
+              "kind": "head"
             }
           ]
         },
@@ -52,7 +53,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "A. B."
+              "text": "A. B.",
+              "kind": "gloss"
             }
           ]
         },
@@ -70,7 +72,7 @@
         },
         {
           "verse": 6,
-          "text": "And there hung on every side hangings of sky-colour, and green, and hyacinthine colour, held up with cords of silk, & of purple, which were put into rings of ivory, and were held up with marble pillars. Beds also of gold and silver were placed in order upon the floor paved with the emerald, and the touch-stone: which painting adorned with marvelous variety."
+          "text": "And there hung on every side hangings of sky-colour, and green, and hyacinthine colour, held up with cords of silk, & of purple, which were put into rings of ivory, and were held up with marble pillars. Beds also of gold and silver were placed in order upon the floor paved with the emerald, and the touch stone: which painting adorned with marvelous variety."
         },
         {
           "verse": 7,
@@ -82,7 +84,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Modesty & temperance amongst heathen people condemneth Christians that urge men to drink immoderately, & so cause them to be drunk. S. Aug. Ser. 231. 232. de tempore."
+              "text": "Modesty & temperance amongst heathen people condemneth Christians that urge men to drink immoderately, & so cause them to be drunk. S. Aug. Ser. 231. 232. de tempore.",
+              "kind": "gloss"
             }
           ]
         },
@@ -104,7 +107,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "The end of immoderate feasting is commonly brawling. Here the King became furious, & the Queen was divorced from him."
+              "text": "The end of immoderate feasting is commonly brawling. Here the King became furious, & the Queen was divorced from him.",
+              "kind": "gloss"
             }
           ]
         },
@@ -126,7 +130,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Brentius approveth the sentence of this parasite, but Iosephus l. 11. c. 6. Macrobius li. 7. c. 1. Saturn. S. Ierome and Rustic. & S. Ambrose l. 1. de Elia c. 14. judge the Queen's refusal lawful, & agreeable to the Persians' laws, which prohibited married women to come in sight of other men in great assemblies: neither had the King just cause to break the law, for pleasing his fancy in his drunken humour. v. 10. Luther also wresteth this example in favour of adultery, par. 2. de divortio. folio 177. Editionis Wittenber. An. 1553."
+              "text": "Brentius approveth the sentence of this parasite, but Iosephus l. 11. c. 6. Macrobius li. 7. c. 1. Saturn. S. Ierome and Rustic. & S. Ambrose l. 1. de Elia c. 14. judge the Queen's refusal lawful, & agreeable to the Persians' laws, which prohibited married women to come in sight of other men in great assemblies: neither had the King just cause to break the law, for pleasing his fancy in his drunken humour. v. 10. Luther also wresteth this example in favour of adultery, par. 2. de divortio. folio 177. Editionis Witenber. Anno. 1553.",
+              "kind": "gloss"
             }
           ]
         },
@@ -152,7 +157,7 @@
         },
         {
           "verse": 22,
-          "text": "and he sent letters to all the Provinces of his Kingdom, as every nation could hear and read, in diverse languages and characters, that the husbands should be Princes and masters in their houses: and that this should be published through all peoples."
+          "text": "and he sent letters to all the Provinces of his Kingdom, as every nation could hear and read, in divers languages and characters, that the husbands should be Princes and masters in their houses: and that this should be published through all peoples."
         }
       ],
       "summary": "King Assuerus celebrateth a great banquet to shew his glory, 10. calleth queen Vasthi thereto. Who refusing to come, is by advise of his Counsel deposed.",
@@ -197,7 +202,7 @@
         },
         {
           "verse": 7,
-          "text": "who was the foster-father of his brother's daughter Edissa, which by another name was called Esther: & she had lost both her parents: exceeding beautiful, and of comely face. And her father and mother being dead, Mardocheus adopted her for his daughter."
+          "text": "who was the foster father of his brother's daughter Edissa, which by another name was called Esther: & she had lost both her parents: exceeding beautiful, and of comely face. And her father and mother being dead, Mardocheus adopted her for his daughter."
         },
         {
           "verse": 8,
@@ -205,7 +210,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Deut. 7. v. 3. Israelites are forbid to marry with Gentiles, yet when there was no danger to be perverted, and great hope of good, Esther by Mardocheus' counsel consented to marry King Assuerus, though otherwise she detested the bed of the incircumcised, and of every stranger. ch. 14. v. 15. K. David also married the King's daughter of Gessur. 2. Reg. 3. v. 3."
+              "text": "Deut. 7. v. 3. Israelites are forbid to marry with Gentiles, yet when there was no danger to be perverted, and great hope of good, Esther by Mardocheus' counsel consented to marry King Assuerus, though otherwise she detested the bed of the incircumcised, and of every stranger. ch. 14. v. 15. K. David also married the King's daughter of Gessur. 2. Reg. 3. v. 3.",
+              "kind": "gloss"
             }
           ]
         },
@@ -267,7 +273,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Mardocheus hearing suspicious words & observing their actions, saw that they intended evil, & informed the King; whereby their treason was discovered. Rab. Calom. & Iosep."
+              "text": "Mardocheus hearing suspicious words & observing their actions, saw that they intended evil, & informed the King; whereby their treason was discovered. Rab. Calom. & Iosep.",
+              "kind": "gloss"
             }
           ]
         },
@@ -288,11 +295,12 @@
       "verses": [
         {
           "verse": 1,
-          "text": "After these things king Assuerus advance Aman the son of Amadathi, which was of the stock of Agag: and he put his throne above all the Princes which he had.",
+          "text": "After these things king Assuerus advanced Aman the son of Amadathi, which was of the stock of Agag: and he put his throne above all the Princes which he had.",
           "notes": [
             {
               "label": "1",
-              "text": "D"
+              "text": "D",
+              "kind": "head"
             }
           ]
         },
@@ -302,7 +310,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Aman exacted such honour as heathen people gave to their less gods, which was also idolatry: for Mardocheus was willing to give him civil honour, even to kiss the steps of his feet, but feared (and refused ) to give Godly honour to him. ch. 13. v. 13. 14. S. Tho. 2. 2. q. 84. a. 1."
+              "text": "Aman exacted such honour as heathen people gave to their lesser gods, which was also idolatry: for Mardocheus was willing to give him civil honour, even to kiss the steps of his feet, but feared (and refused ) to give Godly honour to him. ch. 13. v. 13. 14. S. Tho. 2. 2. q. 84. a. 1.",
+              "kind": "gloss"
             }
           ]
         },
@@ -328,7 +337,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Such is the preposterous fury of rancour, to appoint the day of executing his malice, before he had got the King's decree."
+              "text": "Such is the preposterous fury of rancour, to appoint the day of executing his malice, before he had got the King's decree.",
+              "kind": "gloss"
             }
           ]
         },
@@ -338,11 +348,18 @@
         },
         {
           "verse": 9,
-          "text": "If it please thee, decree that they may perish, & I will pay ten thousand talents to the cofferers of the treasure."
+          "text": "If it please thee, decree that they may perish, & I will pay ten thousand talents to the cofferers of thy treasure."
         },
         {
           "verse": 10,
-          "text": "The king therefore took the ring that he used, from his hand, and gave it to Aman the son of Amadathi of the progeny of Agag, the enemy of the Jews,"
+          "text": "The king therefore took the ring that he used, from his hand, and gave it to Aman the son of Amadathi of the progeny of Agag, the enemy of the Jews,",
+          "notes": [
+            {
+              "label": "1",
+              "text": "The second part. The Jews' danger to be massacred.",
+              "kind": "head"
+            }
+          ]
         },
         {
           "verse": 11,
@@ -350,13 +367,7 @@
         },
         {
           "verse": 12,
-          "text": "And the king's scribes were called in the first month, Nisan, the thirteenth day of the same month: and it was written, as Aman had commanded, to all the king's lieutenants, and judges of the Provinces, and of diverse nations, as every nation could read, and hear according to the variety of languages, in the name of king Assuerus: and the letters signed with his ring,",
-          "notes": [
-            {
-              "label": "1",
-              "text": "The second part. The Jews' danger to be massacred."
-            }
-          ]
+          "text": "And the king's scribes were called in the first month, Nisan, the thirteenth day of the same month: and there was written, as Aman had commanded, to all the king's lieutenants, and judges of the Provinces, and of divers nations, as every nation could read, and hear according to the variety of languages, in the name of king Assuerus: and the letters signed with his ring,"
         },
         {
           "verse": 13,
@@ -373,17 +384,19 @@
           "notes": [
             {
               "label": "c",
-              "text": "The letter at large is in the seven first verses of the 13. ch. of which this is the sum."
+              "text": "The letter at large is in the seven first verses of the 13. ch. of which this is the sum.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "F"
+              "text": "F",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 15,
-          "text": "The posts that were sent, made haste to fulfill the king's commandment. And immediately the edict hung in Susan, the king and Aman feasting, and all the Jews that were in the city weeping."
+          "text": "The posts that were sent, made haste to fulfil the king's commandment. And immediately the edict hung in Susan, the king and Aman feasting, and all the Jews that were in the city weeping."
         }
       ],
       "summary": "Aman advanced by the king, is much offended that Mardocheus doth not adore him, 6. and therefore procureth the king's decree, to destroy the whole nation of the Jews."
@@ -397,27 +410,29 @@
           "notes": [
             {
               "label": "1",
-              "text": "The third part. The delivery of the Jews from danger."
+              "text": "The third part. The delivery of the Jews from danger.",
+              "kind": "head"
             }
           ]
         },
         {
           "verse": 2,
-          "text": "and with this wailing going even to the doors of the palace: for it was not lawful for one clothed with sack-cloth to enter the king's court."
+          "text": "and with this wailing going even to the doors of the palace: for it was not lawful for one clothed with sackcloth to enter the king's court."
         },
         {
           "verse": 3,
-          "text": "In all Provinces also, towns, and places, to which the king's cruel decree was come, there was great mourning with the Jews, fasting, howling, and weeping, many using sack-cloth and ashes for their couch.",
+          "text": "In all Provinces also, towns, and places, to which the king's cruel decree was come, there was great mourning with the Jews, fasting, howling, and weeping, many using sackcloth and ashes for their couch.",
           "notes": [
             {
               "label": "a",
-              "text": "The first & best remedy in distress is to do works of penance for sins committed. 1. Cor. 11. v. 31."
+              "text": "The first & best remedy in distress is to do works of penance for sins committed. 1. Cor. 11. v. 31.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 4,
-          "text": "And Esther's maids and the eunuchs went in, & told her. Which she hearing was astonished: & she sent a garment, that the sack-cloth being taken away, they should put it on him: which he would not take."
+          "text": "And Esther's maids and the eunuchs went in, & told her. Which she hearing was astonished: & she sent a garment, that the sackcloth being taken away, they should put it on him: which he would not take."
         },
         {
           "verse": 5,
@@ -441,7 +456,7 @@
         },
         {
           "verse": 10,
-          "text": "Who answered him, and bade that he should say to Mardocheus:"
+          "text": "Who answered him, and bad that he should say to Mardocheus:"
         },
         {
           "verse": 11,
@@ -457,11 +472,12 @@
         },
         {
           "verse": 14,
-          "text": "for if thou wilt now hold thy peace, the Jews shall be delivered by another occasion: and thou, and thy father's house shall perish. And who knoweth whether thou camest to the Kingdom therefore, that in such a time thou mightest be ready?",
+          "text": "for if thou wilt now hold thy peace, the Jews shall be delivered by another occasion: and thou, and thy father's house shall perish. And who knoweth whether thou camest to the Kingdom therefore, that in such a time thou mightst be ready?",
           "notes": [
             {
               "label": "b",
-              "text": "Great confidence in God's help when man's help faileth: & indeed this means by moving the King's heart to grant Esther's petition was God's special work."
+              "text": "Great confidence in God's help when man's help faileth: & indeed this means by moving the King's heart to grant Esther's petition was God's special work.",
+              "kind": "gloss"
             }
           ]
         },
@@ -499,7 +515,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "H"
+              "text": "H",
+              "kind": "head"
             }
           ]
         },
@@ -509,7 +526,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "K"
+              "text": "K",
+              "kind": "gloss"
             }
           ]
         },
@@ -535,13 +553,14 @@
           "notes": [
             {
               "label": "a",
-              "text": "This prudence in delaying to propose her petition, increased the King's desire to know it, moved him to"
+              "text": "This prudence in delaying to propose her petition, increased the King's desire to know it, moved him to",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 8,
-          "text": "If I have found grace in the king's sight, and if it please the king to give that which I ask, and to fulfill my petition: let the king and Aman come to the banquet which I have prepared them, and tomorrow I will open my will to the king."
+          "text": "If I have found grace in the king's sight, and if it please the king to give that which I ask, and to fulfil my petition: let the king and Aman come to the banquet which I have prepared them, and to morrow I will open my will to the king."
         },
         {
           "verse": 9,
@@ -579,7 +598,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "God's eye which never sleepeth, saw what Aman intended: and for execution of his own divine justice, used this means, by subtracting sleep that time from the King, & inspiring his mind to hear the histories read, and to reward good service, done. Ioseph."
+              "text": "God's eye which never sleepeth, saw what Aman intended: and for execution of his own divine justice, used this means, by subtracting sleep that time from the King, & inspiring his mind to hear the histories read, and to reward good service, done. Ioseph.",
+              "kind": "gloss"
             }
           ]
         },
@@ -605,7 +625,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Ambitious men are most blind in conceit of their own deserts, and fortunes."
+              "text": "Ambitious men are most blind in conceit of their own deserts, and fortunes.",
+              "kind": "gloss"
             }
           ]
         },
@@ -639,7 +660,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Either they had read God's promise to the Jews Gen. 13. 15. &c. or conjectured this by human Prudence."
+              "text": "Either they had read God's promise to the Jews Gen. 13. 15. &c. or conjectured this by human Prudence.",
+              "kind": "gloss"
             }
           ]
         },
@@ -667,13 +689,14 @@
           "notes": [
             {
               "label": "a",
-              "text": "After three days fast of all the Jews with prayers and other works of penance, Esther asked & obtained the safety of the whole people, more precious to her than half of the Kingdom."
+              "text": "After three days fast of all the Jews with prayers and other works of penance, Esther asked & obtained the safety of the whole people, more precious to her than half of the Kingdom.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 4,
-          "text": "For we are delivered I and my people, to be destroyed, murdered, and to perish. And would to God we were sold for bondmen & bond-women: it were a tolerable evil, and mourning I would hold my peace: but now it is our enemy, whose cruelty redoundeth upon the king."
+          "text": "For we are delivered I and my people, to be destroyed, murdered, and to perish. And would to God we were sold for bondmen & bondwomen: it were a tolerable evil, and mourning I would hold my peace: but now it is our enemy, whose cruelty redoundeth upon the king."
         },
         {
           "verse": 5,
@@ -685,7 +708,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Horror of a guilty conscience is commonly the first torment of a sinner. S. Chrissocons. 4. de Lagaro."
+              "text": "Horror of a guilty conscience is commonly the first torment of a sinner. S. Chrissocons. 4. de Lazaro.",
+              "kind": "gloss"
             }
           ]
         },
@@ -699,11 +723,12 @@
         },
         {
           "verse": 9,
-          "text": "And Harbona, one of the eunuchs which stood waiting of the king, said: Behold the gibbet, which he had prepared for Mardocheus, that spake for the king, standeth in Aman's house, having in height fifty cubits.",
+          "text": "And Harbona, one of the eunuchs which stood waiting on the king, said: Behold the gibbet, which he had prepared for Mardocheus, that spake for the king, standeth in Aman's house, having in height fifty cubits.",
           "notes": [
             {
               "label": "c",
-              "text": "What little trust in false friendship, when bad men once fall into disgrace."
+              "text": "What little trust in false friendship, when bad men once fall into disgrace.",
+              "kind": "gloss"
             }
           ]
         },
@@ -731,13 +756,14 @@
           "notes": [
             {
               "label": "a",
-              "text": "Such honour is due to Kings, yea though they be Infidels, because they have terrestrial majesty and authority from God. And the contrary opinion and behaviour of heretics, which despise Dominion and blaspheme Majesty, is condemned by S. Jude, in his Epistle. v. 8."
+              "text": "Such honour is due to Kings, yea though they be Infidels, because they have terrestrial majesty and authority from God. And the contrary opinion and behaviour of heretics, which despise Dominion and blaspheme Majesty, is condemned by S. Jude, in his Epistle. v. 8.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 4,
-          "text": "But he after the manner put forth the golden sceptre with his hand, by the which the sign of clemency was shewed: and she rising up stood before him,"
+          "text": "But he after the manner put forth the golden scepter with his hand, by the which the sign of clemency was shewed: and she rising up stood before him,"
         },
         {
           "verse": 5,
@@ -812,11 +838,13 @@
           "notes": [
             {
               "label": "a",
-              "text": "Where no more danger remaineth, remission of injuries is more commendable than revenge, but where malice continueth, & new danger may probably ensue, justice is necessary, and afterwards peace may be made more securely. S. Bern. ser. 2. de verb. Apost."
+              "text": "Where no more danger remaineth, remission of injuries is more commendable than revenge, but where malice continueth, & new danger may probably ensue, justice is necessary, and afterwards peace may be made more securely. S. Bernard. ser. 2. de verb. Apost.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "M"
+              "text": "M",
+              "kind": "gloss"
             }
           ]
         },
@@ -866,13 +894,14 @@
           "notes": [
             {
               "label": "b",
-              "text": "In the first slaughter Aman's ten sons were slain, & afterwards also hanged. v. 14."
+              "text": "In the first slaughter Aman's ten sons were slain, & afterwards also hanged. v. 14.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 13,
-          "text": "To whom she answered: If it please the king, let there authority be given to the Jews, that as they have done today in Susan, so also they may do tomorrow, and that the ten sons of Aman be hanged on gibbets."
+          "text": "To whom she answered: If it please the king, let there authority be given to the Jews, that as they have done to day in Susan, so also they may do tomorrow, and that the ten sons of Aman be hanged on gibbets."
         },
         {
           "verse": 14,
@@ -892,7 +921,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The fourth part. Other things following their delivery from danger."
+              "text": "The fourth part. Other things following their delivery from danger.",
+              "kind": "head"
             }
           ]
         },
@@ -914,7 +944,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "The Jews in Susan kept the fifteenth day holy v. 18. those that dwelt in other places kept the fourteenth day."
+              "text": "The Jews in Susan kept the fifteenth day holy v. 18. those that dwelt in other places kept the fourteenth day.",
+              "kind": "gloss"
             }
           ]
         },
@@ -944,7 +975,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "A feast instituted by Mardocheus was accepted & observed by all the Jews, as a constitution agreeable and not contrary to the law Deut. 4. v. 2. & 12. v. 32."
+              "text": "A feast instituted by Mardocheus was accepted & observed by all the Jews, as a constitution agreeable and not contrary to the law Deut. 4. v. 2. & 12. v. 32.",
+              "kind": "gloss"
             }
           ]
         },
@@ -988,11 +1020,13 @@
           "notes": [
             {
               "label": "a",
-              "text": "S. Ierome here advertiseth the reader that he found all hitherto in the Hebrew. And the parcels which follow only in the Septuaginta Greek Edition, which either they translated out of the Hebrew, or added by inspiration of the Holy Ghost."
+              "text": "S. Ierome here advertiseth the reader that he found all hitherto in the Hebrew. And the parcels which follow only in the Septuaginta Greek Edition, which either they translated out of the Hebrew, or added by inspiration of the Holy Ghost.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "The Greek of the 72. interpreters."
+              "text": "The Greek of the 72. interpreters.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1034,7 +1068,7 @@
         },
         {
           "verse": 13,
-          "text": "And these days shall be observed in the month of Adar the fourteenth, and fifteenth day of the same month, with all diligence, and joy of the people gathered into one assembly, throughout all the generations here-after of the People of Israel."
+          "text": "And these days shall be observed in the month of Adar the fourteenth, and fifteenth day of the same month, with all diligence, and joy of the people gathered into one assembly, throughout all the generations hereafter of the People of Israel."
         }
       ],
       "summary": "Assuerus subdueth many countries. 4. Mardocheus understandeth, and declareth his dream. 9. God separateth his people from other nations by a better lot."
@@ -1048,7 +1082,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The first part. The presage, & occasion of Esther's advancement and Aman's persecuting the Jews. This beginning was in the common edition, which is neither extant in Hebrew, nor with any of"
+              "text": "The first part. The presage, & occasion of Esther's advancement and Aman's persecuting the Jews. This beginning was in the common edition, which is neither extant in Hebrew, nor with any of",
+              "kind": "head"
             }
           ]
         },
@@ -1058,7 +1093,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "A"
+              "text": "A",
+              "kind": "gloss"
             }
           ]
         },
@@ -1068,13 +1104,14 @@
           "notes": [
             {
               "label": "a",
-              "text": "Mardocheus had this dream before Aman's advancement, of his own and the people's danger."
+              "text": "Mardocheus had this dream before Aman's advancement, of his own and the people's danger.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 4,
-          "text": "And he was of that number of captives, whom Nabuchodonosor the king of Babylon had transported from Jerusalem with Jechonias the king of Juda:",
+          "text": "And he was of that number of captives, whom Nabuchodonosor the king of Babylon had transported from Jerusalem with Jeconias the king of Juda:",
           "cross_refs": [
             {
               "text": "4. Reg. 24."
@@ -1091,7 +1128,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Mardocheus was a good dragon, and Aman a bad one."
+              "text": "Mardocheus was a good dragon, and Aman a bad one.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1113,7 +1151,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Esther by her fountain of tears and humble supplication, quenched a great flame of Gentiles against the Jews. ch. 10."
+              "text": "Esther by her fountain of tears and humble supplication, quenched a great flame of Gentiles against the Jews. ch. 10.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1142,7 +1181,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "C"
+              "text": "C",
+              "kind": "gloss"
             }
           ]
         },
@@ -1168,11 +1208,19 @@
           "notes": [
             {
               "label": "a",
-              "text": "Here it appeareth that Aman was a favourer of traitors or perhaps of the same conspiracy."
+              "text": "Here it appeareth that Aman was a favourer of traitors or perhaps of the same conspiracy.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "ch. 3. v. 1."
+              "text": "ch. 3. v. 1.",
+              "kind": "gloss"
+            }
+          ],
+          "cross_refs": [
+            {
+              "text": "ch. 3. v. 3",
+              "source": "sancta"
             }
           ]
         }
@@ -1187,7 +1235,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "E"
+              "text": "E",
+              "kind": "gloss"
             }
           ]
         },
@@ -1201,7 +1250,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Great hurt to a King, that is ruled much by one counseller. Salomon teacheth, that Where are many counsellers, cogitations are confirmed. Prov. 15. v. 22."
+              "text": "Great hurt to a King, that is ruled much by one counseller. Salomon teacheth, that Where are many counsellers, cogitations are confirmed. Prov. 15. v. 22.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1232,7 +1282,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "G"
+              "text": "G",
+              "kind": "gloss"
             }
           ]
         },
@@ -1242,7 +1293,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle on Wednesday in the 2. week of Lent. And in a votive Mass against Pagans."
+              "text": "The Epistle on Wednesday in the 2. week of Lent. And in a votive Mass against Pagans.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -1294,7 +1346,7 @@
         },
         {
           "verse": 2,
-          "text": "And when she had laid off her royal garments, she took cloths meet for weeping and mourning, & for diverse ointments, filled her head with ashes & dung, & her body she humbled with fasts: and all the places, in which before she was accustomed to rejoice, she filled with tearing of her hairs."
+          "text": "And when she had laid off her royal garments, she took clothes meet for weeping and mourning, & for divers ointments, filled her head with ashes & dung, & her body she humbled with fasts: and all the places, in which before she was accustomed to rejoice, she filled with tearing of her hairs."
         },
         {
           "verse": 3,
@@ -1306,7 +1358,7 @@
         },
         {
           "verse": 5,
-          "text": "I have heard of my father that thou Lord didst take Israel out from all Gentiles, and our fathers out of all their predecessors before, that thou mightest possess an everlasting inheritance, and thou hast done to them as thou hast spoken."
+          "text": "I have heard of my father that thou Lord didst take Israel out from all Gentiles, and our fathers out of all their predecessors before, that thou mightst possess an everlasting inheritance, and thou hast done to them as thou hast spoken."
         },
         {
           "verse": 6,
@@ -1334,11 +1386,13 @@
           "notes": [
             {
               "label": "a",
-              "text": "Idols are nothing in the world. 1. Cor. 8. but bare imaginations of men."
+              "text": "Idols are nothing in the world. 1. Cor. 8. but bare imaginations of men.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "The Church useth this prayer in the offertory the 22. Sunday after Pentecost: as a parcel of holy Scripture."
+              "text": "The Church useth this prayer in the offertory the 22. Sunday after Pentecost: as a parcel of holy Scripture.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1360,7 +1414,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Of herself, nor for worldly glory she desired not to marry a heathen king but for the common good she married him, God dispensing with the law in this behalf. See ch. 2."
+              "text": "Of herself, nor for worldly glory she desired not to marry a heathen king but for the common good she married him, God dispensing with the law in this behalf. See ch. 2.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1392,7 +1447,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "G"
+              "text": "G",
+              "kind": "gloss"
             }
           ]
         },
@@ -1406,21 +1462,24 @@
           "notes": [
             {
               "label": "1",
-              "text": "* H ch. 13. v. 8. Moreover this also which followeth I found in the common Greek."
+              "text": "* H ch. 13. v. 8. Moreover this also which followeth I found in the common Greek.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 4,
-          "text": "And in the third day she laid away the garments which she wore, and was clothed in her glory.",
+          "text": "And in the third day she laid away the garments which she ware, and was clothed in her glory.",
           "notes": [
             {
               "label": "a",
-              "text": "Vestimenta oratus, not ornatus, her praying weed."
+              "text": "Vestimenta oratus, not ornatus, her playing weed.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "I"
+              "text": "I",
+              "kind": "gloss"
             }
           ]
         },
@@ -1442,7 +1501,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "A notable example for Noble women; how to keep their state, and remain nevertheless humble in heart."
+              "text": "A notable example for Noble women; how to keep their state, and remain nevertheless humble in heart.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1480,7 +1540,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "By this comparison of Angels she meant that the King excelled all or most part of men."
+              "text": "By this comparison of Angels she meant that the King exceeded all or most part of men.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1498,7 +1559,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "* K ch. 5. v. 2."
+              "text": "* K ch. 5. v. 2.",
+              "kind": "gloss"
             }
           ]
         }
@@ -1513,7 +1575,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "L"
+              "text": "L",
+              "kind": "gloss"
             }
           ]
         },
@@ -1535,7 +1598,7 @@
         },
         {
           "verse": 6,
-          "text": "whilst with crafty fraud they deceive the simple ears of Princes, and esteeming others by their own nature."
+          "text": "whiles with crafty fraud they deceive the simple ears of Princes, and esteeming others by their own nature."
         },
         {
           "verse": 7,
@@ -1543,7 +1606,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "At last this king saw his own error in believing one false counseller overmuch. ch. 13. v. 3."
+              "text": "At last this king saw his own error in believing one false counseller overmuch. ch. 13. v. 3.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1553,7 +1617,7 @@
         },
         {
           "verse": 9,
-          "text": "Neither must you think, if we command diverse things, that it cometh of the lightness of our mind, but that we give sentence according to the quality and necessity of times, as the profit of the common wealth requireth."
+          "text": "Neither must you think, if we command divers things, that it cometh of the lightness of our mind, but that we give sentence according to the quality and necessity of times, as the profit of the common wealth requireth."
         },
         {
           "verse": 10,
@@ -1565,7 +1629,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "ch. 13. v. 6."
+              "text": "ch. 13. v. 6.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1615,7 +1680,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "As Mardocheus suggested, the King confirmed the observation of a feast in memory of God's benefit, and so both Jews & Gentiles kept it."
+              "text": "As Mardocheus suggested, the King confirmed the observation of a feast in memory of God's benefit, and so both Jews & Gentiles kept it.",
+              "kind": "gloss"
             }
           ]
         },

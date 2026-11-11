@@ -45,7 +45,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "New Gospellers that pervert, corrupt, or alter the one only true and first delivered Gospel, are to be avoided. See S. Augustin. <i>Cont. Faustum. li. 32. c. 27.</i>"
+              "text": "New Gospellers that pervert, corrupt, or alter the one only true and first delivered Gospel, are to be avoided. See S. Augustin. <i>Cont. Faustum. li. 32. c. 27.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -68,7 +69,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c The Epistle upon the Commemoration of S. Paul, <i>Iun. 30.</i>"
+              "text": "c The Epistle upon the Commemoration of S. Paul, <i>Iun. 30.</i>",
+              "kind": "lectionary"
             }
           ]
         },
@@ -112,7 +114,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "S. James was called our Lord's brother after the Hebrew phrase of the Jews, by which near kinsmen are called brethren: for they were not brethren indeed, but rather sister's children."
+              "text": "S. James was called our Lord's brother after the Hebrew phrase of the Jews, by which near kinsmen are called brethren: for they were not brethren indeed, but rather sister's children.",
+              "kind": "gloss"
             }
           ]
         },
@@ -165,7 +168,7 @@
         },
         {
           "verse": 6,
-          "text": "But of them that seemed to be something, (what they were some-time, it is nothing to me. <cr>[1]</cr> God accepteth not the person of man) for to me, they that seemed to be something, added nothing.",
+          "text": "But of them that seemed to be something, (what they were sometime, it is nothing to me. <cr>[1]</cr> God accepteth not the person of man) for to me, they that seemed to be something, added nothing.",
           "has_annotation": true,
           "cross_refs": [
             {
@@ -175,12 +178,13 @@
         },
         {
           "verse": 7,
-          "text": "But contrarywise when they had seen, that to me was committed the Gospel of the <na>[1]</na> prepuce, as to Peter of the circumcision",
+          "text": "But contrariwise when they had seen, that to me was committed the Gospel of the <na>[1]</na> prepuce, as to Peter of the circumcision",
           "has_annotation": true,
           "notes": [
             {
               "label": "1",
-              "text": "c See the marginal Annotation <i>Rom. 2. v. 25.</i>"
+              "text": "c See the marginal Annotation <i>Rom. 2. v. 25.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -204,11 +208,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "c That is, <i>in presence, before them all,</i> as Beza himself expoundeth it. Yet the English Bezites to the more disgracing of S. Peter, translate, <i>to his face,</i> No. Test. an. 1580."
+              "text": "c That is, <i>in presence, before them all,</i> as Beza himself expoundeth it. Yet the English Bezites to the more disgracing of S. Peter, translate, <i>to his face,</i> No. Test. an. 1580.",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "<i>c κατὰ πρόσωπον.</i>"
+              "text": "<i>c κατὰ πρόσωπον.</i>",
+              "kind": "word"
             }
           ]
         },
@@ -239,7 +245,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "By this and by the discourse of this whole epistle, you may perceive, that when justification is attributed to faith, the works of Charity be not excluded, but the works of Moyses' law: that is, the ceremonies, sacrifices and sacraments thereof principally, and consequently all works done merely by nature and free-will, without the faith, grace, spirit, & aid of Christ."
+              "text": "By this and by the discourse of this whole epistle, you may perceive, that when justification is attributed to faith, the works of Charity be not excluded, but the works of Moyses' law: that is, the ceremonies, sacrifices and sacraments thereof principally, and consequently all works done merely by nature and free-will, without the faith, grace, spirit, & aid of Christ.",
+              "kind": "gloss"
             }
           ]
         },
@@ -275,7 +282,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "For any people or person to forsake the faith of their first Apostles & Conversion, at the voice of a few novellaries, seemeth to wise men a very bewitching & senseless brutishness. Such is the case of our poor country, Germany, and others."
+              "text": "For any people or person to forsake the faith of their first Apostles & Conversion, at the voice of a few novellaries, seemeth to wise men a very bewitching & senseless brutishness. Such is the case of our poor country, Germany, and others.",
+              "kind": "gloss"
             }
           ]
         },
@@ -310,7 +318,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "This faith whereby Abraham was justified, and his children the Gentiles believing in Christ, implieth all Christian virtues; of which the first is faith, the ground & foundation of all the rest, and therefore here and elsewhere often named of the Apostle."
+              "text": "This faith whereby Abraham was justified, and his children the Gentiles believing in Christ, implieth all Christian virtues; of which the first is faith, the ground & foundation of all the rest, and therefore here and elsewhere often named of the Apostle.",
+              "kind": "gloss"
             }
           ]
         },
@@ -330,7 +339,13 @@
         {
           "verse": 10,
           "text": "For whosoever are of the works of the Law, are under curse. For it is written: Cursed be every one that abideth not in all things that be written in the book of the Law, to do them.",
-          "has_annotation": true
+          "has_annotation": true,
+          "cross_refs": [
+            {
+              "text": "Deut. 27, 26",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 11,
@@ -340,6 +355,9 @@
             {
               "text": "Abac. 2. Ro. 1."
             }
+          ],
+          "xrefs": [
+            "Abac. 2."
           ]
         },
         {
@@ -370,7 +388,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle upon the 13. Sunday after Pentecost."
+              "text": "The Epistle upon the 13. Sunday after Pentecost.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -453,7 +472,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle upon Twelfth eve."
+              "text": "The Epistle upon Twelfth eve.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -468,7 +488,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "That is, the rudiments of religion, wherein the carnal Jews were trained up: or the corporal creatures, wherein their manifold sacrifices, sacraments, and rites did consist."
+              "text": "That is, the rudiments of religion, wherein the carnal Jews were trained up: or the corporal creatures, wherein their manifold sacrifices, sacraments, and rites did consist.",
+              "kind": "gloss"
             }
           ]
         },
@@ -521,11 +542,12 @@
         },
         {
           "verse": 14,
-          "text": "and your tentation in my flesh you despised not, neither rejected, but <na>[1]</na> as and Angel of God you received me, as Christ <sc>Jesus</sc>.",
+          "text": "and your tentation in my flesh you despised not, neither rejected, but <na>[1]</na> as an Angel of God you received me, as Christ <sc>Jesus</sc>.",
           "notes": [
             {
               "label": "1",
-              "text": "So ought all Catholic people receive their teachers in religion, with all duty, love, & reverence."
+              "text": "So ought all Catholic people receive their teachers in religion, with all duty, love, & reverence.",
+              "kind": "gloss"
             }
           ]
         },
@@ -568,7 +590,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "The Epistle upon the 4. Sunday in Lent."
+              "text": "The Epistle upon the 4. Sunday in Lent.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -587,7 +610,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>c συστοιχεῖ</i>"
+              "text": "<i>c συστοιχεῖ</i>",
+              "kind": "word"
             }
           ]
         },
@@ -602,6 +626,9 @@
             {
               "text": "Esa. 54, 1."
             }
+          ],
+          "xrefs": [
+            "Es. 54, 1."
           ]
         },
         {
@@ -619,7 +646,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "This mutual persecution, is a figure also of the Church justly persecuting Heretics, & contrarywise of Heretics (which be the children of the bond woman) unjustly persecuting the Catholic Church. <i>Aug. ep. 48.</i>"
+              "text": "This mutual persecution, is a figure also of the Church justly persecuting Heretics, & contrariwise of Heretics (which be the children of the bond woman) unjustly persecuting the Catholic Church. <i>Aug. ep. 48.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -688,7 +716,16 @@
         },
         {
           "verse": 9,
-          "text": "A little leaven corrupted the whole paste."
+          "text": "A little leaven corrupteth the whole paste.",
+          "xrefs": [
+            "1 Cor. 5, 6."
+          ],
+          "cross_refs": [
+            {
+              "text": "1 Cor. 6",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 10,
@@ -709,7 +746,7 @@
         },
         {
           "verse": 14,
-          "text": "<cr>[1]</cr> For all the Law is fulfilled in one word: <na>[2]</na> <i>Thou shalt love thy neighbour as thyself.</i>",
+          "text": "<cr>[1]</cr> For all the Law is fulfilled in one word: <na>[2]</na> <i>Thou shalt love thy neighbour as thy self.</i>",
           "cross_refs": [
             {
               "text": "Lev. 19, 18."
@@ -718,7 +755,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "The Epistle upon the 14. Sunday after Pentecost."
+              "text": "The Epistle upon the 14. Sunday after Pentecost.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -736,7 +774,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Here men think <i>(saith S. Augustine)</i> the Apostle denieth that we have free liberty of will: not understanding that this is said to them, if they will not hold fast the grace of faith conceived, by which only they can walk in the spirit, & not accomplish the concupiscences of the flesh. <i>in c. 5. Gal.</i>"
+              "text": "Here men think <i>(saith S. Augustine)</i> the Apostle denieth that we have free liberty of will: not understanding that this is said to them, if they will not hold fast the grace of faith conceived, by which only they can walk in the spirit, & not accomplish the concupiscences of the flesh. <i>in c. 5. Gal.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -758,7 +797,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c S. Augustine sheweth hereby that not only infidelity is a damnable sin."
+              "text": "c S. Augustine sheweth hereby that not only infidelity is a damnable sin.",
+              "kind": "gloss"
             }
           ]
         },
@@ -780,7 +820,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "b The Epistle upon the 15. Sunday after Pentecost."
+              "text": "b The Epistle upon the 15. Sunday after Pentecost.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -800,7 +841,7 @@
         },
         {
           "verse": 2,
-          "text": "Bear ye one another's burdens: and so you shall fulfill the law of Christ."
+          "text": "Bear ye one another's burdens: and so you shall fulfil the law of Christ."
         },
         {
           "verse": 3,
@@ -843,7 +884,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "The works of mercy be the seed of life everlasting, and the proper cause thereof, and not faith only."
+              "text": "The works of mercy be the seed of life everlasting, and the proper cause thereof, and not faith only.",
+              "kind": "gloss"
             }
           ]
         },
@@ -870,11 +912,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "b The Epistle for S. Francis, Octob. 4."
+              "text": "b The Epistle for S. Francis, Octob. 4.",
+              "kind": "lectionary"
             },
             {
               "label": "2",
-              "text": "Christ <i>(saith S. Augustine)</i> chose a kind of death, to hang on the Cross and to fix or fasten the same cross in the foreheads of the faithful, that the Christian may say, God forbid that I should glory saving in the cross of our Lord JESUS CHRIST. Expos. in Evang. Io. tract. 43."
+              "text": "Christ <i>(saith S. Augustine)</i> chose a kind of death, to hang on the Cross and to fix or fasten the same cross in the foreheads of the faithful, that the Christian may say, God forbid that I should glory saving in the cross of our Lord JESUS CHRIST. Expos. in Evang. Io. tract. 43.",
+              "kind": "gloss"
             }
           ]
         },

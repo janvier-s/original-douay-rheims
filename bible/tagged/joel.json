@@ -50,7 +50,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Prophecies pertain not only to those that then live, when they are uttered, but also to all posterity, even to the end of the world, that it may appear what is fulfilled, and what yet resteth to come in due time."
+              "text": "Prophecies pertain not only to those that then live, when they are uttered, but also to all posterity, even to the end of the world, that it may appear what is fulfilled, and what yet resteth to come in due time.",
+              "kind": "gloss"
             }
           ]
         },
@@ -65,15 +66,15 @@
         },
         {
           "verse": 6,
-          "text": "For a nation is ascended upon my land, strong & innumerable: his teeth as the teeth of a lion: & his cheek-teeth as of a lion's whelp."
+          "text": "For a nation is ascended upon my land, strong & innumerable: his teeth as the teeth of a lion: & his cheekteeth as of a lion's whelp."
         },
         {
           "verse": 7,
-          "text": "He hath laid my vineyard into a desert, and hath pilled off the bark of my fig-tree: stripping he hath spoiled it, and cast it forth: the boughs thereof are made white."
+          "text": "He hath laid my vineyard into a desert, and hath pilled of the bark of my fig-tree: stripping he hath spoiled it, and cast it forth: the boughs thereof are made white."
         },
         {
           "verse": 8,
-          "text": "Mourn as a virgin girded with sack-cloth upon the husband of her youth."
+          "text": "Mourn as a virgin girded with sackcloth upon the husband of her youth."
         },
         {
           "verse": 9,
@@ -81,7 +82,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "When Jerusalem was taken, and the Temple destroyed by the Babylonians, the sacrifice necessarily ceased according to this & other Prophecies."
+              "text": "When Jerusalem was taken, and the Temple destroyed by the Babylonians, the sacrifice necessarily ceased according to this & other Prophecies.",
+              "kind": "gloss"
             }
           ]
         },
@@ -99,21 +101,22 @@
         },
         {
           "verse": 13,
-          "text": "Gird yourselves, & mourn ye priests, howl ye ministers of the altar: go in, lie in sack-cloth ye ministers of my God: because sacrifice and libation is perished out of the house of your God."
+          "text": "Gird yourselves, & mourn ye priests, howl ye ministers of the altar: go in, lie in sackcloth ye ministers of my God: because sacrifice and libation is perished out of the house of your God."
         },
         {
           "verse": 14,
-          "text": "<na>(c)</na> Sacrifice ye a fast, call an assembly, gather together the ancients, all the inhabitants of the land into the house of your God: and cry ye to our Lord:",
+          "text": "<na>(c)</na> Sanctify ye a fast, call an assembly, gather together the ancients, all the inhabitants of the land into the house of your God: and cry ye to our Lord:",
           "notes": [
             {
               "label": "c",
-              "text": "Fasting, praying and other good works of many assembling together, are an especial means to appease God's wrath, provoked by former sins."
+              "text": "Fasting, praying and other good works of many assembling together, are an especial means to appease God's wrath, provoked by former sins.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 15,
-          "text": "Aa a, for the day: because the day of our Lord is at hand, and as destruction from the mighty it shall come."
+          "text": "A a a, for the day: because the day of our Lord is at hand, and as destruction from the mighty it shall come."
         },
         {
           "verse": 16,
@@ -121,11 +124,11 @@
         },
         {
           "verse": 17,
-          "text": "The beasts are rotted in their dung, the barns are destroyed, the store-houses are dissipated: because the wheat is confounded."
+          "text": "The beasts are rotted in their dung, the barns are destroyed, the storehouses are dissipated: because the wheat is confounded."
         },
         {
           "verse": 18,
-          "text": "Why groan the beast, why lowed the flocks of the herd? Because there is no pasture for them: yea & the flocks of the cattle are perished."
+          "text": "Why groaned the beast, why lowed the flocks of the herd? Because there is no pasture for them: yea & the flocks of the cattle are perished."
         },
         {
           "verse": 19,
@@ -147,11 +150,13 @@
           "notes": [
             {
               "label": "a",
-              "text": "Prophets do often speak in such phrase as if they admonished the people what to do, when indeed they foreshew what they will do in their distress."
+              "text": "Prophets do often speak in such phrase as if they admonished the people what to do, when indeed they foreshew what they will do in their distresses.",
+              "kind": "gloss"
             },
             {
               "label": "b",
-              "text": "In the time when God will suffer affliction to fall upon them for their sins."
+              "text": "In the time when God will suffer affliction to fall upon them for their sins.",
+              "kind": "gloss"
             }
           ]
         },
@@ -181,11 +186,12 @@
         },
         {
           "verse": 8,
-          "text": "None shall press his brother: they shall walk every one in their own path: yea & through the windows they shall fall, & shall <na>[1]</na> not demolish.",
+          "text": "None shall press his brother: they shall walk every one in his own path: yea & through the windows they shall fall, & shall <na>[1]</na> not demolish.",
           "notes": [
             {
               "label": "1",
-              "text": "<i>* take no harm.</i>"
+              "text": "<i>* take no harm.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -200,6 +206,9 @@
             {
               "text": "Isa. 13. Ezec. 32. Mat. 24. Iere. 30. Amos. 5. Sopho. 1."
             }
+          ],
+          "xrefs": [
+            "Isa. 13. Ezec. 32. Mat. 24. Iere. 30. Amos. 5. Sopho. 1."
           ]
         },
         {
@@ -212,11 +221,13 @@
           "notes": [
             {
               "label": "c",
-              "text": "For better moving the heart to true repentance,"
+              "text": "For better moving the heart to true repentance,",
+              "kind": "gloss"
             },
             {
               "label": "d",
-              "text": "God requireth these external works of penance. And where the same are wanting, at least in will, it is a manifest sign that the heart is not truly penitent. <i>S. Ierom.</i>"
+              "text": "God requireth these external works of penance. And where the same are wanting, at least in will, it is a manifest sign that the heart is not truly penitent. <i>S. Ierom.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -239,7 +250,7 @@
         },
         {
           "verse": 16,
-          "text": "gather together the people, sanctify the Church, assemble the ancients, gather together the little ones, & them that suck the breasts: let the bridegroom go forth to his chamber, & the bride out of her bride-chamber."
+          "text": "gather together the people, sanctify the Church, assemble the ancients, gather together the little ones, & them that suck the breasts: let the bridegroom go forth of his chamber, & the bride out of her bride chamber."
         },
         {
           "verse": 17,
@@ -251,7 +262,8 @@
           "notes": [
             {
               "label": "e",
-              "text": "Zeal is an indignation rising of love: when one seeth any person or thing which he loveth contemned or wronged. So God hath zeal for his people, when they are unjustly afflicted, more of the malice of their afflicters than for justice. Yet God suffereth oftentimes his people to be punished for their full correction and for their more merit."
+              "text": "Zeal is an indignation rising of love: when one seeth any person or thing which he loveth contemned or wronged. So God hath zeal for his people, when they are unjustly afflicted, more of the malice of their afflicters than for justice. Yet God suffereth oftentimes his people to be punished for their full correction and for their more merit.",
+              "kind": "gloss"
             }
           ]
         },
@@ -261,7 +273,8 @@
           "notes": [
             {
               "label": "f",
-              "text": "So that which God here promiseth by his Prophet, touching his protection and delivery of his people, was not fulfilled till after the seventy years of their captivity, nor then fully, but is verified in those that believe in Christ. And especially after this life, when his glorious Saints shall live in eternal joy."
+              "text": "So that which God here promiseth by his Prophet, touching his protection and delivery of his people, was not fulfilled till after the seventy years of their captivity, nor then fully, but is verified in those that believe in Christ. And especially after this life, when his glorious Saints shall live in eternal joy.",
+              "kind": "gloss"
             }
           ]
         },
@@ -308,7 +321,8 @@
           "notes": [
             {
               "label": "g",
-              "text": "That this is a plain prophecy of the mission of the Holy Ghost performed on Whitsunday, the fiftieth day after Christ's Resurrection, and the tenth after his Ascension, S. Peter teacheth. <i>Act. 2.</i>"
+              "text": "That this is a plain prophecy of the mission of the Holy Ghost performed on Whitsunday, the fiftieth day after Christ's Resurrection, and the tenth after his Ascension, S. Peter teacheth. <i>Act. 2.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -345,7 +359,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "S. Ierom & most other expositers understand this chapter of the general Judgement, though some expound it of the relaxation of the Jews from captivity, and of the punishment of their enemies."
+              "text": "S. Ierom & most other expositers understand this chapter of the general Judgement, though some expound it of the relaxation of the Jews from captivity, and of the punishment of their enemies.",
+              "kind": "gloss"
             }
           ]
         },
@@ -355,7 +370,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "And so <i>Iosaphat</i> is literally understood the place of the east side of Jerusalem between the Temple and mount Olivet whence our Saviour ascended into heaven. Neither is there any reason why the Judgement should rather be in another place, seeing this is expressed by name, signifying, The judgement of our Lord."
+              "text": "And so <i>Iosaphat</i> is literally understood the place of the east side of Jerusalem between the Temple and mount Olivet whence our Saviour ascended into heaven. Neither is there any reason why the Judgement should rather be in another place, seeing this is expressed by name, signifying, The judgement of our Lord.",
+              "kind": "gloss"
             }
           ]
         },
@@ -369,7 +385,7 @@
         },
         {
           "verse": 5,
-          "text": "For my silver, and my gold you have taken: and my desirable things, and most beautiful you have carried into your temples."
+          "text": "For my silver, and my gold you have taken: and my desiderable things, and most beautiful you have carried into your temples."
         },
         {
           "verse": 6,
@@ -419,7 +435,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "This duplication of the word <i>peoples</i> importeth an innumerable multitude in that valley of <i>concision</i> (also repeated) to signify, that there all God's enemies shall be utterly damned to eternal destruction, as it were cut in pieces, as fuel to the fire of hell. <i>Psal. 128. v. 4. Our just Lord will cut the necks of sinners.</i>"
+              "text": "This duplication of the word <i>peoples</i> importeth an innumerable multitude in that valley of <i>concision</i> (also repeated) to signify, that there all God's enemies shall be utterly damned to eternal destruction, as it were cut in pieces, as fuel to the fire of hell. <i>Psal. 128. v. 4. Our just Lord will cut the necks of sinners.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -437,7 +454,7 @@
         },
         {
           "verse": 18,
-          "text": "<cr>[1]</cr> And it shall be in that day: the mountains shall distill sweetness, and the hills shall flow with milk: and through all the rivers of Juda shall run waters: and a fountain shall issue out of the house of the Lord, and shall water the torrent of thorns.",
+          "text": "<cr>[1]</cr> And it shall be in that day: the mountains shall distil sweetness, and the hills shall flow with milk: and through all the rivers of Juda shall run waters: and a fountain shall issue out of the house of the Lord, and shall water the torrent of thorns.",
           "cross_refs": [
             {
               "text": "Amos. 9."

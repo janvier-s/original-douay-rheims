@@ -156,7 +156,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Not Amos the third of the less prophets, for this name is written in other letters in Hebrew: but one of the royal blood as <i>S. Ierom.</i> testifieth."
+              "text": "Not Amos the third of the lesser prophets, for this name is written in other letters in Hebrew: but one of the royal blood as <i>S. Ierom.</i> testifieth.",
+              "kind": "gloss"
             }
           ]
         },
@@ -178,13 +179,14 @@
           "notes": [
             {
               "label": "b",
-              "text": "Prince, Priest, and people are all sick of ingratitude against God, & other iniquities."
+              "text": "Prince, Priest, and people are all sick of ingratitude against God, & other iniquities.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 6,
-          "text": "From the sole of the foot unto the top of the head, there is no health therein: wound, and wail, and swelling stroke: it is not bound up, nor cured with medicine, nor mollified with oil."
+          "text": "From the sole of the foot unto the top of the head, there is no health therein: wound, and wale, and swelling stroke: it is not bound up, nor cured with medicine, nor mollified with oil."
         },
         {
           "verse": 7,
@@ -196,7 +198,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Jerusalem defaced and destroyed."
+              "text": "Jerusalem defaced and destroyed.",
+              "kind": "gloss"
             }
           ]
         },
@@ -211,8 +214,12 @@
           "notes": [
             {
               "label": "d",
-              "text": "God continually preserveth some holy seed, that his Church never faileth."
+              "text": "God continually preserveth some holy seed, that his Church never faileth.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Rom. 9."
           ]
         },
         {
@@ -265,7 +272,8 @@
           "notes": [
             {
               "label": "e",
-              "text": "Much wickedness reigned in Jerusalem before their captivity in Babylon; but much more at Christ's passion, when they persecuted him even to the Cross: and his disciples, and all Christians, till their city was taken by the Romans, and the whole nation dispersed."
+              "text": "Much wickedness reigned in Jerusalem before their captivity in Babylon; but much more at Christ's passion, when they persecuted him even to the Cross: and his disciples, and all Christians, till their city was taken by the Romans, and the whole nation dispersed.",
+              "kind": "gloss"
             }
           ]
         },
@@ -291,7 +299,8 @@
           "notes": [
             {
               "label": "f",
-              "text": "The Rabbins understand those Judges and Priests that"
+              "text": "The Rabbins understand those Judges and Priests that",
+              "kind": "gloss"
             }
           ]
         },
@@ -337,7 +346,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "It is not only certain, but also evident that the prophet speaketh here, and in innumerable other places, of the Church of Christ, which is the city set upon a mountain, <i>Mat. 5.</i> unto which all nations are gathered, and all the time of the new Testament is called the last hour, <i>1. Ioan. 2.</i> because no time shall follow after this, but all eternity."
+              "text": "It is not only certain, but also evident that the prophet speaketh here, and in innumerable other places, of the Church of Christ, which is the city set upon a mountain, <i>Mat. 5.</i> unto which all nations are gathered, and all the time of the new Testament is called the last hour, <i>1. Ioan. 2.</i> because no time shall follow after this, but all eternity.",
+              "kind": "gloss"
             }
           ]
         },
@@ -355,17 +365,18 @@
         },
         {
           "verse": 6,
-          "text": "For thou hast <na>(b)</na> rejected thy people, the house of Jacob: because they are filled as in times past, and have had soothsayers as the Philisthiims, and have struck fast to strange children.",
+          "text": "For thou hast <na>(b)</na> rejected thy people, the house of Jacob: because they are filled as in times past, and have had soothsayers as the Philisthiims, and have stuck fast to strange children.",
           "notes": [
             {
               "label": "b",
-              "text": "The Jews were rejected after Christ's death: before which they were still conserved: though often severely punished. And so now the Church of Christ shall never be rejected."
+              "text": "The Jews were rejected after Christ's death: before which they were still conserved: though often severely punished. And so now the Church of Christ shall never be rejected.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 7,
-          "text": "The land is replenished with silver and gold: and there is no end to their treasures."
+          "text": "The land is replenished with silver and gold: and there is no end of their treasures."
         },
         {
           "verse": 8,
@@ -413,7 +424,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "It is most absurd, and contrary to this and other Scriptures, that Protestants feign of great idolatry in the Christian world, for a thousand or more years together, professing Christ's name & Religion, and yet continually committing (as these new masters imagine) gross idolatry."
+              "text": "It is most absurd, and contrary to this and other Scriptures, that Protestants feign of great idolatry in the Christian world, for a thousand or more years together, professing Christ's name & Religion, and yet continually committing (as these new masters imagine) gross idolatry.",
+              "kind": "gloss"
             }
           ]
         },
@@ -445,7 +457,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "This was fulfilled first in the captivity of Babylon, and more notoriously after Christ's passion, in the destruction of Ierusalem, and dispersion of the Jews, even to this day: and yet forward, till near the end of this world."
+              "text": "This was fulfilled first in the captivity of Babylon, and more notoriously after Christ's passion, in the destruction of Ierusalem, and dispersion of the Jews, even to this day: and yet forward, till near the end of this world.",
+              "kind": "gloss"
             }
           ]
         },
@@ -455,7 +468,7 @@
         },
         {
           "verse": 3,
-          "text": "The prince over fifty, and the honourable of countenance, and the counseller, and the wise of workmasters, and the skillful of mystical speech."
+          "text": "The prince over fifty, and the honourable of countenance, and the counseller, and the wise of workmasters, and the skilful of mystical speech."
         },
         {
           "verse": 4,
@@ -495,7 +508,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "An Ecclesiastical preacher must not flatter the people. He must move tears (saith S. Ierom) not laughter."
+              "text": "An Ecclesiastical preacher must not flatter the people. He must move tears (saith S. Ierom) not laughter.",
+              "kind": "gloss"
             }
           ]
         },
@@ -522,7 +536,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "By the metaphor of women, S. Ierom. understandeth the cities of Jury, of which Jerusalem was the head, and Sion the chief place thereof, all which were defaced by the Babylonians, but more fully destroyed by Titus and Vespasian, forty years after Christ's passion."
+              "text": "By the metaphor of women, S. Ierom. understandeth the cities of Jury, of which Jerusalem was the head, and Sion the chief place thereof, all which were defaced by the Babylonians, but more fully destroyed by Titus and Vespasian, forty years after Christ's passion.",
+              "kind": "gloss"
             }
           ]
         },
@@ -578,7 +593,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "After the reduction of heathenish or heretical people to Catholic religion, there will be great want of spiritual pastors."
+              "text": "After the reduction of heathnish or heretical people to Catholic religion, there will be great want of spiritual pastors.",
+              "kind": "gloss"
             }
           ]
         },
@@ -592,7 +608,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Not all the Jews that escaped temporal death in the destruction of Jerusalem, but those only shall be eternally saved, that believing shall be baptized and live well."
+              "text": "Not all the Jews that escaped temporal death in the destruction of Jerusalem, but those only shall be eternally saved, that believing shall be baptized and live well.",
+              "kind": "gloss"
             }
           ]
         },
@@ -625,7 +642,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Isaie of the tribe of Juda here prophesieth the doleful song which Christ uttered over Jerusalem, foreseeing & foretelling their destruction. <i>Luc. 19. v. 41.</i>"
+              "text": "Isaie of the tribe of Juda here prophesieth the doleful song which Christ uttered over Jerusalem, foreseeing & foretelling their destruction. <i>Luc. 19. v. 41.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -647,7 +665,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "All this sheweth that God only subtracting his protection, no man nor people is able to stand; of whose ruin God is not the author, but only permitteth that they fall into sins, and so into other miseries."
+              "text": "All this sheweth that God only subtracting his protection, no man nor people is able to stand; of whose ruin God is not the author, but only permitteth that they fall into sins, and so into other miseries.",
+              "kind": "gloss"
             }
           ]
         },
@@ -681,7 +700,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "An admonition to celebrate festival days with holy religious exercises, and not to follow drunkenness nor other wicked or vain things."
+              "text": "An admonition to celebrate festival days with holy religious exercises, and not to follow drunkenness nor other wicked or vain things.",
+              "kind": "gloss"
             }
           ]
         },
@@ -736,15 +756,16 @@
         },
         {
           "verse": 24,
-          "text": "For this, even as the tongue of fire devoureth stubble, and the heat of the flame burneth it up: so shall their root be as ashes, and their bud shall rise up as dust, for they have cast away the law of the Lord of hosts, and have blasphemed the word of the holy one of Israel."
+          "text": "For this, even as the tongue of fire devoureth stubble, and the heat of the flame burneth it up: so shall their root be as isles, and their bud shall rise up as dust, for they have cast away the law of the Lord of hosts, and have blasphemed the word of the holy one of Israel."
         },
         {
           "verse": 25,
-          "text": "Therefore is the fury of our Lord wrath against his people, and he hath stretched out his hand upon them, & strucken them: and the mountains were troubled, and their carcasses were made as dung in the midst of the streets. In all these things his fury is not turned away, <na>(d)</na> but yet is his hand stretched forth.",
+          "text": "Therefore is the fury of our Lord wrath against his people, and he hath stretched out his hand upon them, & stricken them: and the mountains were troubled, and their carcasses were made as dung in the midst of the streets. In all these things his fury is not turned away, <na>(d)</na> but yet is his hand stretched forth.",
           "notes": [
             {
               "label": "d",
-              "text": "Grievous sins must be grievously punished. Such as was the sin of the Jews persecuting Christ."
+              "text": "Grievous sins must be grievously punished. Such as was the sin of the Jews persecuting Christ.",
+              "kind": "gloss"
             }
           ]
         },
@@ -788,7 +809,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Neither Isaie, nor Moyses, nor any other mortal man did ever see God in himself, but only shadowed. Yet the wicked calumniously accused, condemned, and put Isaie to cruel death, upon pretence of blasphemy, for saying that he saw God. Which he otherwise said not, but <i>covered by the wings of the Seraphims. Origen in hunc locum, & S. Ierom Tradi. Hebraicis in Paral.</i>"
+              "text": "Neither Isaie, nor Moyses, nor any other mortal man did ever see God in himself, but only shadowed. Yet the wicked calumniously accused, condemned, and put Isaie to cruel death, upon pretence of blasphemy, for saying that he saw God. Which he otherwise said not, but <i>covered by the wings of the Seraphims. Origen in hunc locum, & S. Ierom Tradi. Hebraicis in Paral.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -803,7 +825,13 @@
         },
         {
           "verse": 4,
-          "text": "And the lintels of the doors were moved at the voice of him that cried, & the house was filled with smoke."
+          "text": "And the lintels of the doors were moved at the voice of him that cried, & the house was filled with smoke.",
+          "cross_refs": [
+            {
+              "text": "Romans 1",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 5,
@@ -823,7 +851,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Isaie was not only an Evangelical but also an Apostolical prophet, with whom <i>Go</i>d here treateth and proceedeth, as with an <i>Apostle,</i> saying: <i>Whom shall I send?</i> and the prophet answering: <i>Send me,</i> God sent him, saying: <i>Go</i> &c. S. Ierom in Prooemio Isaie."
+              "text": "Isaie was not only an Evangelical but also an Apostolical prophet, with whom <i>Go</i>d here treateth and proceedeth, as with an <i>Apostle,</i> saying: <i>Whom shall I send?</i> and the prophet answering: <i>Send me,</i> God sent him, saying: <i>Go</i> &c. S. Ierom in Prooemio Isaie.",
+              "kind": "gloss"
             }
           ]
         },
@@ -838,7 +867,13 @@
         },
         {
           "verse": 10,
-          "text": "Blind the heart of this people, and make their ears heavy, and shut their eyes: lest perhaps they may see with their eyes, and hear with their ears, and understand with their heart, and be converted and I heal them."
+          "text": "Blind the heart of this people, and make their ears heavy, and shut their eyes: lest perhaps they may see with their eyes, and hear with their ears, and understand with their heart, and be converted and I heal them.",
+          "cross_refs": [
+            {
+              "text": "Matthew 13",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 11,
@@ -872,7 +907,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Before this the kings of Syria and of Israel had taken King Achaz in battle, and carried away great spoils, <i>2. Paral. 28.</i> But presuming, to do the like again, God suffered them not to prevail. Mystically this signified that heretics of diverse sects conspire together, to impugn the Catholic Church. Which they do much afflict, and terrify, but can never overthrow it. S. Ierom <i>in hunc locum.</i>"
+              "text": "Before this the kings of Syria and of Israel had taken King Achaz in battle, and carried away great spoils, <i>2. Paral. 28.</i> But presuming, to do the like again, God suffered them not to prevail. Mystically this signified that heretics of divers sects conspire together, to impugn the Catholic Church. Which they do much afflict, and terrify, but can never overthrow it. S. Ierom <i>in hunc locum.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -922,7 +958,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Though Achaz was very wicked and committed idolatry, <i>4. Reg. 16. 2. Par. 28.</i> yet he believed in God Almighty, knowing that he ought not to tempt him."
+              "text": "Though Achaz was very wicked and committed idolatry, <i>4. Reg. 16. 2. Par. 28.</i> yet he believed in God Almighty, knowing that he ought not to tempt him.",
+              "kind": "gloss"
             }
           ]
         },
@@ -936,7 +973,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Upon occasion of God's mercy provised without man's desert, which King Achaz hardly believed, to confirm the same with a far greater example, God inspired the Prophet also to foreshew the greater mystery of Christ's Incarnation, his conception & birth of a virgin, for the redemption of all mankind."
+              "text": "Upon occasion of God's mercy promised without man's desert, which King Achaz hardly believed, to confirm the same with a far greater example, God inspired the Prophet also to foreshew the greater mystery of Christ's Incarnation, his conception & birth of a virgin, for the redemption of all mankind.",
+              "kind": "gloss"
             }
           ]
         },
@@ -958,7 +996,7 @@
         },
         {
           "verse": 19,
-          "text": "And they shall come, and shall rest all in the torrents of valleys, and in the caves of rocks, and in all shrub places, and in all holes. <cr>[1]</cr>",
+          "text": "And they shall come, and shall rest all in the torrents of valleys, and in the caves of rocks, and in all shrubby places, and in all holes. <cr>[1]</cr>",
           "cross_refs": [
             {
               "text": "4. Reg. 9."
@@ -967,7 +1005,13 @@
         },
         {
           "verse": 20,
-          "text": "In that day our Lord shall shave with a razor, hired by them, that are beyond the river, by the king of the Assyrians, the head, and the hairs of the feet, and the whole beard."
+          "text": "In that day our Lord shall shave with a razor, hired by them, that are beyond the river, by the king of the Assyrians, the head, and the hairs of the feet, and the whole beard.",
+          "cross_refs": [
+            {
+              "text": "4 Kings 19",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 21,
@@ -975,7 +1019,7 @@
         },
         {
           "verse": 22,
-          "text": "And for the aboundance of milk he shall eat butter: for butter and honey shall every one eat, that shall be left in the midst of the land."
+          "text": "And for the abundance of milk he shall eat butter: for butter and honey shall every one eat, that shall be left in the midst of the land."
         },
         {
           "verse": 23,
@@ -1001,7 +1045,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "The mystery here prophesied is of so great importance, as would require a very great book for full explication"
+              "text": "The mystery here prophesied is of so great importance, as would require a very great book for full explication",
+              "kind": "gloss"
             }
           ]
         },
@@ -1015,7 +1060,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Christ the Son of God and a Virgin's child quickly taketh the prey from the devil, who before possessed almost all the world."
+              "text": "Christ the Son of God and a Virgin's child quickly taketh the prey from the devil, who before possessed almost all the world.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1033,7 +1079,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "The Prophet speaketh of the ten tribes, which joined forces with the king of Syria against Jerusalem, but themselves were first brought into captivity by the Assyrians, God protecting Jerusalem for that time, and long after."
+              "text": "The Prophet speaketh of the ten tribes, which joined forces with the king of Syria against Jerusalem, but themselves were first brought into captivity by the Assyrians, God protecting Jerusalem for that time, and long after.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1071,6 +1118,10 @@
           "cross_refs": [
             {
               "text": "Luc. 2. Rom. 9. 2. Pet. 2."
+            },
+            {
+              "text": "Romans 9. 1",
+              "source": "sancta"
             }
           ]
         },
@@ -1096,7 +1147,7 @@
         },
         {
           "verse": 20,
-          "text": "To the law rather, and to the testimony. As if they speak not according to this word, they shall not have the morning light."
+          "text": "To the law rather, and to the testimony. And if they speak not according to this word, they shall not have the morning light."
         },
         {
           "verse": 21,
@@ -1104,7 +1155,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "Whether they seek to God in their extreme distress, not sincerely, but coacted, or seek worldly help, they shall not escape misery."
+              "text": "Whether they seek to God in their extreme distress, not sincerely, but coacted, or seek worldly help, they shall not escape misery.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1129,11 +1181,13 @@
           "notes": [
             {
               "label": "a",
-              "text": "S. Matthew expoundeth this prophecy of Christ, first preaching in Galilee. Where his disciples believed in him & followed him."
+              "text": "S. Matthew expoundeth this prophecy of Christ, first preaching in Galilee. Where his disciples believed in him & followed him.",
+              "kind": "gloss"
             },
             {
               "label": "b",
-              "text": "But after his passion few Jews believed in him, in comparison of the Gentiles."
+              "text": "But after his passion few Jews believed in him, in comparison of the Gentiles.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1169,7 +1223,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "He that is great, yea omnipotent God, is born a little one in this world, and without violence conquereth & ruleth all the world."
+              "text": "He that is great, yea omnipotent God, is born a little one in this world, and without violence conquereth & ruleth all the world.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1199,7 +1254,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "God punishing sinners, and they not repenting, his just fury still increaseth: punishing eternally all those that never repent."
+              "text": "God punishing sinners, and they not repenting, his just fury still increaseth: punishing eternally all those that never repent.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1241,7 +1297,8 @@
           "notes": [
             {
               "label": "e",
-              "text": "Where is no repentance, there can be no remission. <i>As v. 12. 17. & ch. 10. v. 4. &c.</i>"
+              "text": "Where is no repentance, there can be no remission. <i>As v. 12. 17. & ch. 10. v. 4. &c.</i>",
+              "kind": "gloss"
             }
           ]
         }
@@ -1257,7 +1314,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Whereas good laws are the stability of the commonwealth, wicked are the ruin thereof. Such as Jeroboam made forbidding to go to Jerusalem and setting up golden calves in Bethel and Dan: causing the people to serve them as the gods of Israel. <i>3. Reg. 12. v. 16.</i> Such also as the Scribes and Pharisees made devising wicked traditions, contrary to God's commandments. <i>Mat. 15. v. 5.</i>"
+              "text": "Whereas good laws are the stability of the commonwealth, wicked are the ruin thereof. Such as Jeroboam made forbidding to go to Jerusalem and setting up golden calves in Bethel and Dan: causing the people to serve them as the gods of Israel. <i>3. Reg. 12. v. 16.</i> Such also as the Scribes and Pharisees made devising wicked traditions, contrary to God's commandments. <i>Mat. 15. v. 5.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -1267,7 +1325,7 @@
         },
         {
           "verse": 3,
-          "text": "What will you do in the day, of visitation & of calamity coming from far? To whose help will ye fly? And where will ye leave your glory?"
+          "text": "What will you do in the day, of visitation & of calamity coming from far? To whose help will ye flee? And where will ye leave your glory?"
         },
         {
           "verse": 4,
@@ -1283,7 +1341,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "The Jews are called a deceitful nation because they broke their promise made to God, that they would serve him and keep his commandments. <i>Exo. 19. v. 8.</i>"
+              "text": "The Jews are called a deceitful nation because they broke their promise made to God, that they would serve him and keep his commandments. <i>Exo. 19. v. 8.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -1330,7 +1389,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Sennacherib not by his own power, but as God's instrument & minister afflicted the Israelites. Nevertheless he persecuted them of his own free will, which God used for the punishment of his people. In general therefore evil men are like to instruments without sense, but differ in that men's actions are voluntary, & unreasonable, and senseless creatures have no will at all, but only natural aptness, and inclination."
+              "text": "Sennacherib not by his own power, but as God's instrument & minister afflicted the Israelites. Nevertheless he persecuted them of his own free will, which God used for the punishment of his people. In general therefore evil men are like to instruments without sense, but differ in that men's actions are voluntary, & unreasonable, and senseless creatures have no will at all, but only natural aptness, and inclination.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1340,7 +1400,7 @@
         },
         {
           "verse": 17,
-          "text": "And the light of Israel shall be in fire, and the Holy one thereof in flame: and his thorn shall be kindled, and be devoured, and the briers in one day."
+          "text": "And the light of Israel shall be in fire, and the Holy one thereof in flame: and his thorn shall be kindled, and be devoured, and the briars in one day."
         },
         {
           "verse": 18,
@@ -1364,7 +1424,7 @@
         },
         {
           "verse": 23,
-          "text": "For our Lord the God of hosts shall make consummation, and abridgment in the midst of all the earth."
+          "text": "For our Lord the God of hosts shall make consummation, and abridgement in the midst of all the earth."
         },
         {
           "verse": 24,
@@ -1381,7 +1441,10 @@
         },
         {
           "verse": 26,
-          "text": "And the Lord of hosts shall raise up a scourge upon him, according to the plague of Madian in the Rock Oreb, and his rod upon the sea, and he shall lift it up in the way of Ægypt."
+          "text": "And the Lord of hosts shall raise up a scourge upon him, according to the plague of Madian in the Rock Oreb, and his rod upon the sea, and he shall lift it up in the way of Ægypt.",
+          "xrefs": [
+            "*Iudi. 7.*"
+          ]
         },
         {
           "verse": 27,
@@ -1393,13 +1456,14 @@
           "notes": [
             {
               "label": "d",
-              "text": "By these places Sennacherib passed with his army from Ægypt to Jerusalem."
+              "text": "By these places Sennacherib passed with his army from Ægypt to Jerusalem.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 29,
-          "text": "They have passed in haste, Gaba is our seat: Rama was astonished, Gabaath of Saul fled."
+          "text": "They have passed in haste, Gaba is our seat: Rama was astonied, Gabaath of Saul fled."
         },
         {
           "verse": 30,
@@ -1441,11 +1505,13 @@
           "notes": [
             {
               "label": "a",
-              "text": "The Blessed Virgin."
+              "text": "The Blessed Virgin.",
+              "kind": "gloss"
             },
             {
               "label": "b",
-              "text": "Christ our Saviour replenished with the seven gifts of the Holy Ghost, of whose infinite plenitude his servants participate as it pleaseth his divine spirit to impart."
+              "text": "Christ our Saviour replenished with the seven gifts of the Holy Ghost, of whose infinite plenitude his servants participate as it pleaseth his divine spirit to impart.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1497,8 +1563,12 @@
           "notes": [
             {
               "label": "c",
-              "text": "Christ after his death, which to the world was ignominious, would be gloriously buried, by very honourable persons, Ioseph and Nicodemus, with aboundance of most precious spices, wrapped in fine linen, and laid in a new monument: to shew that the glory of the just beginneth from their death: where the glory of the wicked endeth. Christ's sepulchre still also remaineth glorious, honoured even by the Turks: much more by Catholic Christians."
+              "text": "Christ after his death, which to the world was ignominious, would be gloriously buried, by very honourable persons, Ioseph and Nicodemus, with abundance of most precious spices, wrapped in fine linen, and laid in a new monument: to shew that the glory of the just beginneth from their death: where the glory of the wicked endeth. Christ's sepulchre still also remaineth glorious, honoured even by the Turks: much more by Catholic Christians.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "*Rom. 1.*"
           ]
         },
         {
@@ -1515,7 +1585,7 @@
         },
         {
           "verse": 14,
-          "text": "And they shall fly upon the shoulders of the Philisthims by the sea, they together shall spoil the children of the East: Idumea, and Moab the precept of their hand, and the children of Ammon shall be obedient."
+          "text": "And they shall fly upon the shoulders of the Philisthiims by the sea, they together shall spoil the children of the East: Idumea, and Moab the precept of their hand, and the children of Ammon shall be obedient."
         },
         {
           "verse": 15,
@@ -1546,7 +1616,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "The Jews gave thanks for their delivery from captivity of Babylon; & much more the Church of Christ rendereth thanks for her delivery from all sins."
+              "text": "The Jews gave thanks for their delivery from captivity of Babylon; & much more the Church of Christ rendereth thanks for her delivery from all sins.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1584,7 +1655,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The 1. against Babylon. (a) Nemrod began the Kingdom of Babylon <i>(Gen. 10.)</i> his son Belus did much augment it: & his son Ninus brought it to be a very great Empire, & Monarchy. But at last, after 1240. years, it was overcome by Cyrus King of Persia."
+              "text": "The 1. against Babylon. (a) Nemrod began the Kingdom of Babylon <i>(Gen. 10.)</i> his son Belus did much augment it: & his son Ninus brought it to be a very great Empire, & Monarchy. But at last, after 1240. years, it was overcome by Cyrus King of Persia.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1598,7 +1670,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Medes and Persians were called sanctified, in that they were the ministers of God's justice, in the ruin of Babylon: which the Prophet foretelling calleth it <i>The burden of Babylon.</i>"
+              "text": "Medes and Persians were called sanctified, in that they were the ministers of God's justice, in the ruin of Babylon: which the Prophet foretelling calleth it <i>The burden of Babylon.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -1645,7 +1718,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "After the slaughter there shall be so few Babylonians, or Chaldeans left alive, that one man shall be more rare and precious than much fine gold."
+              "text": "After the slaughter there shall be so few Babylonians, or Chaldeans left alive, that one man shall be more rare and precious than much fine gold.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1655,7 +1729,7 @@
         },
         {
           "verse": 14,
-          "text": "And it shall be as a young doe flying, & as a sheep: & there shall be none to gather them together: every man shall turn to his own people, and every one shall fly to his own land."
+          "text": "And it shall be as a young doe fleeing, & as a sheep: & there shall be none to gather them together: every man shall turn to his own people, and every one shall flee to his own land."
         },
         {
           "verse": 15,
@@ -1693,7 +1767,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "Another city was built by the same name, but much less, & in another place of Chaldea."
+              "text": "Another city was built by the same name, but much less, & in another place of Chaldea.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1716,7 +1791,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Isaie prophesied the destruction of Babylon above 100. years before the Jews were carried thither captive, and their captivity endured 70. years. Which was released by Cyrus, after he had overcome the Babylonians. Yet this space of near 200. years, is counted a short time in respect of so great a Monarchy as this was, which had now continued above a thousand years, from the time of Ninus, yea was begun by Nemrod. <i>Gen. 10.</i>"
+              "text": "Isaie prophesied the destruction of Babylon above 100. years before the Jews were carried thither captive, and their captivity endured 70. years. Which was released by Cyrus, after he had overcome the Babylonians. Yet this space of near 200. years, is counted a short time in respect of so great a Monarchy as this was, which had now continued above a thousand years, from the time of Ninus, yea was begun by Nemrod. <i>Gen. 10.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -1766,7 +1842,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "As Lucifer the greatest devil, so Nabuchodonosor King of Babylon fell through pride into extreme misery."
+              "text": "As Lucifer the greatest devil, so Nabuchodonosor King of Babylon fell through pride into extreme misery.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1824,7 +1901,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "The miraculous destruction of the Assirians' army besieging Jerusalem is recorded <i>4. Reg. 19.</i>"
+              "text": "The miraculous destruction of the Assirians' army besieging Jerusalem is recorded <i>4. Reg. 19.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -1847,8 +1925,12 @@
           "notes": [
             {
               "label": "d",
-              "text": "The second commination is against the Philistians."
+              "text": "The second commination is against the Philistians.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "*4. Reg. 16.*"
           ]
         },
         {
@@ -1857,7 +1939,8 @@
           "notes": [
             {
               "label": "e",
-              "text": "Though Achaz was dead whom the Philistims feared, yet Ezechias a better King did afflict them more than the other had done. <i>4. Reg. 18. v. 8.</i> Much more Ozias. <i>2. Par. 26.</i>"
+              "text": "Though Achaz was dead whom the Philistims feared, yet Ezechias a better King did afflict them more than the other had done. <i>4. Reg. 18. v. 8.</i> Much more Ozias. <i>2. Par. 26.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -1871,7 +1954,8 @@
           "notes": [
             {
               "label": "f",
-              "text": "From Jerusalem which is situated on the north of Philistæa."
+              "text": "From Jerusalem which is situated on the north of Philistæa.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1891,11 +1975,13 @@
           "notes": [
             {
               "label": "a",
-              "text": "The third commination was against the Moabites."
+              "text": "The third commination was against the Moabites.",
+              "kind": "gloss"
             },
             {
               "label": "b",
-              "text": "Destruction made in the night, prevented that they feared not the imminent danger, but so much the more they were afflicted, being suddenly oppressed with extreme misery."
+              "text": "Destruction made in the night, prevented that they feared not the imminent danger, but so much the more they were afflicted, being suddenly oppressed with extreme misery.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1914,7 +2000,7 @@
         },
         {
           "verse": 4,
-          "text": "Hesebon shall cry, & Eleale, their voice is heard even to Jasa. For this shall the well appointed of Moab howl, his soul shall howl to himself."
+          "text": "Hesebon shall cry, & Elealé, their voice is heard even to Jasa. For this shall the well appointed of Moab howl, his soul shall howl to himself."
         },
         {
           "verse": 5,
@@ -1922,7 +2008,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Misery, even of enemies, moveth a charitable heart to compassion. So the Prophet lamenteth the Moabites' affliction."
+              "text": "Misery, even of enemies, moveth a charitable heart to compassion. So the Prophet lamenteth the Moabites' affliction.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1940,7 +2027,7 @@
         },
         {
           "verse": 9,
-          "text": "Because the waters of Dibon are replenished with blood: for I will put additions upon Dibon: the lion for them that shall fly of Moab, and for the remnant of the land."
+          "text": "Because the waters of Dibon are replenished with blood: for I will put additions upon Dibon: the lion for them that shall flee of Moab, and for the remnant of the land."
         }
       ],
       "summary": "The Prophet prayeth for and prophesieth Christ's coming: 6. adding more of the affliction of the Moabites for their pride."
@@ -1954,25 +2041,27 @@
           "notes": [
             {
               "label": "a",
-              "text": "In the great misery of the Moabites, the Prophet saw one special cause of consolation, that Christ the lamb of God, which taketh away the sins of the world, should be born of their lineage, by one of their progeny:"
+              "text": "In the great misery of the Moabites, the Prophet saw one special cause of consolation, that Christ the lamb of God, which taketh away the sins of the world, should be born of their lineage, by one of their progeny:",
+              "kind": "gloss"
             },
             {
               "label": "b",
-              "text": "Of Ruth a Moabites, who was married to Booz, and so was David's great grand mother. <i>Ruth 4. See the argument of Ruth.</i>"
+              "text": "Of Ruth a Moabite, who was married to Booz, and so was David's great grand mother. <i>Ruth 4. See the argument of Ruth.</i>",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 2,
-          "text": "And he shall be as a bird flying, and the young flying out of the nest, so shall the daughters of Moab be in the passage of Arnon."
+          "text": "And he shall be as a bird fleeing, and the young flying out of the nest, so shall the daughters of Moab be in the passage of Arnon."
         },
         {
           "verse": 3,
-          "text": "Take counsel, gather a council: set thy shadow in the midday as it were night: hide them that fly, and them that wander bewray not."
+          "text": "Take counsel, gather a council: set thy shadow in the midday as it were night: hide them that flee, and them that wander bewray not."
         },
         {
           "verse": 4,
-          "text": "My fugitives shall dwell with thee: Moab be thou their covert from the face of the destroyer: for the dust is ended, the wretch is come to naught: he hath failed, that trod down the earth."
+          "text": "My fugitives shall dwell with thee: Moab be thou their covert from the face of the destroyer: for the dust is ended, the wretch is come to naught: he hath failed, that trode down the earth."
         },
         {
           "verse": 5,
@@ -1992,7 +2081,7 @@
         },
         {
           "verse": 9,
-          "text": "For this I will lament in the weeping of Jazer the vineyard of Sabama: I will inebriate thee with my tear o Hesebon, and Eleale: because the voice of the treaders is rusht in upon thy vintage, and upon thy harvest."
+          "text": "For this I will lament in the weeping of Jazer the vineyard of Sabama: I will inebriate thee with my tear o Hesebon, and Elealé: because the voice of the treaders is rusht in upon thy vintage, and upon thy harvest."
         },
         {
           "verse": 10,
@@ -2016,7 +2105,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "The wars against Moab continued three years, In which it was brought into servitude."
+              "text": "The wars against Moab continued three years, In which it was brought into servitude.",
+              "kind": "gloss"
             }
           ]
         }
@@ -2080,13 +2170,14 @@
           "notes": [
             {
               "label": "a",
-              "text": "After that the Assirians had afflicted the Israelites, and their confederates, themselves were also afflicted."
+              "text": "After that the Assirians had afflicted the Israelites, and their confederates, themselves were also afflicted.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 13,
-          "text": "Peoples shall sound as the sound of waters overflowing, and he shall rebuke him, and shall fly far off: and he shall be violently taken away as the dust of the mountains at the face of the wind, and as a whirlwind before a tempest."
+          "text": "Peoples shall sound as the sound of waters overflowing, and he shall rebuke him, and shall flee far off: and he shall be violently taken away as the dust of the mountains at the face of the wind, and as a whirlwind before a tempest."
         },
         {
           "verse": 14,
@@ -2110,21 +2201,24 @@
           "notes": [
             {
               "label": "1",
-              "text": "The fifth was against the Æthiopians and Ægyptians."
+              "text": "The fifth was against the Æthiopians and Ægyptians.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 2,
-          "text": "which sendeth legates into the sea, and in the vessels of <na>[1]</na> bulrushes upon the waters. Go ye swift <na>(a)</na> angels to a nation shaken a sunder, and torn in pieces: to a terrible people, after which there is none other: to a nation expecting and trodden under foot, whose land the floods have spoiled:",
+          "text": "which sendeth legates into the sea, and in the vessels of <na>[1]</na> bulrushes upon the waters. Go ye swift <na>(a)</na> angels to a nation shaken asunder, and torn in pieces: to a terrible people, after which there is none other: to a nation expecting and trodden under foot, whose land the floods have spoiled:",
           "notes": [
             {
               "label": "a",
-              "text": "The Ægyptians bid their messengers go swiftly, & tell the Jews that they shall have present help according as they require & expect."
+              "text": "The Ægyptians bid their messengers go swiftly, & tell the Jews that they shall have present help according as they require & expect.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "<i>Or paper boats.</i>"
+              "text": "<i>Or paper boats.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -2134,7 +2228,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "But the Prophet sheweth that the Ægyptians themselves shall be overthrown by the Assirians"
+              "text": "But the Prophet sheweth that the Ægyptians themselves shall be overthrown by the Assirians",
+              "kind": "gloss"
             }
           ]
         },
@@ -2166,7 +2261,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "When our B. Saviour was carried in his infancy by his mother into Ægypt the idols of that country lost their power. And the inhabitants were specially blessed, & afterwards very many believed in Christ, and sincerely served him."
+              "text": "When our B. Saviour was carried in his infancy by his mother into Ægypt the idols of that country lost their power. And the inhabitants were specially blessed, & afterwards very many believed in Christ, and sincerely served him.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2216,7 +2312,7 @@
         },
         {
           "verse": 13,
-          "text": "The Princes of Tanis are become fools, the Princes of Memphis are withered away, they have deceived Ægypt, the corner of the peoples thereof."
+          "text": "The Princes of Tanis are become fools, the Princes of Nemphis are withered away, they have deceived Ægypt, the corner of the peoples thereof."
         },
         {
           "verse": 14,
@@ -2228,7 +2324,7 @@
         },
         {
           "verse": 16,
-          "text": "In that day Ægypt shall be as women, & they shall be astonished, & shall be afraid at the face of the moving of the hand of the Lord of hosts, which he shall move over it."
+          "text": "In that day Ægypt shall be as women, & they shall be astonied, & shall be afraid at the face of the moving of the hand of the Lord of hosts, which he shall move over it."
         },
         {
           "verse": 17,
@@ -2244,7 +2340,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Both Jews and Christians understand this prophecy of the conversion of the Ægyptians to Christ. But the Jews expect it as yet to come, we know that it is already fulfilled, at least in part. For there were sometimes many Christians in that country, yea many most excellent Saints. S. Paul. S. Antony. S. Hilarion, and innumerable others."
+              "text": "Both Jews and Christians understand this prophecy of the conversion of the Ægyptians to Christ. But the Jews expect it as yet to come, we know that it is already fulfilled, at least in part. For there were sometimes many Christians in that country, yea many most excellent Saints. S. Paul. S. Antony. S. Hilarion, and innumerable others.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2287,7 +2384,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "The holy Prophet, of noble blood, was not disobedient, nor ashamed to go naked, because nothing is more honest than to obey God's commandment. S. Ierom in hunc locum."
+              "text": "The holy Prophet, of noble blood, was not disobedient, nor ashamed to go naked, because nothing is more honest than to obey God's commandment. S. Ierom in hunc locum.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2320,7 +2418,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The sixth commination was against the Assirians, and specially the Babylonians."
+              "text": "The sixth commination was against the Assirians, and specially the Babylonians.",
+              "kind": "head"
             }
           ]
         },
@@ -2334,7 +2433,7 @@
         },
         {
           "verse": 4,
-          "text": "Mine heart failed, darkness made me astonished: Babylon my beloved is made a miracle unto me."
+          "text": "Mine heart failed, darkness made me astonied: Babylon my beloved is made a miracle unto me."
         },
         {
           "verse": 5,
@@ -2350,7 +2449,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Cyrus King of the Persians a people of small power, & of the Medes, of great strength."
+              "text": "Cyrus King of the Persians a people of small power, & of the Medes, of great strength.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2360,7 +2460,7 @@
         },
         {
           "verse": 9,
-          "text": "Behold this man cometh, the rider upon the chariot of two horsemen, and he answered and said: Fallen, fallen is Babylon, and all the sculptiles of the gods thereof are broken to the ground. <cr>[1]</cr>",
+          "text": "Behold this man cometh, the rider upon the chariot of two horsemen, and he answered and said: Fallen, fallen is Babylon, and all the sculptils of the gods thereof are broken to the ground. <cr>[1]</cr>",
           "cross_refs": [
             {
               "text": "Iere. 51. Apoc. 14."
@@ -2373,11 +2473,12 @@
         },
         {
           "verse": 11,
-          "text": "<na>(b)</na> The burden of Duma cryeth to me out of Seir: Watchman what of the night? Watchman what of the night?",
+          "text": "<na>(b)</na> The burden of Duma crieth to me out of Seir: Watchman what of the night? Watchman what of the night?",
           "notes": [
             {
               "label": "b",
-              "text": "The seventh prophetical commination was against the Idumeans."
+              "text": "The seventh prophetical commination was against the Idumeans.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2391,13 +2492,14 @@
           "notes": [
             {
               "label": "c",
-              "text": "The eighth against the Ismaelites."
+              "text": "The eighth against the Ismaelites.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 14,
-          "text": "Meeting the thirsty bring water, you that inhabit the land of the South, with bread meet him that flyeth."
+          "text": "Meeting the thirsty bring water, you that inhabit the land of the South, with bread meet him that fleeth."
         },
         {
           "verse": 15,
@@ -2423,11 +2525,13 @@
           "notes": [
             {
               "label": "a",
-              "text": "The ninth against the chief rulers of Jerusalem."
+              "text": "The ninth against the chief rulers of Jerusalem.",
+              "kind": "gloss"
             },
             {
               "label": "b",
-              "text": "Sion situated on a hill, and often called a mountain, is here called a vale, for the afflicted state wherein it was in the captivity."
+              "text": "Sion situated on a hill, and often called a mountain, is here called a vale, for the afflicted state wherein it was in the captivity.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2489,7 +2593,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "This Sobna had some office about the Temple, but by crafty intrusion and unjust usurpation, rather than by lawful induction, was very covetous & ambitious: & so by God's judgement fell into misery."
+              "text": "This Sobna had some office about the Temple, but by crafty intrusion and unjust usurpation, rather than by lawful induction, was very covetous & ambitious: & so by God's judgement fell into misery.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2545,7 +2650,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The tenth commination was against the Tyrians."
+              "text": "The tenth commination was against the Tyrians.",
+              "kind": "head"
             }
           ]
         },
@@ -2555,7 +2661,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Tyrus was an island, as Ezechiel also describeth it <i>(ch. 27.) in the entrance, yea situated in the heart of the sea:</i> but not far distant, for king Alexander filled up that passage of water and made it continent."
+              "text": "Tyrus was an island, as Ezechiel also describeth it <i>(ch. 27.) in the entrance, yea situated in the heart of the sea:</i> but not far distant, for king Alexander filled up that passage of water and made it continent.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2613,7 +2720,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "The Tyrians rejoiced in the Jews' captivity, & therefore God punished them with like captivity of 70. years."
+              "text": "The Tyrians rejoiced in the Jews' captivity, & therefore God punished them with like captivity of 70. years.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2646,7 +2754,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "The third part. Prophecies pertaining to the whole world."
+              "text": "The third part. Prophecies pertaining to the whole world.",
+              "kind": "head"
             }
           ]
         },
@@ -2656,7 +2765,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Diversity of states which is now in the world, shall cease at the general judgement, and all men shall receive according to their deserts."
+              "text": "Diversity of states which is now in the world, shall cease at the general judgement, and all men shall receive according to their deserts.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2678,13 +2788,14 @@
           "notes": [
             {
               "label": "b",
-              "text": "Near the end of the world, many forgetting the law of God, & nature, will rage in extreme fury against others, persecuting & murdering one another, especially the wicked afflicting the good: which our Saviour describeth <i>(Mat. 24.)</i> saying: <i>Nation shall rise against nation. You shall be odious to all nations for my sake. Iniquity shall abound, &c.</i>"
+              "text": "Near the end of the world, many forgetting the law of God, & nature, will rage in extreme fury against others, persecuting & murdering one another, especially the wicked afflicting the good: which our Saviour describeth <i>(Mat. 24.)</i> saying: <i>Nation shall rise against nation. You shall be odious to all nations for my sake. Iniquity shall abound, &c.</i>",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 7,
-          "text": "The vintage hath mourned, the wine is weakened, all have sighed that rejoiced in heart."
+          "text": "The vintage hath mourned, the vine is weakened, all have sighed that rejoiced in heart."
         },
         {
           "verse": 8,
@@ -2720,7 +2831,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "This joyful propagation of God's glory and name, is either understood to be prophesied of the Church in general, which is as an island of the whole world: or properly and particularly (amongst other gentiles) of islands converted to Christ: as great Brittany & others."
+              "text": "This joyful propagation of God's glory and name, is either understood to be prophesied of the Church in general, which is as an island of the whole world: or properly and particularly (amongst other gentiles) of islands converted to Christ: as great Britain & others.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2739,7 +2851,7 @@
         },
         {
           "verse": 18,
-          "text": "And it shall be: He that shall fly from the voice of fear, shall fall into the pit: and he that shall rid himself out of the pit, shall be held in the snare: because the floodgates from on high are opened, and the foundations of the earth shall be shaken."
+          "text": "And it shall be: He that shall flee from the voice of fear, shall fall into the pit: and he that shall rid himself out of the pit, shall be held in the snare: because the floodgates from on high are opened, and the foundations of the earth shall be shaken."
         },
         {
           "verse": 19,
@@ -2773,7 +2885,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "The Prophet and faithful people confessing God's benefits, and perfect performance of whatsoever he promiseth, or determineth, conforming their desires to his pleasure, say <i>Amen,</i> as well in prosperity, when he delivereth and blesseth them, as in adversity, when he punisheth: by the destruction of Jerusalem, which is here prophesied, and the like."
+              "text": "The Prophet and faithful people confessing God's benefits, and perfect performance of whatsoever he promiseth, or determineth, conforming their desires to his pleasure, say <i>Amen,</i> as well in prosperity, when he delivereth and blesseth them, as in adversity, when he punisheth: by the destruction of Jerusalem, which is here prophesied, and the like.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2799,7 +2912,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "After the rejection of the Jews all Gentiles shall be converted to Christ."
+              "text": "After the rejection of the Jews all Gentiles shall be converted to Christ.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2844,15 +2958,18 @@
           "notes": [
             {
               "label": "a",
-              "text": "In the time of grace given by Christ his whole Church singeth this and other like canticles of praises."
+              "text": "In the time of grace given by Christ his whole Church singeth this and other like canticles of praises.",
+              "kind": "gloss"
             },
             {
               "label": "b",
-              "text": "Other peoples have their peculiar proper cities: Babylon, Damascus, Tyrus, Sidon, &c. but all Christians have one city, the Catholic Church, signified by Sion."
+              "text": "Other peoples have their peculiar proper cities: Babylon, Damascus, Tyrus, Sidon, &c. but all Christians have one city, the Catholic Church, signified by Sion.",
+              "kind": "gloss"
             },
             {
               "label": "c",
-              "text": "Fenced with wall and bulwark, or faith & good works. S. Jerome here noteth that the sense of this Canticle is hard, by reason of often and sudden interlocutions of diverse persons consisting in questions and answers. To whose learned commentaries we remit the studious readers."
+              "text": "Fenced with wall and bulwark, or faith & good works. S. Jerome here noteth that the sense of this Canticle is hard, by reason of often and sudden interlocutions of divers persons consisting in questions and answers. To whose learned commentaries we remit the studious readers.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2918,11 +3035,11 @@
         },
         {
           "verse": 17,
-          "text": "As she that conceiveth, when she draweth near to be delivered, being sorrowful cryeth in her pains: so are we become at thy presence, o Lord."
+          "text": "As she that conceiveth, when she draweth near to be delivered, being sorrowful crieth in her pains: so are we become at thy presence, o Lord."
         },
         {
           "verse": 18,
-          "text": "We have conceived, and as it were travailed, and brought forth the spirit: salvations we have not done in the earth, therefore the inhabitants of the earth have not fallen."
+          "text": "We have conceived, and as it were travailed, and brought forth the spirit: salvation we have not done in the earth, therefore the inhabitants of the earth have not fallen."
         },
         {
           "verse": 19,
@@ -2930,15 +3047,18 @@
           "notes": [
             {
               "label": "d",
-              "text": "A prophecy of the general resurrection of all men."
+              "text": "A prophecy of the general resurrection of all men.",
+              "kind": "gloss"
             },
             {
               "label": "e",
-              "text": "Some in glory"
+              "text": "Some in glory",
+              "kind": "gloss"
             },
             {
               "label": "f",
-              "text": "Some in misery."
+              "text": "Some in misery.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2971,8 +3091,12 @@
           "notes": [
             {
               "label": "a",
-              "text": "Tyrants are called serpents for their subtle poisonful malice, and bars, because they hold men fast inclosed in bondage. And for the same reasons the devil is called a serpent, and a bar."
+              "text": "Tyrants are called serpents for their subtle poisonful malice, and bars, because they hold men fast inclosed in bondage. And for the same reasons the devil is called a serpent, and a bar.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Iob. 4."
           ]
         },
         {
@@ -2997,7 +3121,7 @@
         },
         {
           "verse": 7,
-          "text": "Hath he striken him according to his stroke that struck him? Or as he killed his slain, is he killed?"
+          "text": "Hath he striken him according to his stroke that stroke him? Or as he killed his slain, is he killed?"
         },
         {
           "verse": 8,
@@ -3035,11 +3159,13 @@
           "notes": [
             {
               "label": "a",
-              "text": "By Ephraim is understood the Kingdom of Israel, whose first King Jeroboam was of that tribe."
+              "text": "By Ephraim is understood the Kingdom of Israel, whose first King Jeroboam was of that tribe.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "The fourth part. Prophetical admonitions to both the Kingdoms of Israel & Juda."
+              "text": "The fourth part. Prophetical admonitions to both the Kingdoms of Israel & Juda.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3061,11 +3187,13 @@
           "notes": [
             {
               "label": "b",
-              "text": "After that the ten tribes were carried captives <i>(4. Reg. 17.)</i> God delivered the two tribes out of imminent danger. (4. Reg. 18. 19.)"
+              "text": "After that the ten tribes were carried captives <i>(4. Reg. 17.)</i> God delivered the two tribes out of imminent danger. (4. Reg. 18. 19.)",
+              "kind": "gloss"
             },
             {
               "label": "c",
-              "text": "giving peace to their people:"
+              "text": "giving peace to their people:",
+              "kind": "gloss"
             }
           ]
         },
@@ -3075,11 +3203,13 @@
           "notes": [
             {
               "label": "d",
-              "text": "spirit of judgement to King Ezechias:"
+              "text": "spirit of judgement to King Ezechias:",
+              "kind": "gloss"
             },
             {
               "label": "e",
-              "text": "and victory to the soldiers."
+              "text": "and victory to the soldiers.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3113,7 +3243,8 @@
           "notes": [
             {
               "label": "f",
-              "text": "Because Isaias & other holy Prophets often & much urged, not only the people, but also priests (which had rule over the people) to keep God's commandments, and to"
+              "text": "Because Isaias & other holy Prophets often & much urged, not only the people, but also priests (which had rule over the people) to keep God's commandments, and to",
+              "kind": "gloss"
             }
           ]
         },
@@ -3156,12 +3287,16 @@
           "cross_refs": [
             {
               "text": "2. Reg. 5. 1. Par. 14."
+            },
+            {
+              "text": "Josue. 10",
+              "source": "sancta"
             }
           ]
         },
         {
           "verse": 22,
-          "text": "And now mock not, lest perhaps your bonds be tied strait. For I have heard of our Lord the God of hosts consummation and abridgment upon all the earth."
+          "text": "And now mock not, lest perhaps your bonds be tied strait. For I have heard of our Lord the God of hosts consummation and abridgement upon all the earth."
         },
         {
           "verse": 23,
@@ -3173,7 +3308,8 @@
           "notes": [
             {
               "label": "g",
-              "text": "As husbandmen dispose their works in order: so God sometimes worketh miracles, sometimes giveth benefits, sometimes sendeth afflictions:"
+              "text": "As husbandmen dispose their works in order: so God sometimes worketh miracles, sometimes giveth benefits, sometimes sendeth afflictions:",
+              "kind": "gloss"
             }
           ]
         },
@@ -3191,7 +3327,8 @@
           "notes": [
             {
               "label": "h",
-              "text": "and greater to some than to others."
+              "text": "and greater to some than to others.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3201,7 +3338,8 @@
           "notes": [
             {
               "label": "i",
-              "text": "But none are continually afflicted without intermission."
+              "text": "But none are continually afflicted without intermission.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3226,7 +3364,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Ari signifieth a lion, <i>El</i>, God: So Jerusalem called the lion of God, to wit a strong city, is threatened with destruction, which happened first by the Babylonians, 4. Reg. 25. again more miserable by Titus & Vespasian, 40. years after Christ's death."
+              "text": "Ari signifieth a lion, <i>El</i>, God: So Jerusalem called the lion of God, to wit a strong city, is threatened with destruction, which happened first by the Babylonians, 4. Reg. 25. again more miserably by Titus & Vespasian, 40. years after Christ's death.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3245,7 +3384,7 @@
         },
         {
           "verse": 4,
-          "text": "Thou shalt be humbled, thou shalt speak out of the earth, and out of the ground thy speech shall be heard: and thy voice shall be out of the earth as the Python's, and out of the ground thy speech shall mutter."
+          "text": "Thou shalt be humbled, thou shalt speak out of the earth, and out of the ground thy speech shall be heard: and thy voice shall be out of the earth as the Pythons, and out of the ground thy speech shall mutter."
         },
         {
           "verse": 5,
@@ -3277,7 +3416,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Scribes and Pharisees pretending knowledge of Scriptures, cannot read Christ in the Prophets, because these Books are sealed (or locked) & they have not the key. <i>Apoc. 3.</i>"
+              "text": "Scribes and Pharisees pretending knowledge of Scriptures, cannot read Christ in the Prophets, because these Books are sealed (or locked) & they have not the key. <i>Apoc. 3.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -3287,7 +3427,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "The Gentiles could not read Christ in these books, because they knew not letters of the holy Scriptures. <i>S. Ierom Prooemio. in Isaiam.</i>"
+              "text": "The Gentiles could not read Christ in these books, because they knew not letters of the holy Scriptures. <i>S. Ierom Prooemio. in Isaiam.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -3362,15 +3503,17 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Woe <na>(a)</na> unto <na>[1]</na> renegade children, saith our Lord, that you would take counsel, and not of me: and would begin a web, and not by my spirit, that you might add sin upon sin:",
+          "text": "Woe <na>(a)</na> unto <na>[1]</na> renegate children, saith our Lord, that you would take counsel, and not of me: and would begin a web, and not by my spirit, that you might add sin upon sin:",
           "notes": [
             {
               "label": "a",
-              "text": "You that trust in your own counsels and forces, or in other men's, and not in God, shall find the miserable event of your folly, as is before noted. <i>chap. 20.</i>"
+              "text": "You that trust in your own counsels and forces, or in other men's, and not in God, shall find the miserable event of your folly, as is before noted. <i>chap. 20.</i>",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "<i>Apostatæ. or, deniers.</i>"
+              "text": "<i>Apostatæ. or, deniers.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -3380,7 +3523,7 @@
         },
         {
           "verse": 3,
-          "text": "And the strength of Pharao shall be a confusion to you, and the confidence in the shadow of Ægypt an ignominy."
+          "text": "And the strength of Pharao shall be a confusion to you, and the confidence of the shadow of Ægypt an ignominy."
         },
         {
           "verse": 4,
@@ -3404,7 +3547,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Either Isaias was commanded to write this which should be fulfilled many years after; or else he speaketh prophetically to Jeremy, near 200. years before he prophesied; signifying that he should then write it, as indeed he did. <i>Iere. 41. &c.</i>"
+              "text": "Either Isaias was commanded to write this which should be fulfilled many years after; or else he speaketh prophetically to Jeremie, near 200. years before he prophesied; signifying that he should then write it, as indeed he did. <i>Iere. 41. &c.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -3426,7 +3570,7 @@
         },
         {
           "verse": 13,
-          "text": "therefore shall this iniquity be unto you as a breach that falleth, and is found lacking in an high wall, because suddenly, whilst it is not hoped, shall come the destruction thereof."
+          "text": "therefore shall this iniquity be unto you as a breach that falleth, and is found lacking in an high wall, because suddenly, whiles it is not hoped, shall come the destruction thereof."
         },
         {
           "verse": 14,
@@ -3438,15 +3582,21 @@
         },
         {
           "verse": 16,
-          "text": "and you have said: No, but we will fly to horses: therefore shall you fly. And we will mount upon swift ones: therefore shall they be swifter, that shall persecute you."
+          "text": "and you have said: No, but we will flee to horses: therefore shall you flee. And we will mount upon swift ones: therefore shall they be swifter, that shall persecute you."
         },
         {
           "verse": 17,
-          "text": "A thousand men at the face of the terror of one, and at the face of the terror of five shall you fly, till you be left as the mast of a ship in the top of a mountain, and as a sign upon a little hill."
+          "text": "A thousand men at the face of the terror of one, and at the face of the terror of five shall you flee, till you be left as the mast of a ship in the top of a mountain, and as a sign upon a little hill."
         },
         {
           "verse": 18,
-          "text": "Therefore our Lord expecteth that he may have mercy on you: and therefore shall he be exalted sparing you: because our Lord is the God of judgement: blessed are all they that expect him."
+          "text": "Therefore our Lord expecteth that he may have mercy on you: and therefore shall he be exalted sparing you: because our Lord is the God of judgment: blessed are all they that expect him.",
+          "cross_refs": [
+            {
+              "text": "Psal. 2",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 19,
@@ -3459,7 +3609,7 @@
         },
         {
           "verse": 20,
-          "text": "And our Lord will give you strait bread, & short water: and will not make thy doctor to fly away from thee any more: and thine eyes shall see thy master."
+          "text": "And our Lord will give you strait bread, & short water: and will not make thy doctor to flee away from thee any more: and thine eyes shall see thy master."
         },
         {
           "verse": 21,
@@ -3467,7 +3617,7 @@
         },
         {
           "verse": 22,
-          "text": "And thou shalt contaminate the plates of the sculptiles of thy silver, & the garment of the molten of thy gold, and shalt scatter them as the uncleanness of a menstruous woman. Thou shalt say to it: Get thee hence."
+          "text": "And thou shalt contaminate the plates of the sculptils of thy silver, & the garment of the molten of thy gold, and shalt scatter them as the uncleanness of a menstruous woman. Thou shalt say to it: Get thee hence."
         },
         {
           "verse": 23,
@@ -3487,7 +3637,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "This clarity in sun and moon shall be after the general resurrection."
+              "text": "This clarity in sun and moon shall be after the general resurrection.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3497,7 +3648,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "Christ will exercise his severe justice in the general judgement, when he shall bid the damned go into everlasting fire. <i>Mat. 25.</i>"
+              "text": "Christ will exercise his severe justice in the general judgement, when he shall bid the damned go into everlasting fire. <i>Mat. 25.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -3523,7 +3675,8 @@
           "notes": [
             {
               "label": "e",
-              "text": "It often appeareth that when evil men seem most secure, they fall into sudden calamities."
+              "text": "It often happeneth that when evil men seem most secure, they fall into sudden calamities.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3533,7 +3686,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>Hell.</i>"
+              "text": "<i>Hell.</i>",
+              "kind": "gloss"
             }
           ]
         }
@@ -3554,7 +3708,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Both this Prophet, and afterwards Jeremy admonished the Jews not to trust in the Ægyptians, but they contemning this admonition shewed in their deeds that they distrusted God, not believing nor obeying his Prophets: and for the same were at last punished."
+              "text": "Both this Prophet, and afterwards Jeremie admonished the Jews not to trust in the Ægyptians, but they contemning this admonition shewed in their deeds that they distrusted God, not believing nor obeying his Prophets: and for the same were at last punished.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3572,7 +3727,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "In the mean time God destroyed the army of Sennacherib besieging Jerusalem. <i>4. Reg. 19.</i> But they forgot this and many other examples of God's power and love."
+              "text": "In the mean time God destroyed the army of Senacarib besieging Jerusalem. <i>4. Reg. 19.</i> But they forgot this and many other examples of God's power and love.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3595,11 +3751,11 @@
         },
         {
           "verse": 8,
-          "text": "And Assur shall fall by the sword not of man, and the sword not of man shall devour him, and he shall fly not at the face of the sword: & his young men shall be tributaries:"
+          "text": "And Assur shall fall by the sword not of man, and the sword not of man shall devour him, and he shall flee not at the face of the sword: & his young men shall be tributaries:"
         },
         {
           "verse": 9,
-          "text": "and his strength shall pass away at the terror, & his princes flying shall be afraid: our Lord hath said it: whose fire is in Sion, & his furnace in Jerusalem."
+          "text": "and his strength shall pass away at the terror, & his princes fleeing shall be afraid: our Lord hath said it: whose fire is in Sion, & his furnace in Jerusalem."
         }
       ],
       "summary": "The Prophet further bewaileth the Jews' calamity, into which they shall fall for their confederacy with the Ægyptians. 5. Yet God will protect Jerusalem: 8. and overthrow Sennacherib."
@@ -3614,7 +3770,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The fifth part. Of the captivity, and relaxation of the Kingdom of Juda: with other afflictions and comforts; but especially of Christ and his Church."
+              "text": "The fifth part. Of the captivity, and relaxation of the Kingdom of Juda: with other afflictions and comfortes; but especially of Christ and his Church.",
+              "kind": "head"
             }
           ]
         },
@@ -3632,7 +3789,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Albeit many things in this and other places pertain first and literally to the old testament: yet all are in figure, & some things have no other literal sense but of the new testament. As this Prophecy of maffling, or unperfect tongues, to speak readily, is fulfilled in the Church of Christ; plainly and distinctly confessing all Mysteries of Catholic faith & religion: and the like, which cannot be verified in the Jewish people."
+              "text": "Albeit many things in this and other places pertain first and literally to the old testament: yet all are in figure, & some things have no other literal sense but of the new testament. As this Prophecy of maffling, or unperfect tongues, to speak readily, is fulfilled in the Church of Christ; plainly and distinctly confessing all Mysteries of Catholic faith & religion: and the like, which cannot be verified in the Jewish people.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3658,13 +3816,14 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>* Noble cities of Juda.</i>"
+              "text": "<i>* Noble cities of Juda.</i>",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 10,
-          "text": "For after days & a year you shall be troubled that have confidence: for the vintage is at the end, the gathering will no more come."
+          "text": "For after days & a year you shall be troubled that have confidence: for the vintage is at an end, the gathering will no more come."
         },
         {
           "verse": 11,
@@ -3676,7 +3835,7 @@
         },
         {
           "verse": 13,
-          "text": "Upon the ground of my people shall thorns & briers come up: how much more upon all the houses of joy, of the city rejoicing?"
+          "text": "Upon the ground of my people shall thorns & briars come up: how much more upon all the houses of joy, of the city rejoicing?"
         },
         {
           "verse": 14,
@@ -3714,11 +3873,12 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Woe to thee <na>(a)</na> that spoilest, shalt not thyself also be spoiled? And that despisest shall not thyself also be despised? When thou shalt have ended spoiling, thou shalt be spoiled: when being wearied thou shalt cease to contemn, thou shalt be contemned.",
+          "text": "Woe to thee <na>(a)</na> that spoilest, shalt not thyself also be spoiled? And that despisest shalt not thyself also be despised? When thou shalt have ended spoiling, thou shalt be spoiled: when being wearied thou shalt cease to contemn, thou shalt be contemned.",
           "notes": [
             {
               "label": "a",
-              "text": "Sennacherib spoiled all the kingdom of Israel, and all Juda saving Jerusalem, which he also besieged, reproaching and despising God: but himself was therefore spoiled, and despised."
+              "text": "Sennacherib spoiled all the kingdom of Israel, and all Juda saving Jerusalem, which he also besieged, reproaching and despising God: but himself was therefore spoiled, and despised.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3740,11 +3900,12 @@
         },
         {
           "verse": 6,
-          "text": "And there shall be <na>(b)</na> saith in thy times: riches of salvation, wisdom & knowledge: the fear of our Lord, that is his treasure.",
+          "text": "And there shall be <na>(b)</na> faith in thy times: riches of salvation, wisdom & knowledge: the fear of our Lord, that is his treasure.",
           "notes": [
             {
               "label": "b",
-              "text": "Fidelity in performing promises of good things temporal and spiritual."
+              "text": "Fidelity in performing promises of good things temporal and spiritual.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3754,7 +3915,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Messengers sent to procure peace shall mourn, because they cannot obtain it."
+              "text": "Messengers sent to procure peace shall mourn, because they cannot obtain it.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3822,7 +3984,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "Both prophecies & histories testify that terrene Jerusalem was subject to destruction, and was destroyed, and therefore this is necessarily to be understood of the Church of Christ, against which hell gates shall never prevail."
+              "text": "Both prophecies & histories testify that terrene Jerusalem was subject to destruction, and was destroyed, and therefore this is necessarily to be understood of the Church of Christ, against which hell gates shall never prevail.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3832,7 +3995,7 @@
         },
         {
           "verse": 22,
-          "text": "For the Lord is our judge, the Lord is our law maker, the Lord is our King: he will save us."
+          "text": "For the Lord is our judge, the Lord is our lawmaker, the Lord is our King: he will save us."
         },
         {
           "verse": 23,
@@ -3854,11 +4017,13 @@
           "notes": [
             {
               "label": "a",
-              "text": "God willeth as well gentiles that were far off, to come near,"
+              "text": "God willeth as well gentiles that were far off, to come near,",
+              "kind": "gloss"
             },
             {
               "label": "b",
-              "text": "as also the Jews that were his peculiar people, all to attend, that he will destroy this whole world, before the general Judgement."
+              "text": "as also the Jews that were his peculiar people, all to attend, that he will destroy this whole world, before the general Judgement.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3868,7 +4033,7 @@
         },
         {
           "verse": 3,
-          "text": "Their slain shall be cast forth, and out of their carcasses shall rise a stink: the mountains shall melt with their blood."
+          "text": "Their slain shall be cast forth, and out of their carcasses shall rise a stench: the mountains shall melt with their blood."
         },
         {
           "verse": 4,
@@ -3884,7 +4049,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "No defence of strong places (signified by Bosra) shall save any men from destruction in the day of Judgement."
+              "text": "No defence of strong places (signified by Bosra) shall save any men from destruction in the day of Judgement.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3898,7 +4064,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "In the mean time, as a figure thereof, Sion shall be destroyed: and therefore the metaphorical destruction following, rather pertaineth to the state of the damned in the next world than to the afflicted in this life."
+              "text": "In the mean time, as a figure thereof, Sion shall be destroyed: and therefore the metaphorical destruction following, rather pertaineth to the state of the damned in the next world than to the afflicted in this life.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3920,15 +4087,15 @@
         },
         {
           "verse": 13,
-          "text": "And thorns and nettles shall grow up in the houses thereof, & the thistles in the munitions thereof: and it shall be the couch of dragons, and the pasture of ostriches."
+          "text": "And thorns and nettles shall grow up in the houses thereof, & the thistle in the munitions thereof: and it shall be the couch of dragons, and the pasture of ostriches."
         },
         {
           "verse": 14,
-          "text": "And spirits shall meet the onocentaurus, and the satyr shall cry one to the other, there hath the lamia lien, and found herself rest."
+          "text": "And spirits shall meet the onocentaurus, and the satyr shall cry one to the other, there hath the lamia lien, and found her self rest."
         },
         {
           "verse": 15,
-          "text": "There hath the hedgehog had an hole, and brought up whelps, and digged round about, and cherished them in the shadow thereof: thither are the kites gathered together, one to another."
+          "text": "There hath the hedgehog had an hole, and brought up whelps, and digged round about, and cherished them in the shadow thereof: thither are the kites gathered together, one to an other."
         },
         {
           "verse": 16,
@@ -3950,7 +4117,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "An evident prophecy of the conversion of Gentiles. In whom the Church shall continually spring & flourish."
+              "text": "An evident prophecy of the conversion of Gentiles. In whom the Church shall continually spring & flourish.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3977,7 +4145,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Christ leaving all logical arguments, proved himself to be Messias by his works: <i>If ye believe not me</i> (saith our B. Saviour) <i>believe my works. Ioan. 10. v. 38.</i>"
+              "text": "Christ leaning all logical arguments, proved himself to be Messias by his works: <i>If ye believe not me</i> (saith our B. Saviour) <i>believe my works. Ioan. 10. v. 38.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -3999,7 +4168,7 @@
         },
         {
           "verse": 10,
-          "text": "And the redeemed of our Lord shall be converted, and shall come into Sion with praise, and everlasting joy shall be upon their head: they shall obtain joy and gladness, and sorrow and mourning shall fly away."
+          "text": "And the redeemed of our Lord shall be converted, and shall come into Sion with praise, and everlasting joy shall be upon their head: they shall obtain joy and gladness, and sorrow and mourning shall flee away."
         }
       ]
     },
@@ -4017,7 +4186,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "That which the Prophet had foretold by way of prophecy, now he recordeth by way of history, & therefore these four next chapters are inserted in the fourth book of kings. <i>ch. 18. 19. and 20.</i> almost in the same words, & an abridgement thereof <i>2. Paral. 32.</i>"
+              "text": "That which the Prophet had foretold by way of prophecy, now he recordeth by way of history, & therefore these four next chapters are inserted in the fourth book of kings. <i>ch. 18. 19. and 20.</i> almost in the same words, & an abridgement thereof <i>2. Paral. 32.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -4047,13 +4217,14 @@
           "notes": [
             {
               "label": "b",
-              "text": "Such is the blindness, and malice of infidels, that they confound things done to destroy idolatry, as if the same were against God."
+              "text": "Such is the blindness, and malice of infidels, that they confound things done to destroy idolatry, as if the same were against God.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 8,
-          "text": "And now deliver thyself to my lord the king of the Assyrians, and I will give thee two thousand horses, neither shall thou be able of thyself to give riders for them."
+          "text": "And now deliver thyself to my lord the king of the Assyrians, and I will give thee two thousand horses, neither shalt thou be able of thyself to give riders for them."
         },
         {
           "verse": 9,
@@ -4061,7 +4232,7 @@
         },
         {
           "verse": 10,
-          "text": "and now am I come up without the Lord unto this land to destroy it? The Lord saith to me: Go up against this land, and destroy it."
+          "text": "and now am I come up without the Lord unto this land to destroy it? The Lord said to me: Go up against this land, and destroy it."
         },
         {
           "verse": 11,
@@ -4089,7 +4260,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Do that is profitable for you. <i>4. Reg. 18. v. 31.</i>"
+              "text": "Do that is profitable for you. <i>4. Reg. 18. v. 31.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -4107,7 +4279,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "Many in Samaria served false gods which could not defend them: others served God almighty who for their good suffered them to be afflicted."
+              "text": "Many in Samaria served false gods which could not defend them: others served God almighty who for their good suffered them to be afflicted.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4140,11 +4313,13 @@
           "notes": [
             {
               "label": "a",
-              "text": "Renting or cutting of garments was a ceremony, to shew internal sorrow."
+              "text": "Renting or cutting of garments was a ceremony, to shew internal sorrow.",
+              "kind": "gloss"
             },
             {
               "label": "b",
-              "text": "And sackcloth was an habit of penitents for sins."
+              "text": "And sackcloth was an habit of penitents for sins.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4198,7 +4373,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "That which happened to all these infidel Kings, fell also upon Sennacherib King of Assyrians shortly after he had thus bragged, or rather greater ruin and misery. <i>v. 36. & 38.</i>"
+              "text": "That which happened to all these infidel Kings, fell also upon Sennacherib King of Assyrians shortly after he had thus bragged, or rather greater ruin and misery. <i>v. 36. & 38.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -4268,11 +4444,12 @@
         },
         {
           "verse": 30,
-          "text": "<na>(d)</na> But to thee this shall be a sign: eat this year the things that grow to themselves, and in the second year eat fruits: but in the third year sow & reap, & plant vineyards, and eat the fruit of them.",
+          "text": "<na>(d)</na> But to thee this shall be a sign: eat this year the things that grow of themselves, and in the second year eat fruits: but in the third year sow & reap, & plant vineyards, and eat the fruit of them.",
           "notes": [
             {
               "label": "d",
-              "text": "He turneth his speech to Ezechias."
+              "text": "He turneth his speech to Ezechias.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4299,7 +4476,7 @@
         },
         {
           "verse": 36,
-          "text": "<cr>[1]</cr> And the Angel of our Lord came forth, and struck in the camp of the Assyrians an hundred eighty five thousand. And they arose in the morning, and behold, all were carcasses of dead men.",
+          "text": "<cr>[1]</cr> And the Angel of our Lord came forth, and stroke in the camp of the Assyrians an hundred eighty five thousand. And they arose in the morning, and behold, all were carcasses of dead men.",
           "cross_refs": [
             {
               "text": "Tob. 1. Eccl. 48. 1. Mac. 7. 2. Mac. 8."
@@ -4312,7 +4489,7 @@
         },
         {
           "verse": 38,
-          "text": "And it came to pass, when he adored in the temple of Nesroch his god, Adramelech & Sarasar his sons struck him with the sword: and they fled into the land of Ararat, & Asarhaddon his son reigned for him."
+          "text": "And it came to pass, when he adored in the temple of Nesroch his god, Adramelech & Sarasar his sons stroke him with the sword: and they fled into the land of Ararat, & Asarhaddon his son reigned for him."
         }
       ],
       "summary": "King Ezechias requesteth the prayers of Isaie the Prophet, 6. who assureth the King of God's help. (8. In the mean time the enemies threatening and blaspheming, 14. King Ezechias prayeth.) 21. God promiseth to protect Jerusalem: 30. and by an Angel killeth in one night an hundred eighty five thousand Assirians. 37. Their King returneth to Ninive and is slain by his own sons."
@@ -4331,11 +4508,13 @@
           "notes": [
             {
               "label": "a",
-              "text": "After the Assyrians were slain, King Ezechias was visited with a dangerous sickness, to keep him in the fear of God, lest much joy should bring him into oblivion of his duty."
+              "text": "After the Assyrians were slain, King Ezechias was visited with a dangerous sickness, to keep him in the fear of God, lest much joy should bring him into oblivion of his duty.",
+              "kind": "gloss"
             },
             {
               "label": "b",
-              "text": "It was first revealed to the Prophet that the King's sickness was deadly."
+              "text": "It was first revealed to the Prophet that the King's sickness was deadly.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4357,7 +4536,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Secondly that God would add 15. years to his life: which could not be said, <i>to be added,</i> except his life according to natural causes had been at an end. <i>S. Aug. li. 6. c. 17. de Gen. ad lit.</i>"
+              "text": "Secondly that God would add 15. years to his life: which could not be said, <i>to be added,</i> except his life according to natural causes had been at an end. <i>S. Aug. li. 6. c. 17. de Gen. ad lit.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -4371,7 +4551,7 @@
         },
         {
           "verse": 8,
-          "text": "Behold I will make the shadow of the lines return, by the which it is now gone down in the dial of Achaz in the sun, back-ward ten lines. And the sun returned ten lines by the degrees whereby it was gone down."
+          "text": "Behold I will make the shadow of the lines return, by the which it is now gone down in the dial of Achaz in the sun, backward ten lines. And the sun returned ten lines by the degrees whereby it was gone down."
         },
         {
           "verse": 9,
@@ -4383,7 +4563,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "In this Canticle the King reciteth his afflictions of mind, for that he should part out of this world, in the flower of his age."
+              "text": "In this Canticle the King reciteth his afflictions of mind, for that he should part out of this world, in the flower of his age.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4393,11 +4574,12 @@
         },
         {
           "verse": 12,
-          "text": "My <na>(e)</na> generation is taken away; and is wrapped together from me, as the tent of shepherds: My life is cut off, as by a weaver; whilst I yet began he cut me off: from morning until night thou wilt make an end of me.",
+          "text": "My <na>(e)</na> generation is taken away; and is wrapped together from me, as the tent of shepherds: My life is cut off, as by a weaver; whiles I yet began he cut me off: from morning until night thou wilt make an end of me.",
           "notes": [
             {
               "label": "e",
-              "text": "And without children for Manasses was born three years after being 12. years old when he began to reign. <i>4. Reg. 21.</i>"
+              "text": "And without children for Manasses was born three years after being 12. years old when he began to reign. <i>4. Reg. 21.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -4439,7 +4621,8 @@
           "notes": [
             {
               "label": "f",
-              "text": "The Prophet ordained this medicine:"
+              "text": "The Prophet ordained this medicine:",
+              "kind": "gloss"
             }
           ]
         },
@@ -4449,7 +4632,8 @@
           "notes": [
             {
               "label": "g",
-              "text": "and the King also demanded a sign before he sang the Canticle."
+              "text": "and the King also demanded a sign before he sang the Canticle.",
+              "kind": "gloss"
             }
           ]
         }
@@ -4466,15 +4650,19 @@
             {
               "text": "4. Reg. 20."
             }
+          ],
+          "xrefs": [
+            "4.Reg. 20."
           ]
         },
         {
           "verse": 2,
-          "text": "And Ezechias <na>(a)</na> rejoiced upon them, and he shewed them the storehouse of aromatical spices, & of silver, and of gold, and of sweet-odours and of the best ointment, and all the store houses of his furniture, and all things that were found in his treasures. There was not any thing, which Ezechias shewed them not in his house, and in all his dominion.",
+          "text": "And Ezechias <na>(a)</na> rejoiced upon them, and he shewed them the storehouse of aromatical spices, & of silver, and of gold, and of sweet-odours and of the best ointment, and all the storehouses of his furniture, and all things that were found in his treasures. There was not any thing, which Ezechias shewed them not in his house, and in all his dominion.",
           "notes": [
             {
               "label": "a",
-              "text": "In this honorable embassage Ezechias rejoiced immoderately and unwisely shewed his treasures, which therefore the Prophet reprehended. And upon this occasion prophesied that the Babylonians should carry away all that treasure, and his children into captivity."
+              "text": "In this honorable embassage Ezechias rejoiced immoderately and unwisely shewed his treasures, which therefore the Prophet reprehended. And upon this occasion prophesied that the Babylonians should carry away all that treasure, and his children into captivity.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4504,7 +4692,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Not for want of affection towards his posterity, but seeing he durst not request more, he prayed for peace in his own days."
+              "text": "Not for want of affection towards his posterity, but seeing he durst not request more, he prayed for peace in his own days.",
+              "kind": "gloss"
             }
           ]
         }
@@ -4520,11 +4709,13 @@
           "notes": [
             {
               "label": "a",
-              "text": "The Prophet alludeth to the comfort of the Jews, when they should be delivered from captivity of Babylon: but principally prophesieth of man's delivery from sin by Christ."
+              "text": "The Prophet alludeth to the comfort of the Jews, when they should be delivered from captivity of Babylon: but principally prophesieth of man's delivery from sin by Christ.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "The sixth part. Of the delivery from sin by Christ."
+              "text": "The sixth part. Of the delivery from sin by Christ.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4543,8 +4734,12 @@
           "notes": [
             {
               "label": "b",
-              "text": "An evident prophecy of S. John Baptist."
+              "text": "An evident prophecy of S. John Baptist.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Mat. 3. Mar. 1. Luc. 3. Ioan. 1."
           ]
         },
         {
@@ -4583,8 +4778,12 @@
           "notes": [
             {
               "label": "c",
-              "text": "This is also manifest of Christ's preaching in the mountain: & of his Apostles, and Apostolical preachers."
+              "text": "This is also manifest of Christ's preaching in the mountain: & of his Apostles, and Apostolical preachers.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Mat. 5."
           ]
         },
         {
@@ -4606,7 +4805,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "God's power and benevolence in creating & governing all this world, is a sign that he both can and will bestow these great benefits of grace upon all nations."
+              "text": "God's power and benevolence in creating & governing all this world, is a sign that he both can and will bestow these great benefits of grace upon all nations.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4629,7 +4829,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>* least dust, or atomus.</i>"
+              "text": "<i>* least dust, or atomus.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -4652,7 +4853,7 @@
         },
         {
           "verse": 19,
-          "text": "Hath the artificer cast a sculptile? or hath the goldsmith figured it with gold, or the silversmith with plates of silver?"
+          "text": "Hath the artificer cast a sculptil? or hath the goldsmith figured it with gold, or the silversmith with plates of silver?"
         },
         {
           "verse": 20,
@@ -4664,7 +4865,8 @@
           "notes": [
             {
               "label": "e",
-              "text": "From the beginning the law of nature, afterwards the law of Moyses taught that he which made the world is God."
+              "text": "From the beginning the law of nature, afterwards the law of Moyses taught that he which made the world is God.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4678,7 +4880,8 @@
           "notes": [
             {
               "label": "f",
-              "text": "Wisest Philosophers know nothing, neither can consist but by him."
+              "text": "Wisest Philosophers know nothing, neither can consist but by him.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4731,7 +4934,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "God's expostulation with Islands, & other Gentiles living in idolatry, which implieth a prophecy of their conversion to Christ, pertaineth amongst others very particularly to our great Britainy, the greatest & most renowned Island of Europe. <i>See D. Bristow. Mot. 11.</i>"
+              "text": "God's expostulation with Islands, & other Gentiles living in idolatry, which implieth a prophecy of their conversion to Christ, pertaineth amongst others very particularly to our great Britain, the greatest & most renowned Island of Europe. <i>See D. Bristow. Mot. 11.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -4794,7 +4998,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "You that are as abjects contemned, & as dead men in the world, fear not, because Christ hath care to protect, & to reward you."
+              "text": "You that are as abjects contemned, & as dead men in the world, fear not, because Christ hath care to protect, & to reward you.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4832,7 +5037,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Only God, and those to whom he revealeth, can tell things to come, and therefore idols cannot foreshew what shall be, neither could tell beforehand things that are already come to pass."
+              "text": "Only God, and those to whom he revealeth, can tell things to come, and therefore idols cannot foreshew what shall be, neither could tell beforehand things that are already come to pass.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4872,7 +5078,7 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Behold <na>(a)</na> my servant, I will receive him: mine elect, my soul hath pleased it-self in him: <cr>[1]</cr> I have given my spirit upon him, he shall bring forth judgement to the Gentiles.",
+          "text": "Behold <na>(a)</na> my servant, I will receive him: mine elect, my soul hath pleased itself in him: <cr>[1]</cr> I have given my spirit upon him, he shall bring forth judgement to the Gentiles.",
           "cross_refs": [
             {
               "text": "Mat. 17."
@@ -4881,7 +5087,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Christ according to his humanity is the servant of God, by whom all other servants are redeemed, none else being able to satisfy for themselves, much less for others."
+              "text": "Christ according to his humanity is the servant of God, by whom all other servants are redeemed, none else being able to satisfy for themselves, much less for others.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4948,7 +5155,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Such haughty and covetous minds as expect their Messias to be a worldly and warlike conquerer, that will advance his followers to kingdoms or princedoms, and to abundance of temporal riches, shall be frustrate of their vain hopes. Whereas Christ our Saviour both by example and doctrine teacheth the contrary, willing his followers to learn of him to be poor in spirit, meek & humble in heart, and their reward shall be great in heaven, not in earth; they shall be happy not in external, but in eternal glory."
+              "text": "Such haughty and covetous minds as expect their Messias to be a worldly and warlike conqueror, that will advance his followers to kingdoms or princedoms, and to abundance of temporal riches, shall be frustrate of their vain hopes. Whereas Christ our Saviour both by example and doctrine teacheth the contrary, willing his followers to learn of him to be poor in spirit, meek & humble in heart, and their reward shall be great in heaven, not in earth; they shall be happy not in external, but in eternal glory.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5000,11 +5208,12 @@
       "verses": [
         {
           "verse": 1,
-          "text": "And now thus saith our Lord that <na>(a)</na> created thee, o Jacob, & formed thee, o Israel: Fear not, because I have redeemed thee, and called thee by the name: thou art mine.",
+          "text": "And now thus saith our Lord that <na>(a)</na> created thee, o Jacob, & formed thee, o Israel: Fear not, because I have redeemed thee, and called thee by thy name: thou art mine.",
           "notes": [
             {
               "label": "a",
-              "text": "Christ calleth and endueth sinners with grace, without any precedent good work or desire in them, even as he createth of nothing."
+              "text": "Christ calleth and induceth sinners with grace, without any precedent good work or desire in them, even as he createth of nothing.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5014,13 +5223,14 @@
           "notes": [
             {
               "label": "b",
-              "text": "In all tribulations & persecutions Christ protecteth his servants, not suffering them to be tempted further than they may resist if they will. Whereby the Church still remaineth incontaminate, and shall never be destroyed."
+              "text": "In all tribulations & persecutions Christ protecteth his servants, not suffering them to be tempted further than they may resist if they will. Whereby the Church still remaineth incontaminate, and shall never be destroyed.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 3,
-          "text": "Because I am the Lord thy God the holy one of Israel thy saviour, I have given Ægypt thy propitiation, Æthiopia and Saba for thee."
+          "text": "Because I am the Lord thy God the holy one of Israel thy saviour, I have given Ægypt thy propitiation, Æthiopia and Sale for thee."
         },
         {
           "verse": 4,
@@ -5060,7 +5270,7 @@
         },
         {
           "verse": 13,
-          "text": "And from the beginning I myself, and there is not that can deliver out of my hand: I will work, and who shall turn it away?"
+          "text": "And from the beginning I my self, and there is not that can deliver out of my hand: I will work, and who shall turn it away?"
         },
         {
           "verse": 14,
@@ -5068,7 +5278,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "God made Cyrus conqueror of Babylon, not for his own sake, but for Israel, that he might release their captivity. For God perpetually disposeth of Kingdoms for"
+              "text": "God made Cyrus conqueror of Babylon, not for his own sake, but for Israel, that he might release their captivity. For God perpetually disposeth of Kingdoms for",
+              "kind": "gloss"
             }
           ]
         },
@@ -5107,7 +5318,7 @@
         },
         {
           "verse": 22,
-          "text": "Thou hast not invocated me, o Jacob, neither hast thou laboured in me, o Israel."
+          "text": "Thou hast not invocated me, o Jacob, neither hast thou laboured in men, o Israel."
         },
         {
           "verse": 23,
@@ -5131,11 +5342,13 @@
           "notes": [
             {
               "label": "d",
-              "text": "The sin of Adam contaminating all mankind was not purged by any:"
+              "text": "The sin of Adam contaminating all mankind was not purged by any:",
+              "kind": "gloss"
             },
             {
               "label": "e",
-              "text": "All Patriarchs, Priests, Prophets, & all others sinning, till Christ the innocent lamb came to take away the sin of the world."
+              "text": "All Patriarchs, Priests, Prophets, & all others sinning, till Christ the innocent lamb came to take away the sin of the world.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5155,11 +5368,12 @@
         },
         {
           "verse": 2,
-          "text": "Thus saith the Lord that made and formed thee, the helper <na>(a)</na> from the womb: fear not o my servant Jacob, and thou most righteous whom I have chosen.",
+          "text": "Thus saith the Lord that made and formed thee, thy helper <na>(a)</na> from the womb: fear not o my servant Jacob, and thou most righteous whom I have chosen.",
           "notes": [
             {
               "label": "a",
-              "text": "God's election preventeth man's good endeavour for without grace none could return to God."
+              "text": "God's election preventeth man's good endeavour for without grace none could return to God.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5191,7 +5405,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Idolaters are foolish in leaving God, who is eternal and to trust in idols that neither can shew what was from the beginning, nor prophesy things to come."
+              "text": "Idolaters are foolish in leaving God, who is eternal and to trust in idols that neither can shew what was from the beginning, nor prophesy things to come.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5209,13 +5424,14 @@
           "notes": [
             {
               "label": "c",
-              "text": "All that is here said of the vanity of idols & foolish impiety of idolaters, may be referred (saith S. Ierom in this"
+              "text": "All that is here said of the vanity of idols & foolish impiety of idolaters, may be referred (saith S. Ierom in this",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 10,
-          "text": "Who hath formed a god, and molten a sculptile profitable to nothing?"
+          "text": "Who hath formed a god, and molten a sculptil profitable to nothing?"
         },
         {
           "verse": 11,
@@ -5232,15 +5448,21 @@
         },
         {
           "verse": 13,
-          "text": "The carpenter hath stretched out a rule, he hath formed it with a plain: he hath made it with corners, and hath fashioned it round with the compass: and he hath made the image of a man, as it were a beautiful man dwelling in a house."
+          "text": "The carpenter hath stretched out a rule, he hath formed it with a plain: he hath made it with corners, and hath fashioned it round with the compass: and he hath made the image of a man, as it were a beautiful man dwelling in a house.",
+          "cross_refs": [
+            {
+              "text": "sup. 15",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 14,
-          "text": "He hath cut down cedars, taken the elm tree, & the oak that stood among the trees of the forest: he hath planted the pine tree, which the rain nourished."
+          "text": "He hath cut down cedars, taken the helm tree, & the oak that stood among the trees of the forest: he hath planted the pine tree, which the rain nourished."
         },
         {
           "verse": 15,
-          "text": "And it was made a fire for men: he took of them, and was warmed: and kindled them, & baked bread: but of the rest he wrought a god, & adored: he made a sculptile, and bowed down before it."
+          "text": "And it was made a fire for men: he took of them, and was warmed: and kindled them, & baked bread: but of the rest he wrought a god, & adored: he made a sculptil, and bowed down before it."
         },
         {
           "verse": 16,
@@ -5248,7 +5470,7 @@
         },
         {
           "verse": 17,
-          "text": "But the rest thereof he made a god, and a sculptile to himself, he boweth before it, and beseecheth, saying: Deliver me, because thou art my God."
+          "text": "But the rest thereof he made a god, and a sculptil to himself, he boweth before it, and beseecheth, saying: Deliver me, because thou art my God."
         },
         {
           "verse": 18,
@@ -5288,7 +5510,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "In all this prophecy of the Church of Christ the Prophet alludeth to the history of Jerusalem destroyed by the Chaldees, and re-edified by permission of Cyrus, & Darius, in the times of Aggeus, & Zacharias."
+              "text": "In all this prophecy of the Church of Christ the Prophet alludeth to the history of Jerusalem destroyed by the Chaldees, and reedified by permission of Cyrus, & Darius, in the times of Aggeus, & Zacharias.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5312,7 +5535,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Because all Kings that reign among the Jews were anointed with oil, Cyrus is called Christ, though he was not ordained with this ceremony of anointing."
+              "text": "Because all Kings that reigned among the Jews were anointed with oil, Cyrus is called Christ, though he was not ordained with this ceremony of anointing.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5335,11 +5559,13 @@
           "notes": [
             {
               "label": "b",
-              "text": "S. Ierom noteth here out of Iosephus <i>(l. 11. Antiq.)</i> that Cyrus finding his name long before prophesied by Isaias, became very benevolous to the Jews, loving them as the familiar servants of God."
+              "text": "S. Ierom noteth here out of Iosephus <i>(l. 11. Antiq.)</i> that Cyrus finding his name long before prophesied by Isaias, became very benevolous to the Jews, loving them as the familiar servants of God.",
+              "kind": "gloss"
             },
             {
               "label": "c",
-              "text": "But though he knew and professed one God, & no other <i>(1. Esd. 1.)</i> yet he was not converted in all points of religion, neither served God according to that general knowledge he had, & so knew not God rightly."
+              "text": "But though he knew and professed one God, & no other <i>(1. Esd. 1.)</i> yet he was not converted in all points of religion, neither served God according to that general knowledge he had, & so knew not God rightly.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5361,7 +5587,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "The Prophet in the former prophecy contemplating Christ as in a figure, now elevated more in spirit, prophesieth of Christ only, who built his Church upon a sure rock. Not of Cyrus, who being advanced by God, yet perfectly knew not God, v. 4. nor of Zorobabel, who did not release the people from captivity, but together with others was released, neither had the title of a King, but lived in subjection to other Kings. S. Ierom in hunc locum."
+              "text": "The Prophet in the former prophecy contemplating Christ as in a figure, now elevated more in spirit, prophesieth of Christ only, who built his Church upon a sure rock. Not of Cyrus, who being advanced by God, yet perfectly knew not God, v. 4. nor of Zorobabel, who did not release the people from captivity, but together with others was released, neither had the title of a King, but lived in subjection to other Kings. S. Ierom in hunc locum.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5450,7 +5677,8 @@
         "notes": [
           {
             "label": "1",
-            "text": "The 7. part. The delivery of the Jews from Babylon by Cyrus King of Medes and Persians, now also of Assyrians."
+            "text": "The 7. part. The delivery of the Jews from Babylon by Cyrus King of Medes and Persians, now also of Assyrians.",
+            "kind": "head"
           }
         ]
       }
@@ -5464,7 +5692,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Bel or Belus, called also Saturnus, was of such estimation, that they offered to him in sacrifice not only men that were taken captives, but also their own sons. Nabo, otherwise called Dagon, was an especial idol amongst the Philistiims. <i>1. Reg. 5.</i>"
+              "text": "Bel or Belus, called also Saturnus, was of such estimation, that they offered to him in sacrifice not only men that were taken captives, but also their own sons. Nabo, otherwise called Dagon, was an especial idol amongst the Philistiims. <i>1. Reg. 5.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -5515,7 +5744,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Not Cyrus (saith S. Ierom) but Christ the Orient star, prophesied by Balaam, <i>Num. 24.</i> whom the Sages came to adore from the East. <i>Mat. 2.</i>"
+              "text": "Not Cyrus (saith S. Ierom) but Christ the Orient star, prophesied by Balaam, <i>Num. 24.</i> whom the Sages came to adore from the East. <i>Mat. 2.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -5539,7 +5769,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Babylon not hitherto overcome at last was brought to misery and destruction."
+              "text": "Babylon not hitherto overcome at last was brought to misery and destruction.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5570,7 +5801,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "God's people contaminating themselves with sin, were suffered to fall into ignominious captivity; but God giveth them grace of repentance, & then severely punisheth their unmerciful afflicters & persecuters."
+              "text": "God's people contaminating themselves with sin, were suffered to fall into ignominious captivity; but God giveth them grace of repentance, & then severely punisheth their unmerciful afflicters & persecuters.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5584,6 +5816,10 @@
           "cross_refs": [
             {
               "text": "Apoc. 8."
+            },
+            {
+              "text": "Apoc. 1",
+              "source": "sancta"
             }
           ]
         },
@@ -5631,7 +5867,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "By waters in the Hebrew phrase is here understood the fountain, or spring, the Prophet speaking to those that were of the tribe of Juda: who especially challenged the preeminences and blessings of <i>Israel</i> the Patriarch, but had not his virtues of fortitude, and internal sight of God, signified by the name <i>Israel.</i>"
+              "text": "By waters in the Hebrew phrase is here understood the fountain, or spring, the Prophet speaking to those that were of the tribe of Juda: who especially challenged the preeminences and blessings of <i>Israel</i> the Patriarch, but had not his virtues of fortitude, and internal sight of God, signified by the name <i>Israel.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -5649,7 +5886,7 @@
         },
         {
           "verse": 5,
-          "text": "I foretold thee of old: before they came I told thee, lest perhaps thou shouldst say: My idols have done these things, & my sculptiles & moltens have commanded these things."
+          "text": "I foretold thee of old: before they came I told thee, lest perhaps thou shouldest say: My idols have done these things, & my sculptils & moltens have commanded these things."
         },
         {
           "verse": 6,
@@ -5669,7 +5906,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "God spareth & conserveth his people, not for their merits but of his mercy, shewing his benignity that they may repent if they will."
+              "text": "God spareth & conserveth his people, not for their merits but of his mercy, shewing his benignity that they may repent if they will.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5715,19 +5953,27 @@
         },
         {
           "verse": 20,
-          "text": "Come forth out of Babylon, fly from the Chaldees, shew it forth in the voice of exultation: make this to be heard, and speak it out even to the ends of the earth. Say: Our Lord hath redeemed his servant Jacob. <cr>[1]</cr>",
+          "text": "Come forth out of Babylon, flee from the Chaldees, shew it forth in the voice of exultation: make this to be heard, and speak it out even to the ends of the earth. Say: Our Lord hath redeemed his servant Jacob. <cr>[1]</cr>",
           "cross_refs": [
             {
               "text": "Iere. 21."
+            },
+            {
+              "text": "Jere. 11",
+              "source": "sancta"
             }
           ]
         },
         {
           "verse": 21,
-          "text": "They thirsted not in the desert, when he brought them forth: water out of the rock he brought forth to them, and he clove the rocks, and there flowed waters. <cr>[1]</cr>",
+          "text": "They thirsted not in the desert, when he brought them forth: water out of the rock he brought forth to them, and he clove the rock, and there flowed waters. <cr>[1]</cr>",
           "cross_refs": [
             {
               "text": "Exod. 1. Nu. 20."
+            },
+            {
+              "text": "Exo. 17",
+              "source": "sancta"
             }
           ]
         },
@@ -5737,7 +5983,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "These promises of reconciliation to God, and of peace, pertain to the penitent, not to the obstinate in impiety."
+              "text": "These promises of reconciliation to God, and of peace, pertain to the penitent, not to the obstinate in impiety.",
+              "kind": "gloss"
             }
           ]
         }
@@ -5753,7 +6000,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "This word <i>from afar,</i> & the like doth convince (saith S. Ierom) that the Prophet speaketh of all nations to be converted to Christ. And as this Prophet hath already spoken much of Christ and his Church, so henceforth more especially he sheweth himself rather an Evangelist, or an Apostle, than only a Prophet: which S. Ierom testifieth of him. <i>Epist. ad Paulin.</i>"
+              "text": "This word <i>from afar,</i> & the like doth convince (saith S. Ierom) that the Prophet speaketh of all nations to be converted to Christ. And as this Prophet hath already spoken much of Christ and his Church, so henceforth more especially he sheweth himself rather an Evangelist, or an Apostle, than only a Prophet: which S. Ierom testifieth of him. <i>Epist. ad Paulin.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -5775,7 +6023,7 @@
         },
         {
           "verse": 6,
-          "text": "<cr>[1]</cr> And he said: It is a small thing that thou shouldst be my servant to raise up the tribes of Jacob, and to convert the dregs of Israel. Behold, I have given thee to be the light of the Gentiles, that thou mayst be salvation even to the farthest part of the earth.",
+          "text": "<cr>[1]</cr> And he said: It is a small thing that thou shouldest be my servant to raise up the tribes of Jacob, and to convert the dregs of Israel. Behold, I have given thee to be the light of the Gentiles, that thou mayst be salvation even to the farthest part of the earth.",
           "cross_refs": [
             {
               "text": "Act. 13."
@@ -5826,7 +6074,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "The Church of the old testament lamenteth that she seemeth to be forsaken, in respect of the many great benefits bestowed on the Church of Christ."
+              "text": "The Church of the old testament lamenteth that she seemeth to be forsaken, in respect of the many great benefits bestowed on the Church of Christ.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5836,7 +6085,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "But God answereth that he cannot, & will not forget, nor forsake his Church which indeed is all one in the old and new testament, only differing in state, and therefore that which he doth to her in the new testament, pertaineth to the whole Church in general of all times & all places."
+              "text": "But God answereth that he cannot, & will not forget, nor forsake his Church which indeed is all one in the old and new testament, only differing in state, and therefore that which he doth to her in the new testament, pertaineth to the whole Church in general of all times & all places.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5887,7 +6137,7 @@
         },
         {
           "verse": 26,
-          "text": "And I will feed thine enemies with their own flesh: & as with new wine, so shall they be imbrued with their own blood: and all flesh shall know, that I am the Lord that save thee, & thy redeemer the mighty one of Jacob."
+          "text": "And I will feed thine enemies with their own flesh: & as with new wine, so shall they be embrewed with their own blood: and all flesh shall know, that I am the Lord that save thee, & thy redeemer the mighty one of Jacob."
         }
       ],
       "summary": "Christ shall lead the Gentiles to salvation, even of the islands and uttermost parts of the world. 10. By him the faithful shall receive much grace, 14. and comfort. 18. The Church still increasing, 21. admiring her own felicity, 25. and the destruction of her enemies. <na>[1]</na>",
@@ -5907,15 +6157,18 @@
           "notes": [
             {
               "label": "a",
-              "text": "God divorced not the Synagogue from him of hardness of heart."
+              "text": "God divorced not the Synagogue from him of hardness of heart.",
+              "kind": "gloss"
             },
             {
               "label": "b",
-              "text": "Neither delivered her for payment, as though he were in debt to any creditor."
+              "text": "Neither delivered her for payment, as though he were in debt to any creditor.",
+              "kind": "gloss"
             },
             {
               "label": "c",
-              "text": "But her own revolt, and iniquities separated her from Christ."
+              "text": "But her own revolt, and iniquities separated her from Christ.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5938,7 +6191,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "Skill of tongue how to speak, & discretion when & where, was given to Isaias, <i>ch. 6. v. 6.</i> Much more (saith S. Ierom) to Christ: who spake in his life, was silent in his passion, and now speaketh by his Apostles, and other pastors."
+              "text": "Skill of tongue how to speak, & discretion when & where, was given to Isaias, <i>ch. 6. v. 6.</i> Much more (saith S. Ierom) to Christ: who spake in his life, was silent in his passion, and now speaketh by his Apostles, and other pastors.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5992,7 +6246,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "In the next verse the <i>rock</i> & <i>cave</i> are explicated to signify Abraham and Sara, who are proposed for examples to be imitated, being so noble progenitors of the Jews. S. Paul exhorteth his country men, and in them all Christians, the like in spiritual progenitors, that first plant Catholic Religion in any place saying: <i>Remember your Prelates which have spoken the word of God to you: Heb. 13.</i>"
+              "text": "In the next verse the <i>rock</i> & <i>cave</i> are explicated to signify Abraham and Sara, who are proposed for examples to be imitated, being so noble progenitors of the Jews. S. Paul exhorteth his country men, and in them all Christians, the like in spiritual progenitors, that first plant Catholic Religion in any place saying: <i>Remember your Prelates which have spoken the word of God to you: Heb. 13.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -6022,6 +6277,10 @@
           "cross_refs": [
             {
               "text": "Ps. 36."
+            },
+            {
+              "text": "Psal. 56",
+              "source": "sancta"
             }
           ]
         },
@@ -6031,11 +6290,12 @@
         },
         {
           "verse": 9,
-          "text": "Arise, arise, put on strength o arm of our Lord: arise as in the old days, in the generations of worlds. <na>(b)</na> Hast not thou strucken the proud, & wounded the dragon?",
+          "text": "Arise, arise, put on strength o arm of our Lord: arise as in the old days, in the generations of worlds. <na>(b)</na> Hast not thou stricken the proud, & wounded the dragon?",
           "notes": [
             {
               "label": "b",
-              "text": "As God destroyed Pharao the proud dragon in the sea, which he dried up for his people to pass, so he will overthrow the devil, & deliver captives from sin & tyranny."
+              "text": "As God destroyed Pharao the proud dragon in the sea, which he dried up for his people to pass, so he will overthrow the devil, & deliver captives from sin & tyranny.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6050,7 +6310,7 @@
         },
         {
           "verse": 11,
-          "text": "And now they that are redeemed of our Lord shall return, and shall come into Sion praying, and joy everlasting upon their heads, they shall possess joy and gladness, sorrow and mourning shall fly away."
+          "text": "And now they that are redeemed of our Lord shall return, and shall come into Sion praying, and joy everlasting upon their heads, they shall possess joy and gladness, sorrow and mourning shall flee away."
         },
         {
           "verse": 12,
@@ -6083,7 +6343,7 @@
         },
         {
           "verse": 18,
-          "text": "There is none that can uphold her of all the children that she hath born: and there is none that taketh her by the hand of all the children, that she hath brought up."
+          "text": "There is none that can uphold her of all the children that she hath borne: and there is none that taketh her by the hand of all the children, that she hath brought up."
         },
         {
           "verse": 19,
@@ -6096,7 +6356,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Spoil & destruction shall happen by famine & sword."
+              "text": "Spoil & destruction shall happen by famine & sword.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6139,11 +6400,13 @@
           "notes": [
             {
               "label": "a",
-              "text": "The Jews had not wronged the Babylonians, neither had mankind sinned against the devil, but both had offended God."
+              "text": "The Jews had not wronged the Babylonians, neither had mankind sinned against the devil, but both had offended God.",
+              "kind": "gloss"
             },
             {
               "label": "b",
-              "text": "Who of his bounty payed man's ransom: which no other man was able to pay."
+              "text": "Who of his bounty payed man's ransom: which no other man was able to pay.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6167,7 +6430,7 @@
         },
         {
           "verse": 6,
-          "text": "For this cause shall my people know my name in that day: because I myself that spake, lo am present."
+          "text": "For this cause shall my people know my name in that day: because I my self that spake, lo am present."
         },
         {
           "verse": 7,
@@ -6191,7 +6454,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Communication with infidels in spiritual things is in no case lawful, as S. Paul sheweth by this text. <i>2. Cor. 6. v. 17.</i>"
+              "text": "Communication with infidels in spiritual things is in no case lawful, as S. Paul sheweth by this text. <i>2. Cor. 6. v. 17.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -6205,7 +6469,7 @@
         },
         {
           "verse": 14,
-          "text": "As many have been astonished upon thee, so shall his look among men be inglorious, and his form among the sons of men."
+          "text": "As many have been astonied upon thee, so shall his look among men be inglorious, and his form among the sons of men."
         },
         {
           "verse": 15,
@@ -6223,7 +6487,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "That many hearing the truth preached do not believe it, is by their obstinate freewill, <i>because they do not obey the Gospel. Ro. 10. v. 16.</i> when their understanding directeth them that it is not disagreeable to reason."
+              "text": "That many hearing the truth preached do not believe it, is by their obstinate free-will, <i>because they do not obey the Gospel. Ro. 10. v. 16.</i> when their understanding directeth them that it is not disagreeable to reason.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6237,7 +6502,7 @@
         },
         {
           "verse": 4,
-          "text": "He surely hath born our infirmities, and our sorrows he hath carried: and we have thought him as it were a leper, & strucken of God, and humbled."
+          "text": "He surely hath borne our infirmities, and our sorrows he hath carried: and we have thought him as it were a leper, & stricken of God, and humbled."
         },
         {
           "verse": 5,
@@ -6253,7 +6518,7 @@
         },
         {
           "verse": 8,
-          "text": "from distress and from judgement he was taken up: who shall declare his generation? Because he is cut out of the land of the living, for the wickedness of my people have I strucken him."
+          "text": "from distress and from judgement he was taken up: who shall declare his generation? Because he is cut out of the land of the living, for the wickedness of my people have I stricken him."
         },
         {
           "verse": 9,
@@ -6261,11 +6526,13 @@
           "notes": [
             {
               "label": "b",
-              "text": "Our Saviour died and was buried where the wicked were commonly punished:"
+              "text": "Our Saviour died and was buried where the wicked were commonly punished:",
+              "kind": "gloss"
             },
             {
               "label": "c",
-              "text": "Yet was buried richly & honourably by Ioseph of Aremathia & Nicodemus."
+              "text": "Yet was buried richly & honourably by Ioseph of Aremathia & Nicodemus.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6298,8 +6565,12 @@
           "notes": [
             {
               "label": "a",
-              "text": "In the old testament Gentiles were barren bringing no fruit to God, but in the new testament they are fruitful, & the Jews are barren, till the latter end of the world, when they also shall be fruitful again."
+              "text": "In the old testament Gentiles were barren bringing no fruit to God, but in the new testament they are fruitful, & the Jews are barren, till the later end of the world, when they also shall be fruitful again.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Gal. 4."
           ]
         },
         {
@@ -6312,7 +6583,7 @@
         },
         {
           "verse": 4,
-          "text": "Fear not, because thou shall not be confounded, nor blush: for thou shalt not be ashamed, because thou shalt forget the confusion of thy youth, and the reproach of thy widowhood thou shalt remember no more."
+          "text": "Fear not, because thou shalt not be confounded, nor blush: for thou shalt not be ashamed, because thou shalt forget the confusion of thy youth, and the reproach of thy widowhood thou shalt remember no more."
         },
         {
           "verse": 5,
@@ -6346,8 +6617,12 @@
           "notes": [
             {
               "label": "b",
-              "text": "As it is assured that the world shall never be drowned again with water, so it is, that the Church of Christ shall never be suppressed."
+              "text": "As it is assured that the world shall never be drowned again with water, so it is, that the Church of Christ shall never be suppressed.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Gen. 9."
           ]
         },
         {
@@ -6356,7 +6631,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Another assurance, that mountains & hills shall rather be moved, yea some mountains shall be removed, but the Church shall be always firm and perpetual."
+              "text": "An other assurance, that mountains & hills shall rather be moved, yea some mountains shall be removed, but the Church shall be always firm and perpetual.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6409,7 +6685,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Grace is offered to all, but those only are justified, and replenished with more grace and spiritual gifts, that cooperate, doing that which in them lieth, desiring & thirsting justice, for such (saith our Saviour) shall have their fill. <i>Mat. 5. v. 6.</i>"
+              "text": "Grace is offered to all, but those only are justified, and replenished with more grace and spiritual gifts, that cooperate, doing that which in them lieth, desiring & thirsting justice, for such (saith our Saviour) shall have their fill. <i>Mat. 5. v. 6.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -6436,7 +6713,7 @@
         },
         {
           "verse": 6,
-          "text": "Seek ye our Lord whilst he may be found, invocate him, whilst he is near."
+          "text": "Seek ye our Lord whiles he may be found, invocate him, whiles he is near."
         },
         {
           "verse": 7,
@@ -6444,7 +6721,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "The beginning of God's service is to forsake the way of wickedness."
+              "text": "The beginning of God's service is to forsake the way of wickedness.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6458,7 +6736,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "The ways of God's service, and of serving this world, are so opposite and contrary, that it is unpossible to walk in them both at once. No man can serve these two masters, God and this world. We must therefore so use this world, that we may serve God, and inherit heaven."
+              "text": "The ways of God's service, and of serving this world, are so opposite and contrary, that it is unpossible to walk in them both at once. No man can serve these two masters, God and this world. We must therefore so use this world, that we may serve God, and inherit heaven.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6472,7 +6751,7 @@
         },
         {
           "verse": 12,
-          "text": "Because you shall go forth in joy, and in peace shall you be conducted, the mountains and the little hills shall sing praise before you, and all the woods of the country shall clap the hand."
+          "text": "Because you shall go forth in joy, and in peace shall you be conducted, the mountains and the little hills shall sing praise before you, and all the wood of the country shall clap the hand."
         },
         {
           "verse": 13,
@@ -6495,8 +6774,12 @@
           "notes": [
             {
               "label": "a",
-              "text": "Judgement is a right resolution to do God's will, and justice is the perfect performance thereof, as before is noted, <i>cha. 32.</i>"
+              "text": "Judgement is a right resolution to do God's will, and justice is the perfect performance thereof, as before is noted, <i>cha. 32.</i>",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Sap. 1."
           ]
         },
         {
@@ -6514,11 +6797,13 @@
           "notes": [
             {
               "label": "b",
-              "text": "Under the name of Sabbath is understood the observation of all the law."
+              "text": "Under the name of Sabbath is understood the observation of all the law.",
+              "kind": "gloss"
             },
             {
               "label": "c",
-              "text": "Those that of free election choose good things not commanded, deserve greater reward."
+              "text": "Those that of free election choose good things not commanded, deserve greater reward.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6549,7 +6834,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "The Prophet foreseeing in spirit the careless negligence of some Pastors, of just zeal & charity inveigheth against them: warning them of their grievous punishment."
+              "text": "The Prophet foreseeing in spirit the careless negligence of some Pastors, of just zeal & charity inveigheth against them: warning them of their grievous punishment.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6564,11 +6850,14 @@
             {
               "text": "Iere. 6. & 8. Sap. 2."
             }
+          ],
+          "xrefs": [
+            "Iere. 6. & 8. Sap. 2."
           ]
         },
         {
           "verse": 12,
-          "text": "Come, let us take wine, and be filled with drunkenness, and it shall be as today, so also tomorrow, and much more."
+          "text": "Come, let us take wine, and be filled with drunkenness, and it shall be as to day, so also tomorrow, and much more."
         }
       ],
       "summary": "God inviteth all men in thought and deed to keep his law: promiseth blessing and reward to those that profess and keep perpetual chastity, 9. and reproveth evil Pastors."
@@ -6582,15 +6871,18 @@
           "notes": [
             {
               "label": "a",
-              "text": "Just men dying seem to the wicked to perish."
+              "text": "Just men dying seem to the wicked to perish.",
+              "kind": "gloss"
             },
             {
               "label": "b",
-              "text": "But they are gathered to the happy society of other blessed souls."
+              "text": "But they are gathered to the happy society of other blessed souls.",
+              "kind": "gloss"
             },
             {
               "label": "c",
-              "text": "And commonly God so taketh away the just, when he will punish the wicked people, that they may not in this world see the general calamity of others."
+              "text": "And commonly God so taketh away the just, when he will punish the wicked people, that they may not in this world see the general calamity of others.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6600,7 +6892,7 @@
         },
         {
           "verse": 3,
-          "text": "But come you hither ye children of the witch, the seed of the adulterer, and of the harlot."
+          "text": "But come you hither ye children of the witch, the seed of the advouterer, and of the harlot."
         },
         {
           "verse": 4,
@@ -6620,7 +6912,7 @@
         },
         {
           "verse": 8,
-          "text": "And behind the door, and behind the post thou hast set thy memorial: because thou hast discovered thyself near me, and hast received an adulterer, thou hast enlarged thy bed, and made a covenant with them: thou hast loved their couch with open hand."
+          "text": "And behind the door, and behind the post thou hast set thy memorial: because thou hast discovered thyself near me, and hast received an advouterer, thou hast enlarged thy bed, and made a covenant with them: thou hast loved their couch with open hand."
         },
         {
           "verse": 9,
@@ -6661,25 +6953,26 @@
           "notes": [
             {
               "label": "c",
-              "text": "To the humble & contrite penitents God sheweth all benignity, and granteth wished good things: as prosperous winds to sea-faring travelers, & the like."
+              "text": "To the humble & contrite penitents God sheweth all benignity, and granteth wished good things: as prosperous winds to sea-faring travelers, & the like.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 17,
-          "text": "For the iniquity of his avarice I was angry, and have strucken him: I have hid my face from thee, and have taken indignation: and he hath gone wandering in the way of his own heart."
+          "text": "For the iniquity of his avarice I was angry, and have stricken him: I have hid my face from thee, and have taken indignation: and he hath gone wandering in the way of his own heart."
         },
         {
           "verse": 18,
-          "text": "Isaw his ways, and have healed him, and reduced him, and have restored consolations unto him, and to them that mourn for him."
+          "text": "I saw his ways, and have healed him, and reduced him, and have restored consolations unto him, and to them that mourn for him."
         },
         {
           "verse": 19,
-          "text": "I have created the fruit of the lips peace, peace to him that is far off, & that is near, saith our Lord, and I have healed him."
+          "text": "I have created the fruit of the lips peace, peace to him that is far off, & that is near, said our Lord, and I have healed him."
         },
         {
           "verse": 20,
-          "text": "But the impious are as it were the raging sea, which cannot be quiet, and the waves thereof overflow unto conculcation and mire."
+          "text": "But the impious are as it were the raging sea, which can not be quiet, and the waves thereof overflow unto conculcation and mire."
         },
         {
           "verse": 21,
@@ -6687,12 +6980,17 @@
           "cross_refs": [
             {
               "text": "Isa. 48. v. 22."
+            },
+            {
+              "text": "Isa. 46. v. 22",
+              "source": "sancta"
             }
           ],
           "notes": [
             {
               "label": "d",
-              "text": "Those that persist obstinate can have no remission."
+              "text": "Those that persist obstinate can have no remission.",
+              "kind": "gloss"
             }
           ]
         }
@@ -6708,7 +7006,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Many sinners are so fast asleep in their wickedness, that they cannot, or rather will not hear ordinary admonitions: to such therefore God's Preachers must cry, and not cease to cry, as with a loud trumpet exalt their voice, opportunely, importunely with all patience, & longamity, till they make <i>the deaf to hear,</i> to believe the truth, and <i>the dumb to speak,</i> that is, to profess virtue in word & deed. <i>Mar. 7.</i>"
+              "text": "Many sinners are so fast asleep in their wickedness, that they cannot, or rather will not hear ordinary admonitions: to such therefore God's Preachers must cry, and not cease to cry, as with a loud trumpet exalt their voice, opportunely, importunely with all patience, & longanimity, till they make <i>the deaf to hear,</i> to believe the truth, and <i>the dumb to speak,</i> that is, to profess virtue in word & deed. <i>Mar. 7.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -6726,7 +7025,7 @@
         },
         {
           "verse": 5,
-          "text": "Is this such a fast, <cr>[1]</cr> as I have chosen: for a man by the day to afflict his soul? Is this it, to wind his head about like a circle, and to spread sack-cloth and ashes? Wilt thou call this a fast, and a day acceptable to the Lord?",
+          "text": "Is this such a fast, <cr>[1]</cr> as I have chosen: for a man by the day to afflict his soul? Is this it, to wind his head about like a circle, and to spread sackcloth and ashes? Wilt thou call this a fast, and a day acceptable to the Lord?",
           "has_annotation": true,
           "cross_refs": [
             {
@@ -6740,7 +7039,7 @@
         },
         {
           "verse": 7,
-          "text": "Break thy bread to the hungry & the needy, <cr>[1]</cr> & harborless bring in into thy house: when thou shalt see the naked cover him, and despise not thy flesh.",
+          "text": "Break thy bread to the hungry & the needy, <cr>[1]</cr> & herberless bring in into thy house: when thou shalt see the naked cover him, and despise not thy flesh.",
           "cross_refs": [
             {
               "text": "Eze. 18. Mat. 25."
@@ -6774,7 +7073,7 @@
         },
         {
           "verse": 13,
-          "text": "If thou turn away thy foot from the Sabbath, from doing thy will in my holy day, and call the Sabbath delicate, and the holy of our Lord glorious, and glorify him, whilst thou doest not thine own ways, & thy will be not found, to speak a word:"
+          "text": "If thou turn away thy foot from the Sabbath, from doing thy will in my holy day, and call the Sabbath delicate, and the holy of our Lord glorious, and glorify him, whiles thou doest not thine own ways, & thy will be not found, to speak a word:"
         },
         {
           "verse": 14,
@@ -6792,6 +7091,10 @@
           "cross_refs": [
             {
               "text": "Num. 11. Isa. 40."
+            },
+            {
+              "text": "Isa. 50",
+              "source": "sancta"
             }
           ]
         },
@@ -6801,7 +7104,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "No defect is in God's power nor will, that he delivereth not the faithful from afflictions, but their sins are the impediment; for which he punisheth them, that they may repent, & then he will deliver them, v. 20."
+              "text": "No defect is in God's power nor will, that he delivereth not the faithful from afflictions, but their sins are the impediment; for which he punisheth them, that they may repent, & then he will deliver them, v. 20.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6820,7 +7124,7 @@
         },
         {
           "verse": 5,
-          "text": "They have broken the eggs of asps, & have woven the spider's webs: he that shall eat of their eggs, shall die: and that which is nourished, shall be hatched into a cockatrice."
+          "text": "They have broken the eggs of asps, & have woven the spiders webs: he that shall eat of their eggs, shall die: and that which is nourished, shall be hatched into a cockatrice."
         },
         {
           "verse": 6,
@@ -6832,6 +7136,10 @@
           "cross_refs": [
             {
               "text": "Prov. 1. Rom. 1."
+            },
+            {
+              "text": "Rom. 7",
+              "source": "sancta"
             }
           ]
         },
@@ -6869,11 +7177,12 @@
         },
         {
           "verse": 16,
-          "text": "And he saw that there is not a man: & he was astonished, because there is none to oppose himself: and <na>(b)</na> his own arm saved to himself, and his justice it-self confirmed him.",
+          "text": "And he saw that there is not a man: & he was astonied, because there is none to oppose himself: and <na>(b)</na> his own arm saved to himself, and his justice it-self confirmed him.",
           "notes": [
             {
               "label": "b",
-              "text": "No pure man being able to redeem, and deliver mankind from captivity of sin, God became man to accomplish this work."
+              "text": "No pure man being able to redeem, and deliver mankind from captivity of sin, God became man to accomplish this work.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6909,7 +7218,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "The Church hath still the spirit of truth, and therefore can never err."
+              "text": "The Church hath still the spirit of truth, and therefore can never err.",
+              "kind": "gloss"
             }
           ]
         }
@@ -6925,7 +7235,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "God preventing with grace, every one must cooperate by gratefully accepting this benefit, and so dispose himself to justification."
+              "text": "God preventing with grace, every one must cooperate by gratefully accepting this benefit, and so dispose himself to justification.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6935,7 +7246,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Only those that come into the Church receive the light of true faith, all others are in darkness."
+              "text": "Only those that come into the Church receive the light of true faith, all others are in darkness.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6962,7 +7274,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "This prophecy began to be fulfilled when the 3. Sages came on swift beasts to adore Christ, and offered gifts. <i>Mat. 2.</i>"
+              "text": "This prophecy began to be fulfilled when the 3. Sages came on swift beasts to adore Christ, and offered gifts. <i>Mat. 2.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -6980,13 +7293,14 @@
           "notes": [
             {
               "label": "d",
-              "text": "This is fulfilled in great Brittany, Ireland, & other islands, as Tertullian, Origen, & S. Beda prove against the Jews: and S. Chrysostom against the Gentiles."
+              "text": "This is fulfilled in great Britain, Ireland, & other islands, as Tertullian, Origen, & S. Beda prove against the Jews: and S. Chrysostom against the Gentiles.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 10,
-          "text": "And the children of strangers shall build thy walls, and their kings shall minister to thee: for in mine indignation have I strucken thee, and in my reconciliation have I had mercy upon thee."
+          "text": "And the children of strangers shall build thy walls, and their kings shall minister to thee: for in mine indignation have I stricken thee, and in my reconciliation have I had mercy upon thee."
         },
         {
           "verse": 11,
@@ -6999,7 +7313,8 @@
           "notes": [
             {
               "label": "e",
-              "text": "This was accomplished when the Roman Emperors, & other Monarchs & nations received the faith of Christ."
+              "text": "This was accomplished when the Roman Emperors, & other Monarchs & nations received the faith of Christ.",
+              "kind": "gloss"
             }
           ]
         },
@@ -7013,7 +7328,8 @@
           "notes": [
             {
               "label": "f",
-              "text": "S. Ierom compelled (as he saith) to leave the historical sense, because it is not convenient to say, The walls & foundation of Jerusalem were adorned with precious stones, and the temple, which should be most glorious, was made of wood; expoundeth this place of excellent men. <i>The holy most eloquent man Cyprian the Martyr, and the Confessor of our time Hilarius do they not seem to thee the high trees that have built the Church of God?</i>"
+              "text": "S. Ierom compelled (as he saith) to leave the historical sense, because it is not convenient to say, The walls & foundation of Jerusalem were adorned with precious stones, and the temple, which should be most glorious, was made of wood; expoundeth this place of excellent men. <i>The holy most eloquent man Cyprian the Martyr, and the Confessor of our time Hilarius do they not seem to thee the high trees that have built the Church of God?</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -7080,7 +7396,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Our Saviour was not, neither needed to be visibly anointed, as Aaron, David, & others were; but invisibly by God, <i>with oil of gladness, above all others. Ps. 44. v. 8. with the Holy Ghost, and with power. Act. 10. v. 39. of whose fullness all others receive. Ioan. 1. v. 16.</i>"
+              "text": "Our Saviour was not, neither needed to be visibly anointed, as Aaron, David, & others were; but invisibly by God, <i>with oil of gladness, above all others. Ps. 44. v. 8. with the Holy Ghost, and with power. Act. 10. v. 39. of whose fullness all others receive. Ioan. 1. v. 16.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -7110,11 +7427,13 @@
           "notes": [
             {
               "label": "b",
-              "text": "It was a grief and sorrow to the Apostles & first Preachers of Christ's Gospel, that both the Jews departed from God, & Gentiles still followed idolatry, but shortly after, many were converted."
+              "text": "It was a grief and sorrow to the Apostles & first Preachers of Christ's Gospel, that both the Jews departed from God, & Gentiles still followed idolatry, but shortly after, many were converted.",
+              "kind": "gloss"
             },
             {
               "label": "c",
-              "text": "And preferred their own happy lot before all other Jews & Gentiles."
+              "text": "And preferred their own happy lot before all other Jews & Gentiles.",
+              "kind": "gloss"
             }
           ]
         },
@@ -7146,7 +7465,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "True Preachers and Pastors cease not from preaching the truth, for any threats, terror, or torment. But say with this Prophet: For Sion (that is, for the good of the Church) I will not cease &c. & with S. Paul. The word of God is not tied. 2. Tim. 2."
+              "text": "True Preachers and Pastors cease not from preaching the truth, for any threats, terror, or torment. But say with this Prophet: For Sion (that is, for the good of the Church) I will not cease &c. & with S. Paul. The word of God is not tied. 2. Tim. 2.",
+              "kind": "gloss"
             }
           ]
         },
@@ -7168,11 +7488,12 @@
         },
         {
           "verse": 6,
-          "text": "<na>(b)</na> Upon thy walls, Jerusalem, I have appointed watch-men, all the day, and all the night, for ever they shall not hold their peace. You that remember our Lord, hold not your peace,",
+          "text": "<na>(b)</na> Upon thy walls, Jerusalem, I have appointed watchmen, all the day, and all the night, for ever they shall not hold their peace. You that remember our Lord, hold not your peace,",
           "notes": [
             {
               "label": "b",
-              "text": "The Church of Christ is perpetually visible in her watch-men, the Pastors & Governers thereof."
+              "text": "The Church of Christ's is perpetually visible in her watchmen, the Pastors & Governers thereof.",
+              "kind": "gloss"
             }
           ]
         },
@@ -7199,6 +7520,9 @@
             {
               "text": "Mat 21. Zach. 9."
             }
+          ],
+          "xrefs": [
+            "Mat. 21. · Zach. 9."
           ]
         },
         {
@@ -7216,13 +7540,14 @@
           "notes": [
             {
               "label": "a",
-              "text": "S. Dionyse, Hierar. cælest. c. 7. supposeth this to be the question of the highest order to Angels, admiring Christ's beauty to be so excellent, notwithstanding that he is imbrued with blood ascending from <i>Edom</i> (which signifieth <i>terrestrial</i> ) from Bosra <i>(a walled city overthrown)</i> that is, from Jerusalem into heaven, with triumph after a bloody victory."
+              "text": "S. Dionyse, Hierar. cælest. c. 7. supposeth this to be the question of the highest order to Angels, admiring Christ's beauty to be so excellent, notwithstanding that he is imbrued with blood ascending from <i>Edom</i> (which signifieth <i>terrestrial</i> ) from Bosra <i>(a walled city overthrown)</i> that is, from Jerusalem into heaven, with triumph after a bloody victory.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 2,
-          "text": "Why then is thy clothing red, and thy garments as theirs that tread in the wine-press? <cr>[1]</cr>",
+          "text": "Why then is thy clothing red, and thy garments as theirs that tread in the winepress? <cr>[1]</cr>",
           "cross_refs": [
             {
               "text": "Apoc. 19. v. 13."
@@ -7239,7 +7564,7 @@
         },
         {
           "verse": 5,
-          "text": "I looked about, & there was no helper: I sought, and there was none to aid: and mine arm hath saved, and mine indignation it-self hath holpen me."
+          "text": "I looked about, & there was no helper: I sought, and there was none to aid: and mine arm hath saved, and mine indignation itself hath holpen me."
         },
         {
           "verse": 6,
@@ -7259,7 +7584,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "The Angel guardian of the Church, which standeth before the face of God; Christ testifying that also the particular guardians do always see the face of his Father. <i>Mat. 18.</i>"
+              "text": "The Angel guardian of the Church, which standeth before the face of God; Christ testifying that also the particular guardians do always see the face of his Father. <i>Mat. 18.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -7308,7 +7634,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "<i>God is never the cause of error or hardness of heart: but by indulgence not punishing, sinners harden their own hearts. so</i> S. Ierom."
+              "text": "<i>God is never the cause of error or hardness of heart: but by indulgence not punishing, sinners harden their own hearts. so</i> S. Ierom.",
+              "kind": "gloss"
             }
           ]
         },
@@ -7332,7 +7659,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "The good people, with Priests and Prophets of the old Testament most fervently desired Christ's coming."
+              "text": "The good people, with Priests and Prophets of the old Testament most fervently desired Christ's coming.",
+              "kind": "gloss"
             }
           ]
         },
@@ -7359,11 +7687,13 @@
           "notes": [
             {
               "label": "b",
-              "text": "<i>And,</i> signifi<i>et</i>h <i>for,</i> as <i>Gen. 14. v. 8. And</i> the English Bibles translate <i>for,</i> in this place, though the Hebrew text hath <i>vau,</i> that is, <i>and.</i> But we with S. Ierom <i>and</i> other ancient Fathers follow the authentical Latin: which hath, <i>et</i> in this place, & <i>enim</i> in the other."
+              "text": "<i>And,</i> signifi<i>et</i>h <i>for,</i> as <i>Gen. 14. v. 8. And</i> the English Bibles translate <i>for,</i> in this place, though the Hebrew text hath <i>vau,</i> that is, <i>and.</i> But we with S. Ierom <i>and</i> other ancient Fathers follow the authentical Latin: which hath, <i>et</i> in this place, & <i>enim</i> in the other.",
+              "kind": "gloss"
             },
             {
               "label": "c",
-              "text": "Likewise the same particle <i>and</i> signifieth <i>yet,</i> as if he had said: <i>yet we shall be saved.</i>"
+              "text": "Likewise the same particle <i>and</i> signifieth <i>yet,</i> as if he had said: <i>yet we shall be saved.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -7417,8 +7747,12 @@
           "notes": [
             {
               "label": "a",
-              "text": "This cannot be meant of the Jews, but necessarily of the Gentiles."
+              "text": "This cannot be meant of the Jews, but necessarily of the Gentiles.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Rm. 10."
           ]
         },
         {
@@ -7427,7 +7761,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "But this is evidently spoken of the Jews: and so S. Paul testifieth of both these places. <i>Rom. 10. v. 20. 21.</i>"
+              "text": "But this is evidently spoken of the Jews: and so S. Paul testifieth of both these places. <i>Rom. 10. v. 20. 21.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -7437,7 +7772,7 @@
         },
         {
           "verse": 4,
-          "text": "That dwell in sepulchres, and sleep in temples of idols: that eat swine's flesh, and profane potage in their vessels."
+          "text": "That dwell in sepulchres, and sleep in temples of idols: that eat swines flesh, and profane potage in their vessels."
         },
         {
           "verse": 5,
@@ -7461,7 +7796,7 @@
         },
         {
           "verse": 10,
-          "text": "And the champion countries shall be into folds of flocks, and the valley of Achor for the couch of herds, unto my people that have sought after me."
+          "text": "And the champaign countries shall be into folds of flocks, and the valley of Achor for the couch of herds, unto my people that have sought after me."
         },
         {
           "verse": 11,
@@ -7478,7 +7813,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Nothing can be more plainly uttered than is here the doctrine of man's freewill."
+              "text": "Nothing can be more plainly uttered than is here the doctrine of man's freewill.",
+              "kind": "gloss"
             }
           ]
         },
@@ -7488,7 +7824,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "Likewise of reward & punishment of good and evil works."
+              "text": "Likewise of reward & punishment of good and evil works.",
+              "kind": "gloss"
             }
           ]
         },
@@ -7502,15 +7839,18 @@
           "notes": [
             {
               "label": "e",
-              "text": "The name of Jews shall be execrable."
+              "text": "The name of Jews shall be execrable.",
+              "kind": "gloss"
             },
             {
               "label": "f",
-              "text": "And God's servants shall be called Christians."
+              "text": "And God's servants shall be called Christians.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "<i>* Oath of execration.</i>"
+              "text": "<i>* Oath of execration.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -7529,7 +7869,8 @@
           "notes": [
             {
               "label": "g",
-              "text": "After the general Resurrection the heavens and earth shall be altered in qualities, not in substance."
+              "text": "After the general Resurrection the heavens and earth shall be altered in qualities, not in substance.",
+              "kind": "gloss"
             }
           ]
         },
@@ -7572,7 +7913,8 @@
           "notes": [
             {
               "label": "h",
-              "text": "The greatest and proudest Gentiles being converted to Christ, do humble themselves to the simple manners of Christians, to penance, fasting, praying, and all works of mortification."
+              "text": "The greatest and proudest Gentiles being converted to Christ, do humble themselves to the simple manners of Christians, to penance, fasting, praying, and all works of mortification.",
+              "kind": "gloss"
             }
           ]
         }
@@ -7593,8 +7935,12 @@
           "notes": [
             {
               "label": "a",
-              "text": "A prophecy that the Temple shall cease:"
+              "text": "A prophecy that the Temple shall cease:",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Act. 7. 7. 49."
           ]
         },
         {
@@ -7603,11 +7949,12 @@
         },
         {
           "verse": 3,
-          "text": "He that <na>(b)</na> immolateth an oxe, is as he that should slay a man: he that killeth a sheep in sacrifice, as he that should brain a dog: he that offereth oblation, as he that should offer swine's blood: he that remembereth frankincense, as he that should bless an idol. All these things have they chosen in their ways, and in their abominations their soul is delighted.",
+          "text": "He that <na>(b)</na> immolateth an oxe, is as he that should slay a man: he that killeth a sheep in sacrifice, as he that should brain a dog: he that offereth oblation, as he that should offer swines blood: he that remembreth frankincense, as he that should bless an idol. All these things have they chosen in their ways, and in their abominations their soul is delighted.",
           "notes": [
             {
               "label": "b",
-              "text": "and sacrifices of the old Testament shall become unlawful."
+              "text": "and sacrifices of the old Testament shall become unlawful.",
+              "kind": "gloss"
             }
           ]
         },
@@ -7630,7 +7977,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Iosephus expoundeth this of the Angel's voice uttered in the temple before the destruction, saying: <i>Migremus hinc:</i> Let us depart from hence. S. Ierome confirmeth the same by the words of the Psalm. <i>54. I saw contradiction in the city.</i>"
+              "text": "Iosephus expoundeth this of the Angels voice uttered in the temple before the destruction, saying: <i>Migremus hinc:</i> Let us depart from hence. S. Ierome confirmeth the same by the words of the Psalm. <i>54. I saw contradiction in the city.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -7644,11 +7992,12 @@
         },
         {
           "verse": 9,
-          "text": "Shall not I <na>(d)</na> that make others to bring forth children, myself bring forth, saith the Lord? Shall I, that give generation to others, be barren, saith the Lord thy God?",
+          "text": "Shall not I <na>(d)</na> that make others to bring forth children, my self bring forth, saith the Lord? Shall I, that give generation to others, be barren, saith the Lord thy God?",
           "notes": [
             {
               "label": "d",
-              "text": "God giveth natural power to all living creatures of generation: but himself bringeth forth children of his Church."
+              "text": "God giveth natural power to all living creatures of generation: but himself bringeth forth children of his Church.",
+              "kind": "gloss"
             }
           ]
         },
@@ -7678,7 +8027,8 @@
           "notes": [
             {
               "label": "e",
-              "text": "Immediately before Christ come to judge, this whole world shall be destroyed by fire."
+              "text": "Immediately before Christ come to judge, this whole world shall be destroyed by fire.",
+              "kind": "gloss"
             }
           ]
         },
@@ -7688,7 +8038,7 @@
         },
         {
           "verse": 17,
-          "text": "they that were sanctified, & thought themselves clean in the gardens behind the gate within, they that did eat swine's flesh, and abomination, and the mouse: they shall be confounded, saith our Lord."
+          "text": "they that were sanctified, & thought themselves clean in the gardens behind the gate within, they that did eat swines flesh, and abomination, and the mouse: they shall be confounded, saith our Lord."
         },
         {
           "verse": 18,
@@ -7700,17 +8050,19 @@
           "notes": [
             {
               "label": "f",
-              "text": "Christ ascending to his Father left the sign of <i>(Thau Ezech. 9.)</i> the cross, unto us, or put it in our foreheads, that we may freely say: <i>the light of thy countenance is signed upon us. S. Ierom in hunc locum.</i>"
+              "text": "Christ ascending to his Father left the sign of <i>(Thau Ezech. 9.)</i> the cross, unto us, or put it in our foreheads, that we may freely say: <i>the light of thy countenance is signed upon us. S. Ierom in hunc locum.</i>",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 20,
-          "text": "and <na>(g)</na> they shall bring all your brethren of all nations a gift to our Lord, upon horses, and in chariots, & in horse-litters, & on mules, and in coaches, to my holy mountain Jerusalem, saith our Lord, as if the children of Israel should bring in a gift in a clean vessel into the house of our Lord.",
+          "text": "and <na>(g)</na> they shall bring all your brethren of all nations a gift to our Lord, upon horses, and in chariots, & in horse litters, & on mules, and in coaches, to my holy mountain Jerusalem, saith our Lord, as if the children of Israel should bring in a gift in a clean vessel into the house of our Lord.",
           "notes": [
             {
               "label": "g",
-              "text": "Men of all nations shall be brought into the Church by the ministry of particular Angels. <i>S. Iero. ibid.</i>"
+              "text": "Men of all nations shall be brought into the Church by the ministry of particular Angels. <i>S. Iero. ibid.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -7734,7 +8086,8 @@
           "notes": [
             {
               "label": "h",
-              "text": "General resurrection of all men."
+              "text": "General resurrection of all men.",
+              "kind": "gloss"
             }
           ]
         },

@@ -84,7 +84,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "This book is read at Matins the third week of September."
+              "text": "This book is read at Matins the third week of September.",
+              "kind": "gloss"
             }
           ]
         }
@@ -120,7 +121,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The first part. Tobias his holy manner of life."
+              "text": "The first part. Tobias his holy manner of life.",
+              "kind": "head"
             }
           ]
         },
@@ -142,7 +144,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Not absolutely all, but very many: for some of the same tribe and kindred did also fear God. <i>c. 2. v. 2.</i>"
+              "text": "Not absolutely all, but very many: for some of the same tribe and kindred did also fear God. <i>c. 2. v. 2.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -204,11 +207,11 @@
         },
         {
           "verse": 20,
-          "text": "the hungry he nourished, and to the naked he gave cloths, and the dead, and them that were slain, he buried carefully."
+          "text": "the hungry he nourished, and to the naked he gave clothes, and the dead, and them that were slain, he buried carefully."
         },
         {
           "verse": 21,
-          "text": "Finally when king Sennacherib was returned flying from Jewry the slaughter, that God had made about him for his blasphemy, & being angry slew many of the children of Israel, Tobias buried their bodies."
+          "text": "Finally when king Sennacherib was returned fleeing from Jewry the slaughter, that God had made about him for his blasphemy, & being angry slew many of the children of Israel, Tobias buried their bodies."
         },
         {
           "verse": 22,
@@ -216,7 +219,7 @@
         },
         {
           "verse": 23,
-          "text": "But Tobias flying with his son and with his wife, nakedly lay hid, because many loved him."
+          "text": "But Tobias fleeing with his son and with his wife, nakedly lay hid, because many loved him."
         },
         {
           "verse": 24,
@@ -248,7 +251,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "All the people of the ten tribes did not serve Jeroboam's golden calves, but some <i>feared God</i> & consequently <i>refrained from evil. Prov. 3.</i> at least from idolatry."
+              "text": "All the people of the ten tribes did not serve Jeroboam's golden calves, but some <i>feared God</i> & consequently <i>refrained from evil. Prov. 3.</i> at least from idolatry.",
+              "kind": "gloss"
             }
           ]
         },
@@ -283,7 +287,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "True zeal is not hindered from works of mercy by fear of death: <i>because perfect charity casteth out fear. 1. Ioan. 4.</i>"
+              "text": "True zeal is not hindered from works of mercy by fear of death: <i>because perfect charity casteth out fear. 1. Ioan. 4.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -309,7 +314,7 @@
         },
         {
           "verse": 14,
-          "text": "but continued immovable in the fear of God, giving thanks to God all the days of his life."
+          "text": "but continued immoveable in the fear of God, giving thanks to God all the days of his life."
         },
         {
           "verse": 15,
@@ -317,7 +322,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Both elder and younger sort of his kindred derided him, not his proper parents, for he was deprived of father and mother when he was a child, as it seemeth <i>c. 1. v. 4.</i>"
+              "text": "Both elder and younger sort of his kindred derided him, not his proper parents, for he was deprived of father and mother when he was a child, as it seemeth <i>c. 1. v. 4.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -365,7 +371,7 @@
         },
         {
           "verse": 2,
-          "text": "saying: Thou art just o Lord, and all thy judgments are just, & all thy ways mercy, & truth & judgment."
+          "text": "saying: Thou art just o Lord, and all thy judgements are just, & all thy ways mercy, & truth & judgement."
         },
         {
           "verse": 3,
@@ -377,7 +383,7 @@
         },
         {
           "verse": 5,
-          "text": "And now Lord great are thy judgments, because we have not done according to thy precepts, & have not walked sincerely before thee:"
+          "text": "And now Lord great are thy judgements, because we have not done according to thy precepts, & have not walked sincerely before thee:"
         },
         {
           "verse": 6,
@@ -385,11 +391,12 @@
         },
         {
           "verse": 7,
-          "text": "The very same day therefore it chanced that Sara the daughter of Raguel in <na>(a)</na> Rages a city of the Medes, she also heard reproach of one of her father's hand-maids,",
+          "text": "The very same day therefore it chanced that Sara the daughter of Raguel in <na>(a)</na> Rages a city of the Medes, she also heard reproach of one of her father's handmaids,",
           "notes": [
             {
               "label": "a",
-              "text": "In a province of the Medes, whereof Rages was the head city: for when they came where Raguel dwelt, Tobias stayed there, and the Angel went to the city of Rages where Gabelus dwelt. <i>c. 9.</i> As one may say: such a one dwelleth in Rome, that dwelleth in any part of Romania: in York, Lincolne, or Munmoth, that dwelleth in one of those shires."
+              "text": "In a province of the Medes, whereof Rages was the head city: for when they came where Raguel dwelt, Tobias stayed there, and the Angel went to the city of Rages where Gabelus dwelt. <i>c. 9.</i> As one may say: such a one dwelleth in Rome, that dwelleth in any part of Romania: in York, Lincolne, or Mummoth, that dwelleth in one of those shires.",
+              "kind": "gloss"
             }
           ]
         },
@@ -399,7 +406,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "<i>Asmodeos,</i> signifying <i>Destroyer</i> is a captain or King of those devils which specially destroy souls by the sins of the flesh, & afterward tormenteth both souls and bodies for the same sins."
+              "text": "<i>Asmodeos,</i> signifying <i>Destroyer</i> is a captain or King of those devils which specially destroy souls by the sins of the flesh, & afterward tormenteth both souls and bodies for the same sins.",
+              "kind": "gloss"
             }
           ]
         },
@@ -437,7 +445,7 @@
         },
         {
           "verse": 17,
-          "text": "Never have I companied myself with sporters: neither have I made myself partaker with them that walk in lightness."
+          "text": "Never have I companied my self with sporters: neither have I made myself partaker with them that walk in lightness."
         },
         {
           "verse": 18,
@@ -473,7 +481,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "<i>Act. 10.</i> An Angel shewed Cornelius that his prayers were heard. <i>Apoc. 5.</i> prayers of the faithful are offered to God by Angels, & other Saints."
+              "text": "<i>Act. 10.</i> An Angel shewed Cornelius that his prayers were heard. <i>Apoc. 5.</i> prayers of the faithful are offered to God by Angels, & other Saints.",
+              "kind": "gloss"
             }
           ]
         }
@@ -493,7 +502,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "As Moyses to the people <i>Deut. 33.</i> and David to Salomon. <i>3. Reg. 2.</i> so Tobias gave holy admonitions to his son: in all fourteen, <i>noted in the inner margin.</i>"
+              "text": "As Moyses to the people <i>Deut. 33.</i> and David to Salomon. <i>3. Reg. 2.</i> so Tobias gave holy admonitions to his son: in all fourteen, <i>noted in the inner margin.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -506,6 +516,10 @@
             },
             {
               "text": "2."
+            },
+            {
+              "text": "bury. 1",
+              "source": "sancta"
             }
           ]
         },
@@ -537,7 +551,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "The same doctrine of good works, and reward, is taught <i>Daniel 4. v. 24.</i>"
+              "text": "The same doctrine of good works, and reward, is taught <i>Daniel 4. v. 24.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -551,7 +566,7 @@
         },
         {
           "verse": 10,
-          "text": "For thou doest treasure up to thyself a good reward in the day of necessity."
+          "text": "For thou dost treasure up to thy self a good reward in the day of necessity."
         },
         {
           "verse": 11,
@@ -563,7 +578,7 @@
         },
         {
           "verse": 13,
-          "text": "<cr>[1]</cr> Take heed to thyself my son of all fornication, and beside thy wife never abide to know crime,",
+          "text": "<cr>[1]</cr> Take heed to thy self my son of all fornication, and beside thy wife never abide to know crime,",
           "cross_refs": [
             {
               "text": "5."
@@ -585,6 +600,10 @@
           "cross_refs": [
             {
               "text": "7."
+            },
+            {
+              "text": "Whosoever. 7",
+              "source": "sancta"
             }
           ]
         },
@@ -594,12 +613,17 @@
           "cross_refs": [
             {
               "text": "8."
+            },
+            {
+              "text": "That. 8",
+              "source": "sancta"
             }
           ],
           "notes": [
             {
               "label": "c",
-              "text": "A notable rule, agreeable to the law of nature."
+              "text": "A notable rule, agreeable to the law of nature.",
+              "kind": "gloss"
             }
           ]
         },
@@ -621,7 +645,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "Works of mercy extend also to the dead."
+              "text": "Works of mercy extend also to the dead.",
+              "kind": "gloss"
             }
           ]
         },
@@ -654,13 +679,14 @@
           "notes": [
             {
               "label": "e",
-              "text": "It pertaineth to good men among other things, to give notice and to dispose of their temporal goods by their last will."
+              "text": "It pertaineth to good men amongst other things, to give notice and to dispose of their temporal goods by their last will.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 22,
-          "text": "and therefore inquire how thou mayst come to him, and receive of him the foresaid weight of silver, and restore him the bill of his hand."
+          "text": "and therefore enquire how thou mayst come to him, and receive of him the foresaid weight of silver, and restore him the bill of his hand."
         },
         {
           "verse": 23,
@@ -683,7 +709,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The second part. The journey & affairs of young Tobias assisted by the Angel Raphael."
+              "text": "The second part. The journey & affairs of young Tobias assisted by the Angel Raphael.",
+              "kind": "head"
             }
           ]
         },
@@ -697,7 +724,7 @@
         },
         {
           "verse": 4,
-          "text": "But go now, and seek thee out some faithful man, that may go with thee, being sure of his hire: that thou mayst receive it, whilst I yet live."
+          "text": "But go now, and seek thee out some faithful man, that may go with thee, being sure of his hire: that thou mayst receive it, whiles I yet live."
         },
         {
           "verse": 5,
@@ -705,7 +732,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "The Angel Raphael appearing in form of a man prefigured our Saviour, who indeed became a very man. <i>S. Beda.</i>"
+              "text": "The Angel Raphael appearing in form of a man prefigured our Saviour, who indeed became a very man. <i>S. Beda.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -727,7 +755,7 @@
         },
         {
           "verse": 10,
-          "text": "Then Tobias going in told all these things to his father. Where upon his father marveling, requested that he would come in unto him."
+          "text": "Then Tobias going in told all these things to his father. Whereupon his father marveling, requested that he would come in unto him."
         },
         {
           "verse": 11,
@@ -759,7 +787,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "<i>Raphael signifying medicine of God.</i> (S. Gre. ho. 34.) calleth himself Azarias, whose shape & visage he took upon him, which name also signifieth <i>the help of God.</i>"
+              "text": "<i>Raphael signifying medicine of God.</i> (S. Greg. ho. 34.) calleth himself Azarias, whose shape & visage he took upon him, which name also signifieth <i>the help of God.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -797,7 +826,7 @@
         },
         {
           "verse": 26,
-          "text": "And Tobias said to her: Weep not, our son shall come thither save, and shall return safe to us, and thine eyes shall see him."
+          "text": "And Tobias said to her: Weep not, our son shall come thither safe, and shall return safe to us, and thine eyes shall see him."
         },
         {
           "verse": 27,
@@ -805,7 +834,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Angel Guardian."
+              "text": "Angel Guardian.",
+              "kind": "gloss"
             }
           ]
         },
@@ -845,7 +875,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "S. Paul also calleth flesh of fish <i>1. Cor. 15.</i> and Plinie <i>lib. 9. c. 19.</i>"
+              "text": "S. Paul also calleth flesh of fish <i>1. Cor. 15.</i> and Plinie <i>lib. 9. c. 19.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -859,11 +890,13 @@
           "notes": [
             {
               "label": "d",
-              "text": "Devils who exalted themselves as equal with God, are justly made subject to corporal creatures. God concurring with natural causes, whose good pleasure is sometimes to use instruments naturally unapt, as when Christ gave sight to the blind by putting clay on his eyes. <i>Ioan. 9.</i> sometimes more apt, as when he fed many"
+              "text": "Devils who exalted themselves as equal with God, are justly made subject to corporal creatures. God concurring with natural causes, whose good pleasure is sometimes to use instruments naturally unapt, as when Christ gave sight to the blind by putting clay on his eyes. <i>Ioan. 9.</i> sometimes more apt, as when he fed many",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "<i>* and liver. v. 19.</i>"
+              "text": "<i>* and liver. v. 19.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -897,7 +930,8 @@
           "notes": [
             {
               "label": "e",
-              "text": "Into the place where good souls rested, none then having access into heaven. <i>See Annot. Gen. 37.</i>"
+              "text": "Into the place where good souls rested, none then having access into heaven. <i>See Annotations. Gen. 37.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -919,7 +953,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>* and heart. v. 8.</i>"
+              "text": "<i>* and heart. v. 8.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -929,7 +964,8 @@
           "notes": [
             {
               "label": "f",
-              "text": "The second night he asked and obtained this grace; for he knew not his wife until the fourth night. <i>v. 22.</i>"
+              "text": "The second night he asked and obtained this grace; for he knew not his wife until the fourth night. <i>v. 22.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -993,7 +1029,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Ajust man (saith S. Ambrose <i>lib. 3. Off. c. 14.</i> ) feared other men's harms, and would rather his daughter should not be married than others should be in danger, preferring honesty before profit."
+              "text": "Ajust man (saith S. Ambrose <i>lib. 3. Off. c. 14.</i> ) feared other men's harms, and would rather his daughter should not be married than others should be in danger, preferring honesty before profit.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1011,7 +1048,7 @@
         },
         {
           "verse": 15,
-          "text": "And taking his daughter by the right hand, gave it into the right hand of Tobias, saying: The God of Abraham, and the God of Isaac, and the God of Jacob be with you, and he join you together, and fulfill his blessing in you."
+          "text": "And taking his daughter by the right hand, gave it into the right hand of Tobias, saying: The God of Abraham, and the God of Isaac, and the God of Jacob be with you, and he join you together, and fulfil his blessing in you."
         },
         {
           "verse": 16,
@@ -1031,7 +1068,7 @@
         },
         {
           "verse": 20,
-          "text": "And she said to her: Be of good cheer my daughter, our Lord of heaven give thee joy for the tediousness which thou has suffered."
+          "text": "And she said to her: Be of good cheer my daughter, our Lord of heaven give thee joy for the tediousness which thou hast suffered."
         }
       ],
       "summary": "They are kindly entertained by Raguel. 10. Tobias demandeth Sara to wife, which Raguel, encouraged by the Angel, granteth: 15. and the marriage is made."
@@ -1049,7 +1086,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "<i>See c. 6. v. 8.</i> Mystically it signified Christ's passion whereby the devil was expelled out of men's hearts. <i>S. Aug. ser. 28. de Sanctis Prosper l. de promiss. p. 2. c. 39.</i>"
+              "text": "<i>See c. 6. v. 8.</i> Mystically it signified Christ's passion whereby the devil was expelled out of men's hearts. <i>S. Aug. ser. 28. de Sanctis Prosper li. de promiss. p. 2. c. 39.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -1059,7 +1097,7 @@
         },
         {
           "verse": 4,
-          "text": "Then Tobias exhorted the virgin, & said to her: Sara arise, & let us pray to God today, and tomorrow, and the next morrow: because these three nights we are joined to God: & when the third night is past, we will be in our wedlock."
+          "text": "Then Tobias exhorted the virgin, & said to her: Sara arise, & let us pray to God to day, and tomorrow, and the next morrow: because these three nights we are joined to God: & when the third night is past, we will be in our wedlock."
         },
         {
           "verse": 5,
@@ -1087,7 +1125,7 @@
         },
         {
           "verse": 11,
-          "text": "And it came to pass about the cocks' crowing, Raguel bade his servants to be called for, and they went with him together to dig a grave."
+          "text": "And it came to pass about the cock' crowing, Raguel bade his servants to be called for, and they went with him together to dig a grave."
         },
         {
           "verse": 12,
@@ -1123,7 +1161,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "In the one family there were no more children but one son, in the other one only daughter."
+              "text": "In the one family there were no more children but one son, in the other one only daughter.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1163,17 +1202,18 @@
         },
         {
           "verse": 3,
-          "text": "Howbeit I beseech thee, that thou take unto thee beasts and servants, and go to Gabelus into <na>(a)</na> Rages the city of Medes: and render him his hand writing, and receive of him the money, and desire him to come to my marriage.",
+          "text": "Howbeit I beseech thee, that thou take unto thee beasts and servants, and go to Gabelus into <na>(a)</na> Rages the city of Medes: and render him his handwriting, and receive of him the money, and desire him to come to my marriage.",
           "notes": [
             {
               "label": "a",
-              "text": "The Angel went to the city it-self called Rages, Tobias remaining in the territory or province thereof with Raguel, which place is also called Rages. <i>c. 3. v. 7.</i>"
+              "text": "The Angel went to the city it-self called Rages, Tobias remaining in the territory or province thereof with Raguel, which place is also called Rages. <i>c. 3. v. 7.</i>",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 4,
-          "text": "For thyself knowest that my father numbereth the days: and if I slack one day more, his soul is made sorrowful."
+          "text": "For thyself knowest that my father numbreth the days: and if I slack one day more, his soul is made sorrowful."
         },
         {
           "verse": 5,
@@ -1181,7 +1221,7 @@
         },
         {
           "verse": 6,
-          "text": "Then Raphael taking four of Raguel's servants, and two camels, went into Rages the city of Medes: & finding Gabelus gave him his hand writing, and received of him all the money."
+          "text": "Then Raphael taking four of Raguel's servants, and two camels, went into Rages the city of Medes: & finding Gabelus gave him his handwriting, and received of him all the money."
         },
         {
           "verse": 7,
@@ -1228,7 +1268,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Such of the Jews as believe in Christ, heartily lament that he tarrieth so long from their nation: Some more assuredly with old Tobias, others more doubtfully with his wife, expect his return. <i>S. Beda in Tobiam.</i> Even so the remnant of Catholics in countries fallen to heresy <i>have great sadness and continual sorrow in their heart (Rom. 9.) wishing</i> (with what temporal loss soever) <i>the salvation of their brethren, kinsmen,</i> and countrymen: some hoping more confidently & comforting others that Christ will again illuminate our whole nation, as sight was restored to old Tobias."
+              "text": "Such of the Jews as believe in Christ, heartily lament that he tarrieth so long from their nation: Some more assuredly with old Tobias, others more doubtfully with his wife, expect his return. <i>S. Beda in Tobiam.</i> Even so the remnant of Catholics in countries fallen to heresy <i>have great sadness and continual sorrow in their heart (Rom. 9.) wishing</i> (with what temporal loss soever) <i>the salvation of their brethren, kinsmen,</i> and countrymen: some hoping more confidently & comforting others that Christ will again illuminate our whole nation, as sight was restored to old Tobias.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1279,7 +1320,7 @@
       "verses": [
         {
           "verse": 1,
-          "text": "And when they returned they came to Charan, which is in the mid-way against Ninive, the eleventh day."
+          "text": "And when they returned they came to Charan, which is in the midway against Ninive, the eleventh day."
         },
         {
           "verse": 2,
@@ -1299,7 +1340,7 @@
         },
         {
           "verse": 6,
-          "text": "And whilst she watched his coming out of that place, she saw a far off, and by and by perceived her son coming: and running she told her husband saying: Behold thy son cometh."
+          "text": "And whiles she watched his coming out of that place, she saw a far off, and by and by perceived her son coming: and running she told her husband saying: Behold thy son cometh."
         },
         {
           "verse": 7,
@@ -1315,7 +1356,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "It nothing disgraceth the sacred history that a small matter being also true is recorded with the rest, <i>As not one letter nor one title of the law may be omitted, Mat. 5. S. Beda</i> also expoundeth it mystically of God's Preachers. S. Jerome doth the like, <i>in: Isaie. 56.</i> and S. Augustin li. 22. c. 56. <i>cont. Faustum. Manich.</i>"
+              "text": "It nothing disgraceth the sacred history that a small matter being also true is recorded with the rest, <i>As not one letter nor one title of the law may be omitted, Mat. 5. S. Beda</i> also expoundeth it mystically of God's Preachers. S. Jerome doth the like, <i>in: Isaie. 56.</i> and S. Augustin li. 22. c. 56. <i>cont. Faustum. Manich.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -1345,7 +1387,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "God used this gall of a fish in curing Tobias' eyes, in like sort as the liver in driving away the devil. <i>c. 6. v. 8.</i>"
+              "text": "God used this gall of a fish in curing Tobias' eyes, in like sort as the liver in driving away the devil. <i>c. 6. v. 8.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -1411,12 +1454,17 @@
             },
             {
               "text": "7."
+            },
+            {
+              "text": "delivered. 6",
+              "source": "sancta"
             }
           ],
           "notes": [
             {
               "label": "a",
-              "text": "Grateful Tobias recounteth seven benefits received by the companion of his journey, and that they <i>have received</i> (not many but) <i>all good things by him.</i>"
+              "text": "Grateful Tobias recounteth seven benefits received by the companion of his journey, and that they <i>have received</i> (not many but) <i>all good things by him.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -1442,7 +1490,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Fasting and alms are as two wings with which prayer flyeth into heaven."
+              "text": "Fasting and alms are as two wings with which prayer flyeth into heaven.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1465,7 +1514,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Ohow sweet (or excellent) a thing is it (saith <i>S. Aug. serm. 3. de Nativit.</i> ) when Angels guardians of our life offer our vows (or resolution to fly vices and embrace virtues) before the sight of God's Majesty!"
+              "text": "Ohow sweet (or excellent) a thing is it (saith <i>S. Aug. serm. 3. de Nativit.</i> ) when Angels guardians of our life offer our vows (or resolution to flee vices and embrace virtues) before the sight of God's Majesty!",
+              "kind": "gloss"
             }
           ]
         },
@@ -1495,7 +1545,7 @@
         },
         {
           "verse": 19,
-          "text": "Iseemed indeed to eat with you, and to drink: but I use an invisible meat and drink, which cannot be seen of men."
+          "text": "Iseemed indeed to eat with you, and to drink: but I use an invisible meat and drink, which can not be seen of men."
         },
         {
           "verse": 20,
@@ -1521,7 +1571,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The third part. Old Tobias praiseth God, prophesieth better state of God's people."
+              "text": "The third part. Old Tobias praiseth God, prophesieth better state of God's people.",
+              "kind": "head"
             }
           ]
         },
@@ -1539,7 +1590,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Temporal affliction for the spiritual good of others."
+              "text": "Temporal affliction for the spiritual good of others.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1557,7 +1609,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "His body being in captivity, yet his spirit was free to praise and thank God. <i>S. Cypr. li. de mortalitate.</i>"
+              "text": "His body being in captivity, yet his spirit was free to praise and thank God. <i>S. Cypr. li. de mortalitate.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -1579,11 +1632,12 @@
         },
         {
           "verse": 12,
-          "text": "Confess to our Lord in thy good things, and bless the God of the worlds, that he may <na>(c)</na> re-edify his tabernacle in thee, and may call back all the captives to thee, and thou mayst rejoice for ever and ever.",
+          "text": "Confess to our Lord in thy good things, and bless the God of the worlds, that he may <na>(c)</na> reedify his tabernacle in thee, and may call back all the captives to thee, and thou mayst rejoice for ever and ever.",
           "notes": [
             {
               "label": "c",
-              "text": "He prophesieth the re-edifying of the temple and city of Jerusalem."
+              "text": "He prophesieth the reedifying of the temple and city of Jerusalem.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1617,7 +1671,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "Only celestial Jerusalem shall be free from all tribulations."
+              "text": "Only celestial Jerusalem shall be free from all tribulations.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1635,7 +1690,8 @@
           "notes": [
             {
               "label": "e",
-              "text": "No Christian is ignorant <i>(saith S. Augustin Epist. 86.)</i> that <i>Alleluia</i> is a voice of praise. In English it is. <i>Praise ye the Lord with joy.</i>"
+              "text": "No Christian is ignorant <i>(saith S. Augustin Epist. 86.)</i> that <i>Alleluia</i> is a voice of praise. In English it is. <i>Praise ye the Lord with joy.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -1675,7 +1731,7 @@
         },
         {
           "verse": 7,
-          "text": "And all the desert land thereof shall be replenished, & the house of God which is burnt in it, shall again be re-edified: and thither shall all return that fear God,"
+          "text": "And all the desert land thereof shall be replenished, & the house of God which is burnt in it, shall again be reedified: and thither shall all return that fear God,"
         },
         {
           "verse": 8,
@@ -1687,7 +1743,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "This cannot be understood of the city of Jerusalem but the Church of Christ."
+              "text": "This cannot be understood of the city of Jerusalem but the Church of Christ.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1697,7 +1754,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "God's servants must not only expect what shall be commanded, but also seek to know what they ought to do."
+              "text": "God's servants must not only expect what shall be commanded, but also seek to know what they ought to do.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1731,7 +1789,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "A notable commendation of Tobias' family & posterity. And a plain testimony that true Religion never failed wholly in the ten tribes, much less in the Kingdom of Juda, least of all in the Church of Christ, & new Testament."
+              "text": "A notable commendation of Tobias' family & posterity. And a plain testimony that true Religion never failed wholly in the ten tribes, much less in the Kingdom of Juda, least of all in the Church of Christ, & new Testament.",
+              "kind": "gloss"
             }
           ]
         }

@@ -40,7 +40,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "He sheweth that the Church and Christ's Gospel should daily grow and be spread at length through the whole world. Which cannot stand with the heretics' opinion of the decay thereof so quickly after Christ's time, nor agree by any means to their obscure Conventicles. See S. Augustine ep. 80. in fine."
+              "text": "He sheweth that the Church and Christ's Gospel should daily grow and be spread at length through the whole world. Which cannot stand with the heretics' opinion of the decay thereof so quickly after Christ's time, nor agree by any means to their obscure Conventicles. See S. Augustine ep. 80. in fine.",
+              "kind": "gloss"
             }
           ]
         },
@@ -58,7 +59,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "b The Epistle upon the 24. Sunday after Pentecost."
+              "text": "b The Epistle upon the 24. Sunday after Pentecost.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -68,15 +70,18 @@
           "notes": [
             {
               "label": "1",
-              "text": "c So S. Ambr. & the Gr. Doctors, or thus worthily pleasing God, &c."
+              "text": "c So S. Ambr. & the Gr. Doctors, or thus worthily pleasing God, &c.",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "c ἀξίως τοῦ κυρίου"
+              "text": "c ἀξίως τοῦ κυρίου",
+              "kind": "word"
             },
             {
               "label": "3",
-              "text": "c Many things requisite, and diverse things acceptable to God beside faith."
+              "text": "c Many things requisite, and divers things acceptable to God beside faith.",
+              "kind": "gloss"
             }
           ]
         },
@@ -90,7 +95,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "We are not only by acceptation or imputation partakers of Christ's benefits, but are by his grace made worthy thereof, and deserve our salvation condignly."
+              "text": "We are not only by acceptation or imputation partakers of Christ's benefits, but are by his grace made worthy thereof, and deserve our salvation condignly.",
+              "kind": "gloss"
             }
           ]
         },
@@ -146,7 +152,7 @@
         },
         {
           "verse": 23,
-          "text": "if yet ye continue in the faith, grounded and stable, and unmovable from the hope of the Gospel which you have heard, which is preached among all creatures that are under Heaven, whereof I Paul am made a minister."
+          "text": "if yet ye continue in the faith, grounded and stable, and unmoveable from the hope of the Gospel which you have heard, which is preached among all creatures that are under Heaven, whereof I Paul am made a minister."
         },
         {
           "verse": 24,
@@ -155,7 +161,7 @@
         },
         {
           "verse": 25,
-          "text": "whereof I am made a minister according to the dispensation of God, which is given me toward you, that I may fulfill the word of God,"
+          "text": "whereof I am made a minister according to the dispensation of God, which is given me toward you, that I may fulfil the word of God,"
         },
         {
           "verse": 26,
@@ -163,7 +169,7 @@
         },
         {
           "verse": 27,
-          "text": "to whom God would make known the riches of the glory of his sacrament in the Gentiles, which is Christ, in you the hope of glory,"
+          "text": "to whom God would make known the riches of the glory of this sacrament in the Gentiles, which is Christ, in you the hope of glory,"
         },
         {
           "verse": 28,
@@ -197,7 +203,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Heretics do most commonly deceive the people with eloquence namely such as have it by the gift of nature, as the Heretics of all ages had, & lightly all seditious persons, which draw the vulgar sort to sedition by the allurement of their tongue. Nothing (saith S. Hierom. ep. 2. ad Nepotian. ) is so easy as with volubility of tongue to deceive the unlearned multitude, which whatsoever it understandeth not, doth the more admire and wonder at the same. The Apostle here calleth it, πιθανολογίαν, persuasible speech."
+              "text": "Heretics do most commonly deceive the people with eloquence namely such as have it by the gift of nature, as the Heretics of all ages had, & lightly all seditious persons, which draw the vulgar sort to sedition by the allurement of their tongue. Nothing (saith S. Hierom. ep. 2. ad Nepotian. ) is so easy as with volubility of tongue to deceive the unlearned multitude, which whatsoever it understandeth not, doth the more admire and wonder at the same. The Apostle here calleth it, πιθανολογίαν, persuasible speech.",
+              "kind": "gloss"
             }
           ]
         },
@@ -215,7 +222,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "in it"
+              "text": "in it",
+              "kind": "gloss"
             }
           ]
         },
@@ -255,7 +263,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "by decrees"
+              "text": "by decrees",
+              "kind": "gloss"
             }
           ]
         },
@@ -265,7 +274,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "b That is, willful or self-willed in voluntary religion. For that is, θέλων ἐν θρησκείᾳ, whereof cometh the word following ἐθελοθρησκέια, superstition. v. 23. See Annot. v. 21."
+              "text": "b That is, wilful or self-willed in voluntary religion. For that is, θέλων ἐν θρησκείᾳ, whereof cometh the word following ἐθελοθρησκεία, superstition. v. 23. See Annot. v. 21.",
+              "kind": "gloss"
             }
           ]
         },
@@ -285,7 +295,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c ἐδειγμάτισεν."
+              "text": "c ἐδειγμάτισεν.",
+              "kind": "word"
             }
           ]
         },
@@ -296,7 +307,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c ἐπιχορηγούμενον. That is, taking subministration of spiritual life and nourishment by grace from Christ the head."
+              "text": "c ἐπιχορηγούμενον. That is, taking subministration of spiritual life and nourishment by grace from Christ the head.",
+              "kind": "gloss"
             }
           ]
         },
@@ -307,7 +319,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c δογματίζεσθε"
+              "text": "c δογματίζεσθε",
+              "kind": "word"
             }
           ]
         },
@@ -337,7 +350,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle upon Easter eve."
+              "text": "The Epistle upon Easter eve.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -365,7 +379,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "c ἐιδωλολατρεία."
+              "text": "c ἐιδωλολατρεία.",
+              "kind": "word"
             }
           ]
         },
@@ -415,7 +430,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "The Epistle upon the 5. Sunday after the Epiphany."
+              "text": "The Epistle upon the 5. Sunday after the Epiphany.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -433,7 +449,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c βραβευέτω, triumph and have the victory"
+              "text": "c βραβευέτω, triumph and have the victory",
+              "kind": "gloss"
             }
           ]
         },
@@ -482,7 +499,14 @@
           "cross_refs": [
             {
               "text": "Eph. 6, 5. 1. Pet. 2, 18."
+            },
+            {
+              "text": "Ephesians 6, 5 Titus 2, 9. 1",
+              "source": "sancta"
             }
+          ],
+          "xrefs": [
+            "Eph. 6, 5. Tit. 2. 9. 1 Pet. 2, 18."
           ]
         },
         {
@@ -495,7 +519,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Retribution or reward for good works: ἀνταπόδοσις, which signifieth rendering one for another."
+              "text": "Retribution or reward for good works: ἀνταπόδοσις, which signifieth rendering one for another.",
+              "kind": "gloss"
             }
           ]
         },
@@ -506,6 +531,9 @@
             {
               "text": "Deu. 10, 17. Ro. 2, 11. Gal. 2, 6."
             }
+          ],
+          "xrefs": [
+            "Deu. 10, 17. Ro. 2, 11. Gal. 2, 6."
           ]
         }
       ],
@@ -524,6 +552,10 @@
           "cross_refs": [
             {
               "text": "Luc. 18, 1."
+            },
+            {
+              "text": "Ephesians 6, 18",
+              "source": "sancta"
             }
           ]
         },
@@ -538,7 +570,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "S. Paul ever much desireth the prayers of the faithful: whereby we learn the great efficacy of them."
+              "text": "S. Paul ever much desireth the prayers of the faithful: whereby we learn the great efficacy of them.",
+              "kind": "gloss"
             }
           ]
         },
@@ -574,6 +607,9 @@
             {
               "text": "Phile. 10."
             }
+          ],
+          "xrefs": [
+            "Phile. 10."
           ]
         },
         {
@@ -594,7 +630,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "He did not only pray, but took other great pains to procure God's grace for the Colossians: perhaps by watching, fasting, and doing other penance of body: that God would not suffer them to fall from their received faith to the sect of Simon Magus or the Judaizing Christians."
+              "text": "He did not only pray, but took other great pains to procure God's grace for the Colossians: perhaps by watching, fasting, and doing other penance of body: that God would not suffer them to fall from their received faith to the sect of Simon Magus or the Judaizing Christians.",
+              "kind": "gloss"
             }
           ]
         },
@@ -617,7 +654,7 @@
         },
         {
           "verse": 17,
-          "text": "And say to Archippus: See the ministry which thou hast received of our Lord, that thou fulfill it."
+          "text": "And say to Archippus: See the ministry which thou hast received of our Lord, that thou fulfil it."
         },
         {
           "verse": 18,

@@ -13,7 +13,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle <i>In Cathedra S. Petri Rome.</i> Ian. 18. <i>& Antiochiæ</i> Feb. 22."
+              "text": "The Epistle <i>In Cathedra S. Petri Rome.</i> Ian. 18. <i>& Antiochiæ</i> Feb. 22.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -32,13 +33,14 @@
           "notes": [
             {
               "label": "2",
-              "text": "The Epistle for many martyrs."
+              "text": "The Epistle for many martyrs.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 4,
-          "text": "unto an inheritance incorruptible, and incontaminate, and that cannot fade, conserved in the heavens in you,"
+          "text": "unto an inheritance incorruptible, and incontaminate, and that can not fade, conserved in the heavens in you,"
         },
         {
           "verse": 5,
@@ -66,7 +68,7 @@
         },
         {
           "verse": 11,
-          "text": "searching unto which or what manner of time the Spirit of Christ in them did signify: fore-telling those passions that are in Christ, and the glories following:"
+          "text": "searching unto which or what manner of time the Spirit of Christ in them did signify: foretelling those passions that are in Christ, and the glories following:"
         },
         {
           "verse": 12,
@@ -78,7 +80,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Chastity not only of body but also of mind, is required. <i>S. Bede upon this place.</i>"
+              "text": "Chastity not only of body but also of mind, is required. <i>S. Bede upon this place.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -101,11 +104,12 @@
         },
         {
           "verse": 17,
-          "text": "And if you invocate the Father, him which without acception of persons judgeth according to every one's <na>[1]</na> work; in fear converse ye the time of your sojourning.",
+          "text": "And if you invocate the Father, him which without acception of persons judgeth according to every one's <na>[1]</na> work; in fear converse ye the time of your peregrination.",
           "notes": [
             {
               "label": "1",
-              "text": "c God will judge men according to every one's works, and not by faith only."
+              "text": "c God will judge men according to every one's works, and not by faith only.",
+              "kind": "gloss"
             }
           ]
         },
@@ -120,7 +124,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "He meaneth the errors of Gentility. Or if he write to the Jews dispersed, he meaneth the yoke of the Law with the fond and heavy additions of their later Masters called <i>Deuteroses.</i> The Heretics, to make it sound to the simple against the traditions of the Church, corrupt the text thus, <i>which you have received by tradition of the Fathers.</i>"
+              "text": "He meaneth the errors of Gentility. Or if he write to the Jews dispersed, he meaneth the yoke of the Law with the fond and heavy additions of their later Masters called <i>Deuteroses.</i> The Heretics, to make it sound to the simple against the traditions of the Church, corrupt the text thus, <i>which you have received by tradition of the Fathers.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -174,7 +179,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle upon Sunday in Easter week."
+              "text": "The Epistle upon Saturday in Easter week.",
+              "kind": "gloss"
             }
           ]
         },
@@ -197,17 +203,21 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>a spiritual house,</i>"
+              "text": "<i>a spiritual house,</i>",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 6,
-          "text": "For the which cause the Scripture containeth, <cr>[1]</cr> <i>Behold I put in Sion a principal corner-stone elect, precious. And he that shall believe in him, shall not be confounded.</i>",
+          "text": "For the which cause the Scripture containeth, <cr>[1]</cr> <i>Behold I put in Sion a principal corner stone elect, precious. And he that shall believe in him, shall not be confounded.</i>",
           "cross_refs": [
             {
               "text": "Esa. 28, 16."
             }
+          ],
+          "xrefs": [
+            "Es. 28, 16."
           ]
         },
         {
@@ -225,8 +235,12 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>whereto also they are ordained.</i>"
+              "text": "<i>whereto also they are ordained.</i>",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Act. 4. · Es. 8. · Ro. 9, 33."
           ]
         },
         {
@@ -235,7 +249,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c The Protestants can no more gather of this, that all Christians be Priests: than, that all be kings: as is most plain <i>Apoc. 1, 6. & 5, 10. Thou hast made us a Kingdom (or Kings) & Priests.</i>"
+              "text": "c The Protestants can no more gather of this, that all Christians be Priests: than, that all be kings: as is most plain <i>Apoc. 1, 6. & 5, 10. Thou hast made us a Kingdom (or Kings) & Priests.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -246,6 +261,9 @@
             {
               "text": "Ose. 2. Ro. 9."
             }
+          ],
+          "xrefs": [
+            "Ose. 2. · Ro. 9. · Gal. 5, 16."
           ]
         },
         {
@@ -259,7 +277,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "The Epistle upon the 3. Sunday after Easter."
+              "text": "The Epistle upon the 3. Sunday after Easter.",
+              "kind": "gloss"
             }
           ]
         },
@@ -284,11 +303,13 @@
           "notes": [
             {
               "label": "2",
-              "text": "So is the Greek, but the Protest. in favour of temporal laws made against the Cat. religion, translate it very falsely thus, <i>to all manner ordinance of man:</i> themselves boldly rejecting Ecclesiastical decrees as men's ordinances."
+              "text": "So is the Greek, but the Protest. in favour of temporal laws made against the Cat. religion, translate it very falsely thus, <i>to all manner ordinance of man:</i> themselves boldly rejecting Ecclesiastical decrees as men's ordinances.",
+              "kind": "gloss"
             },
             {
               "label": "3",
-              "text": "<i>c κτίσει.</i>"
+              "text": "<i>c κτίσει.</i>",
+              "kind": "word"
             }
           ]
         },
@@ -311,7 +332,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c In this speech is often commended the unity of all Christians among themselves."
+              "text": "c In this speech is often commended the unity of all Christians among themselves.",
+              "kind": "gloss"
             }
           ]
         },
@@ -334,16 +356,22 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle upon the 2. Sunday after Easter."
+              "text": "The Epistle upon the 2. Sunday after Easter.",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "you"
+              "text": "you",
+              "kind": "gloss"
             },
             {
               "label": "3",
-              "text": "<i>us</i>"
+              "text": "<i>us</i>",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Es. 53, 9."
           ]
         },
         {
@@ -361,8 +389,12 @@
           "notes": [
             {
               "label": "1",
-              "text": "c ὀυκ ἀντελοιδόρει."
+              "text": "c ὀυκ ἀντελοιδόρει.",
+              "kind": "word"
             }
+          ],
+          "xrefs": [
+            "Es. 53, 4."
           ]
         },
         {
@@ -395,8 +427,12 @@
           "notes": [
             {
               "label": "2",
-              "text": "How wives should behave themselves toward their husbands."
+              "text": "How wives should behave themselves toward their husbands.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Eph. 5, 28. Col. 3, 18."
           ]
         },
         {
@@ -414,7 +450,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "Against the proud, curious and costly attire of women, wherein this ill time of our exceedeth."
+              "text": "Against the proud, curious and costly attire of women, wherein this ill time of our exceedeth.",
+              "kind": "gloss"
             }
           ]
         },
@@ -437,7 +474,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "<i>c ἧς</i>"
+              "text": "<i>c ἧς</i>",
+              "kind": "word"
             }
           ]
         },
@@ -447,7 +485,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "How husbands should behave themselves toward their wives."
+              "text": "How husbands should behave themselves toward their wives.",
+              "kind": "gloss"
             }
           ]
         },
@@ -457,21 +496,26 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle upon the 5. Sunday after Pentecost."
+              "text": "The Epistle upon the 5. Sunday after Pentecost.",
+              "kind": "lectionary"
             },
             {
               "label": "2",
-              "text": "<i>in faith</i>"
+              "text": "<i>in faith</i>",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 9,
-          "text": "<cr>[1]</cr> not rendering evil for evil, nor curse for curse: but contrarywise, blessing: for unto this are you called, that you may by inheritance possess a benediction.",
+          "text": "<cr>[1]</cr> not rendering evil for evil, nor curse for curse: but contrariwise, blessing: for unto this are you called, that you may by inheritance possess a benediction.",
           "cross_refs": [
             {
               "text": "Pro. 17, 13. Mat. 5, 44."
             }
+          ],
+          "xrefs": [
+            "Pro. 17, 13. Mat. 5, 44."
           ]
         },
         {
@@ -485,7 +529,7 @@
         },
         {
           "verse": 11,
-          "text": "<i>Let him decline from evil, and do good: let him inquire peace, & follow it:</i>"
+          "text": "<i>Let him decline from evil, and do good: let him enquire peace, & follow it:</i>"
         },
         {
           "verse": 12,
@@ -522,7 +566,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle upon Friday in Easter week."
+              "text": "The Epistle upon Friday in Easter week.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -533,7 +578,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>those spirits</i>"
+              "text": "<i>those spirits</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -557,7 +603,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>us</i>"
+              "text": "<i>us</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -597,7 +644,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "It hath the same difficulty and sense that the other like words have before, <i>Chap. 3.</i> See the annotation there <i>v. 19.</i> and S. Aug. <i>ep. 69.</i> & Oecumenius <i>upon this place.</i>"
+              "text": "It hath the same difficulty and sense that the other like words have before, <i>Chap. 3.</i> See the annotation there <i>v. 19.</i> and S. Aug. <i>ep. 69.</i> & Oecumenius <i>upon this place.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -607,11 +655,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle upon Sunday next after the Ascension."
+              "text": "The Epistle upon Sunday next after the Ascension.",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "<i>is at hand.</i>"
+              "text": "<i>is at hand.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -657,7 +707,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle for some Martyrs."
+              "text": "The Epistle for some Martyrs.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -686,6 +737,9 @@
             {
               "text": "Hier. 25, 29."
             }
+          ],
+          "xrefs": [
+            "Hier. 25, 29."
           ]
         },
         {
@@ -710,12 +764,13 @@
       "verses": [
         {
           "verse": 1,
-          "text": "<sc>The</sc> <na>[1]</na> seniors therefore that are among you, I beseech, myself a fellow senior with them & a witness of the Passions of Christ, who am also partaker of the glory which is to be revealed in time to come:",
+          "text": "<sc>The</sc> <na>[1]</na> seniors therefore that are among you, I beseech, myself a fellow senior with them & a witness of the Passions of Christ, who am also partaker of that glory which is to be revealed in time to come:",
           "has_annotation": true,
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle for S. Apollinaris. <i>Iul. 23.</i>"
+              "text": "The Epistle for S. Apollinaris. <i>July. 23.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -725,17 +780,19 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>c ἐπισκοποῦντες.</i>"
+              "text": "<i>c ἐπισκοποῦντες.</i>",
+              "kind": "word"
             },
             {
               "label": "2",
-              "text": "Desire of lucre, or to exercise holy functions for gain, is a filthy fault in the Clergy, and therefore much to be avoided."
+              "text": "Desire of lucre, or to exercise holy functions for gain, is a filthy fault in the Clergy, and therefore much to be avoided.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 3,
-          "text": "neither as over-ruling the Clergy, but made examples of the flock from the heart.",
+          "text": "neither as overruling the Clergy, but made examples of the flock from the heart.",
           "has_annotation": true
         },
         {
@@ -745,7 +802,10 @@
         },
         {
           "verse": 5,
-          "text": "In like manner ye young men be subject to the seniors. And do ye all insinuate humility one to another, because <i>God resisteth the proud, and to the humble he giveth grace.</i>"
+          "text": "In like manner ye young men be subject to the seniors. And do ye all insinuate humility one to another, because <i>God resisteth the proud, and to the humble he giveth grace.</i>",
+          "xrefs": [
+            "Prou. 3. Iac. 4."
+          ]
         },
         {
           "verse": 6,
@@ -758,13 +818,20 @@
           "notes": [
             {
               "label": "2",
-              "text": "The Epistle upon the 3. Sunday after Pentecost."
+              "text": "The Epistle upon the 3. Sunday after Pentecost.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Iac. 4."
           ]
         },
         {
           "verse": 7,
-          "text": "casting all your carefulness upon him, because he hath care of you."
+          "text": "casting all your carefulness upon him, because he hath care of you.",
+          "xrefs": [
+            "Psa. 54, Mt. 6, 25."
+          ]
         },
         {
           "verse": 8,
@@ -772,11 +839,11 @@
         },
         {
           "verse": 9,
-          "text": "Whom resist ye, strong in faith: knowing that the self-same affliction is made to that your fraternity which is in the world."
+          "text": "Whom resist ye, strong in faith: knowing that the self same affliction is made to that your fraternity which is in the world."
         },
         {
           "verse": 10,
-          "text": "But the God of all grace, which hath called us unto his eternal glory in Christ <sc>Jesus</sc>, he will perfit you having suffered a little, and confirm, and stablish you."
+          "text": "But the God of all grace, which hath called us unto his eternal glory in Christ <sc>Jesus</sc>, he will perfite you having suffered a little, and confirm, and stablish you."
         },
         {
           "verse": 11,
@@ -788,7 +855,7 @@
         },
         {
           "verse": 13,
-          "text": "The Church saluteth you, that is in Babylon, co-elect: and Mark my son.",
+          "text": "The Church saluteth you, that is in Babylon, coëlect: and Mark my son.",
           "has_annotation": true
         },
         {
@@ -802,7 +869,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Some of the English new translations turn it corruptly, <i>Parishes:</i> others, <i>heritages:</i> both, to avoid the most known, true, and common word in all Christian languages, to wit,"
+              "text": "Some of the English new translations turn it corruptly, <i>Parishes:</i> others, <i>heritages:</i> both, to avoid the most known, true, and common word in all Christian languages, to wit,",
+              "kind": "gloss"
             }
           ]
         }

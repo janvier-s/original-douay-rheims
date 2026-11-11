@@ -78,7 +78,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The first part of this book. Of diverse sorts of Sacrifices."
+              "text": "The first part of this book. Of diverse sorts of Sacrifices.",
+              "kind": "head"
             }
           ]
         },
@@ -94,7 +95,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "The best and perfectest of every kind is to be offered to God, not the blind, lame, or weak. <i>Gen. 4. Malach. 1.</i>"
+              "text": "The best and perfectest of every kind is to be offered to God, not the blind, lame, or weak. <i>Gen. 4. Malach. 1.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -167,7 +169,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "These oblations were specially for the poorest sort. So God tempered his law to the ability of every one. <i>Theod. q. 1. in Levit.</i>"
+              "text": "These oblations were specially for the poorest sort. So God tempered his law to the ability of every one. <i>Theod. q. 1. in Levit.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -189,7 +192,7 @@
         },
         {
           "verse": 6,
-          "text": "thou shalt divide it into little pieces, and shalt pour oil upon it."
+          "text": "thou shalt divide it in little pieces, and shalt pour oil upon it."
         },
         {
           "verse": 7,
@@ -213,7 +216,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "As literally no leaven nor honey might be offered in sacrifice: so all sin and carnal delectation must be excluded in Christian life."
+              "text": "As literally no leaven nor honey might be offered in sacrifice: so all sin and carnal delectation must be excluded in Christian life.",
+              "kind": "gloss"
             }
           ]
         },
@@ -227,7 +231,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "That salt signifieth discretion, appeareth by S. Paul exhorting to season all our talk with salt. <i>Collos. 4. v. 6.</i>"
+              "text": "That salt signifieth discretion, appeareth by S. Paul exhorting to season all our talk with salt. <i>Collos. 4. v. 6.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -251,11 +256,12 @@
       "verses": [
         {
           "verse": 1,
-          "text": "And if his oblation be an host of pacifics, and he will offer of beeves, male or <na>(a)</na> female, without spot shall he offer them before our Lord.",
+          "text": "And if his oblation be an host of pacifiques, and he will offer of beeves, male or <na>(a)</na> female, without spot shall he offer them before our Lord.",
           "notes": [
             {
               "label": "a",
-              "text": "In holocaust only the male was offered, <i>chap. 1.</i> in other sacrifices both sexes were acceptable."
+              "text": "In holocaust only the male was offered, <i>chap. 1.</i> in other sacrifices both sexes were acceptable.",
+              "kind": "gloss"
             }
           ]
         },
@@ -265,7 +271,7 @@
         },
         {
           "verse": 3,
-          "text": "And they shall offer of the host of pacifics, for an oblation to our Lord, the fat that covered the entrails, and whatsoever fat is within:"
+          "text": "And they shall offer of the host of pacifiques, for an oblation to our Lord, the fat that covereth the entrails, and whatsoever fat is within:"
         },
         {
           "verse": 4,
@@ -277,13 +283,14 @@
           "notes": [
             {
               "label": "b",
-              "text": "These parts and the fat were burned as an Holocaust, the rest of the oblation being pacific."
+              "text": "These parts and the fat were burned as an Holocaust, the rest of the oblation being pacific.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 6,
-          "text": "But if his oblation, and the host of pacifics be of flocks, whether he offer male, or female, they shall be without spot."
+          "text": "But if his oblation, and the host of pacifiques be of flocks, whether he offer male, or female, they shall be without spot."
         },
         {
           "verse": 7,
@@ -295,7 +302,7 @@
         },
         {
           "verse": 9,
-          "text": "And they shall offer of the host of pacifics, a sacrifice to our Lord: the fat and the whole rump,"
+          "text": "And they shall offer of the host of pacifiques, a sacrifice to our Lord: the fat and the whole rump,"
         },
         {
           "verse": 10,
@@ -323,7 +330,7 @@
         },
         {
           "verse": 16,
-          "text": "and the Priest shall burn them upon the altar, to the food of the fire, and of the most sweet savour. All the fat shall be our Lord's"
+          "text": "and the Priest shall burn them upon the altar, to the food of the fire, and of a most sweet savour. All the fat shall be our Lord's"
         },
         {
           "verse": 17,
@@ -345,7 +352,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Ignorance of that we are bond to know is sin: and more in Priests than in others."
+              "text": "Ignorance of that we are bond to know is sin: and more in Priests than in others.",
+              "kind": "gloss"
             }
           ]
         },
@@ -367,7 +375,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "We see here and in many other places that numbers are mystical, not always superstitious."
+              "text": "We see here and in many other places that numbers are mystical, not always superstitious.",
+              "kind": "gloss"
             }
           ]
         },
@@ -385,7 +394,7 @@
         },
         {
           "verse": 10,
-          "text": "as is taken away from the calf which is an host of pacifics, and he shall burn them upon the altar of holocaust."
+          "text": "as is taken away from the calf which is an host of pacifiques, and he shall burn them upon the altar of holocaust."
         },
         {
           "verse": 11,
@@ -401,11 +410,12 @@
         },
         {
           "verse": 14,
-          "text": "and afterwards understand their sin, they shall offer for their sin <na>(c)</na> a calf, and shall bring it to the door of the tabernacle.",
+          "text": "and afterward understand their sin, they shall offer for their sin <na>(c)</na> a calf, and shall bring it to the door of the tabernacle.",
           "notes": [
             {
               "label": "c",
-              "text": "A Priest, and the whole multitude offered the same sacrifice of a calf, for their sins: the Prince offered a male goat, a private person a female. <i>See Theodoret q. 1. in Levit. versus finem.</i>"
+              "text": "A Priest, and the whole multitude offered the same sacrifice of a calf, for their sins: the Prince offered a male goat, a private person a female. <i>See Theodoret q. 1. in Levit. versus finem.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -439,7 +449,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "Though in ordinary sacrifices for sin, one part was allotted to the Priests (by whose ministry God remitted sins) yet of the sacrifice for a Priest's sins, or for the sins of the multitude, the Priests had no part, lest they should save cost, or reap commodity by sacrifice for their own or the whole people's sins, but all was burned as in a holocaust. <i>Theodoret q. 3.</i> in Levit. S. Tho. 1. 2. q. 102. 2. 3. ad 8."
+              "text": "Though in ordinary sacrifices for sin, one part was allotted to the Priests (by whose ministry God remitted sins) yet of the sacrifice for a Priest's sins, or for the sins of the multitude, the Priests had no part, lest they should save cost, or reap commodity by sacrifice for their own or the whole people's sins, but all was burned as in a holocaust. <i>Theodoret q. 3.</i> in Levit. S. Tho. 1. 2. q. 102. 2. 3. ad 8.",
+              "kind": "gloss"
             }
           ]
         },
@@ -449,7 +460,7 @@
         },
         {
           "verse": 23,
-          "text": "and afterwards understandeth his sin, he shall offer an host to our Lord, a buck of the goats without spot."
+          "text": "and afterward understandeth his sin, he shall offer an host to our Lord, a buck of the goats without spot."
         },
         {
           "verse": 24,
@@ -457,11 +468,11 @@
         },
         {
           "verse": 25,
-          "text": "the Priest shall dip his fingers in the blood of the host for sin, touching the horns of the altar of holocaust, and the rest pouring at the foot thereof."
+          "text": "the Priest shall dip his finger in the blood of the host for sin, touching the horns of the altar of holocaust, and the rest pouring at the foot thereof."
         },
         {
           "verse": 26,
-          "text": "But the fat he shall burn upon it, as is wont to be done in the victims of pacifics: and the Priest shall pray for him, and for his sin, and it shall be forgiven him."
+          "text": "But the fat he shall burn upon it, as is wont to be done in the victims of pacifiques: and the Priest shall pray for him, and for his sin, and it shall be forgiven him."
         },
         {
           "verse": 27,
@@ -481,7 +492,7 @@
         },
         {
           "verse": 31,
-          "text": "But taking away all the fat, as is wont to be taken away of the victims of pacifics, he shall burn it upon the altar, for a sweet savour to our Lord; and he shall pray for him, and it shall be forgiven him."
+          "text": "But taking away all the fat, as is wont to be taken away of the victims of pacifiques, he shall burn it upon the altar, for a sweet savour to our Lord; and he shall pray for him, and it shall be forgiven him."
         },
         {
           "verse": 32,
@@ -497,7 +508,7 @@
         },
         {
           "verse": 35,
-          "text": "All the fat also he shall take away, as the fat of the ram, that is offered for pacifics, is wont to be taken away: and shall burn it upon the altar, a burnt sacrifice of our Lord: and he shall pray for him, and for his sin, and it shall be forgiven him."
+          "text": "All the fat also he shall take away, as the fat of the ram, that is offered for pacifiques, is wont to be taken away: and shall burn it upon the altar, a burnt sacrifice of our Lord: and he shall pray for him, and for his sin, and it shall be forgiven him."
         }
       ],
       "summary": "How a Priest, 13. the multitude, 22. a Prince, 27. or any one of the people, sinning of ignorance, must offer hosts."
@@ -511,7 +522,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "When perjury doth prejudice another's cause, he that knoweth the truth is bound to reveal it to the Judges but with discretion to avoid scandal."
+              "text": "When perjury doth prejudice another's cause, he that knoweth the truth is bound to reveal it to the Judge but with discretion to avoid scandal.",
+              "kind": "gloss"
             }
           ]
         },
@@ -529,7 +541,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Swearing to do that is evil, or not doing that is lawfully sworn, is sin."
+              "text": "Swearing to do that is evil, or not doing that is lawfully sworn, is sin.",
+              "kind": "gloss"
             }
           ]
         },
@@ -551,7 +564,7 @@
         },
         {
           "verse": 9,
-          "text": "And of the blood thereof he shall sprinkle the wall of the altar, and whatsoever is left, he shall make it distill to the bottom thereof, because it is for sin."
+          "text": "And of the blood thereof he shall sprinkle the wall of the altar, and whatsoever is left, he shall make it distil to the bottom thereof, because it is for sin."
         },
         {
           "verse": 10,
@@ -583,11 +596,13 @@
           "notes": [
             {
               "label": "c",
-              "text": "For remission of sin restitution is first required if injury was done."
+              "text": "For remission of sin restitution is first required if injury was done.",
+              "kind": "gloss"
             },
             {
               "label": "d",
-              "text": "Besides restitution satisfaction is also necessary for the offence to God. Theodoret. q. 2. in Levitic."
+              "text": "Besides restitution satisfaction is also necessary for the offence to God. Theodoret. q. 2. in Levitic.",
+              "kind": "gloss"
             }
           ]
         },
@@ -635,7 +650,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Such examples of penance or satisfaction for sin besides restitution of that was wrongfully taken, are frequently in Moyses' law."
+              "text": "Such examples of penance or satisfaction for sin besides restitution of that was wrongfully taken, are frequent in Moyses' law.",
+              "kind": "gloss"
             }
           ]
         },
@@ -661,11 +677,12 @@
         },
         {
           "verse": 12,
-          "text": "And the fire on the altar <na>(b)</na> shall always burn, which the Priest shall nourish, putting wood underneath, in the morning every day, and laying on the holocaust, thereupon shall burn the fat of the pacifics.",
+          "text": "And the fire on the altar <na>(b)</na> shall always burn, which the Priest shall nourish, putting wood underneath, in the morning every day, and laying on the holocaust, thereupon shall burn the fat of the pacifiques.",
           "notes": [
             {
               "label": "b",
-              "text": "This fire was first sent miraculously from God <i>(infra. c. 9. v. 24.)</i> and according to this commandment, was perpetually conserved: from which all fire was to be taken that was used in the tabernacle. <i>S. Aug. q. 31. & Theod. q. 9. in Leviticum.</i> Mystically it signified, that the fire of charity being first kindled in man's"
+              "text": "This fire was first sent miraculously from God <i>(infra. c. 9. v. 24.)</i> and according to this commandment, was perpetually conserved: from which all fire was to be taken that was used in the tabernacle. <i>S. Aug. q. 31. & Theod. q. 9. in Leviticum.</i> Mystically it signified, that the fire of charity being first kindled in man's",
+              "kind": "gloss"
             }
           ]
         },
@@ -731,7 +748,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "By flesh of penance is understood, fasting, watching, haircloth, tears, prayers, alms, which whosoever duly toucheth shall be sanctified. <i>Hesychius Hierosol. li. 2. in Levit. c. 6.</i>"
+              "text": "By flesh of penance is understood, fasting, watching, haircloth, tears, prayers, alms, which whosoever duly toucheth shall be sanctified. <i>Hesychius Hierosol. li. 2. in Levit. c. 6.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -783,7 +801,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "This text sheweth there is difference in the nature of a fault <i>committed,</i> commonly called <i>sin,</i> & of duty <i>omitted</i> here called <i>offence,</i> in Latin <i>peccatum</i> and <i>delictum.</i> Yet both are alike offensive to God, in matter of equal importance. As appeareth, for that the same sacrifice was offered for both. <i>S. Aug. q. 20. in Levit.</i>"
+              "text": "This text sheweth there is difference in the nature of a fault <i>committed,</i> commonly called <i>sin,</i> & of duty <i>omitted</i> here called <i>offence,</i> in Latin <i>peccatum</i> and <i>delictum.</i> Yet both are alike offensive to God, in matter of equal importance. As appeareth, for that the same sacrifice was offered for both. <i>S. Aug. q. 20. in Levit.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -801,7 +820,7 @@
         },
         {
           "verse": 11,
-          "text": "This is the law of the host of pacifics that is offered to our Lord."
+          "text": "This is the law of the host of pacifiques that is offered to our Lord."
         },
         {
           "verse": 12,
@@ -809,7 +828,7 @@
         },
         {
           "verse": 13,
-          "text": "Loaves also leavened with the host of thanks, which is offered for pacifics:"
+          "text": "Loaves also leavened with the host of thanks, which is offered for pacifiques:"
         },
         {
           "verse": 14,
@@ -817,7 +836,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Given or presented to our Lord, not offered upon the Altar, for no leaven could be offered in sacrifice. cap. 2. v. 11."
+              "text": "Given or presented to our Lord, not offered upon the Altar, for no leaven could be offered in sacrifice. cap. 2. v. 11.",
+              "kind": "gloss"
             }
           ]
         },
@@ -835,7 +855,7 @@
         },
         {
           "verse": 18,
-          "text": "If any man eat of the flesh of the victim of pacifics the third day, the oblation shall be of none effect, neither shall it profit the offerer: yea rather whatsoever soul shall defile itself with such meat, shall be guilty of prevarication."
+          "text": "If any man eat of the flesh of the victim of pacifiques the third day, the oblation shall be of none effect, neither shall it profit the offerer: yea rather whatsoever soul shall defile itself with such meat, shall be guilty of prevarication."
         },
         {
           "verse": 19,
@@ -843,7 +863,7 @@
         },
         {
           "verse": 20,
-          "text": "A soul being polluted that eateth of the flesh of the host of pacifics, which is offered to our Lord, shall perish from his people."
+          "text": "A soul being polluted that eateth of the flesh of the host of pacifiques, which is offered to our Lord, shall perish from his people."
         },
         {
           "verse": 21,
@@ -859,7 +879,7 @@
         },
         {
           "verse": 24,
-          "text": "The fat of the carcass of carrion, & of the beast that was caught of another beast, you shall have for diverse uses."
+          "text": "The fat of the carcass of carrion, & of the beast that was caught of another beast, you shall have for divers uses."
         },
         {
           "verse": 25,
@@ -879,7 +899,7 @@
         },
         {
           "verse": 29,
-          "text": "Speak to the children of Israel, saying: He that offereth a victim of pacifics to our Lord, let him offer therewith a sacrifice also, that is, the libaments thereof."
+          "text": "Speak to the children of Israel, saying: He that offereth a victim of pacifiques to our Lord, let him offer therewith a sacrifice also, that is, the libaments thereof."
         },
         {
           "verse": 30,
@@ -911,7 +931,7 @@
         },
         {
           "verse": 37,
-          "text": "This is the law of holocaust, and of the sacrifice of sin, and for an offence, and for consecration, and the victims of pacifics:"
+          "text": "This is the law of holocaust, and of the sacrifice for sin, and for an offence, and for consecration, and the victims of pacifiques:"
         },
         {
           "verse": 38,
@@ -929,7 +949,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The second part. Of consecrating Priests, & their vestments: with punishment of some that transgressed."
+              "text": "The second part. Of consecrating Priests, & their vestments: with punishment of some that transgressed.",
+              "kind": "gloss"
             }
           ]
         },
@@ -956,18 +977,20 @@
           "notes": [
             {
               "label": "a",
-              "text": "Washing signified purity required in Priests."
+              "text": "Washing signified purity required in Priests.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 7,
-          "text": "he <na>(b)</na> revested the high-Priest with the strait linen garment, girding him with a bawdrike, & revesting him with the tunic of hyacinth, and over it he put the Ephod,",
+          "text": "he <na>(b)</na> revested the high priest with the strait linen garment, girding him with a bawdrike, & revesting him with the tunic of hyacinth, and over it he put the Ephod,",
           "has_annotation": true,
           "notes": [
             {
               "label": "b",
-              "text": "Precious vestments their dignity: and holy oil their authority."
+              "text": "Precious vestments their dignity: and holy oil their authority.",
+              "kind": "gloss"
             }
           ]
         },
@@ -977,7 +1000,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "When the high-Priest at any time put the Ephod to the Rationale, God gave answers to his demands, in matters of <i>doctrine & verity:</i> which King David willed Abiathar to do 1. Reg. 23. v. 9. Never could any woman weave <i>doctrine & verity,</i> but divine <i>wisdom</i> did make such garments. <i>S. Cyril. lib. 6. in Levit.</i>"
+              "text": "When the high priest at any time put the Ephod to the Rationale, God gave answers to his demands, in matters of <i>doctrine & verity:</i> which King David willed Abiathar to do 1. Reg. 23. v. 9. Never could any woman weave <i>doctrine & verity,</i> but divine <i>wisdom</i> did make such garments. <i>S. Cyril. lib. 6. in Levit.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -992,7 +1016,7 @@
         },
         {
           "verse": 11,
-          "text": "And sanctifying them, and having sprinkled the altar seven times, he anointed it, and all the vessels thereof, and the laver with the foot thereof he sanctified with the oil."
+          "text": "And sanctifying them, and having sprinkled the altar seven times, he anointed it, and all the vessel thereof, and the laver with the foot thereof he sanctified with the oil."
         },
         {
           "verse": 12,
@@ -1046,7 +1070,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "As well by the function of consecrating Priests, as of offering Sacrifice, it appeareth that Moyses was a Priest. Yea the chief and highest Priest <i>(saith S. Aug.)</i> for his more excellent ministry and extraordinary calling: Aaron was high-Priest for his Pontifical investure, & ordinary vocation, which should continue in his successors. <i>q. 23. in Levit.</i>"
+              "text": "As well by the function of consecrating Priests, as of offering Sacrifice, it appeareth that Moyses was a Priest. Yea the chief and highest Priest <i>(saith S. Aug.)</i> for his more excellent ministry and extraordinary calling: Aaron was high-Priest for his Pontifical investure, & ordinary vocation, which should continue in his successors. <i>q. 23. in Levit.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -1118,7 +1143,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "The people before worshipped a calf for God. Exod. 12. Now therefore they offer a calf in sacrifice to God, for their sin, and to keep them from idolatry. <i>S. Hierom. in Hierem. 7.</i>"
+              "text": "The people before worshipped a calf for God. Exod. 12. Now therefore they offer a calf in sacrifice to God, for their sin, and to keep them from idolatry. <i>S. Hierom. in Hierem. 7.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -1128,7 +1154,7 @@
         },
         {
           "verse": 4,
-          "text": "an ox and a ram for pacifics: and immolate them before our Lord, offering in the sacrifice of every one flour tempered with oil; for today our Lord will appear to you."
+          "text": "an ox and a ram for pacifiques: and immolate them before our Lord, offering in the sacrifice of every one flour tempered with oil; for today our Lord will appear to you."
         },
         {
           "verse": 5,
@@ -1140,7 +1166,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "God appeared in his work by sending fire to burn the sacrifice, without man's industry. <i>v. 24.</i>"
+              "text": "God appeared in his work by sending fire to burn the sacrifice, without man's industry. <i>v. 24.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -1206,11 +1233,12 @@
         },
         {
           "verse": 22,
-          "text": "And <na>(c)</na> stretching forth his hand to the people, he blessed them. And so the hosts for sin, and the holocausts, and the pacifics being finished, he descended.",
+          "text": "And <na>(c)</na> stretching forth his hand to the people, he blessed them. And so the hosts for sin, and the holocausts, and the pacifiques being finished, he descended.",
           "notes": [
             {
               "label": "c",
-              "text": "This did signify that Christ, in whom all nations are blessed, should be stretched on the Cross where he redeemed us, in memory whereof we now make the sign of the Cross."
+              "text": "This did signify that Christ, in whom all nations are blessed, should be stretched on the Cross where he redeemed us, in memory whereof we now make the sign of the Cross.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1224,7 +1252,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "The Priests were commanded to nourish and keep this fire perpetually that it should not be extinguished. <i>cha. 6. v. 12.</i>"
+              "text": "The Priests were commanded to nourish and keep this fire perpetually that it should not be extinguished. <i>cha. 6. v. 12.</i>",
+              "kind": "gloss"
             }
           ]
         }
@@ -1244,7 +1273,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Such as received more at God's hand, are more severely punished if they transgress. <i>S. Aug. q. 21. in Levit.</i> By this also all are warned to be content with the doctrine of the Holy Ghost, to abhor heresies, the fautors whereof add falsehood to God's word, & prefer their own wicked inventions before the true sense of holy Scripture. <i>Theod. q. 9. in Levit.</i>"
+              "text": "Such as received more at God's hand, are more severely punished if they transgress. <i>S. Aug. q. 21. in Levit.</i> By this also all are warned to be content with the doctrine of the Holy Ghost, to abhor heresies, the fautors whereof add falsehood to God's word, & prefer their own wicked inventions before the true sense of holy Scripture. <i>Theod. q. 9. in Levit.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -1278,7 +1308,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Abstinence from wine commanded to Priests when they served in the tabernacle, not at other times: for they served at certain times by turns. <i>Theod. q. 10. in Levit.</i> As for drunkenness it is forbid to all men, and at all times."
+              "text": "Abstinence from wine commanded to Priests when they served in the tabernacle, not at other times: for they served at certain times by turns. <i>Theod. q. 10. in Levit.</i> As for drunkenness it is forbid to all men, and at all times.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1324,7 +1355,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Natural grief of mind made Aaron both unwilling to eat & less apt to complete all the ceremonies: so without sin he omitted that pertained to his commodity, offering it to God."
+              "text": "Natural grief of mind made Aaron both unwilling to eat & less apt to complete all the ceremonies: so without sin he omitted that pertained to his commodity, offering it to God.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1344,11 +1376,13 @@
           "notes": [
             {
               "label": "a",
-              "text": "Hitherto God revealed his Law to Moyses only, and by him to the people. Now also to Aaron after he was consecrated high-Priest: yet not always, for Moyses was still superior, <i>chap. 12. 14. 16. 17. &c.</i>"
+              "text": "Hitherto God revealed his Law to Moyses only, and by him to the people. Now also to Aaron after he was consecrated high priest: yet not always, for Moyses was still superior, <i>chap. 12. 14. 16. 17. &c.</i>",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "The third part. Of things clean and unclean, with the manner of purifying: & other precepts moral and judicial."
+              "text": "The third part. Of things clean and unclean, with the manner of purifying: & other precepts moral and judicial.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1407,11 +1441,11 @@
         },
         {
           "verse": 15,
-          "text": "and every one of the raven's kind, according to their similitude,"
+          "text": "and every one of the ravens kind, according to their similitude,"
         },
         {
           "verse": 16,
-          "text": "the ostrich, and the owl, and the stern, and the hawk according to his kind,"
+          "text": "the ostrich, and the owl, and the sterne, and the hawk according to his kind,"
         },
         {
           "verse": 17,
@@ -1447,13 +1481,14 @@
           "notes": [
             {
               "label": "b",
-              "text": "If indeed this uncleanness were a sin, it should be cleansed by contrition, & neither necessarily remain till night, nor them be taken away without other means."
+              "text": "If indeed this uncleanness were a sin, it should be cleansed by contrition, & neither necessarily remain till night, nor them be taken away without other means.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 25,
-          "text": "and if it be necessary that he carry any of these that be dead, he shall wash his cloths, and shall be unclean until sun set."
+          "text": "and if it be necessary that he carry any of these that be dead, he shall wash his clothes, and shall be unclean until sun set."
         },
         {
           "verse": 26,
@@ -1461,11 +1496,11 @@
         },
         {
           "verse": 27,
-          "text": "That which walketh upon hands of all beasts, which go on four feet, shall be unclean: he that toucheth their carcases shall be polluted until even."
+          "text": "That which walketh upon hands of all beasts, which go on four feet, shall be unclean: he that toucheth their carcasses shall be polluted until even."
         },
         {
           "verse": 28,
-          "text": "And he that carrieth such carcasses, shall wash his cloths, and shall be unclean until even: because all these things are unclean to you."
+          "text": "And he that carrieth such carcasses, shall wash his clothes, and shall be unclean until even: because all these things are unclean to you."
         },
         {
           "verse": 29,
@@ -1473,7 +1508,7 @@
         },
         {
           "verse": 30,
-          "text": "the mygale, and the chameleon, and the stellion, and the lizard, and the mole:"
+          "text": "the migale, and the chameleon, and the stellion, and the lizard, and the mole:"
         },
         {
           "verse": 31,
@@ -1513,7 +1548,7 @@
         },
         {
           "verse": 40,
-          "text": "and he that eateth or carrieth any thing thereof shall wash his cloths, & shall be unclean until even."
+          "text": "and he that eateth or carrieth any thing thereof shall wash his clothes, & shall be unclean until even."
         },
         {
           "verse": 41,
@@ -1559,7 +1594,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "The most pure VIRGIN MOTHER, was not subject to this law. For she conceived not by the seed of man, yet observed the custom of other women <i>Luc. 2.</i> as Christ also would be baptized by S. John Baptist <i>Mat. 3.</i> to give example of humility <i>S. Cyril. li. 8. in Levit. S. Bernard. Ser. 3. de Purific.</i>"
+              "text": "The most pure VIRGIN MOTHER, was not subject to this law. For she conceived not by the seed of man, yet observed the custom of other women <i>Luc. 2.</i> as Christ also would be baptized by S. John Baptist <i>Mat. 3.</i> to give example of humility <i>S. Cyril. li. 8. in Levit. S. Bernard. Ser. 3. de Purific.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -1609,7 +1645,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "It pertained to the Priests to discern of leprosy, in figure of Priests' authority to bind and loose sins in the new Testament. <i>S. Chrysost. li. 3. de Sacerdotio.</i>"
+              "text": "It pertained to the Priests to discern of leprosy, in figure of Priests' authority to bind and loose sins in the new Testament. <i>S. Chrysost. li. 3. de Sacerdotio.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -1627,7 +1664,7 @@
         },
         {
           "verse": 6,
-          "text": "And the seventh day he shall behold: if the leprosy be somewhat obscure, and not grown in the skin, he shall cleanse him, because it is a scab: and the man shall wash his cloths, and shall be clean."
+          "text": "And the seventh day he shall behold: if the leprosy be somewhat obscure, and not grown in the skin, he shall cleanse him, because it is a scab: and the man shall wash his clothes, and shall be clean."
         },
         {
           "verse": 7,
@@ -1647,7 +1684,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Leprosy making spots in the skin of another colour, signifieth heresy, that mixeth falsehood with truth. <i>S. Aug. li. 2. question. Evangel. c. 40.</i>"
+              "text": "Leprosy making spots in the skin of another colour, signifieth heresy, that mixeth falsehood with truth. <i>S. Aug. li. 2. quæst. Evangel. c. 40.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -1665,7 +1703,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Sometimes that seemeth leprosy, or heresy, which is not: whereof the Priests is to judge. <i>Deut. 17.</i>"
+              "text": "Sometimes that seemeth leprosy, or heresy, which is not: whereof the Priest is to judge. <i>Deut. 17.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -1687,7 +1726,7 @@
         },
         {
           "verse": 18,
-          "text": "And the flesh and the skin wherein a boil is risen, an healed,"
+          "text": "And the flesh and the skin wherein a boil is risen, and healed,"
         },
         {
           "verse": 19,
@@ -1751,7 +1790,7 @@
         },
         {
           "verse": 34,
-          "text": "If the seventh day the plague seem to have stayed in his place, & not lower than the other flesh, he shall cleanse him, and his cloths being washed he shall be clean."
+          "text": "If the seventh day the plague seem to have stayed in his place, & not lower than the other flesh, he shall cleanse him, and his clothes being washed he shall be clean."
         },
         {
           "verse": 35,
@@ -1795,7 +1834,7 @@
         },
         {
           "verse": 45,
-          "text": "shall have his cloths hanging loose, his head bare, his mouth covered with a cloth, he shall cry himself polluted and unclean."
+          "text": "shall have his clothes hanging loose, his head bare, his mouth covered with a cloth, he shall cry himself polluted and unclean."
         },
         {
           "verse": 46,
@@ -1877,7 +1916,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "This gift & sacrifice were commanded (saith S. Augustin) because the Sacrifice of Christ's body was not yet ordained, which now serveth for all other sacrifices. <i>li. 1. ca. 19. et. 20. cont. adversar. leg. et. Prophet.</i>"
+              "text": "This gift & sacrifice were commanded (saith S. Augustin) because the Sacrifice of Christ's body was not yet ordained, which now serveth for all other sacrifices. <i>li. 1. ca. 19. et. 20. cont. adversar. leg. et. Prophet.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -1887,7 +1927,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>* of well or river, not of a cistern, pool, or marish.</i>"
+              "text": "<i>* of well or river, not of a cistern, pool, or marish.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -1901,11 +1942,11 @@
         },
         {
           "verse": 8,
-          "text": "And when the man hath washed his cloths, he shall shave all the hair of his body, and shall be washed with water: & being purified he shall enter into the camp, yet so for all that, that he tarry without his own tent seven days,"
+          "text": "And when the man hath washed his clothes, he shall shave all the hair of his body, and shall be washed with water: & being purified he shall enter into the camp, yet so for all that, that he tarry without his own tent seven days,"
         },
         {
           "verse": 9,
-          "text": "& the seventh day he shall shave the hair of his head, & his beard & eye-brows, and the hair of his whole body. And having washed again his cloths, and his body,"
+          "text": "& the seventh day he shall shave the hair of his head, & his beard & eye-brows, and the hair of his whole body. And having washed again his clothes, and his body,"
         },
         {
           "verse": 10,
@@ -2057,7 +2098,7 @@
         },
         {
           "verse": 47,
-          "text": "and he that sleepeth in it, & eateth any thing, shall wash his cloths."
+          "text": "and he that sleepeth in it, & eateth any thing, shall wash his clothes."
         },
         {
           "verse": 48,
@@ -2115,7 +2156,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "If natural infirmities brought uncleanness, much more Lasciviousness of the mind. <i>Theod. q. 11. & 20. in Levit.</i>"
+              "text": "If natural infirmities brought uncleanness, much more Lasciviousness of the mind. <i>Theod. q. 11. & 20. in Levit.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -2129,19 +2171,19 @@
         },
         {
           "verse": 5,
-          "text": "If any man touch his bed, he shall wash his cloths: and himself being washed with water, shall be unclean until even."
+          "text": "If any man touch his bed, he shall wash his clothes: and himself being washed with water, shall be unclean until even."
         },
         {
           "verse": 6,
-          "text": "If he sit where that man had sitten, he also shall wash his cloths: and being washed with water, shall be unclean until even."
+          "text": "If he sit where that man had sitten, he also shall wash his clothes: and being washed with water, shall be unclean until even."
         },
         {
           "verse": 7,
-          "text": "He that toucheth his flesh, shall wash his cloths: and himself being washed with water shall be unclean until even."
+          "text": "He that toucheth his flesh, shall wash his clothes: and himself being washed with water shall be unclean until even."
         },
         {
           "verse": 8,
-          "text": "If such a man cast his spittle upon him that is clean, he shall wash his cloths: and being washed with water he shall be unclean until even."
+          "text": "If such a man cast his spittle upon him that is clean, he shall wash his clothes: and being washed with water he shall be unclean until even."
         },
         {
           "verse": 9,
@@ -2149,11 +2191,11 @@
         },
         {
           "verse": 10,
-          "text": "and whatsoever hath been under him, that hath the flux of seed, shall be polluted until even. He that carrieth any of these things, shall wash his cloths: and himself being washed with water, shall be unclean until even."
+          "text": "and whatsoever hath been under him, that hath the flux of seed, shall be polluted until even. He that carrieth any of these things, shall wash his clothes: and himself being washed with water, shall be unclean until even."
         },
         {
           "verse": 11,
-          "text": "Every one, whom he toucheth that is such an one, having not washed his hands before, shall wash his cloths, and being washed with water, shall be unclean until even."
+          "text": "Every one, whom he toucheth that is such an one, having not washed his hands before, shall wash his clothes, and being washed with water, shall be unclean until even."
         },
         {
           "verse": 12,
@@ -2161,7 +2203,7 @@
         },
         {
           "verse": 13,
-          "text": "If he be healed that hath such a disease, he shall number seven days after his cleansing, and having washed his cloths and all his body in living water, he shall be clean."
+          "text": "If he be healed that hath such a disease, he shall number seven days after his cleansing, and having washed his clothes and all his body in living water, he shall be clean."
         },
         {
           "verse": 14,
@@ -2173,7 +2215,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "To make, offer, and sacrifice an host, is all one."
+              "text": "To make, offer, and sacrifice an host, is all one.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2203,11 +2246,11 @@
         },
         {
           "verse": 22,
-          "text": "He that toucheth her bed shall wash his cloths: & himself being washed with water, shall be unclean until even."
+          "text": "He that toucheth her bed shall wash his clothes: & himself being washed with water, shall be unclean until even."
         },
         {
           "verse": 23,
-          "text": "Whosoever shall touch any vessel whereupon she sitteth, he shall wash his cloths: and himself being washed with water shall be polluted until even."
+          "text": "Whosoever shall touch any vessel whereupon she sitteth, he shall wash his clothes: and himself being washed with water shall be polluted until even."
         },
         {
           "verse": 24,
@@ -2219,11 +2262,11 @@
         },
         {
           "verse": 26,
-          "text": "Every bed, whereupon she sleepeth, and vessel whereupon she sitteth, shall be polluted."
+          "text": "Every bed, whereupon she sleepeth, and vessel whereon she sitteth, shall be polluted."
         },
         {
           "verse": 27,
-          "text": "Whosoever toucheth them shall wash his cloths: and himself being washed with water, shall be unclean until even."
+          "text": "Whosoever toucheth them shall wash his clothes: and himself being washed with water, shall be unclean until even."
         },
         {
           "verse": 28,
@@ -2243,7 +2286,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "S. Hierome <i>(in cap. 5. ad Galat.)</i> understandeth this place of the abominableness that may not be named."
+              "text": "S. Hierome <i>(in cap. 5. ad Galat.)</i> understandeth this place of the abominableness that may not be named.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2271,7 +2315,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Only once in the year the high-Priest, and no other, entered into <i>Sancta Sanctorum, v. 34.</i> signifying that heaven was not open to any Saint, before Christ's passion. <i>Heb. 9. v. 8.</i>"
+              "text": "Only once in the year the high priest, and no other, entered into <i>Sancta Sanctorum, v. 34.</i> signifying that heaven was not open to any Saint, before Christ's passion. <i>Heb. 9. v. 8.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -2297,7 +2342,7 @@
         },
         {
           "verse": 8,
-          "text": "and casting lots upon both, one for the Lord, & another for the goat of dismission:"
+          "text": "and casting lots upon both, one for the Lord, & another for the goat of dimission:"
         },
         {
           "verse": 9,
@@ -2305,11 +2350,12 @@
         },
         {
           "verse": 10,
-          "text": "but that, whose lot was to be the goat of dismission, he shall set alive before the Lord that he may <na>(b)</na> pour out prayers upon him, and dismiss him into the wilderness.",
+          "text": "but that, whose lot was to be the goat of dimission, he shall set alive before the Lord that he may <na>(b)</na> pour out prayers upon him, and dismiss him into the wilderness.",
           "notes": [
             {
               "label": "b",
-              "text": "Praying that all their sins may be remitted."
+              "text": "Praying that all their sins may be remitted.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2339,13 +2385,14 @@
           "notes": [
             {
               "label": "c",
-              "text": "Sins do so defile the soul that the very holiest of all places is accounted as contaminate thereby <i>Theod. q. 22. in Levit. in fine.</i>"
+              "text": "Sins do so defile the soul that the very holiest of all places is accounted as contaminate thereby <i>Theod. q. 22. in Levit. in fine.</i>",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 17,
-          "text": "Let not man be in the tabernacle when the high-Priest goeth into the Sanctuary, to pray for himself and for his house, & for the whole assembly of Israel, until he come forth."
+          "text": "Let no man be in the tabernacle when the high priest goeth into the Sanctuary, to pray for himself and for his house, & for the whole assembly of Israel, until he come forth."
         },
         {
           "verse": 18,
@@ -2369,7 +2416,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "God so remitteth sins to those that are truly penitent, as that which is carried into a wilderness and never returneth."
+              "text": "God so remitteth sins to those that are truly penitent, as that which is carried into a wilderness and never returneth.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2387,7 +2435,7 @@
         },
         {
           "verse": 26,
-          "text": "but he that hath let go the goat of dismission, shall wash his cloths and body with water, and so shall enter into the camp."
+          "text": "but he that hath let go the goat of dimission, shall wash his clothes and body with water, and so shall enter into the camp."
         },
         {
           "verse": 27,
@@ -2395,7 +2443,7 @@
         },
         {
           "verse": 28,
-          "text": "and whosoever burneth them, shall wash his cloths and his flesh with water, & so shall enter into the camp."
+          "text": "and whosoever burneth them, shall wash his clothes and his flesh with water, & so shall enter into the camp."
         },
         {
           "verse": 29,
@@ -2403,7 +2451,8 @@
           "notes": [
             {
               "label": "e",
-              "text": "Besides particular sacrifices for every one's sins, once in the year was instituted a general expiation of all."
+              "text": "Besides particular sacrifices for every one's sins, once in the year was instituted a general expiation of all.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2447,7 +2496,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "If any killed for sacrifice, he must offer it at the door of the tabernacle, that a Priest might offer it on the Altar, for no other man, nor place was allowed, without special dispensation of God. And so Samuel offered sacrifice in another place, 1. Reg. 7. Elias 1. Reg. 18. and David also being no Priest. 2. Reg. 24. So S. Aug. explicateth this text. <i>q. 56. in Levit.</i>"
+              "text": "If any killed for sacrifice, he must offer it at the door of the tabernacle, that a Priest might offer it on the Altar, for no other man, nor place was allowed, without special dispensation of God. And so Samuel offered sacrifice in another place, 1. Reg. 7. Elias 1. Reg. 18. and David also being no Priest. 2. Reg. 24. So S. Aug. explicateth this text. <i>q. 56. in Levit.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -2497,11 +2547,11 @@
         },
         {
           "verse": 15,
-          "text": "The soul that eateth carrion, or that which is taken of a beast, as well of them of the same country as of strangers, shall wash his cloths, and himself with water, and shall be contaminated until even: and in this order he shall be made clean."
+          "text": "The soul that eateth carrion, or that which is taken of a beast, as well of them of the same country as of strangers, shall wash his clothes, and himself with water, and shall be contaminated until even: and in this order he shall be made clean."
         },
         {
           "verse": 16,
-          "text": "And if he do not wash his cloths, and his body, he shall bear his iniquity."
+          "text": "And if he do not wash his clothes, and his body, he shall bear his iniquity."
         }
       ],
       "summary": "Marriage prohibited in certain degrees of consanguinity and affinity. 18. And diverse carnal and execrable sins committed in other nations, are strictly forbidden."
@@ -2536,7 +2586,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "It is then turpitude when the act is unlawful. But honest in lawful Marriage. S. Aug. <i>li. 3. Locutionum. & li. de bono coniugali.</i>"
+              "text": "It is then turpitude when the act is unlawful. But honest in lawful Marriage. S. Aug. <i>li. 3. Locutionum. & li. de bono coniugali.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -2554,7 +2605,7 @@
         },
         {
           "verse": 10,
-          "text": "The turpitude of thy son's daughter or of thy niece by the daughter, thou shalt not reveal: because it is thy turpitude."
+          "text": "The turpitude of thy son's daughter or of thy niece by thy daughter, thou shalt not reveal: because it is thy turpitude."
         },
         {
           "verse": 11,
@@ -2566,7 +2617,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "See chap. 20. the difference of punishments, for violating these laws in the first and second degree. Also between consanguinity & affinity, in the same collateral degree."
+              "text": "See chap. 20. the difference of punishments, for violating these laws in the first and second degree. Also between consanguinity & affinity, in the same collateral degree.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2576,7 +2628,7 @@
         },
         {
           "verse": 14,
-          "text": "The turpitude of thy father's brother thou shalt not reveal, neither shall thou approach to his wife, who is joined to thee by affinity."
+          "text": "The turpitude of thy father's brother thou shalt not reveal, neither shalt thou approach to his wife, who is joined to thee by affinity."
         },
         {
           "verse": 15,
@@ -2592,7 +2644,7 @@
         },
         {
           "verse": 18,
-          "text": "Thou shalt not take thy wife's sister for an harlot, to vex her withal, neither shalt thou reveal her turpitude, while she is yet living."
+          "text": "Thou shalt not take thy wife's sister for an harlot, to vex her withal, neither shalt thou reveal her turpitude, whiles she is yet living."
         },
         {
           "verse": 19,
@@ -2653,7 +2705,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle on Wednesday in Passion Week."
+              "text": "The Epistle on Wednesday in Passion Week.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -2691,7 +2744,7 @@
         },
         {
           "verse": 10,
-          "text": "Neither in thy vineyard shalt thou gather the clusters and grapes that fall down, but shall leave them to the poor, and the strangers to take. I the Lord your God."
+          "text": "Neither in thy vineyard shalt thou gather the clusters and grapes that fall down, but shalt leave them to the poor, and the strangers to take. I the Lord your God."
         },
         {
           "verse": 11,
@@ -2727,11 +2780,12 @@
         },
         {
           "verse": 19,
-          "text": "Keep ye my laws. Thou shalt not make thy cattle to gender with the beasts of another kind. Thy field thou shalt not sow with diverse seed. A garment <na>(a)</na> that is woven of two sorts, thou shalt not put on.",
+          "text": "Keep ye my laws. Thou shalt not make thy cattle to gender with the beasts of another kind. Thy field thou shalt not sow with divers seed. A garment <na>(a)</na> that is woven of two sorts, thou shalt not put on.",
           "notes": [
             {
               "label": "a",
-              "text": "These diversities are not prohibited for themselves for the ornaments of the tabernacle and of Priests were made of diverse things; but schism, and all participation with heretics and other infidels is forbid. 2. Cor. 6. <i>Draw not in yoke with infidels. Theodret q. 27. in Levit.</i>"
+              "text": "These diversities are not prohibited for themselves for the ornaments of the tabernacle and of Priests were made of divers things; but schism, and all participation with heretics and other infidels is forbid. 2. Cor. 6. <i>Draw not in yoke with infidels. Theodoret q. 27. in Levit.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -2749,7 +2803,7 @@
         },
         {
           "verse": 23,
-          "text": "When you shall be entered into the land, and have planted in it fruit trees, you shall take away the prepuces of them: the fruits that come forth shall be unclean to you, neither shall you eat of them."
+          "text": "When you shall be entered into the land, and have planted in it fruit trees, you shall take away the prepuces of them: the fruit that come forth shall be unclean to you, neither shall you eat of them."
         },
         {
           "verse": 24,
@@ -2765,7 +2819,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "See Gen. 40. v. 8."
+              "text": "See Gen. 40. v. 8.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2857,7 +2912,7 @@
         },
         {
           "verse": 10,
-          "text": "If any man commit adultery with another man's wife, and commit adultery with his neighbour's wife, dying let them die, both the adulterer and the adultress."
+          "text": "If any man commit adultery with another man's wife, and commit advowtry with his neighbour's wife, dying let them die, both the adulterer and the advowtress."
         },
         {
           "verse": 11,
@@ -2877,7 +2932,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Violating this law in any degree in the right line, either of consanguinity, or affinity, or in the first collateral degree of consanguinity was punished with death; but in the first collateral of affinity, and in the second collateral degree as well of consanguinity, as affinity, with less punishment. Which sheweth greater obligation, & greater sin, concerning the right line, than the collateral; also in the first degree of consanguinity than in the second; and more in consanguinity than in affinity."
+              "text": "Violating this law in any degree in the right line, either of consanguinity, or affinity, or in the first collateral degree of consanguinity was punished with death; but in the first collateral of affinity, and in the second collateral degree as well of consanguinity, as affinity, with less punishment. Which sheweth greater obligation, & greater sin, concerning the right line, than the collateral; also in the first degree of consanguinity than in the second; and more in consanguinity than in affinity.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2919,7 +2975,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Not for every kind of sin (though every one is punishable) but for the more heinous, & for all together the Chananites were cast out of their land."
+              "text": "Not for every kind of sin (though every one is punishable) but for the more heinous, & for all together the Chananites were cast out of their land.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2963,7 +3020,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "By the Prince S. Paul understood the high-Priest. Act. 23."
+              "text": "By the Prince S. Paul understood the high-Priest. Act. 23.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2993,7 +3051,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Caiphas rent his garments <i>(Mat. 26.)</i> contrary to this law, malice making him neglect his own dignity."
+              "text": "Caiphas rent his garments <i>(Mat. 26.)</i> contrary to this law, malice making him neglect his own dignity.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3027,7 +3086,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "If such deformities and defects made men irregular, and unmeet to exercise Priestly function in the old testament, how much more in the Church of Christ."
+              "text": "If such deformities and defects made men irregular, and unmeet to exercise Priestly function in the old testament, how much more in the Church of Christ.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3083,7 +3143,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "By these accidental uncleanness was prefigured the censure of suspension in clergy men."
+              "text": "By these accidental uncleanness was prefigured the censure of suspension in clergy men.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3161,7 +3222,7 @@
         },
         {
           "verse": 23,
-          "text": "An ox and a sheep, having the ear and the tail cut off, thou mayst offer voluntarily, but a vow cannot be payed of them."
+          "text": "An ox and a sheep, having the ear and the tail cut off, thou mayst offer voluntarily, but a vow can not be paid of them."
         },
         {
           "verse": 24,
@@ -3229,7 +3290,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "There were eight several, feasts commanded by this law (besides the daily sacrifice) mentioned <i>Num. 28. & 29.</i> of which only seven are here expressed."
+              "text": "There were eight several, feasts commanded by this law (besides the daily sacrifice) mentioned <i>Num. 28. & 29.</i> of which only seven are here expressed.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3243,7 +3305,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "2. (c) Pasch in memory of their delivery from Ægypt."
+              "text": "2. (c) Pasch in memory of their delivery from Ægypt.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3273,7 +3336,7 @@
         },
         {
           "verse": 12,
-          "text": "And in the self-same day that the sheaf is consecrated, shall be killed a lamb without spot of a year old for an holocaust of the Lord."
+          "text": "And in the self same day that the sheaf is consecrated, shall be killed a lamb without spot of a year old for an holocaust of the Lord."
         },
         {
           "verse": 13,
@@ -3293,7 +3356,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "3. (d) Pentecost in remembrance of receiving the law."
+              "text": "3. (d) Pentecost in remembrance of receiving the law.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3303,7 +3367,8 @@
           "notes": [
             {
               "label": "e",
-              "text": "See chap. 7. v. 14."
+              "text": "See chap. 7. v. 14.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3337,7 +3402,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "4. (e) Feast of trumpets, in memory that a ram sticking by the horns was offered by Abraham instead of Isaac."
+              "text": "4. (e) Feast of trumpets, in memory that a ram sticking by the horns was offered by Abraham instead of Isaac.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3355,7 +3421,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "5. (f) Feast of Expiation in memory of the sin in worshipping the calf, and for all sins forgotten, or unknown."
+              "text": "5. (f) Feast of Expiation in memory of the sin in worshipping the calf, and for all sins forgotten, or unknown.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3389,7 +3456,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "6. (g) Feast of Tabernacles, to remember God's protection in the wilderness, where they dwelled in tabernacles 40. years."
+              "text": "6. (g) Feast of Tabernacles, to remember God's protection in the wilderness, where they dwelled in tabernacles 40. years.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3403,7 +3471,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "7. (h) Feast of Assembly and collection, in memory of peace given in the land of promise."
+              "text": "7. (h) Feast of Assembly and collection, in memory of peace given in the land of promise.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3429,7 +3498,8 @@
           "notes": [
             {
               "label": "i",
-              "text": "These feasts were everlasting to the Jews in their generations that is, never to be altered by them, nor during their state. S. Aug. q. 43. in Exod."
+              "text": "These feasts were everlasting to the Jews in their generations that is, never to be altered by them, nor during their state. S. Aug. q. 43. in Exod.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3479,7 +3549,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Two tenths of an ephi, that is, two gomors. A gomor of Manna, which is the tenth part of an ephi, sufficed one man for a day. <i>Exo. 16. v. 16. & 36.</i> so that one of these loaves was as much as all the meat which two do ordinarily eat in one day."
+              "text": "Two tenths of an ephi, that is, two gomors. A gomor of Manna, which is the tenth part of an ephi, sufficed one man for a day. <i>Exod. 16. v. 16. & 36.</i> so that one of these loaves was as much as all the meat which two do ordinarily eat in one day.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3541,7 +3612,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "This Law designing equality, was to put a limit, not to enforce to revenge, for the party damaged, if he would, might remit all or part. <i>S. Aug. l. 19. c. 25. cont. Faustum.</i>"
+              "text": "This Law designing equality, was to put a limit, not to enforce to revenge, for the party damaged, if he would, might remit all or part. <i>S. Aug. li. 19. c. 25. cont. Faustum.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -3589,7 +3661,7 @@
         },
         {
           "verse": 6,
-          "text": "but they shall be unto you for meat, to thee & thy man-servant, to thy woman-servant and hireling, and to the stranger that sojourneth with thee:"
+          "text": "but they shall be unto you for meat, to thee & thy manservant, to thy woman-servant and hireling, and to the stranger that sojourneth with thee:"
         },
         {
           "verse": 7,
@@ -3605,7 +3677,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Of sounding with trumpets, which is pleasant & joyful, cometh the name of Jubily: the effect of it is remission of all bonds, restoration of former liberty, and recovery of inheritance. In the old Testament of temporal things, in the new of spiritual, prefigured thereby: as remission of sin, delivery from bondage thereof, recovery of grace, and preparation to eternal glory."
+              "text": "Of sounding with trumpets, which is pleasant & joyful, cometh the name of Jubilee: the effect of it is remission of all bonds, restoration of former liberty, and recovery of inheritance. In the old Testament of temporal things, in the new of spiritual, prefigured thereby: as remission of sin, delivery from bondage thereof, recovery of grace, and preparation to eternal glory.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3643,7 +3716,7 @@
         },
         {
           "verse": 18,
-          "text": "Do my precepts, and keep my judgments, and fulfill them: that you may dwell in the land without any fear,"
+          "text": "Do my precepts, and keep my judgments, and fulfil them: that you may dwell in the land without any fear,"
         },
         {
           "verse": 19,
@@ -3719,7 +3792,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Jews for their advantage hold it lawful to take usury of strangers, not observing that it is also commanded often in scripture, <i>not to afflict, but to love strangers. Exod. 22. 23. Levit. 19.</i>"
+              "text": "Jews for their advantage hold it lawful to take usury of strangers, not observing that it is also commanded often in scripture, <i>not to afflict, but to love strangers. Exod. 22. 23. Levit. 19.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -3811,7 +3885,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Heretics holding their corrupt course will needs have image of Christ, or Saint, to be the graven thing, which is forbidden in holy Scriptures: & therefore falsely translate <i>Pesel, a graven image,</i> where indeed it signifieth an image,"
+              "text": "Heretics holding their corrupt course will needs have image of Christ, or Saint, to be the graven thing, which is forbidden in holy Scriptures: & therefore falsely translate <i>Pesel, a graven image,</i> where indeed it signifieth an image,",
+              "kind": "gloss"
             }
           ]
         },
@@ -3841,7 +3916,7 @@
         },
         {
           "verse": 8,
-          "text": "Five of yours shall pursue and hundred strangers, and an hundred of you ten thousand: your enemies shall fall by the sword in your sight."
+          "text": "Five of yours shall pursue an hundred strangers, and an hundred of you ten thousand: your enemies shall fall by the sword in your sight."
         },
         {
           "verse": 9,
@@ -3877,7 +3952,7 @@
         },
         {
           "verse": 17,
-          "text": "I will set my face against you, and you shall fall down before your enemies, and shall be made subject to them that hate you. You shall fly, when no man pursueth you."
+          "text": "I will set my face against you, and you shall fall down before your enemies, and shall be made subject to them that hate you. You shall flee, when no man pursueth you."
         },
         {
           "verse": 18,
@@ -3909,7 +3984,7 @@
         },
         {
           "verse": 25,
-          "text": "and I will bring in upon you the sword a revenger of my covenant. And when you shall fly into the cities, I will send the pestilence in the midst of you, and you shall be delivered in the hands of the enemies,"
+          "text": "and I will bring in upon you the sword a revenger of my covenant. And when you shall flee into the cities, I will send the pestilence in the midst of you, and you shall be delivered in the hands of the enemies,"
         },
         {
           "verse": 26,
@@ -3929,7 +4004,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "This extreme famine fell upon some of them in Samaria, 4. Reg. 6. upon others in Hierusalem 4. Reg. 25. most specially when they were besieged by Titus <i>Iosephus li. 7. c. 6. de bello Iudaico.</i>"
+              "text": "This extreme famine fell upon some of them in Samaria, 4. Reg. 6. upon others in Jerusalem 4. Reg. 25. most specially when they were besieged by Titus <i>Iosephus li. 7. c. 6. de bello Iudaico.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -3955,11 +4031,11 @@
         },
         {
           "verse": 35,
-          "text": "in the enemy's land, she shall sabbatize, and rest in the sabbaths of her desolation, because she did not rest in your sabbaths when you dwelt in it."
+          "text": "in the enemies land, she shall sabbatize, and rest in the sabbaths of her desolation, because she did not rest in your sabbaths when you dwelt in it."
         },
         {
           "verse": 36,
-          "text": "And they that shall remain of you, I will put fear in their hearts in the countries of their enemies, the sound of a flying leaf shall terrify them, and they shall fly it as it were a sword: they shall fall when no man pursueth,"
+          "text": "And they that shall remain of you, I will put fear in their hearts in the countries of their enemies, the sound of a flying leaf shall terrify them, and they shall flee it as it were a sword: they shall fall when no man pursueth,"
         },
         {
           "verse": 37,
@@ -3967,7 +4043,7 @@
         },
         {
           "verse": 38,
-          "text": "You shall perish among the Gentiles, and the enemy's land shall consume you."
+          "text": "You shall perish among the Gentiles, and the enemies land shall consume you."
         },
         {
           "verse": 39,
@@ -3979,7 +4055,7 @@
         },
         {
           "verse": 41,
-          "text": "I also therefore will walk against them, & bring them into their enemy's land, until their uncircumcised mind be ashamed: then shall they pray for their impieties."
+          "text": "I also therefore will walk against them, & bring them into their enemies land, until their uncircumcised mind be ashamed: then shall they pray for their impieties."
         },
         {
           "verse": 42,
@@ -3987,7 +4063,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Jacob is first here named, because he had no other children but this people, for Isaac was also father of the Idumeans, and Abraham moreover of the Ismaelites and Madianites, and because the great promises made to Abraham and Isaac pertained only to the Israelites. Theodoret. q. 16. in Levit."
+              "text": "Jacob is first here named, because he had no other children but this people, for Isaac was also father of the Idumeans, and Abraham moreover of the Ismaelites and Madianites, and because the great promises made to Abraham and Isaac pertained only to the Israelites. Theodoret. q. 16. in Levit.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4001,7 +4078,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "The Church never wholly decayeth."
+              "text": "The Church never wholly decayeth.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4025,7 +4103,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Because no other but the tribe of Levi could serve about the tabernacle, and yet other might desire to serve there, they might instead thereof give a price, & have the reward of their good will."
+              "text": "Because no other but the tribe of Levi could serve about the tabernacle, and yet others might desire to serve there, they might in stead thereof give a price, & have the reward of their good will.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4059,17 +4138,18 @@
         },
         {
           "verse": 10,
-          "text": "and cannot be changed, that is to say, <na>(b)</na> neither a better for a bad, nor a worse for a good, and if he change it, both itself that was changed, and that for the which it was changed, shall be consecrated to the Lord.",
+          "text": "and can not be changed, that is to say, <na>(b)</na> neither a better for a bad, nor a worse for a good, and if he change it, both it self that was changed, and that for the which it was changed, shall be consecrated to the Lord.",
           "notes": [
             {
               "label": "b",
-              "text": "The thing that is vowed, if it may be performed, pleaseth God better than a change."
+              "text": "The thing that is vowed, if it may be performed, pleaseth God better than a change.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 11,
-          "text": "The unclean beast, which cannot be immolated to the Lord, if any man vow it shall be brought before the Priest."
+          "text": "The unclean beast, which can not be immolated to the Lord, if any man vow it shall be brought before the Priest."
         },
         {
           "verse": 12,
@@ -4097,7 +4177,7 @@
         },
         {
           "verse": 18,
-          "text": "but if some time after, the Priest shall account the money according to the number of years that remain until the Jubilee, and there shall be diminished of the price."
+          "text": "but if sometime after, the Priest shall account the money according to the number of years that remain until the Jubilee, and there shall be diminished of the price."
         },
         {
           "verse": 19,
@@ -4134,7 +4214,7 @@
         },
         {
           "verse": 27,
-          "text": "And if it be an unclean beast, he that offereth it shall redeem it, according to thy estimation, and shall add the fifth part of the price. If he will not redeem it, it shall be sold to another for how much soever it was esteemed by thee."
+          "text": "And if it be an unclean beast, he that offereth it shall redeem it, according to thy estimation, and shall add the fifth part of the price. If he will not redeem it, it shall be sold to an other for how much soever it was esteemed by thee."
         },
         {
           "verse": 28,
@@ -4142,7 +4222,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "Avow made approved and consecrated to God, cannot be changed by any man. Theodoret q. ult. in Levit."
+              "text": "A vow made approved and consecrated to God, can not be changed by any man. Theodoret q. ult. in Levit.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4160,11 +4241,11 @@
         },
         {
           "verse": 32,
-          "text": "Of all the tithes of oxen, and sheep, and goats, that pass under the sheep-herd's rod, every tenth that cometh shall be sanctified to the Lord."
+          "text": "Of all the tithes of oxen, and sheep, and goats, that pass under the shepherds rod, every tenth that cometh shall be sanctified to the Lord."
         },
         {
           "verse": 33,
-          "text": "It shall not be chosen neither good nor bad, neither shall it be changed for another. If any man change it, both that which was changed, and that for the which it was changed, shall be sanctified to the Lord, and shall not be redeemed."
+          "text": "It shall not be chosen neither good nor bad, neither shall it be changed for an other. If any man change it, both that which was changed, and that for the which it was changed, shall be sanctified to the Lord, and shall not be redeemed."
         },
         {
           "verse": 34,

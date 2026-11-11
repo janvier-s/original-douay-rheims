@@ -50,8 +50,12 @@
           "notes": [
             {
               "label": "3",
-              "text": "the prophet's"
+              "text": "the prophet's",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Mal. 3, 1. · Esa. 40, 3."
           ]
         },
         {
@@ -69,14 +73,21 @@
           "notes": [
             {
               "label": "2",
-              "text": "John's baptism put them in hope only of remission of sins as a preparative to Christ's Sacrament by which sins were indeed to be remitted. Aug. li. 5. de bapt. c. 10."
+              "text": "John's baptism put them in hope only of remission of sins as a preparative to Christ's Sacrament by which sins were indeed to be remitted. Aug. li. 5. de bapt. c. 10.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Mt. 3, 1. · Lu. 3, 4."
           ]
         },
         {
           "verse": 5,
           "text": "And there went forth to him all the country of Jewry, and all they of Jerusalem, and were baptized of him in the river of Jordan, confessing their sins.",
-          "has_annotation": true
+          "has_annotation": true,
+          "xrefs": [
+            "Io. 1, 15."
+          ]
         },
         {
           "verse": 6,
@@ -85,7 +96,7 @@
         },
         {
           "verse": 7,
-          "text": "And he preached, saying: There cometh a stronger than I after me, whose latchet of his shoes I am not worthy stooping down to loose."
+          "text": "And he preached, saying: There cometh a stronger than I after me, whose latchet of his shoes I am not worthy stooping down to unloose."
         },
         {
           "verse": 8,
@@ -114,6 +125,9 @@
             {
               "text": "Mt. 4, 1. Lu. 4. 1."
             }
+          ],
+          "xrefs": [
+            "Mt. 4, 1. · Lu. 4, 1."
           ]
         },
         {
@@ -131,8 +145,12 @@
           "notes": [
             {
               "label": "2",
-              "text": "THE SECOND part of this Gospel: of Christ's manifestation."
+              "text": "THE SECOND part of this Gospel: of Christ's manifestation.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Mat. 4, 12. · Luc. 4, 14."
           ]
         },
         {
@@ -141,7 +159,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "He doth not preach belief or faith only, but penance also."
+              "text": "He doth not preach belief or faith only, but penance also.",
+              "kind": "gloss"
             }
           ]
         },
@@ -152,6 +171,9 @@
             {
               "text": "Mat. 4, 18. Lu. 5, 2."
             }
+          ],
+          "xrefs": [
+            "Mat. 4, 18. · Lu. 5, 2."
           ]
         },
         {
@@ -177,6 +199,9 @@
             {
               "text": "Mat. 4, 13. Lu. 4, 31."
             }
+          ],
+          "xrefs": [
+            "Mat. 4, 13. · Lu. 4, 31"
           ]
         },
         {
@@ -190,6 +215,9 @@
             {
               "text": "Luc. 4, 32."
             }
+          ],
+          "xrefs": [
+            "Luc. 4, 32."
           ]
         },
         {
@@ -219,6 +247,9 @@
             {
               "text": "Mat. 8, 14. Luc. 4, 42."
             }
+          ],
+          "xrefs": [
+            "Mat. 8, 14. · Luc. 4. 42."
           ]
         },
         {
@@ -260,7 +291,10 @@
         },
         {
           "verse": 39,
-          "text": "And he was preaching in their Synagogues, and in all Galilee, and casting out devils."
+          "text": "And he was preaching in their Synagogues, and in all Galilee, and casting out devils.",
+          "xrefs": [
+            "Mt. 8, 2. · Lu. 5, 12."
+          ]
         },
         {
           "verse": 40,
@@ -294,8 +328,12 @@
           "notes": [
             {
               "label": "2",
-              "text": "Our Saviour even when he healed the leper by extraordinary miraculous power, would not yet break order, but sent the party to the Priest."
+              "text": "Our Saviour even when he healed the leper by extraordinary miraculous power, would not yet break order, but sent the party to the Priest.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Leu. 14, 3."
           ]
         },
         {
@@ -321,6 +359,9 @@
             {
               "text": "Mt. 9, 1. Lu. 5, 18."
             }
+          ],
+          "xrefs": [
+            "Mt. 9, 1. · Lu. 5, 18"
           ]
         },
         {
@@ -343,7 +384,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Our Lord is moved to be merciful to sinners by other men's faith and desires, and not only by the party's own means alway."
+              "text": "Our Lord is moved to be merciful to sinners by other men's faith and desires, and not only by the party's own means alway.",
+              "kind": "gloss"
             }
           ]
         },
@@ -358,6 +400,9 @@
             {
               "text": "Iob. 14, 4. Esa. 43, 25."
             }
+          ],
+          "xrefs": [
+            "Iob. 14, 4. · Esa. 43, 25."
           ]
         },
         {
@@ -375,7 +420,7 @@
         },
         {
           "verse": 11,
-          "text": "Isay to thee, arise, take up thy couch, and go into thy house."
+          "text": "I say to thee, arise, take up thy couch, and go into thy house."
         },
         {
           "verse": 12,
@@ -392,6 +437,9 @@
             {
               "text": "Mt. 9, 9. Lu. 5, 27."
             }
+          ],
+          "xrefs": [
+            "Mt. 9, 9. · Lu. 5, 27"
           ]
         },
         {
@@ -413,6 +461,9 @@
             {
               "text": "Mt. 9, 13. Lu. 5, 33."
             }
+          ],
+          "xrefs": [
+            "Mt. 9, 13 · Lu. 5, 32"
           ]
         },
         {
@@ -425,7 +476,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "He foretelleth that fasting shall be used in his Church, no less than in the old law, or in the time of John the Baptist. See Mat. c. 9, 15."
+              "text": "He foretelleth that fasting shall be used in his Church, no less then in the old law, or in the time of John the Baptist. See Mat. c. 9, 15.",
+              "kind": "gloss"
             }
           ]
         },
@@ -435,7 +487,7 @@
         },
         {
           "verse": 22,
-          "text": "And nobody putteth new wine into old bottles: otherwise the wine bursteth the bottles, and the wine will he shed, and the bottles will be lost. But new wine must be put into new bottles."
+          "text": "And nobody putteth new wine into old bottles: otherwise the wine bursteth the bottles, and the wine will be shed, and the bottles will be lost. But new wine must be put into new bottles."
         },
         {
           "verse": 23,
@@ -444,6 +496,9 @@
             {
               "text": "Mt. 12, 1. Lu. 6, 1."
             }
+          ],
+          "xrefs": [
+            "Mt. 12, 1 · Lu. 6, 1."
           ]
         },
         {
@@ -465,6 +520,9 @@
             {
               "text": "Lev. 24, 9."
             }
+          ],
+          "xrefs": [
+            "1. Re. 21, 6. · Leu. 24, 9."
           ]
         },
         {
@@ -477,7 +535,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The maker of the law may abrogate or dispense when and where for just cause it seemeth good to him."
+              "text": "The maker of the law may abrogate or dispense when and where for just cause it seemeth good to him.",
+              "kind": "gloss"
             }
           ]
         }
@@ -494,6 +553,9 @@
             {
               "text": "Mt. 12, 9. Lu. 6, 6."
             }
+          ],
+          "xrefs": [
+            "Mt. 12, 9 · Lu. 6, 6."
           ]
         },
         {
@@ -534,7 +596,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The only touching of Christ's holy person, or any part of his cloths, or whatsoever belonged to him, did heal all diseases."
+              "text": "The only touching of Christ's holy person, or any part of his clothes, or whatsoever belonged to him, did heal all diseases.",
+              "kind": "gloss"
             }
           ]
         },
@@ -554,6 +617,9 @@
             {
               "text": "Mt. 5, 1. 10, 1. Lu. 6, 12. 9, 1."
             }
+          ],
+          "xrefs": [
+            "Mt. 5, 1. 10, 1. · Lu. 6, 12 9, 1."
           ]
         },
         {
@@ -592,7 +658,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "See here the conceit of worldly friends, who think the Zeal of Religion, madness: and therefore count them mad, that are Zealous in God's cause and for the Catholic faith: and the more Zealous, the more mad."
+              "text": "See here the conceit of worldly friends, who think the Zeal of Religion, madness: and therefore count them mad, that are Zealous in God's cause and for the Catholic faith: and the more Zealous, the more mad.",
+              "kind": "gloss"
             }
           ]
         },
@@ -603,11 +670,17 @@
             {
               "text": "Mat. 12, 24. Luc. 11, 15."
             }
+          ],
+          "xrefs": [
+            "Mat. 12, 24."
           ]
         },
         {
           "verse": 23,
-          "text": "And after he had called them together, he said to them in parables: How can Satan cast out Satan?"
+          "text": "And after he had called them together, he said to them in parables: How can Satan cast out Satan?",
+          "xrefs": [
+            "Luc. 11, 15."
+          ]
         },
         {
           "verse": 24,
@@ -624,7 +697,7 @@
         },
         {
           "verse": 27,
-          "text": "Nobody can rifle the vessels of the strong, being entered into his house, unless he first bind the strong, & then shall he rifle his house."
+          "text": "Nobody can rifle the vessel of the strong, being entered into his house, unless he first bind the strong, & then shall he rifle his house."
         },
         {
           "verse": 28,
@@ -646,7 +719,10 @@
         },
         {
           "verse": 31,
-          "text": "And the multitude sat about him; and they say to him:"
+          "text": "And the multitude sat about him; and they say to him:",
+          "xrefs": [
+            "Mt. 12, 46. · Lu. 8, 19."
+          ]
         },
         {
           "verse": 32,
@@ -678,6 +754,9 @@
             {
               "text": "Mt. 13, 1. Lu. 8, 4."
             }
+          ],
+          "xrefs": [
+            "Mt. 13, 1. · Lu. 8, 4."
           ]
         },
         {
@@ -722,7 +801,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Such as be out of the Church, though they hear and"
+              "text": "Such as be out of the Church, though they hear and",
+              "kind": "gloss"
             }
           ]
         },
@@ -734,6 +814,9 @@
             {
               "text": "Esa. 6, 9."
             }
+          ],
+          "xrefs": [
+            "Esa. 6, 9"
           ]
         },
         {
@@ -779,8 +862,12 @@
           "notes": [
             {
               "label": "2",
-              "text": "Christ came not to teach his doctrine in corners and hucker mucker, as Heretics do, but to lighten the whole world therewith."
+              "text": "Christ came not to teach his doctrine in corners and hucker mucker, as Heretics do, but to lighten the whole world therewith.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Lu. 8, 16"
           ]
         },
         {
@@ -802,8 +889,12 @@
           "notes": [
             {
               "label": "2",
-              "text": "to you that hear."
+              "text": "to you that hear.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Lu. 8, 18"
           ]
         },
         {
@@ -834,12 +925,18 @@
             {
               "text": "Mat. 13, 31. Luc. 13, 19."
             }
+          ],
+          "xrefs": [
+            "Mat. 13, 31."
           ]
         },
         {
           "verse": 31,
           "text": "As a mustard seed; which when it is sown in the earth, is less than all the seeds that are in the earth:",
-          "has_annotation": true
+          "has_annotation": true,
+          "xrefs": [
+            "Luc. 13, 19."
+          ]
         },
         {
           "verse": 32,
@@ -861,6 +958,9 @@
             {
               "text": "Mt. 8, 23. Lu. 8, 22."
             }
+          ],
+          "xrefs": [
+            "Mt. 8, 23 · Lu. 8, 22"
           ]
         },
         {
@@ -896,11 +996,17 @@
             {
               "text": "Mt. 8, 28. Lu. 8, 26."
             }
+          ],
+          "xrefs": [
+            "Mat. 8, 28."
           ]
         },
         {
           "verse": 2,
-          "text": "And as he went out of the boat, immediately there met him out of the sepulchres a man in an unclean spirit,"
+          "text": "And as he went out of the boat, immediately there met him out of the sepulchres a man in an unclean spirit,",
+          "xrefs": [
+            "Luc. 8, 26."
+          ]
         },
         {
           "verse": 3,
@@ -945,7 +1051,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "It is not without mystery that the devils desired, and Christ suffered them to enter into the swine; signifying that filthy livers be meet dwelling places for devils. Aug. tract. 9. in ep. Io."
+              "text": "It is not without mystery that the devils desired, and Christ suffered them to enter into the swine; signifying that filthy livers be meet dwelling places for devils. Aug. tract. 9. in ep. Io.",
+              "kind": "gloss"
             }
           ]
         },
@@ -988,6 +1095,9 @@
             {
               "text": "Mat. 9, 18. Luc. 8, 42."
             }
+          ],
+          "xrefs": [
+            "Mat. 9, 18."
           ]
         },
         {
@@ -996,8 +1106,12 @@
           "notes": [
             {
               "label": "1",
-              "text": "Archsynagogue, chief governer of a Synagogue."
+              "text": "Archsynagogue, chief governer of a Synagogue.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Luc. 8, 42."
           ]
         },
         {
@@ -1056,7 +1170,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "from"
+              "text": "from",
+              "kind": "gloss"
             }
           ]
         },
@@ -1079,7 +1194,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "To Christ, that can more easily raise a dead man than we can do one that is but asleep, death is but sleep. Aug. de verb. Do. Ser. 44."
+              "text": "To Christ, that can more easily raise a dead man than we can do one that is but asleep, death is but sleep. Aug. de verb. Do. Ser. 44.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1098,7 +1214,7 @@
         },
         {
           "verse": 43,
-          "text": "And he commanded them earnestly that nobody should know it: and he bade that something should be given her to eat."
+          "text": "And he commanded them earnestly that nobody should know it: and he bade that some thing should be given her to eat."
         }
       ],
       "summary": "To the Gerasens (and in them to all men) Christ manifesteth how the Devil of his malice would use them, if he would permit: 17. and yet they like not their Saviour's presence. 21. A woman Gentile, that began her sickness when the Jew's daughter began her life (signifying Abraham's time) he cureth by the way as he was coming to heal the Jews: And even then the Jews do die; but yet them also he will revive, as here the Jew's daughter."
@@ -1113,6 +1229,9 @@
             {
               "text": "Mt. 13, 54. Lu. 4, 16."
             }
+          ],
+          "xrefs": [
+            "Mt. 13, 54. · Lu. 4, 16"
           ]
         },
         {
@@ -1121,7 +1240,7 @@
         },
         {
           "verse": 3,
-          "text": "Is not this the Carpenter, the son of Mary, the brother of James, and Joseph, and Jude, and Simon? Why, are not also his sisters here with us? And they were scandalized in him.",
+          "text": "Is not this the Carpenter, the son of Marie, the brother of James, and Joseph, and Jude, and Simon? Why, are not also his sisters here with us? And they were scandalized in him.",
           "has_annotation": true
         },
         {
@@ -1144,6 +1263,9 @@
             {
               "text": "Mt. 10, 1. Lu. 9, 1."
             }
+          ],
+          "xrefs": [
+            "Mt. 10, 1 · Lu. 9, 1."
           ]
         },
         {
@@ -1157,7 +1279,7 @@
         },
         {
           "verse": 10,
-          "text": "And he said to them: Withersoever you shall enter into an house, there tarry till you depart thence."
+          "text": "And he said to them: Whithersoever you shall enter into an house, there tarry till you depart thence."
         },
         {
           "verse": 11,
@@ -1179,8 +1301,12 @@
           "notes": [
             {
               "label": "2",
-              "text": "A preparative to the Sacrament of extreme unction. Iac. 5."
+              "text": "A preparative to the Sacrament of extreme unction. Iac. 5.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Ia. 5, 14."
           ]
         },
         {
@@ -1190,6 +1316,9 @@
             {
               "text": "Mt. 14, 1. Lu. 9, 7."
             }
+          ],
+          "xrefs": [
+            "Mt. 14, 1 · Lu. 9, 7."
           ]
         },
         {
@@ -1206,11 +1335,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel upon the decollation of S. John Baptist. Aug. 29."
+              "text": "The Gospel upon the decollation of S. John Baptist. Aug. 29.",
+              "kind": "lectionary"
             },
             {
               "label": "2",
-              "text": "He might and should by Moyses law have married his brother's wife, if he had been dead without issue: but this Philip was yet alive, and had also this daughter that danced."
+              "text": "He might and should by Moyses law have married his brother's wife, if he had been dead without issue: but this Philip was yet alive, and had also this daughter that danced.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1221,6 +1352,9 @@
             {
               "text": "Lev. 18, 16. 20, 21."
             }
+          ],
+          "xrefs": [
+            "Leu. 18, 16. 20, 21."
           ]
         },
         {
@@ -1274,6 +1408,9 @@
             {
               "text": "Lu. 9, 10."
             }
+          ],
+          "xrefs": [
+            "Lu. 9, 10"
           ]
         },
         {
@@ -1287,6 +1424,9 @@
             {
               "text": "Mt. 14. 13."
             }
+          ],
+          "xrefs": [
+            "Mt. 14, 13."
           ]
         },
         {
@@ -1295,7 +1435,10 @@
         },
         {
           "verse": 34,
-          "text": "And going forth, Jesus saw a great multitude; and he had compassion on them, because they were as sheep not having a shepherd, and he began to teach them many things."
+          "text": "And going forth, Jesus saw a great multitude; and he had compassion on them, because they were as sheep not having a shepherd, and he began to teach them many things.",
+          "xrefs": [
+            "Mt. 14, 15."
+          ]
         },
         {
           "verse": 35,
@@ -1304,11 +1447,17 @@
             {
               "text": "Mt. 14, 15. Lu. 9, 12. Io. 6, 5."
             }
+          ],
+          "xrefs": [
+            "Lu. 9, 12"
           ]
         },
         {
           "verse": 36,
-          "text": "dismiss them, that going out into the next villages and towns, they may buy themselves meats to eat."
+          "text": "dismiss them, that going out into the next villages and towns, they may buy themselves meats to eat.",
+          "xrefs": [
+            "Io. 6, 5."
+          ]
         },
         {
           "verse": 37,
@@ -1348,7 +1497,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The narrow sea, or water."
+              "text": "The narrow sea, or water.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1363,13 +1513,20 @@
           "notes": [
             {
               "label": "2",
-              "text": "The Gospel on Saturday after Ashwednesday."
+              "text": "The Gospel on Saturday after Ashwednesday.",
+              "kind": "lectionary"
             }
+          ],
+          "xrefs": [
+            "Mt. 14, 23."
           ]
         },
         {
           "verse": 47,
-          "text": "And when it was late, the boat was in the midst of the sea, and himself alone on the land."
+          "text": "And when it was late, the boat was in the midst of the sea, and himself alone on the land.",
+          "xrefs": [
+            "Io. 6, 16."
+          ]
         },
         {
           "verse": 48,
@@ -1398,6 +1555,9 @@
             {
               "text": "Mt. 14, 34."
             }
+          ],
+          "xrefs": [
+            "Mt. 14, 34."
           ]
         },
         {
@@ -1425,6 +1585,9 @@
             {
               "text": "Mt. 15, 1."
             }
+          ],
+          "xrefs": [
+            "Mt. 15, 1"
           ]
         },
         {
@@ -1455,8 +1618,12 @@
           "notes": [
             {
               "label": "2",
-              "text": "They that say well, or teach and preach well, or have Christ and his word in their mouth, and live naughtily, be touched in this place."
+              "text": "They that say well, or teach and preach well, or have Christ and his word in their mouth, and live naughtily, be touched in this place.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Esa. 29, 13."
           ]
         },
         {
@@ -1470,7 +1637,10 @@
         },
         {
           "verse": 9,
-          "text": "And he said to them, well do you frustrate the precept of God, that you may observe your own tradition."
+          "text": "And he said to them, well do you frustrate the precept of God, that you may observe your own tradition.",
+          "xrefs": [
+            "Exo. 20, 12."
+          ]
         },
         {
           "verse": 10,
@@ -1487,7 +1657,10 @@
         {
           "verse": 11,
           "text": "But you say: If a man say to father or mother, Corban (which is a gift) whatsoever proceedeth from me, shall profit thee:",
-          "has_annotation": true
+          "has_annotation": true,
+          "xrefs": [
+            "Leu. 20, 9."
+          ]
         },
         {
           "verse": 12,
@@ -1508,7 +1681,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "See the first annotation upon this chapter."
+              "text": "See the first annotation upon this chapter.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1522,7 +1696,7 @@
         },
         {
           "verse": 18,
-          "text": "And he saith to them: So are you also unskillful? Understand you not that every thing from without, entering into a man, cannot make him common:"
+          "text": "And he saith to them: So are you also unskilful? Understand you not that every thing from without, entering into a man, cannot make him common:"
         },
         {
           "verse": 19,
@@ -1538,7 +1712,7 @@
         },
         {
           "verse": 22,
-          "text": "thefts, avarices, wickedness, guile, impudicities, an evil eye, blasphemy, pride, foolishness."
+          "text": "thefts, avarices, wickednesses, guile, impudicities, an evil eye, blasphemy, pride, foolishness."
         },
         {
           "verse": 23,
@@ -1551,6 +1725,9 @@
             {
               "text": "Mt. 15, 21."
             }
+          ],
+          "xrefs": [
+            "Mt. 15, 21."
           ]
         },
         {
@@ -1583,11 +1760,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel upon the 11. Sunday after Pentecost."
+              "text": "The Gospel upon the 11. Sunday after Pentecost.",
+              "kind": "lectionary"
             },
             {
               "label": "2",
-              "text": "of Tyre and Sidon, he came"
+              "text": "of Tyre and Sidon, he came",
+              "kind": "gloss"
             }
           ]
         },
@@ -1634,8 +1813,12 @@
           "notes": [
             {
               "label": "2",
-              "text": "The Gospel upon the 6. Sunday after Pentecost."
+              "text": "The Gospel upon the 6. Sunday after Pentecost.",
+              "kind": "lectionary"
             }
+          ],
+          "xrefs": [
+            "Mt. 15, 32."
           ]
         },
         {
@@ -1644,7 +1827,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Great fervour and devotion in the good people, and exceeding force in our Master's preaching, that made them abide fasting so long to hear his divine sermons."
+              "text": "Great fervour and devotion in the good people, and exceeding force in our Master's preaching, that made them abide fasting so long to hear his divine sermons.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1672,7 +1856,7 @@
         },
         {
           "verse": 8,
-          "text": "And they did eat and were filled, and they took up that which was left of the fragments, seven maunds."
+          "text": "And they did eat and were filled, and they took up that which was left of the fragments, seven maundes."
         },
         {
           "verse": 9,
@@ -1685,6 +1869,9 @@
             {
               "text": "Mt. 15, 39. 16, 1."
             }
+          ],
+          "xrefs": [
+            "Mt. 15, 39. 16, 1."
           ]
         },
         {
@@ -1717,7 +1904,10 @@
         },
         {
           "verse": 18,
-          "text": "having eyes see you not? and having ears hear you not? Neither do you remember?"
+          "text": "having eyes see you not? and having ears hear you not? Neither do you remember?",
+          "xrefs": [
+            "Mar. 6, 38."
+          ]
         },
         {
           "verse": 19,
@@ -1726,11 +1916,14 @@
             {
               "text": "Mar. 6, 38."
             }
+          ],
+          "xrefs": [
+            "Mr. 8, 5."
           ]
         },
         {
           "verse": 20,
-          "text": "When also seven loaves among four thousand, how many maunds of fragments took you up? And they say to him, Seven.",
+          "text": "When also seven loaves among four thousand, how many maundes of fragments took you up? And they say to him, Seven.",
           "cross_refs": [
             {
               "text": "Mr. 8, 5."
@@ -1747,7 +1940,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Our Saviour used to work much by touching, & by imposition of his hands: that we may learn not to contemn the corporal and external application of holy things, nor to challenge by the spirit and faith only, as Heretics do."
+              "text": "Our Saviour used to work much by touching, & by imposition of his hands: that we may learn not to contemn the corporal and external application of holy things, nor to challenge by the spirit and faith only, as Heretics do.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1774,6 +1968,9 @@
             {
               "text": "Mt. 16, 13. Lu. 9, 18."
             }
+          ],
+          "xrefs": [
+            "Mt. 16, 13. · Lu. 9, 18"
           ]
         },
         {
@@ -1839,6 +2036,9 @@
             {
               "text": "Mt. 16, 27. 17, 1. Lu. 9, 27."
             }
+          ],
+          "xrefs": [
+            "Mt. 16, 27. 17, 1 · Lu. 9, 27"
           ]
         },
         {
@@ -1847,7 +2047,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "See the Annotations upon the 17. of S. Matthew."
+              "text": "See the Annotations upon the 17. of S. Matthew.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1858,7 +2059,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The law and the Prophets join with Christ and his Gospel: the one signified by Moyses, the other by Elias. By whose apparitions here we also learn that sometime there may be personal entercourse betwixt the living & the dead, though not ordinarily."
+              "text": "The law and the Prophets join with Christ and his Gospel: the one signified by Moyses, the other by Elias. By whose apparitions here we also learn that sometime there may be personal entercourse betwixt the living & the dead, though not ordinarily.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1901,8 +2103,12 @@
           "notes": [
             {
               "label": "1",
-              "text": "as"
+              "text": "as",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Mal. 4, 5"
           ]
         },
         {
@@ -1921,11 +2127,17 @@
         },
         {
           "verse": 14,
-          "text": "And forthwith all the people seeing Jesus, was astonished, and much afraid: and running to him, saluted him."
+          "text": "And forthwith all the people seeing Jesus, was astonished, and much afraid: and running to him, saluted him.",
+          "xrefs": [
+            "Mt. 17, 14."
+          ]
         },
         {
           "verse": 15,
-          "text": "And he asked them, what do you question of among you?"
+          "text": "And he asked them, what do you question of among you?",
+          "xrefs": [
+            "Lu. 9, 37"
+          ]
         },
         {
           "verse": 16,
@@ -1933,7 +2145,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel upon Wednesday in the Imber week of September."
+              "text": "The Gospel upon Wednesday in the Imber week of September.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -1987,7 +2200,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Note the great force of prayer, and fasting."
+              "text": "Note the great force of prayer, and fasting.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2002,11 +2216,17 @@
         },
         {
           "verse": 30,
-          "text": "And he taught his Disciples, and said to them: That the Son of man shall be betrayed into the hands of men, and they shall kill him, and being killed the third day he shall rise again."
+          "text": "And he taught his Disciples, and said to them: That the Son of man shall be betrayed into the hands of men, and they shall kill him, and being killed the third day he shall rise again.",
+          "xrefs": [
+            "Mt. 17, 22."
+          ]
         },
         {
           "verse": 31,
-          "text": "But they knew not the word: and they were afraid to ask him."
+          "text": "But they knew not the word: and they were afraid to ask him.",
+          "xrefs": [
+            "Lu. 9, 21"
+          ]
         },
         {
           "verse": 32,
@@ -2019,7 +2239,10 @@
         },
         {
           "verse": 33,
-          "text": "But they held their peace, for in the way they had disputed among themselves, which of them should be the greater."
+          "text": "But they held their peace, for in the way they had disputed among themselves, which of them should be the greater.",
+          "xrefs": [
+            "Mt. 18, 1 · Lu. 9, 46."
+          ]
         },
         {
           "verse": 34,
@@ -2045,7 +2268,10 @@
         },
         {
           "verse": 38,
-          "text": "But Jesus said: Do not prohibit him. For there is no man that doth a miracle in my name, and can soon speak ill of me."
+          "text": "But Jesus said: Do not prohibit him. For there is no man that doth a miracle in my name, and can soon speak ill of me.",
+          "xrefs": [
+            "Lu. 9, 49."
+          ]
         },
         {
           "verse": 39,
@@ -2057,7 +2283,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Reward for alms deeds, whereby it is evident they be meritorious."
+              "text": "Reward for alms deeds, whereby it is evident they be meritorious.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2067,7 +2294,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "To give scandal by our life to the weak in faith, is a great sin, specially in Priests, Preachers, and Princes."
+              "text": "To give scandal by our life to the weak in faith, is a great sin, specially in Priests, Preachers, and Princes.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2106,7 +2334,10 @@
         },
         {
           "verse": 49,
-          "text": "Salt is good. But if the salt shall be unseasoned; wherewith will you season it? Have salt in you, and have peace among you."
+          "text": "Salt is good. But if the salt shall be unseasoned; wherewith will you season it? Have salt in you, and have peace among you.",
+          "xrefs": [
+            "Leu. 2, 13"
+          ]
         }
       ],
       "summary": "The more to confirm them, he giveth them in his Transfiguration a sight of his glory, whereunto suffering doth bring, 9. and then again doth inculcate his Passion. 14. A Devil also he casteth out, which his Disciples (upon whom therefore the perverse Scribes triumphed in his absence) could not, for lack of fasting and praying. 30. Being yet in Galilee, he revealeth more about his Passion. 33. And (because in the way to Capharnaum they contended for the Primacy (he teacheth them that humility is the way to Primacy before God: 38. bidding them also, not to prohibit such as be not against them: nor to give scandal to any one of the faithful, and on the other side, the faithful to avoid them by whom they may be scandalized and fall, be they never so near unto them.",
@@ -2124,6 +2355,9 @@
             {
               "text": "Mt. 19, 1."
             }
+          ],
+          "xrefs": [
+            "Mt. 19, 1"
           ]
         },
         {
@@ -2132,7 +2366,10 @@
         },
         {
           "verse": 3,
-          "text": "But he answering, said to them: What did Moyses command you?"
+          "text": "But he answering, said to them: What did Moyses command you?",
+          "xrefs": [
+            "Deut. 24, 1."
+          ]
         },
         {
           "verse": 4,
@@ -2155,6 +2392,9 @@
             {
               "text": "Gen. 1, 27."
             }
+          ],
+          "xrefs": [
+            "Gen. 1, 27."
           ]
         },
         {
@@ -2164,6 +2404,9 @@
             {
               "text": "Gen. 2, 24."
             }
+          ],
+          "xrefs": [
+            "Gen. 2, 24."
           ]
         },
         {
@@ -2172,11 +2415,12 @@
         },
         {
           "verse": 9,
-          "text": "That therefore which God hath joined together, let no man separate.",
+          "text": "That therefore which God hath joined together, let not man separate.",
           "notes": [
             {
               "label": "1",
-              "text": "The obligation betwixt man and wife is so great, that during life it cannot be broken."
+              "text": "The obligation betwixt man and wife is so great, that during life it cannot be broken.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2187,16 +2431,25 @@
             {
               "text": "Mt. 19, 9. Mt. 5, 32. Lu. 16, 18. 1. Cor. 7, 11."
             }
+          ],
+          "xrefs": [
+            "Mt. 19, 9"
           ]
         },
         {
           "verse": 11,
-          "text": "And he saith to them: Whosoever dismisseth his wife and marrieth another, committeth adultery upon her.",
-          "has_annotation": true
+          "text": "And he saith to them: Whosoever dismisseth his wife and marrieth another, committeth advoutry upon her.",
+          "has_annotation": true,
+          "xrefs": [
+            "Mt. 5, 32 · Lu. 16, 18."
+          ]
         },
         {
           "verse": 12,
-          "text": "And if the wife dismiss her husband, and marry another, she committeth adultery."
+          "text": "And if the wife dismiss her husband, and marry another, she committeth advoutry.",
+          "xrefs": [
+            "1. Cor. 7, 11."
+          ]
         },
         {
           "verse": 13,
@@ -2205,6 +2458,9 @@
             {
               "text": "Mt. 19, 13. Lu. 18, 15."
             }
+          ],
+          "xrefs": [
+            "Mt. 19, 13. · Lu. 18, 15."
           ]
         },
         {
@@ -2221,7 +2477,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Our Saviour gave the children his blessing, imposing his hands upon them."
+              "text": "Our Saviour gave the children his blessing, imposing his hands upon them.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2232,16 +2489,22 @@
             {
               "text": "Mt. 19, 16. Lu. 18, 18."
             }
+          ],
+          "xrefs": [
+            "Mt. 19, 16."
           ]
         },
         {
           "verse": 18,
           "text": "And Jesus said to him, why callest thou me good? None is good but one, God.",
-          "has_annotation": true
+          "has_annotation": true,
+          "xrefs": [
+            "Lu. 18, 18."
+          ]
         },
         {
           "verse": 19,
-          "text": "Thou knowest the commandments, Commit not adultery, Kill not, Steal not, Bear not false witness, do no fraud, Honour thy father and mother.",
+          "text": "Thou knowest the commandments, Commit not advoutry, Kill not, Steal not, Bear not false witness, do no fraud, Honour thy father and mother.",
           "cross_refs": [
             {
               "text": "Exo. 20, 13."
@@ -2250,8 +2513,12 @@
           "notes": [
             {
               "label": "2",
-              "text": "Note that the keeping of God's commandments procureth life everlasting."
+              "text": "Note that the keeping of God's commandments procureth life everlasting.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Exo. 20, 13."
           ]
         },
         {
@@ -2264,7 +2531,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "This is counsel of perfection (not a precept) which the Religious professing and keeping voluntary poverty, do follow."
+              "text": "This is counsel of perfection (not a precept) which the Religious professing and keeping voluntary poverty, do follow.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2278,7 +2546,7 @@
         },
         {
           "verse": 24,
-          "text": "And the Disciples were astonished at his words. But Jesus again answering, saith to them: Children, how hard is it for them that trust in money, to enter into the Kingdom of God!"
+          "text": "And the Disciples were astonied at his words. But Jesus again answering, saith to them: Children, how hard is it for them that trust in money, to enter into the Kingdom of God!"
         },
         {
           "verse": 25,
@@ -2303,14 +2571,18 @@
           "notes": [
             {
               "label": "1",
-              "text": "Exceeding happy be they that can forsake their temporal things for religion."
+              "text": "Exceeding happy be they that can forsake their temporal things for religion.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 30,
           "text": "that shall not receive an hundred times so much now in this time; houses, and brethren, and sisters, and mothers, and children, and lands, with persecutions: and in the world to come life everlasting.",
-          "has_annotation": true
+          "has_annotation": true,
+          "xrefs": [
+            "Mt. 19, 30."
+          ]
         },
         {
           "verse": 31,
@@ -2328,11 +2600,17 @@
             {
               "text": "Mt. 20, 17. Lu. 18, 31."
             }
+          ],
+          "xrefs": [
+            "Lu. 13, 30. · Mt. 20, 17."
           ]
         },
         {
           "verse": 33,
-          "text": "That, behold we go up to Jerusalem, and the Son of man shall be betrayed to the chief Priests, and to the Scribes and Ancients, and they shall condemn him to death, and shall deliver him to the Gentiles."
+          "text": "That, behold we go up to Jerusalem, and the Son of man shall be betrayed to the chief Priests, and to the Scribes and Ancients, and they shall condemn him to death, and shall deliver him to the Gentiles.",
+          "xrefs": [
+            "Lu. 18, 31."
+          ]
         },
         {
           "verse": 34,
@@ -2340,11 +2618,14 @@
         },
         {
           "verse": 35,
-          "text": "And there came to him James and John the sons of Zebedee, saying: Master, we will that what thing soever we shall ask, thou do it to us.",
+          "text": "And there come to him James and John the sons of Zebedee, saying: Master, we will that what thing soever we shall ask, thou do it to us.",
           "cross_refs": [
             {
               "text": "Mt. 20, 20."
             }
+          ],
+          "xrefs": [
+            "Mt. 20, 20."
           ]
         },
         {
@@ -2378,6 +2659,9 @@
             {
               "text": "Mt. 20, 25. Lu. 22, 25."
             }
+          ],
+          "xrefs": [
+            "Mt. 20, 25. · Lu. 22, 25."
           ]
         },
         {
@@ -2399,6 +2683,9 @@
             {
               "text": "Mt. 20, 29. Lu. 18, 35."
             }
+          ],
+          "xrefs": [
+            "Mt. 20, 29. · Lu. 18, 35."
           ]
         },
         {
@@ -2448,13 +2735,20 @@
           "notes": [
             {
               "label": "2",
-              "text": "PALM Sunday."
+              "text": "PALM Sunday.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Mt. 21, 1."
           ]
         },
         {
           "verse": 2,
-          "text": "and saith to them: Go into the town that is against you, and immediately entering in thither, you shall find a colt tied, upon which no man yet hath sitten: loose him, and bring him."
+          "text": "and saith to them: Go into the town that is against you, and immediately entering in thither, you shall find a colt tied, upon which no man yet hath sitten: loose him, and bring him.",
+          "xrefs": [
+            "Lu. 19, 20. · Io. 12, 15"
+          ]
         },
         {
           "verse": 3,
@@ -2482,7 +2776,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "All these voluntary duties were grateful to our Saviour, and so be the like done to him in the B. Sacrament."
+              "text": "All these voluntary duties were grateful to our Saviour, and so be the like done to him in the B. Sacrament.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2493,6 +2788,9 @@
             {
               "text": "Ps. 117, 26."
             }
+          ],
+          "xrefs": [
+            "Ps. 117, 26."
           ]
         },
         {
@@ -2509,8 +2807,12 @@
           "notes": [
             {
               "label": "1",
-              "text": "MONDAY."
+              "text": "MONDAY.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Mt. 21, 19."
           ]
         },
         {
@@ -2533,6 +2835,9 @@
             {
               "text": "Mt. 21, 12. Lu. 19, 45."
             }
+          ],
+          "xrefs": [
+            "Mt. 21, 12. · Lu. 19, 45."
           ]
         },
         {
@@ -2548,11 +2853,17 @@
             {
               "text": "Esa. 56, 7. Ier. 7, 11."
             }
+          ],
+          "xrefs": [
+            "Esa. 56, 7."
           ]
         },
         {
           "verse": 18,
-          "text": "Which when the chief Priests and the Scribes had heard, they sought how they might destroy him. For they were afraid of him, because the whole multitude was in admiration upon his doctrine."
+          "text": "Which when the chief Priests and the Scribes had heard, they sought how they might destroy him. For they were afraid of him, because the whole multitude was in admiration upon his doctrine.",
+          "xrefs": [
+            "Ier. 7, 11"
+          ]
         },
         {
           "verse": 19,
@@ -2569,12 +2880,17 @@
           "notes": [
             {
               "label": "3",
-              "text": "TUESDAY."
+              "text": "TUESDAY.",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "b The Gospel for S. Gregorius Thaumaturgus Novemb. 17. And in a Votive Mass for any necessity."
+              "text": "b The Gospel for S. Gregorius Thaumaturgus Novemb. 17. And in a Votive Mass for any necessity.",
+              "kind": "lectionary"
             }
+          ],
+          "xrefs": [
+            "Mt. 21, 20."
           ]
         },
         {
@@ -2587,7 +2903,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Faith of God is to believe that he is able, and that he will do it if it be expedient, and no impediment on our part."
+              "text": "Faith of God is to believe that he is able, and that he will do it if it be expedient, and no impediment on our part.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2609,7 +2926,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "God never forgiveth sins to him that pardoneth not his enemies from his heart. Whereby it is evident that more is required than only faith."
+              "text": "God never forgiveth sins to him that pardoneth not his enemies from his heart. Whereby it is evident that more is required than only faith.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2620,11 +2938,17 @@
             {
               "text": "Mt. 21. 23. Lu. 20, 2."
             }
+          ],
+          "xrefs": [
+            "Mt. 21, 23."
           ]
         },
         {
           "verse": 28,
-          "text": "and they say to him: In what power doest thou these things? and who hath given thee this power, that thou shouldest do these things?"
+          "text": "and they say to him: In what power doest thou these things? and who hath given thee this power, that thou shouldest do these things?",
+          "xrefs": [
+            "Lu. 20, 2."
+          ]
         },
         {
           "verse": 29,
@@ -2640,7 +2964,7 @@
         },
         {
           "verse": 32,
-          "text": "If we say, from men, we fear the people. For all accounted John that he was indeed a Prophet."
+          "text": "If we say, from men, they fear the people. For all accounted John that he was indeed a Prophet."
         },
         {
           "verse": 33,
@@ -2653,7 +2977,8 @@
         "notes": [
           {
             "label": "1",
-            "text": "The fourth part of this Gospel, the Holy Week of his Passion in Hierusalem."
+            "text": "The fourth part of this Gospel, the Holy Week of his Passion in Hierusalem.",
+            "kind": "gloss"
           }
         ]
       }
@@ -2672,8 +2997,12 @@
           "notes": [
             {
               "label": "2",
-              "text": "This man, is God the Father. This vineyard, is (as Esay saith 5, 1.) the house of Israel. The servants sent, are Moyses and the Prophets, whom the Jews did diversly afflict and persecute."
+              "text": "This man, is God the Father. This vineyard, is (as Esay saith 5, 1.) the house of Israel. The servants sent, are Moyses and the Prophets, whom the Jews did diversely afflict and persecute.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Es. 5, 1. · Mt. 21, 33. · Lu. 20, 9."
           ]
         },
         {
@@ -2698,7 +3027,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "His son is CHRIST our Saviour, whom the Jews crucified out of the city of Jerusalem, as it were casting him out of the vineyard."
+              "text": "His son is CHRIST our Saviour, whom the Jews crucified out of the city of Jerusalem, as it were casting him out of the vineyard.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2716,7 +3046,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Jews and their guilds to whom the vineyard was set, destroyed: and God's vineyard given to the Apostles and their successors in the Gentiles."
+              "text": "The Jews and their guides to whom the vineyard was set, destroyed: and God's vineyard given to the Apostles and their successors in the Gentiles.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2731,8 +3062,12 @@
           "notes": [
             {
               "label": "2",
-              "text": "CHRIST is become the corner stone of the Synagogue and the Church in which the faithful both of the Jews and Gentiles are contained."
+              "text": "CHRIST is become the corner stone of the Synagogue and the Church in which the faithful both of the Jews and Gentiles are contained.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Ps. 117, 22."
           ]
         },
         {
@@ -2750,11 +3085,17 @@
             {
               "text": "Mt. 22, 15. Lu. 26, 20."
             }
+          ],
+          "xrefs": [
+            "Mt. 22, 15."
           ]
         },
         {
           "verse": 14,
-          "text": "Who coming, say to him: Master, we know that thou art a true speaker, and carest not for any man; for thou doest not look upon the person of men, but teachest the way of God in truth. Is it lawful to give tribute to Cæsar; or shall we not give it?"
+          "text": "Who coming, say to him: Master, we know that thou art a true speaker, and carest not for any man; for thou doest not look upon the person of men, but teachest the way of God in truth. Is it lawful to give tribute to Cæsar; or shall we not give it?",
+          "xrefs": [
+            "Lu. 26, 20."
+          ]
         },
         {
           "verse": 15,
@@ -2776,6 +3117,9 @@
             {
               "text": "Mt. 22, 23. Lu. 20, 27. Act. 23, 6."
             }
+          ],
+          "xrefs": [
+            "Mt. 22, 23."
           ]
         },
         {
@@ -2786,11 +3130,17 @@
             {
               "text": "Deu. 25, 5."
             }
+          ],
+          "xrefs": [
+            "Lu. 20, 27. · Act. 23, 6."
           ]
         },
         {
           "verse": 20,
-          "text": "There were therefore seven brethren; and the first took a wife, and died leaving no issue."
+          "text": "There were therefore seven brethren; and the first took a wife, and died leaving no issue.",
+          "xrefs": [
+            "Deu. 25, 5."
+          ]
         },
         {
           "verse": 21,
@@ -2820,6 +3170,9 @@
             {
               "text": "Exo. 3, 6."
             }
+          ],
+          "xrefs": [
+            "Exo. 3, 6"
           ]
         },
         {
@@ -2833,6 +3186,9 @@
             {
               "text": "Mt. 22, 34."
             }
+          ],
+          "xrefs": [
+            "Mt. 22, 34."
           ]
         },
         {
@@ -2842,6 +3198,9 @@
             {
               "text": "Deu. 6, 5."
             }
+          ],
+          "xrefs": [
+            "Deu. 6, 5"
           ]
         },
         {
@@ -2855,6 +3214,9 @@
             {
               "text": "Lev. 19, 18."
             }
+          ],
+          "xrefs": [
+            "Leu. 19, 18."
           ]
         },
         {
@@ -2867,7 +3229,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "This excellency of Charity teacheth us that faith only is not sufficient."
+              "text": "This excellency of Charity teacheth us that faith only is not sufficient.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2882,6 +3245,9 @@
             {
               "text": "Mt. 22, 41. Lu. 20, 41."
             }
+          ],
+          "xrefs": [
+            "Mt. 22, 41. · Lu. 20, 41."
           ]
         },
         {
@@ -2891,6 +3257,9 @@
             {
               "text": "Ps. 109, 1."
             }
+          ],
+          "xrefs": [
+            "Ps. 109, 1."
           ]
         },
         {
@@ -2916,6 +3285,9 @@
             {
               "text": "Lu. 21, 2."
             }
+          ],
+          "xrefs": [
+            "Lu. 21, 2."
           ]
         },
         {
@@ -2928,7 +3300,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "God doth accept alms that are correspondent to every man's ability: and the more able, the more must a man give."
+              "text": "God doth accept alms that are correspondent to every man's ability: and the more able, the more must a man give.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2953,8 +3326,12 @@
           "notes": [
             {
               "label": "2",
-              "text": "See the Annotations upon S. Matthew c. 24."
+              "text": "See the Annotations upon S. Matthew c. 24.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Mt. 24, 1. · Lu. 21, 5."
           ]
         },
         {
@@ -2972,7 +3349,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "TUESDAY night."
+              "text": "TUESDAY night.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2987,17 +3365,18 @@
         },
         {
           "verse": 7,
-          "text": "And when you shall hear of wars and bruits of wars, fear not. For these things must be, but the end is not yet."
-        },
-        {
-          "verse": 8,
-          "text": "For nation shall rise against nation and kingdom against kingdom, and there shall be earth-quakes in places, & famines. These things are the beginning of sorrows.",
+          "text": "And when you shall hear of wars and bruits of wars, fear not. For these things must be, but the end is not yet.",
           "notes": [
             {
               "label": "1",
-              "text": "Great wars toward the later end."
+              "text": "Great wars toward the later end.",
+              "kind": "gloss"
             }
           ]
+        },
+        {
+          "verse": 8,
+          "text": "For nation shall rise against nation and kingdom against kingdom, and there shall be earthquakes in places, & famines. These things are the beginning of sorrows."
         },
         {
           "verse": 9,
@@ -3005,7 +3384,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Much persecution of the faithful and Catholic men in the later end."
+              "text": "Much persecution of the faithful and Catholic men in the later end.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3023,7 +3403,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Great treachery and many false brethren at the same time."
+              "text": "Great treachery and many false brethren at the same time.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3033,7 +3414,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Constancy and perseverance necessary in time of persecution."
+              "text": "Constancy and perseverance necessary in time of persecution.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3045,6 +3427,9 @@
             {
               "text": "Dan. 9, 27. 2. Thess. 2, 4."
             }
+          ],
+          "xrefs": [
+            "Dan. 9, 27. · 2. Thess. 2, 4."
           ]
         },
         {
@@ -3073,7 +3458,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Antichrist's reign shall be three years and a half. Dan. 7. Apoc. 13."
+              "text": "Antichrist's reign shall be three years and a half. Dan. 7. Apoc. 13.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3097,6 +3483,9 @@
             {
               "text": "Ez. 31, 7. Ioel. 3, 15."
             }
+          ],
+          "xrefs": [
+            "Ez. 31, 7 · Ioel. 3, 15."
           ]
         },
         {
@@ -3110,6 +3499,9 @@
             {
               "text": "Dan. 7, 13."
             }
+          ],
+          "xrefs": [
+            "Dan. 7, 13."
           ]
         },
         {
@@ -3138,7 +3530,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Not as though himself knew not, as the Heretics Agnoitæ held: but because he knew it not for to teach it others, as being not expedient. Ambr. de fide li. 5. c. 8."
+              "text": "Not as though himself knew not, as the Heretics Agnoitæ held: but because he knew it not for to teach it others, as being not expedient. Ambr. de fide li. 5. c. 8.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3148,7 +3541,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel for some Confessors. Bishops. And on the Anniversary of the creation of a Bishop."
+              "text": "The Gospel for some Confessors. Bishops. And on the Anniversary of the creation of a Bishop.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -3185,13 +3579,17 @@
           "notes": [
             {
               "label": "2",
-              "text": "TENEBRÆ Wednesday."
+              "text": "TENEBRÆ Wednesday.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Mt. 26, 1. · Lu. 22, 1."
           ]
         },
         {
           "verse": 2,
-          "text": "But they said: Not on the festival day, lest there might be a tumult of the people."
+          "text": "For they said: Not on the festival day, lest there might be a tumult of the people."
         },
         {
           "verse": 3,
@@ -3200,6 +3598,9 @@
             {
               "text": "Mat. 26, 6. Ioan. 12, 3."
             }
+          ],
+          "xrefs": [
+            "Mat. 26, 6. · Ioan. 12, 3."
           ]
         },
         {
@@ -3222,7 +3623,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "We have not Christ here needing our alms, as when he conversed upon the earth. See Mat. 26, 11."
+              "text": "We have not Christ here needing our alms, as when he conversed upon the earth. See Mat. 26, 11.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3232,7 +3634,7 @@
         },
         {
           "verse": 9,
-          "text": "Amen I say to you, wheresoever this Gospel shall be preached in the whole world, that also which she hath done, shall be told for a memory of her."
+          "text": "Amen I say to you, wheresoever this Gospel shall be preached in the whole world, that also which she hath done, shall be told for a memory for her."
         },
         {
           "verse": 10,
@@ -3241,6 +3643,9 @@
             {
               "text": "Mat. 26, 17. Lu. 22, 7."
             }
+          ],
+          "xrefs": [
+            "Mat. 26 17. · Lu. 22, 7"
           ]
         },
         {
@@ -3258,8 +3663,12 @@
           "notes": [
             {
               "label": "2",
-              "text": "MAUNDY Thursday."
+              "text": "MAUNDY Thursday.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Mt. 26, 17. · Lu. 22, 7."
           ]
         },
         {
@@ -3276,7 +3685,10 @@
         },
         {
           "verse": 16,
-          "text": "And his Disciples went their ways, and came into the city; and they found as he had told them, and they prepared the Pasch."
+          "text": "And his Disciples went their ways, and came into the city; and they found as he had told them, and they prepared the Pasch.",
+          "xrefs": [
+            "Io. 13, 21."
+          ]
         },
         {
           "verse": 17,
@@ -3306,6 +3718,9 @@
             {
               "text": "Ps. 40, 10."
             }
+          ],
+          "xrefs": [
+            "Ps. 40, 10. · Mt. 26, 26."
           ]
         },
         {
@@ -3316,6 +3731,9 @@
             {
               "text": "Mt. 26, 26. Lu. 21, 19. 1. Cor. 11, 24."
             }
+          ],
+          "xrefs": [
+            "Luc. 21, 19."
           ]
         },
         {
@@ -3325,8 +3743,12 @@
           "notes": [
             {
               "label": "1",
-              "text": "All drank, to wit, all the twelve, for more were not present. Whereby is evident that the words in S. Mat. (26, 27) Drink ye all of this, were spoken to all the Apostles only, which here are said that they all did drink. And so it is no general commandment to all men."
+              "text": "All drank, to wit, all the twelve, for more were not present. Whereby is evident that the words in S. Mat. (26, 27) Drink ye all of this, were spoken to all the Apostles only, which here are said that they all did drink. And so it is no general commandment to all men.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "1. Cor. 11, 24."
           ]
         },
         {
@@ -3349,7 +3771,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "THURSDAY night."
+              "text": "THURSDAY night.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3360,6 +3783,9 @@
             {
               "text": "Zach. 13, 7."
             }
+          ],
+          "xrefs": [
+            "Zach. 13, 7."
           ]
         },
         {
@@ -3408,7 +3834,7 @@
         },
         {
           "verse": 39,
-          "text": "And going away again, he prayed, saying the self same word."
+          "text": "And going away again, he prayed, saying the selfsame word."
         },
         {
           "verse": 40,
@@ -3429,6 +3855,9 @@
             {
               "text": "Mt. 26, 47. Luc. 22, 47. Io. 18, 3."
             }
+          ],
+          "xrefs": [
+            "Mt. 26, 47. · Luc. 22, 47. · Io. 18, 3."
           ]
         },
         {
@@ -3506,7 +3935,10 @@
         },
         {
           "verse": 61,
-          "text": "But he held his peace and answered nothing. Again the high Priest asked him, and said to him: Art thou Christ the Son of the blessed God?"
+          "text": "But he held his peace and answered nothing. Again the high Priest asked him, and said to him: Art thou Christ the Son of the blessed God?",
+          "xrefs": [
+            "Dan. 7, 13."
+          ]
         },
         {
           "verse": 62,
@@ -3527,7 +3959,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Here we may see that they were worthily reprobated and forsaken, according to our Saviour's prediction by the parable (Mar. 12) The kingdom of God shall be taken from you &c."
+              "text": "Here we may see that they were worthily reprobated and forsaken, according to our Saviour's prediction by the parable (Mar. 12) The kingdom of God shall be taken from you &c.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3541,7 +3974,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "He feareth not afterward Rome the Lady of the world, that in the house of Caiphas was afraid of the high Priest's wench. Leo in Nativ. Pet. & Pau. ser. 1."
+              "text": "He feareth not afterward Rome the Lady of the world, that in the house of Caiphas was afraid of the high Priest's wench. Leo in Nativ. Pet. & Pau. ser. 1.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3593,13 +4027,20 @@
           "notes": [
             {
               "label": "2",
-              "text": "GOOD FRIDAY."
+              "text": "GOOD FRIDAY.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Mt. 27, 1. · Lu. 23, 1."
           ]
         },
         {
           "verse": 2,
-          "text": "And Pilate asked him: Art thou the King of the Jews? but he answering, said to him: Thou sayest,"
+          "text": "And Pilate asked him: Art thou the King of the Jews? but he answering, said to him: Thou sayest,",
+          "xrefs": [
+            "Io. 18, 28."
+          ]
         },
         {
           "verse": 3,
@@ -3648,7 +4089,7 @@
         },
         {
           "verse": 14,
-          "text": "And Pilate saith to them: Why, what evil hath he done? But they cried the more: Crucify him."
+          "text": "And Pilate said to them: Why, what evil hath he done? But they cried the more: Crucify him."
         },
         {
           "verse": 15,
@@ -3661,7 +4102,14 @@
           "cross_refs": [
             {
               "text": "Io. 19, 2."
+            },
+            {
+              "text": "Io. 19, 1",
+              "source": "sancta"
             }
+          ],
+          "xrefs": [
+            "Io. 19, 2."
           ]
         },
         {
@@ -3723,11 +4171,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "thou that destroyest"
+              "text": "thou that destroyest",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "buildest"
+              "text": "buildest",
+              "kind": "gloss"
             }
           ]
         },
@@ -3737,7 +4187,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "So Heretics say of the B. Sacrament. If it be Christ, let him save himself from all injuries."
+              "text": "So Heretics say of the B. Sacrament. If it be Christ, let him save himself from all injuries.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3764,8 +4215,12 @@
           "notes": [
             {
               "label": "2",
-              "text": "See (Mat. c. 27, 46) the blasphemous exposition of Calvin and his followers, and take heed thereof."
+              "text": "See (Mat. c. 27, 46) the blasphemous exposition of Calvin and his followers, and take heed thereof.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Ps. 21, 1."
           ]
         },
         {
@@ -3790,7 +4245,7 @@
         },
         {
           "verse": 40,
-          "text": "And there were also women looking on a far off: among whom was Mary Magdalene, and Mary the mother of James the less, and of Joseph, and Salome;"
+          "text": "And there were also women looking on a far off: among whom was Marie Magdalene, and Marie the mother of James the less, and of Joseph, and Salome;"
         },
         {
           "verse": 41,
@@ -3819,7 +4274,7 @@
         },
         {
           "verse": 47,
-          "text": "And Mary Magdalene and Mary of Joseph beheld where he was laid."
+          "text": "And Marie Magdalene and Marie of Joseph beheld where he was laid."
         }
       ],
       "summary": "The chief of the Jews accuse him to Pilate the Gentile. 6. And (he seeking to deliver him) they persuade the common people (who hitherto were always ready to defend him) not only to prefer the murderer Barabbas, but also to cry Crucifige (to the reprobation of the whole nation.) 16. After many illusions, 20. he is crucified by the Gentiles, 29. which the Jews seeing, do triumph as if they had now the victory. 33. But even then by many wonderful works he declareth his might, 42. and finally is buried honorably."
@@ -3829,7 +4284,7 @@
       "verses": [
         {
           "verse": 1,
-          "text": "And when the Sabboth was past, Mary Magdalene and Mary of James, and Salome bought spices, that coming they might anoint Jesus.",
+          "text": "And when the Sabboth was past, Marie Magdalene and Marie of James, and Salome bought spices, that coming they might anoint Jesus.",
           "has_annotation": true,
           "cross_refs": [
             {
@@ -3839,8 +4294,12 @@
           "notes": [
             {
               "label": "2",
-              "text": "The Gospel upon Easter day."
+              "text": "The Gospel upon Easter day.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Mt. 28, 1. · Lu. 24, 1 · Io. 20, 1."
           ]
         },
         {
@@ -3849,7 +4308,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "EASTER DAY."
+              "text": "EASTER DAY.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3880,17 +4340,18 @@
           "notes": [
             {
               "label": "2",
-              "text": "Peter is named in special (as often elsewhere) for prerogative."
+              "text": "Peter is named in special (as often elsewhere) for prerogative.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 8,
-          "text": "But they going forth, fled from the monument. For trembling and fear had invaded them: and they said nothing to anybody, for they were afraid."
+          "text": "But they going forth, fled from the monument. For trembling and fear had invaded them: and they said nothing to any body, for they were afraid."
         },
         {
           "verse": 9,
-          "text": "And he rising early the first of the Sabboth, appeared first to Mary Magdalen, out of whom he had cast seven devils.",
+          "text": "And he rising early the first of the Sabboth, appeared first to Marie Magdalen, out of whom he had cast seven devils.",
           "cross_refs": [
             {
               "text": "Io. 20, 16."
@@ -3906,7 +4367,10 @@
         },
         {
           "verse": 11,
-          "text": "And they hearing that he was alive and had been seen of her, did not believe."
+          "text": "And they hearing that he was alive and had been seen of her, did not believe.",
+          "xrefs": [
+            "Lu. 24, 13."
+          ]
         },
         {
           "verse": 12,
@@ -3920,11 +4384,14 @@
         },
         {
           "verse": 13,
-          "text": "And they going told the rest: neither them did they believe."
+          "text": "And they going told the rest: neither them did they believe.",
+          "xrefs": [
+            "Lu. 24, 36."
+          ]
         },
         {
           "verse": 14,
-          "text": "Last he appeared to those eleven as they sat at the table; and he exprobrated their incredulity and hardness of heart, because they did not believe them that had seen him risen again.",
+          "text": "Last he appeared to those eleven as they sate at the table; and he exprobrated their incredulity and hardness of heart, because they did not believe them that had seen him risen again.",
           "cross_refs": [
             {
               "text": "Lu. 24, 36. Io. 20, 26."
@@ -3933,8 +4400,12 @@
           "notes": [
             {
               "label": "2",
-              "text": "The Gospel upon the Ascension day. And for some Martyrs."
+              "text": "The Gospel upon the Ascension day. And for some Martyrs.",
+              "kind": "lectionary"
             }
+          ],
+          "xrefs": [
+            "Io. 20, 19. · Mt. 28, 19."
           ]
         },
         {
@@ -3962,13 +4433,14 @@
           "notes": [
             {
               "label": "1",
-              "text": "Miracles in the Church by imposition of hands"
+              "text": "Miracles in the Church by imposition of hand",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 19,
-          "text": "And so our Lord Jesus after he spake unto them, was assumpted into Heaven, and sat on the right hand of God.",
+          "text": "And so our Lord Jesus after he spake unto them, was assumpted into Heaven, and sate on the right hand of God.",
           "cross_refs": [
             {
               "text": "Lu. 24, 51."
@@ -3977,8 +4449,12 @@
           "notes": [
             {
               "label": "2",
-              "text": "The Ascension."
+              "text": "The Ascension.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Lu. 25, 51."
           ]
         },
         {

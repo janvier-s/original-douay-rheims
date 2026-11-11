@@ -57,7 +57,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "This Gospel is most solemnly sung in some Churches after Matins upon Christmas day. As also it is the Gospel of the <i>Conception, Nativity,</i> and <i>Presentation</i> of our B. Lady: because here is declared the pedigree of her also."
+              "text": "This Gospel is most solemnly sung in some Churches after Matins upon Christmas day. As also it is the Gospel of the <i>Conception, Nativity,</i> and <i>Presentation</i> of our B. Lady: because here is declared the pedigree of her also.",
+              "kind": "gloss"
             }
           ]
         },
@@ -67,6 +68,10 @@
           "cross_refs": [
             {
               "text": "Gen. 21. 25. 29. 38."
+            },
+            {
+              "text": "Gen. 21, 25, 29",
+              "source": "sancta"
             }
           ]
         },
@@ -82,7 +87,10 @@
         },
         {
           "verse": 4,
-          "text": "And Aram begat Aminadab. And Aminadab begat Naasson. And Naasson begat Salmon."
+          "text": "And Aram begat Aminadab. And Aminadab begat Naasson. And Naasson begat Salmon.",
+          "xrefs": [
+            "Ruth. 4, 18."
+          ]
         },
         {
           "verse": 5,
@@ -95,6 +103,9 @@
             {
               "text": "2. Reg. 12, 24."
             }
+          ],
+          "xrefs": [
+            "2 Re. 12, 24."
           ]
         },
         {
@@ -103,7 +114,14 @@
           "cross_refs": [
             {
               "text": "1 Par. 3, 10."
+            },
+            {
+              "text": "2 Par. 3, 10",
+              "source": "sancta"
             }
+          ],
+          "xrefs": [
+            "1 Par. 3, 10."
           ]
         },
         {
@@ -116,7 +134,10 @@
         },
         {
           "verse": 10,
-          "text": "And Ezechias begat Manasses. And Manasses begat Amon. And Amon begat Josias."
+          "text": "And Ezechias begat Manasses. And Manasses begat Amon. And Amon begat Josias.",
+          "xrefs": [
+            "4 Reg. 24."
+          ]
         },
         {
           "verse": 11,
@@ -153,12 +174,13 @@
         },
         {
           "verse": 16,
-          "text": "And Jacob begat Joseph the husband of <sc>Mary</sc>: <na>[1]</na> of whom was born <sc>Jesus</sc>, who is called <sc>Christ</sc>.",
+          "text": "And Jacob begat Joseph the husband of <sc>Marie</sc>: <na>[1]</na> of whom was born <sc>Jesus</sc>, who is called <sc>Christ</sc>.",
           "has_annotation": true,
           "notes": [
             {
               "label": "1",
-              "text": "<i>de qua.</i>"
+              "text": "<i>de qua.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -168,11 +190,12 @@
         },
         {
           "verse": 18,
-          "text": "<na>[1]</na> And the generation of <sc>Christ</sc> was in this wise. When his mother <sc>Mary</sc> was spoused to Joseph, before they came together, she was found to be with child, by the Holy Ghost.",
+          "text": "<na>[1]</na> And the generation of <sc>Christ</sc> was in this wise. When his mother <sc>Marie</sc> was spoused to Joseph, before they came together, she was found to be with child, by the Holy Ghost.",
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel upon Christmas eve. and Upon S. Joseph's day the 19. of March."
+              "text": "The Gospel upon Christmas eve. and Upon S. Joseph's day the 19. of March.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -187,13 +210,14 @@
           "notes": [
             {
               "label": "2",
-              "text": "This word <i>just,</i> sounding that a man is <i>just</i> indeed, & not only so imputed, Protestants translate, <i>Righteous</i> in this and diverse other places."
+              "text": "This word <i>just,</i> sounding that a man is <i>just</i> indeed, & not only so imputed, Protestants translate, <i>Righteous</i> in this and diverse other places.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 20,
-          "text": "But as he was thus thinking, behold the Angel of our Lord appeared to him in sleep saying: Joseph son of David, fear not to take <sc>Mary</sc> thy wife, for that which is born in her, is of the Holy Ghost.",
+          "text": "But as he was thus thinking, behold the Angel of our Lord appeared to him in sleep saying: Joseph son of David, fear not to take <sc>Marie</sc> thy wife, for that which is born in her, is of the Holy Ghost.",
           "has_annotation": true
         },
         {
@@ -202,13 +226,17 @@
           "notes": [
             {
               "label": "1",
-              "text": "JESUS an Hebrew word, in English SAVIOUR."
+              "text": "JESUS an Hebrew word, in English SAVIOUR.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 22,
-          "text": "And all this was done that it might be fulfilled which our Lord spake by the Prophet saying."
+          "text": "And all this was done that it might be fulfilled which our Lord spake by the Prophet saying.",
+          "xrefs": [
+            "Esa. 7, 14."
+          ]
         },
         {
           "verse": 23,
@@ -257,7 +285,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "The holy feast of the <i>Epiphany</i> called <i>Twelfth</i> -day the 6. of January. Upon which day this is the Gospel."
+              "text": "The holy feast of the <i>Epiphany</i> called <i>Twelfth</i> -day the 6. of January. Upon which day this is the Gospel.",
+              "kind": "gloss"
             }
           ]
         },
@@ -306,12 +335,15 @@
         },
         {
           "verse": 11,
-          "text": "And entering into the house, they found the child with <sc>Mary</sc> his mother, & falling down adored him; and opening their treasures, they offered to him <cr>[1]</cr> gifts: gold, frankincense, and myrrh.",
+          "text": "And entering into the house, they found the child with <sc>Marie</sc> his mother, & falling down adored him; and opening their treasures, they offered to him <cr>[1]</cr> gifts: gold, frankincense, and myrrh.",
           "has_annotation": true,
           "cross_refs": [
             {
               "text": "Psa. 71, 10."
             }
+          ],
+          "xrefs": [
+            "Psa. 71, 10."
           ]
         },
         {
@@ -324,7 +356,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel of <i>Childermas</i> day."
+              "text": "The Gospel of <i>Childermas</i> day.",
+              "kind": "gloss"
             }
           ]
         },
@@ -340,6 +373,9 @@
             {
               "text": "Os. 11, 2."
             }
+          ],
+          "xrefs": [
+            "Os. 11, 2."
           ]
         },
         {
@@ -349,13 +385,14 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Martyrdom of the holy <i>innocents,</i> whose holy-day"
+              "text": "The Martyrdom of the holy <i>innocents,</i> whose holy-day",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 17,
-          "text": "Then was fulfilled that which was spoken by Jeremy the Prophet saying:"
+          "text": "Then was fulfilled that which was spoken by Jeremias the Prophet saying:"
         },
         {
           "verse": 18,
@@ -372,7 +409,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel on Twelfth eve."
+              "text": "The Gospel on Twelfth eve.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -405,19 +443,27 @@
           "cross_refs": [
             {
               "text": "Mr. 1, 4. Luc. 3, 3."
+            },
+            {
+              "text": "Luke 3",
+              "source": "sancta"
             }
           ],
           "notes": [
             {
               "label": "2",
-              "text": "THE SECOND part of this Gospel, Of the Preparation that was made to the manifestation of Christ"
+              "text": "THE SECOND part of this Gospel, Of the Preparation that was made to the manifestation of Christ",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 2,
           "text": "& saying: Do penance: for the Kingdom of Heaven is at hand.",
-          "has_annotation": true
+          "has_annotation": true,
+          "xrefs": [
+            "Luc. 3, 3. · Es. 40, 3."
+          ]
         },
         {
           "verse": 3,
@@ -443,7 +489,7 @@
         },
         {
           "verse": 7,
-          "text": "And seeing many of the Pharisees and Sadducees coming to his Baptism, he said to them. Ye viper's brood, who hath shewed you to flee from the wrath to come?"
+          "text": "And seeing many of the Pharisees and Sadducees coming to his Baptism, he said to them. Ye vipers brood, who hath shewed you to flee from the wrath to come?"
         },
         {
           "verse": 8,
@@ -461,7 +507,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "It is not only damnable, to do ill: but also, not to do good. <i>Aug. Ser. 6. de temp.</i>"
+              "text": "It is not only damnable, to do ill: but also, not to do good. <i>Aug. Ser. 6. de temp.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -473,6 +520,9 @@
             {
               "text": "Mr. 1, 8. Lu. 3, 16. Io. 1, 26. Act. 11, 16. 19, 4."
             }
+          ],
+          "xrefs": [
+            "Mr. 1, 8. · Lu. 3, 16. · Io. 1, 26. · Act. 11, 16. 19, 4."
           ]
         },
         {
@@ -490,7 +540,7 @@
         },
         {
           "verse": 15,
-          "text": "And <sc>Jesus</sc> answering, said to him: Suffer me for this time. For so it becometh us to fulfill all justice. Then he suffered him."
+          "text": "And <sc>Jesus</sc> answering, said to him: Suffer me for this time. For so it becometh us to fulfil all justice. Then he suffered him."
         },
         {
           "verse": 16,
@@ -519,18 +569,25 @@
           "notes": [
             {
               "label": "2",
-              "text": "The Gospel upon the first Sunday in Lent."
+              "text": "The Gospel upon the first Sunday in Lent.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 2,
           "text": "And when he had fasted forty days and forty nights, afterward he was hungry.",
-          "has_annotation": true
+          "has_annotation": true,
+          "xrefs": [
+            "Lu. 4, 1."
+          ]
         },
         {
           "verse": 3,
-          "text": "And the tempter approached and said to him: If thou be the Son of God, command that these stones be made bread."
+          "text": "And the tempter approached and said to him: If thou be the Son of God, command that these stones be made bread.",
+          "xrefs": [
+            "Deu. 8, 3"
+          ]
         },
         {
           "verse": 4,
@@ -580,6 +637,9 @@
             {
               "text": "Deu. 6, 13."
             }
+          ],
+          "xrefs": [
+            "Deu. 6, 13."
           ]
         },
         {
@@ -600,17 +660,24 @@
           "notes": [
             {
               "label": "3",
-              "text": "THE THIRD part of the Gospel, of Christ's manifesting himself by preaching, and that in Galilee."
+              "text": "THE THIRD part of the Gospel, of Christ's manifesting him self by preaching, and that in Galilee.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 13,
-          "text": "and leaving the city Nazareth, came and dwelt in Capharnaum a sea town, in the borders of Zabulon & Nephthali;"
+          "text": "and leaving the city Nazareth, came and dwelt in Capharnaum a sea town, in the borders of Zabulon & Nephthali;",
+          "xrefs": [
+            "Luc. 4, 14."
+          ]
         },
         {
           "verse": 14,
-          "text": "that it might be fulfilled which was said by Esay the Prophet."
+          "text": "that it might be fulfilled which was said by Esay the Prophet.",
+          "xrefs": [
+            "Esa. 9, 1."
+          ]
         },
         {
           "verse": 15,
@@ -646,8 +713,12 @@
           "notes": [
             {
               "label": "2",
-              "text": "The Gospel upon S. Andrew's day."
+              "text": "The Gospel upon S. Andrew's day.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Lu. 5, 1."
           ]
         },
         {
@@ -656,7 +727,10 @@
         },
         {
           "verse": 20,
-          "text": "But they incontinent leaving the nets, followed him."
+          "text": "But they incontinent leaving the nets, followed him.",
+          "xrefs": [
+            "Mar. 1, 19."
+          ]
         },
         {
           "verse": 21,
@@ -709,7 +783,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "THE EIGHT Beatitudes: which are a part of the Catechism. The Gospel upon Allhallows' day, and upon the feasts of many Martyrs."
+              "text": "THE EIGHT Beatitudes: which are a part of the Catechism. The Gospel upon Allhallows' day, and upon the feasts of many Martyrs.",
+              "kind": "gloss"
             }
           ]
         },
@@ -762,13 +837,17 @@
           "notes": [
             {
               "label": "2",
-              "text": "The Gospel on the feasts of Doctors."
+              "text": "The Gospel on the feasts of Doctors.",
+              "kind": "lectionary"
             }
           ]
         },
         {
           "verse": 14,
-          "text": "But if the salt leese his virtue, wherewith shall it be salted? It is good for nothing any more but to be cast forth, and to be trodden of men."
+          "text": "But if the salt leese his virtue, wherewith shall it be salted? It is good for nothing any more but to be cast forth, and to be trodden of men.",
+          "xrefs": [
+            "Luc. 14, 34."
+          ]
         },
         {
           "verse": 15,
@@ -782,6 +861,9 @@
             {
               "text": "Mr. 4, 21. Lu. 8, 16. 11, 33."
             }
+          ],
+          "xrefs": [
+            "Mr. 4, 21. · Lu. 8, 16. 11, 33."
           ]
         },
         {
@@ -791,7 +873,7 @@
         },
         {
           "verse": 18,
-          "text": "Do not think that I am come to break the Law, or the Prophets. I am not come to break, but to fulfill."
+          "text": "Do not think that I am come to break the Law, or the Prophets. I am not come to break, but to fulfil."
         },
         {
           "verse": 19,
@@ -810,6 +892,9 @@
             {
               "text": "Ia. 2, 10."
             }
+          ],
+          "xrefs": [
+            "Ia. 2, 10."
           ]
         },
         {
@@ -819,7 +904,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel upon the fifth Sunday after Pentecost."
+              "text": "The Gospel upon the fifth Sunday after Pentecost.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -844,7 +930,10 @@
         },
         {
           "verse": 25,
-          "text": "leave there thy offering before the Altar, and go first to be reconciled to thy brother: and then coming thou shalt offer thy gift."
+          "text": "leave there thy offering before the Altar, and go first to be reconciled to thy brother: and then coming thou shalt offer thy gift.",
+          "xrefs": [
+            "Luc. 12, 58."
+          ]
         },
         {
           "verse": 26,
@@ -857,7 +946,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "This Prison is taken of very ancient Fathers, for Purgatory: namely <i>S. Cypr. ep. 52. ad Anton. nu. 6.</i>"
+              "text": "This Prison is taken of very ancient Fathers, for Purgatory: namely <i>S. Cypr. ep. 52. ad Anton. nu. 6.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -884,7 +974,10 @@
         },
         {
           "verse": 31,
-          "text": "And if thy right hand scandalize thee, cut it off, and cast it from thee: for it is expedient for thee that one of thy limbs perish rather than that thy whole body go into Hell."
+          "text": "And if thy right hand scandalize thee, cut it off, and cast it from thee: for it is expedient for thee that one of thy limbs perish rather than that thy whole body go into Hell.",
+          "xrefs": [
+            "Deu. 24, 1."
+          ]
         },
         {
           "verse": 32,
@@ -893,6 +986,9 @@
             {
               "text": "Deut. 24, 1. Mt. 19, 7."
             }
+          ],
+          "xrefs": [
+            "Mt. 19, 7."
           ]
         },
         {
@@ -902,7 +998,7 @@
         },
         {
           "verse": 34,
-          "text": "Again you have heard that it was said to them of old, <cr>[1]</cr> Thou shalt not commit perjury: but thou shall perform thy oaths to our Lord.",
+          "text": "Again you have heard that it was said to them of old, <cr>[1]</cr> Thou shalt not commit perjury: but thou shalt perform thy oaths to our Lord.",
           "cross_refs": [
             {
               "text": "Exo. 20, 7. Lev. 19, 11."
@@ -912,7 +1008,10 @@
         {
           "verse": 35,
           "text": "But I say to you not to swear at all: neither by heaven, because it is the throne of God: neither by the earth, because it is the foot-stool of his feet: neither by Jerusalem, because it is the city of the great King.",
-          "has_annotation": true
+          "has_annotation": true,
+          "xrefs": [
+            "Leu. 19, 11."
+          ]
         },
         {
           "verse": 36,
@@ -942,7 +1041,10 @@
         },
         {
           "verse": 41,
-          "text": "and whosoever will force thee one mile, go with him other twain."
+          "text": "and whosoever will force thee one mile, go with him other twain.",
+          "xrefs": [
+            "Deu. 15, 7."
+          ]
         },
         {
           "verse": 42,
@@ -964,11 +1066,13 @@
           "notes": [
             {
               "label": "2",
-              "text": "The Gospel upon the Friday after Ashwednesday."
+              "text": "The Gospel upon the Friday after Ashwednesday.",
+              "kind": "lectionary"
             },
             {
               "label": "3",
-              "text": "So taught the Pharisees, not the Law."
+              "text": "So taught the Pharisees, not the Law.",
+              "kind": "gloss"
             }
           ]
         },
@@ -982,7 +1086,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "We see then that the temporal prosperity of persons and countries is no sign of better men or truer religion."
+              "text": "We see then that the temporal prosperity of persons and countries is no sign of better men or truer religion.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1021,7 +1126,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The first work of justice."
+              "text": "The first work of justice.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1041,7 +1147,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The second work of justice."
+              "text": "The second work of justice.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1069,7 +1176,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "The PATER NOSTER."
+              "text": "The PATER NOSTER.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1084,7 +1192,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "In S. Luke, the Latin is, <i>Panem quotidianum, daily bread,</i> the Greek being indifferent to both, <i>τὸν ἐπιούσιον.</i>"
+              "text": "In S. Luke, the Latin is, <i>Panem quotidianum, daily bread,</i> the Greek being indifferent to both, <i>τὸν ἐπιούσιον.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -1096,7 +1205,10 @@
         {
           "verse": 13,
           "text": "<i>And lead us not into tentation. But deliver us from evil. Amen.</i>",
-          "has_annotation": true
+          "has_annotation": true,
+          "xrefs": [
+            "Mr. 11, 25."
+          ]
         },
         {
           "verse": 14,
@@ -1119,7 +1231,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The third work of justice."
+              "text": "The third work of justice.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1129,7 +1242,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel upon Ashwednesday."
+              "text": "The Gospel upon Ashwednesday.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -1153,7 +1267,10 @@
         },
         {
           "verse": 21,
-          "text": "For where thy treasure is, there is thy heart also."
+          "text": "For where thy treasure is, there is thy heart also.",
+          "xrefs": [
+            "Luc. 11, 34."
+          ]
         },
         {
           "verse": 22,
@@ -1180,7 +1297,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "The Gospel on the 14 Sunday after Pentecost."
+              "text": "The Gospel on the 14 Sunday after Pentecost.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1224,7 +1342,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "They seek temporal things only, and that not of the true God, but of their idols, or by their own industry."
+              "text": "They seek temporal things only, and that not of the true God, but of their idols, or by their own industry.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1234,7 +1353,7 @@
         },
         {
           "verse": 34,
-          "text": "Be not careful therefore for the morrow; for the morrow day will be careful for itself. Sufficient for the day is the evil thereof."
+          "text": "Be not careful therefore for the morrow; for the morrow day shall be careful for itself. Sufficient for the day is the evil thereof."
         }
       ],
       "summary": "In this second chapter of his Sermon, he Controlleth the Pharisees' justice (that is, their alms, prayer, and fasting) for the scope and intention thereof, which was vain glory. 19 Their end also was to be rich, but ours must not be so much as in necessaries."
@@ -1280,6 +1399,9 @@
             {
               "text": "Lu. 11, 9."
             }
+          ],
+          "xrefs": [
+            "Lu. 11, 9"
           ]
         },
         {
@@ -1301,7 +1423,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "These good things are grace and all spiritual gifts, and what soever pertaineth to the health of the soul."
+              "text": "These good things are grace and all spiritual gifts, and what soever pertaineth to the health of the soul.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1334,7 +1457,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel on the 7. Sunday after Pentecost."
+              "text": "The Gospel on the 7. Sunday after Pentecost.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -1405,6 +1529,9 @@
             {
               "text": "Mar. 1, 22. Luc. 4, 32."
             }
+          ],
+          "xrefs": [
+            "Mar. 1, 22. Luc. 4, 32."
           ]
         },
         {
@@ -1423,7 +1550,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel on the 3. Sunday after the Epiphany."
+              "text": "The Gospel on the 3. Sunday after the Epiphany.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -1433,7 +1561,14 @@
           "cross_refs": [
             {
               "text": "Mr. 1, 40. Lu. 5, 12."
+            },
+            {
+              "text": "Mark 1 Luke 5",
+              "source": "sancta"
             }
+          ],
+          "xrefs": [
+            "Mr. 1, 40. · Lu. 5, 12."
           ]
         },
         {
@@ -1447,7 +1582,14 @@
           "cross_refs": [
             {
               "text": "Lev. 14, 2."
+            },
+            {
+              "text": "Levit. 14",
+              "source": "sancta"
             }
+          ],
+          "xrefs": [
+            "Leu. 14, 2."
           ]
         },
         {
@@ -1461,8 +1603,12 @@
           "notes": [
             {
               "label": "2",
-              "text": "The Gospel upon the Thursday after Ashwednesday. And also in Mass for the sick."
+              "text": "The Gospel upon the Thursday after Ashwednesday. And also in Mass for the sick.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Lu. 7, 1."
           ]
         },
         {
@@ -1506,6 +1652,9 @@
             {
               "text": "Mr. 1, 29. Lu. 4, 38."
             }
+          ],
+          "xrefs": [
+            "Mr. 1, 29. · Lu. 4, 38."
           ]
         },
         {
@@ -1514,7 +1663,10 @@
         },
         {
           "verse": 16,
-          "text": "And when evening was come, they brought to him many that had devils: and he cast out the spirits with a word: and all that were ill at ease he cured:"
+          "text": "And when evening was come, they brought to him many that had devils: and he cast out the spirits with a word: and all that were ill at ease he cured:",
+          "xrefs": [
+            "Esa. 53, 4."
+          ]
         },
         {
           "verse": 17,
@@ -1522,12 +1674,22 @@
           "cross_refs": [
             {
               "text": "Esa. 53, 4. 1. Pet. 2, 24. Lu. 9, 57."
+            },
+            {
+              "text": "Isaias 53",
+              "source": "sancta"
             }
+          ],
+          "xrefs": [
+            "1. Pet. 2, 24."
           ]
         },
         {
           "verse": 18,
-          "text": "And <sc>Jesus</sc> seeing great multitudes about him, commanded to go beyond the water."
+          "text": "And <sc>Jesus</sc> seeing great multitudes about him, commanded to go beyond the water.",
+          "xrefs": [
+            "Lu. 9, 57."
+          ]
         },
         {
           "verse": 19,
@@ -1544,11 +1706,14 @@
             {
               "text": "Luc. 9, 59."
             }
+          ],
+          "xrefs": [
+            "Luc. 9, 59."
           ]
         },
         {
           "verse": 22,
-          "text": "But <sc>Jesus</sc> said to him: Follow me, and let the dead bury the dead.",
+          "text": "But <sc>Jesus</sc> said to him: Follow me, and let the dead bury their dead.",
           "has_annotation": true
         },
         {
@@ -1562,8 +1727,12 @@
           "notes": [
             {
               "label": "2",
-              "text": "The Gospel on the 4. Sunday after the Epiphany."
+              "text": "The Gospel on the 4. Sunday after the Epiphany.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Mar. 4, 36. · Lu. 8, 22."
           ]
         },
         {
@@ -1589,7 +1758,14 @@
           "cross_refs": [
             {
               "text": "Mr. 5, 1. Luc. 8, 26."
+            },
+            {
+              "text": "Mark 5",
+              "source": "sancta"
             }
+          ],
+          "xrefs": [
+            "Mr. 5, 1. · Luc. 8, 26."
           ]
         },
         {
@@ -1628,7 +1804,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel upon the 18. Sunday after Pentecost."
+              "text": "The Gospel upon the 18. Sunday after Pentecost.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -1643,8 +1820,12 @@
           "notes": [
             {
               "label": "2",
-              "text": "We see that the faith of one helpeth to obtain for another."
+              "text": "We see that the faith of one helpeth to obtain for another.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Mr. 2, 3. · Luc. 5, 18."
           ]
         },
         {
@@ -1686,7 +1867,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "The Gospel upon S. Matthew's day. Sept. 21."
+              "text": "The Gospel upon S. Matthew's day. Sept. 21.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -1710,6 +1892,9 @@
             {
               "text": "Ose. 6, 6."
             }
+          ],
+          "xrefs": [
+            "Ose. 6, 6."
           ]
         },
         {
@@ -1720,6 +1905,9 @@
             {
               "text": "Mar. 2, 18. Lu. 5, 33."
             }
+          ],
+          "xrefs": [
+            "Mar. 2, 18. · Lu. 5, 33."
           ]
         },
         {
@@ -1728,13 +1916,14 @@
           "notes": [
             {
               "label": "1",
-              "text": "Christ signifieth that the Church shall use fasting days after his Ascension. <i>Epiph. in Comp. fid. Cath. Aug. ep. 80.</i>"
+              "text": "Christ signifieth that the Church shall use fasting days after his Ascension. <i>Epiph. in Comp. fid. Cath. Aug. ep. 80.</i>",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 16,
-          "text": "And nobody putteth a piece of raw cloth to an old garment. For he taketh away the piecing thereof from the garment, and there is made a greater rent."
+          "text": "And no body putteth a piece of raw cloth to an old garment. For he taketh away the piecing thereof from the garment, and there is made a greater rent."
         },
         {
           "verse": 17,
@@ -1752,7 +1941,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "The Gospel upon the 23. Sunday after Pentecost."
+              "text": "The Gospel upon the 23. Sunday after Pentecost.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1776,7 +1966,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Lo, her devotion to the hem of his garment, was not superstition, but a token of greater faith: so is the devout touching of holy relics."
+              "text": "Lo, her devotion to the hem of his garment, was not superstition, but a token of greater faith: so is the devout touching of holy relics.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1824,6 +2015,9 @@
             {
               "text": "Mat. 12, 22."
             }
+          ],
+          "xrefs": [
+            "Mat. 12, 22."
           ]
         },
         {
@@ -1841,8 +2035,12 @@
           "notes": [
             {
               "label": "2",
-              "text": "In like manner say the Heretics, calling all miracles done in the Catholic Church, the lying signs of Antichrist."
+              "text": "In like manner say the Heretics, calling all miracles done in the Catholic Church, the lying signs of Antichrist.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Mt. 12, 24."
           ]
         },
         {
@@ -1876,6 +2074,9 @@
             {
               "text": "Mr. 3, 13. 6, 7. Lu. 6, 13. 9, 1."
             }
+          ],
+          "xrefs": [
+            "Mr. 3, 13. 6, 7. · Lu. 6, 13 9, 1."
           ]
         },
         {
@@ -1897,7 +2098,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "They have here commission to preach only in Israel: the time being not yet come to call the Gentiles."
+              "text": "They have here commission to preach only in Israel: the time being not yet come to call the Gentiles.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1951,11 +2153,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel upon the Commemoration of S. Paul, Iun. 30."
+              "text": "The Gospel upon the Commemoration of S. Paul, Iun. 30.",
+              "kind": "lectionary"
             },
             {
               "label": "2",
-              "text": "Wisdom and simplicity both be necessary in preachers, Bishops and Priests."
+              "text": "Wisdom and simplicity both be necessary in preachers, Bishops and Priests.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1966,7 +2170,10 @@
         {
           "verse": 18,
           "text": "And to presidents and to kings shall you be led for my sake, in testimony to them and the Gentiles.",
-          "has_annotation": true
+          "has_annotation": true,
+          "xrefs": [
+            "Mar. 13, 11."
+          ]
         },
         {
           "verse": 19,
@@ -1976,11 +2183,17 @@
             {
               "text": "Mar. 13, 11. Luc. 12, 11."
             }
+          ],
+          "xrefs": [
+            "Luc. 12, 11."
           ]
         },
         {
           "verse": 20,
-          "text": "For it is not you that speak, but the Spirit of your Father that speaketh in you."
+          "text": "For it is not you that speak, but the Spirit of your Father that speaketh in you.",
+          "xrefs": [
+            "Luc. 21, 16."
+          ]
         },
         {
           "verse": 21,
@@ -2001,7 +2214,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel upon S. Athanasius day. Maij 2."
+              "text": "The Gospel upon S. Athanasius day. Maij 2.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -2012,6 +2226,9 @@
             {
               "text": "Luc. 6, 40."
             }
+          ],
+          "xrefs": [
+            "Luc. 6, 40"
           ]
         },
         {
@@ -2025,7 +2242,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel for some Martyrs, not Bishops."
+              "text": "The Gospel for some Martyrs, not Bishops.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2039,7 +2257,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "A goodly comfort for Christians and Catholics and all good men, in the persecutions of Turk, of Heretics, of all wicked men."
+              "text": "A goodly comfort for Christians and Catholics and all good men, in the persecutions of Turk, of Heretics, of all wicked men.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2053,7 +2272,10 @@
         },
         {
           "verse": 31,
-          "text": "Fear not therefore: better are you than many sparrows."
+          "text": "Fear not therefore: better are you than many sparrows.",
+          "xrefs": [
+            "Mar. 8, 38."
+          ]
         },
         {
           "verse": 32,
@@ -2063,6 +2285,9 @@
             {
               "text": "Mar. 8, 38. Luc 9, 26. 12, 8."
             }
+          ],
+          "xrefs": [
+            "Luc. 9, 26. 12, 8."
           ]
         },
         {
@@ -2081,8 +2306,12 @@
           "notes": [
             {
               "label": "2",
-              "text": "The Gospel upon S. Augustine's day our Apostle. Maij 26. And for some Martyrs not Bishops."
+              "text": "The Gospel upon S. Augustine's day our Apostle's. Maij 26. And for some Martyrs not Bishops.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Luc. 12, 51. · Mich. 7, 6."
           ]
         },
         {
@@ -2118,6 +2347,9 @@
             {
               "text": "Luc. 10, 16."
             }
+          ],
+          "xrefs": [
+            "Luc. 10, 16."
           ]
         },
         {
@@ -2127,7 +2359,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The reward for harbouring & helping any blessed just person suffering for his justice and conscience."
+              "text": "The reward for harbouring & helping any blessed just person suffering for his justice and conscience.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2138,6 +2371,9 @@
             {
               "text": "Mar. 9, 41."
             }
+          ],
+          "xrefs": [
+            "Mar. 9, 41."
           ]
         }
       ],
@@ -2164,8 +2400,12 @@
           "notes": [
             {
               "label": "2",
-              "text": "The Gospel on the 2. Sunday in Advent."
+              "text": "The Gospel on the 2. Sunday in Advent.",
+              "kind": "lectionary"
             }
+          ],
+          "xrefs": [
+            "Luc. 7, 18."
           ]
         },
         {
@@ -2175,7 +2415,10 @@
         },
         {
           "verse": 4,
-          "text": "And <sc>Jesus</sc> making answer said to them: Go and report to John what you have heard and seen."
+          "text": "And <sc>Jesus</sc> making answer said to them: Go and report to John what you have heard and seen.",
+          "xrefs": [
+            "Esa. 35, 5. 61, 1."
+          ]
         },
         {
           "verse": 5,
@@ -2210,6 +2453,9 @@
             {
               "text": "Mal. 3, 1."
             }
+          ],
+          "xrefs": [
+            "Mal. 3, 1."
           ]
         },
         {
@@ -2223,11 +2469,17 @@
             {
               "text": "Luc. 16, 16."
             }
+          ],
+          "xrefs": [
+            "Luc. 16, 16."
           ]
         },
         {
           "verse": 13,
-          "text": "For all the Prophets and the Law prophesied unto John:"
+          "text": "For all the Prophets and the Law prophesied unto John:",
+          "xrefs": [
+            "Mal. 4, 5."
+          ]
         },
         {
           "verse": 14,
@@ -2250,11 +2502,17 @@
             {
               "text": "Luc. 7, 31."
             }
+          ],
+          "xrefs": [
+            "Luc. 7, 31."
           ]
         },
         {
           "verse": 17,
-          "text": "which crying to their companions, say: we have piped to you, and you have not danced: we have lamented, and you have not mourned."
+          "text": "which crying to their companions, say: we have piped to you, and you have not danced: we have lamented, and you have not mourned.",
+          "xrefs": [
+            "Mt. 3, 4."
+          ]
         },
         {
           "verse": 18,
@@ -2267,7 +2525,7 @@
         },
         {
           "verse": 19,
-          "text": "The Son of man came eating and drinking, and they say: Behold a man that is a glutton and a wine-drinker, a friend of Publicans and sinners. And wisdom is justified of her children.",
+          "text": "The Son of man came eating and drinking, and they say: Behold a man that is a glutton and a winedrinker, a friend of Publicans and sinners. And wisdom is justified of her children.",
           "has_annotation": true
         },
         {
@@ -2277,11 +2535,14 @@
             {
               "text": "Luc. 10, 13."
             }
+          ],
+          "xrefs": [
+            "Luc. 10, 13."
           ]
         },
         {
           "verse": 21,
-          "text": "Woe be to thee Corozain, woe be to thee Beth-saida: for if in Tyre & Sidon had been wrought the miracles that have been wrought in you, they had done penance in hair-cloth & ashes long ago.",
+          "text": "Woe be to thee Corozain, woe be to thee Beth-saida: for if in Tyre & Sidon had been wrought the miracles that have been wrought in you, they had done penance in haircloth & ashes long ago.",
           "has_annotation": true
         },
         {
@@ -2308,8 +2569,12 @@
           "notes": [
             {
               "label": "2",
-              "text": "The Gospel upon S. Matthias' day Feb. 24. and upon S. Francis' day Octob. 4. and for many Martyrs, and upon S. Paul's day the first Eremite Ian. 15."
+              "text": "The Gospel upon S. Matthias' day Feb. 24. and upon S. Francis' day Octob. 4. and for many Martyrs, and upon S. Paul's day the first Eremite Ian. 15.",
+              "kind": "lectionary"
             }
+          ],
+          "xrefs": [
+            "Luc. 10, 21."
           ]
         },
         {
@@ -2349,6 +2614,9 @@
             {
               "text": "Mr. 2, 23. Lu. 6, 1."
             }
+          ],
+          "xrefs": [
+            "Mr. 2, 23. · Lu. 6, 1."
           ]
         },
         {
@@ -2362,6 +2630,9 @@
             {
               "text": "1. Re. 21, 4."
             }
+          ],
+          "xrefs": [
+            "1. Re. 21, 4."
           ]
         },
         {
@@ -2371,6 +2642,9 @@
             {
               "text": "Lev. 24, 9."
             }
+          ],
+          "xrefs": [
+            "Leu. 24, 9."
           ]
         },
         {
@@ -2380,6 +2654,9 @@
             {
               "text": "Nu. 28, 9."
             }
+          ],
+          "xrefs": [
+            "Nu. 28, 9"
           ]
         },
         {
@@ -2397,8 +2674,12 @@
           "notes": [
             {
               "label": "2",
-              "text": "See the annotation chapter. <i>9, 13.</i>"
+              "text": "See the annotation chapter. <i>9, 13.</i>",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Ose. 6, 6."
           ]
         },
         {
@@ -2407,7 +2688,10 @@
         },
         {
           "verse": 9,
-          "text": "And when he had passed from thence, he came into their Synagogue."
+          "text": "And when he had passed from thence, he came into their Synagogue.",
+          "xrefs": [
+            "Mr. 3, 1, Lu. 6, 6."
+          ]
         },
         {
           "verse": 10,
@@ -2444,7 +2728,10 @@
         },
         {
           "verse": 17,
-          "text": "That it might be fulfilled which was spoken by Esay the Prophet, saying:"
+          "text": "That it might be fulfilled which was spoken by Esay the Prophet, saying:",
+          "xrefs": [
+            "Es. 42, 1"
+          ]
         },
         {
           "verse": 18,
@@ -2474,11 +2761,17 @@
             {
               "text": "Luc. 11, 14. Mar. 3, 22."
             }
+          ],
+          "xrefs": [
+            "Luc. 11, 14."
           ]
         },
         {
           "verse": 23,
-          "text": "And all the multitudes were amazed, and said: Whether this be the Son of David?"
+          "text": "And all the multitudes were amazed, and said: Whether this be the Son of David?",
+          "xrefs": [
+            "Mar. 3, 22"
+          ]
         },
         {
           "verse": 24,
@@ -2491,7 +2784,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Therefore the kingdom of heretics cannot possibly stand, because it is always full of division and dissension."
+              "text": "Therefore the kingdom of heretics cannot possibly stand, because it is always full of division and dissension.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2509,7 +2803,7 @@
         },
         {
           "verse": 29,
-          "text": "Or how can a man enter into the house of the strong, and rifle his vessels, unless he first bind the strong? and then he will rifle his house."
+          "text": "Or how can a man enter into the house of the strong, and rifle his vessel, unless he first bind the strong? and then he will rifle his house."
         },
         {
           "verse": 30,
@@ -2523,7 +2817,7 @@
         },
         {
           "verse": 32,
-          "text": "And whosoever shall speak a word against the Son of man, it shall be forgiven him: but he that shall speak against the Holy-Ghost, it shall not be forgiven him neither in this world, nor in the world to come.",
+          "text": "And whosoever shall speak a word against the Son of man, it shall be forgiven him: but he that shall speak against the Holy ghost, it shall not be forgiven him neither in this world, nor in the world to come.",
           "has_annotation": true
         },
         {
@@ -2532,7 +2826,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "It is a man's own free will and election, to be a good tree or an ill tree: to bring forth good fruits or bad. S. Augustine upon this place. <i>li. 2. c. 4. de actis cum Felic. Manichæo.</i>"
+              "text": "It is a man's own free will and election, to be a good tree or an ill tree: to bring forth good fruits or bad. S. Augustine upon this place. <i>li. 2. c. 4. de actis cum Felic. Manichæo.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -2559,13 +2854,17 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel upon Imber Wednesday, the first week of Lent."
+              "text": "The Gospel upon Imber Wednesday, the first week of Lent.",
+              "kind": "lectionary"
             }
           ]
         },
         {
           "verse": 39,
-          "text": "Who answered, and said to them: The wicked and adulterous Generation seeketh a sign: and a sign shall not be given it, but the sign of Jonas the Prophet."
+          "text": "Who answered, and said to them: The wicked and adulterous Generation seeketh a sign: and a sign shall not be given it, but the sign of Jonas the Prophet.",
+          "xrefs": [
+            "Ion. 2, 2."
+          ]
         },
         {
           "verse": 40,
@@ -2583,6 +2882,9 @@
             {
               "text": "Ion. 3, 5."
             }
+          ],
+          "xrefs": [
+            "Ion. 3, 5. · 3. Reg. 10, 1."
           ]
         },
         {
@@ -2592,6 +2894,9 @@
             {
               "text": "3. Reg. 10, 1."
             }
+          ],
+          "xrefs": [
+            "Luc. 11, 24."
           ]
         },
         {
@@ -2614,6 +2919,9 @@
             {
               "text": "2. Pet. 2, 20."
             }
+          ],
+          "xrefs": [
+            "2. Pet. 2, 20."
           ]
         },
         {
@@ -2627,8 +2935,12 @@
           "notes": [
             {
               "label": "2",
-              "text": "The Gospel upon the day of the Seven Brethren &c. Iulij 10."
+              "text": "The Gospel upon the day of the Seven Brethren &c. Iulij 10.",
+              "kind": "lectionary"
             }
+          ],
+          "xrefs": [
+            "Mar. 3, 31. · Luc. 8. 20."
           ]
         },
         {
@@ -2656,7 +2968,10 @@
       "verses": [
         {
           "verse": 1,
-          "text": "<sc>The</sc> same day <sc>Jesus</sc> going out of the house, sat by the sea side."
+          "text": "<sc>The</sc> same day <sc>Jesus</sc> going out of the house, sat by the sea side.",
+          "xrefs": [
+            "Mr. 4, 1."
+          ]
         },
         {
           "verse": 2,
@@ -2665,6 +2980,9 @@
             {
               "text": "Mr. 4, 1. Lu. 8, 4."
             }
+          ],
+          "xrefs": [
+            "Lu. 8, 4."
           ]
         },
         {
@@ -2677,7 +2995,7 @@
         },
         {
           "verse": 5,
-          "text": "Other some also fell upon rocky places, where they had not much earth: and they shot up incontinent, because they had not deepness of earth,"
+          "text": "Othersome also fell upon rocky places, where they had not much earth: and they shot up incontinent, because they had not deepness of earth,"
         },
         {
           "verse": 6,
@@ -2689,7 +3007,7 @@
         },
         {
           "verse": 8,
-          "text": "And other some fell upon good ground: and they yielded fruit, the one an hundredfold, the other threescore, and another thirty.",
+          "text": "And othersome fell upon good ground: and they yielded fruit, the one an hundredfold, the other threescore, and another thirty.",
           "has_annotation": true
         },
         {
@@ -2715,7 +3033,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "When God's word is preached, they properly have ears to hear, that have hearts to obey: and they hearing do not hear, which hear by sense of their body, and obey not by consent of their hearts. <i>Aug. de dono persev. c. 14.</i>"
+              "text": "When God's word is preached, they properly have ears to hear, that have hearts to obey: and they hearing do not hear, which hear by sense of their body, and obey not by consent of their hearts. <i>Aug. de dono persev. c. 14.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -2739,6 +3058,9 @@
             {
               "text": "Luc. 10, 23."
             }
+          ],
+          "xrefs": [
+            "Luc. 10, 23."
           ]
         },
         {
@@ -2759,11 +3081,11 @@
         },
         {
           "verse": 22,
-          "text": "And he that was sown among thorns, this is he that heareth the word, and the carefulness of this world and the deceitfulness of riches choket up the word, and he becometh fruitless."
+          "text": "And he that was sown among thorns, this is he that heareth the word, and the carefulness of this world and the deceitfulness of riches choketh up the word, and he becometh fruitless."
         },
         {
           "verse": 23,
-          "text": "But he that was sown upon good ground: this is he that heareth the word, and understandeth, and bringeth fruit, and yieldeth some an hundred-fold, and another threescore, and another thirty."
+          "text": "But he that was sown upon good ground: this is he that heareth the word, and understandeth, and bringeth fruit, and yieldeth some an hundred-fold, and other threescore, and another thirty."
         },
         {
           "verse": 24,
@@ -2771,7 +3093,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel upon the 5. Sunday after the Epiphany."
+              "text": "The Gospel upon the 5. Sunday after the Epiphany.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -2813,8 +3136,12 @@
           "notes": [
             {
               "label": "2",
-              "text": "The Gospel upon the 6 Sunday after the Epiphany."
+              "text": "The Gospel upon the 6 Sunday after the Epiphany.",
+              "kind": "lectionary"
             }
+          ],
+          "xrefs": [
+            "Mar. 4, 30. · Luc. 13, 18."
           ]
         },
         {
@@ -2837,6 +3164,9 @@
             {
               "text": "Psa. 77, 2."
             }
+          ],
+          "xrefs": [
+            "Psa. 77, 2."
           ]
         },
         {
@@ -2857,7 +3187,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Not God then, but the Devil is the author of all evil."
+              "text": "Not God then, but the Devil is the author of all evil.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2883,7 +3214,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel upon S. Lucy's day Decemb. 13. And S. Anne Iulij, 26. And for some other Virgins & other holy women."
+              "text": "The Gospel upon S. Lucy's day Decemb. 13. And S. Anne Iulij, 26. And for some other Virgins & other holy women.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -2905,7 +3237,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Here also are signified good and bad in the Church."
+              "text": "Here also are signified good and bad in the Church.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2927,7 +3260,10 @@
         },
         {
           "verse": 53,
-          "text": "And it came to pass: when <sc>Jesus</sc> had ended these parables, he passed from thence."
+          "text": "And it came to pass: when <sc>Jesus</sc> had ended these parables, he passed from thence.",
+          "xrefs": [
+            "Mr. 6, 1. · Luc. 4, 16."
+          ]
         },
         {
           "verse": 54,
@@ -2940,7 +3276,7 @@
         },
         {
           "verse": 55,
-          "text": "Is not this the carpenter's son? Is not his mother called <sc>Mary</sc>, and his brethren James, and Joseph, and Simon, and Jude:",
+          "text": "Is not this the carpenter's son? Is not his mother called <sc>Marie</sc>, and his brethren James, and Joseph, and Simon, and Jude:",
           "has_annotation": true
         },
         {
@@ -2968,11 +3304,17 @@
             {
               "text": "Mar. 6, 14. Lu. 9, 7. 3, 19."
             }
+          ],
+          "xrefs": [
+            "Mar. 6, 14."
           ]
         },
         {
           "verse": 2,
-          "text": "and said to his servants: This is John the Baptist: he is risen from the dead, & therefore virtues work in him."
+          "text": "and said to his servants: This is John the Baptist: he is risen from the dead, & therefore virtues work in him.",
+          "xrefs": [
+            "Lu. 9, 7. 3, 19."
+          ]
         },
         {
           "verse": 3,
@@ -2981,7 +3323,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "brother Philip's"
+              "text": "brother Philip's",
+              "kind": "gloss"
             }
           ]
         },
@@ -3007,11 +3350,12 @@
         },
         {
           "verse": 9,
-          "text": "And the king was stroken sad: yet because of his <na>[1]</na> oath, and for them that sat with him at table, he commanded it to be given.",
+          "text": "And the king was stroken sad: yet because of his <na>[1]</na> oath, and for them that sate with him at table, he commanded it to be given.",
           "notes": [
             {
               "label": "1",
-              "text": "A wicked and rash oath, and more wickedly fulfilled: because an unlawful oath bindeth no man."
+              "text": "A wicked and rash oath, and more wickedly fulfilled: because an unlawful oath bindeth no man.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3030,7 +3374,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "S. John's disciples at this time had well learned their duty toward Christ."
+              "text": "S. John's disciples at this time had well learned their duty toward Christ.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3042,6 +3387,9 @@
             {
               "text": "Mr. 6, 31. Lu. 9, 10. Io. 6, 2."
             }
+          ],
+          "xrefs": [
+            "Mar. 6, 31 · Lu. 9, 10 · Io. 6, 2."
           ]
         },
         {
@@ -3083,7 +3431,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel upon the Octave of S. Peter and S. Paul. Iulij 6."
+              "text": "The Gospel upon the Octave of S. Peter and S. Paul. Iulij 6.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -3094,6 +3443,9 @@
             {
               "text": "Mr. 6, 46. Io. 6, 16."
             }
+          ],
+          "xrefs": [
+            "Mar. 6, 46. · Io. 6, 16."
           ]
         },
         {
@@ -3132,7 +3484,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Not withstanding the infirmities of them that govern the Church, yet Christ sustaineth them, and holdeth them up, yea and by them, whatsoever they are, he upholdeth and preserveth his Church."
+              "text": "Notwithstanding the infirmities of them that govern the Church, yet Christ sustaineth them, and holdeth them up, yea and by them, whatsoever they are, he upholdeth and preserveth his Church.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3158,7 +3511,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "See before, chap. <i>9, 20.</i>"
+              "text": "See before, chap. <i>9, 20.</i>",
+              "kind": "gloss"
             }
           ]
         }
@@ -3179,8 +3533,12 @@
           "notes": [
             {
               "label": "2",
-              "text": "The Gospel upon Wednesday the 3. week in Lent."
+              "text": "The Gospel upon Wednesday the 3. week in Lent.",
+              "kind": "lectionary"
             }
+          ],
+          "xrefs": [
+            "Mr. 7, 1."
           ]
         },
         {
@@ -3189,7 +3547,10 @@
         },
         {
           "verse": 3,
-          "text": "But he answering said to them: Why do you also transgress the commandment of God for your tradition? For God said:"
+          "text": "But he answering said to them: Why do you also transgress the commandment of God for your tradition? For God said:",
+          "xrefs": [
+            "Exo. 20, 12."
+          ]
         },
         {
           "verse": 4,
@@ -3201,6 +3562,9 @@
             {
               "text": "Lev. 20, 9."
             }
+          ],
+          "xrefs": [
+            "Leu. 20, 9."
           ]
         },
         {
@@ -3213,7 +3577,10 @@
         },
         {
           "verse": 7,
-          "text": "Hypocrites, well hath Esay Prophesied of you, saying:"
+          "text": "Hypocrites, well hath Esay Prophesied of you, saying:",
+          "xrefs": [
+            "Esa. 29, 13."
+          ]
         },
         {
           "verse": 8,
@@ -3282,7 +3649,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel upon Thursday the first week in Lent."
+              "text": "The Gospel upon Thursday the fifth week in Lent.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -3293,11 +3661,14 @@
             {
               "text": "Mr. 7, 25."
             }
+          ],
+          "xrefs": [
+            "Mr. 7, 25."
           ]
         },
         {
           "verse": 23,
-          "text": "Who answered her not a word. And his Disciples came and besought him saying: Dismiss her, because she cryeth out after us."
+          "text": "Who answered her not a word. And his Disciples came and besought him saying: Dismiss her, because she crieth out after us."
         },
         {
           "verse": 24,
@@ -3321,7 +3692,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "It were a strange case that Christ should commend in this woman a sole faith without good works, that is to say, a dead faith such as could not work by love, and which S. James doubted not to call the faith not of Christians but of Devils. <i>Aug. de Fid. & Op. c. 16.</i>"
+              "text": "It were a strange case that Christ should commend in this woman a sole faith without good works, that is to say, a dead faith such as could not work by love, and which S. James doubted not to call the faith not of Christians but of Devils. <i>Aug. de Fid. & Op. c. 16.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -3335,7 +3707,10 @@
         },
         {
           "verse": 31,
-          "text": "So that the multitudes marveled seeing the dumb speak, the lame walk, the blind see: and they magnified the God of Israel."
+          "text": "So that the multitudes marveled seeing the dumb speak, the lame walk, the blind see: and they magnified the God of Israel.",
+          "xrefs": [
+            "Mr. 8, 1."
+          ]
         },
         {
           "verse": 32,
@@ -3364,7 +3739,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Here we see again that the people must not be their own carvers, nor receive the Sacraments or other spiritual sustenance immediately of Christ, or at their own hand, but of their spiritual governers."
+              "text": "Here we see again that the people must not be their own carvers, nor receive the Sacraments or other spiritual sustenance immediately of Christ, or at their own hand, but of their spiritual governers.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3393,6 +3769,9 @@
             {
               "text": "Mar. 8, 12."
             }
+          ],
+          "xrefs": [
+            "Mar. 8, 12. · Luc. 12, 54."
           ]
         },
         {
@@ -3406,7 +3785,7 @@
         },
         {
           "verse": 3,
-          "text": "And in the morning: This day there will be a tempest, for the element doth glow and lower. The face therefore of the element you have skill to discern: & the signs of times can you not?"
+          "text": "And in the morning: This day there will be a tempest, for the element doth glow and lour. The face therefore of the element you have skill to discern: & the signs of times can you not?"
         },
         {
           "verse": 4,
@@ -3415,6 +3794,9 @@
             {
               "text": "Mat. 12, 39."
             }
+          ],
+          "xrefs": [
+            "Mat. 12, 39."
           ]
         },
         {
@@ -3424,6 +3806,9 @@
             {
               "text": "Mar. 8, 14."
             }
+          ],
+          "xrefs": [
+            "Mar. 8, 14."
           ]
         },
         {
@@ -3433,6 +3818,9 @@
             {
               "text": "Lu. 12, 1."
             }
+          ],
+          "xrefs": [
+            "Lu. 12, 1."
           ]
         },
         {
@@ -3450,6 +3838,9 @@
             {
               "text": "Mat. 14, 17. 15, 34."
             }
+          ],
+          "xrefs": [
+            "Mat. 14, 17. 15, 34."
           ]
         },
         {
@@ -3476,14 +3867,21 @@
           "notes": [
             {
               "label": "2",
-              "text": "The Gospel upon SS. Peter and Paul's day Iun. 29. <i>And in Cathedra Petri Romæ, Ian. 18. & Antiochiæ Febr. 22. And Petri ad vincula Aug. 1.</i> And on the day of the creation and coronation of the Pope, and on the Anniversary thereof. And upon S. Leo his day April 11."
+              "text": "The Gospel upon SS. Peter and Paul's day Iun. 29. <i>And in Cathedra Petri Romæ, Ian. 18. & Antiochiæ Febr. 22. And Petri ad vincula Aug. 1.</i> And on the day of the creation and coronation of the Pope, and on the Anniversary thereof. And upon S. Leo his day April 11.",
+              "kind": "lectionary"
             }
+          ],
+          "xrefs": [
+            "Mar. 8, 27."
           ]
         },
         {
           "verse": 14,
           "text": "But they said: Some John the Baptist, & othersome Elias, and others Jeremie, or one of the Prophets.",
-          "has_annotation": true
+          "has_annotation": true,
+          "xrefs": [
+            "Luc. 9, 18."
+          ]
         },
         {
           "verse": 15,
@@ -3510,14 +3908,21 @@
           "notes": [
             {
               "label": "2",
-              "text": "That is, a Rock."
+              "text": "That is, a Rock.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Io. 1, 42."
           ]
         },
         {
           "verse": 19,
           "text": "<i>And I will give to thee the keys of the Kingdom of Heaven. And whatsoever thou shalt bind upon earth, it shall be bound also in the Heavens: and whatsoever thou shalt loose in earth, it shall be loosed also in the Heavens.</i>",
-          "has_annotation": true
+          "has_annotation": true,
+          "xrefs": [
+            "Io. 21, 15."
+          ]
         },
         {
           "verse": 20,
@@ -3537,7 +3942,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "This word in Hebrew signifieth an adversary, as <i>3. Reg.</i>"
+              "text": "This word in Hebrew signifieth an adversary, as <i>3. Reg.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -3547,7 +3953,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "THE Gospel for a Martyr that is a bishop; And upon S. Laurence Eve."
+              "text": "THE Gospel for a Martyr that is a bishop; And upon S. Laurence Eve.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -3575,8 +3982,12 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>Cyr. l. 8. c. 12. Com. in Io.</i>"
+              "text": "<i>Cyr. l. 8. c. 12. Com. in Io.</i>",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Mar. 9, 1 · Luc. 9, 27."
           ]
         }
       ],
@@ -3596,8 +4007,12 @@
           "notes": [
             {
               "label": "2",
-              "text": "The Transfiguration of our Lord, celebrated in the Church the 6. of Aug. The Gospel of the said feast, & of the 2. Sunday in Lent: and on Imber Saturday before."
+              "text": "The Transfiguration of our Lord, celebrated in the Church the 6. of Aug. The Gospel of the said feast, & of the 2. Sunday in Lent: and on Imber Saturday before.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Mr. 9, 2."
           ]
         },
         {
@@ -3608,6 +4023,9 @@
             {
               "text": "2. Pet. 1, 17."
             }
+          ],
+          "xrefs": [
+            "Luc. 9, 28. · 2. Pet. 1, 17."
           ]
         },
         {
@@ -3633,7 +4051,7 @@
         },
         {
           "verse": 8,
-          "text": "And they lifting up their eyes, saw nobody, but only <sc>Jesus</sc>."
+          "text": "And they lifting up their eyes, saw no body, but only <sc>Jesus</sc>."
         },
         {
           "verse": 9,
@@ -3647,6 +4065,9 @@
             {
               "text": "Mal. 4, 5."
             }
+          ],
+          "xrefs": [
+            "Mal. 4, 5."
           ]
         },
         {
@@ -3669,6 +4090,9 @@
             {
               "text": "Mar. 9, 14. Luc. 9, 37."
             }
+          ],
+          "xrefs": [
+            "Mar. 9, 14. · Luc. 9, 37."
           ]
         },
         {
@@ -3709,7 +4133,10 @@
         },
         {
           "verse": 22,
-          "text": "and they shall kill him, and the third day he shall rise again. And they were stroken sad exceedingly."
+          "text": "and they shall kill him, and the third day he shall rise again. And they were stroken sad exceedingly.",
+          "xrefs": [
+            "Mr. 9, 31 · Luc. 9, 44."
+          ]
         },
         {
           "verse": 23,
@@ -3717,7 +4144,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "These didrachmes were pieces of money which they payed for tribute."
+              "text": "These didrachmes were pieces of money which they payed for tribute.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3737,7 +4165,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "This stater was a double didrachme, and therefore was payed for two."
+              "text": "This stater was a double didrachme, and therefore was payed for two.",
+              "kind": "gloss"
             }
           ]
         }
@@ -3759,8 +4188,12 @@
           "notes": [
             {
               "label": "2",
-              "text": "The Gospel on Michaelmas day Septemb. 29. And upon his Apparition. Maij 8."
+              "text": "The Gospel on Michaelmas day Septemb. 29. And upon his Apparition. Maij 8.",
+              "kind": "lectionary"
             }
+          ],
+          "xrefs": [
+            "Mr. 9, 34. · Luc. 9, 46."
           ]
         },
         {
@@ -3777,13 +4210,17 @@
           "notes": [
             {
               "label": "1",
-              "text": "Humility, innocency, simplicity, commended to us in the state and person of a child."
+              "text": "Humility, innocency, simplicity, commended to us in the state and person of a child.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 5,
-          "text": "And he that shall receive one such little child in my name, receiveth me."
+          "text": "And he that shall receive one such little child in my name, receiveth me.",
+          "xrefs": [
+            "Mr. 9, 42."
+          ]
         },
         {
           "verse": 6,
@@ -3792,6 +4229,9 @@
             {
               "text": "Mr. 9, 42. Lu. 17, 2."
             }
+          ],
+          "xrefs": [
+            "Lu. 17, 2"
           ]
         },
         {
@@ -3807,6 +4247,9 @@
             {
               "text": "Mt. 5, 30. Mar. 9, 43."
             }
+          ],
+          "xrefs": [
+            "Mt. 5, 30 · Mar. 9, 43."
           ]
         },
         {
@@ -3816,7 +4259,10 @@
         {
           "verse": 10,
           "text": "See that you despise not one of these little ones: for I say to you, that their Angels in Heaven always do see the face of my Father which is in Heaven.",
-          "has_annotation": true
+          "has_annotation": true,
+          "xrefs": [
+            "Luc. 19, 10."
+          ]
         },
         {
           "verse": 11,
@@ -3825,6 +4271,9 @@
             {
               "text": "Luc. 19, 10."
             }
+          ],
+          "xrefs": [
+            "Lu. 15, 4"
           ]
         },
         {
@@ -3855,8 +4304,12 @@
           "notes": [
             {
               "label": "2",
-              "text": "The Gospel upon Tuesday the 3 week in Lent."
+              "text": "The Gospel upon Tuesday the 3 week in Lent.",
+              "kind": "lectionary"
             }
+          ],
+          "xrefs": [
+            "Luc. 17, 3."
           ]
         },
         {
@@ -3866,6 +4319,9 @@
             {
               "text": "Deu. 19, 15."
             }
+          ],
+          "xrefs": [
+            "Deu. 19, 15."
           ]
         },
         {
@@ -3875,7 +4331,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "That is (as S. Chrysostom here expoundeth it) tell the Prelates and chief Pastors of the Church: for they have jurisdiction to bind and loose such offenders, by the words following v. 18."
+              "text": "That is (as S. Chrysostom here expoundeth it) tell the Prelates and chief Pastors of the Church: for they have jurisdiction to bind and loose such offenders, by the words following v. 18.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3890,7 +4347,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "All joining together in the unity of Christ's Church in Councels and Synods, or public prayers, is of more force than of any particular man."
+              "text": "All joining together in the unity of Christ's Church in Councels and Synods, or public prayers, is of more force than of any particular man.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3906,6 +4364,9 @@
             {
               "text": "Lu. 17, 4."
             }
+          ],
+          "xrefs": [
+            "Lu. 17, 4"
           ]
         },
         {
@@ -3916,6 +4377,9 @@
             {
               "text": "Luc. 17, 4."
             }
+          ],
+          "xrefs": [
+            "Luc. 17, 4."
           ]
         },
         {
@@ -3924,7 +4388,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel upon the 21. Sunday after Pentecost."
+              "text": "The Gospel upon the 21. Sunday after Pentecost.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3989,6 +4454,9 @@
             {
               "text": "Mr. 10, 1."
             }
+          ],
+          "xrefs": [
+            "Mr. 10, 1."
           ]
         },
         {
@@ -4001,7 +4469,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel for Marriage, and upon S. Agatha's day. Feb. 5."
+              "text": "The Gospel for Marriage, and upon S. Agatha's day. Feb. 5.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -4016,8 +4485,12 @@
           "notes": [
             {
               "label": "2",
-              "text": "<i>make man</i>"
+              "text": "<i>make man</i>",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Gen. 2, 24."
           ]
         },
         {
@@ -4032,7 +4505,10 @@
         {
           "verse": 6,
           "text": "Therefore now they are not two, but one flesh. That therefore which God hath joined together, let not man separate.",
-          "has_annotation": true
+          "has_annotation": true,
+          "xrefs": [
+            "Deut. 24, 1."
+          ]
         },
         {
           "verse": 7,
@@ -4045,21 +4521,30 @@
         },
         {
           "verse": 8,
-          "text": "He saith to them: Because Moyses for the hardness of your heart permitted you to dismiss your wives: but from the beginning it was not so."
+          "text": "He saith to them: Because Moyses for the hardness of your heart permitted you to dismiss your wives: but from the beginning it was not so.",
+          "xrefs": [
+            "Mt. 5, 32"
+          ]
         },
         {
           "verse": 9,
-          "text": "And I say to you, that <cr>[1]</cr> whosoever shall dismiss his wife, but for fornication, and shall marry another, doth commit adultery: and he that shall marry her that is dismissed, committeth adultery.",
+          "text": "And I say to you, that <cr>[1]</cr> whosoever shall dismiss his wife, but for fornication, and shall marry another, doth commit advoutry: and he that shall marry her that is dismissed, committeth advoutry.",
           "has_annotation": true,
           "cross_refs": [
             {
               "text": "Mt. 5, 32. Mr. 10, 11. Luc. 16, 18. 1. Cor. 7, 11."
             }
+          ],
+          "xrefs": [
+            "Mr. 10, 11. · Luc. 16, 18."
           ]
         },
         {
           "verse": 10,
-          "text": "His Disciples say unto him: If the case of a man with his wife be so, it is not expedient to marry."
+          "text": "His Disciples say unto him: If the case of a man with his wife be so, it is not expedient to marry.",
+          "xrefs": [
+            "1. Cor. 7, 11."
+          ]
         },
         {
           "verse": 11,
@@ -4068,7 +4553,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>χωροῦσι.</i> capiunt."
+              "text": "<i>χωροῦσι.</i> capiunt.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4085,6 +4571,9 @@
             {
               "text": "Mr. 10, 13. Luc. 18, 15."
             }
+          ],
+          "xrefs": [
+            "Mr. 10, 13. · Luc. 18, 15."
           ]
         },
         {
@@ -4102,25 +4591,35 @@
             {
               "text": "Mr. 10, 17. Luc. 18, 18."
             }
+          ],
+          "xrefs": [
+            "Mr. 10, 17."
           ]
         },
         {
           "verse": 17,
-          "text": "Who said to him: What asketh thou me of good? One is good, God. But <na>[1]</na> if thou wilt enter into life, keep the commandments.",
+          "text": "Who said to him: What askest thou me of good? One is good, God. But <na>[1]</na> if thou wilt enter into life, keep the commandments.",
           "notes": [
             {
               "label": "1",
-              "text": "Isee not (saith S. Augustine) why Christ should say, if thou wilt have life everlasting, keep the commandments: if without observing of them, by only faith one might be saved. <i>Aug. de Fid. & op. c. 15.</i>"
+              "text": "I see not (saith S. Augustine) why Christ should say, if thou wilt have life everlasting, keep the commandments: if without observing of them, by only faith one might be saved. <i>Aug. de Fid. & op. c. 15.</i>",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Luc. 18, 18."
           ]
         },
         {
           "verse": 18,
-          "text": "He saith to him, which? And <sc>Jesus</sc> said: <cr>[1]</cr> <i>Thou shalt not murder, Thou shalt not commit adultery, Thou shalt not steal, Thou shalt not bear false witness.</i>",
+          "text": "He saith to him, which? And <sc>Jesus</sc> said: <cr>[1]</cr> <i>Thou shalt not murder, Thou shalt not commit advoutry, Thou shalt not steal, Thou shalt not bear false witness.</i>",
           "cross_refs": [
             {
               "text": "Exo. 20, 13."
             }
+          ],
+          "xrefs": [
+            "Exo. 20, 13."
           ]
         },
         {
@@ -4130,6 +4629,9 @@
             {
               "text": "* Lev. 19, 18."
             }
+          ],
+          "xrefs": [
+            "Leu. 19, 18."
           ]
         },
         {
@@ -4155,7 +4657,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "S. Mark expoundeth it thus, rich men trusting in their riches. <i>ca. 10, 24.</i>"
+              "text": "S. Mark expoundeth it thus, rich men trusting in their riches. <i>ca. 10, 24.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -4175,7 +4678,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel upon the Conversion of S. Paul. Ian. 25. Also within the Octave, and in a votive Mass of SS. Peter & Paul, and for holy abbots."
+              "text": "The Gospel upon the Conversion of S. Paul. Ian. 25. Also within the Octave, and in a votive Mass of SS. Peter & Paul, and for holy abbots.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4190,8 +4694,12 @@
           "notes": [
             {
               "label": "1",
-              "text": "Hereof is gathered that the Apostles among other things left their wives also to follow Christ. Hiero. li. 1. adv. Iovin."
+              "text": "Hereof is gathered that the Apostles among other things left their wives also to follow Christ. Hiero. li. 1. adv. Iovin.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Mr. 10, 31."
           ]
         },
         {
@@ -4201,6 +4709,9 @@
             {
               "text": "Mr. 10, 31. Lu. 13, 30."
             }
+          ],
+          "xrefs": [
+            "Lu. 13, 30."
           ]
         }
       ],
@@ -4222,7 +4733,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel upon the Sunday of Septuagesima."
+              "text": "The Gospel upon the Sunday of Septuagesima.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -4269,7 +4781,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Jews are noted for envying the vocation of the Gentiles, and their reward equal with themselves."
+              "text": "The Jews are noted for envying the vocation of the Gentiles, and their reward equal with themselves.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4292,7 +4805,10 @@
         {
           "verse": 16,
           "text": "So shall the last be first, and the first, last. For many be called, but few elect.",
-          "has_annotation": true
+          "has_annotation": true,
+          "xrefs": [
+            "Mr. 10, 32."
+          ]
         },
         {
           "verse": 17,
@@ -4305,8 +4821,12 @@
           "notes": [
             {
               "label": "2",
-              "text": "The Gospel upon Wednesday the 2. week in Lent. And in a votive Mass of the holy Cross."
+              "text": "The Gospel upon Wednesday the 2. week in Lent. And in a votive Mass of the holy Cross.",
+              "kind": "lectionary"
             }
+          ],
+          "xrefs": [
+            "Luc. 18, 31."
           ]
         },
         {
@@ -4319,7 +4839,7 @@
         },
         {
           "verse": 20,
-          "text": "<cr>[1]</cr><na>[2]</na> Then came to him the mother of the sons of Zebedee with her sons, adoring and desiring something of him.",
+          "text": "<cr>[1]</cr><na>[2]</na> Then came to him the mother of the sons of Zebedee with her sons, adoring and desiring some thing of him.",
           "cross_refs": [
             {
               "text": "Mr. 10, 35."
@@ -4328,8 +4848,12 @@
           "notes": [
             {
               "label": "2",
-              "text": "The Gospel upon S. Jame's day. <i>Iul. 25.</i> And <i>S. John's ante portam Latinam Maij 6.</i>"
+              "text": "The Gospel upon S. Jame's day. <i>Iul. 25.</i> And <i>S. John's ante portam Latinam Maij 6.</i>",
+              "kind": "lectionary"
             }
+          ],
+          "xrefs": [
+            "Mr. 10, 35."
           ]
         },
         {
@@ -4347,11 +4871,14 @@
         },
         {
           "verse": 24,
-          "text": "And the ten hearing it, were displeased at the two brethren."
+          "text": "And the ten hearing it, were displeased at the two brethren.",
+          "xrefs": [
+            "Mr. 10, 41."
+          ]
         },
         {
           "verse": 25,
-          "text": "And <sc>Jesus</sc> calleth them unto him, and said: <cr>[1]</cr> You know that the princes of the Gentiles <na>[2]</na> overrule them: and they that are the greater, exercise power against them.",
+          "text": "And <sc>Jesus</sc> called them unto him, and said: <cr>[1]</cr> You know that the princes of the Gentiles <na>[2]</na> overrule them: and they that are the greater, exercise power against them.",
           "cross_refs": [
             {
               "text": "Mr. 10, 41. Luc. 22, 25."
@@ -4360,8 +4887,12 @@
           "notes": [
             {
               "label": "2",
-              "text": "Superiority is not here forbidden among Christians, neither Ecclesiastical nor temporal; but heathenish tyranny is forbidden, and humility commended."
+              "text": "Superiority is not here forbidden among Christians, neither Ecclesiastical nor temporal; but heathenish tyranny is forbidden, and humility commended.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Lu. 22, 25."
           ]
         },
         {
@@ -4384,6 +4915,9 @@
             {
               "text": "Mr. 10, 46."
             }
+          ],
+          "xrefs": [
+            "Mr. 10, 46."
           ]
         },
         {
@@ -4408,7 +4942,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Our Saviour who always could, and often did cure the diseased, by his only will, or word, here gave sight to these blind men, by touching their eyes with his holy hand."
+              "text": "Our Saviour who always could, and often did cure the diseased, by his only will, or word, here gave sight to these blind men, by touching their eyes with his holy hand.",
+              "kind": "gloss"
             }
           ]
         }
@@ -4432,8 +4967,12 @@
           "notes": [
             {
               "label": "2",
-              "text": "The Gospel on Palm Sunday before the benediction of the Palms."
+              "text": "The Gospel on Palm Sunday before the benediction of the Palms.",
+              "kind": "lectionary"
             }
+          ],
+          "xrefs": [
+            "Mr. 11, 1. · Lu. 19, 20."
           ]
         },
         {
@@ -4443,13 +4982,20 @@
           "notes": [
             {
               "label": "1",
-              "text": "PALM SUNDAY."
+              "text": "PALM SUNDAY.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Io. 12, 15"
           ]
         },
         {
           "verse": 3,
-          "text": "And if any man shall say ought unto you, say ye, that our Lord hath need of them: and forthwith he will let them go."
+          "text": "And if any man shall say ought unto you, say ye, that our Lord hath need of them: and forthwith he will let them go.",
+          "xrefs": [
+            "Esa. 62, 11."
+          ]
         },
         {
           "verse": 4,
@@ -4462,6 +5008,9 @@
             {
               "text": "Esa. 62, 11. Zach. 9, 9."
             }
+          ],
+          "xrefs": [
+            "Zach. 9, 9."
           ]
         },
         {
@@ -4486,6 +5035,9 @@
             {
               "text": "Ps. 117, 26."
             }
+          ],
+          "xrefs": [
+            "Ps. 117, 26."
           ]
         },
         {
@@ -4494,13 +5046,17 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel upon Tuesday in the first week in Lent."
+              "text": "The Gospel upon Tuesday in the first week in Lent.",
+              "kind": "lectionary"
             }
           ]
         },
         {
           "verse": 11,
-          "text": "And the People said: This is <sc>Jesus</sc> the Prophet, of Nazareth in Galilee."
+          "text": "And the People said: This is <sc>Jesus</sc> the Prophet, of Nazareth in Galilee.",
+          "xrefs": [
+            "Mr. 11, 15."
+          ]
         },
         {
           "verse": 12,
@@ -4513,8 +5069,12 @@
           "notes": [
             {
               "label": "2",
-              "text": "How much the abuse of Churches by merchandising, walking, or other profane occupying of them, displeaseth God, here we may see."
+              "text": "How much the abuse of Churches by merchandising, walking, or other profane occupying of them, displeaseth God, here we may see.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Lu. 19, 45."
           ]
         },
         {
@@ -4525,6 +5085,9 @@
             {
               "text": "Esa. 56, 7. Ier. 7, 11."
             }
+          ],
+          "xrefs": [
+            "Esa. 56, 7. · Ier. 7, 11"
           ]
         },
         {
@@ -4543,6 +5106,9 @@
             {
               "text": "Ps. 8, 3."
             }
+          ],
+          "xrefs": [
+            "Ps. 8, 3."
           ]
         },
         {
@@ -4551,12 +5117,16 @@
         },
         {
           "verse": 18,
-          "text": "<na>[1]</na> And in the morning returning into the city, he was an hungered.",
+          "text": "<na>[1]</na> And in the morning returning into the city, he was an hungred.",
           "notes": [
             {
               "label": "1",
-              "text": "MONDAY."
+              "text": "MONDAY.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Mr. 11, 13."
           ]
         },
         {
@@ -4570,7 +5140,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "The Jews having the words of the law, and not the deeds, were the fig tree full of leaves, and void of fruit. <i>Aug. de verb. Do. Serm. 44.</i>"
+              "text": "The Jews having the words of the law, and not the deeds, were the fig tree full of leaves, and void of fruit. <i>Aug. de verb. Do. Serm. 44.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -4589,8 +5160,12 @@
           "notes": [
             {
               "label": "2",
-              "text": "b TUESDAY."
+              "text": "b TUESDAY.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Mt. 17, 20."
           ]
         },
         {
@@ -4606,11 +5181,17 @@
             {
               "text": "Mr. 11, 28. Lu. 20, 2."
             }
+          ],
+          "xrefs": [
+            "Mr. 11, 28."
           ]
         },
         {
           "verse": 24,
-          "text": "<sc>Jesus</sc> answering said to them: I also will ask you one word, which if you shall tell me, I also will tell you in what power I do these things."
+          "text": "<sc>Jesus</sc> answering said to them: I also will ask you one word, which if you shall tell me, I also will tell you in what power I do these things.",
+          "xrefs": [
+            "Lu. 20, 2"
+          ]
         },
         {
           "verse": 25,
@@ -4647,7 +5228,7 @@
         },
         {
           "verse": 33,
-          "text": "<cr>[1]</cr> Another parable hear ye: A man there was an householder who <na>[2]</na> planted a vineyard, and made a hedge round about it, and digged in it a press, and builded a tower, and let it out to husbandmen: and went forth into a strange country.",
+          "text": "<cr>[1]</cr> An other parable hear ye: A man there was an householder who <na>[2]</na> planted a vineyard, and made a hedge round about it, and digged in it a press, and builded a tower, and let it out to husbandmen: and went forth into a strange country.",
           "cross_refs": [
             {
               "text": "Es. 5, 1. Mr. 12, 1. Lu. 20. 9."
@@ -4656,8 +5237,12 @@
           "notes": [
             {
               "label": "2",
-              "text": "The Gospel upon Friday the 2. week in Lent."
+              "text": "The Gospel upon Friday the 2. week in Lent.",
+              "kind": "lectionary"
             }
+          ],
+          "xrefs": [
+            "Es. 5, 1. · Mr. 12, 1. · Lu. 20, 9."
           ]
         },
         {
@@ -4666,7 +5251,7 @@
         },
         {
           "verse": 35,
-          "text": "And the husbandmen apprehending his servants, one they beat, another they killed, and another they stoned."
+          "text": "And the husbandmen apprehending his servants, one they beat, an other they killed, and an other they stoned."
         },
         {
           "verse": 36,
@@ -4699,11 +5284,17 @@
             {
               "text": "Psa. 117. 21."
             }
+          ],
+          "xrefs": [
+            "Ps. 117, 22."
           ]
         },
         {
           "verse": 43,
-          "text": "Therefore I say to you, that the Kingdom of God shall be taken away from you, and shall be given to a Nation yielding the fruits thereof."
+          "text": "Therefore I say to you, that the Kingdom of God shall be taken away from you, and shall be given to a Nation yielding the fruits thereof.",
+          "xrefs": [
+            "Es. 8, 14"
+          ]
         },
         {
           "verse": 44,
@@ -4729,7 +5320,8 @@
         "notes": [
           {
             "label": "1",
-            "text": "THE FIFTH part of this Gospel. Of the Holy Week of his Passion in Hierusalem."
+            "text": "THE FIFTH part of this Gospel. Of the Holy Week of his Passion in Hierusalem.",
+            "kind": "head"
           }
         ]
       }
@@ -4743,7 +5335,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel upon the 19. Sunday after Pentecost."
+              "text": "The Gospel upon the 19. Sunday after Pentecost.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -4788,7 +5381,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Not only good men be within the Church, but also evil men; against the Heretics of these days."
+              "text": "Not only good men be within the Church, but also evil men; against the Heretics of these days.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4820,13 +5414,20 @@
           "notes": [
             {
               "label": "2",
-              "text": "The Gospel upon the 22. Sunday after Pentecost."
+              "text": "The Gospel upon the 22. Sunday after Pentecost.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Mr. 12, 13."
           ]
         },
         {
           "verse": 16,
-          "text": "And they send to him their disciples with the Herodians, saying: Master, we know that thou art a true speaker, and teachest the way of God in truth, neither carest thou for any man. For thou dost not respect the person of men:"
+          "text": "And they send to him their disciples with the Herodians, saying: Master, we know that thou art a true speaker, and teachest the way of God in truth, neither carest thou for any man. For thou dost not respect the person of men:",
+          "xrefs": [
+            "Lu. 20, 20."
+          ]
         },
         {
           "verse": 17,
@@ -4847,11 +5448,17 @@
         {
           "verse": 21,
           "text": "They say to him, Cæsar's. Then he saith to them: Render therefore the things that are Cæsar's, to Cæsar: and the things that are God's, to God.",
-          "has_annotation": true
+          "has_annotation": true,
+          "xrefs": [
+            "Mr. 12, 19."
+          ]
         },
         {
           "verse": 22,
-          "text": "And hearing it they marveled, and leaving him went their ways."
+          "text": "And hearing it they marveled, and leaving him went their ways.",
+          "xrefs": [
+            "Lu. 20, 27."
+          ]
         },
         {
           "verse": 23,
@@ -4860,6 +5467,9 @@
             {
               "text": "Mr. 12, 18. Lu. 20, 27. Act. 23, 6."
             }
+          ],
+          "xrefs": [
+            "Act. 23, 6."
           ]
         },
         {
@@ -4869,6 +5479,9 @@
             {
               "text": "Deu. 25, 5."
             }
+          ],
+          "xrefs": [
+            "Deu. 25, 5."
           ]
         },
         {
@@ -4898,7 +5511,10 @@
         },
         {
           "verse": 31,
-          "text": "And concerning the resurrection of the dead, have you not read that which was spoken of God saying to you."
+          "text": "And concerning the resurrection of the dead, have you not read that which was spoken of God saying to you.",
+          "xrefs": [
+            "Exo. 3, 6."
+          ]
         },
         {
           "verse": 32,
@@ -4925,8 +5541,12 @@
           "notes": [
             {
               "label": "2",
-              "text": "The Gospel upon the 17. Sunday after Pentecost."
+              "text": "The Gospel upon the 17. Sunday after Pentecost.",
+              "kind": "lectionary"
             }
+          ],
+          "xrefs": [
+            "Mar. 12, 28."
           ]
         },
         {
@@ -4935,7 +5555,10 @@
         },
         {
           "verse": 36,
-          "text": "Master, which is the great commandment in the law?"
+          "text": "Master, which is the great commandment in the law?",
+          "xrefs": [
+            "Deut. 6, 5."
+          ]
         },
         {
           "verse": 37,
@@ -4957,6 +5580,9 @@
             {
               "text": "Lev. 19, 18."
             }
+          ],
+          "xrefs": [
+            "Leu. 19, 18."
           ]
         },
         {
@@ -4971,11 +5597,17 @@
             {
               "text": "Mr. 12, 35. Lu. 20, 41."
             }
+          ],
+          "xrefs": [
+            "Mr. 12, 35."
           ]
         },
         {
           "verse": 42,
-          "text": "saying: What is your opinion of Christ? whose son is he? They say to him, David's."
+          "text": "saying: What is your opinion of Christ? whose son is he? They say to him, David's.",
+          "xrefs": [
+            "Lu. 20, 41."
+          ]
         },
         {
           "verse": 43,
@@ -4988,6 +5620,9 @@
             {
               "text": "Ps. 109. 1."
             }
+          ],
+          "xrefs": [
+            "Ps. 109. 1."
           ]
         },
         {
@@ -5010,7 +5645,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel upon Tuesday the second week in Lent."
+              "text": "The Gospel upon Tuesday the second week in Lent.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -5022,7 +5658,10 @@
         {
           "verse": 3,
           "text": "All things therefore whatsoever they shall say to you, observe ye and do ye: but according to their works do ye not, for they say and do not.",
-          "has_annotation": true
+          "has_annotation": true,
+          "xrefs": [
+            "Luc. 11, 46. · Act. 15, 10."
+          ]
         },
         {
           "verse": 4,
@@ -5044,8 +5683,12 @@
           "notes": [
             {
               "label": "2",
-              "text": "These phylacteries were pieces of parchment, wherein they wrote the ten commandments, and folded it, and carried it on their forehead before their eyes, imagining grossly and superstitiously, that so they fulfilled that which is said Deu. 6, <i>They shall be immovable before thine eyes.</i> Hiero. in 23. Mat."
+              "text": "These phylacteries were pieces of parchment, wherein they wrote the ten commandments, and folded it, and carried it on their forehead before their eyes, imagining grossly and superstitiously, that so they fulfilled that which is said Deu. 6, <i>They shall be immovable before thine eyes.</i> Hiero. in 23. Mat.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Deu. 22, 12."
           ]
         },
         {
@@ -5056,11 +5699,17 @@
             {
               "text": "Mr. 12, 38."
             }
+          ],
+          "xrefs": [
+            "Nu. 15, 38."
           ]
         },
         {
           "verse": 7,
-          "text": "and salutations in the market-place, and to be called of men, Rabbi."
+          "text": "and salutations in the market-place, and to be called of men, Rabbi.",
+          "xrefs": [
+            "Mr. 12, 38."
+          ]
         },
         {
           "verse": 8,
@@ -5069,7 +5718,10 @@
         },
         {
           "verse": 9,
-          "text": "And call none Father to yourself upon earth: for one is your Father, he that is in Heaven."
+          "text": "And call none Father to yourself upon earth: for one is your Father, he that is in Heaven.",
+          "xrefs": [
+            "Ia. 3, 1."
+          ]
         },
         {
           "verse": 10,
@@ -5102,6 +5754,9 @@
             {
               "text": "Lu. 20, 47."
             }
+          ],
+          "xrefs": [
+            "Lu. 20, 47."
           ]
         },
         {
@@ -5153,7 +5808,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>they are full.</i>"
+              "text": "<i>they are full.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -5189,7 +5845,7 @@
         },
         {
           "verse": 33,
-          "text": "You serpents, viper's broods, how will you flee from the judgement of Hell?"
+          "text": "You serpents, vipers broods, how will you flee from the judgement of Hell?"
         },
         {
           "verse": 34,
@@ -5197,7 +5853,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel upon S. Steven's day Decemb. 26. And his Invention. Aug. 3."
+              "text": "The Gospel upon S. Steven's day Decemb. 26. And his Invention. Aug. 3.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5210,7 +5867,14 @@
             },
             {
               "text": "2. Par. 24, 22."
+            },
+            {
+              "text": "Gen. 4, 8. 2 Par. 24, 21",
+              "source": "sancta"
             }
+          ],
+          "xrefs": [
+            "Gen. 4, 8. · 2. Par. 24, 22."
           ]
         },
         {
@@ -5228,7 +5892,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "Free will."
+              "text": "Free will.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5253,6 +5918,9 @@
             {
               "text": "Mr. 13, 1. Lu. 21, 5."
             }
+          ],
+          "xrefs": [
+            "Mr. 13, 1. · Lu. 21, 5."
           ]
         },
         {
@@ -5267,7 +5935,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel for a votive Mass in time of war, & for many Martyrs."
+              "text": "The Gospel for a votive Mass in time of war, & for many Martyrs.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5278,7 +5947,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "TUESDAY night."
+              "text": "TUESDAY night.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5318,7 +5988,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "There were in the people false Prophets, as among you also shall be lying Masters, which shall bring in Sects of perdition. <i>2. Pet. 2.</i>"
+              "text": "There were in the people false Prophets, as among you also shall be lying Masters, which shall bring in Sects of perdition. <i>2. Pet. 2.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -5348,7 +6019,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "The Gospel upon the last Sunday after Pentecost."
+              "text": "The Gospel upon the last Sunday after Pentecost.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5387,7 +6059,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Whosoever draweth Christ or his Church from the Communion and fellowship of all Nations Christened, to one corner, town, or Country, believe him not. <i>Aug. de unit. Ec. c. 3.</i>"
+              "text": "Whosoever draweth Christ or his Church from the Communion and fellowship of all Nations Christened, to one corner, town, or Country, believe him not. <i>Aug. de unit. Ec. c. 3.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -5429,8 +6102,12 @@
           "notes": [
             {
               "label": "1",
-              "text": "This sign of the son of man, is the holy Cross, which then shall appear to the Jews to their confusion. <i>Chrys. in Mat. ho. 77.</i> It shall be no less confusion to Heretics that cannot abide the sign thereof."
+              "text": "This sign of the son of man, is the holy Cross, which then shall appear to the Jews to their confusion. <i>Chrys. in Mat. ho. 77.</i> It shall be no less confusion to Heretics that cannot abide the sign thereof.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Dan. 7, 15."
           ]
         },
         {
@@ -5497,7 +6174,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "The Gospel upon S. Clement martyr his day Novemb. 23. And for some Confessors Bishops."
+              "text": "The Gospel upon S. Clement martyr his day Novemb. 23. And for some Confessors Bishops.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -5546,7 +6224,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel upon S. Catharine's day. Novemb. 25. And for some other holy Virgins."
+              "text": "The Gospel upon S. Catharine's day. Novemb. 25. And for some other holy Virgins.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -5581,7 +6260,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "If we be not in the favour of God, and have not our own merits, we shall not be holpen by other men's deserts at the day of judgement."
+              "text": "If we be not in the favour of God, and have not our own merits, we shall not be holpen by other men's deserts at the day of judgement.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5616,7 +6296,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "The Gospel upon S. Nicolas' day Decemb. 6. and for some other Confessors Bishops."
+              "text": "The Gospel upon S. Nicolas' day Decemb. 6. and for some other Confessors Bishops.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -5646,7 +6327,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Free will with God's grace doth merit."
+              "text": "Free will with God's grace doth merit.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5676,7 +6358,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "A terrible example for all such as do not employ the very least gift of God, to his glory."
+              "text": "A terrible example for all such as do not employ the very least gift of God, to his glory.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5697,6 +6380,9 @@
             {
               "text": "Mr. 13, 12. Lu. 8, 18."
             }
+          ],
+          "xrefs": [
+            "Mr. 13, 12. · Lu. 8, 18"
           ]
         },
         {
@@ -5709,7 +6395,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel upon Monday the first week of Lent."
+              "text": "The Gospel upon Monday the first week of Lent.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -5729,13 +6416,14 @@
           "notes": [
             {
               "label": "1",
-              "text": "This Kingdom then is prepared for those only that do good works: as Christ also signifieth elsewhere, saying that it is not in his power to give it otherwise. <i>See the annot. c. 20. 23.</i>"
+              "text": "This Kingdom then is prepared for those only that do good works: as Christ also signifieth elsewhere, saying that it is not in his power to give it otherwise. <i>See the annot. c. 20. 23.</i>",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 35,
-          "text": "For I was an hungered, and you gave me to eat: I was a thirst, and you gave me to drink.",
+          "text": "For I was an hungred, and you gave me to eat: I was a thirst, and you gave me to drink.",
           "has_annotation": true
         },
         {
@@ -5744,7 +6432,7 @@
         },
         {
           "verse": 37,
-          "text": "Then shall the just answer him, saying: Lord, when did we see thee an hungered, and fed thee, a thirst, and gave thee drink?"
+          "text": "Then shall the just answer him, saying: Lord, when did we see thee an hungred, and fed thee, a thirst, and gave thee drink?"
         },
         {
           "verse": 38,
@@ -5764,7 +6452,7 @@
         },
         {
           "verse": 42,
-          "text": "For I was an hungered, & you gave me not to eat, I was a thirst, & you gave me not to drink.",
+          "text": "For I was an hungred, & you gave me not to eat, I was a thirst, & you gave me not to drink.",
           "has_annotation": true
         },
         {
@@ -5773,7 +6461,7 @@
         },
         {
           "verse": 44,
-          "text": "Then they also shall answer him, saying: Lord, when did we see thee an hungered, or a thirst, or a stranger, or naked, or sick, or in prison, & did not minister to thee?"
+          "text": "Then they also shall answer him, saying: Lord, when did we see thee an hungred, or a thirst, or a stranger, or naked, or sick, or in prison, & did not minister to thee?"
         },
         {
           "verse": 45,
@@ -5800,8 +6488,12 @@
           "notes": [
             {
               "label": "2",
-              "text": "The Passion according to S. Matthew in these two Chapters, is the Gospel at Mass upon Palm Sunday."
+              "text": "The Passion according to S. Matthew in these two Chapters, is the Gospel at Mass upon Palm Sunday.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Mr. 14, 1 · Lu. 22, 1"
           ]
         },
         {
@@ -5814,7 +6506,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "TENEBRÆ-Wednesday."
+              "text": "TENEBRÆ-Wednesday.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5837,7 +6530,10 @@
         },
         {
           "verse": 7,
-          "text": "there came to him a woman having an alabaster-box of precious ointment, and poured it out upon his head as he sat at the table."
+          "text": "there came to him a woman having an alabaster-box of precious ointment, and poured it out upon his head as he sat at the table.",
+          "xrefs": [
+            "Io. 12, 3."
+          ]
         },
         {
           "verse": 8,
@@ -5868,7 +6564,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Hereby we learn that the good works of Saints are to be recorded and set forth to their honour in the Church after their death. Whereof rise their holy days and Commemorations."
+              "text": "Hereby we learn that the good works of Saints are to be recorded and set forth to their honour in the Church after their death. Whereof rise their holy days and Commemorations.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5883,7 +6580,10 @@
         },
         {
           "verse": 15,
-          "text": "& said to them: What will you give me, and I will deliver him unto you? But they appointed unto him thirty pieces of silver."
+          "text": "& said to them: What will you give me, and I will deliver him unto you? But they appointed unto him thirty pieces of silver.",
+          "xrefs": [
+            "Lu. 22, 3"
+          ]
         },
         {
           "verse": 16,
@@ -5900,8 +6600,12 @@
           "notes": [
             {
               "label": "2",
-              "text": "MAUNDY Thursday."
+              "text": "MAUNDY Thursday.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Mr. 14, 12. · Lu. 22, 7"
           ]
         },
         {
@@ -5923,7 +6627,10 @@
         },
         {
           "verse": 22,
-          "text": "And they being very sad, began every one to say: Is it I Lord?"
+          "text": "And they being very sad, began every one to say: Is it I Lord?",
+          "xrefs": [
+            "Ps. 40, 10."
+          ]
         },
         {
           "verse": 23,
@@ -5958,7 +6665,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "See the margent note <i>Mar. 14, 23.</i>"
+              "text": "See the margent note <i>Mar. 14, 23.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -5978,7 +6686,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "THURSDAY night."
+              "text": "THURSDAY night.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5993,7 +6702,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "The Nocturne of Matins in the Church's service, answereth to this night part of our Saviour's Passion, and so consequently the other Canonical hours to the rest."
+              "text": "The Nocturne of Matins in the Church's service, answereth to this night part of our Saviour's Passion, and so consequently the other Canonical hours to the rest.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6016,6 +6726,9 @@
             {
               "text": "Io. 13, 38."
             }
+          ],
+          "xrefs": [
+            "Io. 13, 38."
           ]
         },
         {
@@ -6071,6 +6784,9 @@
             {
               "text": "Io. 18, 3."
             }
+          ],
+          "xrefs": [
+            "Io. 18, 3."
           ]
         },
         {
@@ -6087,7 +6803,13 @@
         },
         {
           "verse": 51,
-          "text": "And behold one of them that were with <sc>Jesus</sc>, stretching forth his hand, drew out his sword; and striking the servant of the high Priest, cut off his ear."
+          "text": "And behold one of them that were with <sc>Jesus</sc>, stretching forth his hand, drew out his sword; and striking the servant of the high Priest, cut off his ear.",
+          "cross_refs": [
+            {
+              "text": "John 18, 10",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 52,
@@ -6127,11 +6849,14 @@
         },
         {
           "verse": 61,
-          "text": "and they said: <cr>[1]</cr> This man said, I am able to destroy the temple of God, and after three days to re-edify it.",
+          "text": "and they said: <cr>[1]</cr> This man said, I am able to destroy the temple of God, and after three days to reedify it.",
           "cross_refs": [
             {
               "text": "Io. 2, 19."
             }
+          ],
+          "xrefs": [
+            "Io. 2, 19."
           ]
         },
         {
@@ -6195,7 +6920,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "To this time the LAUDS do answer in the Church's service."
+              "text": "To this time the LAUDES do answer in the Church's service.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6221,8 +6947,12 @@
           "notes": [
             {
               "label": "2",
-              "text": "PRIME, or Hora prima, in the Church's Service."
+              "text": "PRIME, or Hora prima, in the Church's Service.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Mr. 15, 1. · Lu. 23, 1. Io. 18, 28."
           ]
         },
         {
@@ -6231,7 +6961,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "GOOD FRIDAY."
+              "text": "GOOD FRIDAY.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6255,7 +6986,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "This Corbana was a place about the Temple, which received the people's gifts or offerings. See Mar. 12, v. 42."
+              "text": "This Corbana was a place about the Temple, which received the people's gifts or offerings. See Mar. 12, v. 42.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6273,7 +7005,14 @@
           "cross_refs": [
             {
               "text": "Zach. 11, 12."
+            },
+            {
+              "text": "Zach. 11, 11",
+              "source": "sancta"
             }
+          ],
+          "xrefs": [
+            "Zach. 11, 12."
           ]
         },
         {
@@ -6302,7 +7041,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "HORA TERTIA in the Church's Service."
+              "text": "HORA TERTIA in the Church's Service.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6362,6 +7102,9 @@
             {
               "text": "Io. 19, 2."
             }
+          ],
+          "xrefs": [
+            "Io. 19, 2."
           ]
         },
         {
@@ -6386,7 +7129,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "HORA SEXTA in the Church's Service."
+              "text": "HORA SEXTA in the Church's Service.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6439,6 +7183,9 @@
             {
               "text": "Ps. 21, 9. Sap. 2, 18."
             }
+          ],
+          "xrefs": [
+            "Ps. 21, 9. · Sap. 2, 18."
           ]
         },
         {
@@ -6476,7 +7223,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "HORA NONA in the Church's Service."
+              "text": "HORA NONA in the Church's Service.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6498,7 +7246,7 @@
         },
         {
           "verse": 56,
-          "text": "among whom was Mary Magdalene, and Mary the mother of James and Joseph, and the mother of the Sons of Zebedee."
+          "text": "among whom was Marie Magdalene, and Marie the mother of James and Joseph, and the mother of the Sons of Zebedee."
         },
         {
           "verse": 57,
@@ -6506,7 +7254,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "HORA VESPERARUM, or, Evensong."
+              "text": "HORA VESPERARUM, or, Evensong.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6521,7 +7270,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "HORA COMPLETORII, or, Compline."
+              "text": "HORA COMPLETORII, or, Complin.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6531,7 +7281,7 @@
         },
         {
           "verse": 61,
-          "text": "And there was there Mary Magdalene, & the other Mary, sitting over against the sepulchre."
+          "text": "And there was there Marie Magdalene, & the other Marie, sitting over against the sepulchre."
         },
         {
           "verse": 62,
@@ -6539,7 +7289,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "SATURDAY called Sabbatum sanctum."
+              "text": "SATURDAY called Sabbatum sanctum.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6570,7 +7321,7 @@
       "verses": [
         {
           "verse": 1,
-          "text": "<sc>And</sc> <cr>[1]</cr><na>[2]</na><na>[3]</na> in the evening of the Sabboth which dawneth on the first of the Sabboth, came Mary Magdalene, and the other Mary to see the sepulchre.",
+          "text": "<sc>And</sc> <cr>[1]</cr><na>[2]</na><na>[3]</na> in the evening of the Sabboth which dawneth on the first of the Sabboth, came Marie Magdalene, and the other Marie to see the sepulchre.",
           "has_annotation": true,
           "cross_refs": [
             {
@@ -6580,12 +7331,17 @@
           "notes": [
             {
               "label": "2",
-              "text": "The Gospel for the night Mass of Christ's Resurrection, which is now used to be said on Easter eve."
+              "text": "The Gospel for the night Mass of Christ's Resurrection, which is now used to be said on Easter eve.",
+              "kind": "gloss"
             },
             {
               "label": "3",
-              "text": "EASTER day."
+              "text": "EASTER day.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Mr. 16, 1. · Luc. 24, 1."
           ]
         },
         {
@@ -6611,11 +7367,20 @@
             {
               "text": "Mt. 24, 32."
             }
+          ],
+          "xrefs": [
+            "Mt. 29, 32."
           ]
         },
         {
           "verse": 7,
-          "text": "And going quickly, tell ye his Disciples that he is risen: and behold he goeth before you into Galilee: there you shall see him. Lo I have foretold you."
+          "text": "And going quickly, tell ye his Disciples that he is risen: and behold he goeth before you into Galilee: there you shall see him. Lo I have foretold you.",
+          "cross_refs": [
+            {
+              "text": "Matthew 26, 32",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 8,
@@ -6655,7 +7420,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel upon Friday in Easter week."
+              "text": "The Gospel upon Friday in Easter week.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -6669,7 +7435,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel in the feast of the B. Trinity."
+              "text": "The Gospel in the feast of the B. Trinity.",
+              "kind": "gloss"
             }
           ]
         },

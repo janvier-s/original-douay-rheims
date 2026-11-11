@@ -114,7 +114,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The first part of this book. Of the Israelites' servile affliction in Ægypt, and their delivery from thence."
+              "text": "The first part of this book. Of the Israelites' servile affliction in Ægypt, and their delivery from thence.",
+              "kind": "head"
             }
           ]
         },
@@ -152,7 +153,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Envy, vain fear, (v. 10.) & hatred of true religion (v. 13.) are the causes why Infidels persecute the faithful."
+              "text": "Envy, vain fear, (v. 10.) & hatred of true religion (v. 13.) are the causes why Infidels persecute the faithful.",
+              "kind": "gloss"
             }
           ]
         },
@@ -162,7 +164,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "See previous note"
+              "text": "See previous note",
+              "kind": "gloss"
             }
           ]
         },
@@ -172,11 +175,13 @@
           "notes": [
             {
               "label": "b",
-              "text": "The first persecution was in temporal losses and bodily pains, by pressing them with works."
+              "text": "The first persecution was in temporal losses and bodily pains, by pressing them with works.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "God must be feared before Princes unto Pharao cities of tabernacles, Phithom, and Ramesses."
+              "text": "God must be feared before Princes unto Pharao cities of tabernacles, Phithom, and Ramesses.",
+              "kind": "gloss"
             }
           ]
         },
@@ -190,7 +195,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "See previous note"
+              "text": "See previous note",
+              "kind": "gloss"
             }
           ]
         },
@@ -208,7 +214,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "The second was secret murder."
+              "text": "The second was secret murder.",
+              "kind": "gloss"
             }
           ]
         },
@@ -237,11 +244,12 @@
         },
         {
           "verse": 22,
-          "text": "Pharao therefore commanded all his people, saying: Whatsoever shall be born of the male-sex cast it into the river: whatsoever of the female, reserve it.",
+          "text": "Pharao therefore commanded all his people, saying: Whatsoever shall be born of the male sex cast it into the river: whatsoever of the female, reserve it.",
           "notes": [
             {
               "label": "d",
-              "text": "The third was open murder."
+              "text": "The third was open murder.",
+              "kind": "gloss"
             }
           ]
         }
@@ -266,7 +274,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "a kind of glue, so called."
+              "text": "a kind of glue, so called.",
+              "kind": "gloss"
             }
           ]
         },
@@ -280,7 +289,7 @@
         },
         {
           "verse": 6,
-          "text": "opening it, and seeing with it an infant crying, having pity on it, said: This is one of the infants of the Hebrews."
+          "text": "opening it, and seeing within it an infant crying, having pity on it, said: This is one of the infants of the Hebrews."
         },
         {
           "verse": 7,
@@ -300,7 +309,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Mos, in the Ægyptian tongue signifieth water, and Ises, saved. Ioseph. lib. 2. Antiq. & Clement. Alexand. li. 1. Stromat."
+              "text": "Mos, in the Ægyptian tongue signifieth water, and Ises, saved. Ioseph. lib. 2. Antiq. & Clement. Alexand. li. 1. Stromat.",
+              "kind": "gloss"
             }
           ]
         },
@@ -310,7 +320,7 @@
         },
         {
           "verse": 12,
-          "text": "And when he had looked about hither and thither, and saw no man present, he struck the Ægyptian, and hid him in the sand.",
+          "text": "And when he had looked about hither and thither, and saw no man present, he stroke the Ægyptian, and hid him in the sand.",
           "has_annotation": true
         },
         {
@@ -323,17 +333,19 @@
           "notes": [
             {
               "label": "b",
-              "text": "The guilty person rejected Moyses for lack of known authority, but God confirmed his commission. Act. 7. So the Jews rejected Christ, Judge of the world."
+              "text": "The guilty person rejected Moyses for lack of known authority, but God confirmed his commission. Act. 7. So the Jews rejected Christ, Judge of the world.",
+              "kind": "gloss"
             },
             {
               "label": "c",
-              "text": "He feared to tempt God by staying, but not the fierceness of the king. Heb. 11."
+              "text": "He feared to tempt God by staying, but not the fierceness of the king. Heb. 11.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 15,
-          "text": "And Pharao heard of this talk, and sought to kill Moyses: who flying from his sight, abode in the Land of Madian, and sat beside a well."
+          "text": "And Pharao heard of this talk, and sought to kill Moyses: who fleeing from his sight, abode in the Land of Madian, and sat beside a well."
         },
         {
           "verse": 16,
@@ -369,7 +381,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "Oppression of innocents cryeth to heaven for revenge."
+              "text": "Oppression of innocents crieth to heaven for revenge.",
+              "kind": "gloss"
             }
           ]
         },
@@ -393,7 +406,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The three first lessons on the 4. Sunday in Lent."
+              "text": "The three first lessons on the 4. Sunday in Lent.",
+              "kind": "head"
             }
           ]
         },
@@ -416,11 +430,13 @@
           "notes": [
             {
               "label": "a",
-              "text": "See what manner of reverence & devotion is prescribed, to go bare-foot to holy places."
+              "text": "See what manner of reverence & devotion is prescribed, to go bare-foot to holy places.",
+              "kind": "gloss"
             },
             {
               "label": "b",
-              "text": "Of holy places, and of christian devotion in going to them. S. Hier. writeth largely Epist. 17. 18. and 27."
+              "text": "Of holy places, and of christian devotion in going to them. S. Hier. writeth largely Epist. 17. 18. and 27.",
+              "kind": "gloss"
             }
           ]
         },
@@ -434,7 +450,7 @@
         },
         {
           "verse": 8,
-          "text": "and knowing their sorrow, I am descended to deliver them out of the hands of the Ægyptians, and to bring them out of that land into a land good and large, into a land that floweth with milk and honey, to the place of the Chananeite, and Hetheite, and Amorrheite, and Pherezeite, and Heveite, & Jebuseite."
+          "text": "and knowing their sorrow, I am descended to deliver them out of the hands of the Ægyptians, and to bring them out of that land into a land good and large, into a land that floweth with milk and honey, to the places of the Chananeite, and Hetheite, and Amorrheite, and Pherezeite, and Heveite, & Jebuseite."
         },
         {
           "verse": 9,
@@ -467,7 +483,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "This is the most proper name, but the most common is God, derived in many languages of Good. Mat. 19. v. 17."
+              "text": "This is the most proper name, but the most common is God, derived in many languages of Good. Mat. 19. v. 17.",
+              "kind": "gloss"
             }
           ]
         },
@@ -501,7 +518,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "All that any man possesseth in this world is but lent by God. And therefore he justly taketh away, and lendeth to others; disposing of all as pleaseth him"
+              "text": "All that any man possesseth in this world is but lent by God. And therefore he justly taketh away, and lendeth to others; disposing of all as pleaseth him",
+              "kind": "gloss"
             }
           ]
         }
@@ -582,7 +600,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "God designed a rod for an instrument to work miracles."
+              "text": "God designed a rod for an instrument to work miracles.",
+              "kind": "gloss"
             }
           ]
         },
@@ -604,7 +623,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "See Annotations c. 7. v. 5."
+              "text": "See Annotations c. 7. v. 5.",
+              "kind": "gloss"
             }
           ]
         },
@@ -614,7 +634,7 @@
         },
         {
           "verse": 23,
-          "text": "I said to thee: dismiss my son that he may serve me, and thou wouldst not dismiss him: behold I will kill thy first-begotten son."
+          "text": "I said to thee: dismiss my son that he may serve me, and thou wouldest not dismiss him: behold I will kill thy first-begotten son."
         },
         {
           "verse": 24,
@@ -626,7 +646,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "A bloody spouse thou art to me."
+              "text": "A bloody spouse thou art to me.",
+              "kind": "gloss"
             }
           ]
         },
@@ -636,7 +657,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "See previous note"
+              "text": "See previous note",
+              "kind": "gloss"
             }
           ]
         },
@@ -662,7 +684,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "Miracles a motive to true belief."
+              "text": "Miracles a motive to true belief.",
+              "kind": "gloss"
             }
           ]
         }
@@ -694,7 +717,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Worldly men think God's people increase most by rest, but indeed they multiply more when they are oppressed. S. Cyprian de exhort. Mart. c. 10."
+              "text": "Worldly men think God's people increase most by rest, but indeed they multiply more when they are oppressed. S. Cyprian de exhort. Mart. c. 10.",
+              "kind": "gloss"
             }
           ]
         },
@@ -732,7 +756,7 @@
         },
         {
           "verse": 14,
-          "text": "And the overseers of the works of the children of Israel were scourged of Pharao's exactors, saying: Why do you not make up the task of bricks as before, neither yesterday, nor today?"
+          "text": "And the overseers of the works of the children of Israel were scourged of Pharao's exactors, saying: Why do you not make up the task of bricks as before, neither yesterday, nor to day?"
         },
         {
           "verse": 15,
@@ -764,7 +788,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "The crafty devil knowing that weak men afflicted are easily moved to murmur, stirred this people against their own leaders. S. Greg. l. 29. c. 14. Moral."
+              "text": "The crafty devil knowing that weak men afflicted are easily moved to murmur, stirred this people against their own leaders. S. Greg. l. 29. c. 14. Moral.",
+              "kind": "gloss"
             }
           ]
         },
@@ -774,7 +799,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "God's providence suffereth his children to be most"
+              "text": "God's providence suffereth his children to be most",
+              "kind": "gloss"
             }
           ]
         },
@@ -803,7 +829,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "Adonai is not the name here uttered to Moyses, but is read in place of the unknown name."
+              "text": "Adonai is not the name here uttered to Moyses, but is read in place of the unknown name.",
+              "kind": "gloss"
             }
           ]
         },
@@ -817,7 +844,7 @@
         },
         {
           "verse": 6,
-          "text": "Therefore say to the children of Israel: I the Lord who will bring you forth out of the work-prison of the Ægyptians, and will deliver you from servitude: and redeem you in a high arm, and great judgments."
+          "text": "Therefore say to the children of Israel: I the Lord who will bring you forth out of the work-prison of the Ægyptians, and will deliver you from servitude: and redeem you in a high arm, and great judgements."
         },
         {
           "verse": 7,
@@ -849,11 +876,11 @@
         },
         {
           "verse": 14,
-          "text": "These are Princes of their houses by their families. The sons of Ruben the first-begotten of Israel: Henoch and Phallu, Hesron and Charmi."
+          "text": "These are Princes of their houses by their families. The sons of Ruben the first begotten of Israel: Henoch and Phallu, Hesron and Charmi."
         },
         {
           "verse": 15,
-          "text": "These are the kindreds of Ruben. The sons of Simeon: Iamuel and Jamin, and Ahod, and Jachin, and Soar, and Saul the sons of the Chananitess, these are the progenies of Simeon."
+          "text": "These are the kindreds of Ruben. The sons of Simeon: Iamuel and Jamin, and Ahod, and Jachin, and Soar, and Saul the sons of the Chananitesse, these are the progenies of Simeon."
         },
         {
           "verse": 16,
@@ -861,7 +888,8 @@
           "notes": [
             {
               "label": "e",
-              "text": "The years of Joseph dying first of Jacob's sons Gen. 50. and of Levi living longest, and none of the rest, are not without mystery, recorded in holy Scriptures. Chronol. Hebr."
+              "text": "The years of Joseph dying first of Jacobs sons Gen. 50. and of Levi living longest, and none of the rest, are not without mystery, recorded in holy Scriptures. Chronol. Hebr.",
+              "kind": "gloss"
             }
           ]
         },
@@ -871,7 +899,7 @@
         },
         {
           "verse": 18,
-          "text": "The sons of Caath: Amram, and Isaar, and Hebron and Oziel. The years also of Caath's life, were an hundred thirty three."
+          "text": "The sons of Caath: Amram, and Isaar, and Hebron and Oziel. The years also of Caaths life, were an hundred thirty three."
         },
         {
           "verse": 19,
@@ -879,15 +907,17 @@
         },
         {
           "verse": 20,
-          "text": "And Amram took to wife Iocabed his aunt by the father's side: who bare him Aaron & Moyses. And the years of Amram's life were an hundred thirty seven.",
+          "text": "And Amram took to wife Iocabed his aunt by the fathers side: who bare him Aaron & Moyses. And the years of Amrams life were an hundred thirty seven.",
           "notes": [
             {
               "label": "f",
-              "text": "See Num. 26. v. 59."
+              "text": "See Num. 26. v. 59.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "* patruelem pro patrua, quæ Latine non dicitur."
+              "text": "* patruelem pro patrua, quæ Latine non dicitur.",
+              "kind": "gloss"
             }
           ]
         },
@@ -913,7 +943,8 @@
           "notes": [
             {
               "label": "g",
-              "text": "It pertained not to Moyses' present purpose, to prosecute the genealogies of Jacob's other sons, being come to the origin of the Priestly tribe in Levi the third son. S. Aug. q. 15. in Exod."
+              "text": "It pertained not to Moyses' present purpose, to prosecute the genealogies of Jacobs other sons, being come to the origin of the Priestly tribe in Levi the third son. S. Aug. q. 15. in Exod.",
+              "kind": "gloss"
             }
           ]
         },
@@ -950,7 +981,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Aaron also was the Prophet of God, but subordinate under Moyses, and over Pharao. S. Aug. q. 17. in Exod."
+              "text": "Aaron also was the Prophet of God, but subordinate under Moyses, and over Pharao. S. Aug. q. 17. in Exod.",
+              "kind": "gloss"
             }
           ]
         },
@@ -965,7 +997,7 @@
         },
         {
           "verse": 4,
-          "text": "and he will not hear you: and I will put in my hand upon Ægypt, and will bring forth my army and people the children of Israel out of the Land of Ægypt, by very great judgments."
+          "text": "and he will not hear you: and I will put in my hand upon Ægypt, and will bring forth my army and people the children of Israel out of the Land of Ægypt, by very great judgements."
         },
         {
           "verse": 5,
@@ -998,7 +1030,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Iannes and Membres 2. Tim. 3. known by tradition."
+              "text": "Iannes and Mambres 2. Tim. 3. known by tradition.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1020,11 +1053,12 @@
         },
         {
           "verse": 16,
-          "text": "And thou shalt say to him: The Lord God of the Hebrews sent me to thee, saying: Dismiss my people to sacrifice unto me in the desert: and until this present thou wouldst not hear.",
+          "text": "And thou shalt say to him: The Lord God of the Hebrews sent me to thee, saying: Dismiss my people to sacrifice unto me in the desert: and until this present thou wouldest not hear.",
           "notes": [
             {
               "label": "c",
-              "text": "Induration of heart (saith S. Bernard) is neither cut with remorse, nor softened, with pity, nor moved with prayers, nor yieldeth to threats: yea is more hardened by punishments. li. 1. de consid. ad Eugen."
+              "text": "Induration of heart (saith S. Bernard) is neither cut with remorse, nor softened, with pity, nor moved with prayers, nor yieldeth to threats: yea is more hardened by punishments. li. 1. de consid. ad Eugen.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1042,11 +1076,12 @@
         },
         {
           "verse": 20,
-          "text": "And Moyses and Aaron did as our Lord had commanded: and lifting up the rod he struck the water of the river before Pharao and his servants: which was turned into blood.",
+          "text": "And Moyses and Aaron did as our Lord had commanded: and lifting up the rod he stroke the water of the river before Pharao and his servants: which was turned into blood.",
           "notes": [
             {
               "label": "d",
-              "text": "The first plague in water, in which the Ægyptians drowned the Hebrews' infants. Theodoret. q. 19. in Exod. the like Ap. 16 Because the wicked spill the blood of God's Saints, he will give them blood to drink."
+              "text": "The first plague in water, in which the Ægyptians drowned the Hebrews' infants. Theodoret. q. 19. in Exod. the like Ap. 16 Because the wicked spill the blood of God's Saints, he will give them blood to drink.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1068,7 +1103,7 @@
         },
         {
           "verse": 25,
-          "text": "And seven days were fully ended, after that our Lord struck the river."
+          "text": "And seven days were fully ended, after that our Lord stroke the river."
         }
       ],
       "summary": "Moyses being constituted as God of Pharao, and Aaron as the Prophet of Moyses they declare God's commandment to Pharao; 10. turn the rod into a serpent; 17. and the water into blood, which is the first plague. 22. The Magicians do the like by enchantment, and Pharao's heart is indurate."
@@ -1086,7 +1121,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "If Pharao had not free-will threatening of punishment were unjust. Origen. li. 3. Periar. c. de lib. arbitr. He that cannot do otherwise doth not sin, as both learned and unlearned confess. S. Aug. de vera Relig. c. 14."
+              "text": "If Pharao had not free-will threatening of punishment were unjust. Origen. li. 3. Periar. c. de lib. arbitr. He that cannot do otherwise doth not sin, as both learned and unlearned confess. S. Aug. de vera Relig. c. 14.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1104,7 +1140,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "The 2. plague, Multitude of frogs."
+              "text": "The 2. plague, Multitude of frogs.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1122,7 +1159,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "The Enchanters could bring more frogs, but not take these away."
+              "text": "The Enchanters could bring more frogs, but not take these away.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1156,41 +1194,45 @@
           "notes": [
             {
               "label": "d",
-              "text": "Pharao's induration ascribed to himself."
+              "text": "Pharaos induration ascribed to himself.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 16,
-          "text": "And our Lord said to Moyses: Speak to Aaron: Stretch forth thy rod, and strike the dust of the earth: and be there sciniphs in the whole Land of Ægypt.",
+          "text": "And our Lord said to Moyses: Speak to Aaron: Stretch forth thy rod, and strike the dust of the earth: and be there sciniphes in the whole Land of Ægypt.",
           "notes": [
             {
               "label": "e",
-              "text": "The 3. plague sciniphs, small flying beasts, especially molesting men's eyes. Philo. l. 1. de vita Moysi."
+              "text": "The 3. plague sciniphes, small flying beasts, especially molesting men's eyes. Philo. l. 1. de vita Moysi.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 17,
-          "text": "And they did so. And Aaron stretched forth his hand, holding the rod: and he struck the dust of the earth, and there were made sciniphs on men and on beasts: all the dust of the earth was turned into sciniphs through the whole Land of Ægypt."
+          "text": "And they did so. And Aaron stretched forth his hand, holding the rod: and he stroke the dust of the earth, and there were made sciniphes on men and on beasts: all the dust of the earth was turned into sciniphes through the whole Land of Ægypt."
         },
         {
           "verse": 18,
-          "text": "And the enchanters with their enchantments practised in like manner to bring forth sciniphs, and they could not: and there were sciniphs as well on men as on beasts.",
+          "text": "And the enchanters with their enchantments practised in like manner to bring forth sciniphes, and they could not: and there were sciniphs as well on men as on beasts.",
           "notes": [
             {
               "label": "f",
-              "text": "The devil's power limited by God. Iob 1. 2."
+              "text": "The devils power limited by God. Iob 1. 2.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 19,
-          "text": "And the enchanters said to Pharao: This is the finger of God. And Pharao's heart was indurate, and he heard them not as our Lord had commanded.",
+          "text": "And the enchanters said to Pharao: This is the finger of God. And Pharaos heart was indurate, and he heard them not as our Lord had commanded.",
           "notes": [
             {
               "label": "g",
-              "text": "The enchanters convinced in their understanding, confessed the power of God, but not changed in affection, persisted in malice against the truth."
+              "text": "The enchanters convinced in their understanding, confessed the power of God, but not changed in affection, persisted in malice against the truth.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1204,7 +1246,8 @@
           "notes": [
             {
               "label": "h",
-              "text": "The 4. plague, Aboundance of all sorts of flies."
+              "text": "The 4. plague, Abundance of all sorts of flies.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1226,11 +1269,12 @@
         },
         {
           "verse": 26,
-          "text": "And Moyses said: It cannot so be done: for if we shall offer the abominations of the Ægyptians to the Lord our God, and we kill those things which the Ægyptians do worship before them, they will beat us down with stones.",
+          "text": "And Moyses said: It can not so be done: for if we shall offer the abominations of the Ægyptians to the Lord our God, and we kill those things which the Ægyptians do worship before them, they will beat us down with stones.",
           "notes": [
             {
               "label": "i",
-              "text": "Ægyptian worshipping beasts thought it intolerable abomination to kill, or eat, or burn them in sacrifice. Gen. 43. v. 32. 46. v. 34."
+              "text": "Ægyptian worshipping beasts thought it intolerable abomination to kill, or eat, or burn them in sacrifice. Gen. 43. v. 32. 46. v. 34.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1256,11 +1300,12 @@
         },
         {
           "verse": 32,
-          "text": "And Pharao's heart was hardened, so that neither this time would he dismiss the people.",
+          "text": "And Pharaos heart was hardened, so that neither this time would he dismiss the people.",
           "notes": [
             {
               "label": "k",
-              "text": "In the Hebrew: Pharao hardened his own heart, also this time."
+              "text": "In the Hebrew: Pharao hardened his own heart, also this time.",
+              "kind": "gloss"
             }
           ]
         }
@@ -1284,7 +1329,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "The 5. plague, Pestilence amongst cattle."
+              "text": "The 5. plague, Pestilence amongst cattle.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1302,7 +1348,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Not all the beasts died, for some died in the 7. & 10. plagues, but all that died pertained to the Ægyptians."
+              "text": "Not all the beasts died, for some died in the 7. & 10. plagues, but all that died pertained to the Ægyptians.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1312,7 +1359,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "In Hebr. Vaijchbad leb Parhaoh. Pharao's heart hardened it-self."
+              "text": "In Hebr. Vaijchbad leb Parhaoh. Pharao's heart hardened it-self.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1326,7 +1374,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "The 6. plague Boyles in men and beasts."
+              "text": "The 6. plague Boyles in men and beasts.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1340,7 +1389,8 @@
           "notes": [
             {
               "label": "e",
-              "text": "Poor Enchanters, that could neither escape nor cure this plague."
+              "text": "Poor Enchanters, that could neither escape nor cure this plague.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1371,7 +1421,8 @@
           "notes": [
             {
               "label": "f",
-              "text": "In Hebrew I have made thee stand, in the 70 and Chaldee paraphrasis I have kept thee alive. In the Latin I have put or set thee, that in thee, through thine own malice indurate, I may make known my power to mankind. S. Aug."
+              "text": "In Hebrew I have made thee stand, in the 70 and Chalde paraphrasis I have kept thee alive. In the Latin I have put or set thee, that in thee, through thine own malice indurate, I may make known my power to mankind. S. Aug.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1385,7 +1436,8 @@
           "notes": [
             {
               "label": "g",
-              "text": "The 7. plague Terrible hail, thunders, and lightnings."
+              "text": "The 7. plague Terrible hail, thunders, and lightnings.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1395,7 +1447,7 @@
         },
         {
           "verse": 20,
-          "text": "He that feared the word of our Lord of Pharao's servants, made his servants to fly, and his beasts into houses:"
+          "text": "He that feared the word of our Lord of Pharao's servants, made his servants to flee, and his beasts into houses:"
         },
         {
           "verse": 21,
@@ -1459,7 +1511,8 @@
           "notes": [
             {
               "label": "h",
-              "text": "In Hebrew Vaiach bed libbe hu vahabadaf. And he hardened his own heart, he & his servants."
+              "text": "In Hebrew Vaiachbed libbo hu vahabadaf. And he hardened his own heart, he & his servants.",
+              "kind": "gloss"
             }
           ]
         }
@@ -1475,7 +1528,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "By God's patience over Pharao & his servants, in not destroying them, their wicked mind became more obstinate. S. Aug. q. 30. & 36. in Exod."
+              "text": "By Gods patience over Pharao & his servants, in not destroying them, their wicked mind became more obstinate. S. Aug. q. 30. & 36. in Exod.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1493,7 +1547,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "The 8. plague, Innumerable locusts, little flying beasts with long hinder legs, that destroy grain, grass & fruit. Plinius li. 11. c. 2. S. Greg. li. 31. c. 20. Moral"
+              "text": "The 8. plague, Innumerable locusts, little flying beasts with long hinder legs, that destroy grain, grass & fruit. Plinius li. 11. c. 2. S. Greg. li. 31. c. 20. Moral",
+              "kind": "gloss"
             }
           ]
         },
@@ -1507,7 +1562,7 @@
         },
         {
           "verse": 7,
-          "text": "And Pharao's servants said to him: How long shall we endure this scandal? Dismiss the men to sacrifice to the Lord their God. Dost thou not see that Ægypt is undone?"
+          "text": "And Pharaos servants said to him: How long shall we endure this scandal? Dismiss the men to sacrifice to the Lord their God. Dost thou not see that Ægypt is undone?"
         },
         {
           "verse": 8,
@@ -1523,13 +1578,14 @@
           "notes": [
             {
               "label": "c",
-              "text": "Because God's servants may not temporize in religion, politics unjustly charge them to have bad intentions."
+              "text": "Because Gods servants may not temporize in religion, politiques unjustly charge them to have bad intentions.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 11,
-          "text": "It shall not so be: but go ye men only, and sacrifice to the Lord: for this yourselves also desired. And immediately they were cast out from Pharao's sight."
+          "text": "It shall not so be: but go ye men only, and sacrifice to the Lord: for this yourselves also desired. And immediately they were cast out from Pharaos sight."
         },
         {
           "verse": 12,
@@ -1541,7 +1597,7 @@
         },
         {
           "verse": 14,
-          "text": "which came up over the whole Land of Ægypt: and sat in all the coasts of the Ægyptians innumerable, the like as had not been before that time, nor shall be afterward."
+          "text": "which came up over the whole Land of Ægypt: and sate in all the coasts of the Ægyptians innumerable, the like as had not been before that time, nor shall be afterward."
         },
         {
           "verse": 15,
@@ -1557,7 +1613,7 @@
         },
         {
           "verse": 18,
-          "text": "And Moyses going forth from Pharao's sight, prayed to our Lord:"
+          "text": "And Moyses going forth from Pharaos sight, prayed to our Lord:"
         },
         {
           "verse": 19,
@@ -1565,7 +1621,7 @@
         },
         {
           "verse": 20,
-          "text": "And our Lord did indurate Pharao's heart, neither did he dismiss the children of Israel."
+          "text": "And our Lord did indurate Pharaos heart, neither did he dismiss the children of Israel."
         },
         {
           "verse": 21,
@@ -1573,7 +1629,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "The 9. plague, Horrible darkness three days together."
+              "text": "The 9. plague, Horrible darkness three days together.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1599,13 +1656,14 @@
           "notes": [
             {
               "label": "e",
-              "text": "God's people must be resolute in Religion."
+              "text": "Gods people must be resolute in Religion.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 27,
-          "text": "And our Lord did indurate Pharao's heart, and he would not dismiss them."
+          "text": "And our Lord did indurate Pharaos heart, and he would not dismiss them."
         },
         {
           "verse": 28,
@@ -1631,7 +1689,7 @@
         },
         {
           "verse": 3,
-          "text": "And the Lord will give grace to his people in the sight of the Ægyptians. And Moyses was a very great man in the Land of Ægypt, in the sight of Pharao's servants, and of all the people."
+          "text": "And the Lord will give grace to his people in the sight of the Ægyptians. And Moyses was a very great man in the Land of Ægypt, in the sight of Pharaos servants, and of all the people."
         },
         {
           "verse": 4,
@@ -1643,13 +1701,14 @@
           "notes": [
             {
               "label": "a",
-              "text": "The 10. plague, Death of the first-born in men and beasts of the Ægyptians."
+              "text": "The 10. plague, Death of the firstborn in men and beasts of the Ægyptians.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 6,
-          "text": "And there shall be a great cry in the whole Land of Ægypt, such as neither hath been before, nor shall be afterwards."
+          "text": "And there shall be a great cry in the whole Land of Ægypt, such as neither hath been before, nor shall be afterward."
         },
         {
           "verse": 7,
@@ -1665,11 +1724,12 @@
         },
         {
           "verse": 10,
-          "text": "And Moyses and Aaron did all the wonders that are written, before Pharao. And our Lord hardened Pharao's heart, neither did he dismiss the children of Israel out of his Land.",
+          "text": "And Moyses and Aaron did all the wonders that are written, before Pharao. And our Lord hardened Pharaos heart, neither did he dismiss the children of Israel out of his Land.",
           "notes": [
             {
               "label": "b",
-              "text": "As before c. 7. v. 3. c. 9. v. 16. c. 10. v. 1."
+              "text": "As before c. 7. v. 3. c. 9. v. 16. c. 10. v. 1.",
+              "kind": "gloss"
             }
           ]
         }
@@ -1685,7 +1745,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle in the office on good Friday. And the 9. prophecy before Mass on Easter eve."
+              "text": "The Epistle in the office on good Friday. And the 9. prophecy before Mass on Easter eve.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -1708,7 +1769,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Such as had not means to take a lamb, took a kid, using all the same Rites."
+              "text": "Such as had not means to take a lamb, took a kid, using all the same Rites.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1718,7 +1780,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Shachatu, immolabunt, shall offer or sacrifice: not only kill, as Protestants translate."
+              "text": "Shachatu, immolabunt, shall offer or sacrifice: not only kill, as Protestants translate.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1744,17 +1807,19 @@
           "notes": [
             {
               "label": "c",
-              "text": "Passage in killing the first-born of Ægypt, and not of Israel. S. Hiero. in Mat. 26."
+              "text": "Passage in killing the first-born of Ægypt, and not of Israel. S. Hiero. in Mat. 26.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 12,
-          "text": "And I will pass through the Land of Ægypt that night, and will strike every first-begotten in the Land of Ægypt from man even unto beast: & in all the gods of Ægypt I will do judgments, I the Lord.",
+          "text": "And I will pass through the Land of Ægypt that night, and will strike every first-begotten in the Land of Ægypt from man even unto beast: & in all the gods of Ægypt I will do judgements, I the Lord.",
           "notes": [
             {
               "label": "d",
-              "text": "The idols of Ægypt were overthrown, as Dagon was in Azotum. 1. Reg. 5. S. Hier. Epist. ad Fabiol. ex tradit. Hebr."
+              "text": "The idols of Ægypt were overthrown, as Dagon was in Azotum. 1. Reg. 5. S. Hier. Epist. ad Fabiol. ex tradit. Hebr.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1784,7 +1849,8 @@
           "notes": [
             {
               "label": "e",
-              "text": "Christ observing this precept, had no leavened bread at his last supper: and so instituted the Eucharist in unleavened."
+              "text": "Christ observing this precept, had no leavened bread at his last supper: and so instituted the Eucharist in unleavened.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1806,7 +1872,8 @@
           "notes": [
             {
               "label": "f",
-              "text": "Sprinkling of blood with hyssop here & Levit. 14. Num. 19. prescribed, signifieth man's delivery by Christ's blood working in Baptism and other Sacraments. Heb. 9."
+              "text": "Sprinkling of blood with hyssop here & Levit. 14. Num. 19. prescribed, signifieth man's delivery by Christ's blood working in Baptism and other Sacraments. Heb. 9.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1828,7 +1895,7 @@
         },
         {
           "verse": 27,
-          "text": "You shall say to them: It is the victim of our Lord's passage, when he passed over the houses of the children of Israel in Ægypt striking the Ægyptians, and delivering our houses. And the people bowing themselves adored."
+          "text": "You shall say to them: It is the victim of our Lords passage, when he passed over the houses of the children of Israel in Ægypt striking the Ægyptians, and delivering our houses. And the people bowing themselves adored."
         },
         {
           "verse": 28,
@@ -1836,11 +1903,12 @@
         },
         {
           "verse": 29,
-          "text": "And it came to pass at midnight, our Lord struck every first-begotten in the Land of Ægypt, from the first-begotten of Pharao, who sat in his throne, unto the first-begotten of the captive woman that was in the prison, and every first-begotten of beasts.",
+          "text": "And it came to pass at midnight, our Lord stroke every first-begotten in the Land of Ægypt, from the first-begotten of Pharao, who sate in his throne, unto the first-begotten of the captive woman that was in the prison, and every first-begotten of beasts.",
           "notes": [
             {
               "label": "g",
-              "text": "Punishment conform to their sin, for persecuting God's first-begotten son Israel. Exod. 4. v. 22. Theodor. q. 22. in Exod."
+              "text": "Punishment conform to their sin, for persecuting God's first-begotten son Israel. Exod. 4. v. 22. Theodor. q. 22. in Exod.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1874,7 +1942,8 @@
           "notes": [
             {
               "label": "h",
-              "text": "Lawful spoil by the warrant of God, Lord of all."
+              "text": "Lawful spoil by the warrant of God, Lord of all.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1896,7 +1965,8 @@
           "notes": [
             {
               "label": "i",
-              "text": "From the promise made to Abraham (Gen. 12. v. 7) and his first going into Ægypt (v. 10) to this time, were 430. years Gal. 3. of which they were in great persecution above 80 years, before that in servitude about 60. more, before that also they were strangers partly in Ægypt, partly in"
+              "text": "From the promise made to Abraham (Gen. 12. v. 7) and his first going into Ægypt (v. 10) to this time, were 430. years Gal. 3. of which they were in great persecution above 80 years, before that in servitude about 60. more, before that also they were strangers partly in Ægypt, partly in",
+              "kind": "gloss"
             }
           ]
         },
@@ -1955,7 +2025,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The first lesson at Matins on Candlemass day."
+              "text": "The first lesson at Mattins on Candlemass day.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1977,7 +2048,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "The old Testament proposed commonly temporal rewards. S. Hierom. Ep. ad Dardanum."
+              "text": "The old Testament proposed commonly temporal rewards. S. Hierom. Ep. ad Dardanum.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2019,11 +2091,12 @@
         },
         {
           "verse": 15,
-          "text": "For when Pharao's heart was indurate, and would not dismiss us, our Lord slew every first-born in the Land of Ægypt, from the first-born of man to the first-born of beasts: therefore I sacrifice to our Lord all that openeth the matrice of the male sex, and all the first-born of my sons I do redeem.",
+          "text": "For when Pharaos heart was indurate, and would not dismiss us, our Lord slew every first-born in the Land of Ægypt, from the first-born of man to the first-born of beasts: therefore I sacrifice to our Lord all that openeth the matrice of the male sex, and all the first-born of my sons I do redeem.",
           "notes": [
             {
               "label": "b",
-              "text": "In the Hebrew, when Pharao had indurated himself."
+              "text": "In the Hebrew, when Pharao had indurated himself.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2037,7 +2110,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "God's prevention to avoid tentations sheweth freewill in man."
+              "text": "Gods prevention to avoid tentations sheweth freewil in man.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2047,11 +2121,12 @@
         },
         {
           "verse": 19,
-          "text": "Moyses also took Joseph's bones with him: because he had adjured the children of Israel, saying: God shall visit you, carry out my bones from hence with you.",
+          "text": "Moyses also took Josephs bones with him: because he had adjured the children of Israel, saying: God shall visit you, carry out my bones from hence with you.",
           "notes": [
             {
               "label": "d",
-              "text": "By this appeareth how much Moyses esteemed Joseph's charge concerning translation of his bones. Also S. Paul commended it. Heb. 11."
+              "text": "By this appeareth how much Moyses esteemed Josephs charge concerning translation of his bones. Also S. Paul commendeth it. Heb. 11.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2083,7 +2158,7 @@
         },
         {
           "verse": 3,
-          "text": "And Pharao will say concerning the children of Israel: They are straightened in the land, the desert hath shut them in."
+          "text": "And Pharao will say concerning the children of Israel: They are straitened in the land, the desert hath shut them in."
         },
         {
           "verse": 4,
@@ -2091,7 +2166,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Although the Hebrew, Greek, and Latin have, And he, yet Protestants corruptly thrust in the text, that he shall, to make it sound to their sense, that God did not only permit, but work Pharao's induration."
+              "text": "Although the Hebrew, Greek, and Latin have, And he, yet Protestants corruptly thrust in the text, that he shall, to make it sound to their sense, that God did not only permit, but work Pharaoes induration.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2109,11 +2185,11 @@
         },
         {
           "verse": 8,
-          "text": "And our Lord hardened Pharao's heart the king of Ægypt, & he pursued the children of Israel: but they went forth in a mighty hand."
+          "text": "And our Lord hardened Pharaoes heart the king of Ægypt, & he pursued the children of Israel: but they went forth in a mighty hand."
         },
         {
           "verse": 9,
-          "text": "And when the Ægyptians pursued their steps going before, they found them encamped at the sea side: all Pharao's horse and chariots, & the whole army were in Phihahiroth against Beelsephon."
+          "text": "And when the Ægyptians pursued their steps going before, they found them encamped at the sea side: all Pharaoes horse and chariots, & the whole army were in Phihahiroth against Beelsephon."
         },
         {
           "verse": 10,
@@ -2121,7 +2197,7 @@
         },
         {
           "verse": 11,
-          "text": "and said to Moyses: Perhaps there were no graves in Ægypt, therefore thou hast taken us thence to die in the wilderness: why wouldst thou do this, in bringing us out of Ægypt?"
+          "text": "and said to Moyses: Perhaps there were no graves in Ægypt, therefore thou hast taken us thence to die in the wilderness: why wouldest thou do this, in bringing us out of Ægypt?"
         },
         {
           "verse": 12,
@@ -2137,11 +2213,12 @@
         },
         {
           "verse": 15,
-          "text": "And our Lord said to Moyses: Why cryest thou to me? Speak to the children of Israel that they go forward.",
+          "text": "And our Lord said to Moyses: Why criest thou to me? Speak to the children of Israel that they go forward.",
           "notes": [
             {
               "label": "b",
-              "text": "A sorrowful heart, lamentably mourning for the people is called crying to God. S. Hierom. in Gal. 4."
+              "text": "A sorrowful heart, lamentably mourning for the people is called crying to God. S. Hierom. in Gal. 4.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2168,7 +2245,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Protection of Angels."
+              "text": "Protection of Angels.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2186,7 +2264,7 @@
         },
         {
           "verse": 23,
-          "text": "And the Ægyptians pursuing went in after them, and all Pharao's horses, his chariots and horsemen through the midst of the sea."
+          "text": "And the Ægyptians pursuing went in after them, and all Pharaoes horses, his chariots and horsemen through the midst of the sea."
         },
         {
           "verse": 24,
@@ -2194,13 +2272,14 @@
           "notes": [
             {
               "label": "1",
-              "text": "The fourth prophecy in the office before Mass on Easter eve. And the second on Whitsun-eve."
+              "text": "The fourth prophecy in the office before Mass on Easter eve. And the second on Whitsun eve.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 25,
-          "text": "and overthrew the wheels of the chariots, and they were borne into the depth. The Ægyptians therefore said: Let us fly from Israel: for the Lord fighteth for them against us."
+          "text": "and overthrew the wheels of the chariots, and they were borne into the depth. The Ægyptians therefore said: Let us flee from Israel: for the Lord fighteth for them against us."
         },
         {
           "verse": 26,
@@ -2212,11 +2291,12 @@
         },
         {
           "verse": 28,
-          "text": "And the waters returned, and overwhelmed the chariots & the horsemen of all Pharao's army, who following were entered into the sea, neither did there so much as one of them remain.",
+          "text": "And the waters returned, and overwhelmed the chariots & the horsemen of all Pharaoes army, who following were entered into the sea, neither did there so much as one of them remain.",
           "notes": [
             {
               "label": "d",
-              "text": "So in Baptism all sins are destroyed. S. Cyp. Ep. 76. in fine S. Aug. Tract. 12. & 13. in Ioan."
+              "text": "So in Baptism all sins are destroyed. S. Cyp. Ep. 76. in fine S. Aug. Tract. 12. & 13. in Ioan.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2234,7 +2314,8 @@
           "notes": [
             {
               "label": "e",
-              "text": "The same credit is given to God speaking by Moyses, as if he had spoken immediately by himself. S. Hiero. in Epist. ad Philem."
+              "text": "The same credit is given to God speaking by Moyses, as if he had spoken immediately by himself. S. Hiero. in Epist. ad Philem.",
+              "kind": "gloss"
             }
           ]
         }
@@ -2250,7 +2331,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "The first of all Canticles, sacred or profane. Origen. ho. 6. in Exod."
+              "text": "The first of all Canticles, sacred or profane. Origen. ho. 6. in Exod.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2264,11 +2346,12 @@
         },
         {
           "verse": 4,
-          "text": "Pharao's chariots and his army he hath cast into the sea: his chosen Princes are drowned in the red sea.",
+          "text": "Pharaos chariots and his army he hath cast into the sea: his chosen Princes are drowned in the red sea.",
           "notes": [
             {
               "label": "b",
-              "text": "God only suffered them to go into the sea. For they went of their own accord, supposing they might follow where the Israelites went before. S. Aug. ser. 89. de temp."
+              "text": "God only suffered them to go into the sea. For they went of their own accord, supposing they might follow where the Israelites went before. S. Aug. ser. 89. de temp.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2278,7 +2361,7 @@
         },
         {
           "verse": 6,
-          "text": "Thy right hand, o Lord, is magnified in strength: thy right hand, o Lord, hath strucken the enemy."
+          "text": "Thy right hand, o Lord, is magnified in strength: thy right hand, o Lord, hath stricken the enemy."
         },
         {
           "verse": 7,
@@ -2318,7 +2401,7 @@
         },
         {
           "verse": 16,
-          "text": "Let fear and dread fall upon them, in the greatness of thy arm: Let them become unmovable as a stone, until thy people, o Lord, shall pass, until thy people shall pass, this which thou hast possessed."
+          "text": "Let fear and dread fall upon them, in the greatness of thy arm: Let them become unmoveable as a stone, until thy people, o Lord, shall pass, until thy people shall pass, this which thou hast possessed."
         },
         {
           "verse": 17,
@@ -2334,11 +2417,12 @@
         },
         {
           "verse": 20,
-          "text": "Mary therefore the Prophetess, Aaron's sister, took a timbrel in her hand: and all the women went forth after her with timbrels and dances,",
+          "text": "Marie therefore the Prophetess, Aarons sister, took a timbrel in her hand: and all the women went forth after her with timbrels and dances,",
           "notes": [
             {
               "label": "c",
-              "text": "Musical instruments used before the law of Moyses in the service of God. The end of the third age. THE CONTINUANCE OF THE CHURCH AND RELIGION IN THE THIRD AGE, from Abraham's going forth of Chaldea, to the parting of Israel out of Ægypt. The space of 430. years."
+              "text": "Musical instruments used before the law of Moyses in the service of God. The end of the third age. THE CONTINUANCE OF THE CHURCH AND RELIGION IN THE THIRD AGE, from Abraham's going forth of Chaldea, to the parting of Israel out of Ægypt. The space of 430. years.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2352,7 +2436,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "These things chanced to them in figure. 1. Cor. 10."
+              "text": "These things chanced to them in figure. 1. Cor. 10.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2366,11 +2451,12 @@
         },
         {
           "verse": 25,
-          "text": "But he cried to our Lord. Who did shew him a piece of wood: which when he had cast into the waters, they were turned into sweetness. There he appointed him precepts, and judgments, and there he proved him,",
+          "text": "But he cried to our Lord. Who did shew him a piece of wood: which when he had cast into the waters, they were turned into sweetness. There he appointed him precepts, and judgements, and there he proved him,",
           "notes": [
             {
               "label": "e",
-              "text": "The wholesome wood of the Cross made the bitter sea of Gentiles sweet. Theodoret q. 26. in Exod."
+              "text": "The wholesome wood of the Cross made the bitter sea of Gentiles sweet. Theodoret q. 26. in Exod.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2394,7 +2480,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The second part of this book. How the Israelites were sustained in the desert, and prepared to receive the Law."
+              "text": "The second part of this book. How the Israelites were sustained in the desert, and prepared to receive the Law.",
+              "kind": "head"
             }
           ]
         },
@@ -2404,7 +2491,7 @@
         },
         {
           "verse": 3,
-          "text": "And the children of Israel said to them: Would to God we had died by the hand of our Lord in the Land of Ægypt, when we sat over the flesh pots, and did eat bread our fill: why have you brought us into this desert, that you might kill all the multitude with famine?"
+          "text": "And the children of Israel said to them: Would to God we had died by the hand of our Lord in the Land of Ægypt, when we sate over the flesh pots, and did eat bread our fill: why have you brought us into this desert, that you might kill all the multitude with famine?"
         },
         {
           "verse": 4,
@@ -2412,7 +2499,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "God left it in their will to be content with enough, or to covet more, yet suffered them not to have more, when it came to measuring. v. 18. and 2. Cor. 8."
+              "text": "God left it in their will to be content with enough, or to covet more, yet suffered them not to have more, when it came to measuring. v. 18. and 2. Cor. 8.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2454,7 +2542,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "These birds by God's providence came from other places to the children of Israel. Nu. 11. v. 31."
+              "text": "These birds by Gods providence came from other places to the children of Israel. Nu. 11. v. 31.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2497,13 +2586,14 @@
           "notes": [
             {
               "label": "c",
-              "text": "By their wondering at the double quantity, it appeareth they intended not to gather so much."
+              "text": "By their wondering at the double quantity, it appeareth they intended not to gather so much.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 23,
-          "text": "Who said to them: This is it which our Lord hath spoken: The Sabbath's rest is sanctified unto our Lord tomorrow. Whatsoever is to be wrought, do it: and the meats that are to be made ready, make them ready: and whatsoever shall remain, lay it up until the morning."
+          "text": "Who said to them: This is it which our Lord hath spoken: The Sabbaths rest is sanctified unto our Lord tomorrow. Whatsoever is to be wrought, do it: and the meats that are to be made ready, make them ready: and whatsoever shall remain, lay it up until the morning."
         },
         {
           "verse": 24,
@@ -2511,7 +2601,7 @@
         },
         {
           "verse": 25,
-          "text": "And Moyses said: Eat it today, because it is the Sabbath of our Lord: today it shall not be found in the field."
+          "text": "And Moyses said: Eat it to day, because it is the Sabbath of our Lord: to day it shall not be found in the field."
         },
         {
           "verse": 26,
@@ -2543,7 +2633,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "By anticipation Moyses writeth here the commandment given when the Tabernacle and Ark were finished. Exo. ult."
+              "text": "By anticipation Moyses writeth here the commandment given when the Tabernacle and Ark were finished. Exo. ult.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2553,7 +2644,8 @@
           "notes": [
             {
               "label": "e",
-              "text": "This Relic was put in a golden vessel Heb. 9. though it was infinitely inferior to Christ's flesh Io. 6. yea inferior to the flesh of any glorified Saint."
+              "text": "This Relic was put in a golden vessel Heb. 9. though it was infinitely inferior to Christs flesh Io. 6. yea inferior to the flesh of any glorified Saint.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3135,13 +3227,14 @@
           "notes": [
             {
               "label": "a",
-              "text": "If this ceremony of holding up his hands was of such importance in the law of nature, why do Heretics deride the same, and the like in the Catholic Church? Whereas also our Saviour lifting up his hands blessed his disciples. Luc. 24. S. Damascen also teacheth (l. 4. c. 12. Ortho.) that this extension of his hands prefigure the Cross of Christ. And now it representeth the same."
+              "text": "If this ceremony of holding up his hands was of such importance in the law of nature, why do Heretics deride the same, and the like in the Catholic Church? Whereas also our Saviour lifting up his hands blessed his disciples. Luc. 24. S. Damascen also teacheth (l. 4. c. 12. Ortho.) that this extension of his hands prefigured the Cross of Christ. And now it representeth the same.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 12,
-          "text": "And the hands of Moyses were heavy: therefore they took a stone, and put under him, whereupon he sat: and Aaron and Hur stayed up his hands on both sides. And it came to pass that his hands were not weary until sun set."
+          "text": "And the hands of Moyses were heavy: therefore they took a stone, and put under him, whereupon he sate: and Aaron and Hur stayed up his hands on both sides. And it came to pass that his hands were not weary until sun set."
         },
         {
           "verse": 13,
@@ -3157,7 +3250,7 @@
         },
         {
           "verse": 16,
-          "text": "Because the hand of our Lord's throne, and the war of our Lord shall be against Amalec, from generation unto generation."
+          "text": "Because the hand of our Lords throne, and the war of our Lord shall be against Amalec, from generation unto generation."
         }
       ],
       "summary": "The people murmuring again in Raphidim for want of drink, our Lord giveth them water out of a rock. 8. Amalech fighteth with them. And Moyses lifting up his hand in prayer, Israel overcometh, otherwise Amalech prevaileth."
@@ -3171,7 +3264,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Cohen in Hebrew signifieth Prince or Priest; which offices in the law of nature were often joined in one person."
+              "text": "Cohen in Hebrew signifieth Prince or Priest; which offices in the law of nature were often joined in one person.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3185,7 +3279,7 @@
         },
         {
           "verse": 4,
-          "text": "And the other Eliezer: for the God of my father, quoth he, is my helper, and hath delivered me from Pharao's sword."
+          "text": "And the other Eliezer: for the God of my father, quoth he, is my helper, and hath delivered me from Pharaoes sword."
         },
         {
           "verse": 5,
@@ -3221,7 +3315,7 @@
         },
         {
           "verse": 13,
-          "text": "And the next day Moyses sat to judge the people, who stood by Moyses from morning until night."
+          "text": "And the next day Moyses sate to judge the people, who stood by Moyses from morning until night."
         },
         {
           "verse": 14,
@@ -3245,11 +3339,12 @@
         },
         {
           "verse": 19,
-          "text": "But hear my words and councils, and God shall be with thee. Be thou to the people in those things that pertain to God, to report their words unto him:",
+          "text": "But hear my words and counsels, and God shall be with thee. Be thou to the people in those things that pertain to God, to report their words unto him:",
           "notes": [
             {
               "label": "b",
-              "text": "Manifold wisdom, whereof Daniel prophesieth (c. 12. v. 4.) in Christian Gentiles, was here prefigured in Jethro a Gentile."
+              "text": "Manifold wisdom, whereof Daniel prophesieth (c. 12. v. 4.) in Christian Gentiles, was here prefigured in Jethro a Gentil.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3259,7 +3354,7 @@
         },
         {
           "verse": 21,
-          "text": "And provide out of all the people men that are wise, & do fear God, in whom there is truth, and that do hate avarice, and appoint of them tribunes, and centurions, and quinquagenarians, and deans,"
+          "text": "And provide out of all the people men that are wise, & do fear God, in whom there is truth, and that do hate avarice, and appoint of them tribunes, and centurions, and quinquagenarians, and deanes,"
         },
         {
           "verse": 22,
@@ -3267,7 +3362,7 @@
         },
         {
           "verse": 23,
-          "text": "If thou doest this, thou shalt fulfill the commandment of God, & shalt be able to bear his precepts: and all this people shall return to their places with peace."
+          "text": "If thou doest this, thou shalt fulfil the commandment of God, & shalt be able to bear his precepts: and all this people shall return to their places with peace."
         },
         {
           "verse": 24,
@@ -3275,13 +3370,14 @@
           "notes": [
             {
               "label": "c",
-              "text": "To whom Moyses willingly yielded. Origen. in hunc locum. Morally, superiors are admonished by Moyses example to learn of any man, that which is good. S. Chrysostom. ho. de ferendis reprehensionibus."
+              "text": "To whom Moyses willingly yielded. Origen. in hunc locum. Morally, superiors are admonished by Moyses example to learn of any man, that which is good. S. Chrysostom. ho. de ferendis reprehensionibus.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 25,
-          "text": "And choosing substantial men out of all Israel, he appointed them Princes of the people, tribunes, and centurions, and quinquagenarians, and deans."
+          "text": "And choosing substantial men out of all Israel, he appointed them Princes of the people, tribunes, and centurions, and quinquagenarians, and deanes."
         },
         {
           "verse": 26,
@@ -3304,7 +3400,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "To this place (which was their 12. mansion) they came the 47. day after they parted from Ægypt. And the third day following which was the 50, the law was given in mount Sinai. S. Hierom. Epist. 1. ad Fabiolam."
+              "text": "To this place (which was their 12. mansion) they came the 47. day after they parted from Ægypt. And the third day following which was the 50, the law was given in mount Sinai. S. Hierom. Epist. 1. ad Fabiolam.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3318,7 +3415,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "God would have their free consent, else it were not a perfect covenant. Theodoret q. 35 in Exod."
+              "text": "God would have their free consent, else it were not a perfect covenant. Theodoret q. 35 in Exod.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3332,7 +3430,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "In this covenant God promiseth particular love; Priestly function, whereby they might better serve him; and effectual grace and sanctity."
+              "text": "In this covenant God promiseth particular love; Priestly function, whereby they might better serve him; and effectual grace and sanctity.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3342,7 +3441,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "See previous note"
+              "text": "See previous note",
+              "kind": "gloss"
             }
           ]
         },
@@ -3352,27 +3452,29 @@
         },
         {
           "verse": 8,
-          "text": "And all the people answered together. All things that our Lord hath spoken, we will do. And when Moyses had reported the people's words to our Lord,",
+          "text": "And all the people answered together. All things that our Lord hath spoken, we will do. And when Moyses had reported the peoples words to our Lord,",
           "notes": [
             {
               "label": "d",
-              "text": "The people promise loyalty to God; and to keep his commandments."
+              "text": "The people promise loyalty to God; and to keep his commandments.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 9,
-          "text": "our Lord said to him: Now presently will I come to thee in the darkness of a cloud, that the people may hear me speaking to thee, and may believe thee for ever. Moyses therefore told the people's words to our Lord.",
+          "text": "our Lord said to him: Now presently will I come to thee in the darkness of a cloud, that the people may hear me speaking to thee, and may believe thee for ever. Moyses therefore told the peoples words to our Lord.",
           "notes": [
             {
               "label": "e",
-              "text": "So Angels & Saints offer our prayers & other good works to God, though he know all things beforehand."
+              "text": "So Angels & Saints offer our prayers & other good works to God, though he know all things before hand.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 10,
-          "text": "Who said to him: Go to the people, and sanctify them today, and tomorrow, and let them wash their garments."
+          "text": "Who said to him: Go to the people, and sanctify them to day, and tomorrow, and let them wash their garments."
         },
         {
           "verse": 11,
@@ -3380,11 +3482,11 @@
         },
         {
           "verse": 12,
-          "text": "And thou shalt appoint certain limits to the people in circuit, and shalt say to them: Beware ye ascend not into the mount, & that you touch not the ends thereof: every one that toucheth the mount, dying shall die."
+          "text": "And thou shalt appoint certain limites to the people in circuit, and shalt say to them: Beware ye ascend not into the mount, & that you touch not the ends thereof: every one that toucheth the mount, dying shall die."
         },
         {
           "verse": 13,
-          "text": "Hand shall not touch him, but he shall be stoned to death, or shall be shot through with arrows: whether it be beast, or man, it shall not live. When the trumpet shall begin to sound, then let them ascend into the mount."
+          "text": "Hands shall not touch him, but he shall be stoned to death, or shall be shot through with arrows: whether it be beast, or man, it shall not live. When the trumpet shall begin to sound, then let them ascend into the mount."
         },
         {
           "verse": 14,
@@ -3416,7 +3518,7 @@
         },
         {
           "verse": 21,
-          "text": "he said unto him: Go down, and charge the people, lest perhaps they will pass their limits to see the Lord, and a very great multitude of them perish."
+          "text": "he said unto him: Go down, and charge the people, lest perhaps they will pass their limites to see the Lord, and a very great multitude of them perish."
         },
         {
           "verse": 22,
@@ -3424,15 +3526,16 @@
         },
         {
           "verse": 23,
-          "text": "And Moyses said to our Lord: The common people cannot ascend into the mount Sinai: for thou didst charge, and command, saying: Put limits about the mount, and sanctify it."
+          "text": "And Moyses said to our Lord: The common people can not ascend into the mount Sinai: for thou didst charge, and command, saying: Put limites about the mount, and sanctify it."
         },
         {
           "verse": 24,
-          "text": "To whom our Lord said: Go, get thee down, and thou shalt come up, and Aaron with thee: but the Priests and the people let them not pass the limits, nor ascend to the Lord, lest perhaps he kill them.",
+          "text": "To whom our Lord said: Go, get thee down, and thou shalt come up, and Aaron with thee: but the Priests and the people let them not pass the limites, nor ascend to the Lord, lest perhaps he kill them.",
           "notes": [
             {
               "label": "f",
-              "text": "The people & all inferior Clergy also, are to keep their limits & to learn God's will of their Superiors."
+              "text": "The people & all inferior Clergy also, are to keep their limits & to learn Gods will of their Superiors.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3466,7 +3569,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "In Hebrew Pesel, in Greek ἐὶδωλον, in Latin sculptile, in"
+              "text": "In Hebrew Pesel, in Greek εἴδωλον, in Latin sculptile, in",
+              "kind": "gloss"
             }
           ]
         },
@@ -3476,7 +3580,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "This commination and promise annexed to the first commandment pertaineth to every one of the nine following. Catech. Ro. p. 3. q. 9."
+              "text": "This commination and promise annexed to the first commandment pertaineth to every one of the nine following. Catech. Ro. p. 3. q. 9.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3510,7 +3615,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle on Wednesday in the third week of Lent."
+              "text": "The Epistle on Wednesday in the third week of Lent.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -3536,7 +3642,7 @@
         },
         {
           "verse": 18,
-          "text": "And all the people saw the voices, and the flames, and the sound of the trumpet, and the mount smoking: and being frightened and strucken with fear they stood a far off,"
+          "text": "And all the people saw the voices, and the flames, and the sound of the trumpet, and the mount smoking: and being frighted and strucken with fear they stood a far off,"
         },
         {
           "verse": 19,
@@ -3560,11 +3666,12 @@
         },
         {
           "verse": 24,
-          "text": "An altar of earth you shall make to me, and you shall offer upon it your holocausts and pacifics, your sheep and oxen in every place where the memory of my name shall be: I will come to thee, and will bless thee.",
+          "text": "An altar of earth you shall make to me, and you shall offer upon it your holocausts and pacifiques, your sheep and oxen in every place where the memory of my name shall be: I will come to thee, and will bless thee.",
           "notes": [
             {
               "label": "c",
-              "text": "This and other ceremonial precepts are determinate laws, for observing the commandments of the first table pertaining to God."
+              "text": "This and other ceremonial precepts are determinate laws, for observing the commandments of the first table pertaining to God.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3590,11 +3697,12 @@
       "verses": [
         {
           "verse": 1,
-          "text": "These are the judgments which thou shalt propose to them.",
+          "text": "These are the judgements which thou shalt propose to them.",
           "notes": [
             {
               "label": "a",
-              "text": "Judicial laws do instruct in particular, how to keep the commandments of the second table, pertaining to our neighbours."
+              "text": "Judicial laws do instruct in particular, how to keep the commandments of the second table, pertaining to our neighbours.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3604,13 +3712,14 @@
           "notes": [
             {
               "label": "1",
-              "text": "* Paying nothing."
+              "text": "* Paying nothing.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 3,
-          "text": "With the raiment he entered in, with the like let him go out: if having a wife, his wife also shall go out with him."
+          "text": "With what raiment he entered in, with the like let him go out: if having a wife, his wife also shall go out with him."
         },
         {
           "verse": 4,
@@ -3626,7 +3735,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "The Judges authorized by God."
+              "text": "The Judges authorized by God.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3652,11 +3762,11 @@
         },
         {
           "verse": 12,
-          "text": "He that striketh a man willfully to kill him, dying let him die."
+          "text": "He that striketh a man wilfully to kill him, dying let him die."
         },
         {
           "verse": 13,
-          "text": "But he that did not lie in wait for him, but God delivered him into his hands, I will appoint thee a place whereunto he ought to fly."
+          "text": "But he that did not lie in wait for him, but God delivered him into his hands, I will appoint thee a place whereunto he ought to flee."
         },
         {
           "verse": 14,
@@ -3708,11 +3818,11 @@
         },
         {
           "verse": 26,
-          "text": "If any man strike the eye of his man-servant or maid-servant, and leave them but one eye, he shall make them free for the eye which he put out."
+          "text": "If any man strike the eye of his manservant or maidservant, and leave them but one eye, he shall make them free for the eye which he put out."
         },
         {
           "verse": 27,
-          "text": "Also if he strike out a tooth of his man-servant or maid-servant, he shall in like manner make them free."
+          "text": "Also if he strike out a tooth of his manservant or maidservant, he shall in like manner make them free."
         },
         {
           "verse": 28,
@@ -3762,7 +3872,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "four sheep for one sheep."
+              "text": "four sheep for one sheep.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3792,25 +3903,26 @@
         },
         {
           "verse": 8,
-          "text": "If the thief be not known, the master of the house shall be brought to the gods, and shall swear that he did not extend his hand upon his neighbour's good,",
+          "text": "If the thief be not known, the master of the house shall be brought to the gods, and shall swear that he did not extend his hand upon his neighbours good,",
           "notes": [
             {
               "label": "b",
-              "text": "Judges called gods for their eminent authority. Exo. 7. v. 1."
+              "text": "Judges called gods for their eminent authority. Exo. 7. v. 1.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 9,
-          "text": "to do any fraud, as well in ox as in ass, and sheep and raiment, and whatsoever may bring damage: the cause of both parties shall come to the gods: and if they give judgment, he shall restore double to his neighbour."
+          "text": "to do any fraud, as well in ox as in ass, and sheep and raiment, and whatsoever may bring damage: the cause of both parties shall come to the gods: and if they give judgement, he shall restore double to his neighbour."
         },
         {
           "verse": 10,
-          "text": "If a man commit ass, ox, sheep, or any beast, to his neighbour's custody, and it die, or be hurt, or be taken of enemies, and no man saw;"
+          "text": "If a man commit ass, ox, sheep, or any beast, to his neighbours custody, and it die, or be hurt, or be taken of enemies, and no man saw;"
         },
         {
           "verse": 11,
-          "text": "there shall be an oath between them, that he did not put forth his hand to his neighbour's good: and the owner shall admit the oath, and he shall not be compelled to make restitution."
+          "text": "there shall be an oath between them, that he did not put forth his hand to his neighbours good: and the owner shall admit the oath, and he shall not be compelled to make restitution."
         },
         {
           "verse": 12,
@@ -3834,7 +3946,7 @@
         },
         {
           "verse": 17,
-          "text": "If the virgin's father will not give her, he shall give money according to the manner of the dowry, which virgins are wont to receive."
+          "text": "If the virgins father will not give her, he shall give money according to the manner of the dowry, which virgins are wont to receive."
         },
         {
           "verse": 18,
@@ -3854,7 +3966,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "The law of nature requireth to do to others as we would they should do to us. For which cause (besides others) God suffered his people to be strangers in Ægypt, to move them to compassion towards others in like case."
+              "text": "The law of nature requireth to do to others as we would they should do to us. For which cause (besides others) God suffered his people to be strangers in Ægypt, to move them to compassion towards others in like case.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3884,7 +3997,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "Oppression of the poor cryeth to God for revenge."
+              "text": "Oppression of the poor crieth to God for revenge.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3894,7 +4008,8 @@
           "notes": [
             {
               "label": "e",
-              "text": "Priests called gods for their sacred function. See pag. 156."
+              "text": "Priests called gods for their sacred function. See pag. 156.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3926,17 +4041,18 @@
         },
         {
           "verse": 3,
-          "text": "The poor man also thou shalt not pity in judgment.",
+          "text": "The poor man also thou shalt not pity in judgement.",
           "notes": [
             {
               "label": "a",
-              "text": "All virtues being founded in justice cease to be true virtues, when justice is not first observed. S. Hierom. in Psal. 32. es in Prov. 31."
+              "text": "All virtues being founded in justice cease to be true virtues, when justice is not first observed. S. Hierom. in Psal. 32. es in Prov. 31.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 4,
-          "text": "If thou meet thy enemy's ox or ass going astray, bring it back to him."
+          "text": "If thou meet thy enemies ox or ass going astray, bring it back to him."
         },
         {
           "verse": 5,
@@ -3944,7 +4060,7 @@
         },
         {
           "verse": 6,
-          "text": "Thou shalt not decline the poor man's judgment."
+          "text": "Thou shalt not decline the poor man's judgement."
         },
         {
           "verse": 7,
@@ -3980,7 +4096,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Three principal feasts besides the Sabbath, & some others."
+              "text": "Three principal feasts besides the Sabbath, & some others.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3990,7 +4107,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Pasch in memory of their delivery from Ægypt."
+              "text": "Pasch in memory of their delivery from Ægypt.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4000,11 +4118,13 @@
           "notes": [
             {
               "label": "c",
-              "text": "Pentecost, when they received the Law."
+              "text": "Pentecost, when they received the Law.",
+              "kind": "gloss"
             },
             {
               "label": "d",
-              "text": "Tabernacles in memory of God's protection forty years in the desert."
+              "text": "Tabernacles in memory of Gods protection forty years in the desert.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4014,7 +4134,7 @@
         },
         {
           "verse": 18,
-          "text": "Thou shalt not sacrifice the blood of my victim upon leaven, neither shall the fat of the solemnity remain until the morning."
+          "text": "Thou shalt not sacrifice the blood of my victim upon leaven, neither shall the fat of my solemnity remain until the morning."
         },
         {
           "verse": 19,
@@ -4074,7 +4194,8 @@
           "notes": [
             {
               "label": "e",
-              "text": "Peace with infidels forbidden to God's people."
+              "text": "Peace with infidels forbidden to Gods people.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4098,7 +4219,7 @@
         },
         {
           "verse": 3,
-          "text": "Moyses therefore came and told the people all the words of our Lord, & the judgments: and all the people answered with one voice: All the words of our Lord, which he hath spoken, we will do."
+          "text": "Moyses therefore came and told the people all the words of our Lord, & the judgements: and all the people answered with one voice: All the words of our Lord, which he hath spoken, we will do."
         },
         {
           "verse": 4,
@@ -4106,7 +4227,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "As when Moyses had brought the Israelites from bondage, and received the law for them he built an Altar for Sacrifice: so Christ having redeemed us, and given us a Law, for application of the fruit thereof Altars are erected, & Sacrifice offered."
+              "text": "As when Moyses had brought the Israelites from bondage, and received the law for them he built an Altar for Sacrifice: so Christ having redeemed us, and given us a Law, for application of the fruit thereof Altars are erected, & Sacrifice offered.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4129,7 +4251,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "This was done corporally to the Jews. In Christians Christ's blood applied by Sacrifice and Sacraments sanctified their souls. Heb. 9. The lesson in Mass on Imber Wednesday in Lent."
+              "text": "This was done corporally to the Jews. In Christians Christ's blood applied by Sacrifice and Sacraments sanctified their souls. Heb. 9. The lesson in Mass on Imber Wednesday in Lent.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4193,17 +4316,18 @@
           "notes": [
             {
               "label": "a",
-              "text": "As the Israelites were prompt to offer these external things in the old law, so Christians must offer the like for God's service: but specially all sorts of virtues, Faith, hope, charity, penance, devotion, prayer, alms, fasting, &c."
+              "text": "As the Israelites were prompt to offer these external things in the old law, so Christians must offer the like for Gods service: but specially all sorts of virtues, Faith, hope, charity, penance, devotion, prayer, alms, fasting, &c.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 4,
-          "text": "hyacinth and purple, and scarlet twice dyed, and silk, and the hair of goats,"
+          "text": "hyacinth and purple, and scarlet twice died, and silk, and the hair of goats,"
         },
         {
           "verse": 5,
-          "text": "and rams' skins dyed red, and janthine skins, and the wood setim;"
+          "text": "and rams' skins died red, and janthine skins, and the wood setim;"
         },
         {
           "verse": 6,
@@ -4219,7 +4343,7 @@
         },
         {
           "verse": 9,
-          "text": "according to all the similitude of the tabernacle which I will shew thee, & of all the vessels to the service thereof: and thus you shall make it:"
+          "text": "according to all the similitude of the tabernacle which I will shew thee, & of all the vessel to the service thereof: and thus you shall make it:"
         },
         {
           "verse": 10,
@@ -4251,7 +4375,7 @@
         },
         {
           "verse": 17,
-          "text": "Thou shalt make a Propitiatory of most pure gold: the length thereof shall hold two cubits and an half, and the breadth a cubit & an half."
+          "text": "Thou shalt make a Propitiatorie of most pure gold: the length thereof shall hold two cubits and an half, and the breadth a cubit & an half."
         },
         {
           "verse": 18,
@@ -4259,7 +4383,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "If Images were unlawful, God would not have commanded to make Cherubims. com. Nic. 2."
+              "text": "If Images were unlawful, God would not have commanded to make Cherubims. com. Nic. 2.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4269,7 +4394,7 @@
         },
         {
           "verse": 20,
-          "text": "Let them cover both sides of the Propitiatory spreading their wings, and covering the oracle, and let them look one towards the other, their faces turned unto the Propitiatory wherewith the ark is to be covered,"
+          "text": "Let them cover both sides of the Propitiatorie spreading their wings, and covering the oracle, and let them look one towards the other, their faces turned unto the Propitiatorie wherewith the ark is to be covered,"
         },
         {
           "verse": 21,
@@ -4277,7 +4402,7 @@
         },
         {
           "verse": 22,
-          "text": "Thence will I command, and will speak to thee over the propitiatory & from the midst of the two Cherubims which shall be upon the ark of testimony, all things which I will command the children of Israel by thee."
+          "text": "Thence will I command, and will speak to thee over the propitiatorie & from the midst of the two Cherubims which shall be upon the ark of testimony, all things which I will command the children of Israel by thee."
         },
         {
           "verse": 23,
@@ -4289,7 +4414,7 @@
         },
         {
           "verse": 25,
-          "text": "and to the ledge itself a crown interpolished, four fingers high: and upon the same, another golden crown."
+          "text": "and to the ledge itself a crown enterpolished, four fingers high: and upon the same, another golden crown."
         },
         {
           "verse": 26,
@@ -4313,7 +4438,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "For the perpetual use and sanctity of these loaves, which none might eat but such as were pure (1. Reg. 21.) they prefigured the holy Eucharist. S. Hier. in Tit. 1. S. Damascen de ortho. li. 4. c. 14. S. Cyril. cathec. 4. And consequently Christ is really present in the B. Sacrament. For if there were bread in substance, it should not excel the figure, which is required in every thing prefigured. Colloss. 2."
+              "text": "For the perpetual use and sanctity of these loaves, which none might eat but such as were pure (1. Reg. 21.) they prefigured the holy Eucharist. S. Hier. in Tit. 1. S. Damascen de ortho. li. 4. c. 14. S. Cyril. cathec. 4. And consequently Christ is really present in the B. Sacrament. For if there were bread in substance, it should not excel the figure, which is required in every thing prefigured. Colloss. 2.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4365,7 +4491,7 @@
       "verses": [
         {
           "verse": 1,
-          "text": "And the tabernacle thou shalt make thus: Ten curtains shalt thou make of twisted silk, and hyacinth, and purple, and scarlet twice dyed, varied with embroidered work."
+          "text": "And the tabernacle thou shalt make thus: Ten curtains shalt thou make of twisted silk, and hyacinth, and purple, and scarlet twice died, varied with embroidered work."
         },
         {
           "verse": 2,
@@ -4377,7 +4503,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Christ's members by their union & community assist each other, and adorn his tabernacle, the Church."
+              "text": "Christs members by their union & community assist each other, and adorn his tabernacle, the Church.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4407,7 +4534,7 @@
         },
         {
           "verse": 10,
-          "text": "Thou shalt make also fifty loops in the edge of one curtain, that it may be joined with the other: and fifty loops in the edge of the other curtains that it may be coupled with his fellow."
+          "text": "Thou shalt make also fifty loops in the edge of one curtain, that it may be joined with the other: and fifty loops in the edge of the other curtain that it may be coupled with his fellow."
         },
         {
           "verse": 11,
@@ -4491,7 +4618,7 @@
         },
         {
           "verse": 31,
-          "text": "Thou shalt make also a veil of hyacinth, and purple, and scarlet twice dyed, and twisted silk, wrought with embroidered work & goodly variety:"
+          "text": "Thou shalt make also a veil of hyacinth, and purple, and scarlet twice died, and twisted silk, wrought with embroidered work & goodly variety:"
         },
         {
           "verse": 32,
@@ -4507,7 +4634,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "The chiefest part of the Tabernacle, called Sancta sanctorum Holy of holies."
+              "text": "The chiefest part of the Tabernacle, called Sancta sanctorum Holy of holies.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4517,11 +4645,11 @@
         },
         {
           "verse": 36,
-          "text": "Thou shalt make also a hanging in the entering of the tabernacle of hyacinth, and purple, and scarlet twice dyed, and twisted silk with embroidered work."
+          "text": "Thou shalt make also a hanging in the entering of the tabernacle of hyacinth, and purple, and scarlet twice died, and twisted silk with embroidered work."
         },
         {
           "verse": 37,
-          "text": "And five pillars of the wood setim thou shalt plate with gold, before the which the hanging shall be drawn: whose heads shall be of gold, and feet of brass."
+          "text": "And five pillars of the wood setim thou shalt plate with gold, before the which the hanging shall be drawen: whose heads shall be of gold, and feet of brass."
         }
       ],
       "summary": "The form of the Tabernacle, with the appertinances, and of what matter, number, and qualities all things shall be."
@@ -4531,7 +4659,7 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Thou shalt make also an Altar of the wood setim, which shall have five cubits in length, an as many in breadth, that is, four-square, and three cubits in height."
+          "text": "Thou shalt make also an Altar of the wood setim, which shall have five cubits in length, and as many in breadth, that is, four-square, and three cubits in height."
         },
         {
           "verse": 2,
@@ -4539,7 +4667,7 @@
         },
         {
           "verse": 3,
-          "text": "And thou shalt make for the uses thereof pans for to take the ashes, and tongues, and flesh-hooks, and fire pans, all the vessels thou shalt make of brass."
+          "text": "And thou shalt make for the uses thereof pans for to take the ashes, and tongues, and flesh-hooks, and fire pans, all the vessel thou shalt make of brass."
         },
         {
           "verse": 4,
@@ -4547,7 +4675,7 @@
         },
         {
           "verse": 5,
-          "text": "which thou shalt put under the hearth of the Altar: and the grates shall be unto the midst of the Altar."
+          "text": "which thou shalt put under the hearth of the Altar: and the grate shall be unto the midst of the Altar."
         },
         {
           "verse": 6,
@@ -4591,7 +4719,7 @@
         },
         {
           "verse": 16,
-          "text": "And in the entering of the court there shall be made an hanging of twenty cubits of hyacinth and purple, and scarlet twice dyed, and twisted silk, with embroidered work: it shall have four pillars, with as many feet."
+          "text": "And in the entering of the court there shall be made an hanging of twenty cubits of hyacinth and purple, and scarlet twice died, and twisted silk, with embroidered work: it shall have four pillars, with as many feet."
         },
         {
           "verse": 17,
@@ -4599,11 +4727,11 @@
         },
         {
           "verse": 18,
-          "text": "In length the court shall occupy and hundred cubits, in breadth fifty, the height, shall be of five cubits, and it shall be made of twisted silk, and shall have feet of brass."
+          "text": "In length the court shall occupy an hundred cubits, in breadth fifty, the height, shall be of five cubits, and it shall be made of twisted silk, and shall have feet of brass."
         },
         {
           "verse": 19,
-          "text": "All the vessels of the tabernacle for all uses and ceremonies, the pins as well of it as of the court, thou shalt make of brass."
+          "text": "All the vessel of the tabernacle for all uses and ceremonies, the pins as well of it as of the court, thou shalt make of brass."
         },
         {
           "verse": 20,
@@ -4611,13 +4739,14 @@
           "notes": [
             {
               "label": "c",
-              "text": "God would not have darkness in this tabernacle by day nor night, signifying that his people ought always to shine in good works. S. Beda li. 3. c. 1. de tabernac."
+              "text": "God would not have darkness in his tabernacle by day nor night, signifying that his people ought always to shine in good works. S. Beda li. 3. c. 1. de tabernac.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 21,
-          "text": "in the tabernacle of the testimony, without the veil that is drawn before the testimony. And Aaron and his sons, shall place it, that it may give light before the Lord until the morning. Is shall be a perpetual observance throughout their successions before the children of Israel."
+          "text": "in the tabernacle of the testimony, without the veil that is drawn before the testimony. And Aaron and his sons, shall place it, that it may give light before the Lord until the morning. It shall be a perpetual observance throughout their successions before the children of Israel."
         }
       ],
       "summary": "God commandeth Moyses to make diverse sorts of vestures for Aaron and his sons, prescribing the matter, manner, and ornaments thereof."
@@ -4631,7 +4760,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Vocation necessary to spiritual function. Heb. 5."
+              "text": "Vocation necessary to spiritual function. Heb. 5.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4641,7 +4771,7 @@
         },
         {
           "verse": 3,
-          "text": "And thou shalt speak to all the wise of heart, whom I have replenished with the spirit of wisdom, that they make Aaron's vestures, wherein he being sanctified may minister to me."
+          "text": "And thou shalt speak to all the wise of heart, whom I have replenished with the spirit of wisdom, that they make Aarons vestures, wherein he being sanctified may minister to me."
         },
         {
           "verse": 4,
@@ -4649,17 +4779,18 @@
           "notes": [
             {
               "label": "b",
-              "text": "These vestments signify that Bishops and Priests must have special virtues, discretion, purity of life, sincere intention, contemplation of God, supportation of the people's infirmity, solicitude of their good, exemplar life, sound doctrine, and band of union. S. Hiero. ad Fabiol. de vestitu Sacerdotum. to. 3."
+              "text": "These vestments signify that Bishops and Priests must have special virtues, discretion, purity of life, sincere intention, contemplation of God, supportation of the peoples infirmity, solicitude of their good, exemplar life, sound doctrine, and band of union. S. Hiero. ad Fabiol. de vestitu Sacerdotum. to. 3.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 5,
-          "text": "And they shall take gold, and hyacinth, and purple, and scarlet twice dyed, and silk."
+          "text": "And they shall take gold, and hyacinth, and purple, and scarlet twice died, and silk."
         },
         {
           "verse": 6,
-          "text": "And they shall make the Ephod of gold and hyacinth and purple, and scarlet twice dyed, and twisted silk, embroidered with diverse colours."
+          "text": "And they shall make the Ephod of gold and hyacinth and purple, and scarlet twice died, and twisted silk, embroidered with divers colours."
         },
         {
           "verse": 7,
@@ -4667,7 +4798,7 @@
         },
         {
           "verse": 8,
-          "text": "The very workmanship also and all the variety of the work shall be of gold and hyacinth, and purple, and scarlet twice dyed, and twisted silk."
+          "text": "The very workmanship also and all the variety of the work shall be of gold and hyacinth, and purple, and scarlet twice died, and twisted silk."
         },
         {
           "verse": 9,
@@ -4695,7 +4826,7 @@
         },
         {
           "verse": 15,
-          "text": "The Rationale of judgment also thou shalt make with embroidered work of diverse colours, according to the workmanship of the Ephod of gold, hyacinth, and purple, and scarlet twice dyed, and twisted silk."
+          "text": "The Rationale of judgement also thou shalt make with embroidered work of divers colours, according to the workmanship of the Ephod of gold, hyacinth, and purple, and scarlet twice died, and twisted silk."
         },
         {
           "verse": 16,
@@ -4703,7 +4834,7 @@
         },
         {
           "verse": 17,
-          "text": "And thou shalt set in it four rews of stones: In the first rew shall be the stone sardius, and topazius, and the emerald:"
+          "text": "And thou shalt set in it four rews of stones: In the first rew shall be the stone sardius, and topazius, and the emeraud:"
         },
         {
           "verse": 18,
@@ -4715,7 +4846,7 @@
         },
         {
           "verse": 20,
-          "text": "in the fourth a chrysolith, an onyx, and berillus. They shall be set in gold by their rews."
+          "text": "in the fourth a chrysolith, an onyx, and beryllus. They shall be set in gold by their rews."
         },
         {
           "verse": 21,
@@ -4751,15 +4882,16 @@
         },
         {
           "verse": 29,
-          "text": "And Aaron shall bear the names of the children of Israel in the Rationale of judgment upon his breast, when he shall enter into the Sanctuary, a memorial before the Lord for ever."
+          "text": "And Aaron shall bear the names of the children of Israel in the Rationale of judgement upon his breast, when he shall enter into the Sanctuary, a memorial before the Lord for ever."
         },
         {
           "verse": 30,
-          "text": "And thou shalt put in the Rationale of Judgment Doctrine, and Verity, which shall be on Aaron's breast, when he shall go in before the Lord: and he shall bear the judgment of the children of Israel on his breast, in the sight of the Lord always.",
+          "text": "And thou shalt put in the Rationale of Judgement Doctrine, and Verity, which shall be on Aarons breast, when he shall go in before the Lord: and he shall bear the judgement of the children of Israel on his breast, in the sight of the Lord always.",
           "notes": [
             {
               "label": "c",
-              "text": "Knowledge of the cause, and sincere proceeding therein, are the two keys of right judgement."
+              "text": "Knowledge of the cause, and sincere proceeding therein, are the two keys of right judgement.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4773,7 +4905,7 @@
         },
         {
           "verse": 33,
-          "text": "And beneath at the feet of the same tunic, round about, thou shalt make as it were pomegranates, of hyacinth, and purple, and scarlet twice dyed, little bells interposed between,"
+          "text": "And beneath at the feet of the same tunic, round about, thou shalt make as it were pomegranates, of hyacinth, and purple, and scarlet twice died, little bells interposed between,"
         },
         {
           "verse": 34,
@@ -4793,7 +4925,7 @@
         },
         {
           "verse": 38,
-          "text": "hanging over the forehead of the High-Priest. And Aaron shall carry the iniquities of those things, which the children of Israel have offered and sanctified, in all their gifts and donaries. And the plate shall be always in his forehead, that the Lord may be well pleased with them."
+          "text": "hanging over the forehead of the High priest. And Aaron shall carry the iniquities of those things, which the children of Israel have offered and sanctified, in all their gifts and donaries. And the plate shall be always in his forehead, that the Lord may be well pleased with them."
         },
         {
           "verse": 39,
@@ -4826,7 +4958,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Special preparation before Bishops and Priests be consecrated."
+              "text": "Special preparation before Bishops and Priests be consecrated.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4844,7 +4977,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "The first preparation in the party to be consecrated is cleansing from sin: then to be adorned with the virtues above mentioned. Exod. 8. v. 4."
+              "text": "The first preparation in the party to be consecrated is cleansing from sin: then to be adorned with the virtues above mentioned. Exod. 8. v. 4.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4942,7 +5076,7 @@
         },
         {
           "verse": 28,
-          "text": "wherewith Aaron was consecrated and his sons, and they shall fall to Aaron's part and his sons by a perpetual right from the children of Israel: because they are the primitives and beginnings of their pacific victims which they offer to the Lord."
+          "text": "wherewith Aaron was consecrated and his sons, and they shall fall to Aarons part and his sons by a perpetual right from the children of Israel: because they are the primitives and beginnings of their pacific victims which they offer to the Lord."
         },
         {
           "verse": 29,
@@ -4986,7 +5120,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Diverse things were offered at diverse times, and all signified Christ's Sacrifice in his Church. S. Aug. li. 1. c. 18. cont. advers. leg. & Prophet, yet none daily but a lamb: more particularly signifying the daily offering of the lamb of God, and perpetual effect thereof. Origen. in Ioan. 1."
+              "text": "Diverse things were offered at diverse times, and all signified Christs Sacrifice in his Church. S. Aug. li. 1. c. 18. cont. advers. leg. & Prophet, yet none daily but a lamb: more particularly signifying the daily offering of the lamb of God, and perpetual effect thereof. Origen. in Ioan. 1.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5050,7 +5185,7 @@
         },
         {
           "verse": 6,
-          "text": "And thou shalt set the Altar against the veil, that hangeth before the ark of the testimony before the propitiatory wherewith the testimony is covered, where I will speak to thee."
+          "text": "And thou shalt set the Altar against the veil, that hangeth before the ark of the testimony before the propitiatorie wherewith the testimony is covered, where I will speak to thee."
         },
         {
           "verse": 7,
@@ -5082,11 +5217,13 @@
           "notes": [
             {
               "label": "a",
-              "text": "That is, 7. d. ob. English. For a sicle of the Sanctuary is about 15. d."
+              "text": "That is, 7. d. ob. English. For a sicle of the Sanctuary is about 15. d.",
+              "kind": "gloss"
             },
             {
               "label": "b",
-              "text": "Obolus, 3. farthings."
+              "text": "Obolus, 3. farthings.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5120,7 +5257,7 @@
         },
         {
           "verse": 21,
-          "text": "lest perhaps they die. It shall be an everlasting law to him, and to his seed by succession."
+          "text": "lest perhaps they die. It shall be an everlasting law to him, and to his seed by successions."
         },
         {
           "verse": 22,
@@ -5136,7 +5273,7 @@
         },
         {
           "verse": 25,
-          "text": "and thou shalt make the holy oil of unction, an ointment compounded by the art of an unguentary,"
+          "text": "and thou shalt make the holy oil of unction, an ointment compounded by the art of an unguentarie,"
         },
         {
           "verse": 26,
@@ -5176,7 +5313,7 @@
         },
         {
           "verse": 35,
-          "text": "and thou shalt make incense compounded by the work of an unguentary, exactly tempered, and pure, and most worthy of sanctification."
+          "text": "and thou shalt make incense compounded by the work of an unguentarie, exactly tempered, and pure, and most worthy of sanctification."
         },
         {
           "verse": 36,
@@ -5218,19 +5355,19 @@
         },
         {
           "verse": 6,
-          "text": "And I have given him for his fellow, Ooliab the son of Achisamech of the tribe of Dan. And in the heart of every skillful man have I put wisdom: that they may make all things which I have commanded thee,"
+          "text": "And I have given him for his fellow, Ooliab the son of Achisamech of the tribe of Dan. And in the heart of every skilful man have I put wisdom: that they may make all things which I have commanded thee,"
         },
         {
           "verse": 7,
-          "text": "the tabernacle of covenant, and the ark of testimony, and the propitiatory, that is over it, and all the vessels of the tabernacle,"
+          "text": "the tabernacle of covenant, and the ark of testimony, and the propitiatory, that is over it, and all the vessel of the tabernacle,"
         },
         {
           "verse": 8,
-          "text": "and the table and the vessels thereof, the candlestick most pure with the vessels thereof, and the Altars of incense,"
+          "text": "and the table and the vessel thereof, the candlestick most pure with the vessel thereof, and the Altars of incense,"
         },
         {
           "verse": 9,
-          "text": "and of holocaust, and all their vessels, the laver with his foot,"
+          "text": "and of holocaust, and all their vessel, the laver with his foot,"
         },
         {
           "verse": 10,
@@ -5270,7 +5407,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Not by Moyses, but by an Angel, at God's appointment. Gal. 3. v. 19."
+              "text": "Not by Moyses, but by an Angel, at Gods appointment. Gal. 3. v. 19.",
+              "kind": "gloss"
             }
           ]
         }
@@ -5286,7 +5424,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Aaron knew what gods they meant, to wit, such as they had seen worshipped in Ægypt, and therefore he made them a molten calf. v. 4."
+              "text": "Aaron knew what gods they meant, to wit, such as they had seen worshipped in Ægypt, and therefore he made them a molten calf. v. 4.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5300,7 +5439,7 @@
         },
         {
           "verse": 4,
-          "text": "Which when he had received, he formed them by founder's work, and made of them a molten calf. And they said: These are thy gods Israel, that have brought thee out of the land of Ægypt.",
+          "text": "Which when he had received, he formed them by founders work, and made of them a molten calf. And they said: These are thy gods Israel, that have brought thee out of the land of Ægypt.",
           "has_annotation": true
         },
         {
@@ -5309,11 +5448,12 @@
         },
         {
           "verse": 6,
-          "text": "And rising in the morning, they offered holocausts, and pacific hosts, and the people sat down to eat, and to drink, and they rose up to play.",
+          "text": "And rising in the morning, they offered holocausts, and pacific hosts, and the people sate down to eat, and to drink, and they rose up to play.",
           "notes": [
             {
               "label": "b",
-              "text": "Excess in play called foolish mirth, is the daughter of gluttony, and mother of Idolatry. S. Greg. li. 31. c. 31. Moral."
+              "text": "Excess in play called foolish mirth, is the daughter of gluttony, and mother of Idolatry. S. Greg. li. 31. c. 31. Moral.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5327,7 +5467,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "To the molten calf, which they had made."
+              "text": "To the molten calf, which they had made.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5341,7 +5482,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "God saying, Suffer me, signifieth that he could be hindered. S. Hierom. in Ion. 1."
+              "text": "God saying, Suffer me, signifieth that he could be hindered. S. Hierom. in Ion. 1.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5361,7 +5503,8 @@
           "notes": [
             {
               "label": "e",
-              "text": "Not only God's promise, but also his servant's merits are here proposed for procuring mercy to the people. See the Annotation."
+              "text": "Not only Gods promise, but also his servants merits are here proposed for procuring mercy to the people. See the Annotation.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5383,7 +5526,7 @@
         },
         {
           "verse": 18,
-          "text": "Who answered: It is not the cry of men encouraging of fight, nor the shout of men compelling to fly: but I do hear the voice of singers."
+          "text": "Who answered: It is not the cry of men encouraging of fight, nor the shout of men compelling to flee: but I do hear the voice of singers."
         },
         {
           "verse": 19,
@@ -5391,7 +5534,8 @@
           "notes": [
             {
               "label": "e",
-              "text": "Moyses the meekest man on earth (Nu. 12.) in God's cause was most zealous against sin. S. Aug. q. 144. in Exod."
+              "text": "Moyses the meekest man on earth (Nu. 12.) in Gods cause was most zealous against sin. S. Aug. q. 144. in Exod.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5417,7 +5561,8 @@
           "notes": [
             {
               "label": "f",
-              "text": "Aaron confessed the fault briefly, not intending a frivolous excuse: for he could not think, but Moyses knew the truth. S. Aug. q. 145. in Exod."
+              "text": "Aaron confessed the fault briefly, not intending a frivolous excuse: for he could not think, but Moyses knew the truth. S. Aug. q. 145. in Exod.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5427,7 +5572,7 @@
         },
         {
           "verse": 26,
-          "text": "& standing in the gate of the camp, he said: If any man be our Lord's, let him join to me, And there gathered unto him all the sons of Levi:"
+          "text": "& standing in the gate of the camp, he said: If any man be our Lords, let him join to me, And there gathered unto him all the sons of Levi:"
         },
         {
           "verse": 27,
@@ -5439,7 +5584,8 @@
           "notes": [
             {
               "label": "g",
-              "text": "Their zeal used with authority and order is here rewarded: which otherwise wanting, when Simeon and Levi slew the Sichemites, was blamed by Jacob. Gen. 34. & 49."
+              "text": "Their zeal used with authority and order is here rewarded: which otherwise wanting, when Simeon and Levi slew the Sichemites, was blamed by Jacob. Gen. 34. & 49.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5461,7 +5607,8 @@
           "notes": [
             {
               "label": "h",
-              "text": "Moyses not content with his own salvation, would rather perish with the people, than they should all be destroyed: and therefore at his instance God pardoned them. S. Hiero. Ep. 12. ad Gaud. & in Ion. 1. S. Aug. q. 147. in Exod."
+              "text": "Moyses not content with his own salvation, would rather perish with the people, than they should all be destroyed: and therefore at his instance God pardoned them. S. Hiero. Ep. 12. ad Gaud. & in Ion. 1. S. Aug. q. 147. in Exod.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5471,7 +5618,7 @@
         },
         {
           "verse": 34,
-          "text": "but go thou, and lead this people wither I have told thee: mine Angel shall go before thee. And I in the day of revenge will visit this sin also of theirs."
+          "text": "but go thou, and lead this people whither I have told thee: mine Angel shall go before thee. And I in the day of revenge will visit this sin also of theirs."
         },
         {
           "verse": 35,
@@ -5497,7 +5644,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "God would not in this passage work such miracles, as he did, bringing them forth of Ægypt. So it is a commination because they were stubborn and stiff-necked."
+              "text": "God would not in this passage work such miracles, as he did, bringing them forth of Ægypt. So it is a commination because they were stubborn and stiff-necked.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5567,11 +5715,13 @@
           "notes": [
             {
               "label": "b",
-              "text": "The vision of God in glory is all good."
+              "text": "The vision of God in glory is all good.",
+              "kind": "gloss"
             },
             {
               "label": "c",
-              "text": "God by his grace maketh his servants to call upon his name. S. Aug. q. 154. in Exod."
+              "text": "God by his grace maketh his servants to call upon his name. S. Aug. q. 154. in Exod.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5581,7 +5731,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "None in this life can see God as Saints do in glory. 1. Joan. 3."
+              "text": "None in this life can see God as Saints do in glory. 1. Joan. 3.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5604,7 +5755,8 @@
           "notes": [
             {
               "label": "e",
-              "text": "Moyses saw more glorious works and effects of God, than other Prophets, yet not his substance and divine nature. Theodoret. q. 68. in Exod. S. Hier. de verb. Isa. vidi Dom. S. Chrysost. ho. 4. de in co. Dei natura."
+              "text": "Moyses saw more glorious works and effects of God, than other Prophets, yet not his substance and divine nature. Theodoret. q. 68. in Exod. S. Hier. de verb. Isa. vidi Dom. S. Chrysost. ho. 4. de in co. Dei natura.",
+              "kind": "gloss"
             }
           ]
         }
@@ -5620,7 +5772,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "The first tables being broken, yet others are made: so though the first grace given in Baptism be lost, yet there remaineth penance, as the second table of safety after shipwreck. S. Hiero. Epis. ad Demetriad."
+              "text": "The first tables being broken, yet others are made: so though the first grace given in Baptism be lost, yet there remaineth penance, as the second table of safety after shipwreck. S. Hiero. Epis. ad Demetriad.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5646,7 +5799,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "* chief ruler."
+              "text": "* chief ruler.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5668,7 +5822,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Notwithstanding his former commination chap. 33. v. 3. God here promiseth new benefits."
+              "text": "Notwithstanding his former commination chap. 33. v. 3. God here promiseth new benefits.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5746,11 +5901,13 @@
           "notes": [
             {
               "label": "c",
-              "text": "God by an Angel not Moyses. supra v. 1. & Deut. 10. v. 2. & 4."
+              "text": "God by an Angel not Moyses. supra v. 1. & Deut. 10. v. 2. & 4.",
+              "kind": "gloss"
             },
             {
               "label": "d",
-              "text": "How soever the commandments are divided in both tables, here it is certain, that there be no more nor fewer than ten in all."
+              "text": "How soever the commandments are divided in both tables, here it is certain, that there be no more nor fewer than ten in all.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5760,7 +5917,8 @@
           "notes": [
             {
               "label": "e",
-              "text": "So his face appeared to the beholders, by reason of the glistering beams of his countenance shining gloriously, after his conversation with God forty days: which signifieth that much more that which abideth (in all eternity) is in glory. 2 Cor. 3."
+              "text": "So his face appeared to the beholders, by reason of the glistering beams of his countenance shining gloriously, after his conversation with God forty days: which signifieth that much more that which abideth (in all eternity) is in glory. 2 Cor. 3.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5782,7 +5940,8 @@
           "notes": [
             {
               "label": "f",
-              "text": "The same veil (saith S. Paul) remaineth upon the heart of the Jews, that they cannot see Christ, till by his special grace they shall be illuminated: 2. Cor. 3. The like is upon the heart of Heretics that cannot see the Church. S. Aug. in Psal. 30. con. 2."
+              "text": "The same veil (saith S. Paul) remaineth upon the heart of the Jews, that they can not see Christ, till by his special grace they shall be illuminated: 2. Cor. 3. The like is upon the heart of Heretics that can not see the Church. S. Aug. in Psal. 30. con. 2.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5806,7 +5965,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "After the fall of the people to Idolatry, their punishment, and repentance, their reconciliation to God, and new tables of the commandments made and written, Moyses repeateth the former precept of keeping the Sabbath, and provideth all necessaries to the making of the Tabernacle, whereto the Princes and people most promptly and liberally contribute. S. Aug. q. 172. in Exo."
+              "text": "After the fall of the people to Idolatry, their punishment, and repentance, their reconciliation to God, and new tables of the commandments made and written, Moyses repeateth the former precept of keeping the Sabbath, and provideth all necessaries to the making of the Tabernacle, whereto the Princes and people most promptly and liberally contribute. S. Aug. q. 172. in Exo.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5848,7 +6008,7 @@
         },
         {
           "verse": 11,
-          "text": "to wit, the Tabernacle, and the roof thereof, and the cover, the rings, and the boardwork with the bars, the pins & the feet:"
+          "text": "to wit, the Tabernacle, and the roof thereof, and the cover, the rings, and the bordework with the bars, the pins & the feet:"
         },
         {
           "verse": 12,
@@ -5856,11 +6016,11 @@
         },
         {
           "verse": 13,
-          "text": "the Table with the bars and the vessels, and the loaves of proposition:"
+          "text": "the Table with the bars and the vessel, and the loaves of proposition:"
         },
         {
           "verse": 14,
-          "text": "the Candlestick to bear up the lights, the vessels thereof and the lamps, and the oil to the nourishing of fires:"
+          "text": "the Candlestick to bear up the lights, the vessel thereof and the lamps, and the oil to the nourishing of fires:"
         },
         {
           "verse": 15,
@@ -5868,7 +6028,7 @@
         },
         {
           "verse": 16,
-          "text": "the Altar of holocaust, and his grate of brass, with the bars and vessels thereof: the Laver and his feet:"
+          "text": "the Altar of holocaust, and his grate of brass, with the bars and vessel thereof: the Laver and his feet:"
         },
         {
           "verse": 17,
@@ -5880,7 +6040,7 @@
         },
         {
           "verse": 19,
-          "text": "the Vestments, that are to be used in the ministry of the sanctuary, the vesture of Aaron the high-Priest, and of his sons, to do the function of Priesthood unto me."
+          "text": "the Vestments, that are to be used in the ministry of the sanctuary, the vesture of Aaron the high priest, and of his sons, to do the function of Priesthood unto me."
         },
         {
           "verse": 20,
@@ -5904,7 +6064,7 @@
         },
         {
           "verse": 25,
-          "text": "But the skillful women also gave such things as they had spun, hyacinth, purple, and scarlet, and silk,"
+          "text": "But the skilful women also gave such things as they had spun, hyacinth, purple, and scarlet, and silk,"
         },
         {
           "verse": 26,
@@ -5928,7 +6088,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "As matter alone is not sufficient for a building without artificers, to whom God giveth special skill: so for expounding holy Scripture God giveth particular knowledge to Pastors and Doctors, to the consummation of Saints, to the work of the ministry, to the edifying of the body of Christ (the Church) Ephs. 4."
+              "text": "As matter alone is not sufficient for a building without artificers, to whom God giveth special skill: so for expounding holy Scripture God giveth particular knowledge to Pastors and Doctors, to the consummation of Saints, to the work of the ministry, to the edifying of the body of Christ (the Church) Ephes. 4.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5942,7 +6103,7 @@
         },
         {
           "verse": 33,
-          "text": "and in graving stones, and in carpenter's work. Whatsoever can be devised artificially,"
+          "text": "and in graving stones, and in carpenters work. Whatsoever can be devised artificially,"
         },
         {
           "verse": 34,
@@ -5976,7 +6137,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "As the people abounded in devotion, so the workmen of modesty and religion would have no more than necessary. S. Augustin. q. 171. in Exod."
+              "text": "As the people abounded in devotion, so the workmen of modesty and religion would have no more than necessary. S. Augustin. q. 171. in Exod.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5986,7 +6148,7 @@
         },
         {
           "verse": 6,
-          "text": "Moyses therefore commanded proclamation to be made by the crier's voice: Let neither man nor woman offer any more in the work of the Sanctuary. And so they ceased from offering gifts,"
+          "text": "Moyses therefore commanded proclamation to be made by the criers voice: Let neither man nor woman offer any more in the work of the Sanctuary. And so they ceased from offering gifts,"
         },
         {
           "verse": 7,
@@ -5994,7 +6156,7 @@
         },
         {
           "verse": 8,
-          "text": "And all the wise hearted men, to accomplish the work of the tabernacle, made ten curtains of twisted silk, and hyacinth, and purple, and scarlet twice dyed, with varied work, and the art of embroidering:"
+          "text": "And all the wise hearted men, to accomplish the work of the tabernacle, made ten curtains of twisted silk, and hyacinth, and purple, and scarlet twice died, with varied work, and the art of embroidering:"
         },
         {
           "verse": 9,
@@ -6038,7 +6200,7 @@
         },
         {
           "verse": 19,
-          "text": "He made also a cover for the tabernacle of rams' skins dyed red: & another cover over that of janthine skins."
+          "text": "He made also a cover for the tabernacle of rams' skins died red: & another cover over that of janthine skins."
         },
         {
           "verse": 20,
@@ -6144,23 +6306,24 @@
         },
         {
           "verse": 6,
-          "text": "He made also the Propitiatory, that is, the Oracle, of the purest gold, two cubits & an half in length, and a cubit & an half in breadth."
+          "text": "He made also the Propitiatorie, that is, the Oracle, of the purest gold, two cubits & an half in length, and a cubit & an half in breadth."
         },
         {
           "verse": 7,
-          "text": "Two Cherubins also of beaten gold, which he set on either side of the propitiatory:"
+          "text": "Two Cherubins also of beaten gold, which he set on either side of the propitiatorie:"
         },
         {
           "verse": 8,
-          "text": "One Cherub in the top of one side, and the other Cherub in the top of the other side: two Cherubins in each top of the Propitiatory,"
+          "text": "One Cherub in the top of one side, and the other Cherub in the top of the other side: two Cherubins in each top of the Propitiatorie,"
         },
         {
           "verse": 9,
-          "text": "spreading their wings, and covering the Propitiatory, and looking one toward the other and toward it.",
+          "text": "spreading their wings, and covering the Propitiatorie, and looking one toward the other and toward it.",
           "notes": [
             {
               "label": "a",
-              "text": "The Cherubins covering all upon and within the ark signify (saith S. Gregory Nyssen) that the Scriptures have a higher sense than the literal. de vita Moyses post medium."
+              "text": "The Cherubins covering all upon and within the ark signify (saith S. Gregory Nyssen) that the Scriptures have a higher sense than the literal. de vita Moyses post medium.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6190,7 +6353,7 @@
         },
         {
           "verse": 16,
-          "text": "And the vessels for the diverse uses of the table, saucers, phials, and goblets, & censers, of pure gold, wherein the libaments are to be offered."
+          "text": "And the vessel for the diverse uses of the table, saucers, phials, and goblets, & censers, of pure gold, wherein the libaments are to be offered."
         },
         {
           "verse": 17,
@@ -6218,11 +6381,11 @@
         },
         {
           "verse": 23,
-          "text": "He made also the seven lamps with their snuffers, and the vessels, where the snuffings should be put out, of most pure gold."
+          "text": "He made also the seven lamps with their snuffers, and the vessel, where the snuffings should be put out, of most pure gold."
         },
         {
           "verse": 24,
-          "text": "The candlestick withal the vessels thereof did weigh a talent of gold."
+          "text": "The candlestick withal the vessel thereof did weigh a talent of gold."
         },
         {
           "verse": 25,
@@ -6242,7 +6405,7 @@
         },
         {
           "verse": 29,
-          "text": "He compounded also oil for the ointment of sanctification, and incense of the purest spices with the work of a pigmentary."
+          "text": "He compounded also oil for the ointment of sanctification, and incense of the purest spices with the work of a pigmentarie."
         }
       ],
       "summary": "Beseleel maketh the Ark. 6. the Propitiatory, with Cherubims, 10. the Table, with vessels belonging thereto, 17. the Candlestick with bowels and branches: 23. seven lamps with snuffers, 25. the Altar of incense, 29. and compoundeth the incense."
@@ -6284,7 +6447,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "These women watched there for devotion, and it seemeth the same custom continued till Christ's time. For Anna the widow observed this state of life. Luc. 2."
+              "text": "These women watched there for devotion, and it seemeth the same custom continued till Christs time. For Anna the widow observed this state of life. Luc. 2.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6346,7 +6510,7 @@
         },
         {
           "verse": 23,
-          "text": "having joined to himself for his companion Ooliab the son of Achisamech of the tribe of Dan: who was himself also an egregious artificer in wood, and a tapester, and embroiderer of hyacinth, purple, scarlet, and silk."
+          "text": "having joined to himself for his companion Ooliab the son of Achisamech of the tribe of Dan: who was himself also an egregious artificer in wood, and a tapster, and embroiderer of hyacinth, purple, scarlet, and silk."
         },
         {
           "verse": 24,
@@ -6374,7 +6538,7 @@
         },
         {
           "verse": 30,
-          "text": "of the which were cast the feet in the entry of the tabernacle of testimony, and the altar of brass with the grate thereof, and all the vessels, that pertain to the use thereof,"
+          "text": "of the which were cast the feet in the entry of the tabernacle of testimony, and the altar of brass with the grate thereof, and all the vessel, that pertain to the use thereof,"
         },
         {
           "verse": 31,
@@ -6436,7 +6600,7 @@
         },
         {
           "verse": 13,
-          "text": "In the fourth a chrysolith, an onyx, and berillus, compassed & enclosed in gold by their rews."
+          "text": "In the fourth a chrysolith, an onyx, and beryllus, compassed & enclosed in gold by their rews."
         },
         {
           "verse": 14,
@@ -6480,7 +6644,7 @@
         },
         {
           "verse": 24,
-          "text": "to wit, a bell of gold, & a pomegranate, wherewith the high-Priest went adorned, when he executed his ministry, as our Lord had commanded Moyses:"
+          "text": "to wit, a bell of gold, & a pomegranate, wherewith the high priest went adorned, when he executed his ministry, as our Lord had commanded Moyses:"
         },
         {
           "verse": 25,
@@ -6504,7 +6668,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Alexander the Great seeing Iaddus the high-Priest, bearing this venerable plate on his forehead, with great reverence went unto him, and adored the name of God written in the plate. Josephus. li. 11. c. 8. Antiq."
+              "text": "Alexander the Great seeing Iaddus the high-Priest, bearing this venerable plate on his forehead, with great reverence went unto him, and adored the name of God written in the plate. Josephus. li. 11. c. 8. Antiq.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6526,11 +6691,11 @@
         },
         {
           "verse": 34,
-          "text": "the veil, the ark, the bars, the propitiatory,"
+          "text": "the veil, the ark, the bars, the propitiatorie,"
         },
         {
           "verse": 35,
-          "text": "the table with the vessels thereof and the loaves of proposition:"
+          "text": "the table with the vessel thereof and the loaves of proposition:"
         },
         {
           "verse": 36,
@@ -6546,11 +6711,11 @@
         },
         {
           "verse": 39,
-          "text": "the altar of brass, the grate, the bars, and all the vessels thereof: the laver with the foot thereof: the hangings of the court, and the pillars with their feet:"
+          "text": "the altar of brass, the grate, the bars, and all the vessel thereof: the laver with the foot thereof: the hangings of the court, and the pillars with their feet:"
         },
         {
           "verse": 40,
-          "text": "the hanging in the entry of the court, and the little cords, and the pins thereof. Nothing wanted of the vessels, that was commanded to be made for the ministry of the tabernacle, and for the roof of covenant."
+          "text": "the hanging in the entry of the court, and the little cords, and the pins thereof. Nothing wanted of the vessel, that was commanded to be made for the ministery of the tabernacle, and for the roof of covenant."
         },
         {
           "verse": 41,
@@ -6580,7 +6745,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "The Tabernacle, prepared in the first year and erected the first day of the second year, signifieth the Church of Christ, prepared in the old Testament, & established, exalted, and confirmed in the new."
+              "text": "The Tabernacle, prepared in the first year and erected the first day of the second year, signifieth the Church of Christ, prepared in the old Testament, & established, exalted, and confirmed in the new.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6610,11 +6776,11 @@
         },
         {
           "verse": 9,
-          "text": "And taking the oil of unction thou shalt anoint the tabernacle with the vessels thereof, that they may be sanctified:"
+          "text": "And taking the oil of unction thou shalt anoint the tabernacle with the vessel thereof, that they may be sanctified:"
         },
         {
           "verse": 10,
-          "text": "the altar of holocaust and all the vessels thereof:"
+          "text": "the altar of holocaust and all the vessel thereof:"
         },
         {
           "verse": 11,
@@ -6622,7 +6788,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "More holy than any thing without the Sanctuary, but the Sancta Sanctorum itself was then most holy of all places in this world."
+              "text": "More holy than any thing without the Sanctuary, but the Sancta Sanctorum itself was then most holy of all places in this world.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6656,13 +6823,14 @@
           "notes": [
             {
               "label": "c",
-              "text": "Agomor of Manna was now put in the ark mentioned before. chap. 16."
+              "text": "A gomor of Manna was now put in the ark mentioned before. chap. 16.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 19,
-          "text": "And when he had brought the ark into the tabernacle, he drew before it the veil to fulfill the commandment of our Lord."
+          "text": "And when he had brought the ark into the tabernacle, he drew before it the veil to fulfil the commandment of our Lord."
         },
         {
           "verse": 20,
@@ -6722,7 +6890,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "Without all doubt, saith S. Augustin. q. 173. in Exod. Moyses prefigured other persons when he entered into the cloud on mount Sinai, and others now when he could not enter into the tabernacle replenished with the glory of God. In Sinai he signified those that penetrate the profound mysteries of Christ, here the Jews who understand not the same."
+              "text": "Without all doubt, saith S. Augustin. q. 173. in Exod. Moyses prefigured other persons when he entered into the cloud on mount Sinai, and others now when he could not enter into the tabernacle replenished with the glory of God. In Sinai he signified those that penetrate the profound mysteries of Christ, here the Jews who understand not the same.",
+              "kind": "gloss"
             }
           ]
         },

@@ -60,7 +60,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Man's wisdom is not able to comprehend the works of God."
+              "text": "Man's wisdom is not able to comprehend the works of God.",
+              "kind": "gloss"
             }
           ]
         },
@@ -102,7 +103,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Eternal glory is the fruit of the fear of our Lord: not that this one virtue sufficeth, but it is the beginning, grounded in true faith, and bringeth forth other virtues, divine gifts with the fruits of the Holy Ghost, & a joyful crown in the end."
+              "text": "Eternal glory is the fruit of the fear of our Lord: not that this one virtue sufficeth, but it is the beginning, grounded in true faith, and bringeth forth other virtues, divine gifts with the fruits of the Holy Ghost, & a joyful crown in the end.",
+              "kind": "gloss"
             }
           ]
         },
@@ -149,11 +151,11 @@
         },
         {
           "verse": 21,
-          "text": "All her house she shall fill with her generations, and the store-houses with her treasures."
+          "text": "All her house she shall fill with her generations, and the storehouses with her treasures."
         },
         {
           "verse": 22,
-          "text": "A crown of wisdom, the fear of our Lord, replenishing peace, and the fruit of salvation:"
+          "text": "A crown of wisdom, the fear of our Lord, replenishing place, and the fruit of salvation:"
         },
         {
           "verse": 23,
@@ -197,7 +199,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Men drowned in sin think the service of God a most tedious & loathsome thing."
+              "text": "Men drowned in sin think the service of God a most tedious & loathsome thing.",
+              "kind": "gloss"
             }
           ]
         },
@@ -255,11 +258,13 @@
           "notes": [
             {
               "label": "a",
-              "text": "Desire not to die that thou mayst thereby be covered from worldly miseries, for that is a desperate desire, but have patience in this life that thou mayst find rest in God."
+              "text": "Desire not to die that thou mayst thereby be covered from worldly miseries, for that is a desperate desire, but have patience in this life that thou mayst find rest in God.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "* Covering."
+              "text": "* Covering.",
+              "kind": "gloss"
             }
           ]
         },
@@ -313,7 +318,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "As virtues are to be rewarded: so all sins shall be punished. Namely external pretence of holiness, with secret evil intention. Distrust in God. Impatience, and the like."
+              "text": "As virtues are to be rewarded: so all sins shall be punished. Namely external pretence of holiness, with secret evil intention. Distrust in God. Impatience, and the like.",
+              "kind": "gloss"
             }
           ]
         },
@@ -365,23 +371,25 @@
           "notes": [
             {
               "label": "a",
-              "text": "The progeny of God's children bring forth the fruit of obedience and love."
+              "text": "The progeny of Gods children bring forth the fruit of obedience and love.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 2,
-          "text": "Hear your father's judgement o children, and so do that you may be saved.",
+          "text": "Hear your fathers judgement o children, and so do that you may be saved.",
           "notes": [
             {
               "label": "b",
-              "text": "Honour and estimation of parents is the chiefest obligation that man hath towards his neighbour, & the first after his duty to God."
+              "text": "Honour and estimation of parents is the chiefest obligation that man hath towards his neighbour, & the first after his duty to God.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 3,
-          "text": "For God hath honoured the father in the children: and inquiring of the mother's judgement, hath confirmed it upon the children."
+          "text": "For God hath honoured the father in the children: and inquiring of the mothers judgement, hath confirmed it upon the children."
         },
         {
           "verse": 4,
@@ -423,7 +431,13 @@
         },
         {
           "verse": 11,
-          "text": "The father's blessing establisheth the houses of the children: but the mother's curse rooteth up the foundation."
+          "text": "The fathers blessing establisheth the houses of the children: but the mothers curse rooteth up the foundation.",
+          "cross_refs": [
+            {
+              "text": "Gen. 49",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 12,
@@ -447,7 +461,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Alms given, or prayer made, or sacrifice offered for parents, doth merit reward at God's hand."
+              "text": "Alms given, or prayer made, or sacrifice offered for parents, doth merit reward at Gods hand.",
+              "kind": "gloss"
             }
           ]
         },
@@ -474,7 +489,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "All greatness in men proceeding from God, bindeth them so much the more to humility, which virtue God most specially loveth: that so they may shew gratitude for his benefits."
+              "text": "All greatness in men proceeding from God, bindeth them so much the more to humility, which virtue God most specially loveth: that so they may shew gratitude for his benefits.",
+              "kind": "gloss"
             }
           ]
         },
@@ -488,7 +504,14 @@
           "cross_refs": [
             {
               "text": "Pro. 25. v. 2."
+            },
+            {
+              "text": "Prov. 3",
+              "source": "sancta"
             }
+          ],
+          "xrefs": [
+            "Pro. 3."
           ]
         },
         {
@@ -513,7 +536,8 @@
           "notes": [
             {
               "label": "e",
-              "text": "Those that dare live in sinful state, tempting God even to the last hour, commonly perish therein."
+              "text": "Those that dare live in sinful state, tempting God even to the last hour, commonly perish therein.",
+              "kind": "gloss"
             }
           ]
         },
@@ -543,12 +567,16 @@
           "cross_refs": [
             {
               "text": "Dan. 4. v. 24."
+            },
+            {
+              "text": "Dan. 4",
+              "source": "sancta"
             }
           ]
         },
         {
           "verse": 34,
-          "text": "and God is the beholder of him that rendereth grace: he remembereth him afterward, and in the time of his fall he shall find a sure stay."
+          "text": "and God is the beholder of him that rendreth grace: he remembreth him afterward, and in the time of his fall he shall find a sure stay."
         }
       ],
       "summary": "Honour of parents procureth God's blessing, 11. dishonouring them his curse. 19. Meekness and modesty avail much: but curiosity to know secret mysteries is dangerous. 27. A charitable, sincere, and docile heart, 33. with works of mercy merit reward."
@@ -578,7 +606,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Give not occasion by thy hard dealing with the poor, that they curse thee."
+              "text": "Give not occasion by thy hard dealing with the poor, that they curse thee.",
+              "kind": "gloss"
             }
           ]
         },
@@ -588,7 +617,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "For if thou give cause, God who is their protector, will revenge them against thee."
+              "text": "For if thou give cause, God who is their protector, will revenge them against thee.",
+              "kind": "gloss"
             }
           ]
         },
@@ -638,7 +668,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "They that follow wisdom shall be safe."
+              "text": "They that follow wisdom shall be safe.",
+              "kind": "gloss"
             }
           ]
         },
@@ -676,11 +707,13 @@
           "notes": [
             {
               "label": "d",
-              "text": "Through shamefastness to yield unto sin, or not to reprove sin, is vicious."
+              "text": "Through shamefastness to yield unto sin, or not to reprove sin, is vicious.",
+              "kind": "gloss"
             },
             {
               "label": "e",
-              "text": "But to be ashamed, and to abhor sin is very good and necessary."
+              "text": "But to be ashamed, and to abhor sin is very good and necessary.",
+              "kind": "gloss"
             }
           ]
         },
@@ -702,11 +735,12 @@
         },
         {
           "verse": 30,
-          "text": "Do not gainsay the word of truth by any means: and be ashamed of the lie of thine unskillfulness.",
+          "text": "Do not gainsay the word of truth by any means: and be ashamed of the lie of thine unskilfulness.",
           "notes": [
             {
               "label": "f",
-              "text": "All men are bound to say the truth at convenient times, v. 23. And ever bound to avoid untruths."
+              "text": "All men are bound to say the truth at convenient times, v. 23. And ever bound to avoid untruths.",
+              "kind": "gloss"
             }
           ]
         },
@@ -724,7 +758,8 @@
           "notes": [
             {
               "label": "g",
-              "text": "Every one is bound rather to loose his life, than to do against justice, or to deny the truth."
+              "text": "Every one is bound rather to lose his life, than to do against justice, or to deny the truth.",
+              "kind": "gloss"
             }
           ]
         },
@@ -756,7 +791,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "After that sin is forgiven there remaineth oftentimes punishment for satisfaction."
+              "text": "After that sin is forgiven there remaineth oftentimes punishment for satisfaction.",
+              "kind": "gloss"
             }
           ]
         },
@@ -766,7 +802,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Though thou be so potent, that no man can hinder thy evil designment; yet do it not, because God will punish it."
+              "text": "Though thou be so potent, that no man can hinder thy evil designment; yet do it not, because God will punish it.",
+              "kind": "gloss"
             }
           ]
         },
@@ -788,7 +825,7 @@
         },
         {
           "verse": 8,
-          "text": "Slack not to be converted to our Lord, and defer not from day to day."
+          "text": "Slack not to be converted to our Lord, and differ not from day to day."
         },
         {
           "verse": 9,
@@ -800,7 +837,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "* Covering, or death. Prov. 10. v. 4."
+              "text": "* Covering, or death. Prov. 10. v. 4.",
+              "kind": "gloss"
             }
           ]
         },
@@ -814,11 +852,13 @@
           "notes": [
             {
               "label": "b",
-              "text": "Constancy in good purpose meriteth"
+              "text": "Constancy in good purpose meriteth",
+              "kind": "gloss"
             },
             {
               "label": "c",
-              "text": "the promised peace, and just reward."
+              "text": "the promised peace, and just reward.",
+              "kind": "gloss"
             }
           ]
         },
@@ -828,7 +868,7 @@
         },
         {
           "verse": 14,
-          "text": "If thou have understanding, answer thy neighbour: but if not, let thine hand be upon thy mouth, lest thou be taken in an unskillful word, and be confounded."
+          "text": "If thou have understanding, answer thy neighbour: but if not, let thine hand be upon thy mouth, lest thou be taken in an unskilful word, and be confounded."
         },
         {
           "verse": 15,
@@ -874,7 +914,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "So Gedeon pacified the Ephraimites; that were incensed against him. Iudic. 8."
+              "text": "So Gedeon pacified the Ephraimites; that were incensed against him. Iudic. 8.",
+              "kind": "gloss"
             }
           ]
         },
@@ -952,7 +993,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Many prefer learning before piety, which S. Augustin reproveth, preferring the godly before the learned that are less virtuous: The unlearned rise (saith he) and take the Kingdom of heaven, and we with our learning without heart, lo how we tumble in the durt. li. 8. c. 8. Confess."
+              "text": "Many prefer learning before piety, which S. Augustin reproveth, preferring the godly before the learned that are less virtuous: The unlearned rise (saith he) and take the Kingdom of heaven, and we with our learnings without heart, lo how we tumble in the durt. li. 8. c. 8. Confess.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1024,7 +1066,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Whatsoever any soweth that he shall reap, and the wicked shall eat the fruits of his own works."
+              "text": "Whatsoever any soweth that he shall reap, and the wicked shall eat the fruits of his own works.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1057,7 +1100,10 @@
         },
         {
           "verse": 5,
-          "text": "Justify not thy-self before God, because he is the knower of the heart: and before the king desire not to seem wise."
+          "text": "Justify not thyself before God, because he is the knower of the heart: and before the king desire not to seem wise.",
+          "xrefs": [
+            "Eccle. 7."
+          ]
         },
         {
           "verse": 6,
@@ -1065,13 +1111,14 @@
           "notes": [
             {
               "label": "b",
-              "text": "Great prudence and fortitude are required in all Judges spiritual and temporal."
+              "text": "Great prudence and fortitude are required in all Judges spiritual and temporal.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 7,
-          "text": "Sin not against the multitude of a city, neither thrust thy-self into the people,"
+          "text": "Sin not against the multitude of a city, neither thrust thyself into the people,"
         },
         {
           "verse": 8,
@@ -1079,7 +1126,7 @@
         },
         {
           "verse": 9,
-          "text": "Be not faint-hearted in thy mind:"
+          "text": "Be not fainthearted in thy mind:"
         },
         {
           "verse": 10,
@@ -1107,7 +1154,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "In hell are two punishments: fire burning, and the worm of conscience vexing the soul, & both are eternal."
+              "text": "In hell are two punishments: fire burning, and the worm of conscience vexing the soul, & both are eternal.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1221,7 +1269,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "Works of mercy are also profitable to the dead, as prayer, alms, and sacrifice for souls in purgatory."
+              "text": "Works of mercy are also profitable to the dead, as prayer, alms, and sacrifice for souls in purgatory.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1236,7 +1285,7 @@
         },
         {
           "verse": 39,
-          "text": "Be not loath to visit the sick: for by these things thou shalt be confirmed in love."
+          "text": "Be not loth to visit the sick: for by these things thou shalt be confirmed in love."
         },
         {
           "verse": 40,
@@ -1244,7 +1293,8 @@
           "notes": [
             {
               "label": "e",
-              "text": "Amost especial preservative from sin."
+              "text": "Amost especial preservative from sin.",
+              "kind": "gloss"
             }
           ]
         }
@@ -1268,7 +1318,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Bribery sometimes corrupteth Kings, much more other inferior Judges. And therefore it is better to suffer damage than to contend by law against the rich."
+              "text": "Bribery sometimes corrupteth Kings, much more other inferior Judges. And therefore it is better to suffer damage than to contend by law against the rich.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1348,6 +1399,10 @@
           "cross_refs": [
             {
               "text": "Prov. 22. v. 24."
+            },
+            {
+              "text": "Prov. 11. v. 14",
+              "source": "sancta"
             }
           ]
         },
@@ -1357,7 +1412,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "In all consultations confer with the skillful; for the blind cannot judge of colours, the deaf of music, the sick of taste: nor worldly men of spiritual things."
+              "text": "In all consultations confer with the skilful; for the blind cannot judge of colours, the deaf of music, the sick of taste: nor worldly men of spiritual things.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1381,7 +1437,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Seeing jealousy between man & wife is dangerous, much more unnecessary conversation between other men and women, especially probable occasions of sin must be avoided."
+              "text": "Seeing jealousy between man & wife is dangerous, much more unnecessary conversation between other men and women, especially probable occasions of sin must be avoided.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1444,7 +1501,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Constancy in good things, namely in friendship, is very necessary."
+              "text": "Constancy in good things, namely in friendship, is very necessary.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1458,7 +1516,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "A sinner that prospereth is like to a summer flower in the field, that is quickly cut down, and withereth."
+              "text": "A sinner that prospereth is like to a summer flower in the field, that is quickly cut down, and withereth.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1519,7 +1578,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Example of rulers is of great efficacy."
+              "text": "Example of rulers is of great efficacy.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1554,7 +1614,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "The causes of translating Kingdoms, & dominions."
+              "text": "The causes of translating Kingdoms, & dominions.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1564,7 +1625,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Covetousness is the root of all evils, 1. Tim. 6. in that for lucre many fall into all sorts of sins, even into schism and heresy. erring from the faith. ibid. v. 10."
+              "text": "Covetousness is the root of all evils, 1. Tim. 6. in that for lucre many fall into all sorts of sins, even into schism and heresy. erring from the faith. ibidem. v. 10.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1578,7 +1640,7 @@
         },
         {
           "verse": 12,
-          "text": "Short sickness the Physician cutteth off at the first: so also the king is today, & tomorrow he shall die."
+          "text": "Short sickness the Physician cutteth off at the first: so also the king is to day, & tomorrow he shall die."
         },
         {
           "verse": 13,
@@ -1586,7 +1648,7 @@
         },
         {
           "verse": 14,
-          "text": "The beginning of the pride of man, is to apostatate from God:"
+          "text": "The beginning of the pride of man, is to apostate from God:"
         },
         {
           "verse": 15,
@@ -1594,7 +1656,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "Nevertheless pride is the beginning of all sin, as this text expressly testifieth: and the reason is, for that man's inordinate self-love is the cause of declining from God's commandments: & they which run on in that course, cast themselves headlong into the depth of all mischief, and of eternal misery."
+              "text": "Nevertheless pride is the beginning of all sin, as this text expressly testifieth: and the reason is, for that man's inordinate self-love is the cause of declining from God's commandments: & they which run on in that course, cast themselves headlong into the depth of all mischief, and of eternal misery.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1696,7 +1759,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "A wise man humbling himself by penance, as Daniel did, or being unjustly humbled by others, as Ioseph was, shall be exalted by God."
+              "text": "A wise man humbling himself by penance, as Daniel did, or being unjustly humbled by others, as Ioseph was, shall be exalted by God.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1722,7 +1786,7 @@
         },
         {
           "verse": 7,
-          "text": "Before thou inquire, blame no man: and when thou hast inquired, chasten justly."
+          "text": "Before thou enquire, blame no man: and when thou hast enquired, chasten justly."
         },
         {
           "verse": 8,
@@ -1730,17 +1794,19 @@
           "notes": [
             {
               "label": "b",
-              "text": "Expect the end of another man's speech, before you begin to answer."
+              "text": "Expect the end of another man's speech, before you begin to answer.",
+              "kind": "gloss"
             },
             {
               "label": "c",
-              "text": "Expect also if any that is elder, or better able will answer first."
+              "text": "Expect also if any that is elder, or better able will answer first.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 9,
-          "text": "Strive not for that thing, which doth not molest thee: and consist not in the judgement of sinners.",
+          "text": "Strive not for that thing, which doeth not molest thee: and consist not in the judgement of sinners.",
           "cross_refs": [
             {
               "text": "Deu. 13."
@@ -1782,7 +1848,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "One punishment of sin is blindness of heart, especially where is no remorse of conscience."
+              "text": "One punishment of sin is blindness of heart, especially where is no remorse of conscience.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1816,7 +1883,7 @@
         },
         {
           "verse": 24,
-          "text": "The blessing of God hasteneth to the reward of the just, and in a swift hour his prospering fructifieth."
+          "text": "The blessing of God hasteth to the reward of the just, and in a swift hour his prospering fructifieth."
         },
         {
           "verse": 25,
@@ -1832,7 +1899,8 @@
           "notes": [
             {
               "label": "e",
-              "text": "In prosperity is fear, and in adversity hope of change."
+              "text": "In prosperity is fear, and in adversity hope of change.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1842,7 +1910,7 @@
         },
         {
           "verse": 29,
-          "text": "The malice of an hour maketh oblivion of great voluptuousness, and in the end of a man in the disclosing of his works."
+          "text": "The malice of an hour maketh oblivion of great voluptuousness, and in the end of a man is the disclosing of his works."
         },
         {
           "verse": 30,
@@ -1884,7 +1952,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "It is rather cruelty than mercy to nourish a wicked man persisting in sin: for so he runneth still into more wickedness, and into eternal damnation:"
+              "text": "It is rather cruelty than mercy to nourish a wicked man persisting in sin: for so he runneth still into more wickedness, and into eternal damnation:",
+              "kind": "gloss"
             }
           ]
         },
@@ -1898,7 +1967,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "but the penitent is to be comforted and assisted."
+              "text": "but the penitent is to be comforted and assisted.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1932,7 +2002,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Every one is bound to love his enemy of charity; but in prudence it behoveth not to credit him. According to our Saviour's rule: Be wise as serpents and simple as doves. Mat. 10."
+              "text": "Every one is bound to love his enemy of charity; but in prudence it behoveth not to credit him. According to our Saviour's rule: Be wise as serpents and simple as doves. Mat. 10.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1993,7 +2064,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "He that converseth with a greater man than himself (except it be with virtuous) is forced often to suffer much, and to yield to many inconveniences."
+              "text": "He that converseth with a greater man than himself (except it be with virtuous) is forced often to suffer much, and to yield to many inconveniences.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2035,7 +2107,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Pusillanimity in a superior maketh him omit his duty, & commit errors, fearing to do that pertaineth to his office, & which his authority requireth."
+              "text": "Pusillanimity in a superior maketh him omit his duty, & commit errors, fearing to do that pertaineth to his office, & which his authority requireth.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2049,7 +2122,7 @@
         },
         {
           "verse": 14,
-          "text": "Stay not to speak fellow-like with him: neither credit his many words. For by much talk he will prove thee, and smiling will examine thee of thy secrets."
+          "text": "Stay not to speak fellowlike with him: neither credit his many words. For by much talk he will prove thee, and smiling will examine thee of thy secrets."
         },
         {
           "verse": 15,
@@ -2073,7 +2146,7 @@
         },
         {
           "verse": 20,
-          "text": "All flesh will march with the like to it-self, & every man will associate himself to his like."
+          "text": "All flesh will match with the like to it-self, & every man will associate himself to his like."
         },
         {
           "verse": 21,
@@ -2109,7 +2182,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Acception of persons hindereth many good counsels: & promoteth many evil things."
+              "text": "Acception of persons hindereth many good counsels: & promoteth many evil things.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2166,7 +2240,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "He that cannot afford nourishment to his own body by such means as he hath, sinneth against God, abusing his benefits against himself whom he unjustly afflicteth, and against his neighbour whom he scandalizeth."
+              "text": "He that cannot afford nourishment to his own body by such means as he hath, sinneth against God, abusing his benefits against himself whom he unjustly afflicteth, and against his neighbour whom he scandalizeth.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2184,6 +2259,10 @@
           "cross_refs": [
             {
               "text": "Prov. 27. v. 20."
+            },
+            {
+              "text": "Prov. 27. v. 10",
+              "source": "sancta"
             }
           ]
         },
@@ -2197,11 +2276,12 @@
         },
         {
           "verse": 12,
-          "text": "Be mindful that death slacked not, and that the covenant of hell hath been shewed thee: for the covenant of this world shall die the death.",
+          "text": "Be mindful that death slacketh not, and that the covenant of hell hath been shewed thee: for the covenant of this world shall die the death.",
           "notes": [
             {
               "label": "e",
-              "text": "In the old testament all descended into some part of hell."
+              "text": "In the old testament all descended into some part of hell.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2211,7 +2291,7 @@
         },
         {
           "verse": 14,
-          "text": "Be not defrauded of thy good day, and let not a little portion of a good gift over-pass thee."
+          "text": "Be not defrauded of thy good day, and let not a little portion of a good gift overpass thee."
         },
         {
           "verse": 15,
@@ -2223,7 +2303,7 @@
         },
         {
           "verse": 17,
-          "text": "Before thy death work justice: for in hell there cannot meat be found."
+          "text": "Before thy death work justice: for in hell there can not meat be found."
         },
         {
           "verse": 18,
@@ -2248,7 +2328,8 @@
           "notes": [
             {
               "label": "f",
-              "text": "There shall be particular reward of every good work."
+              "text": "There shall be particular reward of every good work.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2288,7 +2369,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Whosoever shall resolve with himself to live justly, shall be sure to have grace, for God preventeth our weakness and so continueth to help all that accept his grace."
+              "text": "Whosoever shall resolve with himself to live justly, shall be sure to have grace, for God preventeth our weakness and so continueth to help all that accept his grace.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2326,13 +2408,14 @@
           "notes": [
             {
               "label": "b",
-              "text": "He doth injury to God, & to his word, that preacheth well and liveth evil."
+              "text": "He doth injury to God, & to his word, that preacheth well and liveth evil.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 10,
-          "text": "because wisdom proceeded from God. For praise shall be with the wisdom of God, & shall abound in a faithful mouth, & the dominatour will give praise to it."
+          "text": "because wisdom proceeded from God. For praise shall be with the wisdom of God, & shall abound in a faithful mouth, & the dominator will give praise to it."
         },
         {
           "verse": 11,
@@ -2340,7 +2423,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Beza saith God ordained Adam's fall, but to a good end: and that God justly decreed that which men unjustly have done. in refut. 2. calumniæ, ad Castel. But this holy Scripture teacheth the contrary, that God gave man both free-will, and sufficient grace, that he might if he would have kept his precepts. The same is also clearly taught. Deut. 7. 11. 30. and other places."
+              "text": "Beza saith God ordained Adam's fall, but to a good end: and that God justly decreed that which men unjustly have done. in refut. 2. calumna, ad Castel. But this holy Scripture teacheth the contrary, that God gave man both freewill, and sufficient grace, that he might if he would have kept his precepts. The same is also clearly taught. Deut. 7. 11. 30. and other places.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2367,10 +2451,14 @@
         },
         {
           "verse": 16,
-          "text": "If thou will keep the commandment, and keep acceptable fidelity for ever, they shall preserve thee.",
+          "text": "If thou wilt keep the commandment, and keep acceptable fidelity for ever, they shall preserve thee.",
           "cross_refs": [
             {
               "text": "Mat. 19. v. 17."
+            },
+            {
+              "text": "Matt. 15. v. 17",
+              "source": "sancta"
             }
           ]
         },
@@ -2439,7 +2527,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Fire of concupiscence, if it be not overcome in this life, will procure the fire of God's wrath, which shall never be extinguished."
+              "text": "Fire of concupiscence, if it be not overcome in this life, will procure the fire of God's wrath, which shall never be extinguished.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2466,6 +2555,10 @@
           "cross_refs": [
             {
               "text": "Num. 26."
+            },
+            {
+              "text": "Num. 16",
+              "source": "sancta"
             }
           ]
         },
@@ -2487,11 +2580,13 @@
           "notes": [
             {
               "label": "b",
-              "text": "Even a dish of cold water given in alms shall be rewarded. Mat. 10."
+              "text": "Even a dish of cold water given in alms shall be rewarded. Mat. 10.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "Rom. 2. v. 6."
+              "text": "Rom. 2. v. 6.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2561,7 +2656,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Reasonable souls (if they follow reason) and all sensible souls do (in their manner) praise the providence of God, in using all creatures to that end for which they were created."
+              "text": "Reasonable souls (if they follow reason) and all sensible souls do (in their manner) praise the providence of God, in using all creatures to that end for which they were created.",
+              "kind": "gloss"
             }
           ]
         }
@@ -2584,7 +2680,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Man at first received original justice, by losing whereof we all fell into original sin."
+              "text": "Man at first received original justice, by losing whereof we all fell into original sin.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2618,7 +2715,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "God gave a precept to man to be observed for exercise of his obedience, & so to be rewarded, and under pain of punishment if he transgressed. Gen. 2."
+              "text": "God gave a precept to man to be observed for exercise of his obedience, & so to be rewarded, and under pain of punishment if he transgressed. Gen. 2.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2685,15 +2783,17 @@
         },
         {
           "verse": 24,
-          "text": "and know the justices and judgments of God, and stand in the lot of thy purpose, and of prayer of the most high God.",
+          "text": "and know the injustices and judgements of God, and stand in the lot of thy purpose, and of prayer of the most high God.",
           "notes": [
             {
               "label": "c",
-              "text": "Perseverance in virtue to the end is necessary, which none can merit."
+              "text": "Perseverance in virtue to the end is necessary, which none can merit.",
+              "kind": "gloss"
             },
             {
               "label": "d",
-              "text": "But must still pray for it."
+              "text": "But must still pray for it.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2737,7 +2837,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "All creatures according to their substantial form in general, were created together, though they were afterwards formed in particular kinds, as they are distinctly recited in Genesis, with the order & ornaments of the world. S. Aug. li. 4. c. 33. & 34. de Gen. ad litter. Where he expressly affirmeth that this Scripture was written by inspiration of the same spirit of truth, whereby Genesis was written."
+              "text": "All creatures according to their substantial form in general, were created together, though they were afterwards formed in particular kinds, as they are distinctly recited in Genesis, with the order & ornaments of the world. S. Aug. li. 4. c. 33. & 34. de Gen. ad litter. Where he expressly affirmeth that this Scripture was written by inspiration of the same spirit of truth, whereby Genesis was written.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2771,6 +2872,10 @@
           "cross_refs": [
             {
               "text": "Psa. 89. v. 10."
+            },
+            {
+              "text": "Psal. 89. 7. 10",
+              "source": "sancta"
             }
           ]
         },
@@ -2816,7 +2921,7 @@
         },
         {
           "verse": 19,
-          "text": "Before judgment prepare thee justice, and before thou speak learn."
+          "text": "Before judgement prepare thee justice, and before thou speak learn."
         },
         {
           "verse": 20,
@@ -2829,7 +2934,7 @@
         },
         {
           "verse": 21,
-          "text": "Before sickness humble thyself, and in time of infirmity shew thy conversation."
+          "text": "Before sickness humble thy self, and in time of infirmity shew thy conversation."
         },
         {
           "verse": 22,
@@ -2837,11 +2942,13 @@
           "notes": [
             {
               "label": "b",
-              "text": "They pray always that pray at certain convenient times. And still have intention so to frequent the same exercise all their life. S. Aug. Epist. 121. c. 9. ad Probam."
+              "text": "They pray always that pray at certain convenient times. And still have intention so to frequent the same exercise all their life. S. Aug. Epist. 121. c. 9. ad Probam.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "Luc. 18. 1. 1. Thes. 5."
+              "text": "Luc. 18. 1. 1. Thes. 5.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2855,7 +2962,7 @@
         },
         {
           "verse": 25,
-          "text": "Remember poverty in the time of aboundance, & the necessities of poverty in the day of riches."
+          "text": "Remember poverty in the time of abundance, & the necessities of poverty in the day of riches."
         },
         {
           "verse": 26,
@@ -2871,7 +2978,7 @@
         },
         {
           "verse": 29,
-          "text": "The wise in words, and they also have done wisely: and have understood truth and justice, and have rained proverbs & judgments."
+          "text": "The wise in words, and they also have done wisely: and have understood truth and justice, and have rained proverbs & judgements."
         },
         {
           "verse": 30,
@@ -2879,7 +2986,7 @@
         },
         {
           "verse": 31,
-          "text": "If thou give to thy soul her concupiscences, she will make thee a joy to thy enemies."
+          "text": "If thou give to thy soul her concupiscences, she will make thee a joy to the enemies."
         },
         {
           "verse": 32,
@@ -2901,7 +3008,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "The best remedy against great sins is to avoid small ones, and not to contemn the least, but diligently to amend all."
+              "text": "The best remedy against great sins is to avoid small ones, and not to contemn the least, but diligently to amend all.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2911,6 +3019,10 @@
           "cross_refs": [
             {
               "text": "3. Reg. 11."
+            },
+            {
+              "text": "1 Kings 11",
+              "source": "sancta"
             }
           ]
         },
@@ -2945,7 +3057,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "That this document pertaineth to common conversation with worldly men, appeareth by the next verse. But to reveal secret sins to a spiritual father in sacramental confession, is necessary, wholesome, and secure. It is also very commendable and most lawful in holy religious Societies, where they willingly for their own spiritual good submit themselves to such a godly rule."
+              "text": "That this document pertaineth to common conversation with worldly men, appeareth by the next verse. But to reveal secret sins to a spiritual father in sacramental confession, is necessary, wholesome, and secure. It is also very commendable and most lawful in holy religious Societies, where they willingly for their own spiritual good submit themselves to such a godly rule.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2993,6 +3106,9 @@
             {
               "text": "Iac. 3."
             }
+          ],
+          "xrefs": [
+            "Iac. 3."
           ]
         },
         {
@@ -3021,7 +3137,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "False pretence of piety is hypocrisy."
+              "text": "False pretence of piety is hypocrisy.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3031,11 +3148,13 @@
           "notes": [
             {
               "label": "d",
-              "text": "And in a Superior, to open his own secret fault to his subjects, is pusillanimity."
+              "text": "And in a Superior, to open his own secret fault to his subjects, is pusillanimity.",
+              "kind": "gloss"
             },
             {
               "label": "e",
-              "text": "Discretion avoideth both: by concealing and revealing faults as reason directeth and justice requireth."
+              "text": "Discretion avoideth both: by concealing and revealing faults as reason directeth and justice requireth.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3045,7 +3164,7 @@
         },
         {
           "verse": 26,
-          "text": "Aman is known by the sight, and a wiseman is known by the shew of his face."
+          "text": "A man is known by the sight, and a wiseman is known by the shew of his face."
         },
         {
           "verse": 27,
@@ -3080,17 +3199,21 @@
         },
         {
           "verse": 4,
-          "text": "How good a thing is it being rebuked to shew repentance! For so thou shalt avoid willful sin.",
+          "text": "How good a thing is it being rebuked to shew repentance! For so thou shalt avoid wilful sin.",
           "notes": [
             {
               "label": "a",
-              "text": "He that taketh reprehension in good part when he is faulty meriteth pardon, and when he is not faulty he satisfieth for his other sins and meriteth reward."
+              "text": "He that taketh reprehension in good part when he is faulty meriteth pardon, and when he is not faulty he satisfieth for his other sins and meriteth reward.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 5,
-          "text": "There is that holdeth his peace, which is found wise: and there is that is odious, he which is malapert to speak."
+          "text": "There is that holdeth his peace, which is found wise: and there is that is odious, he which is malapert to speak.",
+          "xrefs": [
+            "Eccle 3."
+          ]
         },
         {
           "verse": 6,
@@ -3122,15 +3245,16 @@
         },
         {
           "verse": 13,
-          "text": "Aman wise in words shall make himself beloved: but the graces of fools shall be poured out."
+          "text": "A man wise in words shall make himself beloved: but the graces of fools shall be poured out."
         },
         {
           "verse": 14,
-          "text": "The gift of the unwise shall not be profitable for thee: for his eyes are seven-fold.",
+          "text": "The gift of the unwise shall not be profitable for thee: for his eyes are sevenfold.",
           "notes": [
             {
               "label": "b",
-              "text": "His intention is full of guile that flattereth by shew of love and of praise, but he will detract so much the more, & in the end reproach when he may get probable advantage against thee."
+              "text": "His intention is full of guile that flattereth by shew of love and of praise, but he will detract so much the more, & in the end reproach when he may get probable advantage against thee.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3144,7 +3268,7 @@
         },
         {
           "verse": 17,
-          "text": "A fool shall have no friend, and there shall be not thank to his goods."
+          "text": "A fool shall have no friend, and there shall be no thank to his goods."
         },
         {
           "verse": 18,
@@ -3160,7 +3284,7 @@
         },
         {
           "verse": 21,
-          "text": "Aman without grace is as a vain fable, it shall be continual in the mouth of them that are without discipline."
+          "text": "A man without grace is as a vain fable, it shall be continual in the mouth of them that are without discipline."
         },
         {
           "verse": 22,
@@ -3201,6 +3325,9 @@
             {
               "text": "Prov. 12."
             }
+          ],
+          "xrefs": [
+            "Prow. 12."
           ]
         },
         {
@@ -3218,7 +3345,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Wisdom is to be shewed in words and deeds when it may profit others."
+              "text": "Wisdom is to be shewed in words and deeds when it may profit others.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3228,7 +3356,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "To conceal faults, so they be amended, is most convenient."
+              "text": "To conceal faults, so they be amended, is most convenient.",
+              "kind": "gloss"
             }
           ]
         }
@@ -3244,11 +3373,12 @@
         },
         {
           "verse": 2,
-          "text": "As from the face of a serpent fly from sins: and if thou approach to them they will receive thee.",
+          "text": "As from the face of a serpent flee from sins: and if thou approach to them they will receive thee.",
           "notes": [
             {
               "label": "a",
-              "text": "As a serpent deceitfully approacheth & stingeth the body, so all sins inveigle and hurt the soul."
+              "text": "As a serpent deceitfully approacheth & stingeth the body, so all sins inveigle and hurt the soul.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3258,7 +3388,7 @@
         },
         {
           "verse": 4,
-          "text": "All iniquity is as a two-edged sword, there is no remedy for the wound thereof."
+          "text": "All iniquity is as a two edged sword, there is no remedy for the wound thereof."
         },
         {
           "verse": 5,
@@ -3274,11 +3404,13 @@
           "notes": [
             {
               "label": "b",
-              "text": "It is a sign that he is guilty, who contemneth friendly admonition."
+              "text": "It is a sign that he is guilty, who contemneth friendly admonition.",
+              "kind": "gloss"
             },
             {
               "label": "c",
-              "text": "He that truly feareth God will diligently examine his own acts & defects when he is warned."
+              "text": "He that truly feareth God will diligently examine his own acts & defects when he is warned.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3292,7 +3424,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "As walls of stone built in the frost, so riches or good name unjustly gotten will not continue long."
+              "text": "As walls of stone built in the frost, so riches or good name unjustly gotten will not continue long.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3330,7 +3463,7 @@
         },
         {
           "verse": 18,
-          "text": "Aman of knowledge will praise what soever wise word he shall hear, and will apply it to himself: the riotous man hath heard it, and it shall displease him, and he will cast it behind his back."
+          "text": "A man of knowledge will praise what soever wise word he shall hear, and will apply it to himself: the riotous man hath heard it, and it shall displease him, and he will cast it behind his back."
         },
         {
           "verse": 19,
@@ -3338,11 +3471,13 @@
           "notes": [
             {
               "label": "e",
-              "text": "Senseless or bad talk is tedious to all good men."
+              "text": "Senseless or bad talk is tedious to all good men.",
+              "kind": "gloss"
             },
             {
               "label": "f",
-              "text": "Words that may edify are grateful to all godly ears."
+              "text": "Words that may edify are grateful to all godly ears.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3372,7 +3507,7 @@
         },
         {
           "verse": 26,
-          "text": "A fool will look from the window into the house: but he nurtured will stand without."
+          "text": "A fool will look from the window into the house: but the nurtured will stand without."
         },
         {
           "verse": 27,
@@ -3388,11 +3523,12 @@
         },
         {
           "verse": 30,
-          "text": "Whilst the impious curseth the devil, he curseth his own soul.",
+          "text": "Whiles the impious curseth the devil, he curseth his own soul.",
           "notes": [
             {
               "label": "g",
-              "text": "Wicked men condemning the devil or any other wicked, do indeed condemn themselves. And to them agreeth that sentence of our Saviour: By thine own mouth I judge thee, naughty servant. Luc. 19."
+              "text": "Wicked men condemning the devil or any other wicked, do indeed condemn themselves. And to them agreeth that sentence of our Saviour: By thine own mouth I judge thee, naughty servant. Luc. 19.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3412,7 +3548,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Contempt & ignominy is the worldly punishment of the slothful, besides his eternal damnation at the day of judgement. Mat. 25. v. 30."
+              "text": "Contempt & ignominy is the worldly punishment of the slothful, besides his eternal damnation at the day of judgement. Mat. 25. v. 30.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3438,7 +3575,7 @@
         },
         {
           "verse": 7,
-          "text": "He that teacheth a fool, is as he that glueth together a pot-sherd."
+          "text": "He that teacheth a fool, is as he that glueth together a potsherd."
         },
         {
           "verse": 8,
@@ -3454,7 +3591,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "In this and other places is not understood a fool that by defect of natural wit is ignorant, or an idiot, but he that is void of grace, full of malice, and wickedness."
+              "text": "In this and other places is not understood a fool that by defect of natural wit is ignorant, or an idiot, but he that is void of grace, full of malice, and wickedness.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3468,7 +3606,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "For the wicked life of such a one is worse than his death. v. 12."
+              "text": "For the wicked life of such a one is worse than his death. v. 12.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3478,6 +3617,10 @@
           "cross_refs": [
             {
               "text": "Gen. 50. Pro. 27."
+            },
+            {
+              "text": "Prov. 23",
+              "source": "sancta"
             }
           ]
         },
@@ -3491,7 +3634,7 @@
         },
         {
           "verse": 16,
-          "text": "Turn aside from him, and thou shalt find rest, and shall not be wearied with his folly."
+          "text": "Turn aside from him, and thou shalt find rest, and shalt not be wearied with his folly."
         },
         {
           "verse": 17,
@@ -3540,17 +3683,19 @@
           "notes": [
             {
               "label": "c",
-              "text": "Atrue friend will not be lost for temporal damage nor danger."
+              "text": "Atrue friend will not be lost for temporal damage nor danger.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 27,
-          "text": "If thou open a sad mouth, fear not: for there is agreement: except taunt, and reproach, and pride, and revealing of secret, and a treacherous wound: in all these things a friend will fly away.",
+          "text": "If thou open a sad mouth, fear not: for there is agreement: except taunt, and reproach, and pride, and revealing of secret, and a traitorous wound: in all these things a friend will flee away.",
           "notes": [
             {
               "label": "d",
-              "text": "But the vices of derision, reproach, and the like violate all friendship with wise and good men."
+              "text": "But the vices of derision, reproach, and the like violate all friendship with wise and good men.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3595,7 +3740,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Man being weak and the enemy subtle & strong, he is not able to resist tentations without God's special grace, for which the wiseman therefore prayeth, instructing all by his example to do the same."
+              "text": "Man being weak and the enemy subtle & strong, he is not able to resist tentations without God's special grace, for which the wiseman therefore prayeth, instructing all by his example to do the same.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3605,7 +3751,7 @@
         },
         {
           "verse": 3,
-          "text": "and my ignorances increase not, and my offences be multiplied, and my sins abound, and I fall in the sight of mine adversaries, & mine enemy rejoice?"
+          "text": "and my ignorances increase not, and my offences be multiplied, and my sins abound, and I fall in the sight of mine adversaries, & mine enemies rejoice?"
         },
         {
           "verse": 4,
@@ -3625,7 +3771,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Precepts how to govern the mouth, and tongue."
+              "text": "Precepts how to govern the mouth, and tongue.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3644,7 +3791,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Against rash, untrue, & unlawful swearing. Iere. 4."
+              "text": "Against rash, untrue, & unlawful swearing. Iere. 4.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3658,7 +3806,7 @@
         },
         {
           "verse": 12,
-          "text": "Aman that sweareth much shall be filled with iniquity, and plague shall not depart from his house."
+          "text": "A man that sweareth much shall be filled with iniquity, and plague shall not depart from his house."
         },
         {
           "verse": 13,
@@ -3674,7 +3822,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "In oaths God is called to witness as he that cannot lie, but blasphemy attributeth that to God which pertaineth not to him or attributeth to some creature that which only belongeth to God, and so is a contrary sin to unlawful swearing. Both are mortal sins."
+              "text": "In oaths God is called to witness as he that cannot lie, but blasphemy attributeth that to God which perceiveth not to him or attributeth to some creature that which only belongeth to God, and so is a contrary sin to unlawful swearing. Both are mortal sins.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3684,11 +3833,12 @@
         },
         {
           "verse": 17,
-          "text": "Let not thy mouth be accustomed to unuttered speech: for there is in it a word of sin.",
+          "text": "Let not thy mouth be accustomed to unnurtured speech: for there is in it a word of sin.",
           "notes": [
             {
               "label": "e",
-              "text": "Admonition against sins, of the tongue."
+              "text": "Admonition against sins, of the tongue.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3698,17 +3848,18 @@
           "notes": [
             {
               "label": "f",
-              "text": "Reproach to parents, and other neighbours."
+              "text": "Reproach to parents, and other neighbours.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 19,
-          "text": "lest perhaps God forget thee in their sight, & being besotted with thy daily custom, thou suffer reproach, & hadst better not have been born, and curse the day of thy nativity."
+          "text": "lest perhaps God forget thee in their sight, & being sotted with thy daily custom, thou suffer reproach, & hadst better not have been born, and curse the day of thy nativity."
         },
         {
           "verse": 20,
-          "text": "Aman accustomed to the words of reproach, will not be instructed in all his days."
+          "text": "A man accustomed to the words of reproach, will not be instructed in all his days."
         },
         {
           "verse": 21,
@@ -3720,7 +3871,8 @@
           "notes": [
             {
               "label": "g",
-              "text": "Against covetousness."
+              "text": "Against covetousness.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3734,7 +3886,8 @@
           "notes": [
             {
               "label": "h",
-              "text": "Fornication."
+              "text": "Fornication.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3744,7 +3897,8 @@
           "notes": [
             {
               "label": "i",
-              "text": "Adultery."
+              "text": "Adultery.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3759,15 +3913,21 @@
         },
         {
           "verse": 27,
-          "text": "And he understandeth not that his eye seeth all things, for that such fear of man expelleth from him the fear of God, & the eyes of men fearing him:"
+          "text": "And he understandeth not that his eye seeth all things, for that such fear of man expelleth from him the fear of God, & the eyes of men fearing him:",
+          "cross_refs": [
+            {
+              "text": "Isa. 29",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 28,
-          "text": "and he knoweth not that the eyes of our Lord are much more brighter than the sun, beholding round about all the ways of man, and the bottom of the depth, and the hearts of men, looking into the hidden parts."
+          "text": "and he knoweth not that the eyes of our Lord are much more brighter than the sun, beholding round about all the ways of men, and the bottom of the depth, and the hearts of men, looking into the hidden parts."
         },
         {
           "verse": 29,
-          "text": "For all things were known unto our Lord God, before they were created: so also after it is perfected he beholdeth all things."
+          "text": "For all things were known to our Lord God, before they were created: so also after it is perfected he beholdeth all things."
         },
         {
           "verse": 30,
@@ -3775,12 +3935,17 @@
           "notes": [
             {
               "label": "k",
-              "text": "Seeing carnal adultery is severely punished, much more spiritual: as schism, heresy, and apostasy from Catholic Religion."
+              "text": "Seeing carnal adultery is severely punished, much more spiritual: as schism, heresy, and apostasy from Catholic Religion.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "Lev. 20. Deu. 22."
+              "text": "Lev. 20. Deu. 22.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Leui. 10. Deut. 22."
           ]
         },
         {
@@ -3827,7 +3992,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Divine wisdom, the Second Person of the B. Trinity, begotten, not created, praiseth itself. According to the phrase of speech. Iere. 51. v. 14. The Lord of hosts hath sworn by his soul, that is, by himself."
+              "text": "Divine wisdom, the Second Person of the B. Trinity, begotten, not created, praiseth itself. According to the phrase of speech. Iere. 51. v. 14. The Lord of hosts hath sworn by his soul, that is, by himself.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3845,7 +4011,7 @@
         },
         {
           "verse": 5,
-          "text": "I came forth from the mouth of the Highest, the first begotten before all creatures."
+          "text": "I come forth from the mouth of the Highest, the first begotten before all creatures."
         },
         {
           "verse": 6,
@@ -3873,7 +4039,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "God offereth his grace, but forceth not any to accept it."
+              "text": "God offereth his grace, but forceth not any to accept it.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3883,7 +4050,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Creation is not here taken in the strict signification, but for divine production, in that God the Father by understanding begetteth God the Son. As likewise the Father and the Son by love produce the Holy Ghost."
+              "text": "Creation is not here taken in the strict signification, but for divine production, in that God the Father by understanding begetteth God the Son. As likewise the Father and the Son by love produce the Holy Ghost.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3893,7 +4061,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "in the Church only is effectual grace."
+              "text": "in the Church only is effectual grace.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3927,7 +4096,7 @@
         },
         {
           "verse": 21,
-          "text": "and as storax, and galbanum, and onyx, and aloes, and as Libanus not cut, have I perfumed mine habitation, and mine odour is as balm not mingled."
+          "text": "and as storax, and galbanum, and onyx, and aloes, and as Libanus not cut, have I perfumed mine habitation, and mine odour is as balm non mingled."
         },
         {
           "verse": 22,
@@ -3956,6 +4125,9 @@
             {
               "text": "Psa. 18."
             }
+          ],
+          "xrefs": [
+            "Psa. 18."
           ]
         },
         {
@@ -3968,7 +4140,8 @@
           "notes": [
             {
               "label": "e",
-              "text": "The more grace any hath, the more he desireth and receiveth."
+              "text": "The more grace any hath, the more he desireth and receiveth.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3994,7 +4167,8 @@
           "notes": [
             {
               "label": "f",
-              "text": "In David's progeny God preserved the kingly state till the captivity: and the estimation of the royal blood unto Christ. But in all this David was a figure of Christ, who sitteth in the Throne of honour absolutely for ever."
+              "text": "In David's progeny God preserved the kingly state till the captivity: and the estimation of the royal blood unto Christ. But in all this David was a figure of Christ, who sitteth in the Throne of honour absolutely for ever.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4009,6 +4183,9 @@
             {
               "text": "Iosu. 3."
             }
+          ],
+          "xrefs": [
+            "Ioso. 3."
           ]
         },
         {
@@ -4071,7 +4248,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Three very commendable things."
+              "text": "Three very commendable things.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4085,7 +4263,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Other three detestable."
+              "text": "Other three detestable.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4095,7 +4274,7 @@
         },
         {
           "verse": 6,
-          "text": "How beautiful is judgement for a gray head, and for ancients to know counsel!"
+          "text": "How beautiful is judgement for a grey head, and for ancients to know counsel!"
         },
         {
           "verse": 7,
@@ -4111,13 +4290,14 @@
           "notes": [
             {
               "label": "c",
-              "text": "Nine happy things in this life."
+              "text": "Nine happy things in this life.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 10,
-          "text": "Aman that hath joy in his children; living and seeing the subversion of his enemies."
+          "text": "A man that hath joy in his children; living and seeing the subversion of his enemies."
         },
         {
           "verse": 11,
@@ -4126,6 +4306,9 @@
             {
               "text": "Iac. 3."
             }
+          ],
+          "xrefs": [
+            "Iac. 3."
           ]
         },
         {
@@ -4138,7 +4321,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "All happiness in this life is grounded in the fear of God."
+              "text": "All happiness in this life is grounded in the fear of God.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4160,7 +4344,8 @@
           "notes": [
             {
               "label": "e",
-              "text": "The description of heresy under the figure of a wicked woman: whose malice is secretly covered under pretence of truth and piety."
+              "text": "The description of heresy under the figure of a wicked woman: whose malice is secretly covered under pretence of truth and piety.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4223,7 +4408,8 @@
           "notes": [
             {
               "label": "f",
-              "text": "Lay-head-ship in spiritual causes is so unreasonable and absurd, that few heretics will endure it."
+              "text": "Lay-headship in spiritual causes is so unreasonable and absurd, that few heretics will endure it.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4233,7 +4419,7 @@
         },
         {
           "verse": 32,
-          "text": "Feeble hands, and disjointed knees, a woman that doth not make her husband happy."
+          "text": "Feeble bands, and disjointed knees, a woman that doth not make her husband happy."
         },
         {
           "verse": 33,
@@ -4263,7 +4449,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "An unquiet life depriveth a man of much comfort: and therefore continual peace is as double life."
+              "text": "An unquiet life depriveth a man of much comfort: and therefore continual peace is as double life.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4305,7 +4492,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "As when oxen move, the yoke on their necks doth move withal: so a wicked woman (to wit heresy) cannot rest, nor let others rest quiet."
+              "text": "As when oxen move, the yoke on their necks doth move withal: so a wicked woman (to wit heresy) cannot rest, nor let others rest quiet.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4315,7 +4503,7 @@
         },
         {
           "verse": 12,
-          "text": "The fornication of a woman shall be known in the lifting up of her eyes, and in her eye-lids."
+          "text": "The fornication of a woman shall be known in the lifting up of her eyes, and in her eyelids."
         },
         {
           "verse": 13,
@@ -4335,7 +4523,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "The Catholic faith is the ground of all virtues."
+              "text": "The Catholic faith is the ground of all virtues.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4377,7 +4566,7 @@
         },
         {
           "verse": 26,
-          "text": "Aman of war decaying by poverty: and a wise man contemned:"
+          "text": "A man of war decaying by poverty: and a wise man contemned:"
         },
         {
           "verse": 27,
@@ -4389,7 +4578,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "Those that keep inns or ale-houses are always talking, as willing to please all, but in much talk wanteth not sin. Pro. 10. v. 19."
+              "text": "Those that keep inns or alehouses are always talking, as willing to please all, but in much talk wanteth not sin. Prov. 10. v. 19.",
+              "kind": "gloss"
             }
           ]
         }
@@ -4422,7 +4612,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "The soul is kept in good state by fearing God."
+              "text": "The soul is kept in good state by fearing God.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4432,13 +4623,14 @@
           "notes": [
             {
               "label": "b",
-              "text": "After that sin is purged there remain relics in the soul, as dust in a sieve when the chaff is cast out, till it be more purged or washed. Psal. 50. v. 4."
+              "text": "After that sin is purged there remain relics in the soul, as dust in a sieve when the chaff is cast out, till it be more purged or washed. Psal. 50. v. 4.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 6,
-          "text": "The furnace trieth the potter's vessels, and the tentation of tribulation just men.",
+          "text": "The furnace tryeth the potters vessels, and the tentation of tribulation just men.",
           "cross_refs": [
             {
               "text": "Prov. 27."
@@ -4455,7 +4647,7 @@
         },
         {
           "verse": 9,
-          "text": "If thou follow justice, thou shalt apprehend it: and shalt put it on as a long robe of honour, and thou shalt dwell with it: and it shall protect thee for ever, and in the day of acknowledging thou shalt find steadfastness."
+          "text": "If thou follow justice, thou shalt apprehend it: and shalt put it on as a long robe of honour, and thou shalt dwell with it: and it shall protect thee for ever, and in the day of knowledging thou shalt find steadfastness."
         },
         {
           "verse": 10,
@@ -4471,11 +4663,13 @@
           "notes": [
             {
               "label": "c",
-              "text": "Whether the sun shineth forth or not, it is always light: so is a wise man always virtuous, whether it appear outwardly or no."
+              "text": "Whether the sun shineth forth or not, it is always light: so is a wise man always virtuous, whether it appear outwardly or no.",
+              "kind": "gloss"
             },
             {
               "label": "d",
-              "text": "Afool, or wicked man, hath no light of virtue in himself (like the moon) but sometimes seemeth to have more light, sometimes less, sometimes none at all. S. Bernard."
+              "text": "Afool, or wicked man, hath no light of virtue in himself (like the moon) but sometimes seemeth to have more light, sometimes less, sometimes none at all. S. Bernard.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4550,11 +4744,13 @@
           "notes": [
             {
               "label": "e",
-              "text": "He that expressly doth injury to another is justly punished also in this world."
+              "text": "He that expressly doth injury to another is justly punished also in this world.",
+              "kind": "gloss"
             },
             {
               "label": "f",
-              "text": "How secretly so ever any hurteth another, he woundeth his own conscience, and cannot escape God's judgement."
+              "text": "How secretly so ever any hurteth another, he woundeth his own conscience, and cannot escape God's judgement.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4565,6 +4761,9 @@
             {
               "text": "Pro. 26. Eccl. 10."
             }
+          ],
+          "xrefs": [
+            "Prou. 26. Eccle. 10."
           ]
         },
         {
@@ -4595,8 +4794,12 @@
           "notes": [
             {
               "label": "a",
-              "text": "He that seeketh revenge contrary to the course of justice, or of evil intention or of rancor of mind, sinneth grievously."
+              "text": "He that seeketh revenge contrary to the course of justice, or of evil intention or of rancor of mind, sinneth grievously.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Luc. 6. Rom. 12."
           ]
         },
         {
@@ -4605,11 +4808,13 @@
           "notes": [
             {
               "label": "b",
-              "text": "Charity requireth that we remit injuries with three conditions, if the offender be truly penitent, if the remission of punishment be not against justice, nor against necessary discipline."
+              "text": "Charity requireth that we remit injuries with three conditions, if the offender be truly penitent, if the remission of punishment be not against justice, nor against necessary discipline.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "Deu. 32, 35. Mat. 6, 14. & 11, 25. Rom. 12, 19."
+              "text": "Deu. 32, 35. Mat. 6, 14. & 11, 25. Rom. 12, 19.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4660,7 +4865,7 @@
         },
         {
           "verse": 13,
-          "text": "Hasty contention kindleth a fire: & hasty strife sheddeth blood: and an ill testifying tongue bringeth death."
+          "text": "Hasty contention kindleth a fire: & hasty strife shedeth blood: and an ill testifying tongue bringeth death."
         },
         {
           "verse": 14,
@@ -4676,7 +4881,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Undiscreet report to one what another hath said, is often cause of much discontentment and of dissension."
+              "text": "Undiscreet report to one what another hath said, is often cause of much discontentment and of dissension.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4690,7 +4896,7 @@
         },
         {
           "verse": 19,
-          "text": "A third tongue hath cast out many women, and deprived them of their labours."
+          "text": "A third tongue hath cast out manly women, and deprived them of their labours."
         },
         {
           "verse": 20,
@@ -4730,7 +4936,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "To hear detraction is as bad as to speak it."
+              "text": "To hear detraction is as bad as to speak it.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4754,7 +4961,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Lending is a work of mercy, & a kind of alms. To repay that is borrowed is a work of justice, wittingly not to restore is as bad as theft."
+              "text": "Lending is a work of mercy, & a kind of alms. To repay that is borrowed is a work of justice, wittingly not to restore is as bad as theft.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4764,7 +4972,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "See previous note"
+              "text": "See previous note",
+              "kind": "gloss"
             }
           ]
         },
@@ -4802,7 +5011,7 @@
         },
         {
           "verse": 11,
-          "text": "But yet upon the humble be stronger of mind, & for alms defer him not."
+          "text": "But yet upon the humble be stronger of mind, & for alms differ him not."
         },
         {
           "verse": 12,
@@ -4823,7 +5032,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Great fruit of works of mercy."
+              "text": "Great fruit of works of mercy.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4886,7 +5096,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Prudence requireth that by helping another, thou doest not overthrow thyself."
+              "text": "Prudence requireth that by helping another, thou doest not overthrow thyself.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4968,7 +5179,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "The eldest son being heir to his father, is to have special care of the other children, even to the adventuring of his own hurt for their lives."
+              "text": "The eldest son being heir to his father, is to have special care of the other children, even to the adventuring of his own hurt for their lives.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4986,7 +5198,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Teeth on edge or gnashing of teeth, is a part of hell pains. Mat 8. & 13. & sometimes beginneth in this life."
+              "text": "Teeth on edge or gnashing of teeth, is a part of hell pains. Mat 8. & 13. & sometimes beginneth in this life.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4996,7 +5209,7 @@
         },
         {
           "verse": 12,
-          "text": "Curb his neck in youth, and knock his sides whilst he is a child, lest perhaps he be hardened, and believe thee not, and he shall be sorrow of mind to thee."
+          "text": "Curb his neck in youth, and knock his sides whiles he is a child, lest perhaps he be hardened, and believe thee not, and he shall be sorrow of mind to thee."
         },
         {
           "verse": 13,
@@ -5012,7 +5225,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Piety is above riches and honour."
+              "text": "Piety is above riches and honour.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5056,8 +5270,12 @@
           "notes": [
             {
               "label": "d",
-              "text": "Suffer not unnecessary pensiveness to afflict thy mind, through pusillanimity."
+              "text": "Suffer not unnecessary pensiveness to afflict thy mind, through pusillanimity.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Prou. 12. 15. & 17."
           ]
         },
         {
@@ -5070,7 +5288,8 @@
           "notes": [
             {
               "label": "e",
-              "text": "But rely wholly upon God's will and providence, resigning thy will unto his."
+              "text": "But rely wholly upon God's will and providence, resigning thy will unto his.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5098,11 +5317,13 @@
           "notes": [
             {
               "label": "a",
-              "text": "They that employ all their study to get virtues, shall be more free from tentations of the flesh."
+              "text": "They that employ all their study to get virtues, shall be more free from tentations of the flesh.",
+              "kind": "gloss"
             },
             {
               "label": "b",
-              "text": "And from drowsiness of mind: whereupon S. Ierom admonisheth: Love the studies of holy Scriptures, and thou wilt not love the vices of the flesh. Epist. ad Rusticum Monach."
+              "text": "And from drowsiness of mind: whereupon S. Ierom admonisheth: Love the studies of holy Scriptures, and thou wilt not love the vices of the flesh. Epist. ad Rusticum Monach.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5144,7 +5365,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "It is in man's freewill to transgress, & therefore they are happy, that through God's grace do not break his commandments."
+              "text": "It is in man's freewill to transgress, & therefore they are happy, that through God's grace do not break his commandments.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5191,7 +5413,7 @@
         },
         {
           "verse": 20,
-          "text": "Leave off first for manner's sake, and exceed not, lest thou perhaps offend."
+          "text": "Leave off first for manners sake, and exceed not, lest thou perhaps offend."
         },
         {
           "verse": 21,
@@ -5236,7 +5458,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "As bread is the chief sustenance of the body, so doctrine is of the mind, which being good nourisheth, & if it be bad corrupteth them that receive it."
+              "text": "As bread is the chief sustenance of the body, so doctrine is of the mind, which being good nourisheth, & if it be bad corrupteth them that receive it.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5254,7 +5477,7 @@
         },
         {
           "verse": 33,
-          "text": "What is his life that is diminished with wine?"
+          "text": "What is the life that is diminished with wine?"
         },
         {
           "verse": 34,
@@ -5309,7 +5532,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Humility is necessary in all, but most especially in men of authority. The greatest art in this life is to contemn vain glory in height of authority. S. Greg. de cura pastorali."
+              "text": "Humility is necessary in all, but most especially in men of authority. The greatest art in his life is to contemn vain glory in height of authority. S. Greg. de cura pastorali.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5331,7 +5555,13 @@
         },
         {
           "verse": 6,
-          "text": "Where there is no hearing, pour not out speech, and extol not thyself out of time in thy wisdom."
+          "text": "Where there is no hearing, pour not out speech, and extol not thyself out of time in thy wisdom.",
+          "cross_refs": [
+            {
+              "text": "Eccle. 3",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 7,
@@ -5339,7 +5569,7 @@
         },
         {
           "verse": 8,
-          "text": "As a signet of the emerald is in the working of gold: so the melody of music is joyful and moderate wine."
+          "text": "As a signet of the emerald is in the working of gold: so the melody of music in joyful and moderate wine."
         },
         {
           "verse": 9,
@@ -5391,11 +5621,11 @@
         },
         {
           "verse": 21,
-          "text": "A sinful man will fly reprehension, and according to his will, will find excuse."
+          "text": "A sinful man will flee reprehension, and according to his will, will find excuse."
         },
         {
           "verse": 22,
-          "text": "Aman of counsel will not destroy understanding, an alien and proud man will not dread fear:"
+          "text": "A man of counsel will not destroy understanding, an alien and proud man will not dread fear:"
         },
         {
           "verse": 23,
@@ -5407,7 +5637,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "God directeth men's resolutions, and actions, when they use the means of consultation, as he hath appointed: for when two or three are gathered in his name, he is in midst of them. Mat. 18."
+              "text": "God directeth men's resolutions, and actions, when they use the means of consultation, as he hath appointed: for when two or three are gathered in his name, he is in midst of them. Mat. 18.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5425,7 +5656,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Do not against thy conscience."
+              "text": "Do not against thy conscience.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5449,7 +5681,7 @@
         },
         {
           "verse": 3,
-          "text": "Aman of understanding believeth the law of God, and the law is sure to him."
+          "text": "A man of understanding believeth the law of God, and the law is sure to him."
         },
         {
           "verse": 4,
@@ -5461,7 +5693,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Men led with passions run from one vice into another without ceasing. Especially heretics run into many errors. Against which S. Paul prescribeth this rule: It is best that the heart be established with grace. Heb. 13. v. 9."
+              "text": "Men led with passions run from one vice into another without ceasing. Especially heretics run into many errors. Against which S. Paul prescribeth this rule: It is best that the heart be established with grace. Heb. 13. v. 9.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5532,7 +5765,7 @@
         },
         {
           "verse": 21,
-          "text": "Whilst thou art yet alive and takest breath, all flesh shall not change thee."
+          "text": "Whiles thou art yet alive and takest breath, all flesh shall not change thee."
         },
         {
           "verse": 22,
@@ -5594,7 +5827,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Vain dreams are not to be regarded: but some are good, & from God. Gen. 37. 40. 41. Dan. 2. 4. Mat. 1."
+              "text": "Vain dreams are not to be regarded: but some are good, & from God. Gen. 37. 40. 41. Dan. 2. 4. Mat. 1.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5628,11 +5862,13 @@
           "notes": [
             {
               "label": "b",
-              "text": "Whatsoever is written in holy Scripture is undoubtedly true: and no jot of the law shall perish."
+              "text": "Whatsoever is written in holy Scripture is undoubtedly true: and no jot of the law shall perish.",
+              "kind": "gloss"
             },
             {
               "label": "c",
-              "text": "God also provideth that always there be some which truly explicate his law."
+              "text": "God also provideth that always there be some which truly explicate his law.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5730,7 +5966,10 @@
         },
         {
           "verse": 27,
-          "text": "He that sheddeth blood, and that defraudeth the hired man, are brethren."
+          "text": "He that sheddeth blood, and that defraudeth the hired man, are brethren.",
+          "xrefs": [
+            "Leuit. 19."
+          ]
         },
         {
           "verse": 28,
@@ -5738,7 +5977,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "He that destroyeth that another buildeth, bringeth two men's labours to nothing."
+              "text": "He that destroyeth that another buildeth, bringeth two men's labours to nothing.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5752,7 +5992,8 @@
           "notes": [
             {
               "label": "e",
-              "text": "Recidivation into sin maketh the former repentance frustrate. Mat. 18. v. 33."
+              "text": "Recidivation into sin maketh the former repentance frustrate. Mat. 18. v. 33.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5772,11 +6013,13 @@
           "notes": [
             {
               "label": "a",
-              "text": "sacrifices of penance, Psa. 50. of justice Psal. 4. and of praise, Psal. 49. are better than external sacrifices."
+              "text": "sacrifices of penance, Psa. 50. of justice Psal. 4. and of praise, Psa. 49. are better than external sacrifices.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "1. Reg. 15. v. 22. Ier. 7."
+              "text": "1. Reg. 15. v. 22. Ier. 7.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5790,7 +6033,10 @@
         },
         {
           "verse": 4,
-          "text": "He who offereth the flour of wheat, shall give thanks: and he that is merciful offereth sacrifice."
+          "text": "He who offereth the flour of wheat, shall give thanks: and he that is merciful offereth sacrifice.",
+          "xrefs": [
+            "Exo. 23. & 34. Deut. 16."
+          ]
         },
         {
           "verse": 5,
@@ -5802,11 +6048,13 @@
           "notes": [
             {
               "label": "b",
-              "text": "Nevertheless external sacrifice is also necessary."
+              "text": "Nevertheless external sacrifice is also necessary.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "Exo. 23. & 34. Deu. 16."
+              "text": "Exo. 23. & 34. Deu. 16.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5837,7 +6085,10 @@
         },
         {
           "verse": 12,
-          "text": "Give to the Highest according to his gift, and with a good eye do according to the ability of thine hands:"
+          "text": "Give to the Highest according to his gift, and with a good eye do according to the ability of thine hands:",
+          "xrefs": [
+            "Leuit. 22. Deut. 15."
+          ]
         },
         {
           "verse": 13,
@@ -5845,7 +6096,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Oftentimes so much. As Prov. 24. Seven times shall the just fall, & shall rise again."
+              "text": "Often times so much. As Prov. 24. Seven times shall the just fall, & shall rise again.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5927,7 +6179,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "This prayer implieth also a prophecy of the conversion of the Gentiles, as the like very often in the Psalms. 58. 64. 65. &c."
+              "text": "This prayer implieth also a prophecy of the conversion of the Gentiles, as the like very often in the Psalms. 58. 64. 65. &c.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6015,7 +6268,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "As there is difference of meats:"
+              "text": "As there is difference of meats:",
+              "kind": "gloss"
             }
           ]
         },
@@ -6025,7 +6279,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "so there ought to be discretion in words, in choosing a wife, & in all actions, and desires."
+              "text": "so there ought to be discretion in words, in choosing a wife, & in all actions, and desires.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6043,7 +6298,7 @@
         },
         {
           "verse": 25,
-          "text": "If there be a tongue of curing, there is also a mitigating and of mercy: her husband is not according to the sons of men."
+          "text": "If there be a tongue of curing, there is also of mitigating and of mercy: her husband is not according to the sons of men."
         },
         {
           "verse": 26,
@@ -6051,7 +6306,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "In concord small things increase, by discord all things go to havoc."
+              "text": "In concord small things increase, by discord all things go to havoc.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6075,7 +6331,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "As friendship is a most necessary thing in human life; so feigned friendship is most dangerous."
+              "text": "As friendship is a most necessary thing in human life; so feigned friendship is most dangerous.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6153,7 +6410,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Man is bound to use all prudent endeavour, & withal most especially to pray for God's direction."
+              "text": "Man is bound to use all prudent endeavour, & withal most especially to pray for God's direction.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6195,7 +6453,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "The days of the Blessed in heaven, who see God, are"
+              "text": "The days of the Blessed in heaven, who see God, are",
+              "kind": "gloss"
             }
           ]
         },
@@ -6214,7 +6473,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "The same which S. Paul admonisheth (1. Cor. 11.) let every one prove himself, by examining & rectifying his conscience."
+              "text": "The same which S. Paul admonisheth (1. Cor. 11.) let every one prove himself, by examining & rectifying his conscience.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6246,7 +6506,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Man's body naturally needeth sustenance, & sometimes physic, and so doth his soul; which as it is more excellent, so it ought to be more regarded."
+              "text": "Man's body naturally needeth sustenance, & sometimes physic, and so doth his soul; which as it is more excellent, so it ought to be more regarded.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6289,11 +6550,13 @@
           "notes": [
             {
               "label": "b",
-              "text": "Spiritual infirmity requireth spiritual physic."
+              "text": "Spiritual infirmity requireth spiritual physic.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "Isa. 38."
+              "text": "Isa. 38.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6331,12 +6594,17 @@
           "notes": [
             {
               "label": "c",
-              "text": "To avoid evil speech, shew that thou art truly sorry for the death of thy friend. But moderate thy sorrow, lest it hurt thyself."
+              "text": "To avoid evil speech, shew that thou art truly sorry for the death of thy friend. But moderate thy sorrow, lest it hurt thyself.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "Pro. 15. & 17."
+              "text": "Pro. 15. & 17.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "*Prou. 15. & 17.*"
           ]
         },
         {
@@ -6361,7 +6629,7 @@
         },
         {
           "verse": 23,
-          "text": "Be mindful of my judgement: for thine also must be so: to me yesterday, and to thee today.",
+          "text": "Be mindful of my judgement: for thine also must be so: to me yesterday, and to thee to day.",
           "cross_refs": [
             {
               "text": "2. Reg. 12."
@@ -6370,15 +6638,22 @@
         },
         {
           "verse": 24,
-          "text": "In the repose of the dead make the memory of him to rest, and comfort him in the departing of his spirit."
+          "text": "In the repose of the dead make the memory of him to rest, and comfort him in the departing of his spirit.",
+          "cross_refs": [
+            {
+              "text": "1 Kings 12",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 25,
-          "text": "The wisdom of a scribe in the time of vacancy: and he that is less in action, shall receive wisdom.",
+          "text": "The wisdom of a scribe in the time of vacance: and he that is less in action, shall receive wisdom.",
           "notes": [
             {
               "label": "d",
-              "text": "When pastors have leisure from preaching, they may then profit others by writing. So S. Paul, not only preached,"
+              "text": "When pastors have leisure from preaching, they may then profit others by writing. So S. Paul, not only preached,",
+              "kind": "gloss"
             }
           ]
         },
@@ -6432,7 +6707,7 @@
         },
         {
           "verse": 38,
-          "text": "Upon the judge's seat they shall not sit, and the ordinance of judgement they shall not understand, neither shall they declare discipline and judgement, and in parables they shall not be found:"
+          "text": "Upon the judges seat they shall not sit, and the ordinance of judgement they shall not understand, neither shall they declare discipline and judgement, and in parables they shall not be found:"
         },
         {
           "verse": 39,
@@ -6450,7 +6725,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Besides active life commended in the former chap. it is necessary that virtuous men use also meditation & contemplation. Unto which four dispositions are requisite, described in this chap."
+              "text": "Besides active life commended in the former chap. it is necessary that virtuous men use also meditation & contemplation. Unto which four dispositions are requisite, described in this chap.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6484,7 +6760,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "1. (b) True knowledge of holy Mysteries: without the which meditation will be erroneous."
+              "text": "1. (b) True knowledge of holy Mysteries: without the which meditation will be erroneous.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6530,7 +6807,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "2. (c) Purity of soul free from grievous sins, and endowed with virtues."
+              "text": "2. (c) Purity of soul free from grievous sins, and endowed with virtues.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6544,7 +6822,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "3. (d) Humility is especially required in contemplative persons."
+              "text": "3. (d) Humility is especially required in contemplative persons.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6588,7 +6867,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "4. (e) Hope of eternal reward comforteth, & encourageth the servants of God."
+              "text": "4. (e) Hope of eternal reward comforteth, & encourageth the servants of God.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6611,11 +6891,12 @@
         },
         {
           "verse": 31,
-          "text": "The beginning of the thing necessary for the life of men, water, fire, and iron, salt, milk, and bread of flour, and honey, and the cluster of grape, and oil, & clothing.",
+          "text": "The beginning of the thing necessary for the life of men, water, fire, and iron, salt, milk, and bread of flower, and honey, and the cluster of grape, and oil, & clothing.",
           "notes": [
             {
               "label": "f",
-              "text": "In the mean time God giveth necessaries for this life. Which the good use rightly to their merit, & the wicked use evil to their damnation."
+              "text": "In the mean time God giveth necessaries for this life. Which the good use rightly to their merit, & the wicked use evil to their damnation.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6629,7 +6910,8 @@
           "notes": [
             {
               "label": "g",
-              "text": "Devils were created in state of grace, & of their own will fell from God, & consequently were punished."
+              "text": "Devils were created in state of grace, & of their own will fell from God, & consequently were punished.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6677,7 +6959,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "The penalties which all men even new born infants suffer, do shew that all in general are guilty of original sin, for if they were not guilty, their punishment were not just. That Christ also would be subject to the same penalties was for the sins of others. And though his B. mother was preserved from this sin, yet she was not exempted from the general penalty of all mankind."
+              "text": "The penalties which all men even new born infants suffer, do shew that all in general are guilty of original sin, for if they were not guilty, their punishment were not just. That Christ also would be subject to the same penalties was for the sins of others. And though his B. mother was preserved from this sin, yet she was not exempted from the general penalty of all mankind.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6777,7 +7060,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "The society of Christ's Church flourishing in all virtues excelleth the benefits of the old Testament."
+              "text": "The society of Christ's Church flourishing in all virtues excelleth the benefits of the old Testament.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6807,17 +7091,18 @@
         },
         {
           "verse": 29,
-          "text": "Son in thy lifetime want not: for it is better to die than to want.",
+          "text": "Son in thy life time want not: for it is better to die than to want.",
           "notes": [
             {
               "label": "c",
-              "text": "Every one is bound to labour that he want not necessaries."
+              "text": "Every one is bound to labour that he want not necessaries.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 30,
-          "text": "Aman that looketh toward another man's table, his life is as no life, thinking how to live, for he feedeth his soul with another man's meats."
+          "text": "A man that looketh toward another man's table, his life is as no life, thinking how to live, for he feedeth his soul with another man's meats."
         },
         {
           "verse": 31,
@@ -6863,7 +7148,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "It is to no purpose after death to accuse the shortness, or length of life, pretending the same to have been cause of sin. For God doth all justly, yea and for the best, if men would so use his benefits."
+              "text": "It is to no purpose after death to accuse the shortness, or length of life, pretending the same to have been cause of sin. For God doth all justly, yea and for the best, if men would so use his benefits.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6917,7 +7203,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "It behoveth children, and scholers to esteem that which their elders teach:"
+              "text": "It behoveth children, and scholars to esteem that which their elders teach:",
+              "kind": "gloss"
             }
           ]
         },
@@ -6927,7 +7214,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "though the same doth not seem reasonable in their own opinion."
+              "text": "though the same doth not seem reasonable in their own opinion.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6961,6 +7249,10 @@
           "cross_refs": [
             {
               "text": "Mat. 5. v. 28."
+            },
+            {
+              "text": "Matt. 5. 7. 28",
+              "source": "sancta"
             }
           ]
         },
@@ -6985,7 +7277,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "It is not lawful to reveal that, which we justly promise to conceal."
+              "text": "It is not lawful to reveal that, which we justly promise to conceal.",
+              "kind": "gloss"
             }
           ]
         },
@@ -7043,7 +7336,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "There is less danger in conversing familiarly with a wicked man, than with a friendly woman. In which conversation, much prudence is required, as is before admonished. chap. 9."
+              "text": "There is less danger in conversing familiarly with a wicked man, than with a friendly woman. In which conversation, much prudence is required, as is before admonished. chap. 9.",
+              "kind": "gloss"
             }
           ]
         },
@@ -7069,7 +7363,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "The excellency of God, which cannot be seen with mortal eye (Exo. 33.) is proposed to our meditation in his works. The like in, Iob. 38. 39. 40. 41. and in many places of holy Scripture."
+              "text": "The excellency of God, which cannot be seen with mortal eye (Exo. 33.) is proposed to our meditation in his works. The like in, Iob. 38. 39. 40. 41. and in many places of holy Scripture.",
+              "kind": "gloss"
             }
           ]
         },
@@ -7117,7 +7412,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Of all senseless creatures, yea & of sensible also, that have not reason, the sun is most excellent. Of which all corporal creatures receive their light: & by whose influence all generation of creatures proceedeth: whereof is this Maxim in Philosophy, that The sun and man beget a man. And Aristotel calleth the sun the father of men and of gods."
+              "text": "Of all senseless creatures, yea & of sensible also, that have not reason, the sun is most excellent. Of which all corporal creatures receive their light: & by whose influence all generation of creatures proceedeth: whereof is this Maxim in Philosophy, that The sun and man beget a man. And Aristotel calleth the sun the father of men and of gods.",
+              "kind": "gloss"
             }
           ]
         },
@@ -7195,7 +7491,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Which also appeareth even in the least creatures, whose natural substances & qualities, with other accidents, the more any man considereth the more he shall admire God, the only Creator of all."
+              "text": "Which also appeareth even in the least creatures, whose natural substances & qualities, with other accidents, the more any man considereth the more he shall admire God, the only Creator of all.",
+              "kind": "gloss"
             }
           ]
         },
@@ -7287,7 +7584,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Virtuous men are rightly called Lords, and Princes; so the children of Heth said to Abraham. My Lord, thou art a prince of God among us. Gen. 23."
+              "text": "Virtuous men are rightly called Lords, and Princes; so the children of Heth said to Abraham. My Lord, thou art a prince of God among us. Gen. 23.",
+              "kind": "gloss"
             }
           ]
         },
@@ -7341,7 +7639,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Enoch shall preach penance in the time of Antichrist."
+              "text": "Enoch shall preach penance in the time of Antichrist.",
+              "kind": "gloss"
             }
           ]
         },
@@ -7355,12 +7654,17 @@
           "notes": [
             {
               "label": "c",
-              "text": "Noe was perfect."
+              "text": "Noe was perfect.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "Gen. 5. Gen. 6. Gen. 9."
+              "text": "Gen. 5. Gen. 6. Gen. 9.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "*Gen. 9.*"
           ]
         },
         {
@@ -7377,11 +7681,13 @@
           "notes": [
             {
               "label": "d",
-              "text": "Abraham father of all the believers in Christ."
+              "text": "Abraham father of all the believers in Christ.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "Gen. 12."
+              "text": "Gen. 12.",
+              "kind": "gloss"
             }
           ]
         },
@@ -7412,7 +7718,8 @@
           "notes": [
             {
               "label": "e",
-              "text": "Isaac and Jacob were blessed in Abraham."
+              "text": "Isaac and Jacob were blessed in Abraham.",
+              "kind": "gloss"
             }
           ]
         },
@@ -7472,7 +7779,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Moyses saw God's works more clearly than other Prophets, yet saw not his substance, as is noted Exod. 33."
+              "text": "Moyses saw God's works more clearly than other Prophets, yet saw not his substance, as is noted Exo. 33.",
+              "kind": "gloss"
             }
           ]
         },
@@ -7491,7 +7799,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Aaron's priesthood continued so long as Moyses' law: that was till Christ. And now the priesthood according to the order of Melchisedech continueth to the end of the world."
+              "text": "Aaron's priesthood continued so long as Moyses' law: that was till Christ. And now the priesthood according to the order of Melchisedech continueth to the end of the world.",
+              "kind": "gloss"
             }
           ]
         },
@@ -7517,7 +7826,7 @@
         },
         {
           "verse": 14,
-          "text": "A crown of gold upon his mitre graven with a seal of holiness, and the glory of honour: a work of power, & the adorned desires of the eyes."
+          "text": "A crown of gold upon his miter graven with a seal of holiness, and the glory of honour: a work of power, & the adorned desires of the eyes."
         },
         {
           "verse": 15,
@@ -7563,7 +7872,7 @@
         },
         {
           "verse": 23,
-          "text": "Our Lord God saw, and it please him not, and they were consumed in the violence of wrath."
+          "text": "Our Lord God saw, and it pleased him not, and they were consumed in the violence of wrath."
         },
         {
           "verse": 24,
@@ -7583,7 +7892,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "The tribe of Levi had not a portion of inheritance separate from the rest, but had tithes, first fruits, and oblations for their temporal provision."
+              "text": "The tribe of Levi had not a portion of inheritance separate from the rest, but had tithes, first fruits, and oblations for their temporal provision.",
+              "kind": "gloss"
             }
           ]
         },
@@ -7602,7 +7912,7 @@
         },
         {
           "verse": 30,
-          "text": "Therefore did he establish unto him a covenant of peace, to be the Prince of the holies, and to his nation, that the dignity of Priesthood should be to him and to his seed for ever."
+          "text": "Therefore did he establish unto him a covenant of peace, to be the Prince of the holies, and of his nation, that the dignity of Priesthood should be to him and to his seed for ever."
         },
         {
           "verse": 31,
@@ -7610,7 +7920,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "King David gave special assistance to the Priests, and greatly advanced God's service 1. Paral. 23. &c."
+              "text": "King David gave special assistance to the Priests, and greatly advanced God's service 1. Paral. 23. &c.",
+              "kind": "gloss"
             }
           ]
         }
@@ -7626,7 +7937,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Iosue succeeded in the temporal government: for the spiritual pertained to the successors of Aaron. Num. 27."
+              "text": "Iosue succeeded in the temporal government: for the spiritual pertained to the successors of Aaron. Num. 27.",
+              "kind": "gloss"
             }
           ]
         },
@@ -7674,7 +7986,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Only Iosue and Caleb remained of those which came out of Ægypt, all the rest died in the desert; and their children entered into Chanaan. Num. 14."
+              "text": "Only Iosue and Caleb remained of those which came out of Ægypt, all the rest died in the desert; and their children entered into Chanaan. Num. 14.",
+              "kind": "gloss"
             }
           ]
         },
@@ -7701,7 +8014,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Though some of the Judges were sometimes great sinners, yet they were finally just, & for their good acts much renowned."
+              "text": "Though some of the Judges were sometimes great sinners, yet they were finally just, & for their good acts much renowned.",
+              "kind": "gloss"
             }
           ]
         },
@@ -7711,6 +8025,10 @@
           "cross_refs": [
             {
               "text": "1. Reg. 17."
+            },
+            {
+              "text": "1. Reg. 1",
+              "source": "sancta"
             }
           ]
         },
@@ -7724,7 +8042,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "Samuel anointed Saul and David Kings."
+              "text": "Samuel anointed Saul and David Kings.",
+              "kind": "gloss"
             }
           ]
         },
@@ -7768,11 +8087,13 @@
           "notes": [
             {
               "label": "e",
-              "text": "If Samuel himself had not appeared, (but some other spirit) it could not have been noted in his praises. See. 1. Reg. 28."
+              "text": "If Samuel himself had not appeared, (but some other spirit) it could not have been noted in his praises. See. 1. Reg. 28.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "1. Reg. 28."
+              "text": "1. Reg. 28.",
+              "kind": "gloss"
             }
           ]
         }
@@ -7788,6 +8109,10 @@
           "cross_refs": [
             {
               "text": "2. Reg. 11."
+            },
+            {
+              "text": "1. Reg. 11",
+              "source": "sancta"
             }
           ]
         },
@@ -7810,13 +8135,14 @@
           "notes": [
             {
               "label": "1",
-              "text": "Ibidem."
+              "text": "Ibidem.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 5,
-          "text": "In lifting up his hand, with a stone of the sling he overthrew the boasting of Goliath:"
+          "text": "In lifting up his hand, with a stone of the sling he overthrew the boasting of Goliah:"
         },
         {
           "verse": 6,
@@ -7845,7 +8171,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Amongst all the renowned acts of David his pure and sincere heart most pleased God."
+              "text": "Amongst all the renowned acts of David his pure and sincere heart most pleased God.",
+              "kind": "gloss"
             }
           ]
         },
@@ -7855,6 +8182,10 @@
           "cross_refs": [
             {
               "text": "1. Par. 25."
+            },
+            {
+              "text": "3. Par. 25",
+              "source": "sancta"
             }
           ]
         },
@@ -7877,7 +8208,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "For David's sake God gave wisdom to Salomon, and peace in his kingdom."
+              "text": "For David's sake God gave wisdom to Salomon, and peace in his kingdom.",
+              "kind": "gloss"
             }
           ]
         },
@@ -7895,8 +8227,12 @@
           "notes": [
             {
               "label": "c",
-              "text": "By Apostrophe the author turneth his speech to Salomon."
+              "text": "By Apostrophe the author turneth his speech to Salomon.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "*3.Reg. 3.*"
           ]
         },
         {
@@ -7934,11 +8270,13 @@
           "notes": [
             {
               "label": "d",
-              "text": "Salomon's sins were punished, but God's mercy continued in conserving his posterity. Psal. 88."
+              "text": "Salomon's sins were punished, but God's mercy continued in conserving his posterity. Psal. 88.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "3. Reg. 11."
+              "text": "3. Reg. 11.",
+              "kind": "gloss"
             }
           ]
         },
@@ -8013,7 +8351,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Elias procured fire from heaven to burn his sacrifice, 3. Reg. 18. and twice more to burn an hundred men which persecuted him. 4. Reg. 1."
+              "text": "Elias procured fire from heaven to burn his sacrifice, 3. Reg. 18. and twice more to burn an hundred men which persecuted him. 4. Reg. 1.",
+              "kind": "gloss"
             }
           ]
         },
@@ -8039,6 +8378,10 @@
           "cross_refs": [
             {
               "text": "3. Reg. 9."
+            },
+            {
+              "text": "3. Reg. 19",
+              "source": "sancta"
             }
           ]
         },
@@ -8074,11 +8417,13 @@
           "notes": [
             {
               "label": "b",
-              "text": "The miracle wrought by his dead body shewed that he was an holy Prophet. 4. Reg. 13. See the miracles of Elias, & Eliseus. To. 1. pag. 940."
+              "text": "The miracle wrought by his dead body shewed that he was an holy Prophet. 4. Reg. 13. See the miracles of Elias, & Eliseus. To. 1. pag. 940.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "4. Reg. 13."
+              "text": "4. Reg. 13.",
+              "kind": "gloss"
             }
           ]
         },
@@ -8126,7 +8471,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Prayer prevailed, when forces were not sufficient. See. 4. Reg. 19."
+              "text": "Prayer prevailed, when forces were not sufficient. See. 4. Reg. 19.",
+              "kind": "gloss"
             }
           ]
         },
@@ -8203,6 +8549,10 @@
           "cross_refs": [
             {
               "text": "4. Reg. 13."
+            },
+            {
+              "text": "4. Reg. 23",
+              "source": "sancta"
             }
           ]
         },
@@ -8212,7 +8562,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Many other Kings of Juda refrained always from committing idolatry, but these three destroyed all places of idolatry in their kingdom, which the others did not."
+              "text": "Many other Kings of Juda refrained always from committing idolatry, but these three destroyed all places of idolatry in their kingdom, which the others did not.",
+              "kind": "gloss"
             }
           ]
         },
@@ -8292,12 +8643,17 @@
           "notes": [
             {
               "label": "b",
-              "text": "See the Annotation. ch. 38."
+              "text": "See the Annotation. ch. 38.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "Gen. 5."
+              "text": "Gen. 5.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "*Gen. 5.*"
           ]
         },
         {
@@ -8315,7 +8671,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Ioseph prophesying that the people should depart from Ægypt, willed them to carry his bones with them. Gen. 50. So by carrying his bones they professed, that he had truly prophesied."
+              "text": "Ioseph prophesying that the people should depart from Ægypt, willed them to carry his bones with them. Gen. 50. So by carrying his bones they professed, that he had truly prophesied.",
+              "kind": "gloss"
             }
           ]
         },
@@ -8335,11 +8692,13 @@
           "notes": [
             {
               "label": "a",
-              "text": "This Simon called Iustus, and Priscus, was high Priest when this book was written (in the time of Ptolomie the first, King of Aegypt) a very holy man, and dead before it was translated into Greek about the time of Ptolomie the third called Evergetes, near 300. years before Christ."
+              "text": "This Simon called Iustus, and Priscus, was high Priest when this book was written (in the time of Ptolomie the first, King of Aegypt) a very holy man, and dead before it was translated into Greek about the time of Ptolomie the third called Evergetes, near 300. years before Christ.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "Iosephus lib. 12. Antiq."
+              "text": "Iosephus lib. 12. Antiq.",
+              "kind": "gloss"
             }
           ]
         },
@@ -8405,7 +8764,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "* Libatione."
+              "text": "* Libatione.",
+              "kind": "gloss"
             }
           ]
         },
@@ -8460,7 +8820,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Three nations; the Idumeans, Philistiims, and Samaritanes, did most persecute the Israelites: the Samaritanes were no one pure nation, but mixt of Assirians and Jews: and so here called no nation."
+              "text": "Three nations; the Idumeans, Philistiims, and Samaritanes, did most persecute the Israelites: the Samaritanes were no one pure nation, but mixt of Assirians and Jews: and so here called no nation.",
+              "kind": "gloss"
             }
           ]
         },
@@ -8470,7 +8831,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "They are also called a foolish people, because they knowing true religion, mixed idolatry therewith, according to diverse sects, as appeareth 4. Reg. 17. v. 29."
+              "text": "They are also called a foolish people, because they knowing true religion, mixed idolatry therewith, according to divers sects, as appeareth 4. Reg. 17. v. 29.",
+              "kind": "gloss"
             }
           ]
         },
@@ -8494,11 +8856,12 @@
       "verses": [
         {
           "verse": 1,
-          "text": "The prayer of Jesus the son of Sirach. I will confess to thee o Lord King, and will praise thee God my Savior.",
+          "text": "The prayer of Jesus the son of Sirach. I will confess to thee o Lord King, and will praise thee God my Saviour.",
           "notes": [
             {
               "label": "a",
-              "text": "Where we are not able to render recompence to benefactors; especially to God, we are the more bound to acknowledge his many great benefits, altogether undeserved by us."
+              "text": "Where we are not able to render recompence to benefactors; especially to God, we are the more bound to acknowledge his many great benefits, altogether undeserved by us.",
+              "kind": "gloss"
             }
           ]
         },
@@ -8572,7 +8935,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "When senses are most ripe, and the soul most free from great sins, is the aptest time to serve God, & to get all virtues, and true knowledge. Eccle. 12."
+              "text": "When seasons are most ripe, and the soul most free from great sins, is the aptest time to serve God, & to get all virtues, and true knowledge. Eccle. 12.",
+              "kind": "gloss"
             }
           ]
         },
@@ -8606,7 +8970,7 @@
         },
         {
           "verse": 26,
-          "text": "Istretched forth my hands on high, & I lamented foolishness."
+          "text": "I stretched forth my hands on high, & I lamented foolishness."
         },
         {
           "verse": 27,
@@ -8646,11 +9010,12 @@
         },
         {
           "verse": 36,
-          "text": "Take ye discipline in a great sum of silver, and possess aboundance of gold in it.",
+          "text": "Take ye discipline in a great sum of silver, and possess abundance of gold in it.",
           "notes": [
             {
               "label": "c",
-              "text": "In stead of riches labour to get wisdom for it is much better than all gold & silver."
+              "text": "In stead of riches labour to get wisdom for it is much better than all gold & silver.",
+              "kind": "gloss"
             }
           ]
         },
@@ -8664,7 +9029,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "Merit is in this life, and reward in the next."
+              "text": "Merit is in this life, and reward in the next.",
+              "kind": "gloss"
             }
           ]
         }

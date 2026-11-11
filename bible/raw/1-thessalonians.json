@@ -16,7 +16,7 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Paul and Sylvanus and Timothee to the Church of the Thessalonians in God the Father, and our Lord Jesus Christ. Grace to you and peace."
+          "text": "Paul and Silvanus and Timothee to the Church of the Thessalonians in God the Father, and our Lord Jesus Christ. Grace to you and peace."
         },
         {
           "verse": 2,
@@ -24,7 +24,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle upon the 6. Sunday after the Epiphany."
+              "text": "The Epistle upon the 6. Sunday after the Epiphany.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -59,7 +60,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "In this and the like places the Heretics maliciously & most falsely translate, construe, & apply all things meant of the Heathen idols, to the memories and images of Christ and his Saints, namely the English Bibles of the year 1562. 1577. See the Annotation 1 Io. 5, 21."
+              "text": "In this and the like places the Heretics maliciously & most falsely translate, construe, & apply all things meant of the Heathen idols, to the memories and images of Christ and his Saints, namely the English Bibles of the years 1562. 1577. See the Annotation 1 Io. 5, 21.",
+              "kind": "gloss"
             }
           ]
         },
@@ -88,7 +90,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "c A notable example for Catholic preachers, and passing comfortable, when in the midst of persecutions and reproaches they preach sincerely, to please God & not men."
+              "text": "c A notable example for Catholic preachers, and passing comfortable, when in the midst of persecutions and reproaches they preach sincerely, to please God & not men.",
+              "kind": "gloss"
             }
           ]
         },
@@ -114,7 +117,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "mild"
+              "text": "mild",
+              "kind": "gloss"
             }
           ]
         },
@@ -150,7 +154,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle for many Martyrs. Aug. 8."
+              "text": "The Epistle for many Martyrs. Aug. 8.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -172,7 +177,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c ἀπορφανισθέντες"
+              "text": "c ἀπορφανισθέντες",
+              "kind": "word"
             }
           ]
         },
@@ -186,7 +192,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "If the Apostle without injury to God, in right good sense call his scholers the Thessalonians, his hope, joy, glory: why blaspheme the Protestants the Cath. Church & her children for terming our B. Lady or other Saints, their hope, for the special confidence they have in their prayers?"
+              "text": "If the Apostle without injury to God, in right good sense call his scholers the Thessalonians, his hope, joy, glory: why blaspheme the Protestants the Cath. Church & her children for terming our B. Lady or other Saints, their hope, for the special confidence they have in their prayers?",
+              "kind": "gloss"
             }
           ]
         },
@@ -247,7 +254,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Though letters or epistles in absence give great comfort and confirmation in faith, yet it is preaching in presence by which the faith of Christ and true religion is always both begun and accomplished."
+              "text": "Though letters or epistles in absence give great comfort and confirmation in faith, yet it is preaching in presence by which the faith of Christ and true religion is always both begun and accomplished.",
+              "kind": "gloss"
             }
           ]
         },
@@ -275,7 +283,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle upon the 2. Sunday in Lent."
+              "text": "The Epistle upon the 2. Sunday in Lent.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -297,7 +306,7 @@
         },
         {
           "verse": 6,
-          "text": "and that no man over-go, nor circumvent his brother in business: because our Lord is revenger of all these things, as we have foretold you, and have testified."
+          "text": "and that no man overgo, nor circumvent his brother in business: because our Lord is revenger of all these things, as we have foretold you, and have testified."
         },
         {
           "verse": 7,
@@ -319,8 +328,12 @@
           "notes": [
             {
               "label": "2",
-              "text": "c All Catholic Christians make one fraternity or brotherhood."
+              "text": "c All Catholic Christians make one fraternity or brotherhood.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Io. 13, 34. 15, 17. Heb. 13, 1."
           ]
         },
         {
@@ -329,7 +342,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Christian men ought to proceed and profit continually in good works and justification."
+              "text": "Christian men ought to proceed and profit continually in good works and justification.",
+              "kind": "gloss"
             }
           ]
         },
@@ -348,7 +362,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle in a Mass for the dead upon the day of the burial or deposition."
+              "text": "The Epistle in a Mass for the dead upon the day of the burial or deposition.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -367,7 +382,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "He speaketh in the person of those that shall be alive when our Saviour returneth to judgement."
+              "text": "He speaketh in the person of those that shall be alive when our Saviour returneth to judgement.",
+              "kind": "gloss"
             }
           ]
         },
@@ -413,7 +429,7 @@
         },
         {
           "verse": 4,
-          "text": "But you, brethren, are not in darkness; that the same day may as a thief over-take you."
+          "text": "But you, brethren, are not in darkness; that the same day may as a thief overtake you."
         },
         {
           "verse": 5,
@@ -438,7 +454,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "A Christian man's whole armour is not faith only, but all the three virtues here named."
+              "text": "A Christian man's whole armour is not faith only, but all the three virtues here named.",
+              "kind": "gloss"
             }
           ]
         },
@@ -468,7 +485,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "b The Epistle upon the Imber Saturday in Lent."
+              "text": "b The Epistle upon the Imber Saturday in Lent.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -479,6 +497,9 @@
             {
               "text": "Pro. 17, 13. Ro. 12, 1. Pet. 3, 9."
             }
+          ],
+          "xrefs": [
+            "Pro. 17, 13. Ro. 12. 1. Pet. 3, 9."
           ]
         },
         {
@@ -496,7 +517,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "c To desire eternal life of him that only can give it, is to pray without intermission: but because that desire is often by worldly cares cooled, certain hours and times of vocal prayer were appointed. See S. Aug. ep. 121. ad Probam."
+              "text": "c To desire eternal life of him that only can give it, is to pray without intermission: but because that desire is often by worldly cares cooled, certain hours and times of vocal prayer were appointed. See S. Aug. ep. 121. ad Probam.",
+              "kind": "gloss"
             }
           ]
         },

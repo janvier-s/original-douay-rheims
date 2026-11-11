@@ -131,7 +131,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "The first part. Acts of Daniel with the other three Hebrew children; & of the Kings of Babylon."
+              "text": "The first part. Acts of Daniel with the other three Hebrew children; & of the Kings of Babylon.",
+              "kind": "head"
             }
           ]
         },
@@ -141,13 +142,14 @@
           "notes": [
             {
               "label": "a",
-              "text": "Part of the holy vessels & some special persons were carried away, but the King was released at this time: for he reigned in Jerusalem eight years more, eleven in all. <i>2. Par. 36. v. 5.</i>"
+              "text": "Part of the holy vessels & some especial persons were carried away, but the King was released at this time: for he reigned in Jerusalem eight years more, eleven in all. <i>2. Par. 36. v. 5.</i>",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 3,
-          "text": "And the king spake to Asphenez the governor of the Eunuchs, that he should bring in of the children of Israel, and of the king's, & the tyrants' seed,"
+          "text": "And the king spake to Asphenez the governor of the Eunuches, that he should bring in of the children of Israel, and of the kings, & the tyrants' seed,"
         },
         {
           "verse": 4,
@@ -163,29 +165,30 @@
         },
         {
           "verse": 7,
-          "text": "And the governor of the eunuchs gave them names: to Daniel, Baltassar: to Ananias, Sidrach, to Misael, Misach: & to Azarias, Abdenago."
+          "text": "And the governor of the eunuches gave them names: to Daniel, Baltassar: to Ananias, Sidrach, to Misael, Misach: & to Azarias, Abdenago."
         },
         {
           "verse": 8,
-          "text": "But <na>(b)</na> Daniel purposed in his heart, that he would not be polluted of the king's table, nor of the wine of his drink: & he requested the governor of the eunuchs, that he might not be contaminated.",
+          "text": "But <na>(b)</na> Daniel purposed in his heart, that he would not be polluted of the king's table, nor of the wine of his drink: & he requested the governor of the eunuches, that he might not be contaminated.",
           "notes": [
             {
               "label": "b",
-              "text": "Daniel as chief was an example to the other three children in their manner of life, whereby is also probable that they being all of the tribe of Juda, <i>v. 6.</i> he was nearer of the royal blood: of which some were taken into the King's court. <i>v. 3.</i>"
+              "text": "Daniel as chief was an example to the other three children in their manner of life, whereby is also probable that they being all of the tribe of Juda, <i>v. 6.</i> he was nearer of the royal blood: of which some were taken into the King's court. <i>v. 3.</i>",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 9,
-          "text": "And God gave unto Daniel grace and mercy in the sight of the prince of the eunuchs."
+          "text": "And God gave unto Daniel grace and mercy in the sight of the prince of the eunuches."
         },
         {
           "verse": 10,
-          "text": "And the prince of the eunuchs said to Daniel: I fear my lord the king, who hath appointed for you meat and drink: who if he shall see your faces leaner than the other youths your equals, you shall condemn my head to the king."
+          "text": "And the prince of the eunuches said to Daniel: I fear my lord the king, who hath appointed for you meat and drink: who if he shall see your faces leaner than the other youths your equals, you shall condemn my head to the king."
         },
         {
           "verse": 11,
-          "text": "And Daniel said to Malasar whom the prince of the eunuchs appointed over Daniel, Ananias, Misael, and Azarias:"
+          "text": "And Daniel said to Malasar whom the prince of the eunuches appointed over Daniel, Ananias, Misael, and Azarias:"
         },
         {
           "verse": 12,
@@ -193,11 +196,13 @@
           "notes": [
             {
               "label": "c",
-              "text": "Three causes moved them to abstain from the King's meats: lest they might eat any thing offered to idols, or forbid by the law of Moyses, and because such delicate diet might provoke to gluttony, or in time when they should be elder, to other sins. <i>Theod.</i>"
+              "text": "Three causes moved them to abstain from the King's meats: lest they might eat any thing offered to idols, or forbid by the law of Moyses, and because such delicate diet might provoke to gluttony, or in time when they should be elder, to other sins. <i>Theod.</i>",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "<i>* beans, peas &c.</i>"
+              "text": "<i>* beans, peas &c.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -223,7 +228,7 @@
         },
         {
           "verse": 18,
-          "text": "The days therefore being accomplished, after which the king had said, that they should be brought in; the governor of the eunuchs brought them in the sight of Nabuchodonosor."
+          "text": "The days therefore being accomplished, after which the king had said, that they should be brought in; the governor of the eunuches brought them in the sight of Nabuchodonosor."
         },
         {
           "verse": 19,
@@ -239,7 +244,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "By mention of the first year of Cyrus is sufficiently signified that Daniel lived all the time of the captivity. And ch. 10. it is further clear that he lived in the third year: & very like longer."
+              "text": "By mention of the first year of Cyrus is sufficiently signified that Daniel lived all the time of the captivity. And ch. 10. it is further clear that he lived in the third year: & very like longer.",
+              "kind": "gloss"
             }
           ]
         }
@@ -255,7 +261,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Nabuchodonosor had this dream the second year after his great conquest of the Moabites, Ammonites, Syrians, & Ægyptians, making his Kingdom a great Monarchy: so it was in the 25. year of his reign: when Daniel was about the age of 35 years."
+              "text": "Nabuchodonosor had this dream the second year after his great conquest of the Moabites, Ammonites, Syrians, & Ægyptians, making his Kingdom a great Monarchy: so it was in the 25. year of his reign: when Daniel was about the age of 35 years.",
+              "kind": "gloss"
             }
           ]
         },
@@ -265,7 +272,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>* professors of Astrology.</i>"
+              "text": "<i>* professors of Astrology.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -299,7 +307,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "It is indeed more easy to tell by the devil's help, what one hath dreamed; because dreams being past, might either proceed from the devil, or by some external signs be known unto him: but to declare the signification which is to come, and uncertain, is above the devil's or man's power: who can only conjecture what is probable, & do often err therein. See the Annot. <i>Gen. 40.</i>"
+              "text": "It is indeed more easy to tell by the devil's help, what one hath dreamed; because dreams being past, might either proceed from the devil, or by some external signs be known unto him: but to declare the signification which is to come, and uncertain, is above the devil's or man's power: who can only conjecture what is probable, & do often err therein. See the Annotations. <i>Gen. 40.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -377,7 +386,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "By shewing the King's former cogitation before his dream, he gave great assurance of the true spirit of prophecy, that the King might securely believe the interpretation of the dream."
+              "text": "By shewing the King's former cogitation before his dream, he gave great assurance of the true spirit of prophecy, that the King might securely believe the interpretation of the dream.",
+              "kind": "gloss"
             }
           ]
         },
@@ -391,7 +401,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "The four Kingdom of the Chaldees, Persians, Grecians, and Romans, signified by the four parts of this statua,"
+              "text": "The four Kingdom of the Chaldees, Persians, Grecians, and Romans, signified by the four parts of this statua,",
+              "kind": "gloss"
             }
           ]
         },
@@ -405,7 +416,8 @@
           "notes": [
             {
               "label": "e",
-              "text": "consisting of diverse metals or matter, did succeed in order of time:"
+              "text": "consisting of diverse metals or matter, did succeed in order of time:",
+              "kind": "gloss"
             }
           ]
         },
@@ -415,7 +427,8 @@
           "notes": [
             {
               "label": "f",
-              "text": "not each one meaner, or baser than the former, as gold is best, & iron & earth the worst, for the last rather excelled the former; but when this vision appeared the kingdom of the Chaldees was the greatest, and most excellent & that being destroyed the Medes & Persians became greater than it had been: again the Grecians under Alexander became far greater than any before, and finally the Roman greatest of all, till Christ's kingdom, his Church was spread over the whole world."
+              "text": "not each one meaner, or baser than the former, as gold is best, & iron & earth the worst, for the last rather excelled the former; but when this vision appeared the kingdom of the Chaldees was the greatest, and most excellent & that being destroyed the Medes & Persians became greater than it had been: again the Grecians under Alexander became far greater than any before, and finally the Roman greatest of all, till Christ's kingdom, his Church was spread over the whole world.",
+              "kind": "gloss"
             }
           ]
         },
@@ -425,11 +438,11 @@
         },
         {
           "verse": 34,
-          "text": "Thou sawest so, till a stone was cut out of a mountain without hands: and it struck the statua on the iron, & earthen feet thereof, & brake them in pieces."
+          "text": "Thou sawest so, till a stone was cut out of a mountain without hands: and it stroke the statua on the iron, & earthen feet thereof, & brake them in pieces."
         },
         {
           "verse": 35,
-          "text": "Then were the iron, the clay, the brass, the silver, and gold broken together, and brought as it were into the dust of a summer's floor, that are taken violently with the wind: and there was no place found for them: but the stone that struck the statua, was made a great mountain, and it filled all the earth."
+          "text": "Then were the iron, the clay, the brass, the silver, and gold broken together, and brought as it were into the dust of a summer's floor, that are taken violently with the wind: and there was no place found for them: but the stone that stroke the statua, was made a great mountain, and it filled all the earth."
         },
         {
           "verse": 36,
@@ -453,7 +466,7 @@
         },
         {
           "verse": 41,
-          "text": "Moreover because thou sawest part of the feet, and of the toes of the potter's clay, and part of iron: the kingdom shall be divided, which notwithstanding shall rise of the ground of iron, according as thou sawest the iron mingled with the earth of clay."
+          "text": "Moreover because thou sawest part of the feet, and of the toes of the potters clay, and part of iron: the kingdom shall be divided, which notwithstanding shall rise of the ground of iron, according as thou sawest the iron mingled with the earth of clay."
         },
         {
           "verse": 42,
@@ -469,7 +482,8 @@
           "notes": [
             {
               "label": "g",
-              "text": "The Church of Christ is the only kingdom that cannot be destroyed."
+              "text": "The Church of Christ is the only kingdom that can not be destroyed.",
+              "kind": "gloss"
             }
           ]
         },
@@ -483,7 +497,8 @@
           "notes": [
             {
               "label": "h",
-              "text": "He thought Daniel to be a little god, subject to the great God. <i>v. 47.</i>"
+              "text": "He thought Daniel to be a little god, subject to the great God. <i>v. 47.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -493,11 +508,13 @@
           "notes": [
             {
               "label": "i",
-              "text": "Notwithstanding this confession, shortly after he erected an idol to represent his own greatness, and to be adored therein."
+              "text": "Notwithstanding this confession, shortly after he erected an idol to represent his own greatness, and to be adored therein.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "<i>* mystery.</i>"
+              "text": "<i>* mystery.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -524,7 +541,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "This huge statua of ninety foot in height and nine in breadth contained a great mass of gold. Which the King made to shew his riches, to terrify his enemies, & to represent himself, that he might be adored therein as a god. <i>S. Ierom.</i>"
+              "text": "This huge statua of ninety foot in height and nine in breadth contained a great mass of gold. Which the King made to shew his riches, to terrify his enemies, & to represent himself, that he might be adored therein as a god. <i>S. Ierom.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -550,7 +568,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Practice of this idolatry consisted in falling prostrate on the ground before the statua; sometimes it consisteth in offering incense to idols; and the like; Now in England personal presence at heretical service or sermon is a distinctive sign of conformity to the protestants' pretended religion; because such presence is there exacted for this purpose."
+              "text": "Practice of this idolatry consisted in falling prostrate on the ground before the statua; sometimes it consisteth in offering incense to idols; and the like; Now in England personal presence at heretical service or sermon is a distinctive sign of conformity to the protestants' pretended religion; because such presence is there exacted for this purpose.",
+              "kind": "gloss"
             }
           ]
         },
@@ -600,7 +619,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "By this most modest & confident answer they professed their assured faith of God's omnipotent power, not knowing whether it was his divine will to deliver them from the fire or no: resolving to suffer with patience whatsoever he would permit to fall unto them."
+              "text": "By this most modest & confident answer they professed their assured faith of God's omnipotent power, not knowing whether it was his divine will to deliver them from the fire or no: resolving to suffer with patience whatsoever he would permit to fall unto them.",
+              "kind": "gloss"
             }
           ]
         },
@@ -622,7 +642,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>* or caps.</i>"
+              "text": "<i>* or caps.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -636,7 +657,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Though these parcels were not in the Hebrew in S. Jerome's time, yet either had been in the Hebrew or Chaldee, or at least were Canonical scriptures; as we have proved in the argument of this book."
+              "text": "Though these parcels were not in the Hebrew in S. Jerome's time, yet either had been in the Hebrew or Chaldee, or at least were Canonical scripture; as we have proved in the argument of this book.",
+              "kind": "gloss"
             }
           ]
         },
@@ -678,7 +700,7 @@
         },
         {
           "verse": 33,
-          "text": "And now we cannot open the mouth: we are become a confusion, and reproach to thy servants, & to them that worship thee."
+          "text": "And now we can not open the mouth: we are become a confusion, and reproach to thy servants, & to them that worship thee."
         },
         {
           "verse": 34,
@@ -690,7 +712,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "In the very same manner Moyses prayed, & pacified God's wrath. <i>Exo. 32.</i>"
+              "text": "In the very same manner Moyses prayed, & pacified God's wrath. <i>Exo. 32.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -708,7 +731,8 @@
           "notes": [
             {
               "label": "e",
-              "text": "Sedecias being dead, and Ioachin kept in prison, there was none in state of a King amongst the Jews: neither was there at this time any Prophet in all Jewry: for Daniel himself and Ezechiel were in Babylon: and Jeremy was either dead or in Ægypt."
+              "text": "Sedecias being dead, and Ioachin kept in prison, there was none in state of a King amongst the Jews: neither was there at this time any Prophet in all Jewry: for Daniel himself and Ezechiel were in Babylon: and Jeremias was either dead or in Ægypt.",
+              "kind": "gloss"
             }
           ]
         },
@@ -746,7 +770,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>chalky, clay, or lime.</i>"
+              "text": "<i>chalky, clay, or lime.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -796,7 +821,8 @@
           "notes": [
             {
               "label": "f",
-              "text": "Holy Angels do incessantly praise God, and therefore need not to be invited thereto; sensible creatures do not properly praise God, because they have not understanding nor will: but the meaning of this invitation is, to congratulate that Angels do always without intermission praise God, & to exhort all men in consideration of all God's works, spiritual and corporal, to praise him as most worthy to be praised by all men."
+              "text": "Holy Angels do incessantly praise God, and therefore need not to be invited thereto; sensible creatures do not properly praise God, because they have not understanding nor will: but the meaning of this invitation is, to congratulate that Angels do always without intermission praise God, & to exhort all men in consideration of all God's works, spiritual and corporal, to praise him as most worthy to be praised by all men.",
+              "kind": "gloss"
             }
           ]
         },
@@ -862,7 +888,8 @@
           "notes": [
             {
               "label": "g",
-              "text": "Privations of things have also their decent course in the universal state of creatures: Darkness praiseth God, that is, bringeth forth praise in the hearts of considerative men. <i>S. Aug. li. de natura boni c. 16.</i>"
+              "text": "Privations of things have also their decent course in the universal state of creatures: Darkness praiseth God, that is, bringeth forth praise in the hearts of considerative men. <i>S. Aug. li. de natura boni c. 16.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -940,17 +967,19 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>S. Jerome's words.</i>"
+              "text": "<i>S. Jerome's words.</i>",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 91,
-          "text": "Then Nabuchodonosor the king was astonished, and he arose hastily, & said to his nobles: Did we not cast three men <na>(h)</na> fettered into the midst of the fire? Who answering the king, said: It is true o king.",
+          "text": "Then Nabuchodonosor the king was astonied, and he arose hastily, & said to his nobles: Did we not cast three men <na>(h)</na> fettered into the midst of the fire? Who answering the king, said: It is true o king.",
           "notes": [
             {
               "label": "h",
-              "text": "The fire burned their bands, but not their garments nor bodies: so God useth the service of his creatures to give comfort to his servants & not torment. <i>S. Greg. li. 3. c. 18. dialo.</i> Where he writeth the like miracle, when the Goths would have burned S. Benedict."
+              "text": "The fire burned their bands, but not their garments nor bodies: so God useth the service of his creatures to give comfort to his servants & not torment. <i>S. Greg. li. 3. c. 18. dialo.</i> Where he writeth the like miracle, when the Goths would have burned S. Benedict.",
+              "kind": "gloss"
             }
           ]
         },
@@ -960,7 +989,8 @@
           "notes": [
             {
               "label": "i",
-              "text": "This fourth was the Angel that averted the force of the fire from them. <i>v. 49. & 95.</i>"
+              "text": "This fourth was the Angel that averted the force of the fire from them. <i>v. 49. & 95.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -986,7 +1016,8 @@
           "notes": [
             {
               "label": "k",
-              "text": "They were not only restored to their former authority, as prefects <i>over the works. ch. 2. v. 49.</i> but were also more advanced, as this place insinuateth."
+              "text": "They were not only restored to their former authority, as prefects <i>over the works. ch. 2. v. 49.</i> but were also more advanced, as this place insinuateth.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1014,13 +1045,14 @@
           "notes": [
             {
               "label": "a",
-              "text": "It seemeth that Daniel inserted this particular history as the King in his own person & words reported it after his restoration. It is also probable that the King had this dream about the 34. year of his reign. For he reigning in all 43. years, lived seven years among beasts: into which state he fell one year after this dream, <i>v. 26.</i> and lived about a year more or less after his restoration."
+              "text": "It seemeth that Daniel inserted this particular history as the King in his own person & words reported it after his restoration. It is also probable that the King had this dream about the 34. year of his reign. For he reigning in all 43. years, lived seven years among beasts: into which state he fell one year after this dream, <i>v. 26.</i> and lived about a year more or less after his restoration.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 2,
-          "text": "Isaw a dream that made me sore afraid: and my cogitations in my bed, and the visions of my head disturbed me."
+          "text": "I saw a dream that made me sore afraid: and my cogitations in my bed, and the visions of my head disturbed me."
         },
         {
           "verse": 3,
@@ -1052,11 +1084,11 @@
         },
         {
           "verse": 10,
-          "text": "Isaw in the vision of my head upon my bed, & behold a watchman, and an holy one descended from heaven."
+          "text": "I saw in the vision of my head upon my bed, & behold a watchman, and an holy one descended from heaven."
         },
         {
           "verse": 11,
-          "text": "He cried mightily, and thus he said: Cut ye down the tree, & chop off the boughs thereof: shake off the leaves thereof, and scatter the fruits thereof: let the beasts fly that are under it, and the fowls from the boughs thereof."
+          "text": "He cried mightily, and thus he said: Cut ye down the tree, & chop off the boughs thereof: shake off the leaves thereof, and scatter the fruits thereof: let the beasts flee that are under it, and the fowls from the boughs thereof."
         },
         {
           "verse": 12,
@@ -1069,7 +1101,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Seven times signify seven years, because all ordinary varieties of times are in one year."
+              "text": "Seven times signify seven years, because all ordinary varieties of times are in one year.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1087,7 +1120,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "No marvel that the prophet was troubled in mind being loath to declare the calamity which should fall unto the king, and yet must needs utter the truth. And therefore with mild words, wishing the King might escape the evil, which was decreed against him, he maketh his entrance to the true interpretation of the dream."
+              "text": "No marvel that the prophet was troubled in mind being loath to declare the calamity which should fall unto the king, and yet must needs utter the truth. And therefore with mild words, wishing the King might escape the evil, which was decreed against him, he maketh his entrance to the true interpretation of the dream.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1125,7 +1159,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "God's threats being conditional that if sinners truly repent he will pardon all, or part of the punishment, the prophet proposeth the most sovereign remedy of alms deeds that by works of mercy this sinful king, or any other sinner may procure the mercy of God. As indeed this king found mercy after some punishment: the prophet proposeth the sovereign remedy of alms deeds, that by works of mercy, he might procure God's mercy."
+              "text": "God's threats being conditional that if sinners truly repent he will pardon all, or part of the punishment, the prophet proposeth the most sovereign remedy of alms deeds that by works of mercy this sinful king, or any other sinner may procure the mercy of God. As indeed this king found mercy after some punishment: the prophet proposeth the sovereign remedy of alms deeds, that by works of mercy, he might procure God's mercy.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1167,7 +1202,8 @@
           "notes": [
             {
               "label": "e",
-              "text": "Being restored to his wits he went up right, cut his hair"
+              "text": "Being restored to his wits he went up right, cut his hair",
+              "kind": "gloss"
             }
           ]
         },
@@ -1188,7 +1224,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "The ruin of this Baltassar happened in the 17. and last year of his reign: when Daniel was near an hundred years."
+              "text": "The ruin of this Baltassar happened in the 17. and last year of his reign: when Daniel was near an hundred years.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1210,7 +1247,7 @@
         },
         {
           "verse": 6,
-          "text": "Then was the king's face changed, and his cogitations troubled him: and the junctures of his reins were loosed, and his knees were strucken one against the other."
+          "text": "Then was the king's face changed, and his cogitations troubled him: and the junctures of his reins were loosed, and his knees were stricken one against the other."
         },
         {
           "verse": 7,
@@ -1230,7 +1267,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>* the King's mother v. 11.</i>"
+              "text": "<i>* the King's mother v. 11.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -1240,13 +1278,14 @@
           "notes": [
             {
               "label": "b",
-              "text": "All progenitors are commonly called the fathers of their offspring: so Nabuchodonosor is called the father of Baltasar, being his grand father: as may be gathered, <i>Ier. 27. v. 7.</i> where is prophesied that Nabuchodonosor & his son, and son's son should reign over many nations."
+              "text": "All progenitors are commonly called the fathers of their offspring: so Nabuchodonosor is called the father of Baltassar, being his grandfather: as may be gathered, <i>Ier. 27. v. 7.</i> where is prophesied that Nabuchodonosor & his son, and son's son should reign over many nations.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 12,
-          "text": "Because more ample spirit, and prudence, and understanding, & interpretation of dreams, and shewing of secrets, and solution of things bound were found in him, that is, in Daniel: to whom the king gave the name Baltassar. Now therefore let Daniel be called, and he will tell the interpretation."
+          "text": "Because more ample spirit, and prudence, and understanding, & interpretation of dreams, and shewing of secrets, and solution of thing bound were found in him, that is, in Daniel: to whom the king gave the name Baltassar. Now therefore let Daniel be called, and he will tell the interpretation."
         },
         {
           "verse": 13,
@@ -1262,7 +1301,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>* thing written.</i>"
+              "text": "<i>* thing written.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -1280,7 +1320,7 @@
         },
         {
           "verse": 19,
-          "text": "And for the magnificence, which he gave to him, all peoples, tribes, and tongues trembled, and feared him: whom he would he killed: and whom he would, he struck: and whom he would he exalted: and whom he would, he humbled."
+          "text": "And for the magnificence, which he gave to him, all peoples, tribes, and tongues trembled, and feared him: whom he would he killed: and whom he would, he stroke: and whom he would he exalted: and whom he would, he humbled."
         },
         {
           "verse": 20,
@@ -1292,7 +1332,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "His imagination that he was a beast made him forsake the company of men, and to dwell amongst wild beasts. <i>ch. 4.</i>"
+              "text": "His imagination that he was a beast made him forsake the company of men, and to dwell amongst wild beasts. <i>ch. 4.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -1334,7 +1375,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "The Medes being at this time in the siege of Babylon, took their opportunity to assault it this night, when the King and most part of the city were drunk."
+              "text": "The Medes being at this time in the siege of Babylon, took their opportunity to assault it this night, when the King and most part of the city were drunk.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1360,7 +1402,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Darius (King of Medes now also of Chaldees) otherwise called Astyages <i>(ch. 13. v. 65.)</i> reigned but one year, and so Cyrus succeeded."
+              "text": "Darius (King of Medes now also of Chaldees) otherwise called Astyages <i>(ch. 13. v. 65.)</i> reigned but one year, and so Cyrus succeeded.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1382,7 +1425,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "An old and continual malignant practice, to call religion treason: And for that purpose to procure laws or statutes to be enacted."
+              "text": "An old and continual malignant practice, to call religion treason: And for that purpose to procure laws or statutes to be enacted.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1408,7 +1452,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "It is not probable that Daniel opened the windows of purpose, that he might be seen to pray: for so he should have undiscreetly contemned the King, and provoked the infidels to persecute him; but having accustomed to open the windows of his upper chamber, which gave prospect towards Jerusalem, according to Salomon's prayer <i>3. Reg. 8. v. 47. & 48.</i> he observed the same custom still: & was not seen publicly of many, but his enemies <i>searching curiously (v. 11.) found him praying,</i> and accused him of breaking the King's Edict."
+              "text": "It is not probable that Daniel opened the windows of purpose, that he might be seen to pray: for so he should have undiscreetly contemned the King, and provoked the infidels to persecute him; but having accustomed to open the windows of his upper chamber, which gave prospect towards Jerusalem, according to Salomon's prayer <i>3. Reg. 8. v. 47. & 48.</i> he observed the same custom still: & was not seen publicly of many, but his enemies <i>searching curiously (v. 11.) found him praying,</i> and accused him of breaking the King's Edict.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1462,7 +1507,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "To this miracle wrought by the power of God in defence, and for the merits of this holy Prophet, S. Paul alludeth, <i>Heb. 11. v. 33.</i>"
+              "text": "To this miracle wrought by the power of God in defence, and for the merits of this holy Prophet, S. Paul alludeth, <i>Heb. 11. v. 33.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -1476,7 +1522,8 @@
           "notes": [
             {
               "label": "e",
-              "text": "The law of like-punishment is so agreeable to the law of nature, that this Pagan King punished Daniel's accusers, when it appeared to him, that Daniel had not committed treason, but only used his religion and devotion."
+              "text": "The law of like-punishment is so agreeable to the law of nature, that this Pagan King punished Daniel's accusers, when it appeared to him, that Daniel had not committed treason, but only used his religion and devotion.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1508,17 +1555,19 @@
           "notes": [
             {
               "label": "a",
-              "text": "In order of time these two visions were before the histories written in the two precedent chapters."
+              "text": "In order of time these two visions were before the histories written in the two precedent chapters.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 2,
-          "text": "Isaw in my vision by night, and behold <na>(b)</na> the four winds of heaven fought in the great sea.",
+          "text": "I saw in my vision by night, and behold <na>(b)</na> the four winds of heaven fought in the great sea.",
           "notes": [
             {
               "label": "b",
-              "text": "Four winds may signify the great tumults which happen in the beginning of monarchies by wars and bloodshed of much people."
+              "text": "Four winds may signify the great tumults which happen in the beginning of monarchies by wars and bloodshed of much people.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1528,7 +1577,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Four beasts do signify the four Monarchies of the Chaldees, Medes and Persians, the Grecians, & the Romans: as was also signified before in Nabuchodonosor's dream. <i>ch. 2.</i>"
+              "text": "Four beasts do signify the four Monarchies of the Chaldees, Medes and Persians, the Grecians, & the Romans: as was also signified before in Nabuchodonosor's dream. <i>ch. 2.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -1538,7 +1588,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "Alioness's cruelty, and the pride of an eagle do resemble the Chaldee's monarchy."
+              "text": "Alioness's cruelty, and the pride of an eagle do resemble the Chaldees monarchy.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1548,7 +1599,8 @@
           "notes": [
             {
               "label": "e",
-              "text": "Abear of rude shape, & weak sight, content with little and base meat, represented the Medes & Persians."
+              "text": "Abear of rude shape, & weak sight, content with little and base meat, represented the Medes & Persians.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1558,7 +1610,8 @@
           "notes": [
             {
               "label": "f",
-              "text": "The leopard with wings and four heads, signified the speedy victories of the Grecians under Alexander in four quarters of the world: after his death divided into four Kingdoms."
+              "text": "The leopard with wings and four heads, signified the speedy victories of the Grecians under Alexander in four quarters of the world: after his death divided into four Kingdoms.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1568,7 +1621,8 @@
           "notes": [
             {
               "label": "g",
-              "text": "By the fourth beast without name is understood the incomparable power of the Romans: governing first by kingly authority; afterwards by Consuls; then joining to them Tribunes; sometimes Dictators; finally Emperial."
+              "text": "By the fourth beast without name is understood the incomparable power of the Romans: governing first by kingly authority; afterwards by Consuls; then joining to them Tribunes; sometimes Dictators; finally Emperial.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1578,31 +1632,35 @@
           "notes": [
             {
               "label": "h",
-              "text": "The little horn becoming so great and strong, as to overcome all the other, signifieth Antichrist; whose outrageous fury shall continue but a short time. <i>v. 25.</i>"
+              "text": "The little horn becoming so great and strong, as to overcome all the other, signifieth Antichrist; whose outrageous fury shall continue but a short time. <i>v. 25.</i>",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 9,
-          "text": "I beheld till thrones were set, and <na>(i)</na> the ancient of days sat: his vesture white as snow, and the hairs of his head as clean wool: his throne flames of fire: his wheels fire kindled.",
+          "text": "I beheld till thrones were set, and <na>(i)</na> the ancient of days sate: his vesture white as snow, and the hairs of his head as clean wool: his throne flames of fire: his wheels fire kindled.",
           "notes": [
             {
               "label": "i",
-              "text": "God the Father is called the <i>Ancient of days,</i> not as though one Person of the Blessed Trinity were more"
+              "text": "God the Father is called the <i>Ancient of days,</i> not as though one Person of the Blessed Trinity were more",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 10,
-          "text": "Afire & swift stream came forth from his face: <na>(k)</na> thousands of thousands ministered to him, & <na>(l)</na> ten thousand hundred thousands assisted him: judgement sat, and the books were opened.",
+          "text": "A fire & swift stream came forth from his face: <na>(k)</na> thousands of thousands ministered to him, & <na>(l)</na> ten thousand hundred thousands assisted him: judgement sate, and the books were opened.",
           "notes": [
             {
               "label": "k",
-              "text": "By multiplication of these cardinal numbers, is signified the innumerable multitude of Angels: who do exceed all corporal creatures in number, as the celestial spheres exceed terrestrial bodies in greatness."
+              "text": "By multiplication of these cardinal numbers, is signified the innumerable multitude of Angels: who do exceed all corporal creatures in number, as the celestial spheres exceed terrestrial bodies in greatness.",
+              "kind": "gloss"
             },
             {
               "label": "l",
-              "text": "And the highest Hierarchy <i>(who are Assistants)</i> do far exceed the other Hierarchies in multitude. <i>S. Dionys. c. 14. Hierar. coelest. S. Tho. p. 1. q. 112. a. 4.</i>"
+              "text": "And the highest Hierarchy <i>(who are Assistants)</i> do far exceed the other Hierarchies in multitude. <i>S. Dionys. c. 14. Hierar. coelest. S. Tho. p. 1. q. 112. a. 4.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -1620,7 +1678,8 @@
           "notes": [
             {
               "label": "m",
-              "text": "Our Saviour Christ is here clearly prophesied: by whose power Antichrist shall be utterly destroyed."
+              "text": "Our Saviour Christ is here clearly prophesied: by whose power Antichrist shall be utterly destroyed.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1674,7 +1733,8 @@
           "notes": [
             {
               "label": "n",
-              "text": "<i>ch. 12. v. 7. 11. & 12. Apoc. 11. v. 2. & 3. Apoc. 12. v. 6. & 14. & Apoc. 13. v. 5.</i>"
+              "text": "<i>ch. 12. v. 7. 11. & 12. Apoc. 11. v. 2. & 3. Apoc. 12. v. 6. & 14. & Apoc. 13. v. 5.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -1712,21 +1772,24 @@
           "notes": [
             {
               "label": "a",
-              "text": "He insinuateth that this vision was in explication of some part of the former, which he had two years before. <i>ch. 7.</i> where four monarchies are mentioned: so here is foretold the great conflict between the Persians & Grecians, about 220 years after."
+              "text": "He insinuateth that this vision was in explication of some part of the former, which he had two years before. <i>ch. 7.</i> where four monarchies are mentioned: so here is foretold the great conflict between the Persians & Grecians, about 220 years after.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "<i>or river.</i>"
+              "text": "<i>or river.</i>",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 3,
-          "text": "& I lifted up mine eyes, and saw: and behold one <na>(b)</na> ram stood before the marish, having high horns, & one higher than another & growing under.",
+          "text": "& I lifted up mine eyes, and saw: and behold one <na>(b)</na> ram stood before the marrice, having high horns, & one higher than another & growing under.",
           "notes": [
             {
               "label": "b",
-              "text": "The ram represented the King of Persians & Medes."
+              "text": "The ram represented the King of Persians & Medes.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1740,7 +1803,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "The goat signified Alexander the great:"
+              "text": "The goat signified Alexander the great:",
+              "kind": "gloss"
             }
           ]
         },
@@ -1750,11 +1814,12 @@
         },
         {
           "verse": 7,
-          "text": "And when he had approached near the ram, he was wood against him, and struck the ram: and he <na>(d)</na> brake his two horns, and the ram could not resist him: and when he had cast him on the ground, he trod him, and no man could deliver the ram out of his hand.",
+          "text": "And when he had approached near the ram, he was wood against him, and stroke the ram: and he <na>(d)</na> brake his two horns, and the ram could not resist him: and when he had cast him on the ground, he trode him, and no man could deliver the ram out of his hand.",
           "notes": [
             {
               "label": "d",
-              "text": "breaking the two horns, that is conquering the two nations of Persians & Medes."
+              "text": "breaking the two horns, that is conquering the two nations of Persians & Medes.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1764,11 +1829,13 @@
           "notes": [
             {
               "label": "e",
-              "text": "King Alexander died when he was very young and strong not fully 33. years of age."
+              "text": "King Alexander died when he was very young and strong not fully 33. years of age.",
+              "kind": "gloss"
             },
             {
               "label": "f",
-              "text": "Four of his followers possessed every one a Kingdom of his Monarchy."
+              "text": "Four of his followers possessed every one a Kingdom of his Monarchy.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1778,13 +1845,14 @@
           "notes": [
             {
               "label": "g",
-              "text": "Antiochus Epiphanes persecuting the people of God, destroyed the sacrifice, polluted the temple, setting up the image of Jupiter Olympius."
+              "text": "Antiochus Epiphanes persecuting the people of God, destroyed the sacrifice, polluted the temple, setting up the image of Jupiter Olympius.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 10,
-          "text": "And it was magnified even unto the strength of heaven: and it threw down of the strength, and of the stars, and trod them."
+          "text": "And it was magnified even unto the strength of heaven: and it threw down of the strength, and of the stars, and trode them."
         },
         {
           "verse": 11,
@@ -1800,7 +1868,8 @@
           "notes": [
             {
               "label": "h",
-              "text": "One Angel demanded of another to know a thing to come."
+              "text": "One Angel demanded of another to know a thing to come.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1810,7 +1879,8 @@
           "notes": [
             {
               "label": "i",
-              "text": "<i>2300 evenings and mornings,</i> that is, 2300 days, which make six years, & well near four months, the whole time from the beginning of Antiochus' persecution unto his death: for he began to persecute in the year <i>143. 1 Mac. 1. v. 21.</i> & he died, <i>an. 149. 1 Mac. 6. v. 16.</i> within which time <i>an. 148.</i> the temple was purged <i>1. Mac. 4. v. 52.</i>"
+              "text": "<i>2300 evenings and mornings,</i> that is, 2300 days, which make six years, & well near four months, the whole time from the beginning of Antiochus' persecution unto his death: for he began to persecute in the year <i>143. 1 Mac. 1. v. 21.</i> & he died, <i>an. 149. 1 Mac. 6. v. 16.</i> within which time <i>an. 148.</i> the temple was purged <i>1. Mac. 4. v. 52.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -1828,7 +1898,8 @@
           "notes": [
             {
               "label": "k",
-              "text": "Ezechiel is very often called by the name of <i>son of man,</i> here also Daniel is so called by an Angel, as well to distinguish Angelical and human nature, as in honour of mankind, which Christ would assume: & therefore calleth himself by the very same title in the Gospel."
+              "text": "Ezechiel is very often called by the name of <i>son of man,</i> here also Daniel is so called by an Angel, as well to distinguish Angelical and human nature, as in honour of mankind, which Christ would assume: & therefore calleth himself by the very same title in the Gospel.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1858,11 +1929,13 @@
           "notes": [
             {
               "label": "l",
-              "text": "Historically Antiochus; mystically Antichrist, as <i>ch. 22. & Mat. 24.</i>"
+              "text": "Historically Antiochus; mystically Antichrist, as <i>ch. 22. & Mat. 24.</i>",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "<i>* obscure speeches.</i>"
+              "text": "<i>* obscure speeches.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -1880,13 +1953,14 @@
           "notes": [
             {
               "label": "m",
-              "text": "So much as pertained to the profanation of the temple was fulfilled above 300. years after this prophecy: as the same is also a figure of Antichrist, it shall happen towards the end of this world. <i>S. Greg. l. 30. c. 12. Moral.</i>"
+              "text": "So much as pertained to the profanation of the temple was fulfilled above 300. years after this prophecy: as the same is also a figure of Antichrist, it shall happen towards the end of this world. <i>St. Gregory. l. 30. c. 12. Moral.</i>",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 27,
-          "text": "And I Daniel languished, and was sick for certain days: and when I was risen up, I did the king's works, and was astonished at the vision, and there was none that could interpret it."
+          "text": "And I Daniel languished, and was sick for certain days: and when I was risen up, I did the kings works, and was astonied at the vision, and there was none that could interpret it."
         }
       ],
       "summary": "Daniel seeth a ram with two horns overcome by a goat with one horn: 8. Which shall also be broken, and four less rise in place thereof: one of them profaneth the temple in Jerusalem, and taketh away the daily sacrifice. 15. And Gabriel the Archangel expoundeth the vision."
@@ -1900,7 +1974,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Assuerus, or <i>Achasuerus,</i> not a proper name signifieth a great Prince, or head of people."
+              "text": "Assuerus, or <i>Achasuerus,</i> not a proper name signifieth a great Prince, or head of people.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1915,11 +1990,13 @@
           "notes": [
             {
               "label": "b",
-              "text": "Darius had reigned in Persia before this time, but this was the first year of his reign over the Chaldees, and also the last, neither did he reign a full year: for Cyrus reigned some part of the seventieth year of the Jews' captivity in Babylon: in which also Baltassar was slain. Ier. 25. v. 12. & Ier. 29. v. 10. 2. Par. 36. v. 22."
+              "text": "Darius had reigned in Persia before this time, but this was the first year of his reign over the Chaldees, and also the last, neither did he reign a full year: for Cyrus reigned some part of the seventieth year of the Jews' captivity in Babylon: in which also Baltassar was slain. Ier. 25. v. 12. & Ier. 29. v. 10. 2. Par. 36. v. 22.",
+              "kind": "gloss"
             },
             {
               "label": "c",
-              "text": "Daniel seeing the seventieth year of captivity was come, in which God promised to deliver his people, <i>Ier. 29. v. 10.</i> prayed with great zeal, & confidence for their release."
+              "text": "Daniel seeing the seventieth year of captivity was come, in which God promised to deliver his people, <i>Ier. 29. v. 10.</i> prayed with great zeal, & confidence for their release.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1941,7 +2018,7 @@
         },
         {
           "verse": 7,
-          "text": "To thee o Lord, justice: but to us confusion of face, as is today to the man of Juda, and to the inhabiters of Jerusalem, and to all Israel, to them that are near, and to them that are far off in all the lands, to which thou hast cast them out, for their iniquities in which they have sinned against thee."
+          "text": "To thee o Lord, justice: but to us confusion of face, as is to day to the man of Juda, and to the inhabiters of Jerusalem, and to all Israel, to them that are near, and to them that are far off in all the lands, to which thou hast cast them out, for their iniquities in which they have sinned against thee."
         },
         {
           "verse": 8,
@@ -2014,7 +2091,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "This singular devotion with austere works of penance & zeal of his country merited this commendable title to be called, <i>The man of desires.</i>"
+              "text": "This singular devotion with austere works of penance & zeal of his country merited this commendable title to be called, <i>The man of desires.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -2024,11 +2102,13 @@
           "notes": [
             {
               "label": "e",
-              "text": "And whereas he prayed particularly for the release of the Jews from captivity of Babylon, a far greater thing is promised & revealed to him, that within seventy weeks of years (that is 490. years) the Messias Christ will come & redeem mankind from captivity of sin & the devil."
+              "text": "And whereas he prayed particularly for the release of the Jews from captivity of Babylon, a far greater thing is promised & revealed to him, that within seventy weeks of years (that is 490. years) the Messias Christ will come & redeem mankind from captivity of sin & the devil.",
+              "kind": "gloss"
             },
             {
               "label": "f",
-              "text": "These four things <i>(v. 24.)</i> Forgiveness of sins; Infusion of justice; Fulfilling of prophecies; & Anointed Holy of holies agree only to Christ."
+              "text": "These four things <i>(v. 24.)</i> Forgiveness of sins; Infusion of justice; Fulfilling of prophecies; & Anointed Holy of holies agree only to Christ.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2038,11 +2118,13 @@
           "notes": [
             {
               "label": "g",
-              "text": "<i>Hebdomas</i> or <i>Septenarius</i> signifying seven, understood of days importeth a week: of years (as <i>Levi. 25.</i> ) seven years: <i>so seventy weeks 490.</i> years. S. Bed. <i>li. de rat. temp. c. 6. 7. 8.</i>"
+              "text": "<i>Hebdomas</i> or <i>Septenarius</i> signifying seven, understood of days importeth a week: of years (as <i>Levi. 25.</i> ) seven years: <i>so seventy weeks 490.</i> years. S. Bed. <i>li. de rat. temp. c. 6. 7. 8.</i>",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "<i>* troublesome times.</i>"
+              "text": "<i>* troublesome times.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -2071,7 +2153,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Pharao had a vision in sleep, <i>Gen. 41.</i> Baltasar waking, saw a hand writing in the wall, <i>Dan. 5.</i> but neither of them understood their visions, and therefore were not Prophets. Joseph understood the former, & Daniel this other, and so, they were Prophets. For as this text teacheth, <i>understanding is required that a vision be prophetical. S. Tho. 2. 2. q. 175. a. 2. & 4.</i>"
+              "text": "Pharao had a vision in sleep, <i>Gen. 41.</i> Baltassar waking, saw a hand writing in the wall, <i>Dan. 5.</i> but neither of them understood their visions, and therefore were not Prophets. Joseph understood the former, & Daniel this other, and so, they were Prophets. For as this text teacheth, <i>understanding is required that a vision be prophetical. S. Tho. 2. 2. q. 175. a. 2. & 4.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -2089,7 +2172,7 @@
         },
         {
           "verse": 5,
-          "text": "And I lifted up mine eyes, & I saw: and behold a man clothed with linen cloths, & his reins girded with the finest gold:"
+          "text": "And I lifted up mine eyes, & I saw: and behold a man clothed with linen clothes, & his reins girded with the finest gold:"
         },
         {
           "verse": 6,
@@ -2117,7 +2200,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "The Angel repeateth this honourable new title to encourage him being sore frighted."
+              "text": "The Angel repeateth this honourable new title to encourage him being sore frighted.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2127,7 +2211,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>prayers.</i>"
+              "text": "<i>prayers.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -2137,11 +2222,13 @@
           "notes": [
             {
               "label": "c",
-              "text": "The Angel guardian of Persia. <i>S. Ierom, S. Theodoret. S. Gregory.</i>"
+              "text": "The Angel guardian of Persia. <i>S. Ierom, S. Theodoret. S. Gregory.</i>",
+              "kind": "gloss"
             },
             {
               "label": "d",
-              "text": "This Angel for his office sake, not yet knowing God's will in this particular, prayed that the Jews might remain among the Persians for their edification and spiritual good."
+              "text": "This Angel for his office sake, not yet knowing God's will in this particular, prayed that the Jews might remain among the Persians for their edification and spiritual good.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2175,7 +2262,8 @@
           "notes": [
             {
               "label": "e",
-              "text": "Daniel's proper Angel joined his prayers with him for the delivery of the Jews from captivity."
+              "text": "Daniel's proper Angel joined his prayers with him for the delivery of the Jews from captivity.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2185,7 +2273,8 @@
           "notes": [
             {
               "label": "f",
-              "text": "S. Michael the guardian Angel of the whole Church also prayed for the same purpose."
+              "text": "S. Michael the guardian Angel of the whole Church also prayed for the same purpose.",
+              "kind": "gloss"
             }
           ]
         }
@@ -2201,7 +2290,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "The Angel prosecuting his speech to the Prophet sheweth that he had prayed for the King of Persians, from the first time after the overthrow of Babylon, seeing him well affected towards the Jews, as was also the next King Cyrus, who indeed released them."
+              "text": "The Angel prosecuting his speech to the Prophet sheweth that he had prayed for the King of Persians, from the first time after the overthrow of Babylon, seeing him well affected towards the Jews, as was also the next King Cyrus, who indeed released them.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2211,11 +2301,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>* Cambyses. 1. Smerdes magus. Darius Histaspis.</i>"
+              "text": "<i>* Cambyses. 1. Smerdes magus. Darius Histaspis.</i>",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "<i>* Xerxes.</i>"
+              "text": "<i>* Xerxes.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -2225,7 +2317,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>Alexander.</i>"
+              "text": "<i>Alexander.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -2235,11 +2328,13 @@
           "notes": [
             {
               "label": "b",
-              "text": "Scarcely touching other successors of Alexander, the holy scripture here prophesieth of the Kings of Ægypt on the south side of Jury; and Syrians on the North: by whose wars the Jews were most molested."
+              "text": "Scarcely touching other successors of Alexander, the holy scripture here prophesieth of the Kings of Ægypt on the south side of Jury; and Syrians on the North: by whose wars the Jews were most molested.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "<i>* come to his height.</i>"
+              "text": "<i>* come to his height.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -2249,15 +2344,18 @@
           "notes": [
             {
               "label": "c",
-              "text": "<i>Every prophecy (saith S. Iren. li. 4. c. 43.) before it be fulfilled is ænigma, a riddle, or obscure proposition.</i> But when it is past may more easily, sometimes certainly be interpreted. So by histories of things now past he gathereth very probably that by this King of the south was understood Ptolomeus son of Lagus King of Ægypt."
+              "text": "<i>Every prophecy (saith S. Iren. li. 4. c. 43.) before it be fulfilled is ænigma, a riddle, or obscure proposition.</i> But when it is past may more easily, sometimes certainly be interpreted. So by histories of things now past he gathereth very probably that by this King of the south was understood Ptolomeus son of Lagus King of Ægypt.",
+              "kind": "gloss"
             },
             {
               "label": "d",
-              "text": "His son called Ptolomeus Philadelphus excelled his father in power and magnificence."
+              "text": "His son called Ptolomeus Philadelphus excelled his father in power and magnificence.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "<i>King of Ægypt.</i>"
+              "text": "<i>King of Ægypt.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -2267,11 +2365,13 @@
           "notes": [
             {
               "label": "e",
-              "text": "This King of the North seemeth to be Antiochus <i>Theos</i> King of Syria."
+              "text": "This King of the North cometh to be Antiochus <i>Theos</i> King of Syria.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "<i>King of Syria.</i>"
+              "text": "<i>King of Syria.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -2281,7 +2381,8 @@
           "notes": [
             {
               "label": "f",
-              "text": "Ptolomeus Evergetes King of Ægypt invaded and spoiled Syria."
+              "text": "Ptolomeus Evergetes King of Ægypt invaded and spoiled Syria.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2299,7 +2400,8 @@
           "notes": [
             {
               "label": "g",
-              "text": "Seleucus Ceraunus, and Antiochus Magnus sons of Seleucus Callinicus shall raise new wars against Ptolomeus Philopator King of Ægypt, but the elder brother being slain in the way, Antiochus shall prosecute the war."
+              "text": "Seleucus Ceraunus, and Antiochus Magnus sons of Seleucus Callinicus shall raise new wars against Ptolomeus Philopator King of Ægypt, but the elder brother being slain in the way, Antiochus shall prosecute the war.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2313,7 +2415,8 @@
           "notes": [
             {
               "label": "h",
-              "text": "He shall invade and kill many, but not prevail."
+              "text": "He shall invade and kill many, but not prevail.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2323,7 +2426,7 @@
         },
         {
           "verse": 14,
-          "text": "And in those times many shall rise up against the king of the South, <na>(i)</na> the children also of the prevaricators of thy people shall be extolled to fulfill the vision, and they shall fall. <cr>[1]</cr>",
+          "text": "And in those times many shall rise up against the king of the South, <na>(i)</na> the children also of the prevaricators of thy people shall be extolled to fulfil the vision, and they shall fall. <cr>[1]</cr>",
           "cross_refs": [
             {
               "text": "Isa. 19. v. 19."
@@ -2332,7 +2435,8 @@
           "notes": [
             {
               "label": "i",
-              "text": "Many Jews deceived by Onias flying into Ægypt shall erect a temple and sacrifice, falsely avouching that they fulfil the prophecy of Isaie. ch. 19. v. 19."
+              "text": "Many Jews deceived by Onias fleeing into Ægypt shall erect a temple and sacrifice, falsely avouching that they fulfil the prophecy of Isaie. ch. 19. v. 19.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2366,7 +2470,8 @@
           "notes": [
             {
               "label": "k",
-              "text": "According to the history all expositers understand this of Antiochus Epiphanes, who lived and died basely: but mystically of Antichrist, very potent & glorious in this world, yet shall have base beginning and an ignominious end."
+              "text": "According to the history all expositers understand this of Antiochus Epiphanes, who lived and died basely: but mystically of Antichrist, very potent & glorious in this world, yet shall have base beginning and an ignominious end.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2376,7 +2481,8 @@
           "notes": [
             {
               "label": "l",
-              "text": "This title <i>Prince of the league</i> or covenant, pertaineth directly to Antichrist: who will join himself with the Jews pretending to observe the law of Moyses and so they will receive him as their Messias. <i>Ioan. 5. v. 43. S. Ireneus li. 5. c. 25. S. Ierom. & alii.</i>"
+              "text": "This title <i>Prince of the league</i> or covenant, pertaineth directly to Antichrist: who will join himself with the Jews pretending to observe the law of Moyses and so they will receive him as their Messias. <i>Ioan. 5. v. 43. Irenæus li. 5. c. 25. S. Ierom. & alii.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -2418,7 +2524,8 @@
           "notes": [
             {
               "label": "m",
-              "text": "Even in the hottest persecution of Antiochus, Nero, or Antichrist, some shall constantly confess true religion."
+              "text": "Even in the hottest persecution of Antiochus, Nero, or Antichrist, some shall constantly confess true religion.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2452,7 +2559,8 @@
           "notes": [
             {
               "label": "n",
-              "text": "The god of power or strength, either Jupiter the Grecians' great god, or their own strength, wherein Antiochus, & Antichrist shall trust."
+              "text": "The god of power or strength, either Jupiter the Grecians' great god, or their own strength, wherein Antiochus, & Antichrist shall trust.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2486,7 +2594,8 @@
           "notes": [
             {
               "label": "o",
-              "text": "His royal tabernacle or palace, between the dead sea & the Mediterranean."
+              "text": "His royal tabernacle or palace, between the dead sea & the Mediterranean.",
+              "kind": "gloss"
             }
           ]
         }
@@ -2502,7 +2611,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "S. Michael the Guardian Angel & protector of the Jews in the old Testament. <i>c. 10. v. 13. & 21.</i> & now of the Church of Christ, will defend the same against Antichrist invisibly as the Ecclesiastical pastors shall do visibly."
+              "text": "S. Michael the Guardian Angel & protector of the Jews in the old Testament. <i>ch. 10. v. 13. & 21.</i> & now of the Church of Christ, will defend the same against Antichrist invisibly as the Ecclesiastical pastors shall do visibly.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2512,7 +2622,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "All shall rise in body, but all shall not <i>be changed</i> into better. <i>1. Cor. 15. v. 51.</i>"
+              "text": "All shall rise in body, but all shall not <i>be changed</i> into better. <i>1. Cor. 15. v. 51.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -2522,11 +2633,13 @@
           "notes": [
             {
               "label": "c",
-              "text": "A glorious <i>Aureola</i> or accidental reward (besides the essential beatitude) shall be given to those that duly perform the office of pastors, in teaching others, as there is another like to Martyrs, & another to Virgins."
+              "text": "A glorious <i>Aureola</i> or accidental reward (besides the essential beatitude) shall be given to those that duly perform the office of pastors, in teaching others, as there is another like to Martyrs, & another to Virgins.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "<i>* in the law of God.</i>"
+              "text": "<i>* in the law of God.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -2536,7 +2649,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "Daniel's prophecy is shut & sealed, not to be interpreted by human wit, but by the spirit of God, wherewith the Church is illuminated, taught, governed, moved, & vivificated: <i>S. Iero. in Gal.</i>"
+              "text": "Daniel's prophecy is shut & sealed, not to be interpreted by human wit, but by the spirit of God, wherewith the Church is illuminated, taught, governed, moved, & vivificated: <i>S. Iero. in Gal.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -2555,7 +2669,8 @@
           "notes": [
             {
               "label": "e",
-              "text": "Atime ordinarily signifieth one year, as <i>ch. 4. v. 13.</i> so here is signified the space of three years and a half, as. <i>ch. 7.</i> and <i>Apo. 12. v. 14. &c.</i>"
+              "text": "A time ordinarily signifieth one year, as <i>ch. 4. v. 13.</i> so here is signified the space of three years and a half, as. <i>ch. 7.</i> and <i>Apoc. 12. v. 14. &c.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -2582,7 +2697,8 @@
           "notes": [
             {
               "label": "f",
-              "text": "From the taking away <i>of the daily sacrifice,</i> and placing of <i>abomination</i> (to wit the practice of heresy) <i>to desolation,</i> that is, abolishing of much as is possible, the holy Sacrifice of Mass, to the end of that persecution shall be 1290. days."
+              "text": "From the taking away <i>of the daily sacrifice,</i> and placing of <i>abomination</i> (to wit the practice of heresy) <i>to desolation,</i> that is, abolishing of much as is possible, the holy Sacrifice of Mass, to the end of that persecution shall be 1290. days.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2592,7 +2708,8 @@
           "notes": [
             {
               "label": "g",
-              "text": "Why <i>45.</i> days are added to the former number, is marvelous obscure: neither may we presume amongst diverse expositions, to censure which seemeth most probable."
+              "text": "Why <i>45.</i> days are added to the former number, is marvellous obscure: neither may we presume amongst divers expositions, to censure which seemeth most probable.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2602,7 +2719,8 @@
           "notes": [
             {
               "label": "h",
-              "text": "But we are content to go away with Daniel ( <i>v. 9.</i> and <i>13.</i> ) without further searching the profound sense of so high mysteries."
+              "text": "But we are content to go away with Daniel ( <i>v. 9.</i> and <i>13.</i> ) without further searching the profound sense of so high mysteries.",
+              "kind": "gloss"
             }
           ]
         }
@@ -2618,7 +2736,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "S. Athanasius <i>in Synopsi,</i> reciteth this history in the beginning of Daniel. And <i>S. Aug. ser. 242. de tem.</i> supposeth that Daniel about the age of twelve years endued with the spirit of prophecy, discovered the malicious falsehood of them, that accused Susanna."
+              "text": "S. Athanasius <i>in Synopsi,</i> reciteth this history in the beginning of Daniel. And <i>S. Aug. ser. 242. de tem.</i> supposeth that Daniel about the age of twelve years indued with the spirit of prophecy, discovered the malicious falsehood of them, that accused Susanna.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2640,7 +2759,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "In the transmigration which was made in the third year of Ioakim King of Juda, the Jews were better entreated, and had their own judicial tribunal, and other privileges, until the captivity, which happened about <i>19.</i> years after, in the eleventh year of Sedecias. At which time they were brought into much more bondage."
+              "text": "In the transmigration which was made in the third year of Ioakim King of Juda, the Jews were better entreated, and had their own judicial tribunal, and other privileges, until the captivity, which happened about <i>19.</i> years after, in the eleventh year of Sedecias. At which time they were brought into much more bondage.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2742,7 +2862,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "For more colour of just proceeding, these wicked men gave their false testimony & sentence before the people."
+              "text": "For more colour of just proceeding, these wicked men gave their false testimony & sentence before the people.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2784,7 +2905,7 @@
         },
         {
           "verse": 39,
-          "text": "And him indeed we could not take, because he was stronger than we, and opening the doors he lept out:"
+          "text": "And him in deed we could not take, because he was stronger than we, and opening the doors he lept out:"
         },
         {
           "verse": 40,
@@ -2796,7 +2917,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "The people gave their opinions that she deserved death, but the false Judges gave sentence. For so the form of the law required, which they pretended to fulfill. <i>Lev. 20. Deut. 22.</i>"
+              "text": "The people gave their opinions that she deserved death, but the false Judges gave sentence. For so the form of the law required, which they pretended to fulfill. <i>Lev. 20. Deut. 22.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -2818,7 +2940,8 @@
           "notes": [
             {
               "label": "e",
-              "text": "Daniel by the gift of prophecy saw & declared that she was innocent."
+              "text": "Daniel by the gift of prophecy saw & declared that she was innocent.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2828,7 +2951,8 @@
           "notes": [
             {
               "label": "f",
-              "text": "Whereas therefore the people had consented to her death, he denied his consent, & undertook to convince the false witnesses: as he did. <i>v. 54. & 58.</i>"
+              "text": "Whereas therefore the people had consented to her death, he denied his consent, & undertook to convince the false witnesses: as he did. <i>v. 54. & 58.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -2916,7 +3040,8 @@
           "notes": [
             {
               "label": "g",
-              "text": "By this first prophetical act, Daniel began worthily to be esteemed."
+              "text": "By this first prophetical act, Daniel began worthily to be esteemed.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2926,7 +3051,8 @@
           "notes": [
             {
               "label": "h",
-              "text": "This last verse, of Astyages otherwise called Darius, and of Cyrus succeeding him, pertaineth to the ninth chapter. And here mention is made of them, to signify that Daniel beginning to prophesy in his childhood, continued even to old age. For between this history of Susanna and the death of Darius were about ninety years."
+              "text": "This last verse, of Astyages otherwise called Darius, and of Cyrus succeeding him, pertaineth to the ninth chapter. And here mention is made of them, to signify that Daniel beginning to prophesy in his childhood, continued even to old age. For between this history of Susanna and the death of Darius were about ninety years.",
+              "kind": "gloss"
             }
           ]
         }
@@ -2948,7 +3074,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "It seemeth most probable that this King was Evilmerodach, who favoured the Jews, and delivered Jechonias (otherwise called Ioachin) out of prison. <i>4. Reg. 25. v. 27.</i>"
+              "text": "It seemeth most probable that this King was Evilmerodach, who favoured the Jews, and delivered Jechonias (otherwise called Ioachin) out of prison. <i>4. Reg. 25. v. 27.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -2963,7 +3090,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "<i>* amphoræ.</i>"
+              "text": "<i>* amphoræ.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -2973,7 +3101,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Which supposed, Daniel was now about the age of 55. years. For being carried into Babylon at the age of ten years, was there 8. years before Ioachin, who was there 37. years before he was delivered from prison, which make in all 55."
+              "text": "Which supposed, Daniel was now about the age of 55. years. For being carried into Babylon at the age of ten years, was there 8. years before Ioachin, who was there 37. years before he was delivered from prison, which make in all 55.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3055,7 +3184,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Not only the Babylonians as is manifest in many places, but also the Romans and most nations worshipped Bel for a great god: But it is more wonderful that both the Chaldees and the Romans, otherwise most wise, worshipped a serpent, or dragon, a beast naturally most hating men, & most abhorred by all men. The cause of this blindness can be no other but God's just punishment, suffering them for their abominable pride, and other sins to fall into sottish conceits, as to think, that serpents could either greatly benefit them, or by such worship be appeased, and cease from annoying them. As Valerius writeth. <i>li. 1. c. 8.</i> S. Augustine also <i>li. 14. c. 11. Civit.</i> & many others testify the same."
+              "text": "Not only the Babylonians as is manifest in many places, but also the Romans and most nations worshipped Bel for a great god: But it is more wonderful that both the Chaldees and the Romans, otherwise most wise, worshipped a serpent, or dragon, a beast naturally most hating men, & most abhorred by all men. The cause of this blindness can be no other but God's just punishment, suffering them for their abominable pride, and other sins to fall into sottish conceits, as to think, that serpents could either greatly benefit them, or by such worship be appeased, and cease from annoying them. As Valerius writeth. <i>li. 1. c. 8.</i> S. Augustine also <i>li. 14. c. 11. Civit.</i> & many others testify the same.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3101,7 +3231,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "Although about 20. years before, there was no Prophet in Jury (ch. 3. v. 38.) yet now this Habacuc was endued with the spirit of prophecy. As for Habacuc, the eighth in order of the less Prophets, he prophesied before the captivity: yea before the Chaldees became a Monarchy. As appeareth <i>Hab. 1. v. 6.</i>"
+              "text": "Although about 20. years before, there was no Prophet in Jury (ch. 3. v. 38.) yet now this Habacuc was indued with the spirit of prophecy. As for Habacuc, the eighth in order of the lesser Prophets, he prophesied before the captivity: yea before the Chaldees became a Monarchy. As appeareth <i>Hab. 1. v. 6.</i>",
+              "kind": "gloss"
             }
           ]
         },

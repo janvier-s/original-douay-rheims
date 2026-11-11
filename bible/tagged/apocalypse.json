@@ -75,7 +75,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle upon Michaelmas day Septemb. 29, & on the Apparition of S. Michael <i>Mai. 8.</i>"
+              "text": "The Epistle upon Michaelmas day Septemb. 29, & on the Apparition of S. Michael <i>Mai. 8.</i>",
+              "kind": "lectionary"
             }
           ]
         },
@@ -89,7 +90,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "There be many (specially now a days) that be great readers, hearers and talkers of Scriptures, but that is not enough to make them good or blessed before God, except they keep the things prescribed and taught therein, according to our Saviour's saying <i>(Luc. 11.)</i> Blessed are they that hear the word of God, and keep it."
+              "text": "There be many (specially now a days) that be great readers, hearers and talkers of Scriptures, but that is not enough to make them good or blessed before God, except they keep the things prescribed and taught therein, according to our Saviour's saying <i>(Luc. 11.)</i> Blessed are they that hear the word of God, and keep it.",
+              "kind": "gloss"
             }
           ]
         },
@@ -122,6 +124,10 @@
           "cross_refs": [
             {
               "text": "1. Pet. 1."
+            },
+            {
+              "text": "1 Pet. 1. 1 Pet. 2",
+              "source": "sancta"
             }
           ]
         },
@@ -149,7 +155,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Banished thither for religion by Nero, or rather by Domitian, almost <i>60.</i> years after Christ's Ascension."
+              "text": "Banished thither for religion by Nero, or rather by Domitian, almost <i>60.</i> years after Christ's Ascension.",
+              "kind": "gloss"
             }
           ]
         },
@@ -160,7 +167,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c I had a vision, & not with my corporal eyes, but in spirit I beheld the similitudes of the things following."
+              "text": "c I had a vision, & not with my corporal eyes, but in spirit I beheld the similitudes of the things following.",
+              "kind": "gloss"
             }
           ]
         },
@@ -174,7 +182,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "b The 1. GENERAL VISION of the 7 according to S. Ambrose."
+              "text": "b The 1. GENERAL VISION of the 7 according to S. Ambrose.",
+              "kind": "head"
             }
           ]
         },
@@ -190,7 +199,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "It seemeth not to be Christ himself; but an Angel bearing Christ's person; & using diverse speeches proper to Christ."
+              "text": "It seemeth not to be Christ himself; but an Angel bearing Christ's person; & using divers speeches proper to Christ.",
+              "kind": "gloss"
             }
           ]
         },
@@ -230,7 +240,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "S. Irenæus alluding to this saith, <i>The Church everywhere preacheth the truth, & this is the seven-fold candlestick, bearing the light of Christ</i> &c. Li. <i>5. advers. hær.</i>"
+              "text": "S. Irenæus alluding to this saith, <i>The Church everywhere preacheth the truth, & this is the sevenfold candlestick, bearing the light of Christ</i> &c. Li. <i>5. advers. hær.</i>",
+              "kind": "gloss"
             }
           ]
         }
@@ -253,7 +264,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "That which before he willed him to write to the Church, he now willeth to be written to the Angels or Bishops of the same only. Where we see, it is all one, to the Church, and to the head or governor thereof."
+              "text": "That which before he willed him to write to the Church, he now willeth to be written to the Angels or Bishops of the same only. Where we see, it is all one, to the Church, and to the head or governor thereof.",
+              "kind": "gloss"
             }
           ]
         },
@@ -272,7 +284,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "By this we see is plainly refuted that which some Heretics hold, that a man once in grace or charity can never fall from it."
+              "text": "By this we see is plainly refuted that which some Heretics hold, that a man once in grace or charity can never fall from it.",
+              "kind": "gloss"
             }
           ]
         },
@@ -305,7 +318,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "This Church representeth the state of them that are spoiled of their goods, imprisoned, & manifoldly afflicted for the Catholic faith."
+              "text": "This Church representeth the state of them that are spoiled of their goods, imprisoned, & manifoldly afflicted for the Catholic faith.",
+              "kind": "gloss"
             }
           ]
         },
@@ -315,7 +329,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The singular reward of Martyrdom."
+              "text": "The singular reward of Martyrdom.",
+              "kind": "gloss"
             }
           ]
         },
@@ -325,7 +340,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The death of the body is the first death: the death of the soul, the second, which Martyrs are surest to escape of all men."
+              "text": "The death of the body is the first death: the death of the soul, the second, which Martyrs are surest to escape of all men.",
+              "kind": "gloss"
             }
           ]
         },
@@ -339,7 +355,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The special residence of Satan is where the faithful are persecuted for Christ's truth. Where not to deny the Cath. faith for fear, is much here commended."
+              "text": "The special residence of Satan is where the faithful are persecuted for Christ's truth. Where not to deny the Catholic. faith for fear, is much here commended.",
+              "kind": "gloss"
             }
           ]
         },
@@ -351,6 +368,9 @@
             {
               "text": "Nu. 24, 14. 25, 2."
             }
+          ],
+          "xrefs": [
+            "Nu. 24, 14. 25, 2."
           ]
         },
         {
@@ -367,7 +387,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>c ψῆφον calculum</i>"
+              "text": "<i>c ψῆφον calculum</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -381,7 +402,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "None of these are any thing worth without the other."
+              "text": "None of these are any thing worth without the other.",
+              "kind": "gloss"
             }
           ]
         },
@@ -407,7 +429,7 @@
         },
         {
           "verse": 23,
-          "text": "and her children I will kill with death, & all the Churches shall know <cr>[1]</cr> that I am he that searcheth the reins & hearts, & I will give to every one of you <na>[2]</na> according to his works.",
+          "text": "and her children I will kill unto death, & all the Churches shall know <cr>[1]</cr> that I am he that searcheth the reins & hearts, & I will give to every one of you <na>[2]</na> according to his works.",
           "cross_refs": [
             {
               "text": "1. Reg. 16. Ps. 7, 10. Ier. 11, 20."
@@ -416,7 +438,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "Who seeth not here that good works deserve salvation, as ill works damnation: and that it is not faith alone that God rewardeth, but that faith which worketh by charity?"
+              "text": "Who seeth not here that good works deserve salvation, as ill works damnation: and that it is not faith alone that God rewardeth, but that faith which worketh by charity?",
+              "kind": "gloss"
             }
           ]
         },
@@ -426,7 +449,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>depths</i>"
+              "text": "<i>depths</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -454,7 +478,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "This great privilege of Saints riseth of the power and preeminence of Christ, which his father gave him according to his humanity; and therefore to deny it to Saints, is to"
+              "text": "This great privilege of Saints riseth of the power and pre-eminence of Christ, which his father gave him according to his humanity; and therefore to deny it to Saints, is to",
+              "kind": "gloss"
             }
           ]
         },
@@ -491,11 +516,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "c Such as have not committed deadly sin after Baptism."
+              "text": "c Such as have not committed deadly sin after Baptism.",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "note that there is in man a worthiness of the joys of heaven, by holy life: and this is a common speech in holy Scripture, that man is worthy of God, of heaven, of salvation."
+              "text": "note that there is in man a worthiness of the joys of heaven, by holy life: and this is a common speech in holy Scripture, that man is worthy of God, of heaven, of salvation.",
+              "kind": "gloss"
             }
           ]
         },
@@ -549,11 +576,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "c ὁ ἀμήν"
+              "text": "c ὁ ἀμήν",
+              "kind": "word"
             },
             {
               "label": "2",
-              "text": "Ecclesiastici 24, 9. 14. Col. 1, 15."
+              "text": "Ecclesiastici 24, 9. 14. Col. 1, 15.",
+              "kind": "gloss"
             }
           ]
         },
@@ -589,7 +618,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "God first calleth upon man and knocketh at the door of his heart: that is to say, offereth his grace. And it lieth in man to give consent by free-will holpen also by his grace."
+              "text": "God first calleth upon man and knocketh at the door of his heart: that is to say, offereth his grace. And it lieth in man to give consent by free-will holpen also by his grace.",
+              "kind": "gloss"
             }
           ]
         },
@@ -613,7 +643,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "THE 2. VISION. In which is represented unto us the glory and majesty of God in heaven, and the incessant honour & praises of all Angels and Saints assisting him. Which is resembled in the daily honour done to him by all orders and sorts of holy men in the Church militant also."
+              "text": "THE 2. VISION. In which is represented unto us the glory and majesty of God in heaven, and the incessant honour & praises of all Angels and Saints assisting him. Which is resembled in the daily honour done to him by all orders and sorts of holy men in the Church militant also.",
+              "kind": "head"
             }
           ]
         },
@@ -639,7 +670,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "These four beasts, and the like described <i>Ezech. 1.</i> by the judgement of the holy Doctors signify the 4 Evangelists, and in them all true Preachers. The man, Matthew, the lion, Mark: the calf, Luke: the eagle, John. See the causes hereof in the Sum of the 4 Evangelists. <i>pag. 1. S. Grego. in 1. Ezech.</i>"
+              "text": "These four beasts, and the like described <i>Ezech. 1.</i> by the judgement of the holy Doctors signify the 4 Evangelists, and in them all true Preachers. The man, Matthew, the lion, Mark: the calf, Luke: the eagle, John. See the causes hereof in the Sum of the 4 Evangelist. <i>pag. 1. S. Grego. in 1. Ezech.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -655,6 +687,9 @@
             {
               "text": "Esa. 6, 3."
             }
+          ],
+          "xrefs": [
+            "Es. 6, 3."
           ]
         },
         {
@@ -687,11 +722,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "THE 3 VISION."
+              "text": "THE 3 VISION.",
+              "kind": "head"
             },
             {
               "label": "2",
-              "text": "S. Gregory taketh it to be the book of holy Scripture <i>li. 4. Dialog. c. 42.</i>"
+              "text": "S. Gregory taketh it to be the book of holy Scripture <i>li. 4. Dialog. c. 42.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -705,7 +742,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "He speaketh not of the damned in Hell, of whom there could be no question: but of the faithful in Abraham's bosom; & in Purgatory."
+              "text": "He speaketh not of the damned in Hell, of whom there could be no question: but of the faithful in Abraham's bosom; & in Purgatory.",
+              "kind": "gloss"
             }
           ]
         },
@@ -724,8 +762,12 @@
           "notes": [
             {
               "label": "2",
-              "text": "c So did Jacob <i>(Gen. 49.)</i> call Christ, for his kingly fortitude in subduing the world unto him."
+              "text": "c So did Jacob <i>(Gen. 49.)</i> call Christ, for his kingly fortitude in subduing the world unto him.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Gen. 49, 9."
           ]
         },
         {
@@ -734,11 +776,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "b The Epistle upon All-Hallows eve."
+              "text": "b The Epistle upon All-Hallows eve.",
+              "kind": "lectionary"
             },
             {
               "label": "2",
-              "text": "So Christ is called for that he is the immaculate host or sacrifice for our sins."
+              "text": "So Christ is called for that he is the immaculate host or sacrifice for our sins.",
+              "kind": "gloss"
             }
           ]
         },
@@ -757,7 +801,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "This maketh against the Calvinists who are not content to say that we merit not, but that Christ merited not for himself. Calv. <i>Philip. 2. v. 9.</i>"
+              "text": "This maketh against the Calvinists who are not content to say that we merit not, but that Christ merited not for himself. Calv. <i>Philip. 2. v. 9.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -773,7 +818,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "<i>kings</i>"
+              "text": "<i>kings</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -788,7 +834,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "The Epistle in a votive Mass of the holy Angels."
+              "text": "The Epistle in a votive Mass of the holy Angels.",
+              "kind": "gloss"
             }
           ]
         },
@@ -798,7 +845,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>riches</i>"
+              "text": "<i>riches</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -814,8 +862,12 @@
           "notes": [
             {
               "label": "2",
-              "text": "All the said creatures are bound to give honour, not only to God, but to Christ as man, and our Redeemer: & so they here do."
+              "text": "All the said creatures are bound to give honour, not only to God, but to Christ as man, and our Redeemer: & so they here do.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Apoc. 4, 11."
           ]
         },
         {
@@ -877,7 +929,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "This one stole signifieth the glory or bliss of the soul only, but at the day of judgement they shall have it doubled by adding the glory of their body also."
+              "text": "This one stole signifieth the glory or bliss of the soul only, but at the day of judgement they shall have it doubled by adding the glory of their body also.",
+              "kind": "gloss"
             }
           ]
         },
@@ -887,7 +940,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c The tribulation that shall fall in the time of Antichrist."
+              "text": "c The tribulation that shall fall in the time of Antichrist.",
+              "kind": "gloss"
             }
           ]
         },
@@ -910,6 +964,9 @@
             {
               "text": "Osee. 10. Lu. 23, 50."
             }
+          ],
+          "xrefs": [
+            "Lu. 23, 50."
           ]
         },
         {
@@ -932,7 +989,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "b The Epistle upon All Hallows day."
+              "text": "b The Epistle upon All Hallows day.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -942,7 +1000,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "It is an allusion to the sign of the Cross which the faithful bear in their foreheads, to shew they be not ashamed of Christ. <i>S. August. tract. 43. in lo.</i>"
+              "text": "It is an allusion to the sign of the Cross which the faithful bear in their foreheads, to shew they be not ashamed of Christ. <i>S. August. tract. 43. in lo.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -952,7 +1011,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c Of all the tribes put together, so many, 144000."
+              "text": "c Of all the tribes put together, so many, 144000.",
+              "kind": "gloss"
             }
           ]
         },
@@ -962,7 +1022,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "He signifieth by these thousands and the multitude following, all the elect: but the elect of the Jews, to be in a certain number: the elect of the Gentiles to be innumerable."
+              "text": "He signifieth by these thousands and the multitude following, all the elect: but the elect of the Jews, to be in a certain number: the elect of the Gentiles to be innumerable.",
+              "kind": "gloss"
             }
           ]
         },
@@ -984,11 +1045,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "c The elect of the Gentiles."
+              "text": "c The elect of the Gentiles.",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "Boughs of the palm tree be tokens of triumph and victory."
+              "text": "Boughs of the palm tree be tokens of triumph and victory.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1002,7 +1065,7 @@
         },
         {
           "verse": 12,
-          "text": "saying, Amen. Benediction, and glory, and wisdom, and thanks-giving, honour and power and strength to our God for ever and ever. Amen."
+          "text": "saying, Amen. Benediction, and glory, and wisdom, and thanksgiving, honour and power and strength to our God for ever and ever. Amen."
         },
         {
           "verse": 13,
@@ -1010,7 +1073,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle for many Martyrs."
+              "text": "The Epistle for many Martyrs.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1024,7 +1088,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The glory of Martyrs."
+              "text": "The glory of Martyrs.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1044,6 +1109,9 @@
             {
               "text": "Esa. 25, 8. Apo. 21, 4."
             }
+          ],
+          "xrefs": [
+            "Es. 25, 8. Apo. 21, 4."
           ]
         }
       ],
@@ -1058,7 +1126,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "THE 4. VISION."
+              "text": "THE 4. VISION.",
+              "kind": "head"
             }
           ]
         },
@@ -1072,7 +1141,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Priest standing at the altar praying & offering for the people in the time of the high mysteries, Christ himself also being present upon the altar, is a figure of this thing, & thereunto he alludeth."
+              "text": "The Priest standing at the altar praying & offering for the people in the time of the high mysteries, Christ himself also being present upon the altar, is a figure of this thing, & thereunto he alludeth.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1082,13 +1152,14 @@
           "notes": [
             {
               "label": "1",
-              "text": "c If this be S. Michael or any Angel, and not Christ himself, as some take it, Angels offer up the prayers of the faithful, as the 24 Elders did chap. 5. For this word, <i>Saints</i>, is taken here for the holy persons on earth, as often in the Scripture: though it be not against the Scriptures, that the inferior Saint or Angel in heaven should offer their prayers to God by their superiors there. But hereby we conclude against the Protestants, that it derogateth not from Christ, that Angels or Saints offer our prayers to God, as also is plain of Raphael <i>Tob. 12, 12.</i>"
+              "text": "c If this be S. Michael or any Angel, and not Christ himself, as some take it, Angels offer up the prayers of the faithful, as the 24 Elders did chap. 5. For this word, <i>Saints</i>, is taken here for the holy persons on earth, as often in the Scripture: though it be not against the Scriptures, that the inferior Saint or Angel in heaven should offer their prayers to God by their superiors there. But hereby we conclude against the Protestants, that it derogateth not from Christ, that Angels or Saints offer our prayers to God, as also is plain of Raphael <i>Tob. 12, 12.</i>",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 5,
-          "text": "And the Angel took the censer, & filled it of the fire of the altar, and cast it on the earth, and there were made thunders & voices and lightnings, and a great earth-quake."
+          "text": "And the Angel took the censer, & filled it of the fire of the altar, and cast it on the earth, and there were made thunders & voices and lightnings, and a great earthquake."
         },
         {
           "verse": 6,
@@ -1112,7 +1183,7 @@
         },
         {
           "verse": 11,
-          "text": "and the name of the star is called worm-wood. And the third part of the waters was made into worm-wood: and many men died of the waters, because they were made bitter."
+          "text": "and the name of the star is called wormwood. And the third part of the waters was made into worm-wood: and many men died of the waters, because they were made bitter."
         },
         {
           "verse": 12,
@@ -1134,11 +1205,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "Most understand all this of Heretics."
+              "text": "Most understand all this of Heretics.",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "The fall of an Arch heretic, as Arius, Luther, Calvin, out of the Church of God. Which have the key of Hell to open & bring forth all the old condemned heresies buried before in the depth."
+              "text": "The fall of an Arch heretic, as Arius, Luther, Calvin, out of the Church of God. Which have the key of Hell to open & bring forth all the old condemned heresies buried before in the depth.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1152,7 +1225,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c Innumerable petty heretics following their Masters after the opening & the smoke of the bottomless pit."
+              "text": "c Innumerable petty heretics following their Masters after the opening & the smoke of the bottomless pit.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1167,7 +1241,7 @@
         },
         {
           "verse": 6,
-          "text": "And <cr>[1]</cr> in those days men shall seek for death, and shall not find it: and they shall desire to die, & death shall fly from them.",
+          "text": "And <cr>[1]</cr> in those days men shall seek for death, and shall not find it: and they shall desire to die, & death shall flee from them.",
           "cross_refs": [
             {
               "text": "Apoc. 6, 16."
@@ -1181,7 +1255,7 @@
         },
         {
           "verse": 8,
-          "text": "And they had hair as the hair of women; & their teeth were as of lion's."
+          "text": "And they had hair as the hair of women; & their teeth were as of lions."
         },
         {
           "verse": 9,
@@ -1189,7 +1263,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>c coats of mail, or other coats of fence.</i>"
+              "text": "<i>c coats of mail, or other coats of fence.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -1203,11 +1278,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "The chief Master of heretics."
+              "text": "The chief Master of heretics.",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "<i>אבדוןἀπολλύων,</i> In English, <i>Destroyer.</i>"
+              "text": "<i>אבדוןἀπολλύων,</i> In English, <i>Destroyer.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -1229,11 +1306,11 @@
         },
         {
           "verse": 16,
-          "text": "And the number of the army of horse-men was twenty thousand times ten thousand. And I heard the number of them."
+          "text": "And the number of the army of horsemen was twenty thousand times ten thousand. And I heard the number of them."
         },
         {
           "verse": 17,
-          "text": "And so I saw the horses in the vision: and they that sat upon them, had habergeons of fire and of hyacinth and brimstone, and the heads of the horses were as it were the heads of lions: and from their mouth proceedeth fire, and smoke, and brimstone."
+          "text": "And so I saw the horses in the vision: and they that sate upon them, had habergeons of fire and of hyacinth and brimstone, and the heads of the horses were as it were the heads of lions: and from their mouth proceedeth fire, and smoke, and brimstone."
         },
         {
           "verse": 18,
@@ -1250,11 +1327,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "c Pagans, Infidels, and sinful impenitent Catholics must be condemned also."
+              "text": "c Pagans, Infidels, and sinful impenitent Catholics must be condemned also.",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "This phrase being the like both in Greek and Latin, signifieth such sorrowful & penal repentance as causeth a man to forsake his former sins and depart from them. <i>ὀυ μετενόησαν ἐκ τῶν ἔργων.</i> See the same phrase. <i>c. 2, 21. 22. & Act. 8. v. 22.</i>"
+              "text": "This phrase being the like both in Greek and Latin, signifieth such sorrowful & penal repentance as causeth a man to forsake his former sins and depart from them. <i>ὀυ μετενόησαν ἐκ τῶν ἔργων.</i> See the same phrase. <i>c. 2, 21. 22. & Act. 8. v. 22.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -1274,11 +1353,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "CHRIST the valiant Angel is here described."
+              "text": "CHRIST the valiant Angel is here described.",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "<i>pillars</i>"
+              "text": "<i>pillars</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -1296,7 +1377,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Many great mysteries and truths are to be preserved in the Church, which for causes know to God's providence are not to be written in the book of holy Scripture."
+              "text": "Many great mysteries and truths are to be preserved in the Church, which for causes known to God's providence are not to be written in the book of holy Scripture.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1311,7 +1393,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "c This was the manner of taking an oath by the true God, as Deut. 32."
+              "text": "c This was the manner of taking an oath by the true God, as Deut. 32.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1338,11 +1421,13 @@
           "notes": [
             {
               "label": "2",
-              "text": "c By earnest study and meditation."
+              "text": "c By earnest study and meditation.",
+              "kind": "gloss"
             },
             {
               "label": "3",
-              "text": "Sweet in the reading, but in fulfilling, somewhat bitter, because it commandeth works of penance and suffering of tribulations."
+              "text": "Sweet in the reading, but in fulfilling, somewhat bitter, because it commandeth works of penance and suffering of tribulations.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1370,7 +1455,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Three years and a half. Which is the time of Antichrist's reign and persecution."
+              "text": "Three years and a half. Which is the time of Antichrist's reign and persecution.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1397,7 +1483,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The great Antichrist."
+              "text": "The great Antichrist.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1407,7 +1494,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c He meaneth Hierusalem, named Sodom and Ægypt for the imitation of them in wickedness. So that we see his chief reign shall be there, though his tyranny may extend to all places of the world."
+              "text": "c He meaneth Hierusalem, named Sodom and Ægypt for the imitation of them in wickedness. So that we see his chief reign shall be there, though his tyranny may extend to all places of the world.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1421,7 +1509,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The wicked rejoice, when holy men are executed by the tyrants of the world, because their life and doctrine are burdenous unto them."
+              "text": "The wicked rejoice, when holy men are executed by the tyrants of the world, because their life and doctrine are burdenous unto them.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1435,7 +1524,7 @@
         },
         {
           "verse": 13,
-          "text": "And in that hour there was made a great earth-quake: and the tenth part of the city fell: and there were slain in the earth-quake names of men seven thousand: and the rest were cast into a fear, and gave glory to the God of heaven."
+          "text": "And in that hour there was made a great earthquake: and the tenth part of the city fell: and there were slain in the earthquake names of men seven thousand: and the rest were cast into a fear, and gave glory to the God of heaven."
         },
         {
           "verse": 14,
@@ -1447,7 +1536,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The kingdom of this world usurped before by Satan & Antichrist, shall afterward be Christ's forever."
+              "text": "The kingdom of this world usurped before by Satan & Antichrist, shall afterward be Christ's forever.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1465,13 +1555,14 @@
           "notes": [
             {
               "label": "1",
-              "text": "To repay the hire or wages (for so both the Greek word and the Latin signify due to holy men, proveth against the Protestants, that they did truly merit the same in this life."
+              "text": "To repay the hire or wages (for so both the Greek word and the Latin signify due to holy men, proveth against the Protestants, that they did truly merit the same in this life.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 19,
-          "text": "And the temple of God was opened in heaven: and the ark of his testament was seen in his temple, and there were made lightnings, and voices, and an earth-quake and great hail."
+          "text": "And the temple of God was opened in heaven: and the ark of his testament was seen in his temple, and there were made lightnings, and voices, and an earthquake and great hail."
         }
       ],
       "summary": "S. John measuring the Temple, 3. heareth of two witnesses that shall preach: 7. whom the beast coming up from the sea shall kill. 11. but they rising again ascend into heaven, 13. and seven thousand persons are slain with an earthquake: 15. and at the sound of the seventh Angel, the four and twenty seniors give praise and thanks to God."
@@ -1485,11 +1576,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "THE 3. PART. The Dragon's incredulous & persecuting multitude, and Antichrist the chief head thereof."
+              "text": "THE 3. PART. The Dragon's incredulous & persecuting multitude, and Antichrist the chief head thereof.",
+              "kind": "head"
             },
             {
               "label": "2",
-              "text": "This is properly & principally spoken of the Church: and by allusion, of our B. Lady also."
+              "text": "This is properly & principally spoken of the Church: and by allusion, of our B. Lady also.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1503,7 +1596,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c The great Devil Lucifer."
+              "text": "c The great Devil Lucifer.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1513,11 +1607,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "The spirits that fall from their first state into Apostasy with him and by his means."
+              "text": "The spirits that fall from their first state into Apostasy with him and by his means.",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "c The Devil's endeavour against the Church's children, and specially our B. Lady's only son the head of the rest."
+              "text": "c The Devil's endeavour against the Church's children, and specially our B. Lady's only son the head of the rest.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1558,7 +1654,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "When the Angels or we have the victory, we must know it is by the blood of Christ, and so all is referred always to him."
+              "text": "When the Angels or we have the victory, we must know it is by the blood of Christ, and so all is referred always to him.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1576,7 +1673,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "This often insinuation that Antichrist's reign shall be but three years & a half (Dan. 7, 25. Apoc. 11, 2. 3. & in this chap. v. 6. c. 13, 5. ) proveth that the heretics be exceedingly blinded with malice, that hold the Pope to be Antichrist, who hath ruled so many Ages."
+              "text": "This often insinuation that Antichrist's reign shall be but three years & a half (Dan. 7, 25. Apoc. 11, 2. 3. & in this chap. v. 6. c. 13, 5. ) proveth that the heretics be exceedingly blinded with malice, that hold the Pope to be Antichrist, who hath ruled so many Ages.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1587,7 +1685,7 @@
         },
         {
           "verse": 16,
-          "text": "And the earth holp the woman, and the earth opened her mouth, and swallowed up the flood which the dragon cast out of his mouth."
+          "text": "And the earth holpe the woman, and the earth opened her mouth, and swallowed up the flood which the dragon cast out of his mouth."
         },
         {
           "verse": 17,
@@ -1621,7 +1719,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "They that now follow the simplest & grossest heretics that ever were without seeing miracles, would then much more follow this great seducer working miracles."
+              "text": "They that now follow the simplest & grossest heretics that ever were without seeing miracles, would then much more follow this great seducer working miracles.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1639,7 +1738,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "No heretics ever liker Antichrist, than these in our days, specially in blasphemies against God's Church, Sacraments, Saints, Ministers, and all sacred things."
+              "text": "No heretics ever liker Antichrist, than these in our days, specially in blasphemies against God's Church, Sacraments, Saints, Ministers, and all sacred things.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1676,7 +1776,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Another false prophet inferior to Antichrist, shall work wonders also, but all referred to the honour of his master Antichrist. So doth Calvin & other Arch-heretics pervert the world to the honour of Antichrist, and so do their scholers also for the honour of them."
+              "text": "An other false prophet inferior to Antichrist, shall work wonders also, but all referred to the honour of his master Antichrist. So doth Calvin & other Arch-heretics pervert the world to the honour of Antichrist, and so do their scholers also for the honour of them.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1723,11 +1824,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle upon S. Innocents' day in Christmas."
+              "text": "The Epistle upon S. Innocents' day in Christmas.",
+              "kind": "lectionary"
             },
             {
               "label": "2",
-              "text": "Christ, and the same number of elect that were signed <i>chap. 7.</i>"
+              "text": "Christ, and the same number of elect that were signed <i>chap. 7.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -1741,7 +1844,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>learn μαθεῖν,</i>"
+              "text": "<i>learn μαθεῖν,</i>",
+              "kind": "word"
             }
           ]
         },
@@ -1751,11 +1855,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "One state of life more excellent than another. And virgins for their purity passing the rest, & always accompanying Christ according to the Church's hymn out of this place. <i>Quocunque pergis, virgines sequuntur &c.</i>"
+              "text": "One state of life more excellent than another. And virgins for their purity passing the rest, & always accompanying Christ according to the Church's hymn out of this place. <i>Quocunque pergit, virgines sequuntur &c.</i>",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "c This the Church applieth to the holy Innocents that died first for Christ."
+              "text": "c This the Church applieth to the holy Innocents that died first for Christ.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1778,7 +1884,7 @@
         },
         {
           "verse": 8,
-          "text": "And another Angel followed, saying: <cr>[1]</cr> Fallen fallen is that great <na>[2]</na> Babylon, which of the wine of the wrath of her fornication made all nations to drink.",
+          "text": "And an other Angel followed, saying: <cr>[1]</cr> Fallen fallen is that great <na>[2]</na> Babylon, which of the wine of the wrath of her fornication made all nations to drink.",
           "cross_refs": [
             {
               "text": "Esa. 21. Ier. 51. Apo. 18."
@@ -1787,7 +1893,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "The city of the devil, which is the universal society of the wicked misbelievers & ill livers in the world."
+              "text": "The city of the devil, which is the universal society of the wicked misbelievers & ill livers in the world.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1801,7 +1908,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The great damnation that shall follow them that forsake Christ & the Church, & worship Antichrist or his image."
+              "text": "The great damnation that shall follow them that forsake Christ & the Church, & worship Antichrist or his image.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1815,7 +1923,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Faith is not enough to salvation, without fulfilling of God's commandments."
+              "text": "Faith is not enough to salvation, without fulfilling of God's commandments.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1826,7 +1935,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "b The Epistle in a daily Mass for the dead."
+              "text": "b The Epistle in a daily Mass for the dead.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1836,7 +1946,7 @@
         },
         {
           "verse": 15,
-          "text": "And another Angel came forth from the temple, crying with a loud voice to him that sat upon the cloud: <cr>[1]</cr> Thrust in thy sickle, and reap, because the hour is come to reap, for the harvest of the earth is dry.",
+          "text": "And an other Angel came forth from the temple, crying with a loud voice to him that sat upon the cloud: <cr>[1]</cr> Thrust in thy sickle, and reap, because the hour is come to reap, for the harvest of the earth is dry.",
           "cross_refs": [
             {
               "text": "Ioel 3. Mat. 13."
@@ -1849,11 +1959,11 @@
         },
         {
           "verse": 17,
-          "text": "And another Angel came forth from the temple which is in heaven, himself also having a sharp sickle."
+          "text": "And an other Angel came forth from the temple which is in heaven, himself also having a sharp sickle."
         },
         {
           "verse": 18,
-          "text": "And another Angel came forth from the altar, which had power over the fire: and he cried with a loud voice to him that had the sharp sickle, saying: Thrust in thy sharp sickle, and gather the clusters of the vineyard of the earth: because the grapes thereof be ripe."
+          "text": "And an other Angel came forth from the altar, which had power over the fire: and he cried with a loud voice to him that had the sharp sickle, saying: Thrust in thy sharp sickle, and gather the clusters of the vineyard of the earth: because the grapes thereof be ripe."
         },
         {
           "verse": 19,
@@ -1861,7 +1971,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>c ληνὸν lacum. fat. trough, lake.</i>"
+              "text": "<i>c ληνὸν lacum. fat. trough, lake.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -1881,7 +1992,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The tribulations about the day of judgement."
+              "text": "The tribulations about the day of judgement.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1891,7 +2003,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c Baptism."
+              "text": "c Baptism.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1901,11 +2014,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "The song of Moyses and Christ, is the new Testament and the old."
+              "text": "The song of Moyses and Christ, is the new Testament and the old.",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "<i>Saints</i>"
+              "text": "<i>Saints</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -1919,7 +2034,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "THE FIFTH VISION."
+              "text": "THE FIFTH VISION.",
+              "kind": "head"
             }
           ]
         },
@@ -1929,7 +2045,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>linen λίνον λίθον.</i>"
+              "text": "<i>linen λίνον λίθον.</i>",
+              "kind": "word"
             }
           ]
         },
@@ -1979,7 +2096,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The great revenge that God will do at the later day upon the persecutors of his Saints."
+              "text": "The great revenge that God will do at the later day upon the persecutors of his Saints.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1997,7 +2115,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The desperate and damned persons shall blaspheme God perpetually. Which shall be only as do not repent in this life."
+              "text": "The desperate and damned persons shall blaspheme God perpetually. Which shall be only as do not repent in this life.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2011,7 +2130,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c See chap. <i>9. v. 20.</i> in the margent."
+              "text": "c See chap. <i>9. v. 20.</i> in the margent.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2025,11 +2145,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "The dragon, is the Devil: the beast, Antichrist, or the society whereof he is head: the false-prophet, either Antichrist himself, or the company of Heretics and seducers that follow him."
+              "text": "The dragon, is the Devil: the beast, Antichrist, or the society whereof he is head: the false-prophet, either Antichrist himself, or the company of Heretics and seducers that follow him.",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "<i>issue forth three</i>"
+              "text": "<i>issue forth three</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -2046,6 +2168,10 @@
             },
             {
               "text": "2. Cor. 5, 3."
+            },
+            {
+              "text": "Apoc. 3. 2 Cor. 5:3",
+              "source": "sancta"
             }
           ]
         },
@@ -2055,7 +2181,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c <i>The hill of sheaves,</i> by S. Hierom's interpretation."
+              "text": "c <i>The hill of sheaves,</i> by S. Hierom's interpretation.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2065,7 +2192,7 @@
         },
         {
           "verse": 18,
-          "text": "And there were made lightnings, and voices, and thunders, and a great earth-quake was made, such an one as never hath been since men were upon the earth, such an earth-quake, so great."
+          "text": "And there were made lightnings, and voices, and thunders, and a great earthquake was made, such an one as never hath been since men were upon the earth, such an earthquake, so great."
         },
         {
           "verse": 19,
@@ -2078,7 +2205,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "The city or commonwealth of the wicked divided into three parts: into infidels, Heretics, and evil Catholics. This city is here called Babylon, whereof see the Annotat. upon the next chapter <i>v. 5.</i>"
+              "text": "The city or commonwealth of the wicked divided into three parts: into infidels, Heretics, and evil Catholics. This city is here called Babylon, whereof see the Annotat. upon the next chapter <i>v. 5.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -2102,11 +2230,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "The final damnation of the whole company of the reprobate, called here the great whore."
+              "text": "The final damnation of the whole company of the reprobate, called here the great whore.",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "c These many waters are many peoples. <i>v. 15.</i>"
+              "text": "c These many waters are many peoples. <i>v. 15.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -2142,7 +2272,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "It signifieth the short reign of Antichrist, who is the chief horn or head of the beast."
+              "text": "It signifieth the short reign of Antichrist, who is the chief horn or head of the beast.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2153,7 +2284,7 @@
         },
         {
           "verse": 10,
-          "text": "Five are fallen, one is, and another is not yet come: and when he shall come, he must tarry a short time."
+          "text": "Five are fallen, one is, and an other is not yet come: and when he shall come, he must tarry a short time."
         },
         {
           "verse": 11,
@@ -2166,11 +2297,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "Some expound it of ten small kingdoms, into which the Roman Empire shall be divided, which shall all serve Antichrist both in his life and a little after."
+              "text": "Some expound it of ten small kingdoms, into which the Roman Empire shall be divided, which shall all serve Antichrist both in his life and a little after.",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "do"
+              "text": "do",
+              "kind": "gloss"
             }
           ]
         },
@@ -2201,7 +2334,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Not forcing or moving any to follow Antichrist, but by his just judgement, & for punishment of their sins, permitting them to believe and consent to him."
+              "text": "Not forcing or moving any to follow Antichrist, but by his just judgement, & for punishment of their sins, permitting them to believe and consent to him.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2231,7 +2365,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "<i>c φυλακὴ</i>"
+              "text": "<i>c φυλακὴ</i>",
+              "kind": "word"
             }
           ]
         },
@@ -2262,8 +2397,12 @@
           "notes": [
             {
               "label": "2",
-              "text": "The measure of pains & damnation, according to the wicked pleasures or unlawful delights of this life. Which is a sore sentence for such people as turn their whole life to lust and riot."
+              "text": "The measure of pains & damnation, according to the wicked pleasures or unlawful delights of this life. Which is a sore sentence for such people as turn their whole life to lust and riot.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Es. 47, 8."
           ]
         },
         {
@@ -2276,7 +2415,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Kings and Merchants are most encumbered, dangered and drowned in the pleasures of this world: whose whole life & traffic is (if they be not exceeding virtuous) to find variety of earthly pleasures. Who seeing once the extreme end of their joys and of all that made their heaven here, to be turned into pains & damnation eternal, then shall howl & weep too late."
+              "text": "Kings and Merchants are most encumbered, dangered and drowned in the pleasures of this world: whose whole life & traffic is (if they be not exceeding virtuous) to find variety of earthly pleasures. Who seeing once the extreme end of their joys and of all that made their heaven here, to be turned into pains & damnation eternal, then shall howl & weep too late.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2310,7 +2450,7 @@
         },
         {
           "verse": 17,
-          "text": "because in one hour are so great riches made desolate: and every governor, & every one that saileth into the lake, and the ship-men, and they that work in the sea, stood a far off,"
+          "text": "because in one hour are so great riches made desolate: and every governor, & every one that saileth into the lake, and the shipmen, and they that work in the sea, stood a far off,"
         },
         {
           "verse": 18,
@@ -2326,7 +2466,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c The Angels and all Saints shall rejoice and laud God to see the wicked confounded, & God's justice executed upon their oppressors & persecutors, & this is that which the Martyrs prayed for, <i>chap. 6.</i>"
+              "text": "c The Angels and all Saints shall rejoice and laud God to see the wicked confounded, & God's justice executed upon their oppressors & persecutors, & this is that which the Martyrs prayed for, <i>chap. 6.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -2341,8 +2482,12 @@
           "notes": [
             {
               "label": "2",
-              "text": "By this is seemeth clear that the Apostle meaneth not any one city, but the universal company of the reprobate, which shall perish in the day of judgement. The old prophets also naming the whole number of God's enemies mystically, Babylon as <i>Ierem. c. 52.</i>"
+              "text": "By this is seemeth clear that the Apostle meaneth not any one city, but the universal company of the reprobate, which shall perish in the day of judgement. The old prophets also naming the whole number of God's enemies mystically, Babylon as <i>Ierem. c. 52.</i>",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Ier. 51, 63."
           ]
         },
         {
@@ -2369,11 +2514,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle for many Martyrs, between Easter & Whitsunday."
+              "text": "The Epistle for many Martyrs, between Easter & Whitsunday.",
+              "kind": "lectionary"
             },
             {
               "label": "2",
-              "text": "ALLELUIA."
+              "text": "ALLELUIA.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2387,7 +2534,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "This often repeating of <i>Allelu-ia</i> in times of rejoicing, the Church doth follow in her Service."
+              "text": "This often repeating of <i>Allelu-ia</i> in times of rejoicing, the Church doth follow in her Service.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2410,7 +2558,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "At this day shall the whole Church of the elect be finally & perfectly for ever joined unto Christ in marriage inseparable."
+              "text": "At this day shall the whole Church of the elect be finally & perfectly for ever joined unto Christ in marriage inseparable.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2430,8 +2579,12 @@
           "notes": [
             {
               "label": "2",
-              "text": "That is the feast of eternal life prepared for his spouse the Church."
+              "text": "That is the feast of eternal life prepared for his spouse the Church.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Mat. 22. Lu. 14,"
           ]
         },
         {
@@ -2446,7 +2599,7 @@
         },
         {
           "verse": 11,
-          "text": "And I saw heaven opened, and behold a white horse: and he that sat upon him, was called Faithful and True, and with justice he judgeth & fighteth."
+          "text": "And I saw heaven opened, and behold a white horse: and he that sate upon him, was called Faithful and True, and with justice he judgeth & fighteth."
         },
         {
           "verse": 12,
@@ -2463,8 +2616,12 @@
           "notes": [
             {
               "label": "2",
-              "text": "c The second person in Trinity, the Son or the Word of God, which was made flesh. <i>Io. 1.</i>"
+              "text": "c The second person in Trinity, the Son or the Word of God, which was made flesh. <i>Io. 1.</i>",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Es. 63, 1."
           ]
         },
         {
@@ -2491,7 +2648,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "Even according to his humanity also."
+              "text": "Even according to his humanity also.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2501,11 +2659,11 @@
         },
         {
           "verse": 18,
-          "text": "that you may eat the flesh of kings, and the flesh of tribunes, and the flesh of valiants, and the flesh of horses and of them that sit on them, & the flesh of all free-men and bond-men, and of little and great."
+          "text": "that you may eat the flesh of kings, and the flesh of tribunes, and the flesh of valiants, and the flesh of horses and of them that sit on them, & the flesh of all freemen and bondmen, and of little and great."
         },
         {
           "verse": 19,
-          "text": "And I saw the beast and the kings of the earth, & their armies gathered to make war with him that sat upon the horse and with his army."
+          "text": "And I saw the beast and the kings of the earth, & their armies gathered to make war with him that sate upon the horse and with his army."
         },
         {
           "verse": 20,
@@ -2527,7 +2685,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "See in S. Augustine <i>(li. 20. de Civit. c. 7. 8. & seq.)</i> the exposition of this chapter."
+              "text": "See in S. Augustine <i>(li. 20. de Civit. c. 7. 8. & seq.)</i> the exposition of this chapter.",
+              "kind": "head"
             }
           ]
         },
@@ -2542,12 +2701,13 @@
         },
         {
           "verse": 4,
-          "text": "And I saw seats: and they sat upon them, and judgement was given them, and the souls of the beheaded for the testimony of <sc>Jesus</sc>, and for the word of God, and that adored not the beast, nor his image, nor received his character in their foreheads or in their hands, and have lived, & reigned with Christ <na>[1]</na> a thousand years.",
+          "text": "And I saw seats: and they sate upon them, and judgement was given them, and the souls of the beheaded for the testimony of <sc>Jesus</sc>, and for the word of God, and that adored not the beast, nor his image, nor received his character in their foreheads or in their hands, and have lived, & reigned with Christ <na>[1]</na> a thousand years.",
           "has_annotation": true,
           "notes": [
             {
               "label": "1",
-              "text": "<i>Quid in millenario numero nisi ad proferendam novam sobolem perfecta universitas præscitæ generationis exprimitur? hinc per Ioannem dicitur, Et regnabunt cum illo mille annis, quia regnum sanctæ Ecclesiæ, universitatis perfectione solidatur. D. Gregor. li. 9. Moral. c. 1.</i>"
+              "text": "<i>Quid in millenario numero nisi ad proferendam novam sobolem perfecta universitas præscita generationis exprimitur? hinc per Ioannem dicitur, Et regnabunt cum illo mille annis, quia regnum sanctæ Ecclesiæ, universitatis perfectione solidatur. D. Gregor. li. 9. Moral. c. 1.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -2573,7 +2733,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "S. Augustine thinketh that these do not signify any certain nations but all that shall then be joined with the Devil and Antichrist against the Church. <i>li. 20. de Civit. c. 11.</i> See S. Hierom <i>in Ezech. li. 11.</i>"
+              "text": "S. Augustine thinketh that these do not signify any certain nations but all that shall then be joined with the Devil and Antichrist against the Church. <i>li. 20. de Civit. c. 11.</i> See S. Hierom <i>in Ezech. li. 11.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -2597,11 +2758,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "THE 6. VISION."
+              "text": "THE 6. VISION.",
+              "kind": "head"
             },
             {
               "label": "2",
-              "text": "They shall then be new, not the substance, but the shape changed. <i>2. Pet. 3.</i> See S. Augustine. <i>li. 20. de Civit. c. 14.</i>"
+              "text": "They shall then be new, not the substance, but the shape changed. <i>2. Pet. 3.</i> See S. Augustine. <i>li. 20. de Civit. c. 14.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -2617,7 +2780,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "c The books of men's consciences, where it shall plainly be read what every man's life hath been."
+              "text": "c The books of men's consciences, where it shall plainly be read what every man's life hath been.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2640,7 +2804,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Such as do no good works, if they have age and time to do them, are not found in the book of life."
+              "text": "Such as do no good works, if they have age and time to do them, are not found in the book of life.",
+              "kind": "gloss"
             }
           ]
         }
@@ -2665,11 +2830,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle upon the dedication of a Church."
+              "text": "The Epistle upon the dedication of a Church.",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "c The Church triumphant."
+              "text": "c The Church triumphant.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2679,7 +2846,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "This tabernacle is Christ according to his humanity."
+              "text": "This tabernacle is Christ according to his humanity.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2694,17 +2862,19 @@
           "notes": [
             {
               "label": "2",
-              "text": "c This happy day shall make an end of all the miseries of this mortality."
+              "text": "c This happy day shall make an end of all the miseries of this mortality.",
+              "kind": "gloss"
             },
             {
               "label": "3",
-              "text": "<i>because the</i>"
+              "text": "<i>because the</i>",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 5,
-          "text": "And he that sat in the throne, said: <cr>[1]</cr> Behold I make all things new. And he said to me: Write, because these words be most faithful and true.",
+          "text": "And he that sate in the throne, said: <cr>[1]</cr> Behold I make all things new. And he said to me: Write, because these words be most faithful and true.",
           "cross_refs": [
             {
               "text": "Esa. 43, 19."
@@ -2726,7 +2896,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "He that hath the victory against sin in the Church militant, shall have his reward in the triumphant."
+              "text": "He that hath the victory against sin in the Church militant, shall have his reward in the triumphant.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2736,7 +2907,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c All that commit mortal sins and repent not, shall be damned."
+              "text": "c All that commit mortal sins and repent not, shall be damned.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2746,7 +2918,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "THE 7. AND LAST VISION."
+              "text": "THE 7. AND LAST VISION.",
+              "kind": "head"
             }
           ]
         },
@@ -2760,7 +2933,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The glory of the Church triumphant."
+              "text": "The glory of the Church triumphant.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2770,7 +2944,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c The names of the Patriarchs and Apostles honourable and glorious in the triumphant Church."
+              "text": "c The names of the Patriarchs and Apostles honourable and glorious in the triumphant Church.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2792,7 +2967,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "See S. Hierom <i>ep. 17.</i> touching this description of the heavenly Hierusalem, which is the Church triumphant, teaching that these things must be taken spiritually, not carnally."
+              "text": "See S. Hierom <i>ep. 17.</i> touching this description of the heavenly Hierusalem, which is the Church triumphant, teaching that these things must be taken spiritually, not carnally.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2823,7 +2999,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "All external sacrifice which now is necessary duty of the faithful, shall then cease and therefore there shall need no material temple."
+              "text": "All external sacrifice which now is necessary duty of the faithful, shall then cease and therefore there shall need no material temple.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2869,7 +3046,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "None not perfectly cleansed of their sins, can enter into this heavenly Hierusalem."
+              "text": "None not perfectly cleansed of their sins, can enter into this heavenly Hierusalem.",
+              "kind": "gloss"
             }
           ]
         }
@@ -2895,7 +3073,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>water of life,</i>"
+              "text": "<i>water of life,</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -2905,7 +3084,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Christ is our tree of life; in the Church, by the B. Sacrament; & in heaven, by his visible presence and influence of life everlasting both to our bodies & souls: of whom Salomon saith, <i>The tree of life to all that apprehend him. Prov. 3.</i>"
+              "text": "Christ is our tree of life; in the Church, by the B. Sacrament; & in heaven, by his visible presence and influence of life everlasting both to our bodies & souls: of whom Salomon saith, <i>The tree of life to all that apprehend him. Prov. 3.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -2932,7 +3112,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "THE CONCLUSION."
+              "text": "THE CONCLUSION.",
+              "kind": "head"
             }
           ]
         },
@@ -2951,8 +3132,12 @@
           "notes": [
             {
               "label": "2",
-              "text": "You see it is all one to adore before the feet of the Angel, & to adore the Angel: though, to adore him, be not expressed as in the 19. chap. <i>See the annotation there v. 10.</i>"
+              "text": "You see it is all one to adore before the feet of the Angel, & to adore the Angel: though, to adore him, be not expressed as in the 19. chap. <i>See the annotation there v. 10.</i>",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Apo. 19, 10."
           ]
         },
         {
@@ -2970,7 +3155,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c Man by God's grace & doing good works, doth increase his justice."
+              "text": "c Man by God's grace & doing good works, doth increase his justice.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2985,7 +3171,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "Heaven is the reward, hire, & repayment for good works, in all the Scriptures, yet the adversaries will not see it."
+              "text": "Heaven is the reward, hire, & repayment for good works, in all the Scriptures, yet the adversaries will not see it.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3017,6 +3204,9 @@
             {
               "text": "Esa. 55, 1."
             }
+          ],
+          "xrefs": [
+            "Es. 55, 1."
           ]
         },
         {

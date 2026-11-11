@@ -42,7 +42,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "We learn here that by God's grace men be holy and immaculate, not only in the sight of men, nor by imputation, but truly and before God: contrary to the Doctrine of the Calvinists."
+              "text": "We learn here that by God's grace men be holy and immaculate, not only in the sight of men, nor by imputation, but truly and before God: contrary to the Doctrine of the Calvinists.",
+              "kind": "gloss"
             }
           ]
         },
@@ -56,7 +57,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>c ἐχαρίτωσεν.</i>"
+              "text": "<i>c ἐχαρίτωσεν.</i>",
+              "kind": "word"
             }
           ]
         },
@@ -78,7 +80,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>c ἀνακεφαλαιώσασθαι.</i>"
+              "text": "<i>c ἀνακεφαλαιώσασθαι.</i>",
+              "kind": "word"
             }
           ]
         },
@@ -96,7 +99,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Some refer this to the grace of Baptism: but to many learned it seemeth that the Apostle alludeth to the giving of the Holy Ghost in the Sacrament of Confirmation, by signing the baptized with the sign of the Cross & holy Chrism. For that was the use in the Apostles' time, as elsewhere we have proved. Annot. Act. 8."
+              "text": "Some refer this to the grace of Baptism: but to many learned it seemeth that the Apostle alludeth to the giving of the Holy Ghost in the Sacrament of Confirmation, by signing the baptized with the sign of the Cross & holy Chrism. For that was the use in the Apostles' time, as elsewhere we have proved. Annot. Act. 8.",
+              "kind": "gloss"
             }
           ]
         },
@@ -149,7 +153,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Christ is not full, whole, and perfect without the Church no more than the head without the body."
+              "text": "Christ is not full, whole, and perfect without the Church no more than the head without the body.",
+              "kind": "gloss"
             }
           ]
         }
@@ -203,7 +208,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "It is said, not of works, as thine, of thy-self being unto thee, but as those in which God hath made, formed, and created thee. <i>Aug. de gr. & lib. arbit. c. 8. & seq.</i>"
+              "text": "It is said, not of works, as thine, of thy self being unto thee, but as those in which God hath made, formed, and created thee. <i>Aug. de gr. & lib. arbit. c. 8. & seq.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -243,7 +249,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c ἐν δόγμασι."
+              "text": "c ἐν δόγμασι.",
+              "kind": "word"
             }
           ]
         },
@@ -266,7 +273,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "The Epistle for S. Thomas the Apostle, Decemb. 21."
+              "text": "The Epistle for S. Thomas the Apostle, Decemb. 21.",
+              "kind": "gloss"
             }
           ]
         },
@@ -276,13 +284,14 @@
           "notes": [
             {
               "label": "1",
-              "text": "c συμπολῖται."
+              "text": "c συμπολῖται.",
+              "kind": "word"
             }
           ]
         },
         {
           "verse": 20,
-          "text": "built upon the foundation of the Apostles and Prophets, <sc>Jesus</sc> Christ himself being the highest corner-stone:",
+          "text": "built upon the foundation of the Apostles and Prophets, <sc>Jesus</sc> Christ himself being the highest corner stone:",
           "has_annotation": true
         },
         {
@@ -342,11 +351,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "c This is, <i>for ever before.</i>"
+              "text": "c This is, <i>for ever before.</i>",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "<i>c ἀπὸ τῶν αἰώνων</i>"
+              "text": "<i>c ἀπὸ τῶν αἰώνων</i>",
+              "kind": "word"
             }
           ]
         },
@@ -360,7 +371,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c that is, <i>the eternal præfinition</i>"
+              "text": "c that is, <i>the eternal præfinition</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -374,7 +386,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "b The Epistle upon the 16. Sunday after Pentecost."
+              "text": "b The Epistle upon the 16. Sunday after Pentecost.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -396,11 +409,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "Christ dwelleth in us by his gifts, and we be just by those his gifts remaining and resident in us, & not by Christ's proper justice only, as the Heretics affirm."
+              "text": "Christ dwelleth in us by his gifts, and we be just by those his gifts remaining and resident in us, & not by Christ's proper justice only, as the Heretics affirm.",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "c Not faith only must be in us, but charity which accomplisheth all virtues."
+              "text": "c Not faith only must be in us, but charity which accomplisheth all virtues.",
+              "kind": "gloss"
             }
           ]
         },
@@ -437,7 +452,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle upon the 17. Sunday after Pentecost. And in a Votive Mass against Schism."
+              "text": "The Epistle upon the 17. Sunday after Pentecost. And in a Votive Mass against Schism.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -478,7 +494,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "The Epistle upon Ascension eve. And upon SS. Simon and Jude's day."
+              "text": "The Epistle upon Ascension eve. And upon SS. Simon and Jude's day.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -497,7 +514,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c He meaneth specially of his descending to Hell."
+              "text": "c He meaneth specially of his descending to Hell.",
+              "kind": "gloss"
             }
           ]
         },
@@ -507,7 +525,7 @@
         },
         {
           "verse": 11,
-          "text": "And <cr>[1]</cr> he gave, some Apostles, & some Prophets, & other-some Evangelists, & other-some Pastors & Doctors,",
+          "text": "And <cr>[1]</cr> he gave, some Apostles, & some Prophets, & othersome Evangelists, & othersome Pastors & Doctors,",
           "has_annotation": true,
           "cross_refs": [
             {
@@ -578,7 +596,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "The Epistle upon the 19. Sunday after Pentecost."
+              "text": "The Epistle upon the 19. Sunday after Pentecost.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -588,7 +607,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Apostle teacheth us not to apprehend Christ's justice by faith only, but to be renewed in ourselves truly, & to put on us the new man formed & created in justice and holiness of truth. By the which, free will also is proved to be in us, to work with God, or to consent unto him in our sanctification."
+              "text": "The Apostle teacheth us not to apprehend Christ's justice by faith only, but to be renewed in ourselves truly, & to put on us the new man formed & created in justice and holiness of truth. By the which, free will also is proved to be in us, to work with God, or to consent unto him in our sanctification.",
+              "kind": "gloss"
             }
           ]
         },
@@ -598,7 +618,7 @@
         },
         {
           "verse": 25,
-          "text": "For the which cause laying away lying, <cr>[1]</cr> speak ye truth every one with is neighbour, because we are members one of another.",
+          "text": "For the which cause laying away lying, <cr>[1]</cr> speak ye truth every one with his neighbour, because we are members one of another.",
           "cross_refs": [
             {
               "text": "Zach. 8, 16."
@@ -649,7 +669,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle upon the 3. Sunday in Lent."
+              "text": "The Epistle upon the 3. Sunday in Lent.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -660,6 +681,9 @@
             {
               "text": "Io. 13, 34."
             }
+          ],
+          "xrefs": [
+            "Io. 13, 34."
           ]
         },
         {
@@ -681,7 +705,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "See the heretical corruption of this place in the Annotation Col. <i>3.</i> v. <i>5.</i>"
+              "text": "See the heretical corruption of this place in the Annotation Col. <i>3.</i> v. <i>5.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -724,6 +749,9 @@
             {
               "text": "Esa. 9, 60."
             }
+          ],
+          "xrefs": [
+            "Es. 9, 60."
           ]
         },
         {
@@ -737,7 +765,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "The Epistle upon the 20. Sunday after Pentecost."
+              "text": "The Epistle upon the 20. Sunday after Pentecost.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -781,8 +810,12 @@
           "notes": [
             {
               "label": "2",
-              "text": "The Epistle in a votive Mass for marriage."
+              "text": "The Epistle in a votive Mass for marriage.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Col. 3, 18. · Tit. 2, 5. · 1 Per. 3, 1."
           ]
         },
         {
@@ -797,8 +830,12 @@
           "notes": [
             {
               "label": "2",
-              "text": "It is much to be noted, that in the first English Bibles there is not once the name of CHURCH in all the Bible, but instead thereof, <i>Congregation.</i> Which is so notorious a corruption, that themselves in the later Bibles correct it for shame, but yet suffer the other to be read and used still. See the Bible printed in the year 1562."
+              "text": "It is much to be noted, that in the first English Bibles there is not once the name of CHURCH in all the Bible, but instead thereof, <i>Congregation.</i> Which is so notorious a corruption, that themselves in the later Bibles correct it for shame, but yet suffer the other to be read and used still. See the Bible printed in the year 1562.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Ge. 3, 16. · 1 Cor. 11, 3."
           ]
         },
         {
@@ -900,7 +937,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c God leaveth no good work unrewarded."
+              "text": "c God leaveth no good work unrewarded.",
+              "kind": "gloss"
             }
           ]
         },
@@ -915,7 +953,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "<i>b ἀνιέντες</i>"
+              "text": "<i>b ἀνιέντες</i>",
+              "kind": "word"
             }
           ]
         },
@@ -925,7 +964,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle upon the 21. Sunday after Pentecost."
+              "text": "The Epistle upon the 21. Sunday after Pentecost.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -935,7 +975,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c πανοπλίαν."
+              "text": "c πανοπλίαν.",
+              "kind": "word"
             }
           ]
         },
@@ -958,7 +999,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "If man could not be truly just or have justice in himself, how could he be clothed with justice?"
+              "text": "If man could not be truly just or have justice in himself, how could he be clothed with justice?",
+              "kind": "gloss"
             }
           ]
         },
@@ -977,6 +1019,9 @@
             {
               "text": "Esa. 59, 17. 1. Thes. 5, 8."
             }
+          ],
+          "xrefs": [
+            "Es. 59, 17. · 1. Thes. 5, 8."
           ]
         },
         {
@@ -1005,7 +1050,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "S. Augustine noteth in sundry places upon this same text, that faith without charity serveth not to salvation. <i>li. 50. ho. 7.</i>"
+              "text": "S. Augustine noteth in sundry places upon this same text, that faith without charity serveth not to salvation. <i>li. 50. ho. 7.</i>",
+              "kind": "gloss"
             }
           ]
         },

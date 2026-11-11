@@ -16,8 +16,8 @@ bible/tagged/<book>.json         CANONICAL — inline markup preserved
 bible/raw/<book>.json            derived — markup stripped, apparatus kept structured
 usfm/<NN-BBB>.usfm               derived — \f and \x only
 usfm-study/<NN-BBB>.usfm         derived — the same, plus annotations as \ef
-annotations/<book>/<NNN>.json    1,677 annotations in 397 files
-reference/{ot,nt}/*.json         26 documents of prefatory matter
+annotations/<book>/<NNN>.json    1,521 annotations in 397 files
+reference/{ot,nt}/*.json         34 documents of prefatory matter
 index/lemmas/<book>.json         derived — catchword spans into the tagged text
 ```
 
@@ -27,16 +27,16 @@ index/lemmas/<book>.json         derived — catchword spans into the tagged tex
 |---|---|
 | Books | 76 |
 | Chapters | 1,361 |
-| Verses in the corpus | 37,180 |
-| Verse entries in the JSON trees | 37,131 |
-| `\v` lines emitted in USFM | 37,130 |
-| Annotations | 1,677 (in 397 files) |
-| Annotation sub-notes | 3,609 |
-| Reference documents | 26 |
+| Verses in the corpus | 37,195 |
+| Verse entries in the JSON trees | 37,146 |
+| `\v` lines emitted in USFM | 37,145 |
+| Annotations | 1,521 (in 397 files) |
+| Annotation sub-notes | 3,606 |
+| Reference documents | 34 |
 
 The three differ for two reasons. 49 fragments the corpus numbers as verse 0
 are not scripture and are folded into the summary they complete (see *Verse 0*),
-which accounts for the JSON trees holding 37,131 entries. The USFM drops one
+which accounts for the JSON trees holding 37,146 entries. The USFM drops one
 more because the duplicate verse in 3 Esdras 2 is emitted as a segment rather
 than a second `\v` line. `manifest.json` reports the corpus figure as `verses`
 and the USFM figure as `usfmVerses`.
@@ -258,9 +258,9 @@ Matthew, which is where the ODR puts them.
 
 ### Why two trees
 
-`usfm/` is text plus `\f` and `\x`. `usfm-study/` adds the 1,677 annotations as
+`usfm/` is text plus `\f` and `\x`. `usfm-study/` adds the 1,521 annotations as
 `\ef` study notes. Folding the annotations into the plain files would force
-existing consumers to strip 3,609 note blocks to get back what they had, and
+existing consumers to strip 3,606 note blocks to get back what they had, and
 roughly triples the file size. Both trees come from one render call differing by
 a flag, so they cannot diverge.
 
@@ -301,7 +301,7 @@ markers for study notes: `\ef` reuses `\fr`, `\fq`, `\fk`, and `\ft`.
 inside a note via `\+`, but there is no legal way to place an `\f` or `\ef`
 inside another.
 
-The corpus has two levels of apparatus: 3,609 sub-notes inside 1,677 annotation
+The corpus has two levels of apparatus: 3,606 sub-notes inside 1,521 annotation
 texts. Rather than misrepresent this, the export flattens it explicitly. Each
 `<mn>` marker becomes a Unicode superscript at its original character position,
 and the sub-notes follow as a trailing `\fq` / `\ft` run inside the same `\ef`:

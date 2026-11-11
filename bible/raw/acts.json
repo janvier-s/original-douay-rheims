@@ -83,12 +83,17 @@
           "notes": [
             {
               "label": "2",
-              "text": "The Epistle at Mass upon Ascension day."
+              "text": "The Epistle at Mass upon Ascension day.",
+              "kind": "lectionary"
             },
             {
               "label": "3",
-              "text": "Not all particularly, (for the other Evangelists write diverse things not touched by him) but all the principal and most necessary things."
+              "text": "Not all particularly, (for the other Evangelists write divers things not touched by him) but all the principal and most necessary things.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Lu. 1, 3."
           ]
         },
         {
@@ -110,6 +115,9 @@
             {
               "text": "Io. 14, 26."
             }
+          ],
+          "xrefs": [
+            "Lu. 24, 49. · Io. 14, 26."
           ]
         },
         {
@@ -123,12 +131,17 @@
           "notes": [
             {
               "label": "2",
-              "text": "John's Baptism gave not the Holy Ghost."
+              "text": "John's Baptism gave not the Holy Ghost.",
+              "kind": "gloss"
             },
             {
               "label": "3",
-              "text": "The aboundant pouring of the Holy Ghost upon them on Whitsunday, he calleth Baptism."
+              "text": "The aboundant pouring of the Holy Ghost upon them on Whitsunday, he calleth Baptism.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Lu. 3, 16."
           ]
         },
         {
@@ -147,6 +160,9 @@
             {
               "text": "Lu. 24, 49. Act. 2, 1."
             }
+          ],
+          "xrefs": [
+            "Lu. 24, 49. Act. 2, 1."
           ]
         },
         {
@@ -156,6 +172,9 @@
             {
               "text": "Mar. 16, 19. Lu. 24, 51."
             }
+          ],
+          "xrefs": [
+            "Mar. 16, 19. Lu. 24, 51."
           ]
         },
         {
@@ -177,18 +196,20 @@
           "notes": [
             {
               "label": "1",
-              "text": "This visible company was the true Church of Christ, which he left, & commanded to keep together till the coming of the Holy Ghost, by Him to be further informed & furnished to gain all nations to the same Society."
+              "text": "This visible company was the true Church of Christ, which he left, & commanded to keep together till the coming of the Holy Ghost, by Him to be further informed & furnished to gain all nations to the same Society.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 14,
-          "text": "All these were persevering with one mind in prayer with the women and Mary the mother of Jesus, and his brethren.",
+          "text": "All these were persevering with one mind in prayer with the women and Marie the mother of Jesus, and his brethren.",
           "has_annotation": true,
           "notes": [
             {
               "label": "1",
-              "text": "The Heretics, some in the text, other in the margent, translate, wives, to wit, of the Apostles, most impudently, knowing in their consciences that he meaneth the Marys & other holy women that followed Christ as Lu. 8, 2. 24, 10. See Beza & the Engl. Bible 1579."
+              "text": "The Heretics, some in the text, other in the margent, translate, wives, to wit, of the Apostles, most impudently, knowing in their consciences that he meaneth the Maries & other holy women that followed Christ as Lu. 8, 2. 24, 10. See Beza & the Engl. Bible 1579.",
+              "kind": "gloss"
             }
           ]
         },
@@ -199,7 +220,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "a The Epistle upon S. Matthias day Febr. 24."
+              "text": "a The Epistle upon S. Matthias day Febr. 24.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -213,6 +235,9 @@
             {
               "text": "Luc. 22, 47. Io. 18, 3."
             }
+          ],
+          "xrefs": [
+            "Ps. 40, 9 Io. 13, 18 · Luc. 22, 47. Io. 18, 3."
           ]
         },
         {
@@ -226,6 +251,9 @@
             {
               "text": "Mt. 27, 5. 7."
             }
+          ],
+          "xrefs": [
+            "Mt. 27, 5. 7."
           ]
         },
         {
@@ -242,6 +270,9 @@
             {
               "text": "Ps. 108, 8."
             }
+          ],
+          "xrefs": [
+            "Psa. 68, 26. Ps. 108, 8."
           ]
         },
         {
@@ -254,13 +285,14 @@
           "notes": [
             {
               "label": "1",
-              "text": "No small mystery, that the number of the twelve Apostles must needs be made up again."
+              "text": "No small mystery, that the number of the twelve Apostles must needs be made up again.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 23,
-          "text": "And they appointed two, Joseph, who was called Barsabas, who was surnamed Justus: and Matthias."
+          "text": "And they appointed two, Joseph, who was called Barsabas, who was surnamed Justus: and Mathias."
         },
         {
           "verse": 24,
@@ -272,7 +304,7 @@
         },
         {
           "verse": 26,
-          "text": "And they gave them lots, and the lot fell upon Matthias, and he was numbered with the eleven Apostles.",
+          "text": "And they gave them lots, and the lot fell upon Mathias, and he was numbered with the eleven Apostles.",
           "has_annotation": true
         }
       ],
@@ -303,8 +335,12 @@
           "notes": [
             {
               "label": "2",
-              "text": "The Epistle upon Whitsunday."
+              "text": "The Epistle upon Whitsunday.",
+              "kind": "lectionary"
             }
+          ],
+          "xrefs": [
+            "Act. 1, 4."
           ]
         },
         {
@@ -313,11 +349,14 @@
         },
         {
           "verse": 3,
-          "text": "And there appeared to them parted tongues as it were of fire, and it sat upon every one of them:",
+          "text": "And there appeared to them parted tongues as it were of fire, and it sate upon every one of them:",
           "cross_refs": [
             {
               "text": "Mt. 3, 11."
             }
+          ],
+          "xrefs": [
+            "Mt. 3, 11."
           ]
         },
         {
@@ -328,6 +367,9 @@
             {
               "text": "Io. 7, 39."
             }
+          ],
+          "xrefs": [
+            "Io. 7, 39."
           ]
         },
         {
@@ -348,7 +390,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "do we hear."
+              "text": "do we hear.",
+              "kind": "gloss"
             }
           ]
         },
@@ -366,7 +409,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "do hear"
+              "text": "do hear",
+              "kind": "gloss"
             }
           ]
         },
@@ -384,11 +428,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "a The lesson before the Epistle on Imber Wednesday in Whitsunweek."
+              "text": "a The lesson before the Epistle on Imber Wednesday in Whitsunweek.",
+              "kind": "lectionary"
             },
             {
               "label": "2",
-              "text": "Peter the head of the rest and now newly replenished with all knowledge and fortitude, maketh the first Sermon."
+              "text": "Peter the head of the rest and now newly replenished with all knowledge and fortitude, maketh the first Sermon.",
+              "kind": "gloss"
             }
           ]
         },
@@ -402,16 +448,19 @@
         },
         {
           "verse": 17,
-          "text": "And it shall be, in the last days (saith our Lord) of my Spirit I will pour out upon all flesh: and your sons and your daughters shall prophesy, and your young men shall see visions, and your Ancients shall dream dreams.",
+          "text": "And it shall be, in the last days (saith our Lord) of my Spirit I will pour out upon all flesh: and your sons and your daughters shall prophecy, and your young men shall see visions, and your Ancients shall dream dreams.",
           "cross_refs": [
             {
               "text": "Ioel. 2, 28."
             }
+          ],
+          "xrefs": [
+            "Ioël. 2, 28."
           ]
         },
         {
           "verse": 18,
-          "text": "and upon my servants truly, and upon my handmaids will I pour out in those days, of my Spirit, and they shall prophesy:"
+          "text": "and upon my servants truly, and upon my handmaids will I pour out in those days, of my Spirit, and they shall prophecy:"
         },
         {
           "verse": 19,
@@ -446,6 +495,9 @@
             {
               "text": "Ps. 15, 8."
             }
+          ],
+          "xrefs": [
+            "Ps. 15, 8."
           ]
         },
         {
@@ -459,11 +511,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "Who but an infidel (saith S. Augustine) will deny Christ to have descended to Hell? ep. 99."
+              "text": "Who but an infidel (saith S. Augustine) will deny Christ to have descended to Hell? ep. 99.",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "As his soul suffered no pains in Hell, so neither did his body take any corruption in the grave."
+              "text": "As his soul suffered no pains in Hell, so neither did his body take any corruption in the grave.",
+              "kind": "gloss"
             }
           ]
         },
@@ -478,15 +532,21 @@
             {
               "text": "3. Reg. 2, 10."
             }
+          ],
+          "xrefs": [
+            "3. Reg. 2, 10."
           ]
         },
         {
           "verse": 30,
-          "text": "Whereas therefore he was a Prophet, and knew that by an oath God hath sworn to him, that of the fruit of his loins there should sit upon his seat;",
+          "text": "Whereas therefore he was a Prophet, and knew that by an oath God had sworn to him, that of the fruit of his loins there should sit upon his seat;",
           "cross_refs": [
             {
               "text": "Ps. 131, 11."
             }
+          ],
+          "xrefs": [
+            "Ps. 131, 11."
           ]
         },
         {
@@ -503,7 +563,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "this gift which"
+              "text": "this gift which",
+              "kind": "gloss"
             }
           ]
         },
@@ -514,11 +575,14 @@
             {
               "text": "Ps. 109, 1."
             }
+          ],
+          "xrefs": [
+            "Ps. 109, 1."
           ]
         },
         {
           "verse": 35,
-          "text": "until I make thine enemies the foot-stool of thy feet."
+          "text": "until I make thine enemies the footstool of thy feet."
         },
         {
           "verse": 36,
@@ -530,7 +594,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Contrition."
+              "text": "Contrition.",
+              "kind": "gloss"
             }
           ]
         },
@@ -540,7 +605,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Not only amendment of life, but penance also required before Baptism, in such as be of age, though not in that sort as afterward in the Sacrament of penance. Aug. de fid. et oper. c. 11. et ep. 108."
+              "text": "Not only amendment of life, but penance also required before Baptism, in such as be of age, though not in that sort as afterward in the Sacrament of penance. Aug. de fid. et oper. c. 11. et ep. 108.",
+              "kind": "gloss"
             }
           ]
         },
@@ -558,7 +624,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Three thousand were converted at this first sermon, & they were put to the other visible company and Church."
+              "text": "Three thousand were converted at this first sermon, & they were put to the other visible company and Church.",
+              "kind": "gloss"
             }
           ]
         },
@@ -568,7 +635,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c This was the B. Sacrament, which the Apostles daily ministered to the Christians at least in one kind. See chap. 20, 7."
+              "text": "c This was the B. Sacrament, which the Apostles daily ministered to the Christians at least in one kind. See chap. 20, 7.",
+              "kind": "gloss"
             }
           ]
         },
@@ -584,6 +652,9 @@
             {
               "text": "Act. 4, 32."
             }
+          ],
+          "xrefs": [
+            "Act. 4, 32."
           ]
         },
         {
@@ -617,11 +688,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle upon SS. Peter and Paul's eve. Iun. 28."
+              "text": "The Epistle upon SS. Peter and Paul's eve. Iun. 28.",
+              "kind": "lectionary"
             },
             {
               "label": "2",
-              "text": "This maketh for distinction of Canonical hours and diversity of appointed times to pray in. See Annot. c. 10, 9."
+              "text": "This maketh for distinction of Canonical hours and diversity of appointed times to pray in. See Annot. c. 10, 9.",
+              "kind": "gloss"
             }
           ]
         },
@@ -660,7 +733,7 @@
         },
         {
           "verse": 10,
-          "text": "And they knew him, that it was he which sat for alms at the Specious gate of the temple: and they were exceedingly astonished and aghast at that that had chanced to him."
+          "text": "And they knew him, that it was he which sate for alms at the Specious gate of the temple: and they were exceedingly astonished and aghast at that that had chanced to him."
         },
         {
           "verse": 11,
@@ -673,7 +746,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle upon Wednesday in Easter week."
+              "text": "The Epistle upon Wednesday in Easter week.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -700,7 +774,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "This faith was not the faith of the lame man (for he looked only for alms) nor a special faith of the Apostle's own salvation: but the whole belief of Christian Religion."
+              "text": "This faith was not the faith of the lame man (for he looked only for alms) nor a special faith of the Apostles own salvation: but the whole belief of Christian Religion.",
+              "kind": "gloss"
             }
           ]
         },
@@ -726,17 +801,19 @@
           "notes": [
             {
               "label": "1",
-              "text": "c ὃν δεῖ οὐρανὸν μὲν δέξασθαι"
+              "text": "c ὃν δεῖ οὐρανὸν μὲν δέξασθαι",
+              "kind": "word"
             },
             {
               "label": "2",
-              "text": "Some Heretics foully corrupt this place, thus: Who must be contained in heaven, of purpose (as they protest) to hold Christ in heaven, from the B. Sacrament. Beza. As though his presence there, drew him out of heaven. Neither can they pretend the Greek, which is word for word as in the vulgar Latin, and as we translate."
+              "text": "Some Heretics foully corrupt this place, thus: Who must be contained in heaven, of purpose (as they protest) to hold Christ in heaven, from the B. Sacrament. Beza. As though his presence there, drew him out of heaven. Neither can they pretend the Greek, which is word for word as in the vulgar Latin, and as we translate.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 22,
-          "text": "Moyses indeed said: That a prophet shall the Lord your God raise up to you of your brethren, as myself: him you shall hear according to all things whatsoever he shall speak to you.",
+          "text": "Moyses indeed said: That a prophet shall the Lord your God raise up to you of your brethren, as my self: him you shall hear according to all things whatsoever he shall speak to you.",
           "cross_refs": [
             {
               "text": "Deu. 18, 15."
@@ -788,7 +865,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Here again we see the proceeding and increase of the Church visibly."
+              "text": "Here again we see the proceeding and increase of the Church visibly.",
+              "kind": "gloss"
             }
           ]
         },
@@ -798,7 +876,7 @@
         },
         {
           "verse": 6,
-          "text": "And Annas the high Priest, and Caiphas and John, and Alexander, and as many as were of the priest's stock."
+          "text": "And Annas the high Priest, and Caiphas and John, and Alexander, and as many as were of the priests stock."
         },
         {
           "verse": 7,
@@ -818,7 +896,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The name of JESUS. See Annot. Philip. 2, 10."
+              "text": "The name of JESUS. See Annot. Philip. 2, 10.",
+              "kind": "gloss"
             }
           ]
         },
@@ -829,6 +908,9 @@
             {
               "text": "Psa. 117, 22."
             }
+          ],
+          "xrefs": [
+            "Psa. 117, 22."
           ]
         },
         {
@@ -841,7 +923,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Apostles' constancy, learning and wisdom after the coming of the Holy Ghost, being but idiots, that is, simple unlettered men and timorous before."
+              "text": "The Apostles' constancy, learning and wisdom after the coming of the Holy Ghost, being but idiotes, that is, simple unlettered men and timorous before.",
+              "kind": "gloss"
             }
           ]
         },
@@ -871,7 +954,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Their constancy and courage after their confirmation, being so weak before. And if any Magistrate command against God, that is to say, forbid Catholic Christian men to preach or serve God, this same must be their answer, though they be whipped and killed for their labour. See c. 5. v. 29."
+              "text": "Their constancy and courage after their confirmation, being so weak before. And if any Magistrate command against God, that is to say, forbid Catholic Christian men to preach or serve God, this same must be their answer, though they be whipped and killed for their labour. See c. 5. v. 29.",
+              "kind": "gloss"
             }
           ]
         },
@@ -910,7 +994,7 @@
         },
         {
           "verse": 27,
-          "text": "For there assembled indeed in this city against the holy child Jesus whom thou hast anointed, Herod, and Pontius Pilate, with the Gentiles and the people of Israel;"
+          "text": "For there assembled indeed in this city against thy holy child Jesus whom thou hast anointed, Herod, and Pontius Pilate, with the Gentiles and the people of Israel;"
         },
         {
           "verse": 28,
@@ -918,7 +1002,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Christ's death, as needful for man's redemption, was of God's determination: but as of the malice of the Jews, it was not his act otherwise than by permission."
+              "text": "Christ's death, as needful for man's redemption, was of God's determination: but as of the malice of the Jews, it was not his act otherwise than by permission.",
+              "kind": "gloss"
             }
           ]
         },
@@ -953,7 +1038,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Note the ardent charity and contempt of worldly things in the first Christians: who did not only give great alms, but"
+              "text": "Note the ardent charity and contempt of worldly things in the first Christians: who did not only give great alms, but",
+              "kind": "gloss"
             }
           ]
         },
@@ -1025,7 +1111,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Hereupon rose great reverence, awe, and fear of the vulgar Christians toward the holy Apostles; for an example to all Christian people how to behave themselves toward their Bishops and Priests."
+              "text": "Hereupon rose great reverence, awe, and fear of the vulgar Christians toward the holy Apostles; for an example to all Christian people how to behave themselves toward their Bishops and Priests.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1035,7 +1122,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle upon Imber Wednesday in Whitsunweek. And within the octave, & in a votive of SS. Peter and Paul."
+              "text": "The Epistle upon Imber Wednesday in Whitsunweek. And within the octave, & in a votive of SS. Peter and Paul.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -1054,7 +1142,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Peter's shadow."
+              "text": "Peter's shadow.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1076,7 +1165,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "An Angel leadeth them out of prison."
+              "text": "An Angel leadeth them out of prison.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1098,7 +1188,7 @@
         },
         {
           "verse": 24,
-          "text": "And as soon as the Magistrates of the temple and the chief Priests heard these words, they were in doubt of them, what would befall."
+          "text": "And as soon as the Magistrate of the temple and the chief Priests heard these words, they were in doubt of them, what would befall."
         },
         {
           "verse": 25,
@@ -1155,7 +1245,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Theudas"
+              "text": "Theudas",
+              "kind": "gloss"
             }
           ]
         },
@@ -1173,11 +1264,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "Time, and the evident success of Christ's Church and religion, prove it to be of God: no violence of the Jews, no persecution of the Heathen Princes, no endeavour of domestical Adversaries, heretics, Schismatics, or ill livers, prevailing against it; as on the other side, many attempts have been made by Arius, Macedonius, Nestorius, Luther, and the like, who thought themselves somebody: but after they had played their parts a while, their memory is buried, or liveth only in malediction & infamy, and their scholars come to naught. Therefore let no Cath. man be scandalized that this heresy holdeth up for a time. For the Arians & some others flourished much longer than these, and were better supported by Princes and learning, & yet had an end."
+              "text": "Time, and the evident success of Christ's Church and religion, prove it to be of God: no violence of the Jews, no persecution of the Heathen Princes, no endeavour of domestical Adversaries, heretics, Schismatics, or ill livers, prevailing against it; as on the other side, many attempts have been made by Arius, Macedonius, Nestorius, Luther, and the like, who thought themselves somebody: but after they had played their parts a while, their memory is buried, or liveth only in malediction & infamy, and their scholars come to naught. Therefore let no Cath. man be scandalized that this heresy holdeth up for a time. For the Arians & some others flourished much longer than these, and were better supported by Princes and learning, & yet had an end.",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "it"
+              "text": "it",
+              "kind": "gloss"
             }
           ]
         },
@@ -1223,11 +1316,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "The election of the 7 first Deacons."
+              "text": "The election of the 7 first Deacons.",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "c προσήλυτον."
+              "text": "c προσήλυτον.",
+              "kind": "word"
             }
           ]
         },
@@ -1237,7 +1332,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Order of Deacons given by imposition of hands. See Annot. Act. 13, 3."
+              "text": "Order of Deacons given by imposition of hands. See Annot. Act. 13, 3.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1247,7 +1343,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Now also the Priests and they of greater knowledge and estimation began to believe."
+              "text": "Now also the Priests and they of greater knowledge and estimation began to believe.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1257,7 +1354,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "b The Epistle upon S. Steven's day in Christmas. And his Invention Aug. 3."
+              "text": "b The Epistle upon S. Steven's day in Christmas. And his Invention Aug. 3.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -1287,11 +1385,12 @@
         },
         {
           "verse": 15,
-          "text": "And all that sat in the Council beholding him, saw his face as it were the face of an Angel.",
+          "text": "And all that sate in the Council beholding him, saw his face as it were the face of an Angel.",
           "notes": [
             {
               "label": "1",
-              "text": "Such is the face of all constant & cheerful Martyrs, to their persecutors and judges."
+              "text": "Such is the face of all constant & cheerful Martyrs, to their persecutors and judges.",
+              "kind": "gloss"
             }
           ]
         }
@@ -1307,7 +1406,10 @@
         },
         {
           "verse": 2,
-          "text": "Who said: Ye men, brethren and fathers, hear. The God of glory appeared to our father Abraham when he was in Mesopotamia, before that he abode in Charan,"
+          "text": "Who said: Ye men, brethren and fathers, hear. The God of glory appeared to our father Abraham when he was in Mesopotamia, before that he abode in Charan,",
+          "xrefs": [
+            "Gen. 12, 1."
+          ]
         },
         {
           "verse": 3,
@@ -1333,6 +1435,9 @@
             {
               "text": "Gen. 15, 13."
             }
+          ],
+          "xrefs": [
+            "Gen. 15, 13."
           ]
         },
         {
@@ -1341,7 +1446,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c λατρεύσουσι."
+              "text": "c λατρεύσουσι.",
+              "kind": "word"
             }
           ]
         },
@@ -1361,6 +1467,9 @@
             {
               "text": "Gen. 29, 30. 35."
             }
+          ],
+          "xrefs": [
+            "Gen. 17. · Gen. 21. · Gen. 25."
           ]
         },
         {
@@ -1370,6 +1479,9 @@
             {
               "text": "Gen. 37."
             }
+          ],
+          "xrefs": [
+            "Gen. 29. 30. 35."
           ]
         },
         {
@@ -1379,6 +1491,9 @@
             {
               "text": "Gen. 41."
             }
+          ],
+          "xrefs": [
+            "Gen. 37. · Gen. 41."
           ]
         },
         {
@@ -1392,6 +1507,9 @@
             {
               "text": "Gen. 42."
             }
+          ],
+          "xrefs": [
+            "Gen. 42."
           ]
         },
         {
@@ -1401,6 +1519,9 @@
             {
               "text": "Gen. 45."
             }
+          ],
+          "xrefs": [
+            "Gen. 45."
           ]
         },
         {
@@ -1417,6 +1538,9 @@
             {
               "text": "Gen. 49. Gen. 50."
             }
+          ],
+          "xrefs": [
+            "Gen. 46."
           ]
         },
         {
@@ -1433,8 +1557,12 @@
           "notes": [
             {
               "label": "3",
-              "text": "Translation of Saints' bodies agreeable to nature & Scripture. And the desire to be buried in one place more than another (which the holy Patriarchs also had Gen. 49, 29. 50, 24. Hebr. 11, 22. ) hath sometime great causes. Aug. de Cur. pro mort. c. 1. & ult."
+              "text": "Translation of Saints' bodies agreeable to nature & Scripture. And the desire to be buried in one place more than another (which the holy Patriarchs also had Gen. 49, 29. 50, 24. Hebr. 11, 22. ) hath sometime great causes. Aug. de Cur. pro mort. c. 1. & ult.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Gen. 49. · Gen. 50. · Gen. 23. · Ios. 24."
           ]
         },
         {
@@ -1444,6 +1572,9 @@
             {
               "text": "Exo. 1, 7."
             }
+          ],
+          "xrefs": [
+            "Exo. 1, 7."
           ]
         },
         {
@@ -1461,6 +1592,9 @@
             {
               "text": "Exo. 2, 2."
             }
+          ],
+          "xrefs": [
+            "Exo. 2, 2."
           ]
         },
         {
@@ -1478,6 +1612,9 @@
             {
               "text": "Exo. 2, 11."
             }
+          ],
+          "xrefs": [
+            "Exo. 2, 11."
           ]
         },
         {
@@ -1495,6 +1632,9 @@
             {
               "text": "Exo. 2, 13."
             }
+          ],
+          "xrefs": [
+            "Exo. 2, 13."
           ]
         },
         {
@@ -1516,6 +1656,9 @@
             {
               "text": "Exo. 3, 2."
             }
+          ],
+          "xrefs": [
+            "Exo. 3, 2."
           ]
         },
         {
@@ -1541,7 +1684,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Christ is our Redeemer, and yet Moyses is here called redeemer. So Christ is our Mediator and Advocate, and yet we may have Saints our inferior mediators and advocates also. See Annot. 1. Io. 2, 1."
+              "text": "Christ is our Redeemer, and yet Moyses is here called redeemer. So Christ is our Mediator and Advocate, and yet we may have Saints our inferior mediators and advocates also. See Annot. 1. Io. 2, 1.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1555,24 +1699,33 @@
             {
               "text": "Exo. 16."
             }
+          ],
+          "xrefs": [
+            "Exo. 7. · 8. 9. 10. · 11. 12, 37 · Exo. 16."
           ]
         },
         {
           "verse": 37,
-          "text": "This is that Moyses which said to the children of Israel: A Prophet will God raise up to you of your own brethren as myself: him you shall hear.",
+          "text": "This is that Moyses which said to the children of Israel: A Prophet will God raise up to you of your own brethren as my self: him you shall hear.",
           "cross_refs": [
             {
               "text": "Deu. 18."
             }
+          ],
+          "xrefs": [
+            "Deu. 18."
           ]
         },
         {
           "verse": 38,
-          "text": "This is he that was in the assembly in the wilderness, with the Angel that spake to him in Mount Sina, and with our fathers: who received the words of life to give unto us.",
+          "text": "This is he that was in the assembly in the wilderness, with the Angel that spake to him in Mount-sina, and with our fathers: who received the words of life to give unto us.",
           "cross_refs": [
             {
               "text": "Exo. 19, 3. 19."
             }
+          ],
+          "xrefs": [
+            "Exo. 19, · 3. 19."
           ]
         },
         {
@@ -1586,6 +1739,9 @@
             {
               "text": "Exo. 32, 1."
             }
+          ],
+          "xrefs": [
+            "Exo. 32, 1."
           ]
         },
         {
@@ -1603,12 +1759,17 @@
           "notes": [
             {
               "label": "3",
-              "text": "For a just punishment of their former offences God gave them up to work what wickedness they would themselves, as it is said of the Gentiles Rom. 1."
+              "text": "For a just punishment of their former offences God gave them up to work what wickedness they would themselves, as it is said of the Gentiles Rom. 1.",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "c λατρεύειν."
+              "text": "c λατρεύειν.",
+              "kind": "word"
             }
+          ],
+          "xrefs": [
+            "Amos. 5, 25."
           ]
         },
         {
@@ -1622,6 +1783,9 @@
             {
               "text": "Exo. 25, 40."
             }
+          ],
+          "xrefs": [
+            "Exo. 25, 40."
           ]
         },
         {
@@ -1635,8 +1799,12 @@
           "notes": [
             {
               "label": "2",
-              "text": "c This is Josue, so called in Greek in type of our Saviour."
+              "text": "c This is Josue, so called in Greek in type of our Saviour.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Ios. 3, 14."
           ]
         },
         {
@@ -1646,6 +1814,9 @@
             {
               "text": "Ps. 131, 5."
             }
+          ],
+          "xrefs": [
+            "Ps. 131, 5."
           ]
         },
         {
@@ -1655,6 +1826,9 @@
             {
               "text": "1. Par. 17."
             }
+          ],
+          "xrefs": [
+            "1. Par. 17."
           ]
         },
         {
@@ -1665,6 +1839,9 @@
             {
               "text": "Act. 17. 25."
             }
+          ],
+          "xrefs": [
+            "Act. 17, 25."
           ]
         },
         {
@@ -1674,6 +1851,9 @@
             {
               "text": "Esa. 66, 1."
             }
+          ],
+          "xrefs": [
+            "Esa. 66, 1."
           ]
         },
         {
@@ -1702,7 +1882,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c The comfort of all Martyrs."
+              "text": "c The comfort of all Martyrs.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1722,7 +1903,10 @@
         },
         {
           "verse": 58,
-          "text": "And they stoned Steven invocating, and saying: Lord Jesus, receive my spirit."
+          "text": "And they stoned Steven invocating, and saying: Lord Jesus, receive my spirit.",
+          "xrefs": [
+            "Act. 22, 20."
+          ]
         },
         {
           "verse": 59,
@@ -1730,7 +1914,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Eusebius Emissenus saith, when he prayeth for his persecutors, he promiseth to his worshippers his manifest intercession & suffrages. in ho. S. Steph. & S. Augustine, Si Stephanus sic non orasset, Ecclesia Paulum non haberet. Serm. 1. de S. Stephano."
+              "text": "Eusebius Emissenus saith, when he prayeth for his persecutors, he promiseth to his worshippers his manifest intercession & suffrages. in ho. S. Steph. & S. Augustine, Si Stephanus sic non orasset, Ecclesia Paulum non haberet. Serm. 1. de S. Stephano.",
+              "kind": "gloss"
             }
           ]
         }
@@ -1754,7 +1939,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c curaverunt συνεκόμισαν"
+              "text": "c curaverunt συνεκόμισαν",
+              "kind": "gloss"
             }
           ]
         },
@@ -1765,6 +1951,9 @@
             {
               "text": "Act. 22, 4."
             }
+          ],
+          "xrefs": [
+            "Act. 22, 4."
           ]
         },
         {
@@ -1773,7 +1962,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "This persecution wrought much good, being an occasion that the dispersed preached Christ in diverse Countries where they came."
+              "text": "This persecution wrought much good, being an occasion that the dispersed preached Christ in divers Countries where they came.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1783,7 +1973,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle upon Thursday in Whitsunweek."
+              "text": "The Epistle upon Thursday in Whitsunweek.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -1817,7 +2008,7 @@
         },
         {
           "verse": 13,
-          "text": "Then Simon also himself believed: & being baptized, he cleaved to Philippe. Seeing also signs and very great miracles to be done, he was astonished with admiration."
+          "text": "Then Simon also himself believed: & being baptized, he cleaved to Philippe. Seeing also signs and very great miracles to be done, he was astonied with admiration."
         },
         {
           "verse": 14,
@@ -1826,11 +2017,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle upon Tuesday in Whitsunweek. And in a votive of the Holy Ghost."
+              "text": "The Epistle upon Tuesday in Whitsunweek. And in a votive of the Holy Ghost.",
+              "kind": "lectionary"
             },
             {
               "label": "2",
-              "text": "Sæpe sibi socium Petrus facit esse Ioannem: Ecclesiæ quia virgo placet. Peter often maketh John his companion, because the Church loveth a virgin. Arator apud Bedam in Act."
+              "text": "Sæpe sibi socium Petrus facit esse Ioannem: Ecclesiæ quia virgo placet. Peter often maketh John his companion, because the Church loveth a virgin. Arator apud Bedam in Act.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1871,7 +2064,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c μετανόησον ἀπὸ See Apocal. 9, 21."
+              "text": "c μετανόησον ἀπὸ See Apocal. 9, 21.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1895,7 +2089,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "b The Epistle upon Thursday in Easter week."
+              "text": "b The Epistle upon Thursday in Easter week.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1905,7 +2100,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Note that this Æthiopian came to Hierusalem to adore, that is, on Pilgrimage. Whereby we may learn that it is an acceptable act of religion to go from home to places of greater devotion & sanctification."
+              "text": "Note that this Æthiopian came to Hierusalem to adore, that is, on Pilgrimage. Whereby we may learn that it is an acceptable act of religion to go from home to places of greater devotion & sanctification.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1927,7 +2123,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Scriptures are so written that they cannot be understood without an interpreter, as easy as our Protestants make them. See S. Hierom Ep. ad Paulinum de omnibus divinæ historiæ libris, set in the beginning of Latin Bibles."
+              "text": "The Scriptures are so written that they can not be understood without an interpreter, as easy as our Protestants make them. See S. Hierom Ep. ad Paulinum de omnibus divinæ historiæ libris, set in the beginning of Latin Bibles.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1958,7 +2155,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "what"
+              "text": "what",
+              "kind": "gloss"
             }
           ]
         },
@@ -2002,7 +2200,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "The Epistle upon the Conversion of S. Paul Ian. 25."
+              "text": "The Epistle upon the Conversion of S. Paul Ian. 25.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2025,7 +2224,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The heretics that conclude CHRIST so in heaven that he can be no where else till the day of Judgement, shall hardly resolve a man that would know where CHRIST was when he appeared here in the way, and spake these words to Saul."
+              "text": "The heretics that conclude CHRIST so in heaven that he can be no where else till the day of Judgement, shall hardly resolve a man that would know where CHRIST was when he appeared here in the way, and spake these words to Saul.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2035,7 +2235,7 @@
         },
         {
           "verse": 6,
-          "text": "And trembling and being astonished he said: Lord, what wilt thou have me to do?"
+          "text": "And trembling and being astonied he said: Lord, what wilt thou have me to do?"
         },
         {
           "verse": 7,
@@ -2087,7 +2287,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Paul also himself, though with the divine and heavenly voice prostrated and instructed, yet was sent to a man to receive the Sacraments, & to be joined to the Church. August. de doct. Chr. lib. 1. in prooem."
+              "text": "Paul also himself, though with the divine and heavenly voice prostrated and instructed, yet was sent to a man to receive the Sacraments, & to be joined to the Church. August. de doct. Chr. lib. 1. in prooem.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2101,13 +2302,14 @@
           "notes": [
             {
               "label": "1",
-              "text": "in the Synagogues he."
+              "text": "in the Synagogues he.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 21,
-          "text": "And all that heard, were astonished, and said: Is not this he that expugned in Jerusalem those that invocated this name; and came hither to this purpose that he might bring them bound to the chief priests?"
+          "text": "And all that heard, were astonied, and said: Is not this he that expugned in Jerusalem those that invocated this name; and came hither to this purpose that he might bring them bound to the chief priests?"
         },
         {
           "verse": 22,
@@ -2156,7 +2358,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Church visibly proceedeth still with much comfort & manifold increase even by persecution."
+              "text": "The Church visibly proceedeth still with much comfort & manifold increase even by persecution.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2174,7 +2377,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "healeth"
+              "text": "healeth",
+              "kind": "gloss"
             }
           ]
         },
@@ -2188,7 +2392,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Behold good works and alms-deeds, & the force thereof reaching even to the next life."
+              "text": "Behold good works and alms-deeds, & the force thereof reaching even to the next life.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2206,7 +2411,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The prayers of our Almsfolk & beadsmen may do us great good even after our departure. For if they procured her temporal life, much more may they help us to God's mercy and to release of punishment in Purgatory."
+              "text": "The prayers of our Almsfolk & beadsmen may do us great good even after our departure. For if they procured her temporal life, much more may they help us to God's mercy and to release of punishment in Purgatory.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2296,7 +2502,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Here God first uttered to Peter that the time was come to preach also to the Gentiles, and to converse with them for their salvation, no less than with the Jews, with full freedom to eat all meats without respect of the prohibition of certain, made in the old Law."
+              "text": "Here God first uttered to Peter that the time was come to preach also to the Gentiles, and to converse with them for their salvation, no less than with the Jews, with full freedom to eat all meats without respect of the prohibition of certain, made in the old Law.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2363,15 +2570,18 @@
           "notes": [
             {
               "label": "1",
-              "text": "c At the time of prayer specially God sendeth men comfortable visitations."
+              "text": "c At the time of prayer specially God sendeth men comfortable visitations.",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "c In the Greek, fasting & praying."
+              "text": "c In the Greek, fasting & praying.",
+              "kind": "gloss"
             },
             {
               "label": "3",
-              "text": "Note these apparitions and visions to S. Peter, Cornelius, and others, in the Scriptures very often, against the incredulity of our Heretics, that will believe neither vision nor miracle, not expressed in Scripture: these being believed of Christian men even before they were written."
+              "text": "Note these apparitions and visions to S. Peter, Cornelius, and others, in the Scriptures very often, against the incredulity of our Heretics, that will believe neither vision nor miracle, not expressed in Scripture: these being believed of Christian men even before they were written.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2397,7 +2607,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c Not such as believe only, but such as fear God and work justice, are acceptable to him."
+              "text": "c Not such as believe only, but such as fear God and work justice, are acceptable to him.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2416,7 +2627,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "b The Epistle upon Monday in Easter week."
+              "text": "b The Epistle upon Monday in Easter week.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2443,7 +2655,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle upon Monday in Whitsunweek."
+              "text": "The Epistle upon Monday in Whitsunweek.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -2457,7 +2670,7 @@
         },
         {
           "verse": 45,
-          "text": "And the faithful of the Circumcision that came with Peter, were astonished, for that the grace of the Holy Ghost was poured out upon the Gentiles also."
+          "text": "And the faithful of the Circumcision that came with Peter, were astonied, for that the grace of the Holy Ghost was poured out upon the Gentiles also."
         },
         {
           "verse": 46,
@@ -2498,7 +2711,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c præputium habentes."
+              "text": "c præputium habentes.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2574,7 +2788,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Good Christians hear and obey gladly such truths as be opened unto them from God by their chief Pastors, by vision, revelation, or otherwise."
+              "text": "Good Christians hear and obey gladly such truths as be opened unto them from God by their chief Pastors, by vision, revelation, or otherwise.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2597,7 +2812,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle upon S. Barnabee's day. Iun. 11."
+              "text": "The Epistle upon S. Barnabee's day. Iun. 11.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -2635,7 +2851,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The name of CHRISTIANS."
+              "text": "The name of CHRISTIANS.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2667,7 +2884,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle upon SS. Peter and Paul's day Iun. 29."
+              "text": "The Epistle upon SS. Peter and Paul's day Iun. 29.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -2681,11 +2899,12 @@
         },
         {
           "verse": 4,
-          "text": "Whom when he had apprehended, he cast into prison, delivering him to four quaternions of soldiers to be kept, meaning after the Pasch to bring him forth to the people.",
+          "text": "Whom when he had apprehended, he cast into prison, delivering him to four quaternions of soldiers to be kept, meaning after the Pasche to bring him forth to the people.",
           "notes": [
             {
               "label": "1",
-              "text": "As Peter's person was more notorious than others, & therefore better guarded than other, for fear he should escape; so God's providence in preserving & delivering him for the longer government of his Church, is very marvelous."
+              "text": "As Peter's person was more notorious than others, & therefore better guarded than other, for fear he should escape; so God's providence in preserving & delivering him for the longer government of his Church, is very marvelous.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2713,7 +2932,7 @@
         },
         {
           "verse": 10,
-          "text": "And passing through the first & the second watch, they came to the iron gate that leadeth to the city, which of itself opened to them. And going out, they went forward one street: and incontinent the Angel departed from him."
+          "text": "And passing through the first & the second watch, they came to the iron gate that leadeth to the city, which of it self opened to them. And going out, they went forward one street: and incontinent the Angel departed from him."
         },
         {
           "verse": 11,
@@ -2721,11 +2940,12 @@
         },
         {
           "verse": 12,
-          "text": "And considering, he came to the house of Mary the mother of John, who was surnamed Mark, where many were gathered and praying.",
+          "text": "And considering, he came to the house of Marie the mother of John, who was surnamed Mark, where many were gathered and praying.",
           "notes": [
             {
               "label": "1",
-              "text": "It is much for the praise of these good Christians that the assembly to God's service & prayer was kept in their houses in the time of persecution, & that the Apostle came thither straight out of prison, as his first refuge; as now Christian people do much to their commendation, in places where Heresy doth reign."
+              "text": "It is much for the praise of these good Christians that the assembly to God's service & prayer was kept in their houses in the time of persecution, & that the Apostle came thither straight out of prison, as his first refuge; as now Christian people do much to their commendation, in places where Heresy doth reign.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2744,7 +2964,7 @@
         },
         {
           "verse": 16,
-          "text": "And Peter continued knocking. And when they had opened, they saw him, & were astonished."
+          "text": "And Peter continued knocking. And when they had opened, they saw him, & were astonied."
         },
         {
           "verse": 17,
@@ -2753,7 +2973,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Though God had so miraculously delivered him, yet he would not tempt God by tarrying among his persecutors, but according to Christ's commandment fled for a time."
+              "text": "Though God had so miraculously delivered him, yet he would not tempt God by tarrying among his persecutors, but according to Christ's commandment fled for a time.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2783,7 +3004,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Princes that take delight in the flattery and praises of the people, so much that they forget themselves to be men, & to give the honour to God, may be warned by this example."
+              "text": "Princes that take delight in the flattery and praises of the people, so much that they forget themselves to be men, & to give the honour to God, may be warned by this example.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2817,7 +3039,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c λειτουργούντων ἀυτῶν"
+              "text": "c λειτουργούντων ἀυτῶν",
+              "kind": "word"
             }
           ]
         },
@@ -2841,7 +3064,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Barieu"
+              "text": "Barieu",
+              "kind": "gloss"
             }
           ]
         },
@@ -2863,7 +3087,7 @@
         },
         {
           "verse": 11,
-          "text": "And now behold the hand of our Lord upon thee, & thou shalt be blind, not seeing the sun until a time. And forthwith there fell dimness and darkness upon him, and going about he sought somebody that would give him his hand."
+          "text": "And now behold the hand of our Lord upon thee, & thou shalt be blind, not seeing the sun until a time. And forthwith there fell dimness and darkness upon him, and going about he sought some body that would give him his hand."
         },
         {
           "verse": 12,
@@ -2891,7 +3115,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Exod."
+              "text": "Exod.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2901,7 +3126,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Iosue."
+              "text": "Iosue.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2919,6 +3145,10 @@
           "cross_refs": [
             {
               "text": "Iud. 1. Reg. 8."
+            },
+            {
+              "text": "1. Reg. 8",
+              "source": "sancta"
             }
           ]
         },
@@ -2954,7 +3184,7 @@
         },
         {
           "verse": 25,
-          "text": "And when John fulfilled his course, he said: Whom do you think me to be? I am not he: but behold there cometh after me, whose shoes of his feet I am not worthy to loose.",
+          "text": "And when John fulfilled his course, he said: Whom do you think me to be? I am not he: but behold there cometh after me, whose shoes of his feet I am not worthy to unloose.",
           "cross_refs": [
             {
               "text": "Lu. 3, 15."
@@ -2967,7 +3197,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle upon Tuesday in Easter week."
+              "text": "The Epistle upon Tuesday in Easter week.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -3016,7 +3247,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "to us their children,"
+              "text": "to us their children,",
+              "kind": "gloss"
             }
           ]
         },
@@ -3073,7 +3305,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c the Gentiles desired"
+              "text": "c the Gentiles desired",
+              "kind": "gloss"
             }
           ]
         },
@@ -3083,7 +3316,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c devout proselytes,"
+              "text": "c devout proselytes,",
+              "kind": "gloss"
             }
           ]
         },
@@ -3101,7 +3335,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Jews of their own free will repelling the truth, are unworthy of Christ and worthily forsaken: and the Gentiles though they believed specially by God's grace and preordination, yet they believe also by their own free will, which standeth well with God's providence."
+              "text": "The Jews of their own free will repelling the truth, are unworthy of Christ and worthily forsaken: and the Gentiles though they believed specially by God's grace and preordination, yet they believe also by their own free will, which standeth well with God's providence.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3111,6 +3346,10 @@
           "cross_refs": [
             {
               "text": "Esa. 49, 6."
+            },
+            {
+              "text": "Es. 46, 6",
+              "source": "sancta"
             }
           ]
         },
@@ -3146,7 +3385,8 @@
         "notes": [
           {
             "label": "1",
-            "text": "The 5. part. THE taking of the Gospel away from the obstinate Jews, and giving of it to the Gentiles, by the ministry of Paul and Barnabas."
+            "text": "The 5. part. THE taking of the Gospel away from the obstinate Jews, and giving of it to the Gentiles, by the ministry of Paul and Barnabas.",
+            "kind": "head"
           }
         ]
       }
@@ -3156,7 +3396,7 @@
       "verses": [
         {
           "verse": 1,
-          "text": "And it came to pass at I conium that they entered together into the Synagogue of the Jews, and so spake, that a very great multitude of Jews and of the Greeks did believe."
+          "text": "And it came to pass at Iconium that they entered together into the Synagogue of the Jews, and so spake, that a very great multitude of Jews and of the Greeks did believe."
         },
         {
           "verse": 2,
@@ -3164,7 +3404,7 @@
         },
         {
           "verse": 3,
-          "text": "Along time therefore they abode, dealing confidently in our Lord, who gave testimony to the word of his grace, granting signs and wonders to be done by their hands."
+          "text": "A long time therefore they abode, dealing confidently in our Lord, who gave testimony to the word of his grace, granting signs and wonders to be done by their hands."
         },
         {
           "verse": 4,
@@ -3180,7 +3420,7 @@
         },
         {
           "verse": 7,
-          "text": "And a certain man at Lystra impotent of his feet sat there, lame from his mother's womb, that never had walked."
+          "text": "And a certain man at Lystra impotent of his feet sate there, lame from his mother's womb, that never had walked."
         },
         {
           "verse": 8,
@@ -3205,7 +3445,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c διὸς τοῦ ὄντος"
+              "text": "c διὸς τοῦ ὄντος",
+              "kind": "word"
             }
           ]
         },
@@ -3227,7 +3468,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Heathen might by the daily benefits of god have known him at the least to have been their Creator and only Lord, though the mystery of our Redemption were not opened to them."
+              "text": "The Heathen might by the daily benefits of god have known him at the least to have been their Creator and only Lord, though the mystery of our Redemption were not opened to them.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3263,7 +3505,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "We see by this, first that SS. Paul & Barnabas were Bishops, having here authority to give Holy Orders: secondly, that there was even then a difference betwixt Bishops and Priests, though the name in the primitive Church was often used indifferently: lastly, that always fasting & praying were preparatives to the giving of Holy Orders."
+              "text": "We see by this, first that SS. Paul & Barnabas were Bishops, having here authority to give Holy Orders: secondly, that there was even then a difference betwixt Bishops and Priests, though the name in the primitive Church was often used indifferently: lastly, that always fasting & praying were preparatives to the giving of Holy Orders.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3281,6 +3524,10 @@
           "cross_refs": [
             {
               "text": "Act, 13, 2."
+            },
+            {
+              "text": "Act. 13, 2",
+              "source": "sancta"
             }
           ]
         },
@@ -3314,11 +3561,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "them,"
+              "text": "them,",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "c ρεσβυτέρους."
+              "text": "c ρεσβυτέρους.",
+              "kind": "word"
             }
           ]
         },
@@ -3332,11 +3581,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "c Ancients here, & often in this chapter, are the same that Priests vers. 2. as S. Hierom taketh it also 1. Pet. 5. &"
+              "text": "c Ancients here, & often in this chapter, are the same that Priests vers. 2. as S. Hierom taketh it also 1. Pet. 5. &",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "c πρεσβυτέρων"
+              "text": "c πρεσβυτέρων",
+              "kind": "word"
             }
           ]
         },
@@ -3361,7 +3612,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "b See the Annot. vers. 28. toward the end."
+              "text": "b See the Annot. vers. 28. toward the end.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3380,7 +3632,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "By that faith which worketh by charity, for a dead faith cannot purify the heart of man. See chap. 16, 31."
+              "text": "By that faith which worketh by charity, for a dead faith cannot purify the heart of man. See chap. 16, 31.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3411,10 +3664,14 @@
         },
         {
           "verse": 16,
-          "text": "After these things I will return, and will re-edify the tabernacle of David which was fallen, and the ruins thereof I will re-edify, and set it up:",
+          "text": "After these things I will return, and will reedify the tabernacle of David which was fallen, and the ruins thereof I will reedify, and set it up:",
           "cross_refs": [
             {
               "text": "Tim. 3, 5."
+            },
+            {
+              "text": "Amos 9, 11",
+              "source": "sancta"
             }
           ]
         },
@@ -3448,7 +3705,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c Other Latin copies and the Greek read thus Writing by their hands an epistle containing these things."
+              "text": "c Other Latin copies and the Greek read thus Writing by their hands an epistle containing these things.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3515,7 +3773,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "Hereof our Catholic Bishops took up the necessary use of often visiting their flocks & cures committed to their charge, for confirmation in faith & virtue, & reformation of manners both of clergy & laity."
+              "text": "Hereof our Catholic Bishops took up the necessary use of often visiting their flocks & cures committed to their charge, for confirmation in faith & virtue, & reformation of manners both of clergy & laity.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3552,7 +3811,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Not only the things commanded by Christ's express word, or written in the Scriptures (as our Heretics hold) but whatsoever the Apostles and Rulers of the Church command, is to be kept & obeyed. See these words repeated again c. 16, 4. & that in the Greek, lest any man cavil, because here the Greek hath them not."
+              "text": "Not only the things commanded by Christ's express word, or written in the Scriptures (as our Heretics hold) but whatsoever the Apostles and Rulers of the Church command, is to be kept & obeyed. See these words repeated again c. 16, 4. & that in the Greek, lest any man cavil, because here the Greek hath them not.",
+              "kind": "gloss"
             }
           ]
         }
@@ -3568,7 +3828,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Jew"
+              "text": "Jew",
+              "kind": "gloss"
             }
           ]
         },
@@ -3586,7 +3847,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Here again they take order that the decrees and articles of faith agreed upon in the Councel of Jerusalem, should be executed & observed, whereby we see both the great authority of Councels, & the diligence that all Prelates ought to have to see the decrees & Canons of the Councels put in execution."
+              "text": "Here again they take order that the decrees and articles of faith agreed upon in the Councel of Jerusalem, should be executed & observed, whereby we see both the great authority of Councels, & the diligence that all Prelates ought to have to see the decrees & Canons of the Councels put in execution.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3600,7 +3862,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "This people had not the Gospel denied unto them altogether, but for a time: because (as Venerable Bede thinketh) God foresaw they would not believe, & so should have been more grievously damned."
+              "text": "This people had not the Gospel denied unto them altogether, but for a time: because (as Venerable Bede thinketh) God foresaw they would not believe, & so should have been more grievously damned.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3630,7 +3893,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Colonia, is such as city where the most inhabitants are strangers, sent thither from other great cities & States, namely from the Romans."
+              "text": "Colonia, is such a city where the most inhabitants are strangers, sent thither from other great cities & States, namely from the Romans.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3656,7 +3920,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Either the Devil was compelled by the virtue of Paul's presence to say truth, or else (as such do often times) he spake truth now, that they might the more trust him, and he better beguile them at other times."
+              "text": "Either the Devil was compelled by the virtue of Paul's presence to say truth, or else (as such do often times) he spake truth now, that they might the more trust him, and he better beguile them at other times.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3723,7 +3988,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "It is no other faith that saveth but that which worketh by Charity. Aug. Enchirid. c. 67."
+              "text": "It is no other faith that saveth but that which worketh by Charity. Aug. Enchirid. c. 67.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3737,7 +4003,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c Happy Jailers that do mercy toward their godly prisoners, and receive again by them such spiritual benefits."
+              "text": "c Happy Jailers that do mercy toward their godly prisoners, and receive again by them such spiritual benefits.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3797,7 +4064,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Zelantes. This is the zeal of Heretics, and a lively pattern of their dealing at this day against Catholic Priests and preachers and the good Jasons that receive them."
+              "text": "Zelantes. This is the zeal of Heretics, and a lively pattern of their dealing at this day against Catholic Priests and preachers and the good Jasons that receive them.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3856,11 +4124,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "b σπερμολόγος."
+              "text": "b σπερμολόγος.",
+              "kind": "word"
             },
             {
               "label": "2",
-              "text": "dæmoniorum."
+              "text": "dæmoniorum.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3883,7 +4153,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle for S. Dionysius Areopagita. Octob. 9."
+              "text": "The Epistle for S. Dionysius Areopagita. Octob. 9.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3893,11 +4164,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "c The Adversaries (in the new Test. 1580.) translate, your devotions, most corruptly against the nature of the Greek word (2. Thes. 2, 4.) and most wickedly, against the laudable devotion of good Christians, calling the Pagans idolatry and superstition, their devotions."
+              "text": "c The Adversaries (in the new Test. 1580.) translate, your devotions, most corruptly against the nature of the Greek word (2. Thes. 2, 4.) and most wickedly, against the laudable devotion of good Christians, calling the Pagans idolatry and superstition, their devotions.",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "c τὰ σεβάσματα"
+              "text": "c τὰ σεβάσματα",
+              "kind": "word"
             }
           ]
         },
@@ -3912,7 +4185,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "God is not concluded in Temples, nor needeth them for his necessity of dwelling, or other uses of indigence. See Annot. c. 7. Act. v. 48."
+              "text": "God is not concluded in Temples, nor needeth them for his necessity of dwelling, or other uses of indigence. See Annot. c. 7. Act. v. 48.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3934,7 +4208,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Aratus."
+              "text": "Aratus.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3966,7 +4241,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Dionysius Areopagita."
+              "text": "Dyonysius Areopagita.",
+              "kind": "gloss"
             }
           ]
         }
@@ -3986,7 +4262,7 @@
         },
         {
           "verse": 3,
-          "text": "And because he was of the same craft, he remained with them, and wrought, (and they were tent-makers by their craft.)"
+          "text": "And because he was of the same craft, he remained with them, and wrought, (and they were tentmakers by their craft.)"
         },
         {
           "verse": 4,
@@ -4079,7 +4355,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Apollo."
+              "text": "Apollo.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4097,7 +4374,7 @@
         },
         {
           "verse": 28,
-          "text": "For he with vehemency convinced the Jews openly, shewing by the scriptures, that Jesus is Christ."
+          "text": "For he with vehemence convinced the Jews openly, shewing by the scriptures, that Jesus is Christ."
         }
       ],
       "summary": "At Corinth in Achaia, he worketh with his own hands, preaching JESUS to be CHRIST, unto the Jews upon their Sabboths. 6. But they being obstinate and blaspheming, he in plain terms forsaketh them, and turneth to the Gentiles, among whom according to a vision that he had to embolden him, he planteth the Church in great numbers, 12. the obstinate Jews in vain soliciting the Proconsul against him. 18. From thence at length departing he turneth 19. by Ephesus (where he promiseth the Jews to return to them) 22. and so to Antioch in Syria (from whence he began his journey Act. 15.) 23. but not resting, by and by he goeth again to visit the new Churches that he planted Act. 16. in Galatia and Phrygia: 24. Apollo in his absence mightily confounding the Jews at Ephesus, 27. and afterward at Corinth."
@@ -4111,7 +4388,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle upon Whitsun-eve."
+              "text": "The Epistle upon Whitsun-eve.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -4125,7 +4403,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c John's Baptism not sufficient."
+              "text": "c John's Baptism not sufficient.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4140,7 +4419,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "c Christ's Baptism necessary."
+              "text": "c Christ's Baptism necessary.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4154,7 +4434,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "S. Paul ministered the Sacrament of Confirmation. See annot. c. 8, 17."
+              "text": "S. Paul ministered the Sacrament of Confirmation. See annot. c. 8, 17.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4202,7 +4483,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "them"
+              "text": "them",
+              "kind": "gloss"
             }
           ]
         },
@@ -4216,7 +4498,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "They made not only a general confession wherein all men shew themselves alike to be sinners, as our Protestants do: but every one confessed his own proper deeds and faults."
+              "text": "They made not only a general confession wherein all men shew themselves alike to be sinners, as our Protestants do: but every one confessed his own proper deeds and faults.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4231,7 +4514,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The 6. part."
+              "text": "The 6. part.",
+              "kind": "head"
             }
           ]
         },
@@ -4241,7 +4525,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Of taking away the Gospel from Hierusalem the head city of the Jews, and giving it to ROME the head city of the Gentiles."
+              "text": "Of taking away the Gospel from Hierusalem the head city of the Jews, and giving it to ROME the head city of the Gentiles.",
+              "kind": "head"
             }
           ]
         },
@@ -4255,15 +4540,17 @@
         },
         {
           "verse": 24,
-          "text": "For one named Demetrius, a silver-smith, that made silver temples of Diana, procured to the artificers no small gain:",
+          "text": "For one named Demetrius, a silversmith, that made silver temples of Diana, procured to the artificers no small gain:",
           "notes": [
             {
               "label": "1",
-              "text": "c The Protestants translate, shrines, in the Bible an. 1577: to make the people think that it toucheth the holy shrines of Saints: most corruptly, the Greek signifying plainly, temples, and that of heathen gods."
+              "text": "c The Protestants translate, shrines, in the Bible an. 1577: to make the people think that it toucheth the holy shrines of Saints: most corruptly, the Greek signifying plainly, temples, and that of heathen gods.",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "c ναοὺς."
+              "text": "c ναοὺς.",
+              "kind": "word"
             }
           ]
         },
@@ -4285,7 +4572,7 @@
         },
         {
           "verse": 29,
-          "text": "And the whole city was filled with confusion, and they ran violently with one accord into the theater, catching Gaius & Aristarchus Macedonians, Paul's companions."
+          "text": "And the whole city was filled with confusion, and they ran violently with one accord into the theatre, catching Gaius & Aristarchus Macedonians, Paul's companions."
         },
         {
           "verse": 30,
@@ -4293,7 +4580,7 @@
         },
         {
           "verse": 31,
-          "text": "And certain also of the Princes of Asia that were his friends, sent unto him, desiring that he would not adventure himself into the theater:"
+          "text": "And certain also of the Princes of Asia that were his friends, sent unto him, desiring that he would not adventure himself into the theatre:"
         },
         {
           "verse": 32,
@@ -4313,11 +4600,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "c Here the Heretics add to the text this word, image, more than is in the Greek, to put a scruple into the people's mind concerning holy images."
+              "text": "c Here the Heretics add to the text this word, image, more than is in the Greek, to put a scruple into the people's mind concerning holy images.",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "c τοῦ διοπετοῦς."
+              "text": "c τοῦ διοπετοῦς.",
+              "kind": "word"
             }
           ]
         },
@@ -4373,11 +4662,12 @@
         },
         {
           "verse": 7,
-          "text": "And in the first of the Sabboth when we were assembled to break bread, Paul disputed with them, being to depart on the morrow: and he continued the sermon until mid-night.",
+          "text": "And in the first of the Sabboth when we were assembled to break bread, Paul disputed with them, being to depart on the morrow: and he continued the sermon until midnight.",
           "notes": [
             {
               "label": "1",
-              "text": "S. Paul did here break bread on the Sunday as it is broken in the Sacrament of the body of Christ, and had both before & after the celebrating of the Sacrament a sermon to the people. Aug. ep. 86. ad Casulanum. Vener. Beda in 20. Act."
+              "text": "S. Paul did here break bread on the Sunday as it is broken in the Sacrament of the body of Christ, and had both before & after the celebrating of the Sacrament a sermon to the people. Aug. ep. 86. ad Casulanum. Vener. Beda in 20. Act.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4424,15 +4714,18 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle for S. Steven Pope. Aug. 2."
+              "text": "The Epistle for S. Steven Pope. Aug. 2.",
+              "kind": "lectionary"
             },
             {
               "label": "2",
-              "text": "c That is, Priests as Act. 15, 4. See the marginal annot. there."
+              "text": "c That is, Priests as Act. 15, 4. See the marginal annot. there.",
+              "kind": "gloss"
             },
             {
               "label": "3",
-              "text": "c πρεσβυτέρους"
+              "text": "c πρεσβυτέρους",
+              "kind": "word"
             }
           ]
         },
@@ -4459,7 +4752,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Apostolic preaching commendeth not faith only but penance also to the people."
+              "text": "Apostolic preaching commendeth not faith only but penance also to the people.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4493,7 +4787,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Bishops or Priests (for then these names were sometime used indifferently) governors of the Church of God, & placed in that room & high function by the Holy Ghost."
+              "text": "Bishops or Priests (for then these names were sometime used indifferently) governours of the Church of God, & placed in that room & high function by the Holy Ghost.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4589,7 +4884,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "As S. Peter had a wife, but used her not after his calling, as it is noted elsewhere out of S. Hierom Luc. 4, 38: so may it be said of S. Philip being Deacon."
+              "text": "As S. Peter had a wife, but used her not after his calling, as it is noted elsewhere out of S. Hierom Luc. 4, 38: so may it be said of S. Philip being Deacon.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4599,7 +4895,7 @@
         },
         {
           "verse": 11,
-          "text": "He, when he was come to us, took Paul's girdle: and binding his own feet & hands, he said: Thus saith the Holy Ghost: The man whose girdle this is, so shall the Jews bind in Jerusalem, and shall deliver him into the hands of the Gentiles."
+          "text": "He, when he was come to us, took Paul's girdle: and binding his own hands & feet, he said: Thus saith the Holy Ghost: The man whose girdle this is, so shall the Jews bind in Jerusalem, and shall deliver him into the hands of the Gentiles."
         },
         {
           "verse": 12,
@@ -4711,7 +5007,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c In castra. So in the places following."
+              "text": "c In castra. So in the places following.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4834,7 +5131,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Sacrament of Baptism doth itself wash away sins as here is plain, & therefore doth not only signify (as the Heretics affirm) that our sins be forgiven before, or otherwise by faith only remitted. Whereby the Church's doctrine is proved to be fully agreeable to the Scriptures, that the Sacraments give grace ex opere operato, that is, by the force & virtue of the work and word, done & said in the Sacrament."
+              "text": "The Sacrament of Baptism doth itself wash away sins as here is plain, & therefore doth not only signify (as the Heretics affirm) that our sins be forgiven before, or otherwise by faith only remitted. Whereby the Church's doctrine is proved to be fully agreeable to the Scriptures, that the Sacraments give grace ex opere operato, that is, by the force & virtue of the work and word, done & said in the Sacrament.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4856,11 +5154,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "c μάρτυρος. Act. 7, 38."
+              "text": "c μάρτυρος. Act. 7, 38.",
+              "kind": "word"
             },
             {
               "label": "2",
-              "text": "Not only the Principals, but all that consent to the death or vexation of Christian men for the Catholic faith, do highly offend: which the Apostle confesseth here, that God's mercy may be more notoriously glorified in him hereby."
+              "text": "Not only the Principals, but all that consent to the death or vexation of Christian men for the Catholic faith, do highly offend: which the Apostle confesseth here, that God's mercy may be more notoriously glorified in him hereby.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4906,7 +5206,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c ἀρχιερεῖς."
+              "text": "c ἀρχιερεῖς.",
+              "kind": "word"
             }
           ]
         }
@@ -4930,7 +5231,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "He said not this through perturbation of mind or of a passion, but by way of prophecy, that this figurative high priesthood then trimmed like a whited wall, was to be destroyed, whereas now the true priesthood of Christ was come. Beda in hunc lo."
+              "text": "He said not this through perturbation of mind or of a passion, but by way of prophecy, that this figurative high priesthood then trimmed like a whited wall, was to be destroyed, whereas now the true priesthood of Christ was come. Beda in hunc lo.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4959,7 +5261,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "Such prudent evasions from danger are lawful. Which S. Chrysostom calleth (specially in this Apostle) the wisdom of the serpent, as otherwise in his teaching and preaching & patience he used the simplicity of a dove."
+              "text": "Such prudent evasions from danger are lawful. Which S. Chrysostom calleth (specially in this Apostle) the wisdom of the serpent, as otherwise in his teaching and preaching & patience he used the simplicity of a dove.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4991,7 +5294,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Though God who could not lie, had promised Paul that he should go to Rome; yet the Apostle omitted not human means to defend himself from his enemies and otherwise. Neither said he as the Heretics called Predestinates, Let them do what they will, they cannot hurt me, for I am predestinate to go to Rome. See his doings and sayings to save himself, in the chap. following."
+              "text": "Though God who could not lie, had promised Paul that he should go to Rome; yet the Apostle omitted not human means to defend himself from his enemies and otherwise. Neither said he as the Heretics called Predestinates, Let them do what they will, they cannot hurt me, for I am predestinate to go to Rome. See his doings and sayings to save himself, in the chap. following.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5018,7 +5322,7 @@
         },
         {
           "verse": 17,
-          "text": "And Paul calling to him one of the Centurions, said: Bring this young man to the Tribune, for he hath something to tell him."
+          "text": "And Paul calling to him one of the Centurions, said: Bring this young man to the Tribune, for he hath some thing to tell him."
         },
         {
           "verse": 18,
@@ -5026,7 +5330,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c See the courtesy & equity of Heathen Officers toward their prisoners, to save them from all injury and villainy."
+              "text": "c See the courtesy & equity of Heathen Officers toward their prisoners, to save them from all injury and villainy.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5048,7 +5353,7 @@
         },
         {
           "verse": 23,
-          "text": "And calling two Centurions, he said to them: Make ready two hundred soldiers, to go as far as Cæsarea, and seventy horsemen, and lances two hundred, from the third hour of the night:"
+          "text": "And calling two Centurions, he said to them: Make ready two hundred soldiers, to go as far as Cæsarea, and seventy horsemen, and launces two hundred, from the third hour of the night:"
         },
         {
           "verse": 24,
@@ -5084,7 +5389,7 @@
         },
         {
           "verse": 32,
-          "text": "And the next day sending away the horse-men to go with him, they returned to the castle."
+          "text": "And the next day sending away the horsemen to go with him, they returned to the castle."
         },
         {
           "verse": 33,
@@ -5126,7 +5431,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c τῆς αἱρέσεως."
+              "text": "c τῆς αἱρέσεως.",
+              "kind": "word"
             }
           ]
         },
@@ -5168,15 +5474,18 @@
           "notes": [
             {
               "label": "1",
-              "text": "c κατὰ τὴν ὁδὸν"
+              "text": "c κατὰ τὴν ὁδὸν",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "Because Tertullus the Jews' orator called Christian religion the sect or (as it is there vers. 5. in the Greek) the heresy of the Nazarens: S. Paul answereth and sheweth that it is no heresy. And as for the word, Sect, in this place: it is in the Greek, According to the way, which they call heresy, as also Act. 9, 2. 24, 22. And therefore the word sect here is so taken. See Annot. c. 28, 22."
+              "text": "Because Tertullus the Jews' orator called Christian religion the sect or (as it is there vers. 5. in the Greek) the heresy of the Nazarens: S. Paul answereth and sheweth that it is no heresy. And as for the word, Sect, in this place: it is in the Greek, According to the way, which they call heresy, as also Act. 9, 2. 24, 22. And therefore the word sect here is so taken. See Annot. c. 28, 22.",
+              "kind": "gloss"
             },
             {
               "label": "3",
-              "text": "the God of my Fathers, (or) the Father, and my God,"
+              "text": "the God of my Fathers, (or) the Father, and my God,",
+              "kind": "gloss"
             }
           ]
         },
@@ -5241,7 +5550,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Apostolic teaching was not of only or special faith, but of justice, & chastity, & judgement, that is to say, of the terror of Hell and other God's judgments in the next life answerable to our deeds in this world: by which the hearers were first terrified, and so induced to penance. How say Heretics then that such things make men hypocrites?"
+              "text": "The Apostolic teaching was not of only or special faith, but of justice, & chastity, & judgement, that is to say, of the terror of Hell and other God's judgements in the next life answerable to our deeds in this world: by which the hearers were first terrified, and so induced to penance. How say Heretics then that such things make men hypocrites?",
+              "kind": "gloss"
             }
           ]
         },
@@ -5289,7 +5599,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c crimes as v. 27."
+              "text": "c crimes as v. 27.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5311,7 +5622,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "If S. Paul both to save himself from whipping and from death sought by the Jews, doubted not to cry for succour of the Roman laws, and to appeal to Cæsar the Prince of the Romans not yet Christened: how much more may we call for aid of Christian Princes and their laws, for the punishment of Heretics, and for the Church's defence against them? S. Augustine ep. 50."
+              "text": "If S. Paul both to save himself from whipping and from death sought by the Jews, doubted not to cry for succour of the Roman laws, and to appeal to Cæsar the Prince of the Romans not yet Christened: how much more may we call for aid of Christian Princes and their laws, for the punishment of Heretics, and for the Church's defence against them? S. Augustine ep. 50.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5349,7 +5661,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "This whom he termeth by contempt, one JESUS, hath now made all the Roman Emperors and Princes of the world to know him, and hath given the seat of the Cæsars to his poor servants, Peter & his successors."
+              "text": "This whom he termeth by contempt, one JESUS, hath now made all the Roman Emperors and Princes of the world to know him, and hath given the seat of the Cæsars to his poor servants, Peter & his successors.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5387,7 +5700,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c τὰς κατ ἀυτοῦ αἰτίας."
+              "text": "c τὰς κατ ἀυτοῦ αἰτίας.",
+              "kind": "word"
             }
           ]
         }
@@ -5399,11 +5713,11 @@
       "verses": [
         {
           "verse": 1,
-          "text": "But Agrippa said to Paul: Thou art permitted to speak for thyself. Then Paul stretching forth his hand, began to make his answer:"
+          "text": "But Agrippa said to Paul: Thou art permitted to speak for thy self. Then Paul stretching forth his hand, began to make his answer:"
         },
         {
           "verse": 2,
-          "text": "Touching all things whereof I am accused of the Jews, king Agrippa, I account myself happy for that I am to defend myself this day before thee,"
+          "text": "Touching all things whereof I am accused of the Jews, king Agrippa, I account myself happy for that I am to defend my self this day before thee,"
         },
         {
           "verse": 3,
@@ -5419,7 +5733,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c ἁίρεσιν"
+              "text": "c ἁίρεσιν",
+              "kind": "word"
             }
           ]
         },
@@ -5433,11 +5748,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "b in quam"
+              "text": "b in quam",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "c λατρεῦον"
+              "text": "c λατρεῦον",
+              "kind": "word"
             }
           ]
         },
@@ -5460,7 +5777,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "c detuli sententiam."
+              "text": "c detuli sententiam.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5479,7 +5797,7 @@
         },
         {
           "verse": 13,
-          "text": "at mid-day, in the way, I saw (o king) from Heaven a light to have shined round about me and them that were in company with me, above the brightness of the sun."
+          "text": "at midday, in the way, I saw (o king) from Heaven a light to have shined round about me and them that were in company with me, above the brightness of the sun."
         },
         {
           "verse": 14,
@@ -5487,7 +5805,7 @@
         },
         {
           "verse": 15,
-          "text": "And I said: Who are thou Lord? And our Lord answered: I am Jesus whom thou doest persecute."
+          "text": "And I said: Who art thou Lord? And our Lord answered: I am Jesus whom thou doest persecute."
         },
         {
           "verse": 16,
@@ -5516,7 +5834,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "Penance often inculcated, and works agreeable to the same."
+              "text": "Penance often inculcated, and works agreeable to the same.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5563,7 +5882,7 @@
         },
         {
           "verse": 30,
-          "text": "And the king rose up, and the President, and Bernice, and they that sat by them."
+          "text": "And the king rose up, and the President, and Bernice, and they that sate by them."
         },
         {
           "verse": 31,
@@ -5601,7 +5920,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Myra"
+              "text": "Myra",
+              "kind": "gloss"
             }
           ]
         },
@@ -5623,7 +5943,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "It may signify the Jews' fast of the seventh month September, after which the navigation was perilous, winter approaching."
+              "text": "It may signify the Jews' fast of the seventh month September, after which the navigation was perilous, winter approaching.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5641,13 +5962,14 @@
           "notes": [
             {
               "label": "1",
-              "text": "c names of winds."
+              "text": "c names of winds.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 13,
-          "text": "And the south-wind blowing, they thinking that they had obtained their purpose, when they had parted from Asson, sailed along by Crete."
+          "text": "And the southwind blowing, they thinking that they had obtained their purpose, when they had parted from Asson, sailed along by Crete."
         },
         {
           "verse": 14,
@@ -5663,17 +5985,19 @@
           "notes": [
             {
               "label": "1",
-              "text": "c Græc. Clauda."
+              "text": "c Græc. Clauda.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 17,
-          "text": "Which being taken up, they used helps, girding the ship, and fearing lest they should fall into the Syrt, letting down the vessel, so were they carried.",
+          "text": "Which being taken up, they used helps, girding the ship, and fearing lest they should fall into the Syrte, letting down the vessel, so were they carried.",
           "notes": [
             {
               "label": "1",
-              "text": "c a place of quick sands."
+              "text": "c a place of quick sands.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5704,7 +6028,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c ᾧ λατρεύω."
+              "text": "c ᾧ λατρεύω.",
+              "kind": "word"
             }
           ]
         },
@@ -5714,7 +6039,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Paul (saith S. Hierom) had so many souls in the ship given him, that is, so many men saved for his sake: and after he is with Christ, shall he shut his mouth, and not be able once to speak for them that have believed in his Gospel? Hiero. adv. Vigil. Whereby he proveth that if God do much for the merits of saints in this life, much more at their intercession & prayer in Heaven."
+              "text": "Paul (saith S. Hierom) had so many souls in the ship given him, that is, so many men saved for his sake: and after he is with Christ, shall he shut his mouth, and not be able once to speak for them that have believed in his Gospel? Hiero. adv. Vigil. Whereby he proveth that if God do much for the merits of saints in this life, much more at their intercession & prayer in Heaven.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5728,7 +6054,7 @@
         },
         {
           "verse": 27,
-          "text": "But after the fourteenth night was come on us, as we were sailing in Adria about mid-night, the ship-men deemed that there appeared some country to them."
+          "text": "But after the fourteenth night was come on us, as we were sailing in Adria about midnight, the shipmen deemed that there appeared some country to them."
         },
         {
           "verse": 28,
@@ -5740,11 +6066,11 @@
         },
         {
           "verse": 30,
-          "text": "But as the ship-men sought to fly out of the ship, having let down the cock-boat into the sea, pretending as if they were about to cast out anchors out of the fore-part of the ship,"
+          "text": "But as the shipmen sought to flee out of the ship, having let down the cock-boat into the sea, pretending as if they were about to cast out anchors out of the fore part of the ship,"
         },
         {
           "verse": 31,
-          "text": "Paul said to the Centurion and to the soldiers: unless these tarry in the ship you cannot be saved.",
+          "text": "Paul said to the Centurion and to the soldiers: unless these tarry in the ship you can not be saved.",
           "has_annotation": true
         },
         {
@@ -5781,7 +6107,7 @@
         },
         {
           "verse": 40,
-          "text": "And when they had taken up the anchors, they committed themselves to the sea, loosing withal the rudder bands: and hoisting up the main sail according as the wind blew, they went on toward the shore."
+          "text": "And when they had taken up the anchors, they committed themselves to the sea, loosing withal the rudder bands: and hoising up the main sail according as the wind blew, they went on toward the shore."
         },
         {
           "verse": 41,
@@ -5811,11 +6137,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "This island (now Malta) is the seat of the knights of the Rhodes: the inhabitants whereof have a special devotion to S. Paul: to whom both the chief Church (being the Bishop's Seat) is dedicated, and the whole Island (as they count it) consecrated. Where the people shew yet to strangers, his prison and other memories of his miracles."
+              "text": "This island (now Malta) is the seat of the knights of the Rhodes: the inhabitants whereof have a special devotion to S. Paul: to whom both the chief Church (being the Bishop's Seat) is dedicated, and the whole Island (as they count it) consecrated. Where the people shew yet to strangers, his prison and other memories of his miracles.",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "Melita"
+              "text": "Melita",
+              "kind": "gloss"
             }
           ]
         },
@@ -5833,7 +6161,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c ἡ δίκη"
+              "text": "c ἡ δίκη",
+              "kind": "word"
             }
           ]
         },
@@ -5856,7 +6185,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Miraculous healing by imposition of the Apostle's hands."
+              "text": "Miraculous healing by imposition of the Apostle's hands.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5920,7 +6250,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c αἱρέσεως."
+              "text": "c αἱρέσεως.",
+              "kind": "word"
             }
           ]
         },
@@ -5951,7 +6282,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Here also (as Mat. 13.) it is plain that they would not see, nor hear, & that their excecation is to be attributed to themselves & not to God. See annota. Io. 12, 40."
+              "text": "Here also (as Mat. 13.) it is plain that they would not see, nor hear, & that their excecation is to be attributed to themselves & not to God. See annota. Io. 12, 40.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5965,7 +6297,7 @@
         },
         {
           "verse": 30,
-          "text": "And he tarried full two years in his hired lodging: and he received all that came in to him,"
+          "text": "And he tarried full two years in his hired lodging: and he received all that came into him,"
         },
         {
           "verse": 31,

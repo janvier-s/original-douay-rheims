@@ -57,7 +57,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "S. Augustine saith, He that list to have the hope of heaven: let him look that he have a good conscience. To have a good conscience, let him believe & work well. For that he believeth, he hath of faith; that he worketh, he hath of charity. Præfat. <i>in Ps. 31.</i>"
+              "text": "S. Augustine saith, He that list to have the hope of heaven: let him look that he have a good conscience. To have a good conscience, let him believe & work well. For that he believeth, he hath of faith; that he worketh, he hath of charity. Præfat. <i>in Ps. 31.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -67,7 +68,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>c ματαιολογίαν,</i>"
+              "text": "<i>c ματαιολογίαν,</i>",
+              "kind": "word"
             }
           ]
         },
@@ -125,7 +127,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>c πρὸς ὑποτύπωσιν</i>"
+              "text": "<i>c πρὸς ὑποτύπωσιν</i>",
+              "kind": "word"
             }
           ]
         },
@@ -139,7 +142,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>c ἐπί σε</i>"
+              "text": "<i>c ἐπί σε</i>",
+              "kind": "word"
             }
           ]
         },
@@ -149,7 +153,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Evil life and no good conscience is often the cause that men fall to Heresy from the faith of the Catholic Church. Again, this plainly reproveth the heretics' false doctrine, saying, that no man can fall from the faith that he once truly had."
+              "text": "Evil life and no good conscience is often the cause that men fall to Heresy from the faith of the Catholic Church. Again, this plainly reproveth the heretics' false doctrine, saying, that no man can fall from the faith that he once truly had.",
+              "kind": "gloss"
             }
           ]
         },
@@ -166,7 +171,7 @@
       "verses": [
         {
           "verse": 1,
-          "text": "I desire therefore first of all things that obsecrations, prayers, postulations, thanks-givings be made for all men,",
+          "text": "I desire therefore first of all things that obsecrations, prayers, postulations, thanksgivings be made for all men,",
           "has_annotation": true
         },
         {
@@ -175,7 +180,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Even for heathen kings & Emperors by whom the Church suffereth persecution: much more for all faithful Princes and Powers and people both spiritual and temporal, for whom as members of Christ's body, & therefore joining in prayer and oblation with the Ministers of the Church, the Priests more properly and particularly offer the holy Sacrifice. See S. Augustine <i>de orig. animæ. li. 1. c. 9.</i>"
+              "text": "Even for heathen kings & Emperors by whom the Church suffereth persecution: much more for all faithful Princes and Powers and people both spiritual and temporal, for whom as members of Christ's body, & therefore joining in prayer and oblation with the Ministers of the Church, the Priests more properly and particularly offer the holy Sacrifice. See S. Augustine <i>de orig. animæ. li. 1. c. 9.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -199,7 +205,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The prayers & petitions in the Mass,"
+              "text": "The prayers & petitions in the Mass,",
+              "kind": "gloss"
             }
           ]
         },
@@ -262,7 +269,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>she</i>"
+              "text": "<i>she</i>",
+              "kind": "gloss"
             }
           ]
         }
@@ -285,6 +293,9 @@
             {
               "text": "Tit. 1, 6."
             }
+          ],
+          "xrefs": [
+            "Tit. 1, 6."
           ]
         },
         {
@@ -297,7 +308,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c He saith, <i>having children,</i> not, <i>getting children. S. Ambr. Ep. 82.</i>"
+              "text": "c He saith, <i>having children,</i> not, <i>getting children. S. Ambr. Ep. 82.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -307,16 +319,18 @@
         },
         {
           "verse": 6,
-          "text": "Not <na>[1]</na> <na>[2]</na> a neophyte: lest puffed into pride, he fall into the judgement of the devil.",
+          "text": "Not <na>[1]</na> <na>[2]</na> a neophyte: lest puffed into pride, he fall into the judgment of the devil.",
           "has_annotation": true,
           "notes": [
             {
               "label": "1",
-              "text": "b <i>Neophytus</i> is he that was lately christened or newly planted in the mystical body of Christ."
+              "text": "b <i>Neophytus</i> is he that was lately christened or newly planted in the mystical body of Christ.",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "<i>b νεόφυτον</i>"
+              "text": "<i>b νεόφυτον</i>",
+              "kind": "word"
             }
           ]
         },
@@ -331,7 +345,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>c σεμνοὺς</i>"
+              "text": "<i>c σεμνοὺς</i>",
+              "kind": "word"
             }
           ]
         },
@@ -381,6 +396,10 @@
           "cross_refs": [
             {
               "text": "2. Tim. 3 2. Pet. 3. Jude v. 18."
+            },
+            {
+              "text": "2 Tim. 3. 3",
+              "source": "sancta"
             }
           ]
         },
@@ -400,7 +419,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "We see plainly by these words such abstinence only to be disallowed as condemneth the creatures of God to be naught by nature & creation."
+              "text": "We see plainly by these words such abstinence only to be disallowed as condemneth the creatures of God to be naught by nature & creation.",
+              "kind": "gloss"
             }
           ]
         },
@@ -415,11 +435,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "All Heretics are apostates from the faith."
+              "text": "All Heretics are apostates from the faith.",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "<i>ἀποστήσονται</i>"
+              "text": "<i>ἀποστήσονται</i>",
+              "kind": "word"
             }
           ]
         },
@@ -438,7 +460,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "Some (saith S. Chrysost.) expound this of fasting, but they are deceived: for fasting is a spiritual exercise. See a goodly commentary of these words in S. August. <i>li. de mor. Eccl. Cath. c. 33.</i>"
+              "text": "Some (saith S. Chrysost.) expound this of fasting, but they are deceived: for fasting is a spiritual exercise. See a goodly commentary of these words in S. August. <i>li. de mor. Eccl. Cath. c. 33.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -464,7 +487,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>and</i>"
+              "text": "<i>and</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -475,7 +499,7 @@
         },
         {
           "verse": 15,
-          "text": "These things do thou mediate, be in these things: that thy profiting may be manifest to all."
+          "text": "These things do thou meditate, be in these things: that thy profiting may be manifest to all."
         },
         {
           "verse": 16,
@@ -503,7 +527,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle upon S. Monica's day. May. 4. And for holy widows."
+              "text": "The Epistle upon S. Monica's day. May. 4. And for holy widows.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -517,7 +542,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Because of this continual prayer which standeth not with conjugal & carnal acts of matrimony (as the Apostle signifieth <i>1. Cor. 7, 5.</i> ) therefore were these widows to live in the state of perpetual continency."
+              "text": "Because of this continual prayer which standeth not with conjugal & carnal acts of matrimony (as the Apostle signifieth <i>1. Cor. 7, 5.</i> ) therefore were these widows to live in the state of perpetual continency.",
+              "kind": "gloss"
             }
           ]
         },
@@ -578,7 +604,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c Double honour and livelihood due to good Priests."
+              "text": "c Double honour and livelihood due to good Priests.",
+              "kind": "gloss"
             }
           ]
         },
@@ -597,7 +624,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Here the Apostle will not have every light fellow to be heard against a Priest. So S. Augustin for the like reverence of priesthood, admonisheth Pancarius that in nowise he admit any testimonies or accusations of Heretics against a Catholic Priest <i>ep. 212.</i>"
+              "text": "Here the Apostle will not have every light fellow to be heard against a Priest. So S. Augustin for the like reverence of priesthood, admonisheth Pancarius that in nowise he admit any testimonies or accusations of Heretics against a Catholic Priest <i>ep. 212.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -615,7 +643,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Bishops must have great care that they give not Orders to any that is not well tried for his faith, learning, and good behaviour."
+              "text": "Bishops must have great care that they give not Orders to any that is not well tried for his faith, learning, and good behaviour.",
+              "kind": "gloss"
             }
           ]
         },
@@ -630,7 +659,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>also</i>"
+              "text": "<i>also</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -658,11 +688,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "c See the annotation before <i>cap. 1, 3. 4.</i>"
+              "text": "c See the annotation before <i>cap. 1, 3. 4.</i>",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "<i>ἑτεροδιδασκαλεῖ.</i>"
+              "text": "<i>ἑτεροδιδασκαλεῖ.</i>",
+              "kind": "word"
             }
           ]
         },
@@ -681,7 +713,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "b The Epistle for S. Alexius, <i>Iul. 17.</i>"
+              "text": "b The Epistle for S. Alexius, <i>Iul. 17.</i>",
+              "kind": "lectionary"
             }
           ]
         },
@@ -713,17 +746,19 @@
           "notes": [
             {
               "label": "1",
-              "text": "As in the 1. chap. lack of faith and good conscience, so here covetousness or desire of these temporal things, & in the end of this chap. presumption and boasting of knowledge, are causes of falling from the faith: heresy often being the punishment of former sins."
+              "text": "As in the 1. chap. lack of faith and good conscience, so here covetousness or desire of these temporal things, & in the end of this chap. presumption and boasting of knowledge, are causes of falling from the faith: heresy often being the punishment of former sins.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 11,
-          "text": "But thou, o man of God, fly these things; and <na>[1]</na> pursue justice, piety, faith, charity, patience, mildness.",
+          "text": "But thou, o man of God, flee these things; and <na>[1]</na> pursue justice, piety, faith, charity, patience, mildness.",
           "notes": [
             {
               "label": "1",
-              "text": "b The Epistle for S. Timothee, <i>Ian. 24.</i>"
+              "text": "b The Epistle for S. Timothee, <i>Ian. 24.</i>",
+              "kind": "lectionary"
             }
           ]
         },
@@ -738,6 +773,9 @@
             {
               "text": "Io. 18, 37."
             }
+          ],
+          "xrefs": [
+            "Io. 18, 37."
           ]
         },
         {
@@ -760,6 +798,9 @@
             {
               "text": "Io. 1, 18."
             }
+          ],
+          "xrefs": [
+            "Io. 1, 18."
           ]
         },
         {
@@ -776,7 +817,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Alms deeds and good works laid for a foundation and ground to attain everlasting life. So say the Doctors upon this place."
+              "text": "Alms deeds and good works laid for a foundation and ground to attain everlasting life. So say the Doctors upon this place.",
+              "kind": "gloss"
             }
           ]
         },
@@ -787,7 +829,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>c καινοφωνίας. S. Chrysostom.</i>"
+              "text": "<i>c καινοφωνίας. S. Chrysostom.</i>",
+              "kind": "gloss"
             }
           ]
         },

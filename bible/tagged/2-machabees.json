@@ -13,11 +13,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "E"
+              "text": "E",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "The Appendix concerning two epistles of the Jews was added to the history of the first book by him that writ this second."
+              "text": "The Appendix concerning two epistles of the Jews was added to the history of the first book by him that written this second.",
+              "kind": "head"
             }
           ]
         },
@@ -47,11 +49,13 @@
           "notes": [
             {
               "label": "a",
-              "text": "As they had written before in their afflictions, so now they exhort their brethren to be thankful to God, and amongst other means to shew their grateful mind by celebrating the feast of dedication of the new altar."
+              "text": "As they had written before in their afflictions, so now they exhort their brethren to be thankful to God, and amongst other means to shew their grateful mind by celebrating the feast of dedication of the new altar.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "li. 2. c. 4. v. 7."
+              "text": "li. 2. c. 4. v. 7.",
+              "kind": "gloss"
             }
           ]
         },
@@ -61,7 +65,7 @@
         },
         {
           "verse": 9,
-          "text": "And now celebrate ye the days of Scenopegia of the month Casleu."
+          "text": "And now celebrate ye the days of Scenopegia of the month Cesleu."
         },
         {
           "verse": 10,
@@ -69,7 +73,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "It seemeth that either this Judas was the first son of John Hyrcanus (otherwise called Aristobolus) or rather Judas Essenus of whom, ch. 2. v. 14. and of whom Iosephus writeth. <i>li. 13. c. 19.</i>"
+              "text": "It seemeth that either this Judas was the first son of John Hyrcamus (otherwise called Aristobolus) or rather Judas Essenus of whom, ch. 2. v. 14. and of whom Iosephus writeth. <i>li. 13. c. 19.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -95,7 +100,7 @@
         },
         {
           "verse": 16,
-          "text": "when Antiochus was entered in: & a secret entrance of the temple being opened, casting stones they struck the duke, and them that were with him, and divided them in pieces, and cutting off their heads they threw them forth."
+          "text": "when Antiochus was entered in: & a secret entrance of the temple being opened, casting stones they stroke the duke, and them that were with him, and divided them in pieces, and cutting of their heads they threw them forth."
         },
         {
           "verse": 17,
@@ -111,7 +116,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Chaldea being near to Persis, is sometimes comprehended under the same name so Mamertinus, <i>in Panagerica ad Iulia,</i> reciteth <i>Tigris and Euphrates</i> amongst the rivers of Persis, & S. Chrysostom. <i>ho. 6. in Math.</i> saith the Jews were delivered <i>from captivity of Persis,</i> meaning Babylon."
+              "text": "Chaldea being near to Persis, is sometimes comprehended under the same name so Mamertinus, <i>in Panagerica ad Iulia,</i> reciteth <i>Tigris and Euphrates</i> amongst the rivers of Persis, & S. Chrysostom. <i>ho. 6. in Math.</i> saith the Jews were delivered <i>from captivity of Persis,</i> meaning Babylon.",
+              "kind": "gloss"
             }
           ]
         },
@@ -121,7 +127,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "In this fire were four miracles, First it was not changed into air but into water. <i>v. 20.</i>"
+              "text": "In this fire were four miracles, First it was not changed into air but into water. <i>v. 20.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -135,13 +142,14 @@
           "notes": [
             {
               "label": "e",
-              "text": "Secondly this water being cast on the hosts of sacrifice was kindled as fire <i>v. 22.</i>"
+              "text": "Secondly this water being cast on the hosts of sacrifice was kindled as fire <i>v. 22.</i>",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 23,
-          "text": "And all the Priests made prayer, whilst the sacrifice was consuming, Jonathas beginning, and the rest answering."
+          "text": "And all the Priests made prayer, whiles the sacrifice was consuming, Jonathas beginning, and the rest answering."
         },
         {
           "verse": 24,
@@ -181,11 +189,13 @@
           "notes": [
             {
               "label": "f",
-              "text": "Thirdly, it burned also being cast upon stones. <i>v. 32.</i>"
+              "text": "Thirdly, it burned also being cast upon stones. <i>v. 32.</i>",
+              "kind": "gloss"
             },
             {
               "label": "g",
-              "text": "Fourth, it was extinguished by the light that came from the altar. <i>v. 32.</i>"
+              "text": "Fourth, it was extinguished by the light that came from the altar. <i>v. 32.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -207,7 +217,8 @@
           "notes": [
             {
               "label": "h",
-              "text": "<i>Nephthar,</i> signifieth <i>delivery,</i> which is the effect of purification, for the temple & other holy things being purified, were delivered from profane use."
+              "text": "<i>Nephthar,</i> signifieth <i>delivery,</i> which is the effect of purification, for the temple & other holy things being purified, were delivered from profane use.",
+              "kind": "gloss"
             }
           ]
         }
@@ -223,7 +234,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "S. Ambrose. <i>li. 3. c. 14. Offic.</i> writeth at large of this miracle."
+              "text": "S. Ambrose. <i>li. 3. c. 14. Offic.</i> writeth at large of this miracle.",
+              "kind": "gloss"
             }
           ]
         },
@@ -241,11 +253,13 @@
           "notes": [
             {
               "label": "b",
-              "text": "Neither the tabernacle nor the ark were carried away by Nabuchodonosor, but were preserved by some means: and most like (besides the authority of this scripture) by Jeremy the prophet, who had special favour of the Babylonians, when Jerusalem was taken. <i>Iere. 39. v. 11.</i>"
+              "text": "Neither the tabernacle nor the ark were carried away by Nabuchodonosor, but were preserved by some means: and most like (besides the authority of this scripture) by Jeremie the prophet, who had special favour of the Babylonians, when Jerusalem was taken. <i>Iere. 39. v. 11.</i>",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "<i>Epis. Iere. Baruc. 6.</i>"
+              "text": "<i>Epis. Iere. Baruc. 6.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -259,7 +273,7 @@
         },
         {
           "verse": 7,
-          "text": "And as Jeremy understood it, blaming them he said: that the place shall be unknown, till God gather together the congregation of the people, and become propitious:"
+          "text": "And as Jeremie understood it, blaming them he said: that the place shall be unknown, till God gather together the congregation of the people, and become propitious:"
         },
         {
           "verse": 8,
@@ -301,7 +315,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "This seemeth to be the same Judas Essenus who with others writ this epistle. <i>ch. 1. v. 10.</i>"
+              "text": "This seemeth to be the same Judas Essenus who with others writ this epistle. <i>ch. 1. v. 10.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -327,7 +342,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>* li. 2. c. 15. v. 38.</i>"
+              "text": "<i>* li. 2. c. 15. v. 38.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -337,11 +353,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "After the author had written this Appendix to the former Book, he resolved also to add an abridgement of the whole history, whereunto he maketh this Preface, signifying the matter whereof he will write. v. 20. in what manner. v. 24. and why, v. 25. avouching his diligence. v. 26. with brevity. v. 29."
+              "text": "After the author had written this Appendix to the former Book, he resolved also to add an abridgement of the whole history, whereunto he maketh this Preface, signifying the matter whereof he will write. v. 20. in what manner. v. 24. and why, v. 25. avouching his diligence. v. 26. with brevity. v. 29.",
+              "kind": "gloss"
             },
             {
               "label": "d",
-              "text": "See previous note"
+              "text": "See previous note",
+              "kind": "gloss"
             }
           ]
         },
@@ -367,7 +385,8 @@
           "notes": [
             {
               "label": "e",
-              "text": "God assisting the writers of divine histories, doth not always deliver them from labour in seeking to know the same of such as knew particular things. So S. Luke writ the Gospel <i>having diligently attained to all things. Luc. 1. v. 3.</i>"
+              "text": "God assisting the writers of divine histories, doth not always deliver them from labour in seeking to know the same of such as knew particular things. So S. Luke writ the Gospel <i>having diligently attained to all things. Luc. 1. v. 3.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -377,7 +396,7 @@
         },
         {
           "verse": 27,
-          "text": "And to our own selves indeed, which have taken upon us this work, to make an abridgment, we have taken in hand no easy labour, yea rather a business full of watching and sweat."
+          "text": "And to our own selves indeed, which have taken upon us this work, to make an abridgement, we have taken in hand no easy labour, yea rather a business full of watching and sweat."
         },
         {
           "verse": 28,
@@ -389,7 +408,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>* exact declaration.</i>"
+              "text": "<i>* exact declaration.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -411,7 +431,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>* li. 1. c. 1. v. 1.</i>"
+              "text": "<i>* li. 1. c. 1. v. 1.</i>",
+              "kind": "gloss"
             }
           ]
         }
@@ -430,23 +451,28 @@
           "notes": [
             {
               "label": "a",
-              "text": "Three things make a common wealth to be in good state."
+              "text": "Three things make a common wealth to be in good state.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "C"
+              "text": "C",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "1. Good agreement of principal men amongst themselves, & with the commonality."
+              "text": "1. Good agreement of principal men amongst themselves, & with the commonality.",
+              "kind": "gloss"
             },
             {
               "label": "3",
-              "text": "2. Exact observation of good laws:"
+              "text": "2. Exact observation of good laws:",
+              "kind": "gloss"
             },
             {
               "label": "4",
-              "text": "3. And eminent virtue of the supreme governor with exercise of piety and hate of sins."
+              "text": "3. And eminent virtue of the supreme governor with exercise of piety and hate of sins.",
+              "kind": "gloss"
             }
           ]
         },
@@ -464,21 +490,24 @@
           "notes": [
             {
               "label": "b",
-              "text": "other three things do trouble the state:"
+              "text": "other three things do trouble the state:",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "Obstinacy in offenders, not content to be corrected."
+              "text": "Obstinacy in offenders, not content to be corrected.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 5,
-          "text": "And <na>[1]</na> when he could not overcome Onias, he came to Apollonius the son of Tharsæas, who at that time was governor of Cælesyria, and Phænicia:",
+          "text": "And <na>[1]</na> when he could not overcome Onias, he came to Appollonius the son of Tharsæas, who at that time was governor of Cælesyria, and Phænicia:",
           "notes": [
             {
               "label": "1",
-              "text": "2. Inveterate malice seeking revenge against just Superiors."
+              "text": "2. Inveterate malice seeking revenge against just Superiors.",
+              "kind": "gloss"
             }
           ]
         },
@@ -488,11 +517,12 @@
         },
         {
           "verse": 7,
-          "text": "And <na>[1]</na> when Apollonius had made relation to the king, concerning the money that he was told of, he calling for Heliodorus, who was over his affairs, sent him with commission to transport the foresaid money.",
+          "text": "And <na>[1]</na> when Appollonius had made relation to the king, concerning the money that he was told of, he calling for Heliodorus, who was over his affairs, sent him with commission to transport the foresaid money.",
           "notes": [
             {
               "label": "1",
-              "text": "3. and avarice of princes, to rob the holy or common treasure."
+              "text": "3. and avarice of princes, to rob the holy or common treasure.",
+              "kind": "gloss"
             }
           ]
         },
@@ -530,7 +560,7 @@
         },
         {
           "verse": 16,
-          "text": "But now he that saw the countenance of the high-Priest, was wounded in mind: for his face and colour being changed declared the inner sorrow of the mind."
+          "text": "But now he that saw the countenance of the high priest, was wounded in mind: for his face and colour being changed declared the inner sorrow of the mind."
         },
         {
           "verse": 17,
@@ -542,11 +572,12 @@
         },
         {
           "verse": 19,
-          "text": "And the women having their breast girded with hair-cloths came together through the streets. Yea and the virgins <na>(c)</na> that were shut up, came forth to Onias, and some to the walls, but some looked through the windows:",
+          "text": "And the women having their breast girded with haircloths came together through the streets. Yea and the virgins <na>(c)</na> that were shut up, came forth to Onias, and some to the walls, but some looked through the windows:",
           "notes": [
             {
               "label": "c",
-              "text": "These virgins remained in places near to the temple, brought up in exercises of piety, fasting and praying, till they were despoused. <i>1. Reg. 2. v. 22. 8. Amb. li. 1. de virgini. S. Greg. Nissen: Orat. de Christi. Nativit. S. Damas. li. 4. c. 13.</i>"
+              "text": "These virgins remained in places near to the temple, brought up in exercises of piety, fasting and praying, till they were despoused. <i>1. Reg. 2. v. 22. 8. Amb. li. 1. de virgint. S. Greg. Nissen: Orat. de Christi. Nativit. S. Damas. li. 4. c. 13.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -572,11 +603,12 @@
         },
         {
           "verse": 25,
-          "text": "For <na>(d)</na> there appeared to them a certain horse having a terrible rider, adorned with very rich harness: and he with fierceness struck Heliodorus with his forefoot, and he that sat upon him, seemed to have armour of gold.",
+          "text": "For <na>(d)</na> there appeared to them a certain horse having a terrible rider, adorned with very rich harness: and he with fierceness stroke Heliodorus with his forefoot, and he that sat upon him, seemed to have armour of gold.",
           "notes": [
             {
               "label": "d",
-              "text": "<i>4. Reg. 2. v. 11.</i> A fiery chariot and fiery horses carried Elias from <i>Elizeus 4. Reg. 6. v. 17.</i> And the mountain appeared full of horses, and of fiery chariots round about <i>Elizeus,</i> no less strange than this vision. See S. Ambrose. <i>li. 2. c. 29. Offic.</i> discoursing upon this history."
+              "text": "<i>4. Reg. 2. v. 11.</i> A fiery chariot and fiery horses carried Elias from <i>Elizeus 4. Reg. 6. v. 17.</i> And the mountain appeared full of horses, and of fiery chariots round about <i>Elizeus,</i> no less strange than this vision. See S. Ambrose. <i>li. 2. c. 29. Offic.</i> discoursing upon this history.",
+              "kind": "gloss"
             }
           ]
         },
@@ -590,7 +622,7 @@
         },
         {
           "verse": 28,
-          "text": "And he that with many couriers, and men of his guard entered into the foresaid treasury, was carried no man giving him succourse, the manifest power of God being known."
+          "text": "And he that with many currers, and men of his guard entered into the foresaid treasury, was carried no man giving him succourse, the manifest power of God being known."
         },
         {
           "verse": 29,
@@ -606,7 +638,7 @@
         },
         {
           "verse": 32,
-          "text": "And the high-Priest considering lest perhaps the king might suspect some malice on the Jews' part done about Heliodorus, offered for the health of the man an healthful host."
+          "text": "And the high-Priest considering least perhaps the king might suspect some malice on the Jews' part done about Heliodorus, offered for the health of the man an healthful host."
         },
         {
           "verse": 33,
@@ -658,7 +690,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "It is the common practice of all traitors to calumniate and defame good governers."
+              "text": "It is the common practice of all traitors to calumniate and defame good governers.",
+              "kind": "gloss"
             }
           ]
         },
@@ -668,15 +701,16 @@
         },
         {
           "verse": 3,
-          "text": "But when the enmities proceeded so far, that murders also were committed by certain of Simon's familiars:"
+          "text": "But when the enmities proceeded so far, that murders also were committed by certain of Simons familiars:"
         },
         {
           "verse": 4,
-          "text": "Onias considering the peril of the contention, and that Apollonius being governor of Cælesyria, & Phænicia, was outrageous, which increased the malice of Simon, <na>(b)</na> went to the king.",
+          "text": "Onias considering the peril of the contention, and that Appollonius being governor of Cælesyria, & Phænicia, was outrageous, which increased the malice of Simon, <na>(b)</na> went to the king.",
           "notes": [
             {
               "label": "b",
-              "text": "And the best remedy against such seducers is by authority of Superior power, not by the people, who are commonly more prone to favour faction than justice."
+              "text": "And the best remedy against such seducers is by authority of Superior power, not by the people, who are commonly more prone to favour faction than justice.",
+              "kind": "gloss"
             }
           ]
         },
@@ -690,7 +724,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>* li. 1. c. 1. v. 11.</i>"
+              "text": "<i>* li. 1. c. 1. v. 11.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -700,7 +735,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "E"
+              "text": "E",
+              "kind": "gloss"
             }
           ]
         },
@@ -734,7 +770,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Where true Religion is abolished, most men neglect all shew of religion, and rather apply themselves to vanities, or worse sins."
+              "text": "Where true Religion is abolished, most men neglect all shew of religion, and rather apply themselves to vanities, or worse sins.",
+              "kind": "gloss"
             }
           ]
         },
@@ -764,7 +801,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>* li. 1. c. 1. v. 17.</i>"
+              "text": "<i>* li. 1. c. 1. v. 17.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -774,11 +812,13 @@
           "notes": [
             {
               "label": "d",
-              "text": "This king falsely pretended to restore his kinsman (his sister's son) to the kingdom being deprived by his younger brother <i>(Livius li. 44.)</i> but the true cause of his sending Apollonius into Ægypt, was to subdue that Kingdom to himself. <i>1. Mach. 1. v. 17.</i>"
+              "text": "This king falsely pretended to restore his kinsman (his sister's son) to the kingdom being deprived by his younger brother <i>(Livius li. 44.)</i> but the true cause of his sending Apollonius into Ægypt, was to subdue that Kingdom to himself. <i>1. Mach. 1. v. 17.</i>",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "G"
+              "text": "G",
+              "kind": "gloss"
             }
           ]
         },
@@ -808,7 +848,8 @@
           "notes": [
             {
               "label": "e",
-              "text": "Menelaus brother of Simon <i>(v. 23.)</i> of the tribe of Benjamin <i>(ch. 3. v. 4.)</i> was not by the law capable of the priesthood, which only pertained to the progeny of Aaron of the tribe of Levi. So in this troublesome time the right succession of high-priests was intermitted, and restored in Mathathias. <i>li. 1. c. 2.</i>"
+              "text": "Menelaus brother of Simon <i>(v. 23.)</i> of the tribe of Benjamin <i>(ch. 3. v. 4.)</i> was not by the law capable of the priesthood, which only pertained to the progeny of Aaron of the tribe of Levi. So in this troublesome time the right succession of high-priests was intermitted, and restored in Mathathias. <i>li. 1. c. 2.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -818,7 +859,7 @@
         },
         {
           "verse": 29,
-          "text": "And Menelaus was removed from the Priest-hood, Lysimachus his brother succeeding: and Sostratus was made governor of the Cyprians."
+          "text": "And Menelaus was removed from the Priesthood, Lysimachus his brother succeeding: and Sostratus was made governor of the Cyprians."
         },
         {
           "verse": 30,
@@ -826,11 +867,11 @@
         },
         {
           "verse": 31,
-          "text": "The king therefore came in haste to pacify them, one of his companions Andronicus being left substitute."
+          "text": "The king therefore came in haste to pacify them, one of his companions Adronicus being left substitute."
         },
         {
           "verse": 32,
-          "text": "But Menelaus supposing that he had taken a convenient time, stealing certain vessels of gold out of the temple, gave them to Andronicus, and others he had sold at Tyre, and in their near cities:"
+          "text": "But Menelaus supposing that he had taken a convenient time, stealing certain vessels of gold out of the temple, gave them to Adronicus, and others he had sold at Tyre, and in their near cities:"
         },
         {
           "verse": 33,
@@ -850,7 +891,8 @@
           "notes": [
             {
               "label": "f",
-              "text": "True and solid virtue moved the common people to compassion, the King himself to tears, the Tyrians to honour the bodies of the innocent with costly burial. <i>v. 49.</i>"
+              "text": "True and solid virtue moved the common people to compassion, the King himself to tears, the Tyrians to honour the bodies of the innocent with costly burial. <i>v. 49.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -872,7 +914,7 @@
         },
         {
           "verse": 41,
-          "text": "But as they understood the endeavour of Lysimachus, some took stones, some strong clubs, & certain threw ashes."
+          "text": "But as they understood the endeavour of Lysimachus, some took stones, some strong clubbles, & certain threw ashes."
         },
         {
           "verse": 42,
@@ -926,7 +968,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Strange things above the ordinary course of nature do ever signify God's wrath, for men's transgression, and are admonitions to turn from sin, with speed that we may escape the heavy hand of God's justice. So the Emperor Charles the Great interpreted the apparition of a great Comet as witnesseth <i>Fasciculus temporum.</i>"
+              "text": "Strange things above the ordinary course of nature do ever signify God's wrath, for men's transgression, and are admonitions to turn from sin, with speed that we may escape the heavy hand of God's justice. So the Emperor Charles the Great interpreted the apparition of a great Comet as witnesseth <i>Fasciculus temporum.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -952,7 +995,7 @@
         },
         {
           "verse": 8,
-          "text": "At last to his own destruction being inclosed of Aretas the tyrant of the Arabians, flying from city to city, odious to all men, as an apostata from the laws, and execrable, as an enemy of his country and citizens, he was thrust out into Ægypt:"
+          "text": "At last to his own destruction being inclosed of Aretas the tyrant of the Arabians, flying from city to city, odious to all men, as an apostata from the laws, and execrable, as an enemy of his country and citizens, he was thrust out into Egypt:"
         },
         {
           "verse": 9,
@@ -960,17 +1003,19 @@
           "notes": [
             {
               "label": "b",
-              "text": "Lacedemonians otherwise called Spartians, descended from the stock of Abraham. <i>li. 1. c. 12. v. 2.</i>"
+              "text": "Lacedemonians otherwise called Spartians, descended from the stock of Abraham. <i>li. 1. c. 12. v. 2.</i>",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 10,
-          "text": "but he that cast away many unburied, himself both unlamented, and unburied is cast forth, neither enjoying foreign burial, nor partaker of the sepulchre of his father's. <na>[1]</na>",
+          "text": "but he that cast away many unburied, himself both unlamented, and unburied is cast forth, neither enjoying foreign burial, nor partaker of the sepulchre of his fathers. <na>[1]</na>",
           "notes": [
             {
               "label": "1",
-              "text": "<i>* li. 1. c. 1. v. 21.</i>"
+              "text": "<i>* li. 1. c. 1. v. 21.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -980,7 +1025,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "I"
+              "text": "I",
+              "kind": "gloss"
             }
           ]
         },
@@ -1014,6 +1060,10 @@
           "cross_refs": [
             {
               "text": "ch. 3. v. 23. 27."
+            },
+            {
+              "text": "c. 3. v. 3. 27",
+              "source": "sancta"
             }
           ]
         },
@@ -1023,7 +1073,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "All rites of religion with temples and other holy things"
+              "text": "All rites of religion with temples and other holy things",
+              "kind": "gloss"
             }
           ]
         },
@@ -1061,7 +1112,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "Judas was the tenth lawful highpriest from the Monarchy of the Grecians."
+              "text": "Judas was the tenth lawful highpriest from the Monarchy of the Grecians.",
+              "kind": "gloss"
             }
           ]
         }
@@ -1081,7 +1133,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Sanaballat in the time of Alexander the great procured a temple to be built in Garizim like to that in Jerusalem. Another was built in Ægypt by Ananias in the time of Ptolomee Philometor both schismatical. <i>Iosephus. l. 11. c. 8. & li. 13. c. 6.</i>"
+              "text": "Sanaballat in the time of Alexander the great procured a temple to be built in Garizim like to that in Jerusalem. Another was built in Ægypt by Ananias in the time of Ptolomee Philometor both schismatical. <i>Iosephus. l. 11. c. 8. & li. 13. c. 6.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -1115,7 +1168,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Besides former great massacre. <i>c. 5.</i> four most notorious martyrdoms are here related."
+              "text": "Besides former great massacre. <i>c. 5.</i> four most notorious martyrdoms are here related.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1125,7 +1179,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "1. Women with their circumcised children."
+              "text": "1. Women with their circumcised children.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1135,7 +1190,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "2. Other people for keeping the sabbath."
+              "text": "2. Other people for keeping the sabbath.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1145,7 +1201,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "A necessary admonition to the weak in time of persecution."
+              "text": "A necessary admonition to the weak in time of persecution.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1175,11 +1232,13 @@
           "notes": [
             {
               "label": "c",
-              "text": "He was excellently learned in holy Scriptures and in all divine and human knowledge."
+              "text": "He was excellently learned in holy Scriptures and in all divine and human knowledge.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "3. Eleazarus ninety years old cruelly slain."
+              "text": "3. Eleazarus ninety years old cruelly slain.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1197,7 +1256,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "To feign or make outward shew of consent to false religion, is never lawful."
+              "text": "To feign or make outward shew of consent to false religion, is never lawful.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1211,7 +1271,8 @@
           "notes": [
             {
               "label": "e",
-              "text": "In the old testament none could enter into heaven but the most just went to <i>Limbus</i> when they died."
+              "text": "In the old testament none could enter into heaven but the most just went to <i>Limbus</i> when they died.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1221,7 +1282,8 @@
           "notes": [
             {
               "label": "f",
-              "text": "Old age (saith S. Ambrose. <i>li. 2. c. 10. de Iacob patri,</i> ) ought to be the haven, not the shipwreck of thy former life."
+              "text": "Old age (saith S. Ambrose. <i>li. 2. c. 10. de Iacob patri,</i> ) ought to be the haven, not the shipwreck of thy former life.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1265,11 +1327,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "Whosoever please to read more of these glorious Martyrs, may see the large discourses of Flavius Iosephus in his book <i>de Machabæis.</i> And of sundry ancient Fathers: S. Cyprian. <i>li. 4. Epist. ep. 6.</i> S. Chrysostom, <i>homilia de nativitate septem Machabæorum.</i> S. Ambrose. <i>li. 1. Offic. c. 40. &c. li. 11. de Iacob. c. 9.</i> S. Augustin, <i>de origine animæ. Tract. 8. in Epist. 1. Ioan. & Ser. 110. de diversis.</i> S. Prosper: <i>li. de prædict. par. 2. c. 40.</i> S. Prudentius. <i>hymno de Romano Martyre.</i> S. Leo. <i>Ser. de Nat. septem fratrum. Machab.</i> S. Gaudentius <i>Brixanus Tractatu de Machabæis.</i> S. Ephrem. <i>Ser. de morte.</i> S. Victorinus Afer. <i>Carmine de septem Machabæis.</i>"
+              "text": "Whosoever please to read more of these glorious Martyrs, may see the large discourses of Flavius Iosephus in his book <i>de Machabeis.</i> And of sundry ancient Fathers: S. Cyprian. <i>li. 4. Epist. ep. 6.</i> S. Chrysostom, <i>homilia de nativitate septem Machabæorum.</i> S. Ambrose. <i>li. 1. Offic. c. 40. &c. li. 11. de Iacob. c. 9.</i> S. Augustin, <i>de origine anima. Tract. 8. in Epist. 1. Ioan. & Ser. 110. de diversis.</i> S. Prosper: <i>li. de prædict. par. 2. c. 40.</i> S. Prudentius. <i>hymno de Romano Martyre.</i> S. Leo. <i>Ser. de Nat. septem fratrum. Machab.</i> S. Gaudentius <i>Brixanus Tractatu de Machabeis.</i> S. Ephrem. <i>Ser. de morte.</i> S. Victorinus Afer. <i>Carmine de septem Machabeis.</i>",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "4. The fourth Martyrdom was of seven brethren and their mother."
+              "text": "4. The fourth Martyrdom was of seven brethren and their mother.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1300,7 +1364,7 @@
         },
         {
           "verse": 7,
-          "text": "The first therefore being dead in this manner, they brought the next to make him a mocking stock: & the skin of his head with the hairs being drawn off, they asked if he would eat, before that he were punished throughout the whole body in every member."
+          "text": "That first therefore being dead in this manner, they brought the next to make him a mocking stock: & the skin of his head with the hairs being drawn off, they asked if he would eat, before that he were punished throughout the whole body in every member."
         },
         {
           "verse": 8,
@@ -1380,7 +1444,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "A promise is properly of a good thing, & bindeth the promiser to do that which is indeed good. In so much that whosoever promiseth, sweareth, or voweth to do evil, is bond not to do it. And to do it, is a distinct sin besides the former."
+              "text": "A promise is properly of a good thing, & bindeth the promiser to do that which is indeed good. In so much that whosoever promiseth, sweareth, or voweth to do evil, is bond not to do it. And to do it, is a distinct sin besides the former.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1390,7 +1455,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "In that this godly woman deceived the tyrant, she did well, lawfully using equivocation."
+              "text": "In that this godly woman deceived the tyrant, she did well, lawfully using equivocation.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1456,7 +1522,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>* li. 1. c. 2. v. 1.</i>"
+              "text": "<i>* li. 1. c. 2. v. 1.</i>",
+              "kind": "gloss"
             }
           ]
         }
@@ -1472,7 +1539,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "L"
+              "text": "L",
+              "kind": "gloss"
             }
           ]
         },
@@ -1482,7 +1550,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "In all good attempts devout prayer is the first preparation. And no where more necessary than in battle. As well for good success (supposing always a good cause) as also that every one pray for his own soul, that it be in state of grace."
+              "text": "In all good attempts devout prayer is the first preparation. And no where more necessary than in battle. As well for good success (supposing always a good cause) as also that every one pray for his own soul, that it be in state of grace.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1508,21 +1577,24 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>* li. 1. c. 3. v. 10.</i>"
+              "text": "<i>* li. 1. c. 3. v. 10.</i>",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 8,
-          "text": "<na>[1]</na> But <na>(b)</na> Philip seeing the man to come forward by little & little, & that things for the more part succeeded with him prosperously, wrote to Ptolomee the governor of Coelesyria & Phoenicia, to give aid to the king's affairs.",
+          "text": "<na>[1]</na> But <na>(b)</na> Philip seeing the man to come forward by little & little, & that things for the more part succeeded with him prosperously, wrote to Ptolomee the governour of Coelesyria & Phoenicia, to give aid to the king's affairs.",
           "notes": [
             {
               "label": "b",
-              "text": "This Philip a Phrygian was left in Jerusalem by Antiochus to afflict the Jews. <i>ch. 5. v. 22.</i>"
+              "text": "This Philip a Phrygian was left in Jerusalem by Antiochus to afflict the Jews. <i>ch. 5. v. 22.</i>",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "N"
+              "text": "N",
+              "kind": "gloss"
             }
           ]
         },
@@ -1556,7 +1628,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Ajust and religious cause is the very best help, that can be in wars."
+              "text": "Ajust and religious cause is the very best help, that can be in wars.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1587,7 +1660,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Of this battle with the Galatians there is no other mention in holy scripture but is seemeth to be that, wherein they assisted Antiochus the first called Soter, when he repelled the Galatians invading Asia: whereof Appianus writeth in <i>bellis Syriacis.</i> And Iosephus testifieth, <i>li. 12. c. 3.</i> that Antiochus Magnus (son of Soter) much favoured the Jews for their exploits done in his father's days."
+              "text": "Of this battle with the Galatians there is no other mention in holy scripture but is seemeth to be that, wherein they assisted Antiochus the first called Soter, when he repelled the Galatians invading Asia: whereof Appianus writeth in <i>bellis Syriacis.</i> And Iosephus testifieth, <i>li. 12. c. 3.</i> that Antiochus Magnus (son of Soter) much favoured the Jews for their exploits done in his father's days.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1605,7 +1679,7 @@
         },
         {
           "verse": 24,
-          "text": "and a sign of God's help being given, in the forward the duke himself joined battle with Nicanor. And the Almighty being made their helper, they slew above nine thousand men: and the greater part of Nicanor's army being made weak with wounds, they forced to fly."
+          "text": "and a sign of God's help being given, in the forward the duke himself joined battle with Nicanor. And the Almighty being made their helper, they slew above nine thousand men: and the greater part of Nicanor's army being made weak with wounds, they forced to flee."
         },
         {
           "verse": 25,
@@ -1629,7 +1703,7 @@
         },
         {
           "verse": 30,
-          "text": "And of them that were with Timothee and Bacchides fighting against them, they slew above twenty thousand, and won the high holds: and they divided many preys, making equal portion to the feeble, pupils, and widows, yea and to the elder men."
+          "text": "And of them that were with Timothee and Bacchides fighting against them, they slew above twenty thousand, and wan the high holds: and they divided many preys, making equal portion to the feeble, pupils, and widows, yea and to the elder men."
         },
         {
           "verse": 31,
@@ -1649,7 +1723,7 @@
         },
         {
           "verse": 35,
-          "text": "being humbled through the help of our Lord by them, whom he esteemed nobody, laying aside his garment of glory, flying by the midland, came alone to Antioch, having gotten great infelicity by the destruction of his army."
+          "text": "being humbled through the help of our Lord by them, whom he esteemed nobody, laying aside his garment of glory, fleeing by the midland, came alone to Antioch, having gotten great infelicity by the destruction of his army."
         },
         {
           "verse": 36,
@@ -1657,7 +1731,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>* li. 1. c. 4. v. 28.</i>"
+              "text": "<i>* li. 1. c. 4. v. 28.</i>",
+              "kind": "gloss"
             }
           ]
         }
@@ -1679,17 +1754,19 @@
           "notes": [
             {
               "label": "1",
-              "text": "R"
+              "text": "R",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 2,
-          "text": "For he had entered into the city which is called <na>(a)</na> Persepolis, and he attempted to spoil the temple, and to oppress the city: but the multitude running together to arms, they were put to flight: and so it chanced that Antiochus after his flight returned with dishonour.",
+          "text": "For he had entered into the city which is called <na>(a)</na> Persipolis, and he attempted to spoil the temple, and to oppress the city: but the multitude running together to arms, they were put to flight: and so it chanced that Antiochus after his flight returned with dishonour.",
           "notes": [
             {
               "label": "a",
-              "text": "A chief city of Persis, called Elymais, <i>li. 1. c. 6. v. 1.</i>"
+              "text": "A chief city of Persis, called Elymais, <i>li. 1. c. 6. v. 1.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -1703,7 +1780,7 @@
         },
         {
           "verse": 5,
-          "text": "But he that seeth all things our Lord the God of Israel, struck him with an uncurable and invisible plague. For as he ended this very speech, a cruel plague of the bowels took him, and bitter torments of the inner parts:"
+          "text": "But he that seeth all things our Lord the God of Israel, stroke him with an uncurable and invisible plague. For as he ended this very speech, a cruel plague of the bowels took him, and bitter torments of the inner parts:"
         },
         {
           "verse": 6,
@@ -1739,7 +1816,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Antiochus was indeed really and seriously grieved, and truly acknowledged that his affliction was for his sins, <i>li. 1. c. 6. v. 11.</i> but he was not truly penitent for the offence committed against God & his neighbour, but only for his own calamity & misery: & therefore could not obtain <i>mercy</i> to remission of his sins, nor release of the punishment. So also the damned in hell, know & confess that they are punished for their sins, but have not true repentance for their offence against God."
+              "text": "Antiochus was indeed really and seriously grieved, and truly acknowledged that his affliction was for his sins, <i>li. 1. c. 6. v. 11.</i> but he was not truly penitent for the offence committed against God & his neighbour, but only for his own calamity & misery: & therefore could not obtain <i>mercy</i> to remission of his sins, nor release of the punishment. So also the damned in hell, know & confess that they are punished for their sins, but have not true repentance for their offence against God.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1773,7 +1851,7 @@
         },
         {
           "verse": 21,
-          "text": "And I being in infirmity, & mindful of you benignly, being returned out of the places of Persis, & taken with a grievous infirmity, have thought it necessary to have a care for the common profit:"
+          "text": "And I being in infirmity, & mindful of you benignely, being returned out of the places of Persis, & taken with a grievous infirmity, have thought it necessary to have a care for the common profit:"
         },
         {
           "verse": 22,
@@ -1805,7 +1883,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Of this tyrant S. Cyprian giveth this censure: <i>li. de exhort. Martyrij: King Antiochus an inveterate enemy</i> to all the good, <i>Nay, in Antiochus Antichrist is expressed.</i>"
+              "text": "Of this tyrant S. Cyprian giveth this censure: <i>li. de exhort. Martyrij: King Antiochus an inveterate enemy</i> to all the good, <i>Nay, in Antiochus Antichrist is expressed.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -1815,7 +1894,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>* li. 1. c. 6. v. 17.</i>"
+              "text": "<i>* li. 1. c. 6. v. 17.</i>",
+              "kind": "gloss"
             }
           ]
         }
@@ -1831,11 +1911,13 @@
           "notes": [
             {
               "label": "a",
-              "text": "This recovering and cleansing of the temple was after the fourth battle of Judas, which was against Lysias one of Antiochus' chief captains, as appeareth. <i>li. 1. c. 4.</i> and so was before the death of Antiochus, written here. <i>ch. 9.</i>"
+              "text": "This recovering and cleansing of the temple was after the fourth battle of Judas, which was against Lysias one of Antiochus' chief captains, as appeareth. <i>li. 1. c. 4.</i> and so was before the death of Antiochus, written here. <i>ch. 9.</i>",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "P"
+              "text": "P",
+              "kind": "gloss"
             }
           ]
         },
@@ -1857,7 +1939,14 @@
           "notes": [
             {
               "label": "1",
-              "text": "li. 1. c. 4. v. 54."
+              "text": "li. 1. c. 4. v. 54.",
+              "kind": "gloss"
+            }
+          ],
+          "cross_refs": [
+            {
+              "text": "c. 4. v. 5",
+              "source": "sancta"
             }
           ]
         },
@@ -1867,7 +1956,7 @@
         },
         {
           "verse": 7,
-          "text": "For the which cause they bare before them stalks of herbs, & green boughs, and palms to him, that gave success to clean his place."
+          "text": "For the which cause they bare before them stalks of herbs, & green boughs, and palms to him, that gave success to cleanse his place."
         },
         {
           "verse": 8,
@@ -1880,7 +1969,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "* li. 1. c. 5. v. 1."
+              "text": "* li. 1. c. 5. v. 1.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1890,7 +1980,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "T"
+              "text": "T",
+              "kind": "gloss"
             }
           ]
         },
@@ -1900,7 +1991,7 @@
         },
         {
           "verse": 12,
-          "text": "For Ptolomee who was called Macer, determined to be a keeper of justice towards the Jews, & especially for the iniquity, that was done against them, and to deal peaceably with them."
+          "text": "For Ptolomee who was called Macer, determined to be a keeper of justice toward the Jews, & especially for the iniquity, that was done against them, and to deal peaceably with them."
         },
         {
           "verse": 13,
@@ -1908,7 +1999,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "It is never an act of fortitude but of extreme pusillanimity when one in temporal misery killeth himself to be rid thereof. But is a most heroical act to die willingly for God's glory."
+              "text": "It is never an act of fortitude but of extreme pusillanimity when one in temporal misery killeth himself to be rid thereof. But is a most heroical act to die willingly for God's glory.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1918,7 +2010,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Against this Gorgias Judas had a victory before in the time of Antiochus Epiphanes. <i>li. 1. c. 4.</i>"
+              "text": "Against this Gorgias Judas had a victory before in the time of Antiochus Epiphanes. <i>li. 1. c. 4.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -1932,7 +2025,7 @@
         },
         {
           "verse": 17,
-          "text": "and sticking to it with great force, they won the places, killed them that came in the way, & slew together no less than twenty thousand."
+          "text": "and sticking to it with great force, they wan the places, killed them that came in the way, & slew altogether no less than twenty thousand."
         },
         {
           "verse": 18,
@@ -1948,7 +2041,7 @@
         },
         {
           "verse": 21,
-          "text": "But when it was told Machabeus what was done, assembling the princes of the people he accused them, that they had sold their brethren for money, their adversaries being let go."
+          "text": "But when it was told Machabæus what was done, assembling the princes of the people he accused them, that they had sold their brethren for money, their adversaries being let go."
         },
         {
           "verse": 22,
@@ -1964,7 +2057,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "Timothee the second captain general of Antiochus with Bacchides was once before overthrown. <i>li. 1. c. 8. v. 30.</i>"
+              "text": "Timothee the second captain general of Antiochus with Bacchides was once before overthrown. <i>li. 1. c. 8. v. 30.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -2014,7 +2108,8 @@
           "notes": [
             {
               "label": "e",
-              "text": "Iosephus Gorion. <i>li. 3. c. 13.</i> saith these twenty zealous young men were of the <i>Assidians,</i> who professed a certain religious form of life: of whom mention is made before <i>li. 1. ch. 2. v. 42. & c. 7. v. 13.</i>"
+              "text": "Iosephus Gorion. <i>li. 3. c. 13.</i> saith these twenty zealous young men were of the <i>Assidians,</i> who professed a certain religious form of life: of whom mention is made before <i>li. 1. ch. 2. v. 42. & c. 7. v. 13.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -2042,7 +2137,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "This Lysias also had been vanquished before <i>li. 1. c. 4. v. 28.</i>"
+              "text": "This Lysias also had been vanquished before <i>li. 1. c. 4. v. 28.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -2068,7 +2164,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Knowing that the Patriarchs Abraham, Isaac, Jacob, likewise Moyses, Josue and many others were singularly assisted by Angels, these Machabees in their good cause prayed for Angelical help, and had it: but jointly with their own endeavour, although sometimes God giveth such victories without cooperation of men. <i>Exo. 14. 4. Reg. 19.</i>"
+              "text": "Knowing that the Patriarchs Abraham, Isaac, Jacob, likewise Moyses, Josue and many others were singularly assisted by Angels, these Machabees in their good cause prayed for Angelical help, and had it: but jointly with their own endeavour, although sometimes God giveth such victories without cooperation of men. <i>Exo. 14. 4. Reg. 19.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -2094,7 +2191,7 @@
         },
         {
           "verse": 12,
-          "text": "and they put to flight all, & very many of them being wounded scaped away naked. Yea and Lysias himself shamefully flying escaped."
+          "text": "and they put to flight all, & very many of them being wounded scaped away naked. Yea and Lysias himself shamefully fleeing escaped."
         },
         {
           "verse": 13,
@@ -2138,7 +2235,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Lysias was indeed the King's cousin. <i>v. 35.</i> but he calleth him brother for honour sake."
+              "text": "Lysias was indeed the King's cousin. <i>v. 35.</i> but he calleth him brother for honour sake.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2218,15 +2316,17 @@
         },
         {
           "verse": 2,
-          "text": "But they that stayed there, <na>(a)</na> Timothie and <na>(b)</na> Apollonius the son of Gennaius, & also Jerome, & Demophon, besides these also Nicanor the governor of Cyprus, did not suffer them to live in rest and quietness.",
+          "text": "But they that stayed there, <na>(a)</na> Timothie and <na>(b)</na> Apollonius the son of Gennaius, & also Jerom, & Demophon, besides these also Nicanor the governor of Cyprus, did not suffer them to live in rest and quietness.",
           "notes": [
             {
               "label": "a",
-              "text": "Another Timothee was slain. <i>ch. 10. v. 37.</i>"
+              "text": "Another Timothee was slain. <i>ch. 10. v. 37.</i>",
+              "kind": "gloss"
             },
             {
               "label": "b",
-              "text": "Also another Apollonius was slain before, <i>li. 1. c. 3. v. 11.</i>"
+              "text": "Also another Apollonius was slain before, <i>li. 1. c. 3. v. 11.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -2260,7 +2360,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "A furlong is about the eighth part of a mile: so this fire was seen thirty miles off. Others count a furlong to contain a thousand foot, the fifth part of a mile: so it was seen 48. miles distant."
+              "text": "A furlong is about the eighth part of a mile: so this fire was seen thirty miles off. Others count a furlong to contain a thousand foot, the fifth part of a mile: so it was seen 48. miles distant.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2286,7 +2387,7 @@
         },
         {
           "verse": 15,
-          "text": "But Machabeus invocating the great Prince of the world, who without rams & engines in Jesus' time threw down Jericho, fiercely assaulted the walls. <cr>[1]</cr>",
+          "text": "But Machabeus invocating the great Prince of the world, who without rams & engines in Jesus' time threw down Jerico, fiercely assaulted the walls. <cr>[1]</cr>",
           "cross_refs": [
             {
               "text": "Iosue. 6."
@@ -2303,7 +2404,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "<i>Tubianei,</i> or <i>Tubieni,</i> signify religiously good, it is probable that these were <i>the Assideans. li. 1. c. 2. v. 42. c. 7. v. 13.</i>"
+              "text": "<i>Tubianei,</i> or <i>Tubieni,</i> signify religiously good, it is probable that these were <i>the Assideans. li. 1. c. 2. v. 42. c. 7. v. 13.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -2325,7 +2427,7 @@
         },
         {
           "verse": 22,
-          "text": "And when the first band of Judas had appeared, fear was strucken into the enemies, by the presence of God, who seeth all things, and they were put to flight one of another, so that they were rather overthrown of their own company, and were weakened with the strokes of their own swords."
+          "text": "And when the first band of Judas had appeared, fear was strucken into the enemies, by the presence of God, who seeth all things, and they were put to flight one of an other, so that they were rather overthrown of their own company, and were weakened with the strokes of their own swords."
         },
         {
           "verse": 23,
@@ -2333,7 +2435,7 @@
         },
         {
           "verse": 24,
-          "text": "And Timothee himself fell into the hands of Dositheus' & Sosipater's parts, & with many prayers he besought that he might be let go alive, because he had parents & brethren of many of the Jews, whom it might happen by his death to be deceived."
+          "text": "And Timothee himself fell into the hands of Dositheus' & Sosipaters parts, & with many prayers he besought that he might be let go alive, because he had parents & brethren of many of the Jews, whom it might happen by his death to be deceived."
         },
         {
           "verse": 25,
@@ -2369,7 +2471,8 @@
           "notes": [
             {
               "label": "e",
-              "text": "Judas had the victory twice before against this Gorgias. <i>li. 1. c. 4. v. 1. li. 2. c. 10. v. 14.</i>"
+              "text": "Judas had the victory twice before against this Gorgias. <i>li. 1. c. 4. v. 1. li. 2. c. 10. v. 14.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -2407,7 +2510,8 @@
           "notes": [
             {
               "label": "f",
-              "text": "It was commanded <i>Deut. 7. v. 25.</i> not to covet nor take any thing pertaining to idols, but to destroy all. See this sin punished. <i>Iosue. 7. 1. Reg. 15. &c.</i>"
+              "text": "It was commanded <i>Deut. 7. v. 25.</i> not to covet nor take any thing pertaining to idols, but to destroy all. See this sin punished. <i>Iosue. 7. 1. Reg. 15. &c.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -2433,7 +2537,8 @@
           "notes": [
             {
               "label": "g",
-              "text": "Unless it had been the doctrine & practice of the Church to pray for the dead, Judas could never have"
+              "text": "Unless it had been the doctrine & practice of the Church to pray for the dead, Judas could never have",
+              "kind": "gloss"
             }
           ]
         },
@@ -2444,11 +2549,13 @@
           "notes": [
             {
               "label": "h",
-              "text": "It is only profitable for those that die penitent."
+              "text": "It is only profitable for those that die penitent.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "* li. 1. c. 6. v. 18."
+              "text": "* li. 1. c. 6. v. 18.",
+              "kind": "gloss"
             }
           ]
         }
@@ -2468,7 +2575,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "In the first book, <i>ch. 6. v. 30.</i> the number of this army differeth from the number here recorded, the cause is for that sometimes those only are counted which were permanent, sometimes others are also counted which came uncertainly. The like difficulties of differences occur often in the books of Kings and Paralipomenon."
+              "text": "In the first book, <i>ch. 6. v. 30.</i> the number of this army differeth from the number here recorded, the cause is for that sometimes those only are counted which were permanent, sometimes others are also counted which came uncertainly. The like difficulties of differences occur often in the books of Kings and Paralipomenon.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2522,11 +2630,12 @@
         },
         {
           "verse": 15,
-          "text": "And having given a sign to his company of <na>(b)</na> the victory of God, with most valiant young men picked out, by night setting upon the king's court, in the camp he slew four thousand men, and the greatest of the elephants, with them that had been placed thereupon,",
+          "text": "And having given a sign to his company of <na>(b)</na> the victory of God, with most valiant young men picked out, by night setting upon the kings court, in the camp he slew four thousand men, and the greatest of the elephants, with them that had been placed thereupon,",
           "notes": [
             {
               "label": "b",
-              "text": "The watch word this night was: <i>The victory of God.</i>"
+              "text": "The watch word this night was: <i>The victory of God.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -2572,11 +2681,12 @@
         },
         {
           "verse": 26,
-          "text": "Then Lysias went up to the judgement seat, and declared the reason, and appeased the people, and returned to Antioch: and in this manner the king's journey and return proceeded. <na>[1]</na>",
+          "text": "Then Lysias went up to the judgement seat, and declared the reason, and appeased the people, and returned to Antioch: and in this manner the kings journey and return proceeded. <na>[1]</na>",
           "notes": [
             {
               "label": "1",
-              "text": "* li. 1. c. 7. v. 1."
+              "text": "* li. 1. c. 7. v. 1.",
+              "kind": "gloss"
             }
           ]
         }
@@ -2592,7 +2702,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Y"
+              "text": "Y",
+              "kind": "gloss"
             }
           ]
         },
@@ -2606,7 +2717,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Alcimus was of Aaron's stock <i>li. 1. c. 7. v. 14.</i> but for this apostasy here mentioned was uncapable of high priesthood, & so Mathathias was ordained, being of the same progeny and most sincere in religion."
+              "text": "Alcimus was of Aarons stock <i>li. 1. c. 7. v. 14.</i> but for this apostasy here mentioned was uncapable of high priesthood, & so Matthathias was ordained, being of the same progeny and most sincere in religion.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2616,7 +2728,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>* a golden bough.</i>"
+              "text": "<i>* a golden bough.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -2630,7 +2743,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "This description of the Assideans made by their malicious enemy in calumnious and odious terms, sheweth well their singular zeal, & sincerity in promoting God's service. And so their adversary's malignant accusations more against them than all others, is a plain testimony of their more rare and more singular virtues."
+              "text": "This description of the Assideans made by their malicious enemy in calumnious and odious terms, sheweth well their singular zeal, & sincerity in promoting Gods service. And so their adversaries malignant accusations more against them than all others, is a plain testimony of their more rare and more singular virtues.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2640,7 +2754,7 @@
         },
         {
           "verse": 8,
-          "text": "principally indeed keeping fidelity to the king's commodities, but secondly also providing for my citizens, for by their naughtiness all our stock is not a little vexed."
+          "text": "principally indeed keeping fidelity to the kings commodities, but secondly also providing for my citizens, forby their naughtiness all our stock is not a little vexed."
         },
         {
           "verse": 9,
@@ -2656,7 +2770,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "* li. 1. c. 7. v. 26."
+              "text": "* li. 1. c. 7. v. 26.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2666,7 +2781,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "A"
+              "text": "A",
+              "kind": "gloss"
             }
           ]
         },
@@ -2680,13 +2796,14 @@
           "notes": [
             {
               "label": "c",
-              "text": "Apostates and politics make their gain by spoiling the faithful."
+              "text": "Apostates and politics make their gain by spoiling the faithful.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 15,
-          "text": "The Jews therefore having heard of Nicanor's coming, and the assembly of the nations, being sprinkled with earth besought him, that ordained his people to keep them for ever, & that protecteth his portion by evident signs."
+          "text": "The Jews therefore having heard of Nicanors coming, and the assembly of the nations, being sprinkled with earth besought him, that ordained his people to keep them for ever, & that protecteth his portion by evident signs."
         },
         {
           "verse": 16,
@@ -2702,7 +2819,7 @@
         },
         {
           "verse": 19,
-          "text": "Wherefore he sent Posidonius, and Theodotius, and Matthias before to give and take the right hands."
+          "text": "Wherefore he sent Posidonius, and Theodotius, and Mathias before to give and take the right hands."
         },
         {
           "verse": 20,
@@ -2746,7 +2863,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "Nicanor a right worldly politic, a figure of Pilate and of such temporizing Judges, counsellers, and courtiers, as lack zeal in religion."
+              "text": "Nicanor a right worldly politic, a figure of Pilate and of such temporizing Judges, counsellers, and courtiers, as lack zeal in religion.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2764,7 +2882,8 @@
           "notes": [
             {
               "label": "e",
-              "text": "They knew not precisely where Judas was, neither would they search for him to deliver him to the persecutor."
+              "text": "They knew not precisely where Judas was, neither would they search for him to deliver him to the persecutor.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2774,7 +2893,8 @@
           "notes": [
             {
               "label": "f",
-              "text": "Bacchus called also <i>Liber,</i> and by many other names, feigned by infidels to be author and god of wine. And therefore drunkards dedicate feasts & temples to him."
+              "text": "Bacchus called also <i>Liber,</i> and by many other names, feigned by infidels to be author and god of wine. And therefore drunkards dedicate feasts & temples to him.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2784,7 +2904,7 @@
         },
         {
           "verse": 35,
-          "text": "Thou o Lord of all, which lackest nothing, wouldest a temple of thy habitation to be made among us."
+          "text": "Thou o Lord of all, which lackest nothing, wouldest a temple of thy habitation to be made amongst us."
         },
         {
           "verse": 36,
@@ -2812,7 +2932,8 @@
           "notes": [
             {
               "label": "g",
-              "text": "S. Augustin epist. <i>61. ad Dulcitium & l. 2. c. 23. ad epist. 2. Gaud.</i> discussing this fact; saith the holy scripture doth tell it, not praise it. As to be admired not to be imitated, & that either it was not well done by him, or at least is not convenient in this time of grace."
+              "text": "S. Augustin epist. <i>61. ad Dulcitium & l. 2. c. 23. ad epist. 2. Gaud.</i> discussing this fact; saith the holy scripture doth tell it, not praise it. As to be admired not to be imitated, & that either it was not well done by him, or at least is not convenient in this time of grace.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2822,7 +2943,7 @@
         },
         {
           "verse": 43,
-          "text": "But whereas for haste he had not made the wound with a sure struck, and the multitudes brake in within the doors, running back boldly to the wall, he threw down himself manfully headlong unto the multitudes:"
+          "text": "But whereas for haste he had not made the wound with a sure stroke, and the multitudes brake in within the doors, running back boldly to the wall, he threw down himself manfully headlong unto the multitudes:"
         },
         {
           "verse": 44,
@@ -2838,7 +2959,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "* li. 1. c. 7. v. 39."
+              "text": "* li. 1. c. 7. v. 39.",
+              "kind": "gloss"
             }
           ]
         }
@@ -2854,7 +2976,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Profane men make their advantage of religious men's good conscience, but Judas rightly instructed in this case defended his just cause also in the sabbath. <i>li. 1. c. 3. v. 40.</i>"
+              "text": "Profane men make their advantage of religious men's good conscience, but Judas rightly instructed in this case defended his just cause also in the sabbath. <i>li. 1. c. 3. v. 40.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -2872,11 +2995,12 @@
         },
         {
           "verse": 5,
-          "text": "But he said. And <na>(b)</na> I am potent upon the earth, that commanded arms to be taken, and the king's affairs to be accomplished. Nevertheless he obtained not to accomplish his counsel.",
+          "text": "But he said. And <na>(b)</na> I am potent upon the earth, that commanded arms to be taken, and the kings affairs to be accomplished. Nevertheless he obtained not to accomplish his counsel.",
           "notes": [
             {
               "label": "b",
-              "text": "O Luciferian blasphemy!"
+              "text": "O Luciferian blasphemy!",
+              "kind": "gloss"
             }
           ]
         },
@@ -2902,17 +3026,18 @@
         },
         {
           "verse": 11,
-          "text": "And he armed every one of them not with fence of buckler and spear, but with very good words, and exhortations, <na>(c)</na> declaring a dream worthy to be credited, whereby he rejoiced them all.",
+          "text": "And he armed every one of them not with sense of buckler and spear, but with very good words, and exhortations, <na>(c)</na> declaring a dream worthy to be credited, whereby he rejoiced them all.",
           "notes": [
             {
               "label": "c",
-              "text": "This dream was from God as the effect shewed. And Judas knew also that it so was by internal inspiration, as Joseph <i>Mat. 1. v. 20.</i> was assured of his dreams."
+              "text": "This dream was from God as the effect shewed. And Judas knew also that it so was by internal inspiration, as Joseph <i>Mat. 1. v. 20.</i> was assured of his dreams.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 12,
-          "text": "And the vision was in this manner: Onias who had been the high-Priest, a good and benign man, reverent to behold, modest of manners, and comely of speech, and who from a child was exercised in virtues, that he stretching forth the hands prayed for all the people of the Jews.",
+          "text": "And the vision was in this manner: Onias who had been the highpriest, a good and benign man, reverent to behold, modest of manners, and comely of speech, and who from a child was exercised in virtues, that he stretching forth the hands prayed for all the people of the Jews.",
           "has_annotation": true
         },
         {
@@ -2925,11 +3050,12 @@
         },
         {
           "verse": 15,
-          "text": "And that Jeremy put forth his right hand, and <na>(d)</na> gave unto Judas a sword of gold, saying:",
+          "text": "And that Jeremie put forth his right hand, and <na>(d)</na> gave unto Judas a sword of gold, saying:",
           "notes": [
             {
               "label": "d",
-              "text": "Jeremie <i>(ch. 38. v. 17.)</i> persuaded the King of Juda to yield himself with the city and people to the Chaldees, and not to resist. But now he delivereth a sword to Judas, exhorting him to fight: according to God's will in diverse cases, and times, for <i>there is a time of war, and a time of peace. Eccle. 3. v. 8.</i>"
+              "text": "Jeremie <i>(ch. 38. v. 17.)</i> persuaded the King of Juda to yield himself with the city and people to the Chaldees, and not to resist. But now he delivereth a sword to Judas, exhorting him to fight: according to Gods will in divers cases, and times, for <i>there is a time of war, and a time of peace. Eccle. 3. v. 8.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -2947,7 +3073,8 @@
           "notes": [
             {
               "label": "e",
-              "text": "God's honour, & holy things are first and principally to be respected, before worldly friends, though they also must be regarded in due order and place."
+              "text": "Gods honour, & holy things are first and principally to be respected, before worldly friends, though they also must be regarded in due order and place.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2965,7 +3092,7 @@
         },
         {
           "verse": 22,
-          "text": "And he said invocating in this manner: <cr>[1]</cr> Thou Lord which didst send thy Angel in the time of Ezechias king of Juda, and didst kill an hundred eighty five thousand of the camp of Sennacherib:",
+          "text": "And he said invocating in this manner: <cr>[1]</cr> Thou Lord which didst send thine Angel in the time of Ezechias king of Juda, and didst kill an hundred eighty five thousand of the camp of Sennacherib:",
           "cross_refs": [
             {
               "text": "4. Reg. 19."
@@ -3002,7 +3129,7 @@
         },
         {
           "verse": 30,
-          "text": "And Judas, who by all means was in body and mind ready to die for his citizens, commanded that Nicanor's head, & hand with the shoulder being cut off, should be carried to Jerusalem."
+          "text": "And Judas, who by all means was in body and mind ready to die for his citizens, commanded that Nicanors head, & hand with the shoulder being cut off, should be carried to Jerusalem."
         },
         {
           "verse": 31,
@@ -3022,7 +3149,7 @@
         },
         {
           "verse": 35,
-          "text": "And he hung up Nicanor's head in the top of the castle, that it might be an evident, and manifest sign of the help of God."
+          "text": "And he hung up Nicanors head in the top of the castle, that it might be an evident, and manifest sign of the help of God."
         },
         {
           "verse": 36,
@@ -3034,7 +3161,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "* li. 1. c. 8. v. 1. &c."
+              "text": "* li. 1. c. 8. v. 1. &c.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3044,7 +3172,8 @@
           "notes": [
             {
               "label": "f",
-              "text": "More being written in the first book, this author maketh one conclusion of all, because other persecuters being also overcome the land was again calm after storms."
+              "text": "More being written in the first book, this author maketh one conclusion of all, because other persecuters being also overcome the land was again calm after storms.",
+              "kind": "gloss"
             }
           ]
         },

@@ -1,16 +1,16 @@
 {
   "schema": 1,
-  "generated": "2026-09-04T06:37:28.418Z",
-  "commit": "cd4439a1b5bbf2abe253d68b0896c3c60e8f27bc",
+  "generated": "2026-11-11T23:29:42.109Z",
+  "commit": "0eca699eb33d2a75a917e8ef9e7da6ead2445a30",
   "counts": {
     "books": 76,
     "chapters": 1361,
-    "verses": 37180,
-    "usfmVerses": 37130,
-    "annotations": 1677,
+    "verses": 37195,
+    "usfmVerses": 37145,
+    "annotations": 1521,
     "annotationFiles": 397,
-    "subNotes": 3609,
-    "referenceFiles": 26
+    "subNotes": 3606,
+    "referenceFiles": 34
   },
   "books": [
     {

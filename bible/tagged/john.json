@@ -51,7 +51,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel at the third Mass upon Christmas day. And every day at the end of Mass."
+              "text": "The Gospel at the third Mass upon Christmas day. And every day at the end of Mass.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -66,7 +67,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>nothing that was made.</i>"
+              "text": "<i>nothing that was made.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -118,23 +120,25 @@
           "notes": [
             {
               "label": "1",
-              "text": "ET VERBUM CARO FACTUM EST."
+              "text": "ET VERBUM CARO FACTUM EST.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 15,
-          "text": "John giveth testimony of him, and cryeth saying: This was he of whom I spake, He that shall come after me, is made before me: because he was before me."
-        },
-        {
-          "verse": 16,
-          "text": "<na>[1]</na> And of his fullness we all have received, and grace for grace.",
+          "text": "<na>[1]</na> John giveth testimony of him, and crieth saying: This was he of whom I spake, He that shall come after me, is made before me: because he was before me.",
           "notes": [
             {
               "label": "1",
-              "text": "He is preferred & made of more dignity and excellency than I, because he was before me & all things, eternal God."
+              "text": "He is preferred & made of more dignity and excellency then I, because he was before me & all things, eternal God.",
+              "kind": "gloss"
             }
           ]
+        },
+        {
+          "verse": 16,
+          "text": "And of his fullness we all have received, and grace for grace."
         },
         {
           "verse": 17,
@@ -151,7 +155,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel upon the 3. Sunday in Advent."
+              "text": "The Gospel upon the 3. Sunday in Advent.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -173,8 +178,12 @@
           "notes": [
             {
               "label": "3",
-              "text": "By like the Jews ignorantly understood not the place in Deuteronomy, of Christ, and therefore they ask also whether he be the Prophet there spoken of. See also c. 7, 40."
+              "text": "By like the Jews ignorantly understood not the place in Deuteronomy, of Christ, and therefore they ask also whether he be the Prophet there spoken of. See also c. 7, 40.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Mal. 4, 5 · Deu. 18, 15."
           ]
         },
         {
@@ -188,6 +197,9 @@
             {
               "text": "Esa. 40, 3."
             }
+          ],
+          "xrefs": [
+            "Esa. 40, 3."
           ]
         },
         {
@@ -209,13 +221,17 @@
           "notes": [
             {
               "label": "2",
-              "text": "He doth often here signify the great difference of his Baptism & of Christ's, as of his person & Christ's. See Annot. Mat. 3."
+              "text": "He doth often here signify the great difference of his Baptism & of Christ's, as of his person & Christ's. See Annot. Mat. 3.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Mt. 3, 11. Mr. 1, 8. Lu. 3, 16"
           ]
         },
         {
           "verse": 27,
-          "text": "The same is he that shall come after me, that is made before me; whose latchet of his shoe I am not worthy to loose."
+          "text": "The same is he that shall come after me, that is made before me; whose latchet of his shoe I am not worthy to unloose."
         },
         {
           "verse": 28,
@@ -227,15 +243,18 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel on the octave of the Epiphany."
+              "text": "The Gospel on the octave of the Epiphany.",
+              "kind": "lectionary"
             },
             {
               "label": "2",
-              "text": "<i>sins</i>"
+              "text": "<i>sins</i>",
+              "kind": "gloss"
             },
             {
               "label": "3",
-              "text": "AGNUS DEI at Mass."
+              "text": "AGNUS DEI at Mass.",
+              "kind": "gloss"
             }
           ]
         },
@@ -266,7 +285,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel upon S. Andrew's eve."
+              "text": "The Gospel upon S. Andrewes eve.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -296,7 +316,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Messias in Hebrew, in Greek Christ, in English Anointed, to wit, with the spiritual oil of grace above his brethren. <i>Ps. 44.</i>"
+              "text": "Messias in Hebrew, in Greek Christ, in English Anointed, to wit, with the spiritual oil of grace above his brethren. <i>Ps. 44.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -307,7 +328,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Cephas in Syriac, & Peter in Greek, in English, Rock. See Mat. 16, 18."
+              "text": "Cephas in Syriac, & Peter in Greek, in English, Rock. See Mat. 16, 18.",
+              "kind": "gloss"
             }
           ]
         },
@@ -333,7 +355,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel in a votive Mass of the holy Angels."
+              "text": "The Gospel in a votive Mass of the holy Angels.",
+              "kind": "gloss"
             }
           ]
         },
@@ -360,8 +383,12 @@
           "notes": [
             {
               "label": "1",
-              "text": "Peter by his new"
+              "text": "Peter by his new",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Gen. 28, 12."
           ]
         }
       ],
@@ -371,7 +398,8 @@
         "notes": [
           {
             "label": "1",
-            "text": "The 1. part: THE ACTS of Christ before his manifestation, whilst John Baptist was yet baptizing."
+            "text": "The 1. part: THE ACTS of Christ before his manifestation, whiles John Baptist was yet baptizing.",
+            "kind": "head"
           }
         ]
       }
@@ -385,7 +413,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel upon the 2. Sunday after the Epiphany."
+              "text": "The Gospel upon the 2. Sunday after the Epiphany.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -427,7 +456,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "He that seeth water turned in to wine, needeth not dispute or doubt how Christ changed bread into his body."
+              "text": "He that seeth water turned in to wine, needeth not dispute or doubt how Christ changed bread into his body.",
+              "kind": "gloss"
             }
           ]
         },
@@ -449,7 +479,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel upon Monday in the fourth week of Lent."
+              "text": "The Gospel upon Monday in the fourth week of Lent.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -473,6 +504,9 @@
             {
               "text": "Ps. 68, 10."
             }
+          ],
+          "xrefs": [
+            "Ps. 68, 10."
           ]
         },
         {
@@ -486,6 +520,9 @@
             {
               "text": "Mt. 26, 61. 27, 40."
             }
+          ],
+          "xrefs": [
+            "Mt. 26, 61. 27, 40."
           ]
         },
         {
@@ -525,7 +562,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel upon Holy Rood day, or Invention of the holy Cross. Maij 3."
+              "text": "The Gospel upon Holy Rood day, or Invention of the holy Cross. Maij 3.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -535,15 +573,15 @@
         },
         {
           "verse": 3,
-          "text": "<sc>Jesus</sc> answered, and said to him: Amen, Amen I say to thee, unless a man be born again, he cannot see the Kingdom of God."
+          "text": "<sc>Jesus</sc> answered, and said to him: Amen, Amen I say to thee, unless a man be born again, he can not see the Kingdom of God."
         },
         {
           "verse": 4,
-          "text": "Nicodemus said to him: How can a man be born, when he is old? can he enter into his mother's womb again & be born?"
+          "text": "Nicodemus said to him: How can a man be born, when he is old? can he enter into his mothers womb again & be born?"
         },
         {
           "verse": 5,
-          "text": "<sc>Jesus</sc> answered: Amen, Amen I say to thee, unless a man be born again of water and the Spirit, he cannot enter into the Kingdom of God.",
+          "text": "<sc>Jesus</sc> answered: Amen, Amen I say to thee, unless a man be born again of water and the Spirit, he can not enter into the Kingdom of God.",
           "has_annotation": true
         },
         {
@@ -560,7 +598,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "We follow rather S. August. & those ancient Fathers, which most commonly understand this place of the Holy Ghost, & not of the wind: although both senses be good."
+              "text": "We follow rather S. August. & those ancient Fathers, which most commonly understand this place of the Holy Ghost, & not of the wind: although both senses be good.",
+              "kind": "gloss"
             }
           ]
         },
@@ -591,6 +630,9 @@
             {
               "text": "Nu. 21, 9."
             }
+          ],
+          "xrefs": [
+            "Nu. 21, 9"
           ]
         },
         {
@@ -603,7 +645,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel upon Monday in the Whitsunweek."
+              "text": "The Gospel upon Monday in the Whitsunweek.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -613,12 +656,12 @@
         },
         {
           "verse": 18,
-          "text": "He that believeth in him, is not judged. But he that doth not believe, is already judged: because he hath not believed in the name of the only-begotten Son of God.",
+          "text": "He that believeth in him, is not judged. But he that doeth not believe, is already judged: because he hath not believed in the name of the only-begotten Son of God.",
           "has_annotation": true
         },
         {
           "verse": 19,
-          "text": "And this is the judgement: because the light is come into the world, and men have loved the darkness rather than the light: for their works were evil."
+          "text": "And this is the judgment: because the light is come into the world, and men have loved the darkness rather than the light: for their works were evil."
         },
         {
           "verse": 20,
@@ -651,6 +694,9 @@
             {
               "text": "Io. 1, 19."
             }
+          ],
+          "xrefs": [
+            "Io. 1, 19."
           ]
         },
         {
@@ -664,6 +710,9 @@
             {
               "text": "Io. 1, 20."
             }
+          ],
+          "xrefs": [
+            "Io. 1, 20."
           ]
         },
         {
@@ -707,7 +756,7 @@
       "verses": [
         {
           "verse": 1,
-          "text": "<sc>When Jesus</sc> therefore understood that the Pharisees heard that <sc>Jesus</sc> maketh more Disciples, and baptizeth, than John,"
+          "text": "<sc>When Jesus</sc> therefore understood that the Pharisees heard that <sc>Jesus</sc> maketh mo Disciples, and baptizeth, than John,"
         },
         {
           "verse": 2,
@@ -715,7 +764,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "He did not baptize ordinarily: yet that he baptized his Apostles, S. Aug. thinketh it very probable, <i>ep. 108.</i>"
+              "text": "He did not baptize ordinarily: yet that he baptized his Apostles, S. Aug. thinketh it very probable, <i>ep. 108.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -729,7 +779,7 @@
         },
         {
           "verse": 5,
-          "text": "<cr>[1]</cr> He cometh therefore into a city of Samaria which is called Sichar; <na>[2]</na> beside the manor that Jacob gave to Joseph his son.",
+          "text": "<cr>[1]</cr> He cometh therefore into a city of Samaria which is called Sichar; <na>[2]</na> beside the manner that Jacob gave to Joseph his son.",
           "cross_refs": [
             {
               "text": "Gen. 48, 22."
@@ -738,8 +788,12 @@
           "notes": [
             {
               "label": "2",
-              "text": "The Gospel upon Friday in the 3. week in Lent."
+              "text": "The Gospel upon Friday in the 3. week in Lent.",
+              "kind": "lectionary"
             }
+          ],
+          "xrefs": [
+            "Gen. 48, 22."
           ]
         },
         {
@@ -748,11 +802,12 @@
         },
         {
           "verse": 7,
-          "text": "There cometh <na>[1]</na> a woman of Samaria to draw water. <sc>Jesus</sc> said to her: Give me to drink.",
+          "text": "There cometh <na>[1]</na> a woman of Samaria to draw water. <sc>Jesus</sc> saith to her: Give me to drink.",
           "notes": [
             {
               "label": "1",
-              "text": "This woman is a figure of the Church, not yet justified, but now to be justified. <i>Aug. tract. 15 in Ioan.</i>"
+              "text": "This woman is a figure of the Church, not yet justified, but now to be justified. <i>Aug. tract. 15 in Ioan.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -766,7 +821,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "There were many other causes why the faithful Jews could not abide the Samaritans, but their precise abstaining from their company & conversation, was their Schismatical Temple and service in mount Garizim."
+              "text": "There were many other causes why the faithful Jews could not abide the Samaritans, but their precise abstaining from their company & conversation, was their Schismatical Temple and service in mount Garizim.",
+              "kind": "gloss"
             }
           ]
         },
@@ -788,7 +844,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c He speaketh of his baptizing in the Holy Ghost. See Io. c. 7, 39."
+              "text": "c He speaketh of his baptizing in the Holy Ghost. See Io. c. 7, 39.",
+              "kind": "gloss"
             }
           ]
         },
@@ -806,7 +863,7 @@
         },
         {
           "verse": 17,
-          "text": "The woman answered and said: I have no husband. <sc>Jesus</sc> said to her: Thou hast said well, that I have no husband."
+          "text": "The woman answered and said: I have no husband. <sc>Jesus</sc> saith to her: Thou hast said well, that I have no husband."
         },
         {
           "verse": 18,
@@ -824,6 +881,9 @@
             {
               "text": "Deu. 12, 6. Ps. 121. 13."
             }
+          ],
+          "xrefs": [
+            "Deu. 12, 6. Ps. 121 13."
           ]
         },
         {
@@ -837,6 +897,9 @@
             {
               "text": "4. Reg. 17, 28. 36."
             }
+          ],
+          "xrefs": [
+            "4 Reg. 17, 28, 36."
           ]
         },
         {
@@ -882,7 +945,7 @@
         },
         {
           "verse": 33,
-          "text": "The Disciples therefore said one to another: Hath any man brought him for to eat?"
+          "text": "The Disciples therefore said one to an other: Hath any man brought him for to eat?"
         },
         {
           "verse": 34,
@@ -898,7 +961,7 @@
         },
         {
           "verse": 37,
-          "text": "For in this is the saying true: that it is one man that soweth, and it is another that reapeth."
+          "text": "For in this is the saying true: that it is one man that soweth, and it is an other that reapeth."
         },
         {
           "verse": 38,
@@ -910,7 +973,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "This woman mystically being the Church, it is here signified, that they which at the first believe because the Church teacheth so, afterward be much confirmed, finding it in the Scripture also, and by other instructions."
+              "text": "This woman mystically being the Church, it is here signified, that they which at the first believe because the Church teacheth so, afterward be much confirmed, finding it in the Scripture also, and by other instructions.",
+              "kind": "gloss"
             }
           ]
         },
@@ -932,7 +996,10 @@
         },
         {
           "verse": 44,
-          "text": "For <sc>Jesus</sc> himself gave testimony that a Prophet hath not honour in his own country:"
+          "text": "For <sc>Jesus</sc> himself gave testimony that a Prophet hath not honour in his own country:",
+          "xrefs": [
+            "Mt. 4, 12"
+          ]
         },
         {
           "verse": 45,
@@ -941,6 +1008,9 @@
             {
               "text": "Mt. 4, 12. Mr. 1, 14. Luc. 4, 14."
             }
+          ],
+          "xrefs": [
+            "Mr. 1, 14 · Luc. 4, 14."
           ]
         },
         {
@@ -954,8 +1024,12 @@
           "notes": [
             {
               "label": "2",
-              "text": "The Gospel upon the 20. Sunday after Pentecost."
+              "text": "The Gospel upon the 20. Sunday after Pentecost.",
+              "kind": "lectionary"
             }
+          ],
+          "xrefs": [
+            "Io. 2, 9."
           ]
         },
         {
@@ -993,6 +1067,9 @@
             {
               "text": "Io. 2, 11."
             }
+          ],
+          "xrefs": [
+            "Io. 2, 11."
           ]
         }
       ],
@@ -1007,7 +1084,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel upon Imber Friday in the first week of Lent."
+              "text": "The Gospel upon Imber Friday in the first week of Lent.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -1018,12 +1096,17 @@
           "notes": [
             {
               "label": "1",
-              "text": "By our Latin text and the Greek, this miraculous pond was in or upon <i>Probatica,</i> that is, a place where the sheep to be sacrificed, were kept. But by other Latin copies, S. Hierom, and some Greek Fathers, <i>Probatica</i> is the very pond itself: so called, because the sheep of sacrifice were there washed."
+              "text": "By our Latin text and the Greek, this miraculous pond was in or upon <i>Probatica,</i> that is, a place where the sheep to be sacrificed, were kept. But by other Latin copies, S. Hierom, and some Greek Fathers, <i>Probatica</i> is the very pond itself: so called, because the sheep of sacrifice were there washed.",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "<i>Bethesda,</i>"
+              "text": "<i>Bethesda,</i>",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "‘Bethesda,"
           ]
         },
         {
@@ -1044,13 +1127,14 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>c multum tempus haberet,</i>"
+              "text": "<i>c multum tempus haberet,</i>",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 7,
-          "text": "The sick man answered him: Lord, I have no man, when the water is troubled, to put me into the pond. For whiles I come, another goeth down before me."
+          "text": "The sick man answered him: Lord, I have no man, when the water is troubled, to put me into the pond. For whiles I come, an other goeth down before me."
         },
         {
           "verse": 8,
@@ -1123,8 +1207,12 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>is passed.</i>"
+              "text": "<i>is passed.</i>",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "is passed"
           ]
         },
         {
@@ -1133,7 +1221,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel upon All souls day."
+              "text": "The Gospel upon All souls day.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -1155,13 +1244,14 @@
           "notes": [
             {
               "label": "1",
-              "text": "Not faith only, but good and ill deeds shall be counted, and accordingly rewarded at the day of judgement."
+              "text": "Not faith only, but good and ill deeds shall be counted, and accordingly rewarded at the day of judgement.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 30,
-          "text": "I cannot of myself do any thing. As I hear, so I judge: and my judgement is just, because I seek not my will, but the will of him that sent me."
+          "text": "I can not of myself do any thing. As I hear, so I judge: and my judgement is just, because I seek not my will, but the will of him that sent me."
         },
         {
           "verse": 31,
@@ -1169,7 +1259,7 @@
         },
         {
           "verse": 32,
-          "text": "There is another that giveth testimony of me: and I know that the testimony is true which he giveth of me."
+          "text": "There is an other that giveth testimony of me: and I know that the testimony is true which he giveth of me."
         },
         {
           "verse": 33,
@@ -1178,6 +1268,9 @@
             {
               "text": "Io. 1, 19."
             }
+          ],
+          "xrefs": [
+            "Io. 1, 19."
           ]
         },
         {
@@ -1200,6 +1293,9 @@
             {
               "text": "Mt. 3, 17."
             }
+          ],
+          "xrefs": [
+            "Mt. 3, 17"
           ]
         },
         {
@@ -1213,7 +1309,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Catholics search the scriptures, and find there, Peter's & his successors Primacy, the real presence, the Priest's power to forgive sins, justification by faith & good works, Virginity preferred before matrimony, breach of the vow of continency damnable, voluntary poverty, Penance, alms,"
+              "text": "Catholics search the scriptures, and find there, Peter's & his successors Primacy, the real presence, the Priests power to forgive sins, justification by faith & good works, Virginity preferred before matrimony, breach of the vow of continency damnable, voluntary poverty, Penance, alms,",
+              "kind": "gloss"
             }
           ]
         },
@@ -1235,13 +1332,14 @@
           "notes": [
             {
               "label": "1",
-              "text": "He meaneth specially Antichrist. How then can the"
+              "text": "He meaneth specially Antichrist. How then can the",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 44,
-          "text": "How can you believe, that receive glory one of another: and the glory which is of God only, you seek not?"
+          "text": "How can you believe, that receive glory one of an other: and the glory which is of God only, you seek not?"
         },
         {
           "verse": 45,
@@ -1278,17 +1376,24 @@
           "notes": [
             {
               "label": "2",
-              "text": "The Gospel upon Mid-lent Sunday."
+              "text": "The Gospel upon Midlent Sunday.",
+              "kind": "lectionary"
             }
+          ],
+          "xrefs": [
+            "Mt. 14, 13. Mar. 6, 32."
           ]
         },
         {
           "verse": 2,
-          "text": "and a great multitude followed him, because they saw the signs which he did upon those that were sick."
+          "text": "and a great multitude followed him, because they saw the signs which he did upon those that were sick.",
+          "xrefs": [
+            "Lu. 9, 10"
+          ]
         },
         {
           "verse": 3,
-          "text": "<sc>Jesus</sc> therefore went up into the mountain, and there he sat with his Disciples."
+          "text": "<sc>Jesus</sc> therefore went up into the mountain, and there he sate with his Disciples."
         },
         {
           "verse": 4,
@@ -1316,11 +1421,11 @@
         },
         {
           "verse": 10,
-          "text": "<sc>Jesus</sc> therefore saith: Make the men to sit down. And there was much grass in the place. The men therefore sat down, in number about five thousand."
+          "text": "<sc>Jesus</sc> therefore saith: Make the men to sit down. And there was much grass in the place. The men therefore sate down, in number about five thousand."
         },
         {
           "verse": 11,
-          "text": "<sc>Jesus</sc> therefore took the loaves; and when he had given thanks, he distributed to them that sat. In like manner also of the fishes as much as they would."
+          "text": "<sc>Jesus</sc> therefore took the loaves; and when he had given thanks, he distributed to them that sate. In like manner also of the fishes as much as they would."
         },
         {
           "verse": 12,
@@ -1341,6 +1446,9 @@
             {
               "text": "Mt. 14, 23. Mr. 6, 46."
             }
+          ],
+          "xrefs": [
+            "Mt. 14, 23. Mr. 6, 46."
           ]
         },
         {
@@ -1361,7 +1469,7 @@
         },
         {
           "verse": 20,
-          "text": "But he said to them: It is I, fear not."
+          "text": "But he saith to them: It is I, fear not."
         },
         {
           "verse": 21,
@@ -1377,7 +1485,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "These words do plainly import, that the giving thanks was an effectual blessing of the bread and working the multiplication thereof."
+              "text": "These words do plainly import, that the giving thanks was an effectual blessing of the bread and working the multiplication thereof.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1417,6 +1526,9 @@
             {
               "text": "Exo. 16, 4. 14. Ps. 77, 24."
             }
+          ],
+          "xrefs": [
+            "Exo. 16, 4. 14."
           ]
         },
         {
@@ -1426,13 +1538,17 @@
           "notes": [
             {
               "label": "1",
-              "text": "Why we keep the Hebrew word, <i>Amen,</i> & translate it not, See the Annot. <i>c. 8. vers. 14.</i>"
+              "text": "Why we keep the Hebrew word, <i>Amen,</i> & translate it not, See the Annot. <i>c. 8. vers. 14.</i>",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Ps. 77, 24."
           ]
         },
         {
           "verse": 33,
-          "text": "For the bread of God it is that descended from Heaven, and giveth life to the world."
+          "text": "For the bread of God it is that descendeth from Heaven, and giveth life to the world."
         },
         {
           "verse": 34,
@@ -1452,7 +1568,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel in the Anniversary of the dead."
+              "text": "The Gospel in the Anniversary of the dead.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1478,7 +1595,7 @@
         },
         {
           "verse": 43,
-          "text": "<sc>Jesus</sc> therefore answered and said to them: Murmur not one to another:"
+          "text": "<sc>Jesus</sc> therefore answered and said to them: Murmur not one to an other:"
         },
         {
           "verse": 44,
@@ -1487,7 +1604,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel upon Imber Wednesday in Whitsunweek."
+              "text": "The Gospel upon Imber Wednesday in Whitsunweek.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -1498,6 +1616,9 @@
             {
               "text": "Esa. 54, 13."
             }
+          ],
+          "xrefs": [
+            "Esa. 54, 13."
           ]
         },
         {
@@ -1519,7 +1640,7 @@
         },
         {
           "verse": 50,
-          "text": "This is the bread that descended from Heaven: that if any man eat of it, he die not."
+          "text": "This is the bread that descendeth from Heaven: that if any man eat of it, he die not."
         },
         {
           "verse": 51,
@@ -1532,8 +1653,12 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel in a daily Mass for the dead."
+              "text": "The Gospel in a daily Mass for the dead.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Mt. 26, 26. Mr. 14, 22. Lu. 22, 19. 1. Cor. 11, 24."
           ]
         },
         {
@@ -1558,7 +1683,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel upon CORPUS CHRISTI day."
+              "text": "The Gospel upon CORPUS CHRISTI day.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -1585,7 +1711,10 @@
         },
         {
           "verse": 61,
-          "text": "But <sc>Jesus</sc> knowing with himself that his Disciples murmured at this, he said to them: Doth this scandalize you?"
+          "text": "But <sc>Jesus</sc> knowing with himself that his Disciples murmured at this, he said to them: Doth this scandalize you?",
+          "xrefs": [
+            "Io. 3, 13."
+          ]
         },
         {
           "verse": 62,
@@ -1635,7 +1764,7 @@
         },
         {
           "verse": 71,
-          "text": "And he meant Judas Iscariot, Simon's son: for this same was to betray him, whereas he was one of the Twelve."
+          "text": "And he meant Judas Iscariot, Simons son: for this same was to betray him, whereas he was one of the Twelve."
         }
       ],
       "summary": "Having with five loaves fed five thousand 16. (walking also the night after upon the sea) 22. on the morrow the people there upon resorting unto him, 27. he preacheth unto them of the Bread which he will give: telling them that he is come from heaven, and therefore able to give such bread as can quicken the world, even his own flesh: and that all his Elect shall believe as much. 60. Many notwithstanding do murmur at this doctrine, yea and become apostatæs, though he tell them that they shall see by his Ascension into heaven, that he is descended from heaven, but the Twelve stick unto him, believing that he is God omnipotent, as he said. Among whom also (that no man be scandalized) he signifieth that he foreknoweth which will become a traitor: as among the foresaid, which would become apostatæs. <na>[1]</na>",
@@ -1655,16 +1784,22 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel upon Tuesday in Passion Week."
+              "text": "The Gospel upon Tuesday in Passion Week.",
+              "kind": "lectionary"
             },
             {
               "label": "2",
-              "text": "<i>in Galilee,</i>"
+              "text": "<i>in Galilee,</i>",
+              "kind": "gloss"
             },
             {
               "label": "3",
-              "text": "<i>in Jury:</i>"
+              "text": "<i>in Jury:</i>",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "in Galilee, · in Iurie:"
           ]
         },
         {
@@ -1678,13 +1813,17 @@
           "notes": [
             {
               "label": "2",
-              "text": "<i>Scenopegia (Lev. 23. σκηνῶν ἑορτὴ)</i> is the <i>feast of Tabernacles,</i> which the Jews kept from the 7. Octob. for eight days together, by God's commandment, for a memory that their Fathers dwelt by God's protection forty years in tabernacles or tents, and not in houses, coming out of ÆGYPT. See Levit. 23, 34."
+              "text": "<i>Scenopegia (Lev. 23. σκηνῶν ἑορτὴ)</i> is the <i>feast of Tabernacles,</i> which the Jews kept from the 7. Octob. for eight days together, by God's commandment, for a memory that their Fathers dwelt by God's protection forty years in tabernacles or tents, and not in houses, coming out of ÆGYPT. See Levit. 23, 34.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 3,
-          "text": "And his brethren said to him: Pass from hence, and go into Jewry; that thy Disciples also may see thy works which thou doest."
+          "text": "And his brethren said to him: Pass from hence, and go into Jewry; that thy Disciples also may see thy works which thou doest.",
+          "xrefs": [
+            "Leu. 23, 34."
+          ]
         },
         {
           "verse": 4,
@@ -1708,8 +1847,12 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>I will not yet go up</i>"
+              "text": "<i>I will not yet go up</i>",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "I wil not yet goe vp"
           ]
         },
         {
@@ -1738,7 +1881,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel upon Tuesday in the 4. week of Lent."
+              "text": "The Gospel upon Tuesday in the 4. week of Lent.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -1756,7 +1900,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The way to come to know the truth, is to live well."
+              "text": "The way to come to know the truth, is to live well.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1766,13 +1911,17 @@
           "notes": [
             {
               "label": "1",
-              "text": "It is spoken of Antichrist specially, and it is true in all Heretics. <i>August. tract. 29. in Evang. Io.</i>"
+              "text": "It is spoken of Antichrist specially, and it is true in all Heretics. <i>August. tract. 29. in Evang. Io.</i>",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 19,
-          "text": "Did not Moyses give you the law, and none of you doeth the law?"
+          "text": "Did not Moyses give you the law, and none of you doeth the law?",
+          "xrefs": [
+            "Io. 5, 18."
+          ]
         },
         {
           "verse": 20,
@@ -1785,7 +1934,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "No marvel, when these speak thus to Christ himself, if Heretics call his vicar Antichrist."
+              "text": "No marvel, when these speak thus to Christ himself, if Heretics call his vicar Antichrist.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1803,6 +1953,9 @@
             {
               "text": "Gen. 17, 10."
             }
+          ],
+          "xrefs": [
+            "Leu. 12, 3. · Gen. 17, 10."
           ]
         },
         {
@@ -1847,8 +2000,12 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>chief Priests</i>"
+              "text": "<i>chief Priests</i>",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "cheefe Priests"
           ]
         },
         {
@@ -1857,13 +2014,17 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel upon Monday in Passion Week."
+              "text": "The Gospel upon Monday in Passion Week.",
+              "kind": "lectionary"
             }
+          ],
+          "xrefs": [
+            "Io. 13, 33."
           ]
         },
         {
           "verse": 34,
-          "text": "<cr>[1]</cr> You seek me, and shall not find: and where I am, you cannot come.",
+          "text": "<cr>[1]</cr> You seek me, and shall not find: and where I am, you can not come.",
           "cross_refs": [
             {
               "text": "Io. 13, 33."
@@ -1876,7 +2037,7 @@
         },
         {
           "verse": 36,
-          "text": "What is this saying that he hath said: You shall seek me, and shall not find; and where I am, you cannot come."
+          "text": "What is this saying that he hath said: You shall seek me, and shall not find; and where I am, you can not come."
         },
         {
           "verse": 37,
@@ -1885,6 +2046,9 @@
             {
               "text": "Lev. 23, 36."
             }
+          ],
+          "xrefs": [
+            "Leu. 23, 36."
           ]
         },
         {
@@ -1894,6 +2058,9 @@
             {
               "text": "Ioel. 2, 28."
             }
+          ],
+          "xrefs": [
+            "Ioel. 2, 28."
           ]
         },
         {
@@ -1907,8 +2074,12 @@
           "notes": [
             {
               "label": "2",
-              "text": "This was fulfilled on Whitsunday Act. 2, & afterward always by imposition of hands in the Sacrament of Confirmation: visibly in the primitive Church, and invisibly to the end of the world."
+              "text": "This was fulfilled on Whitsunday Act. 2, & afterward always by imposition of hands in the Sacrament of Confirmation: visibly in the primitive Church, and invisibly to the end of the world.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Act. 2, 1."
           ]
         },
         {
@@ -1917,7 +2088,10 @@
         },
         {
           "verse": 41,
-          "text": "Others said: This is <sc>Christ</sc>. But certain said: Why, doth <sc>Christ</sc> come from Galilee?"
+          "text": "Others said: This is <sc>Christ</sc>. But certain said: Why, doth <sc>Christ</sc> come from Galilee?",
+          "xrefs": [
+            "Ps. 131, 11. Mich. 5, 2."
+          ]
         },
         {
           "verse": 42,
@@ -1967,8 +2141,12 @@
           "notes": [
             {
               "label": "2",
-              "text": "Christ hath some good always even among the wicked, which secretly serve him and by wise delays avert the execution of unjust laws against him and his people, as Nicodemus & Gamaliel."
+              "text": "Christ hath some good always even among the wicked, which secretly serve him and by wise delays avert the execution of unjust laws against him and his people, as Nicodemus & Gamaliel.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Io. 3, 2."
           ]
         },
         {
@@ -1981,7 +2159,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>Search the scriptures</i>"
+              "text": "<i>Search the scriptures</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -2001,7 +2180,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel upon Saturday the 3. week of Lent."
+              "text": "The Gospel upon Saturday the 3. week of Lent.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -2011,11 +2191,11 @@
         },
         {
           "verse": 3,
-          "text": "And the Scribes and Pharisees bring a woman taken in adultery; and they did set her in the midst,"
+          "text": "And the Scribes and Pharisees bring a woman taken in advoutry; and they did set her in the midst,"
         },
         {
           "verse": 4,
-          "text": "And said to him: Master, this woman was even now taken in adultery."
+          "text": "And said to him: Master, this woman was even now taken in advoutry."
         },
         {
           "verse": 5,
@@ -2024,6 +2204,9 @@
             {
               "text": "Lev. 20, 10."
             }
+          ],
+          "xrefs": [
+            "Leu. 20, 10."
           ]
         },
         {
@@ -2036,7 +2219,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "We cannot conveniently reprehend or condemn other men's faults, if ourselves be guilty of the same or other greater. <i>Cyril in Io. See Annot. Mt. 7, 1.</i>"
+              "text": "We cannot conveniently reprehend or condemn other men's faults, if ourselves be guilty of the same or other greater. <i>Cyril in Io. See Annot. Mt. 7, 1.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -2058,7 +2242,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "S. Augustine by this example of our Master proveth that Clergy men specially should be given much to mercy: and that they ought often, as the cause and time require, to get pardon of the secular Magistrates for offenders that be penitent. <i>Ep. 54.</i>"
+              "text": "S. Augustine by this example of our Master proveth that Clergy men specially should be given much to mercy: and that they ought often, as the cause and time require, to get pardon of the secular Magistrates for offenders that be penitent. <i>Ep. 54.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -2068,7 +2253,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "b The Gospel upon Saturday the 4. Week in Lent."
+              "text": "b The Gospel upon Saturday the 4. Week in Lent.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -2095,6 +2281,9 @@
             {
               "text": "Deu. 17, 6. 19, 15."
             }
+          ],
+          "xrefs": [
+            "Deu. 17, 6. 19, 15."
           ]
         },
         {
@@ -2111,17 +2300,18 @@
         },
         {
           "verse": 21,
-          "text": "<na>[1]</na> Again therefore <sc>Jesus</sc> said to them: I go, and you shall seek me, and shall die in your sin. Whither I go, you cannot come.",
+          "text": "<na>[1]</na> Again therefore <sc>Jesus</sc> said to them: I go, and you shall seek me, and shall die in your sin. Whither I go, you can not come.",
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel upon Monday the 2. week of Lent."
+              "text": "The Gospel upon Monday the 2. week of Lent.",
+              "kind": "lectionary"
             }
           ]
         },
         {
           "verse": 22,
-          "text": "The Jews therefore said: Why, will he kill himself, because he saith: Whither I go, you cannot come?"
+          "text": "The Jews therefore said: Why, will he kill himself, because he saith: Whither I go, you can not come?"
         },
         {
           "verse": 23,
@@ -2137,7 +2327,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "So read S. Cyril, S. Ambrose, & S. Augustine: expounding it of Christ's person, that he is the beginning or cause of all creatures."
+              "text": "So read S. Cyril, S. Ambrose, & S. Augustine: expounding it of Christ's person, that he is the beginning or cause of all creatures.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2167,7 +2358,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Only faith is not sufficient without perseverance or abiding in the keeping of his commandments."
+              "text": "Only faith is not sufficient without perseverance or abiding in the keeping of his commandments.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2187,6 +2379,9 @@
             {
               "text": "Ro. 6, 16. 2. Pet. 2, 19."
             }
+          ],
+          "xrefs": [
+            "Ro. 6, 16 · 2 Pet. 2, 19."
           ]
         },
         {
@@ -2199,7 +2394,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Man was never without free will: but having the grace of Christ, his will is truly made free (as S. Augustine saith) from servitude of sin also. <i>tract. 41. in Evang. Io.</i>"
+              "text": "Man was never without free will: but having the grace of Christ, his will is truly made free (as S. Augustine saith) from servitude of sin also. <i>tract. 41. in Evang. Io.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -2217,7 +2413,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Not only faith but good works also make men the children of Abraham, according as S. James also speaketh of Abraham's works c. 2."
+              "text": "Not only faith but good works also make men the children of Abraham, according as S. James also speaketh of Abraham's works c. 2.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2243,7 +2440,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "S. Augustine compareth Heretics in their spiritual murder by driving Christian men out of the Church, to the Devil that drove our parents out of Paradise. <i>Cont. lit. Petil. li. 2, c. 13.</i>"
+              "text": "S. Augustine compareth Heretics in their spiritual murder by driving Christian men out of the Church, to the Devil that drove our parents out of Paradise. <i>Cont. lit. Petil. li. 2, c. 13.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -2261,7 +2459,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel upon PASSION Sunday."
+              "text": "The Gospel upon PASSION Sunday.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -2275,7 +2474,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "He denieth not that he is a Samaritane, because he is our keeper or protector, as the word signifieth, and because he is indeed that merciful Samaritane in the parable of the wounded man Luc. 10, 22. <i>Aug. tract. 43. in Ioan.</i>"
+              "text": "He denieth not that he is a Samaritane, because he is our keeper or protector, as the word signifieth, and because he is indeed that merciful Samaritane in the parable of the wounded man Luc. 10, 22. <i>Aug. tract. 43. in Ioan.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -2331,7 +2531,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel upon Wednesday in the 4. week of Lent."
+              "text": "The Gospel upon Wednesday in the 4. week of Lent.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -2345,7 +2546,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Though many infirmities fall for sin, yet not all: some coming for probation, and some sent that God by the cure thereof may be glorified."
+              "text": "Though many infirmities fall for sin, yet not all: some coming for probation, and some sent that God by the cure thereof may be glorified.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2355,7 +2557,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The time of working, and meriting, is in this life: after death we can deserve no more by our deeds, but must only receive good or ill, according to the difference of works here."
+              "text": "The time of working, and meriting, is in this life: after death we can deserve no more by our deeds, but must only receive good or ill, according to the difference of works here.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2374,13 +2577,14 @@
           "notes": [
             {
               "label": "1",
-              "text": "c This was a figure of Baptism, to which all men born in sin and blindness are sent for health & sight. <i>Ambr. li. 3. c. 2. de Sacramentis.</i>"
+              "text": "c This was a figure of Baptism, to which all men born in sin and blindness are sent for health & sight. <i>Ambr. li. 3. c. 2. de Sacramentis.</i>",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 8,
-          "text": "Therefore the neighbours, and they which had seen him before, that he was a beggar, said: Is not this he that sat, and begged? Others said: That this is he."
+          "text": "Therefore the neighbours, and they which had seen him before, that he was a beggar, said: Is not this he that sate, and begged? Others said: That this is he."
         },
         {
           "verse": 9,
@@ -2424,7 +2628,7 @@
         },
         {
           "verse": 19,
-          "text": "and asked them, saying: Is this your son, whom you say that he was born blind? how then doth he now see?"
+          "text": "and asked them, saying: Is this your son, whom you say that he was born blind? how then doeth he now see?"
         },
         {
           "verse": 20,
@@ -2449,7 +2653,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "So say the Heretics when they derogate from miracles done by Saints or their Relics, pharisaically pretending the glory of God. As though it were not God's glory, when his Saints do it by his power and virtue: yea his greater glory, that doeth such things by his servants, & by the meanest things belonging to them, as Peter's shadow <i>Act. 5.</i> & Paul's napkin <i>Act. 19.</i>"
+              "text": "So say the Heretics when they derogate from miracles done by Saints or their Relics, pharisaically pretending the glory of God. As though it were not God's glory, when his Saints do it by his power and virtue: yea his greater glory, that doeth such things by his servants, & by the meanest things belonging to them, as Peter's shadow <i>Act. 5.</i> & Paul's napkin <i>Act. 19.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -2515,7 +2720,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "By this we see that this miracle was not only marvelous and beneficial to the blind, but also significative of taking away spiritual blindness."
+              "text": "By this we see that this miracle was not only marvelous and beneficial to the blind, but also significative of taking away spiritual blindness.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2538,22 +2744,24 @@
       "verses": [
         {
           "verse": 1,
-          "text": "<sc>Amen</sc>, <na>[1]</na> amen I say to you, he that entereth not by the door into the fold of the sheep, but climbeth up another way; he is <na>[2]</na> a thief and a robber.",
+          "text": "<sc>Amen</sc>, <na>[1]</na> amen I say to you, he that entreth not by the door into the fold of the sheep, but climbeth up another way; he is <na>[2]</na> a thief and a robber.",
           "has_annotation": true,
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel upon Tuesday in Whitsunweek."
+              "text": "The Gospel upon Tuesday in Whitsunweek.",
+              "kind": "lectionary"
             },
             {
               "label": "2",
-              "text": "The thief, is the Heretic specially, & any other that unlawfully break in upon the sheep to kill & destroy them by false doctrine and otherwise."
+              "text": "The thief, is the Heretic specially, & any other that unlawfully break in upon the sheep to kill & destroy them by false doctrine and otherwise.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 2,
-          "text": "But he that entereth by the door, is the Pastor of the sheep."
+          "text": "But he that entreth by the door, is the Pastor of the sheep."
         },
         {
           "verse": 3,
@@ -2565,13 +2773,14 @@
           "notes": [
             {
               "label": "1",
-              "text": "That is the fashion of Jewry & other countries, signifying that the shepherd or Pastor must teach the sheep, and not they him."
+              "text": "That is the fashion of Jewry & other countries, signifying that the shepherd or Pastor must teach the sheep, and not they him.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 5,
-          "text": "But a stranger they follow not, but fly from him because they know not the voice of strangers."
+          "text": "But a stranger they follow not, but flee from him because they know not the voice of strangers."
         },
         {
           "verse": 6,
@@ -2600,13 +2809,17 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel upon the 2. Sunday after Easter, & for S. Thomas of Canterbury. <i>Decemb. 29.</i> And in his Translation. <i>Iulij. 7.</i>"
+              "text": "The Gospel upon the 2. Sunday after Easter, & for S. Thomas of Canterburie. <i>Decemb. 29.</i> And in his Translation. <i>Iulij. 7.</i>",
+              "kind": "lectionary"
             }
+          ],
+          "xrefs": [
+            "Esa. 40, 11. Ezec. 34, 23."
           ]
         },
         {
           "verse": 12,
-          "text": "<cr>[1]</cr> The good Pastor giveth his life for his sheep. But the hireling & he that is not the Pastor, whose own the sheep are not, seeth the wolf coming, and leaveth the sheep, and flyeth: and the wolf raveneth, and disperseth the sheep.",
+          "text": "<cr>[1]</cr> The good Pastor giveth his life for his sheep. But the hireling & he that is not the Pastor, whose own the sheep are not, seeth the wolf coming, and leaveth the sheep, and fleeth: and the wolf raveneth, and disperseth the sheep.",
           "cross_refs": [
             {
               "text": "Esa. 40, 11. Ezec. 34, 23."
@@ -2615,7 +2828,7 @@
         },
         {
           "verse": 13,
-          "text": "And the hireling flyeth because he is a hireling; and he hath no care of the sheep.",
+          "text": "And the hireling fleeth because he is a hireling; and he hath no care of the sheep.",
           "has_annotation": true
         },
         {
@@ -2628,7 +2841,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Christ's death was so necessary for the flock, that when he might have escaped, he voluntarily offered himself to death for his flock."
+              "text": "Christ's death was so necessary for the flock, that when he might have escaped, he voluntarily offered himself to death for his flock.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2639,6 +2853,9 @@
             {
               "text": "Ezec. 37, 24."
             }
+          ],
+          "xrefs": [
+            "Ezec. 37, 24."
           ]
         },
         {
@@ -2647,7 +2864,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c He meaneth the Church of the Gentiles."
+              "text": "c He meaneth the Church of the Gentiles.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2658,6 +2876,9 @@
             {
               "text": "Esa. 53, 7."
             }
+          ],
+          "xrefs": [
+            "Esa. 53, 7."
           ]
         },
         {
@@ -2680,6 +2901,9 @@
             {
               "text": "1. Mach. 4, 56. 59."
             }
+          ],
+          "xrefs": [
+            "1 Mach. 4, 56. 59."
           ]
         },
         {
@@ -2688,7 +2912,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel upon Wednesday in Passion Week."
+              "text": "The Gospel upon Wednesday in Passion Week.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -2719,7 +2944,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Another reading is, <i>My father that hath given me, &c.</i>"
+              "text": "An other reading is, <i>My father that hath given me, &c.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -2729,7 +2955,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c unum."
+              "text": "c unum.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2752,11 +2979,14 @@
             {
               "text": "Ps. 81, 6."
             }
+          ],
+          "xrefs": [
+            "Ps. 81, 6."
           ]
         },
         {
           "verse": 35,
-          "text": "If he called them gods, to whom the word of God was made, and the scripture cannot be broken;"
+          "text": "If he called them gods, to whom the word of God was made, and the scripture can not be broken;"
         },
         {
           "verse": 36,
@@ -2794,17 +3024,21 @@
       "verses": [
         {
           "verse": 1,
-          "text": "<sc>And</sc> <na>[1]</na> there was a certain sick man, Lazarus of Bethania, of the town of Mary & Martha her sister.",
+          "text": "<sc>And</sc> <na>[1]</na> there was a certain sick man, Lazarus of Bethania, of the town of Marie & Martha her sister.",
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel upon Friday in the 4. week of Lent."
+              "text": "The Gospel upon Friday in the 4. week of Lent.",
+              "kind": "lectionary"
             }
+          ],
+          "xrefs": [
+            "Lu. 7, 37."
           ]
         },
         {
           "verse": 2,
-          "text": "(And Mary was she <cr>[1]</cr> that anointed our Lord with ointment, & wiped his feet with her hair: whose brother Lazarus was sick.)",
+          "text": "(And Marie was she <cr>[1]</cr> that anointed our Lord with ointment, & wiped his feet with her hear: whose brother Lazarus was sick.)",
           "cross_refs": [
             {
               "text": "Lu. 7, 37. Mat, 26, 7. Mar. 14, 3. Io. 12, 3."
@@ -2821,7 +3055,7 @@
         },
         {
           "verse": 5,
-          "text": "And <sc>Jesus</sc> loved Martha, and her sister Mary, and Lazarus."
+          "text": "And <sc>Jesus</sc> loved Martha, and her sister Marie, and Lazarus."
         },
         {
           "verse": 6,
@@ -2857,7 +3091,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>c de dormitione somni.</i>"
+              "text": "<i>c de dormitione somni.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -2883,11 +3118,11 @@
         },
         {
           "verse": 19,
-          "text": "And many of the Jews were come to Martha and Mary, to comfort them concerning their brother."
+          "text": "And many of the Jews were come to Martha and Marie, to comfort them concerning their brother."
         },
         {
           "verse": 20,
-          "text": "Martha therefore when she heard that <sc>Jesus</sc> was come, went to meet him; but Mary sat at home."
+          "text": "Martha therefore when she heard that <sc>Jesus</sc> was come, went to meet him; but Marie sat at home."
         },
         {
           "verse": 21,
@@ -2895,7 +3130,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel in a Mass for the dead upon the day of the burial or deposition, also the 3. 7. and 30. day."
+              "text": "The Gospel in a Mass for the dead upon the day of the burial or deposition, also the 3. 7. and 30. day.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -2913,7 +3149,7 @@
         },
         {
           "verse": 25,
-          "text": "<sc>Jesus</sc> saith to her: I am the resurrection and the life; he that believeth in me, although he be dead, shall live."
+          "text": "<sc>Jesus</sc> said to her: I am the resurrection and the life; he that believeth in me, although he be dead, shall live."
         },
         {
           "verse": 26,
@@ -2925,7 +3161,7 @@
         },
         {
           "verse": 28,
-          "text": "And when she had said these things, she went, and called Mary her sister secretly, saying: The Master is come, & calleth thee."
+          "text": "And when she had said these things, she went, and called Marie her sister secretly, saying: The Master is come, & calleth thee."
         },
         {
           "verse": 29,
@@ -2937,11 +3173,11 @@
         },
         {
           "verse": 31,
-          "text": "The Jews therefore that were with her in the house and did comfort her, when they saw Mary that she rose quickly and went forth, followed her, saying: That she goeth to the grave, to weep there."
+          "text": "The Jews therefore that were with her in the house and did comfort her, when they saw Marie that she rose quickly and went forth, followed her, saying: That she goeth to the grave, to weep there."
         },
         {
           "verse": 32,
-          "text": "Mary therefore when she was come where <sc>Jesus</sc> was, seeing him, fell at his feet, and saith to him: Lord, if thou hadst been here, my brother had not died."
+          "text": "Marie therefore when she was come where <sc>Jesus</sc> was, seeing him, fell at his feet, and saith to him: Lord, if thou hadst been here, my brother had not died."
         },
         {
           "verse": 33,
@@ -2966,6 +3202,9 @@
             {
               "text": "Io. 9, 6."
             }
+          ],
+          "xrefs": [
+            "Io. 9, 6."
           ]
         },
         {
@@ -2974,7 +3213,7 @@
         },
         {
           "verse": 39,
-          "text": "<sc>Jesus</sc> saith: Take away the stone. Martha the sister of him that was dead, said to him: Lord, now he stinketh, for he is now of four days."
+          "text": "<sc>Jesus</sc> saith: Take away the stone. Martha the sister of him that was dead, saith to him: Lord, now he stinketh, for he is now of four days."
         },
         {
           "verse": 40,
@@ -2998,13 +3237,14 @@
           "notes": [
             {
               "label": "1",
-              "text": "S. Cyril <i>li. 7. c. ult. in Io.</i> and S. August. <i>Tract. 49. in Io.</i> apply this to the Apostles and Priest's authority of absolving sinners: affirming Christ to revive none from sin, but in the Church and by the Priest's ministry."
+              "text": "S. Cyril <i>li. 7. c. ult. in Io.</i> and S. August. <i>Tract. 49. in Io.</i> apply this to the Apostles and Priests authority of absolving sinners: affirming Christ to revive none from sin, but in the Church and by the Priests ministry.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 45,
-          "text": "Many therefore of the Jews that were come to Mary & Martha, & had seen the things that <sc>Jesus</sc> did, believed in him."
+          "text": "Many therefore of the Jews that were come to Marie & Martha, & had seen the things that <sc>Jesus</sc> did, believed in him."
         },
         {
           "verse": 46,
@@ -3016,7 +3256,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel upon Friday in Passion Week."
+              "text": "The Gospel upon Friday in Passion Week.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -3026,7 +3267,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "All men, but specially Nations must take heed, that whiles to save their temporal state, they forsake God, they lose not both as the Jews did. <i>Aug. tract. 49. in Io.</i>"
+              "text": "All men, but specially Nations must take heed, that whiles to save their temporal state, they forsake God, they lose not both as the Jews did. <i>Aug. tract. 49. in Io.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -3080,27 +3322,33 @@
           "notes": [
             {
               "label": "2",
-              "text": "The Gospel upon Monday in Holy Week."
+              "text": "The Gospel upon Monday in Holy Week.",
+              "kind": "lectionary"
             }
+          ],
+          "xrefs": [
+            "Mt. 26, 6. Mar. 14, 3."
           ]
         },
         {
           "verse": 2,
-          "text": "<na>[1]</na> And they made him a supper there: and Martha ministered, but Lazarus was one of them that sat at the table with him.",
+          "text": "<na>[1]</na> And they made him a supper there: and Martha ministered, but Lazarus was one of them that sate at the table with him.",
           "notes": [
             {
               "label": "1",
-              "text": "PALM SUNDAY eve."
+              "text": "PALM SUNDAY eve.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 3,
-          "text": "<na>[1]</na> Mary therefore took a pound of ointment of right spikenard, precious, and anointed the feet of <sc>Jesus</sc>, and wiped his feet with her hair: and the house was filled of the odour of the ointment.",
+          "text": "<na>[1]</na> Marie therefore took a pound of ointment of right spikenard, precious, and anointed the feet of <sc>Jesus</sc>, and wiped his feet with her hear: and the house was filled of the odour of the ointment.",
           "notes": [
             {
               "label": "1",
-              "text": "Of this woman's extraordinary offices of devotion, & how acceptable they were to Christ, see the Annot. Mt. 26."
+              "text": "Of this woman's extraordinary offices of devotion, & how acceptable they were to Christ, see the Annot. Mt. 26.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3124,7 +3372,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The devout offices of balming and anointing the dead"
+              "text": "The devout offices of balming and anointing the dead",
+              "kind": "gloss"
             }
           ]
         },
@@ -3134,7 +3383,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Not in visible and mortal condition, to receive alms of you or such like offices for supply of my necessities."
+              "text": "Not in visible and mortal condition, to receive alms of you or such like offices for supply of my necessities.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3152,7 +3402,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel upon Saturday in Passion Week."
+              "text": "The Gospel upon Saturday in Passion Week.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -3162,7 +3413,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "PALM SUNDAY."
+              "text": "PALM SUNDAY.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3176,15 +3428,21 @@
             {
               "text": "Ps. 117, 26."
             }
+          ],
+          "xrefs": [
+            "Mt. 21, 7. Mr. 11, 7. Lu. 19, 35. · Ps. 117, 26."
           ]
         },
         {
           "verse": 14,
-          "text": "And <sc>Jesus</sc> found a young ass, and sat upon it, as it is written:"
+          "text": "And <sc>Jesus</sc> found a young ass, and sate upon it, as it is written:",
+          "xrefs": [
+            "Zach. 9, 9."
+          ]
         },
         {
           "verse": 15,
-          "text": "<i>Fear not daughter of Sion: behold, thy King cometh sitting upon an ass's colt.</i> <cr>[1]</cr>",
+          "text": "<i>Fear not daughter of Sion: behold, thy King cometh sitting upon an asses colt.</i> <cr>[1]</cr>",
           "cross_refs": [
             {
               "text": "Zach. 9, 9."
@@ -3213,7 +3471,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "We may see there is a great difference where a man pray or adore, at home or in the Church & holy places: when the Gentiles also came of devotion a pilgrimage to the Temple in Hierusalem."
+              "text": "We may see there is a great difference where a man pray or adore, at home or in the Church & holy places: when the Gentiles also came of devotion a pilgrimage to the Temple in Hierusalem.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3235,7 +3494,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "b The Gospel for S. Ignatius <i>Febr. 1.</i> And S. Laurence <i>Aug. 10.</i> And for some other martyrs not Bishops."
+              "text": "b The Gospel for S. Ignatius <i>Febr. 1.</i> And S. Laurence <i>Aug. 10.</i> And for some other martyrs not Bishops.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -3269,8 +3529,12 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel upon Holy Rood day <i>Septemb. 14.</i> in Latin, <i>Exaltatio S. Crucis.</i>"
+              "text": "The Gospel upon Holy Rood day <i>Septemb. 14.</i> in Latin, <i>Exaltatio S. Crucis.</i>",
+              "kind": "lectionary"
             }
+          ],
+          "xrefs": [
+            "Io. 3, 14."
           ]
         },
         {
@@ -3309,6 +3573,9 @@
             {
               "text": "Esa. 53, 1."
             }
+          ],
+          "xrefs": [
+            "Es. 53, 1."
           ]
         },
         {
@@ -3317,8 +3584,12 @@
           "notes": [
             {
               "label": "1",
-              "text": "If any man ask (saith S. Augustine) why they could not believe: I answer roundly, because they would not. <i>Tract. 33. in Io.</i> See the meaning of this speech Annot. <i>Mat. 13. 15. Mar. 4, 12.</i>"
+              "text": "If any man ask (saith S. Augustine) why they could not believe: I answer roundly, because they would not. <i>Tract. 33. in Io.</i> See the meaning of this speech Annot. <i>Mat. 13. 15. Mar. 4, 12.</i>",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Esa. 6, 9."
           ]
         },
         {
@@ -3328,11 +3599,17 @@
             {
               "text": "Esa. 6, 9. Mt. 13, 14. Mr. 4, 12. Lu. 8, 10. Act. 28, 27."
             }
+          ],
+          "xrefs": [
+            "Mt. 13, 14. Mr. 4, 12. Lu 8, 10."
           ]
         },
         {
           "verse": 41,
-          "text": "These things said Esaie, when he saw his glory, & spake of him."
+          "text": "These things said Esaie, when he saw his glory, & spake of him.",
+          "xrefs": [
+            "Act. 28, 27."
+          ]
         },
         {
           "verse": 42,
@@ -3340,7 +3617,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "This is the case of many principal men in such countries where heresy hath the upper-hand. Who know and believe the Catholic faith: but making choice rather to keep man's favour than God's, they dare not confess the same. Such may pray that God and the world agree together: for else it is seen whose part they will take."
+              "text": "This is the case of many principal men in such countries where heresy hath the upper-hand. Who know and believe the Catholic faith: but making choice rather to keep man's favour than God's, they dare not confess the same. Such may pray that God and the world agree together: for else it is seen whose part they will take.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3399,12 +3677,17 @@
           "notes": [
             {
               "label": "2",
-              "text": "The Gospel upon Maundy Thursday at Mass, & at the washing of feet."
+              "text": "The Gospel upon Maundy Thursday at Mass, & at the washing of feet.",
+              "kind": "lectionary"
             },
             {
               "label": "3",
-              "text": "MAUNDY THURSDAY."
+              "text": "MAUNDY THURSDAY.",
+              "kind": "lectionary"
             }
+          ],
+          "xrefs": [
+            "Mt. 26, 1. · Mr. 14, 1. Luc. 22, 1."
           ]
         },
         {
@@ -3413,7 +3696,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "By supper, he meaneth the eating of the Paschal lamb. For, the institution of the B. Sacrament was after this."
+              "text": "By supper, he meaneth the eating of the Paschal lamb. For, the institution of the B. Sacrament was after this.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3427,7 +3711,7 @@
         },
         {
           "verse": 5,
-          "text": "After that, he put water into a basin, and began to wash the feet of the Disciples, and to wipe them with the towel where with he was girded.",
+          "text": "After that, he put water into a bason, and began to wash the feet of the Disciples, and to wipe them with the towel where with he was girded.",
           "has_annotation": true
         },
         {
@@ -3487,6 +3771,9 @@
             {
               "text": "Ps. 40, 10."
             }
+          ],
+          "xrefs": [
+            "Ps. 40, 10."
           ]
         },
         {
@@ -3504,11 +3791,17 @@
             {
               "text": "Mat. 26, 18. Mar. 14, 16. Luc. 22, 21."
             }
+          ],
+          "xrefs": [
+            "Mat. 26, 18. Mar. 14, 16."
           ]
         },
         {
           "verse": 22,
-          "text": "The Disciples therefore looked one upon another, doubting of whom he spake."
+          "text": "The Disciples therefore looked one upon another, doubting of whom he spake.",
+          "xrefs": [
+            "Luc. 22, 21."
+          ]
         },
         {
           "verse": 23,
@@ -3516,7 +3809,7 @@
         },
         {
           "verse": 24,
-          "text": "Therefore Simon Peter beckoneth to him, and said to him: Who is it of whom he speaketh?"
+          "text": "Therefore Simon Peter beckeneth to him, and said to him: Who is it of whom he speaketh?"
         },
         {
           "verse": 25,
@@ -3524,7 +3817,7 @@
         },
         {
           "verse": 26,
-          "text": "<sc>Jesus</sc> answered: He it is to whom I shall reach the dipped bread. And when he had dipped the bread, he gave it to Judas Iscariote Simon's son."
+          "text": "<sc>Jesus</sc> answered: He it is to whom I shall reach the dipped bread. And when he had dipped the bread, he gave it to Judas Iscariote Simons son."
         },
         {
           "verse": 27,
@@ -3532,7 +3825,7 @@
         },
         {
           "verse": 28,
-          "text": "But no man knew of those that sat at table to what purpose he said this unto him."
+          "text": "But no man knew of those that sate at table to what purpose he said this unto him."
         },
         {
           "verse": 29,
@@ -3540,7 +3833,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Christ had some provision before hand given him by the Collections of the faithful, which was used both in his own necessities, & bestowed upon the poor."
+              "text": "Christ had some provision before hand given him by the Collections of the faithful, which was used both in his own necessities, & bestowed upon the poor.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3558,30 +3852,39 @@
         },
         {
           "verse": 33,
-          "text": "Little children, yet a little while I am with you. You shall seek me, & <cr>[1]</cr> as I said to the Jews, whither I go, you cannot come: to you also I say now.",
+          "text": "Little children, yet a little while I am with you. You shall seek me, & <cr>[1]</cr> as I said to the Jews, whither I go, you can not come: to you also I say now.",
           "cross_refs": [
             {
               "text": "Io. 7, 34."
             }
+          ],
+          "xrefs": [
+            "Io. 7, 34."
           ]
         },
         {
           "verse": 34,
-          "text": "<cr>[1]</cr> A new commandment I give to you, That you love one another; as I have loved you, that you also love one another.",
+          "text": "<cr>[1]</cr> A new commandment I give to you, That you love one an other; as I have loved you, that you also love one an other.",
           "has_annotation": true,
           "cross_refs": [
             {
               "text": "1. Io. 3, 23."
             }
+          ],
+          "xrefs": [
+            "1 Io. 3, 23."
           ]
         },
         {
           "verse": 35,
-          "text": "In this all men shall know that you are my Disciples, if you have love one to another."
+          "text": "In this all men shall know that you are my Disciples, if you have love one to an other."
         },
         {
           "verse": 36,
-          "text": "Simon Peter saith to him: Lord, whither goest thou? <sc>Jesus</sc> answered, Whither I go, thou canst not now follow me, but hereafter thou shalt follow."
+          "text": "Simon Peter saith to him: Lord, whither goest thou? <sc>Jesus</sc> answered, Whither I go, thou canst not now follow me, but hereafter thou shalt follow.",
+          "xrefs": [
+            "Mt. 26, 35. Mr. 14, 29."
+          ]
         },
         {
           "verse": 37,
@@ -3594,7 +3897,10 @@
         },
         {
           "verse": 38,
-          "text": "<sc>Jesus</sc> answered him: Thy life wilt thou yield for me? Amen, amen I say to thee, the cock shall not crow, until thou deny me thrice."
+          "text": "<sc>Jesus</sc> answered him: Thy life wilt thou yield for me? Amen, amen I say to thee, the cock shall not crow, until thou deny me thrice.",
+          "xrefs": [
+            "Lu. 22, 33."
+          ]
         }
       ],
       "summary": "At his last supper, to give his farewell, and that in most wonderful loving manner, 4. he washeth his Disciples' feet, 6. beginning with Peter, 8. (shewing how necessary it is for us to be washed by him in Baptism, and needful also after Baptism) 12. and by this example teaching them all humility one toward another. 21. Then he foretelleth, that (notwithstanding his exceeding love toward them) one even of them will betray him, meaning Judas, 22. as to John he secretly sheweth. After whose going out, he rejoiceth and saith that even now the hour is come, 34. commendeth unto them to love together, as a new commandment, 36. and foretelleth Peter who presumed too much of his own strength, that <i>even this night he will deny him thrice.</i>",
@@ -3611,17 +3917,19 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel upon SS. Philip and Jacob's day <i>Maii. 1.</i>"
+              "text": "The Gospel upon SS. Philip and Iacobs day <i>Maii. 1.</i>",
+              "kind": "lectionary"
             }
           ]
         },
         {
           "verse": 2,
-          "text": "In my Father's house there be <na>[1]</na> many mansions. If not, I would have told you, Because I go to prepare you a place.",
+          "text": "In my Fathers house there be <na>[1]</na> many mansions. If not, I would have told you, Because I go to prepare you a place.",
           "notes": [
             {
               "label": "1",
-              "text": "These mansions signify differences of glory in heaven. <i>Hiero. li. 2. adv. Iovin.</i>"
+              "text": "These mansions signify differences of glory in heaven. <i>Hiero. li. 2. adv. Iovin.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -3647,8 +3955,12 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>do know</i>"
+              "text": "<i>do know</i>",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "doe know"
           ]
         },
         {
@@ -3665,7 +3977,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>do ye not believe.</i>"
+              "text": "<i>do ye not believe.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -3688,7 +4001,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel in a votive Mass for the election of the Pope, & upon Whitsuneve."
+              "text": "The Gospel in a votive Mass for the election of the Pope, & upon Whitsuneve.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -3698,7 +4012,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "It is then possible both to love Christ, and to keep his commandments."
+              "text": "It is then possible both to love Christ, and to keep his commandments.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3709,7 +4024,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c <i>Paraclete</i> by interpretation is either a comforter, or an advocate: and therefore to translate it by any one of them only, is perhaps to abridge the sense of this place."
+              "text": "c <i>Paraclete</i> by interpretation is either a comforter, or an advocate: and therefore to translate it by any one of them only, is perhaps to abridge the sense of this place.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3720,7 +4036,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>shall know</i>"
+              "text": "<i>shall know</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -3750,13 +4067,14 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel upon Whitsunday. And in a votive Mass of the Holy Ghost."
+              "text": "The Gospel upon Whitsunday. And in a votive Mass of the Holy Ghost.",
+              "kind": "lectionary"
             }
           ]
         },
         {
           "verse": 24,
-          "text": "He that loveth me not, keepeth not my words. And the word which you have heard, is not mine; but his that sent me, the Father's."
+          "text": "He that loveth me not, keepeth not my words. And the word which you have heard, is not mine; but his that sent me, the Fathers."
         },
         {
           "verse": 25,
@@ -3768,7 +4086,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "See the Annot. upon the 16. Chap. vers. 12. & 13."
+              "text": "See the Annot. upon the 16. Chap. us. 12. & 13.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3805,11 +4124,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel for some Martyrs, between Easter & Whitsunday. And on SS. Simon and Jude's eve. Oct. 27."
+              "text": "The Gospel for some Martyrs, between Easter & Whitsunday. And on SS. Simon and Jude's eve. Oct. 27.",
+              "kind": "lectionary"
             },
             {
               "label": "2",
-              "text": "The Gospel upon S. George's day: April. 23. And for some other Martyrs between Easter & Whitsunday."
+              "text": "The Gospel upon S. George's day: April. 23. And for some other Martyrs between Easter & Whitsunday.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -3820,11 +4141,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "Christ hath some branches in his body mystical that be fruitless. Therefore ill livers also may be members of Christ & the Church."
+              "text": "Christ hath some branches in his body mystical that be fruitless. Therefore ill livers also may be members of Christ & the Church.",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "Man may continually increase in justice and sanctification, so long as he liveth."
+              "text": "Man may continually increase in justice and sanctification, so long as he liveth.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3834,7 +4157,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "S. Augustine expoundeth it of the Sacramental word of Baptism, and not as Heretics do, of preaching only. <i>Tract. 80. in Io.</i>"
+              "text": "S. Augustine expoundeth it of the Sacramental word of Baptism, and not as Heretics do, of preaching only. <i>Tract. 80. in Io.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -3857,7 +4181,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "If a Schismatic pray never so much, he is not heard, because he remaineth not in the body of Christ."
+              "text": "If a Schismatic pray never so much, he is not heard, because he remaineth not in the body of Christ.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3871,7 +4196,7 @@
         },
         {
           "verse": 10,
-          "text": "If you keep my precepts, you shall abide in my love: as I also have kept my Father's precepts, and do abide in his love.",
+          "text": "If you keep my precepts, you shall abide in my love: as I also have kept my Fathers precepts, and do abide in his love.",
           "has_annotation": true
         },
         {
@@ -3880,11 +4205,14 @@
         },
         {
           "verse": 12,
-          "text": "<cr>[1]</cr> This is my precept, that you love one another, as I have loved you.",
+          "text": "<cr>[1]</cr> This is my precept, that you love one an other, as I have loved you.",
           "cross_refs": [
             {
               "text": "Io. 13, 34."
             }
+          ],
+          "xrefs": [
+            "Io. 13, 34."
           ]
         },
         {
@@ -3893,7 +4221,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel upon S. Barnabee's day, and on the eves of some Apostles."
+              "text": "The Gospel upon S. Barnabee's day, and on the eves of some Apostles.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -3911,7 +4240,7 @@
         },
         {
           "verse": 17,
-          "text": "These things I command you, that you love one another."
+          "text": "These things I command you, that you love one an other."
         },
         {
           "verse": 18,
@@ -3919,7 +4248,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel upon SS. Simon and Jude's day. Octob. 28."
+              "text": "The Gospel upon SS. Simon and Iudes day. Octob. 28.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -3938,8 +4268,12 @@
           "notes": [
             {
               "label": "2",
-              "text": "He foresheweth that many will not obey the Church's words; & no marvel, because they contemned Christ's own precepts."
+              "text": "He foresheweth that many will not obey the Church's words; & no marvel, because they contemned Christ's own precepts.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Io. 13, 16 · Mt. 10, 24. Lu. 6, 40."
           ]
         },
         {
@@ -3980,8 +4314,12 @@
           "notes": [
             {
               "label": "2",
-              "text": "The Gospel upon Sunday within the Octave, of the Ascension. And in a Votive of the B. Trinity."
+              "text": "The Gospel upon Sunday within the Octave, of the Ascension. And in a Votive of the B. Trinity.",
+              "kind": "lectionary"
             }
+          ],
+          "xrefs": [
+            "Ps. 24, 19. · Act. 2, 1."
           ]
         },
         {
@@ -4005,7 +4343,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Heretics translate, <i>Excommunicate you.</i> See what corruption this is, and the reason thereof, <i>Annot. c. 9, 22.</i>"
+              "text": "The Heretics translate, <i>Excommunicate you.</i> See what corruption this is, and the reason thereof, <i>Annot. c. 9, 22.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -4027,7 +4366,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel upon the 4. Sunday after Easter."
+              "text": "The Gospel upon the 4. Sunday after Easter.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -4041,7 +4381,7 @@
         },
         {
           "verse": 9,
-          "text": "Of sin: because they believed not in me."
+          "text": "Of sin: because they believe not in me."
         },
         {
           "verse": 10,
@@ -4063,7 +4403,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "If he shall teach all truth, & that for ever (as before c. 14, 16:) how is it possible, that the Church can err, or hath erred at any time or in any point?"
+              "text": "If he shall teach all truth, & that for ever (as before c. 14, 16:) how is it possible, that the Church can err, or hath erred at any time or in any point?",
+              "kind": "gloss"
             }
           ]
         },
@@ -4081,7 +4422,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel upon the 3. Sunday after Easter."
+              "text": "The Gospel upon the 3. Sunday after Easter.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -4103,7 +4445,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel for some Martyrs between Easter. & Whitsunday."
+              "text": "The Gospel for some Martyrs between Easter. & Whitsunday.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -4121,11 +4464,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel upon the 5. Sunday after Easter."
+              "text": "The Gospel upon the 5. Sunday after Easter.",
+              "kind": "lectionary"
             },
             {
               "label": "2",
-              "text": "Upon this the Church concludeth all her prayers, <i>Per Christum Dominum nostrum,</i> even those also that be made to Saints."
+              "text": "Upon this the Church concludeth all her prayers, <i>Per Christum Dominum nostrum,</i> even those also that be made to Saints.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4168,6 +4513,9 @@
             {
               "text": "Mt. 27, 31. Mr. 14, 27."
             }
+          ],
+          "xrefs": [
+            "Mt. 27, 31. Mr. 14, 27."
           ]
         },
         {
@@ -4189,11 +4537,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel upon Ascension eve."
+              "text": "The Gospel upon Ascension eve.",
+              "kind": "lectionary"
             },
             {
               "label": "2",
-              "text": "The Father glorifieth the Son by raising him from death, exalting him up to his right hand, making all creatures to bow down at his Name, and giving him all powers and judgement. The Son again glorifieth the Father, by making his honour, which only in a manner was in Jewry before, now known to all Nations."
+              "text": "The Father glorifieth the Son by raising him from death, exalting him up to his right hand, making all creatures to bow down at his Name, and giving him all power and judgement. The Son again glorifieth the Father, by making his honour, which only in a manner was in Jewry before, now known to all Nations.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4240,11 +4590,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel in a votive Mass against Schism."
+              "text": "The Gospel in a votive Mass against Schism.",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "His petition is specially to keep the Apostles and his Church in unity and from Schisms."
+              "text": "His petition is specially to keep the Apostles and his Church in unity and from Schisms.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4258,6 +4610,9 @@
             {
               "text": "Ps. 40, 10. 108, 8."
             }
+          ],
+          "xrefs": [
+            "Io. 18, 9. · Ps. 40, 10. 108, 8."
           ]
         },
         {
@@ -4291,7 +4646,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "To sanctify himself, is to sacrifice himself, by dedicating his holy body and blood to his Father, both upon the Cross, and in the holy Sacrament."
+              "text": "To sanctify himself, is to sacrifice himself, by dedicating his holy body and blood to his Father, both upon the Cross, and in the holy Sacrament.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4341,8 +4697,12 @@
           "notes": [
             {
               "label": "2",
-              "text": "THURSDAY night. The PASSION according to S. John in these two Chapters, is the Gospel at Mass upon Good Friday. So the PASSION is read in Holy Week four times, according to the four Evangelists, as S. Augustine appointed also in his Church at <i>Hippo. Ser. 144. de tempore.</i>"
+              "text": "THURSDAY night. The PASSION according to S. John in these two Chapters, is the Gospel at Mass upon Good Friday. So the PASSION is read in Holy Week four times, according to the four Evangelists, as S. Augustine appointed also in his Church at <i>Hippo. Ser. 144. de tempore.</i>",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Mt. 26, 36. Mr. 14. 32. · Lu. 22, 39."
           ]
         },
         {
@@ -4356,11 +4716,17 @@
             {
               "text": "Mt. 26, 47. Mr. 14, 43. Luc. 22, 47."
             }
+          ],
+          "xrefs": [
+            "Mt. 26, 47. Mr. 14, 43."
           ]
         },
         {
           "verse": 4,
-          "text": "<sc>Jesus</sc> therefore knowing all things that should come upon him, went forth, and said to them: Whom seek ye?"
+          "text": "<sc>Jesus</sc> therefore knowing all things that should come upon him, went forth, and said to them: Whom seek ye?",
+          "xrefs": [
+            "Luc. 22, 47."
+          ]
         },
         {
           "verse": 5,
@@ -4385,11 +4751,14 @@
             {
               "text": "Io. 17, 12."
             }
+          ],
+          "xrefs": [
+            "Io. 17, 12."
           ]
         },
         {
           "verse": 10,
-          "text": "Simon Peter therefore having a sword, drew it out; and smote the servant of the high Priest, & cut off his right ear. And the name of the servant was Malchus."
+          "text": "Simon Peter therefore having a sword, drew it out; and smote the servant of the high Priest, & cut of his right ear. And the name of the servant was Malchus."
         },
         {
           "verse": 11,
@@ -4410,15 +4779,21 @@
             {
               "text": "Io. 11, 49."
             }
+          ],
+          "xrefs": [
+            "Io. 11, 49."
           ]
         },
         {
           "verse": 15,
-          "text": "<cr>[1]</cr> And Simon Peter followed <sc>Jesus</sc>, and another Disciple. And that Disciple was known to the high Priest, and went in with <sc>Jesus</sc> into the court of the high Priest.",
+          "text": "<cr>[1]</cr> And Simon Peter followed <sc>Jesus</sc>, and an other Disciple. And that Disciple was known to the high Priest, and went in with <sc>Jesus</sc> into the court of the high Priest.",
           "cross_refs": [
             {
               "text": "Mt. 26, 58. Mr. 14, 54. Lu. 22, 54."
             }
+          ],
+          "xrefs": [
+            "Mt. 26, 58. Mr, 14, 54. · Lu. 22, 54."
           ]
         },
         {
@@ -4431,7 +4806,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "It is all one for a man to deny Christ, and that he is a disciple of Christ, or a Catholic, or a Christian man, when he is demanded. <i>Aug. tract. 113 in Io.</i> for so Peter here denieth Christ, in denying himself to be his Disciple."
+              "text": "It is all one for a man to deny Christ, and that he is a disciple of Christ, or a Catholic, or a Christian man, when he is demanded. <i>Aug. tract. 113 in Io.</i> for so Peter here denieth Christ, in denying himself to be his Disciple.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4469,11 +4845,11 @@
         },
         {
           "verse": 26,
-          "text": "One of the servants of the high Priest saith to him, his cousin whose ear Peter did cut off: Did not I see thee in the garden with him?"
+          "text": "One of the servants of the high Priest saith to him, his cousin whose ear Peter did cut of: Did not I see thee in the garden with him?"
         },
         {
           "verse": 27,
-          "text": "Again therefore Peter denied: and forthwith the cock crew."
+          "text": "Again therefore Peter denied: and forth with the cock crew."
         },
         {
           "verse": 28,
@@ -4486,8 +4862,12 @@
           "notes": [
             {
               "label": "2",
-              "text": "GOOD FRIDAY."
+              "text": "GOOD FRIDAY.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Mt. 27, 1. · Mr. 15, 1. · Lu. 23, 1."
           ]
         },
         {
@@ -4500,7 +4880,10 @@
         },
         {
           "verse": 31,
-          "text": "Pilate therefore said to them: Take him you, and according to your law judge him. The Jews therefore said to him: It is not lawful for us to kill any man."
+          "text": "Pilate therefore said to them: Take him you, and according to your law judge him. The Jews therefore said to him: It is not lawful for us to kill any man.",
+          "xrefs": [
+            "Io. 12, 33. · Mt. 20, 19."
+          ]
         },
         {
           "verse": 32,
@@ -4518,6 +4901,9 @@
             {
               "text": "Mt. 27, 11. Mr. 15, 2. Lu. 23, 4."
             }
+          ],
+          "xrefs": [
+            "Mt. 27, 11. Mr. 15, 2. Lu. 23, 4."
           ]
         },
         {
@@ -4530,7 +4916,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "It pleased God, that Christ who was to die both for the Jews & the Gentiles, should be betrayed of the one, and put to death by the other."
+              "text": "It pleased God, that Christ who was to die both for the Jews & the Gentiles, should be betrayed of the one, and put to death by the other.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4544,7 +4931,10 @@
         },
         {
           "verse": 38,
-          "text": "Pilate saith to him: What is truth? And when he had said this, he went forth again to the Jews, and saith to them: I find no cause in him."
+          "text": "Pilate saith to him: What is truth? And when he had said this, he went forth again to the Jews, and saith to them: I find no cause in him.",
+          "xrefs": [
+            "Mt. 27, 15. Mr. 15, 6. Lu. 23, 17."
+          ]
         },
         {
           "verse": 39,
@@ -4572,6 +4962,9 @@
             {
               "text": "Mt. 27, 27. Mr. 15, 16."
             }
+          ],
+          "xrefs": [
+            "Mt. 27, 27. Mr. 15, 16."
           ]
         },
         {
@@ -4616,11 +5009,11 @@
         },
         {
           "verse": 12,
-          "text": "From thence forth Pilate sought to release him. But the Jews cried, saying: If thou release this man, thou art not Cæsar's friend. Every one that maketh himself a king, speaketh against Cæsar."
+          "text": "From thence forth Pilate sought to release him. But the Jews cried, saying: If thou release this man, thou art not Caesars friend. Every one that maketh himself a king, speaketh against Cæsar."
         },
         {
           "verse": 13,
-          "text": "But Pilate when he had heard these words, brought forth <sc>Jesus</sc>: and he sat in the judgement seat, in the place that is called Lithostrotos, and in Hebrew Gabbatha."
+          "text": "But Pilate when he had heard these words, brought forth <sc>Jesus</sc>: and he sate in the judgement seat, in the place that is called Lithostrotos, and in Hebrew Gabbatha."
         },
         {
           "verse": 14,
@@ -4628,7 +5021,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "He meaneth midday, counting from sun rising. For so doth the Scripture count the hours of the day. <i>Mat. 20. Mar. 15. Luc. 23. Io. 4. Act. 3. & 10.</i>"
+              "text": "He meaneth midday, counting from sun rising. For so doth the Scripture count the hours of the day. <i>Mat. 20. Mar. 15. Luc. 23. Io. 4. Act. 3. & 10.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -4638,7 +5032,10 @@
         },
         {
           "verse": 16,
-          "text": "Then therefore he delivered him unto them for to be crucified. And they took <sc>Jesus</sc>, and led him forth."
+          "text": "Then therefore he delivered him unto them for to be crucified. And they took <sc>Jesus</sc>, and led him forth.",
+          "xrefs": [
+            "Mt. 27, 33. Mr. 15, 20."
+          ]
         },
         {
           "verse": 17,
@@ -4648,6 +5045,9 @@
             {
               "text": "Mt. 27, 33. Mr. 15, 20. Lu. 23, 33."
             }
+          ],
+          "xrefs": [
+            "Lu. 23, 33."
           ]
         },
         {
@@ -4664,7 +5064,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "These three tongues being for other causes most famous before in all the world, are now also dedicated to God in the triumphant title of the Cross of Christ, and in them the Holy Scriptures are more conveniently written, taught, & preserved."
+              "text": "These three tongues being for other causes most famous before in all the world, are now also dedicated to God in the triumphans title of the Cross of Christ, and in them the Holy Scriptures are more conveniently written, taught, & preserved.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4687,30 +5088,36 @@
           "notes": [
             {
               "label": "2",
-              "text": "This coat without seam is a figure of the unity of the church. <i>Cypr. de unit. Ec.</i> And Euthymius and other write that our Lady made it."
+              "text": "This coat without seam is a figure of the unity of the church. <i>Cypr. de unit. Ec.</i> And Euthymius and other write that our Lady made it.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 24,
-          "text": "They said therefore one to another: Let us not cut it, but let us cast lots for it whose it shall be. That the scripture might be fulfilled saying: <i>They have parted my garments among them: and upon my vesture they have cast lots.</i> <cr>[1]</cr> And the soldiers did these things.",
+          "text": "They said therefore one to an other: Let us not cut it, but let us cast lots for it whose it shall be. That the scripture might be fulfilled saying: <i>They have parted my garments among them: and upon my vesture they have cast lots.</i> <cr>[1]</cr> And the soldiers did these things.",
           "cross_refs": [
             {
               "text": "Ps. 21, 19."
             }
+          ],
+          "xrefs": [
+            "Ps. 21, 19."
           ]
         },
         {
           "verse": 25,
-          "text": "<na>[1]</na> And there stood beside the cross of <sc>Jesus</sc>, <na>[2]</na> his mother, and his mother's sister, Mary of Cleophas, and Mary Magdalene.",
+          "text": "<na>[1]</na> And there stood beside the cross of <sc>Jesus</sc>, <na>[2]</na> his mother, and his mothers sister, Marie of Cleophas, and Marie Magdalene.",
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel in a votive Mass of our B. Lady between Easter & Whitsunday."
+              "text": "The Gospel in a votive Mass of our B. Lady between Easter & Whitsuntide.",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "The great love, faith, courage, compassion, and sorrows, that our Lady had: who forsook not the Cross and her Son, when so many were fled from him, and his chief Apostles denied him."
+              "text": "The great love, faith, courage, compassion, and sorrows, that our Lady had: who forsook not the Cross and her Son, when so many were fled from him, and his chief Apostles denied him.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4722,7 +5129,10 @@
         {
           "verse": 27,
           "text": "After that, he saith to the Disciple: Behold thy mother. And from that hour the Disciple took her to his own.",
-          "has_annotation": true
+          "has_annotation": true,
+          "xrefs": [
+            "The Gospel in a votiue Masse of the Passion."
+          ]
         },
         {
           "verse": 28,
@@ -4735,13 +5145,17 @@
           "notes": [
             {
               "label": "2",
-              "text": "b The Gospel in a votive Mass of the Passion."
+              "text": "b The Gospel in a votive Mass of the Passion.",
+              "kind": "lectionary"
             }
+          ],
+          "xrefs": [
+            "Psa. 68, 22."
           ]
         },
         {
           "verse": 29,
-          "text": "A vessel therefore stood there full of vinegar. And they putting a sponge full of vinegar about hyssop, offered it to his mouth."
+          "text": "A vessel therefore stood there full of vinegar. And they putting a spongeful of vinegar about hyssop, offered it to his mouth."
         },
         {
           "verse": 30,
@@ -4766,7 +5180,10 @@
         },
         {
           "verse": 35,
-          "text": "And he that saw it, hath given testimony: and his testimony is true. And he knoweth that he saith true, that you also may believe."
+          "text": "And he that saw it, hath given testimony: and his testimony is true. And he knoweth that he saith true, that you also may believe.",
+          "xrefs": [
+            "Exo. 12, 46."
+          ]
         },
         {
           "verse": 36,
@@ -4784,6 +5201,9 @@
             {
               "text": "Zac. 12, 10."
             }
+          ],
+          "xrefs": [
+            "Zac. 12, 10."
           ]
         },
         {
@@ -4793,6 +5213,9 @@
             {
               "text": "* Mt. 27, 57. Mr. 15, 42. Lu. 23, 50."
             }
+          ],
+          "xrefs": [
+            "Mt. 27, 57. Mr. 15, 42. · Lu. 23, 50. · Jo. 3, 1. 7, 50."
           ]
         },
         {
@@ -4806,7 +5229,7 @@
         },
         {
           "verse": 40,
-          "text": "They took therefore the body of <sc>Jesus</sc>, and bound it in linen cloths with the spices, as the manner is with the Jews to bury."
+          "text": "They took therefore the body of <sc>Jesus</sc>, and bound it in linen clothes with the spices, as the manner is with the Jews to bury."
         },
         {
           "verse": 41,
@@ -4833,12 +5256,17 @@
           "notes": [
             {
               "label": "2",
-              "text": "The Gospel upon Saturday in Easter week."
+              "text": "The Gospel upon Saturday in Easter week.",
+              "kind": "lectionary"
             },
             {
               "label": "3",
-              "text": "That is, the first day of the week, as some interpret it, taking Sabboth (as sometime it is) for a week. This is our Sunday, called <i>Dies Dominica,</i> because of our Lord's resurrection. See the <i>marg. annot. Luc. 24, 1.</i>"
+              "text": "That is, the first day of the week, as some interpret it, taking Sabboth (as sometime it is) for a week. This is our Sunday, called <i>Dies Dominica,</i> because of our Lords resurrection. See the <i>marg. annot. Luc. 24, 1.</i>",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Mt. 28, 1. · Mr. 16, 1."
           ]
         },
         {
@@ -4847,7 +5275,10 @@
         },
         {
           "verse": 3,
-          "text": "Peter therefore went forth and that other Disciple, and they came to the monument."
+          "text": "Peter therefore went forth and that other Disciple, and they came to the monument.",
+          "xrefs": [
+            "Luc. 24. 12."
+          ]
         },
         {
           "verse": 4,
@@ -4860,15 +5291,15 @@
         },
         {
           "verse": 5,
-          "text": "And when he had stooped down, he saw the linen cloths lying: but yet he went not in."
+          "text": "And when he had stooped down, he saw the linen clothes lying: but yet he went not in."
         },
         {
           "verse": 6,
-          "text": "Simon Peter therefore cometh, following him, and went into the monument and saw the linen cloths lying,"
+          "text": "Simon Peter therefore cometh, following him, and went in to the monument and saw the linen clothes lying,"
         },
         {
           "verse": 7,
-          "text": "and the napkin that had been upon his head, not lying with the linen cloths, but apart, wrapped up into one place."
+          "text": "and the napkin that had been upon his head, not lying with the linen clothes, but apart, wrapped up into one place."
         },
         {
           "verse": 8,
@@ -4884,7 +5315,7 @@
         },
         {
           "verse": 11,
-          "text": "<cr>[1]</cr> But <na>[2]</na> Mary stood at the <na>[3]</na> monument without, weeping. Therefore as she was weeping, she stooped down, & looked into the monument:",
+          "text": "<cr>[1]</cr> But <na>[2]</na> Marie stood at the <na>[3]</na> monument without, weeping. Therefore as she was weeping, she stooped down, & looked into the monument:",
           "cross_refs": [
             {
               "text": "Mt. 28, 1. Mr. 16, 5. Luc. 24, 4."
@@ -4893,12 +5324,17 @@
           "notes": [
             {
               "label": "2",
-              "text": "b The Gospel upon Thursday in Easter week."
+              "text": "b The Gospel upon Thursday in Easter week.",
+              "kind": "lectionary"
             },
             {
               "label": "3",
-              "text": "The Sepulchres of Martyrs (saith <i>S. Hierom ep. 17.</i> ) we do honour every-where, & putting their holy ashes to our eyes, if we may, we touch it also with our mouth: and be there some that think the monument wherein our Lord was laid, is to be neglected: where the Devil and his Angels, as often as they are cast out of the possessed before the said monument, tremble and roar as if they stood before the judgement seat of Christ?"
+              "text": "The Sepulchres of Martyrs (saith <i>S. Hierom ep. 17.</i> ) we do honour every-where, & putting their holy ashes to our eyes, if we may, we touch it also with our mouth: and be there some that think the monument wherein our Lord was laid, is to be neglected: where the Devil and his Angels, as often as they are cast out of the possessed before the said monument, tremble and roar as if they stood before the judgement seat of Christ?",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Mt. 28, 1. · Mr. 16, 5. · Luc. 24, 4."
           ]
         },
         {
@@ -4919,15 +5355,15 @@
         },
         {
           "verse": 16,
-          "text": "<sc>Jesus</sc> saith to her: Mary. She turning saith to him: Rabboni (which is to say, Master.)"
+          "text": "<sc>Jesus</sc> saith to her: Marie. She turning saith to him: Rabboni (which is to say, Master.)"
         },
         {
           "verse": 17,
-          "text": "<sc>Jesus</sc> said to her: Do not touch me, for I am not yet ascended to my Father: but go to my Brethren, and say to them, I ascend to my Father and your Father, my God and your God."
+          "text": "<sc>Jesus</sc> saith to her: Do not touch me, for I am not yet ascended to my Father: but go to my Brethren, and say to them, I ascend to my Father and your Father, my God and your God."
         },
         {
           "verse": 18,
-          "text": "Mary Magdalene cometh and telleth the Disciples, That I have seen our Lord, and thus he said unto me."
+          "text": "Marie Magdalene cometh and telleth the Disciples, That I have seen our Lord, and thus he said unto me."
         },
         {
           "verse": 19,
@@ -4941,8 +5377,12 @@
           "notes": [
             {
               "label": "2",
-              "text": "The Gospel upon Dominica in albis or Low Sunday, And for peace."
+              "text": "The Gospel upon Dominica in albis or Low Sunday, And for peace.",
+              "kind": "lectionary"
             }
+          ],
+          "xrefs": [
+            "Mr. 16, 14. Lu. 24, 36. · 1. Cor. 15, 5."
           ]
         },
         {
@@ -4956,13 +5396,14 @@
           "notes": [
             {
               "label": "1",
-              "text": "Though he gave them his peace hard before, yet now entering to a new divine action, to prepare their hearts to grace and attention, he blesseth them again."
+              "text": "Though he gave them his peace hard before, yet now entering to a new divine action, to prepare their hearts to grace and attention, he blesseth them again.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 22,
-          "text": "When he had said this: he breathed upon them; and he said to them: Receive ye the Holy Ghost:",
+          "text": "When he had said this: he breathed upon them; and he saith to them: Receive ye the Holy Ghost:",
           "has_annotation": true
         },
         {
@@ -4976,7 +5417,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel upon S. Thomas the Apostle's day, Decemb. 21."
+              "text": "The Gospel upon S. Thomas the Apostles day, Decemb. 21.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -4990,11 +5432,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "LOW SUNDAY."
+              "text": "LOW SUNDAY.",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "See the annotation on the 19. verse of this Chapter."
+              "text": "See the annotation on the 19. verse of this Chapter.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5012,7 +5456,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "They are more happy that believe without sensible argument or sight, than such as be induced by sense or reason to believe."
+              "text": "They are more happy that believe without sensible argument or sight, than such as be induced by sense or reason to believe.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5023,6 +5468,9 @@
             {
               "text": "Io. 21, 25."
             }
+          ],
+          "xrefs": [
+            "Io. 21, 25."
           ]
         },
         {
@@ -5041,7 +5489,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel on Wednesday in Easter week."
+              "text": "The Gospel on Wednesday in Easter week.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -5067,11 +5516,12 @@
         },
         {
           "verse": 7,
-          "text": "That Disciples therefore whom <sc>Jesus</sc> loved, saith to Peter: It is our Lord. <na>[1]</na> Simon Peter when he had heard that it is our Lord, girded his coat unto him (for he was naked) & cast himself into the sea.",
+          "text": "That Disciple therefore whom <sc>Jesus</sc> loved, saith to Peter: It is our Lord. <na>[1]</na> Simon Peter when he had heard that it is our Lord, girded his coat unto him (for he was naked) & cast himself into the sea.",
           "notes": [
             {
               "label": "1",
-              "text": "See in S. Augustine <i>tract. 122. in Io.</i> the great mystery hereof concerning the CHURCH, and in S. Gregory <i>hom. 24. in Evang.</i> and S. Bernard <i>li. 2. c. 8 de consid.</i> Peter's PRIMACY here mystically signified."
+              "text": "See in S. Augustine <i>tract. 122. in Io.</i> the great mystery hereof concerning the CHURCH, and in S. Gregory <i>hom. 24. in Evang.</i> and S. Bernard <i>li. 2. c. 8 de consid.</i> Peter's PRIMACY here mystically signified.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5093,12 +5543,16 @@
         },
         {
           "verse": 12,
-          "text": "<sc>Jesus</sc> saith to them: Come, dine. And none of them that sat at meat, <na>[1]</na> durst ask him: Who art thou? knowing that it is our Lord.",
+          "text": "<sc>Jesus</sc> saith to them: Come, dine. And none of them that sate at meat, <na>[1]</na> durst ask him: Who art thou? knowing that it is our Lord.",
           "notes": [
             {
               "label": "1",
-              "text": "<i>the disciples,</i>"
+              "text": "<i>the disciples,</i>",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "the disciples,"
           ]
         },
         {
@@ -5111,7 +5565,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Not the third apparition, but the third day of his apparitions: for he appeared in the very day of his Resurrection often, again upon Low Sunday, then this third time, And S. Mark saying, <i>last he appeared, c. 16, 14:</i> meaneth his last apparition the first day."
+              "text": "Not the third apparition, but the third day of his apparitions: for he appeared in the very day of his Resurrection often, again upon Low Sunday, then this third time, And S. Mark saying, <i>last he appeared, c. 16, 14:</i> meaneth his last apparition the first day.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5121,7 +5576,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Gospel on the eve of SS. Peter and Paul."
+              "text": "The Gospel on the eve of SS. Peter and Paul.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -5131,14 +5587,18 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>c ποίμαινε feed & rule.</i>"
+              "text": "<i>c ποίμαινε feed & rule.</i>",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 17,
-          "text": "He saith to him the third time: Simon of John, lovest thou me? Peter was stroken sad because he said unto him the third time, Lovest thou me? And he said to him: Lord, thou knowest all things: thou knowest that I love thee. He said to him: <sc>Feed my Sheep</sc>.",
-          "has_annotation": true
+          "text": "He saith to him the third time: Simon of John, lovest thou me? Peter was stroken sad because he said unto him the third time, Lovest thou me? And he said to him: Lord, thou knowest all things: thou knowest that I love thee. He saith to him: <sc>Feed my Sheep</sc>.",
+          "has_annotation": true,
+          "xrefs": [
+            "ποίμαινε feede & rule"
+          ]
         },
         {
           "verse": 18,
@@ -5151,7 +5611,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "b The Gospel upon S. John the Evangelist's day in Christmas"
+              "text": "b The Gospel upon S. John the Evangelists day in Christmas",
+              "kind": "lectionary"
             }
           ]
         },
@@ -5162,6 +5623,9 @@
             {
               "text": "Io. 13, 23."
             }
+          ],
+          "xrefs": [
+            "Io. 13, 23."
           ]
         },
         {
@@ -5174,8 +5638,12 @@
           "notes": [
             {
               "label": "1",
-              "text": "c So readeth S. Ambrose <i>in Ps. 45. & ser. 20 in Ps. 118.</i> S. Aug. <i>tract. 124 in Io.</i> & most ancient copies and service books extant in Latin. Others read, <i>If I will:</i> others, <i>If so I will,</i> &c."
+              "text": "c So readeth S. Ambrose <i>in Ps. 45. & ser. 20 in Ps. 118.</i> S. Aug. <i>tract. 124 in Io.</i> & most ancient copies and service books extant in Latin. Others read, <i>If I will:</i> others, <i>If so I will,</i> &c.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "So readeth S. Ambrose in Ps. 45. & ser. 20 in Ps. 118. S. Aug. tract. 124 in Io. & most ancient copies and seruice bookes extant in Latine, other reade, If I wil: other, If so I wil &c."
           ]
         },
         {
@@ -5200,12 +5668,17 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>Beza in hunc locum.</i>"
+              "text": "<i>Beza in hunc locum.</i>",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "How few things are written of Christ's acts & doctrine in comparison of that which he did and spake: and yet the Heretics will needs have all in Scripture, trusting not the Apostle's own preaching, or report of any thing that our Master did or said, if it be not written."
+              "text": "How few things are written of Christ's acts & doctrine in comparison of that which he did and spake: and yet the Heretics will needs have all in Scripture, trusting not the Apostles own preaching, or report of any thing that our Master did or said, if it be not written.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Io. 20, 30."
           ]
         }
       ],

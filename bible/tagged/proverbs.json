@@ -101,13 +101,14 @@
           "notes": [
             {
               "label": "a",
-              "text": "By these sententious similitudes the studious may better conceive and understand true wisdom, and the virtues belonging thereto."
+              "text": "By these sententious similitudes the studious may better conceive and understand true wisdom, and the virtues belonging thereto.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 3,
-          "text": "to understand the words of prudence: and to receive instruction of doctrine, justice, and judgment, and equity:"
+          "text": "to understand the words of prudence: and to receive instruction of doctrine, justice, and judgement, and equity:"
         },
         {
           "verse": 4,
@@ -115,21 +116,24 @@
           "notes": [
             {
               "label": "b",
-              "text": "profound & solid wit."
+              "text": "profound & solid wit.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 5,
-          "text": "the <na>(c)</na> wise man hearing shall be wise: and he that understandeth <na>(d)</na> shall possess governments.",
+          "text": "the <na>(c)</na> wise man hearing shall be wiser: and he that understandeth <na>(d)</na> shall possess governments.",
           "notes": [
             {
               "label": "c",
-              "text": "Not only young men and inexperienced, but also the wise may learn more wisdom by these parables."
+              "text": "Not only young men and inexperienced, but also the wise may learn more wisdom by these parables.",
+              "kind": "gloss"
             },
             {
               "label": "d",
-              "text": "shall be fit to govern."
+              "text": "shall be fit to govern.",
+              "kind": "gloss"
             }
           ]
         },
@@ -143,7 +147,8 @@
           "notes": [
             {
               "label": "e",
-              "text": "Fear of our Lord, that is, reverence of his divine Majesty with desire duly to serve him, and never to offend him, is the first degree in ascending to perfect wisdom: which consisteth not only in the understanding but also in action."
+              "text": "Fear of our Lord, that is, reverence of his divine Majesty with desire duly to serve him, and never to offend him, is the first degree in ascending to perfect wisdom: which consisteth not only in the understanding but also in action.",
+              "kind": "gloss"
             }
           ]
         },
@@ -153,7 +158,8 @@
           "notes": [
             {
               "label": "f",
-              "text": "The first precept is to learn of our elders."
+              "text": "The first precept is to learn of our elders.",
+              "kind": "gloss"
             }
           ]
         },
@@ -167,7 +173,8 @@
           "notes": [
             {
               "label": "g",
-              "text": "The second to resist evil suggestions."
+              "text": "The second to resist evil suggestions.",
+              "kind": "gloss"
             }
           ]
         },
@@ -201,7 +208,8 @@
           "notes": [
             {
               "label": "h",
-              "text": "The proper remedy against such allurements is to be watchful, and to fly from them."
+              "text": "The proper remedy against such allurements is to be watchful, and to flee from them.",
+              "kind": "gloss"
             }
           ]
         },
@@ -227,7 +235,7 @@
         },
         {
           "verse": 23,
-          "text": "Turn ye at my correption: behold I will utter my spirit to you, and will shew you my words."
+          "text": "Turn ye at my correction: behold I will utter my spirit to you, and will shew you my words."
         },
         {
           "verse": 24,
@@ -256,7 +264,7 @@
         },
         {
           "verse": 30,
-          "text": "nor consented to my counsel, & detracted from all my correption."
+          "text": "nor consented to my counsel, & detracted from all my correction."
         },
         {
           "verse": 31,
@@ -268,7 +276,7 @@
         },
         {
           "verse": 33,
-          "text": "But he that shall hear me, shall rest without terror, and shall enjoy aboundance, fear of evils being taken away.",
+          "text": "But he that shall hear me, shall rest without terror, and shall enjoy abundance, fear of evils being taken away.",
           "has_annotation": true
         }
       ],
@@ -289,7 +297,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "This frequent manner of proposing the way and means to wisdom, If thou wilt receive my words, &c. sheweth most evidently the power of man's free will."
+              "text": "This frequent manner of proposing the way and means to wisdom, If thou wilt receive my words, &c. sheweth most evidently the power of man's free will.",
+              "kind": "gloss"
             }
           ]
         },
@@ -307,7 +316,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Not every desire, or sleight seeking of wisdom sufficeth, but such laborious seeking is required, as a covetous man seeketh treasure which he knoweth to be hid in the ground."
+              "text": "Not every desire, or sleight seeking of wisdom sufficeth, but such laborious seeking is required, as a covetous man seeketh treasure which he knoweth to be hid in the ground.",
+              "kind": "gloss"
             }
           ]
         },
@@ -329,7 +339,7 @@
         },
         {
           "verse": 9,
-          "text": "Then shalt thou understand justice, and judgment, and equity, and every good path."
+          "text": "Then shalt thou understand justice, and judgement, and equity, and every good path."
         },
         {
           "verse": 10,
@@ -355,7 +365,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "A description of perverse sinners especially of heretics."
+              "text": "A description of perverse sinners especially of heretics.",
+              "kind": "gloss"
             }
           ]
         },
@@ -407,11 +418,13 @@
           "notes": [
             {
               "label": "a",
-              "text": "It availeth little to hear good instructions, except we keep them in memory."
+              "text": "It availeth little to hear good instructions, except we keep them in memory.",
+              "kind": "gloss"
             },
             {
               "label": "b",
-              "text": "not in books only but in the heart:"
+              "text": "not in books only but in the heart:",
+              "kind": "gloss"
             }
           ]
         },
@@ -425,7 +438,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "and put them in execution."
+              "text": "and put them in execution.",
+              "kind": "gloss"
             }
           ]
         },
@@ -439,7 +453,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "Know also that all thy strength is in God, in whom thou mayst securely trust, not in thine own prudence."
+              "text": "Know also that all thy strength is in God, in whom thou mayst securely trust, not in thine own prudence.",
+              "kind": "gloss"
             }
           ]
         },
@@ -473,7 +488,8 @@
           "notes": [
             {
               "label": "e",
-              "text": "Chastisement and tribulation in those that endeavour to serve God, is a sign of his favour towards them; and therefore his other promises which seem to be temporal, are to be understood of the next life."
+              "text": "Chastisement and tribulation in those that endeavour to serve God, is a sign of his favour towards them; and therefore his other promises which seem to be temporal, are to be understood of the next life.",
+              "kind": "gloss"
             }
           ]
         },
@@ -495,11 +511,13 @@
           "notes": [
             {
               "label": "f",
-              "text": "God rewardeth as it were with both hands, promising eternal life,"
+              "text": "God rewardeth as it were with both hands, promising eternal life,",
+              "kind": "gloss"
             },
             {
               "label": "g",
-              "text": "and competent means in this life."
+              "text": "and competent means in this life.",
+              "kind": "gloss"
             }
           ]
         },
@@ -513,7 +531,7 @@
         },
         {
           "verse": 19,
-          "text": "Our Lord by wisdom foundeth the earth, established the heavens by prudence."
+          "text": "Our Lord by wisdom founded the earth, established the heavens by prudence."
         },
         {
           "verse": 20,
@@ -529,7 +547,8 @@
           "notes": [
             {
               "label": "h",
-              "text": "Merit for the words of thy mouth."
+              "text": "Merit for the words of thy mouth.",
+              "kind": "gloss"
             }
           ]
         },
@@ -555,11 +574,12 @@
         },
         {
           "verse": 28,
-          "text": "Say not to thy friend: go, and return; and <na>(i)</na> tomorrow I will give to thee: whereas thou mayst give forthwith.",
+          "text": "Say not to thy friend: go, and return; and <na>(i)</na> tomorrow I will give to thee: whereas thou mayest give forthwith.",
           "notes": [
             {
               "label": "i",
-              "text": "Alms in season is double worth to that which is deferred long."
+              "text": "Alms in season is double worth to that which is deferred long.",
+              "kind": "gloss"
             }
           ]
         },
@@ -611,7 +631,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "As Salomon was instructed by his father King David, so he teacheth others the right order how to learn wisdom."
+              "text": "As Salomon was instructed by his father King David, so he teacheth others the right order now to learn wisdom.",
+              "kind": "gloss"
             }
           ]
         },
@@ -633,7 +654,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "The first part of wisdom is to desire it. For nothing hindereth from being just but that justice is not desired. S. Aug. in Psal. 118. v. 20."
+              "text": "The first part of wisdom is to desire it. For nothing hindereth from being just but that justice is not desired. S. Aug. in Psal. 118. v. 20.",
+              "kind": "gloss"
             }
           ]
         },
@@ -667,7 +689,7 @@
         },
         {
           "verse": 15,
-          "text": "Fly from it, neither pass thou by it: go aside, and forsake it."
+          "text": "Flee from it, neither pass thou by it: go aside, and forsake it."
         },
         {
           "verse": 16,
@@ -703,7 +725,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "As the heart is the principal part of the body, so the will is the chiefest power of the soul: from which good or evil proceedeth."
+              "text": "As the heart is the principal part of the body, so the will is the chiefest power of the soul: from which good or evil proceedeth.",
+              "kind": "gloss"
             }
           ]
         },
@@ -713,7 +736,7 @@
         },
         {
           "verse": 25,
-          "text": "Let thine eyes see right things, & let thine eye-lids go before thy steps."
+          "text": "Let thine eyes see right things, & let thine eyelids go before thy steps."
         },
         {
           "verse": 26,
@@ -739,7 +762,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "To avoid all impiety it is first of all necessary, not to think, speak, nor hear unlawful things."
+              "text": "To avoid all impiety it is first of all necessary, not to think, speak, nor hear unlawful things.",
+              "kind": "gloss"
             }
           ]
         },
@@ -749,7 +773,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "By woman is generally understood concupiscence of what sin soever, as. ch. 1. v. 10. & ch. 3. v. 33. ch. 4. v. 14."
+              "text": "By woman is generally understood concupiscence of what sin soever, as. ch. 1. v. 10. & ch. 3. v. 33. chap. 4. v. 14.",
+              "kind": "gloss"
             }
           ]
         },
@@ -779,11 +804,13 @@
           "notes": [
             {
               "label": "c",
-              "text": "The world the flesh and the devil are strangers,"
+              "text": "The world the flesh and the devil are strangers,",
+              "kind": "gloss"
             },
             {
               "label": "d",
-              "text": "and cruel enemies that render for reward eternal damnation."
+              "text": "and cruel enemies that render for reward eternal damnation.",
+              "kind": "gloss"
             }
           ]
         },
@@ -817,7 +844,8 @@
           "notes": [
             {
               "label": "e",
-              "text": "Good doctrine is to be imparted to men of sincere intention."
+              "text": "Good doctrine is to be imparted to men of sincere intention.",
+              "kind": "gloss"
             }
           ]
         },
@@ -827,7 +855,8 @@
           "notes": [
             {
               "label": "f",
-              "text": "not to contemners and obstinate infidels."
+              "text": "not to contemners and obstinate infidels.",
+              "kind": "gloss"
             }
           ]
         },
@@ -867,7 +896,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "The wiseman doth not absolutely dissuade from all manner of suretyship, but from rashly, or unadvisedly answering for others. And especially exhorteth to use all diligence in performing, or causing others to perform that which is promised or covenanted."
+              "text": "The wiseman doth not absolutely dissuade from all manner of suretyship, but from rashly, or unadvisedly answering for others. And especially exhorteth to use all diligence in performing, or causing others to perform that which is promised or covenanted.",
+              "kind": "gloss"
             }
           ]
         },
@@ -877,11 +907,11 @@
         },
         {
           "verse": 3,
-          "text": "Do therefore my son that which I say, and deliver thyself, because thou art fallen into the hand of thy neighbour. Run diverse ways, make haste, raise thy friend."
+          "text": "Do therefore my son that which I say, and deliver thyself, because thou art fallen into the hand of thy neighbour. Run divers ways, make haste, raise thy friend."
         },
         {
           "verse": 4,
-          "text": "Give not sleep to thine eyes, neither let thine eye-lids slumber."
+          "text": "Give not sleep to thine eyes, neither let thine eyelids slumber."
         },
         {
           "verse": 5,
@@ -909,15 +939,16 @@
         },
         {
           "verse": 11,
-          "text": "and penury shall come to thee, as a wayfaring man, and poverty as a man armed. But if thou be not sluggish, thy harvest shall come as a fountain, and penury shall fly far from thee."
+          "text": "and penury shall come to thee, as a wayfaring man, and poverty as a man armed. But if thou be not sluggish, thy harvest shall come as a fountain, and penury shall flee far from thee."
         },
         {
           "verse": 12,
-          "text": "Aman that is an <na>(b)</na> Apostata, a man unprofitable, goeth with perverse mouth,",
+          "text": "A man that is an <na>(b)</na> Apostata, a man unprofitable, goeth with perverse mouth,",
           "notes": [
             {
               "label": "b",
-              "text": "Every one that sinneth wittingly and of malice, refusing to obey God, employeth his mouth, eyes, feet, hands, and all parts with a wicked heart and intention to pervert others: most proper to heretics, apostates from the faith."
+              "text": "Every one that sinneth wittingly and of malice, refusing to obey God, employeth his mouth, eyes, feet, hands, and all parts with a wicked heart and intention to pervert others: most proper to heretics, apostates from the faith.",
+              "kind": "gloss"
             }
           ]
         },
@@ -951,7 +982,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "The former six are all damnable, but this seventh is most detestable, because it is opposite to the chief virtue charity, it breaketh unity, & is the proper sin of the devil."
+              "text": "The former six are all damnable, but this seventh is most detestable, because it is opposite to the chief virtue charity, it breaketh unity, & is the proper sin of the devil.",
+              "kind": "gloss"
             }
           ]
         },
@@ -989,7 +1021,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "All occasions of sin, especially probable, are to be"
+              "text": "All occasions of sin, especially probable, are to be",
+              "kind": "gloss"
             }
           ]
         },
@@ -1007,7 +1040,8 @@
           "notes": [
             {
               "label": "e",
-              "text": "Theft is also mortal sin against the seventh commandment, but not so great as adultery."
+              "text": "Theft is also mortal sin against the seventh commandment, but not so great as adultery.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1043,7 +1077,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Because tentations still occur in this life, and man is frail, good exhortations, and earnest admonitions must also be continually inculcated, as here the wiseman often repeateth and much urgeth the same good and necessary advices to embrace wisdom and to walk still in the way of virtue, especially to flee from vices, and dangers of sin."
+              "text": "Because tentations still occur in this life, and man is frail, good exhortations, and earnest admonitions must also be continually inculcated, as here the wiseman often repeateth and much urgeth the same good and necessary advices to embrace wisdom and to walk still in the way of virtue, especially to flee from vices, and dangers of sin.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1133,7 +1168,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Sinners after consent given to tentations are as inconsiderate of their own state, & of their peril and ruin, as an oxe when he is led to the shambles, or a bird allured with a bait, that flieth into the snare or net."
+              "text": "Sinners after consent given to tentations are as inconsiderate of their own state, & of their peril and ruin, as an oxe when he is led to the shambles, or a bird allured with a bait, that flieth into the snare or net.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1173,7 +1209,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "True wisdom directing to good life & so to eternal salvation, is only found in the visible Church standing upon a mountain, not hid in corners or obscure places."
+              "text": "True wisdom directing to good life & so to eternal salvation, is only found in the visible Church standing upon a mountain, not hidden in corners or obscure places.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1211,7 +1248,7 @@
         },
         {
           "verse": 11,
-          "text": "For wisdom is better than all most precious riches: and whatsoever is to be desired cannot be compared to it."
+          "text": "For wisdom is better than all most precious riches: and whatsoever is to be desired can not be compared to it."
         },
         {
           "verse": 12,
@@ -1219,7 +1256,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "These singular praises pertain to the increated wisdom, God himself, from whom proceedeth wisdom given to men by the Holy Ghost. See Annot. ch. 1. v. 2."
+              "text": "These singular praises pertain to the increated wisdom, God himself, from whom proceedeth wisdom given to men by the Holy Ghost. See Annot. ch. 1. v. 2.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1233,7 +1271,7 @@
         },
         {
           "verse": 15,
-          "text": "By me kings do reign, and the makers of laws decree just things."
+          "text": "By me kings do reign, and the makers of law decree just things."
         },
         {
           "verse": 16,
@@ -1253,7 +1291,7 @@
         },
         {
           "verse": 20,
-          "text": "I walk in the ways of justice, in the midst of the paths of judgment,"
+          "text": "I walk in the ways of justice, in the midst of the paths of judgement,"
         },
         {
           "verse": 21,
@@ -1301,7 +1339,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "God much preferreth man before all other corporal creatures."
+              "text": "God much preferreth man before all other corporal creatures.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1342,7 +1381,7 @@
         },
         {
           "verse": 3,
-          "text": "She hath sent her hand-maids to call to the tower, and to the walls of the city:"
+          "text": "She hath sent her handmaids to call to the tower, and to the walls of the city:"
         },
         {
           "verse": 4,
@@ -1354,7 +1393,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "S. Cyprian li. 2. ep. 3. citeth this whole passage of Christ's Sacrifice in the forms of bread and wine."
+              "text": "S. Cyprian li. 2. ep. 3. citeth this whole passage of Christ's Sacrifice in the forms of bread and wine.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1372,11 +1412,13 @@
           "notes": [
             {
               "label": "b",
-              "text": "Where is no hope of amendment prudence directeth us not to admonish, nor rebuke sinners, lest without any fruit we procure enmity, charity also requireth rather to expect"
+              "text": "Where is no hope of amendment prudence directeth us not to admonish, nor rebuke sinners, lest without any fruit we procure enmity, charity also requireth rather to expect",
+              "kind": "gloss"
             },
             {
               "label": "c",
-              "text": "But when there is hope of good, every one is bound, especially superiors, to correct offenders. S. Aug. li. 1. c. 9. de civit. S. Basil. regulis fuse disput. 158."
+              "text": "But when there is hope of good, every one is bound, especially superiors, to correct offenders. S. Aug. li. 1. c. 9. de civit. S. Basil. regulis fuse disput. 158.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1435,7 +1477,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Wisdom in general."
+              "text": "Wisdom in general.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1445,7 +1488,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Justice."
+              "text": "Justice.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1455,7 +1499,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Confidence in God."
+              "text": "Confidence in God.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1465,11 +1510,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "Industry."
+              "text": "Industry.",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "Truth."
+              "text": "Truth.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1479,7 +1526,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Diligence."
+              "text": "Diligence.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1489,7 +1537,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Equity."
+              "text": "Equity.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1499,7 +1548,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Good fame."
+              "text": "Good fame.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1509,7 +1559,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Desire to learn."
+              "text": "Desire to learn.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1519,7 +1570,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Sincerity."
+              "text": "Sincerity.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1529,7 +1581,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Unfeigned friendship."
+              "text": "Unfeigned friendship.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1539,7 +1592,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Wholesome talk."
+              "text": "Wholesome talk.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1549,7 +1603,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Charity."
+              "text": "Charity.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1559,7 +1614,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Prudent speech."
+              "text": "Prudent speech.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1569,7 +1625,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Discretion in speaking."
+              "text": "Discretion in speaking.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1579,7 +1636,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Just gain."
+              "text": "Just gain.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1589,7 +1647,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Just intention."
+              "text": "Just intention.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1599,7 +1658,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Love to be corrected."
+              "text": "Love to be corrected.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1609,7 +1669,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Internal and external charity."
+              "text": "Internal and external charity.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1619,7 +1680,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Moderate speech."
+              "text": "Moderate speech.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1629,7 +1691,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Sincerity of heart."
+              "text": "Sincerity of heart.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1639,7 +1702,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Love of doctrine."
+              "text": "Love of doctrine.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1649,7 +1713,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Spiritual riches."
+              "text": "Spiritual riches.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1659,7 +1724,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Sorrow for sin."
+              "text": "Sorrow for sin.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1669,7 +1735,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Remorse of conscience."
+              "text": "Remorse of conscience.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1679,7 +1746,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Justice in general."
+              "text": "Justice in general.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1689,7 +1757,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Diligence."
+              "text": "Diligence.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1699,7 +1768,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Fear of God."
+              "text": "Fear of God.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1709,7 +1779,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Piety."
+              "text": "Piety.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1719,7 +1790,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Observation of God's law, fulfilling all justice."
+              "text": "Observation of God's law, fulfilling all justice.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1733,7 +1805,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Speaking and Meditating good things."
+              "text": "Speaking and Meditating good things.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1772,7 +1845,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Equity."
+              "text": "Equity.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1782,7 +1856,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Humility."
+              "text": "Humility.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1792,7 +1867,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Sincerity."
+              "text": "Sincerity.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1802,7 +1878,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Spiritual riches."
+              "text": "Spiritual riches.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1812,7 +1889,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Piety."
+              "text": "Piety.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1822,7 +1900,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Justice."
+              "text": "Justice.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1832,7 +1911,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Care of the other life."
+              "text": "Care of the other life.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1842,7 +1922,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Future joy."
+              "text": "Future joy.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1852,7 +1933,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Truth in words."
+              "text": "Truth in words.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1862,7 +1944,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Common good."
+              "text": "Common good.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1872,7 +1955,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Public joy."
+              "text": "Public joy.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1882,7 +1966,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "True friendship."
+              "text": "True friendship.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1892,7 +1977,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Fidelity."
+              "text": "Fidelity.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1902,7 +1988,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Good government."
+              "text": "Good government.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1912,7 +1999,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Prudence in suretyship."
+              "text": "Prudence in suretyship.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1922,7 +2010,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Diligence."
+              "text": "Diligence.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1932,7 +2021,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Mercy."
+              "text": "Mercy.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1942,7 +2032,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Justice."
+              "text": "Justice.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1952,7 +2043,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Clemency."
+              "text": "Clemency.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1962,7 +2054,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Sincerity."
+              "text": "Sincerity.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1972,7 +2065,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Just dealing."
+              "text": "Just dealing.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1982,7 +2076,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Internal virtue."
+              "text": "Internal virtue.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1992,7 +2087,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Expectation of glory."
+              "text": "Expectation of glory.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2002,7 +2098,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Alms deeds."
+              "text": "Alms deeds.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2012,7 +2109,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Benevolence."
+              "text": "Benevolence.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2022,7 +2120,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Care of the poor."
+              "text": "Care of the poor.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2032,7 +2131,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Good desires."
+              "text": "Good desires.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2042,7 +2142,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Trust in God's goodness."
+              "text": "Trust in God's goodness.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2052,7 +2153,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Frugality."
+              "text": "Frugality.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2062,7 +2164,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Spiritual instruction."
+              "text": "Spiritual instruction.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2072,7 +2175,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Strait way of salvation."
+              "text": "Strait way of salvation.",
+              "kind": "gloss"
             }
           ]
         }
@@ -2087,17 +2191,19 @@
           "notes": [
             {
               "label": "1",
-              "text": "Love of discipline."
+              "text": "Love of discipline.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 2,
-          "text": "He that is good, shall draw grace from our Lord: but he that trusteth in his own cogitations, doth impiously. <na>[1]</na>",
+          "text": "He that is good, shall draw grace from our Lord: but he that trusteth in his own cogitation, doth impiously. <na>[1]</na>",
           "notes": [
             {
               "label": "1",
-              "text": "Progress in virtue."
+              "text": "Progress in virtue.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2107,7 +2213,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Piety."
+              "text": "Piety.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2117,17 +2224,19 @@
           "notes": [
             {
               "label": "1",
-              "text": "Diligent industry."
+              "text": "Diligent industry.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 5,
-          "text": "The cogitations of the just are judgments: & the counsels of the impious are fraudulent. <na>[1]</na>",
+          "text": "The cogitations of the just are judgements: & the counsels of the impious are fraudulent. <na>[1]</na>",
           "notes": [
             {
               "label": "1",
-              "text": "Desire of justice."
+              "text": "Desire of justice.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2137,7 +2246,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Sincerity in words."
+              "text": "Sincerity in words.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2147,7 +2257,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Justice."
+              "text": "Justice.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2157,7 +2268,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Sound doctrine."
+              "text": "Sound doctrine.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2167,7 +2279,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Contentment of mind."
+              "text": "Contentment of mind.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2177,7 +2290,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Compassion."
+              "text": "Compassion.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2187,11 +2301,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "Diligent travail."
+              "text": "Diligent travail.",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "Temperance."
+              "text": "Temperance.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2201,11 +2317,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>* defence.</i>"
+              "text": "<i>* defence.</i>",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "Just punishment of the wicked."
+              "text": "Just punishment of the wicked.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2215,7 +2333,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Guard of the tongue."
+              "text": "Guard of the tongue.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2225,7 +2344,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Godly instructions: and good deeds."
+              "text": "Godly instructions: and good deeds.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2235,7 +2355,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Yielding to good counsel."
+              "text": "Yielding to good counsel.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2245,7 +2366,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Toleration of injuries."
+              "text": "Toleration of injuries.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2255,7 +2377,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "True testimony."
+              "text": "True testimony.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2265,7 +2388,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Advised promising."
+              "text": "Advised promising.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2275,7 +2399,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Considerate testimony."
+              "text": "Considerate testimony.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2285,7 +2410,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Pacification."
+              "text": "Pacification.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2295,7 +2421,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Justice in general."
+              "text": "Justice in general.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2305,7 +2432,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Fidelity."
+              "text": "Fidelity.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2315,7 +2443,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Prudent silence."
+              "text": "Prudent silence.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2325,7 +2454,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Resistance of tentations."
+              "text": "Resistance of tentations.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2335,7 +2465,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Alacrity in good works."
+              "text": "Alacrity in good works.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2345,7 +2476,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Friendship."
+              "text": "Friendship.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2355,21 +2487,24 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>* a just man.</i>"
+              "text": "<i>* a just man.</i>",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "Honest industry."
+              "text": "Honest industry.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 28,
-          "text": "In the path of justice, life: but the by-way leadeth to death. <na>[1]</na>",
+          "text": "In the path of justice, life: but the byway leadeth to death. <na>[1]</na>",
           "notes": [
             {
               "label": "1",
-              "text": "Good life."
+              "text": "Good life.",
+              "kind": "gloss"
             }
           ]
         }
@@ -2384,7 +2519,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Filial fear."
+              "text": "Filial fear.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2394,7 +2530,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Sound doctrine."
+              "text": "Sound doctrine.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2404,7 +2541,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Discretion in speech."
+              "text": "Discretion in speech.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2414,7 +2552,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Constant endeavour."
+              "text": "Constant endeavour.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2424,7 +2563,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Truth in words and deeds."
+              "text": "Truth in words and deeds.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2434,7 +2574,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Justice."
+              "text": "Justice.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2444,7 +2585,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "True acknowledgment of temporal state."
+              "text": "True acknowledgement of temporal state.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2454,7 +2596,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Mediocrity of riches."
+              "text": "Mediocrity of riches.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2464,7 +2607,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Sincere conscience."
+              "text": "Sincere conscience.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2474,7 +2618,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Humility."
+              "text": "Humility.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2484,17 +2629,19 @@
           "notes": [
             {
               "label": "1",
-              "text": "Just gain."
+              "text": "Just gain.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 12,
-          "text": "Hope that is deferred afflicteth the soul: a tree of life the desire of ckoning. <na>[1]</na>",
+          "text": "Hope that is deferred afflicteth the soul: a tree of life the desire of coming. <na>[1]</na>",
           "notes": [
             {
               "label": "1",
-              "text": "Speedy performance of promise."
+              "text": "Speedy performance of promise.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2504,11 +2651,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "Good report."
+              "text": "Good report.",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "Plain dealing."
+              "text": "Plain dealing.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2518,7 +2667,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Good instruction."
+              "text": "Good instruction.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2528,7 +2678,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "True doctrine."
+              "text": "True doctrine.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2538,7 +2689,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Prudence."
+              "text": "Prudence.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2548,7 +2700,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Faithful message."
+              "text": "Faithful message.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2558,17 +2711,19 @@
           "notes": [
             {
               "label": "1",
-              "text": "Desire to learn."
+              "text": "Desire to learn.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 19,
-          "text": "Desire if it be accomplished, delighteth the soul: fools detest them that fly evil things. <na>[1]</na>",
+          "text": "Desire if it be accomplished, delighteth the soul: fools detest them that flee evil things. <na>[1]</na>",
           "notes": [
             {
               "label": "1",
-              "text": "Hate of sin."
+              "text": "Hate of sin.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2578,7 +2733,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Conversation with the good."
+              "text": "Conversation with the good.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2588,7 +2744,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Justice."
+              "text": "Justice.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2598,17 +2755,19 @@
           "notes": [
             {
               "label": "1",
-              "text": "Succession."
+              "text": "Succession.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 23,
-          "text": "Much meat in the tilled grounds of the fathers: and to others they are gathered without judgment. <na>[1]</na>",
+          "text": "Much meat in the tilled grounds of the fathers: and to others they are gathered without judgement. <na>[1]</na>",
           "notes": [
             {
               "label": "1",
-              "text": "Frugality."
+              "text": "Frugality.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2618,7 +2777,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Chastisement."
+              "text": "Chastisement.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2628,7 +2788,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Contentment of state."
+              "text": "Contentment of state.",
+              "kind": "gloss"
             }
           ]
         }
@@ -2643,7 +2804,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Frugal industry."
+              "text": "Frugal industry.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2653,7 +2815,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Fear of God."
+              "text": "Fear of God.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2663,7 +2826,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Guard of the tongue."
+              "text": "Guard of the tongue.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2673,7 +2837,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Diligent labours."
+              "text": "Diligent labours.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2683,7 +2848,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Truth in all speech."
+              "text": "Truth in all speech.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2693,7 +2859,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Seek wisdom."
+              "text": "Seek wisdom.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2703,7 +2870,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Fellowship with the wise."
+              "text": "Fellowship with the wise.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2713,7 +2881,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Knowledge of ourselves."
+              "text": "Knowledge of ourselves.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2723,7 +2892,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Detestation of sin."
+              "text": "Detestation of sin.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2733,7 +2903,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Internal comfort."
+              "text": "Internal comfort.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2743,7 +2914,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Contempt of this world."
+              "text": "Contempt of this world.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2754,7 +2926,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Catholic faith."
+              "text": "The Catholic faith.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2764,7 +2937,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Spiritual joy."
+              "text": "Spiritual joy.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2774,7 +2948,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Reward of works."
+              "text": "Reward of works.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2784,7 +2959,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Believe not all reports."
+              "text": "Believe not all reports.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2794,7 +2970,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Mature consideration."
+              "text": "Mature consideration.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2804,7 +2981,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Patience."
+              "text": "Patience.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2819,7 +2997,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "Desire of solid knowledge."
+              "text": "Desire of solid knowledge.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2829,7 +3008,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Piety shall be rewarded."
+              "text": "Piety shall be rewarded.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2839,7 +3019,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Compassion of the poor."
+              "text": "Compassion of the poor.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2849,7 +3030,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Alms deeds."
+              "text": "Alms deeds.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2859,17 +3041,19 @@
           "notes": [
             {
               "label": "1",
-              "text": "Mercy and verity."
+              "text": "Mercy and verity.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 23,
-          "text": "In every work there shall be aboundance: but where many words are, there is oftentimes poverty. <na>[1]</na>",
+          "text": "In every work there shall be abundance: but where many words are, there is oftentimes poverty. <na>[1]</na>",
           "notes": [
             {
               "label": "1",
-              "text": "Good deeds with few words."
+              "text": "Good deeds with few words.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2879,7 +3063,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Right use of riches."
+              "text": "Right use of riches.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2889,11 +3074,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>Versipellis a turn-skin, or turn-coat.</i>"
+              "text": "<i>Versipellis a turn-skin, or turn-coat.</i>",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "True testimony. as v. 5."
+              "text": "True testimony. as v. 5.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2903,7 +3090,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Fear to offend"
+              "text": "Fear to offend",
+              "kind": "gloss"
             }
           ]
         },
@@ -2913,7 +3101,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "God preventeth punishment."
+              "text": "God preventeth punishment.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2923,7 +3112,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Procure love and fidelity in subjects."
+              "text": "Procure love and fidelity in subjects.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2933,7 +3123,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Patience."
+              "text": "Patience.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2944,7 +3135,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Sincere intention."
+              "text": "Sincere intention.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2954,7 +3146,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Compassion."
+              "text": "Compassion.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2964,7 +3157,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Confidence in justice."
+              "text": "Confidence in justice.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2974,7 +3168,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Instruction of the ignorant."
+              "text": "Instruction of the ignorant.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2984,7 +3179,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Public justice."
+              "text": "Public justice.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2994,7 +3190,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Industry in every man."
+              "text": "Industry in every man.",
+              "kind": "gloss"
             }
           ]
         }
@@ -3009,7 +3206,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Meekness."
+              "text": "Meekness.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3019,7 +3217,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Discretion."
+              "text": "Discretion.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3029,7 +3228,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "God's omniscience."
+              "text": "God's omniscience.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3039,17 +3239,19 @@
           "notes": [
             {
               "label": "1",
-              "text": "Calmness of speech."
+              "text": "Calmness of speech.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 5,
-          "text": "A fool scorneth the discipline of his father: but he that regardeth reprehensions, shall become more prudent. <na>[1]</na> In abundant justice there is greater force: but the cogitations of the impious shall be rooted out.",
+          "text": "A fool scorneth the discipline of his father: but he that regardeth reprehensions, shall become more prudent. <na>[1]</na> In abundant justice there is greatest force: but the cogitations of the impious shall be rooted out.",
           "notes": [
             {
               "label": "1",
-              "text": "Love to be corrected."
+              "text": "Love to be corrected.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3059,7 +3261,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Desire to fulfill all justice."
+              "text": "Desire to fulfil all justice.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3069,7 +3272,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Diligence in teaching others."
+              "text": "Diligence in teaching others.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3079,7 +3283,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Purity of heart."
+              "text": "Purity of heart.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3089,7 +3294,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Learn of good men."
+              "text": "Learn of good men.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3103,7 +3309,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "All secrets known to God."
+              "text": "All secrets known to God.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3113,7 +3320,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Harken to good admonitions."
+              "text": "Harken to good admonitions.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3123,13 +3331,14 @@
           "notes": [
             {
               "label": "1",
-              "text": "A cheerful heart is desirous to learn."
+              "text": "A cheerful heart is desirous to learn.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 14,
-          "text": "The heart of the wise seeketh doctrine: and the mouth of fools is fed with unskillfulness."
+          "text": "The heart of the wise seeketh doctrine: and the mouth of fools is fed with unskilfulness."
         },
         {
           "verse": 15,
@@ -3137,7 +3346,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "A quiet mind."
+              "text": "A quiet mind.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3147,7 +3357,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Contentment with sufficiency."
+              "text": "Contentment with sufficiency.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3161,7 +3372,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Patience."
+              "text": "Patience.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3171,7 +3383,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Diligence."
+              "text": "Diligence.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3181,7 +3394,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Honour of parents."
+              "text": "Honour of parents.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3191,7 +3405,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Discretion."
+              "text": "Discretion.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3201,7 +3416,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Desire to live well."
+              "text": "Desire to live well.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3211,7 +3427,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Counsel in season."
+              "text": "Counsel in season.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3221,7 +3438,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "To him that is well trained in good works, heaven gates are open."
+              "text": "To him that is well trained in good works, heaven gates are open.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3235,7 +3453,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Honest thoughts and words."
+              "text": "Honest thoughts and words.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3245,11 +3464,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "A liberal mind"
+              "text": "A liberal mind",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "Mercy and justice."
+              "text": "Mercy and justice.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3259,7 +3480,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Obedience."
+              "text": "Obedience.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3269,7 +3491,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "God assisteth the just."
+              "text": "God assisteth the just.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3279,7 +3502,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Words of edification."
+              "text": "Words of edification.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3289,7 +3513,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Love of discipline,"
+              "text": "Love of discipline,",
+              "kind": "gloss"
             }
           ]
         },
@@ -3299,7 +3524,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "and Admonition."
+              "text": "and Admonition.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3309,7 +3535,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Humility."
+              "text": "Humility.",
+              "kind": "gloss"
             }
           ]
         }
@@ -3325,7 +3552,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "God's grace necessary in every good action."
+              "text": "God's grace necessary in every good action.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3335,7 +3563,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Man's judgement is not secure."
+              "text": "Man's judgement is not secure.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3345,7 +3574,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Commend thine affairs to God."
+              "text": "Commend thine affairs to God.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3355,7 +3585,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "God's providence."
+              "text": "God's providence.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3365,15 +3596,18 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>unpunished.</i>"
+              "text": "<i>unpunished.</i>",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "Punishment of sin."
+              "text": "Punishment of sin.",
+              "kind": "gloss"
             },
             {
               "label": "3",
-              "text": "Equity."
+              "text": "Equity.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3383,7 +3617,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Mercy."
+              "text": "Mercy.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3393,7 +3628,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Devotion."
+              "text": "Devotion.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3403,7 +3639,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Just gain."
+              "text": "Just gain.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3413,7 +3650,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Necessity of God's grace."
+              "text": "Necessity of God's grace.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3423,7 +3661,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "God assisteth superiors in governing their subjects."
+              "text": "God assisteth superiors in governing their subjects.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3433,7 +3672,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Just balance do please God &"
+              "text": "Just balance do please God &",
+              "kind": "gloss"
             }
           ]
         },
@@ -3443,7 +3683,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "good kings."
+              "text": "good kings.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3453,7 +3694,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Righteousness."
+              "text": "Righteousness.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3463,7 +3705,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Fear, and reverence of authority."
+              "text": "Fear, and reverence of authority.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3477,7 +3720,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Love of wisdom."
+              "text": "Love of wisdom.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3487,7 +3731,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Justice in general."
+              "text": "Justice in general.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3497,7 +3742,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Humility."
+              "text": "Humility.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3507,7 +3753,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Meekness."
+              "text": "Meekness.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3517,7 +3764,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Hope in God."
+              "text": "Hope in God.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3527,7 +3775,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Mildness."
+              "text": "Mildness.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3537,7 +3786,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Teaching others."
+              "text": "Teaching others.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3547,7 +3797,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Sincere heart."
+              "text": "Sincere heart.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3557,7 +3808,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Sweetness in conversation."
+              "text": "Sweetness in conversation.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3572,8 +3824,12 @@
           "notes": [
             {
               "label": "2",
-              "text": "True faith & Religion."
+              "text": "True faith & Religion.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "chap. 14.12."
           ]
         },
         {
@@ -3582,7 +3838,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Proper industry."
+              "text": "Proper industry.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3592,7 +3849,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Charity."
+              "text": "Charity.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3602,7 +3860,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Common good."
+              "text": "Common good.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3612,17 +3871,19 @@
           "notes": [
             {
               "label": "1",
-              "text": "True friendship."
+              "text": "True friendship.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 30,
-          "text": "He that with astonished eyes thinketh wicked things, biting his lips bringeth evil to pass. <na>[1]</na>",
+          "text": "He that with astonied eyes thinketh wicked things, biting his lips bringeth evil to pass. <na>[1]</na>",
           "notes": [
             {
               "label": "1",
-              "text": "Sincere thoughts."
+              "text": "Sincere thoughts.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3632,7 +3893,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Holy old age."
+              "text": "Holy old age.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3642,7 +3904,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Patience."
+              "text": "Patience.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3652,7 +3915,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "God's providence."
+              "text": "God's providence.",
+              "kind": "gloss"
             }
           ]
         }
@@ -3667,7 +3931,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Peace."
+              "text": "Peace.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3677,7 +3942,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Wisdom in general."
+              "text": "Wisdom in general.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3687,7 +3953,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Purification."
+              "text": "Purification.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3697,7 +3964,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Fellowship with the good."
+              "text": "Fellowship with the good.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3707,7 +3975,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Commiseration."
+              "text": "Commiseration.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3717,7 +3986,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Succession."
+              "text": "Succession.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3727,7 +3997,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Gravity in speech."
+              "text": "Gravity in speech.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3737,7 +4008,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Desire of eternal life."
+              "text": "Desire of eternal life.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3747,7 +4019,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Remitting offences."
+              "text": "Remitting offences.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3757,7 +4030,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Discreet correction."
+              "text": "Discreet correction.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3767,7 +4041,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Concord."
+              "text": "Concord.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3777,7 +4052,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Gentleness."
+              "text": "Gentleness.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3787,7 +4063,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Gratitude."
+              "text": "Gratitude.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3797,7 +4074,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Conservation of peace."
+              "text": "Conservation of peace.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3807,7 +4085,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Just censure."
+              "text": "Just censure.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3817,11 +4096,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "Spiritual riches."
+              "text": "Spiritual riches.",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "Humility."
+              "text": "Humility.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3831,7 +4112,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Constancy."
+              "text": "Constancy.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3841,7 +4123,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Carefulness in promising."
+              "text": "Carefulness in promising.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3851,7 +4134,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Concord."
+              "text": "Concord.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3861,7 +4145,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Sincerity."
+              "text": "Sincerity.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3871,7 +4156,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Education of youth."
+              "text": "Education of youth.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3881,7 +4167,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Alacrity of heart."
+              "text": "Alacrity of heart.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3891,7 +4178,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Just judgement."
+              "text": "Just judgement.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3901,7 +4189,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Contempt of the world."
+              "text": "Contempt of the world.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3911,7 +4200,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Filial obedience."
+              "text": "Filial obedience.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3921,7 +4211,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Obedience to Magistrates."
+              "text": "Obedience to Magistrates.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3931,7 +4222,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Discretion in speaking."
+              "text": "Discretion in speaking.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3941,7 +4233,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Moderate silence."
+              "text": "Moderate silence.",
+              "kind": "gloss"
             }
           ]
         }
@@ -3956,7 +4249,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Constant amity."
+              "text": "Constant amity.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3966,7 +4260,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Harken to good counsel."
+              "text": "Harken to good counsel.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3976,7 +4271,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Speedy repentance."
+              "text": "Speedy repentance.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3986,21 +4282,24 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>a wiseman.</i>"
+              "text": "<i>a wiseman.</i>",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "Wise discourse."
+              "text": "Wise discourse.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 5,
-          "text": "To accept the person of the impious in judgment is not good, that thou decline from the truth of judgment. <na>[1]</na>",
+          "text": "To accept the person of the impious in judgement is not good, that thou decline from the truth of judgement. <na>[1]</na>",
           "notes": [
             {
               "label": "1",
-              "text": "Equity."
+              "text": "Equity.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4010,7 +4309,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Study of peace."
+              "text": "Study of peace.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4020,7 +4320,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Guard of the tongue."
+              "text": "Guard of the tongue.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4030,11 +4331,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "Avoid secret bate makers."
+              "text": "Avoid secret bate makers.",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "Fortitude."
+              "text": "Fortitude.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4044,7 +4347,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Constant labour."
+              "text": "Constant labour.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4054,7 +4358,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Confidence in God."
+              "text": "Confidence in God.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4064,7 +4369,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Spiritual riches."
+              "text": "Spiritual riches.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4074,7 +4380,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Humility."
+              "text": "Humility.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4084,7 +4391,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Consideration in answering."
+              "text": "Consideration in answering.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4094,7 +4402,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Quietness of spirit."
+              "text": "Quietness of spirit.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4104,7 +4413,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Desire to learn."
+              "text": "Desire to learn.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4114,7 +4424,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Alms deeds."
+              "text": "Alms deeds.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4124,7 +4435,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Acknowledging of faults."
+              "text": "Acknowledging of faults.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4134,17 +4446,19 @@
           "notes": [
             {
               "label": "1",
-              "text": "Use of lot to make agreement."
+              "text": "Use of lot to make agreement.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 19,
-          "text": "Brother that is holpen of brother, is a strong city: and judgments are as the bars of cities. <na>[1]</na>",
+          "text": "Brother that is holpen of brother, is a strong city: and judgements are as the bars of cities. <na>[1]</na>",
           "notes": [
             {
               "label": "1",
-              "text": "Fraternal concord."
+              "text": "Fraternal concord.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4154,7 +4468,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Godly instructions."
+              "text": "Godly instructions.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4164,7 +4479,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Right use of the tongue."
+              "text": "Right use of the tongue.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4174,7 +4490,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Awife's virtue is her best dowry."
+              "text": "Awife's virtue is her best dowry.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4184,17 +4501,19 @@
           "notes": [
             {
               "label": "1",
-              "text": "Meekness."
+              "text": "Meekness.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 24,
-          "text": "Aman amiable to society, shall be more friendly than a brother. <na>[1]</na>",
+          "text": "A man amiable to society, shall be more friendly than a brother. <na>[1]</na>",
           "notes": [
             {
               "label": "1",
-              "text": "Amity with affability."
+              "text": "Amity with affability.",
+              "kind": "gloss"
             }
           ]
         }
@@ -4209,7 +4528,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Honest poverty."
+              "text": "Honest poverty.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4219,7 +4539,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Knowledge of ourselves."
+              "text": "Knowledge of ourselves.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4229,7 +4550,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Man's own will the cause of evil."
+              "text": "Man's own will the cause of evil.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4239,7 +4561,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Spiritual riches secure."
+              "text": "Spiritual riches secure.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4249,7 +4572,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "True testimony."
+              "text": "True testimony.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4259,7 +4583,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Liberality."
+              "text": "Liberality.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4269,7 +4594,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Industrious travail."
+              "text": "Industrious travail.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4279,7 +4605,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Solid doctrine."
+              "text": "Solid doctrine.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4289,7 +4616,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "True testimony."
+              "text": "True testimony.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4299,7 +4627,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Wise & fit magistrates."
+              "text": "Wise & fit magistrates.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4309,7 +4638,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Patience in teachers."
+              "text": "Patience in teachers.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4319,7 +4649,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Loyalty to Kings, and princes."
+              "text": "Loyalty to Kings, and princes.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4329,7 +4660,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Domestical peace."
+              "text": "Domestical peace.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4339,7 +4671,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Agood wife is God's gift."
+              "text": "Agood wife is God's gift.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4349,7 +4682,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Diligence."
+              "text": "Diligence.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4359,7 +4693,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Obedience."
+              "text": "Obedience.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4369,7 +4704,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Alms deeds."
+              "text": "Alms deeds.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4379,7 +4715,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Moderate chastisement."
+              "text": "Moderate chastisement.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4389,7 +4726,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Patience."
+              "text": "Patience.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4399,7 +4737,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Follow good counsel."
+              "text": "Follow good counsel.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4409,7 +4748,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Trust in God."
+              "text": "Trust in God.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4419,7 +4759,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Good will to help the poor."
+              "text": "Good will to help the poor.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4429,17 +4770,19 @@
           "notes": [
             {
               "label": "1",
-              "text": "Fear of God."
+              "text": "Fear of God.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 24,
-          "text": "The slothful hideth his hand under the arm-hole, neither doth he put it to his mouth. <na>[1]</na>",
+          "text": "The slothful hideth his hand under the armhole, neither doth he put it to his mouth. <na>[1]</na>",
           "notes": [
             {
               "label": "1",
-              "text": "Diligent travail."
+              "text": "Diligent travail.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4449,17 +4792,19 @@
           "notes": [
             {
               "label": "1",
-              "text": "Just correction."
+              "text": "Just correction.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 26,
-          "text": "He that afflicteth his father, and flyeth from his mother, is ignominious and unhappy. <na>[1]</na>",
+          "text": "He that afflicteth his father, and fleeth from his mother, is ignominious and unhappy. <na>[1]</na>",
           "notes": [
             {
               "label": "1",
-              "text": "Honour of parents."
+              "text": "Honour of parents.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4469,27 +4814,30 @@
           "notes": [
             {
               "label": "1",
-              "text": "Desire to learn."
+              "text": "Desire to learn.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 28,
-          "text": "An unjust witness scorneth judgment: and the mouth of the impious devoureth iniquity. <na>[1]</na>",
+          "text": "An unjust witness scorneth judgement: and the mouth of the impious devoureth iniquity. <na>[1]</na>",
           "notes": [
             {
               "label": "1",
-              "text": "True testimony."
+              "text": "True testimony.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 29,
-          "text": "Judgments are prepared for scorners: & hammers striking for the bodies of fools. <na>[1]</na>",
+          "text": "Judgements are prepared for scorners: & hammers striking for the bodies of fools. <na>[1]</na>",
           "notes": [
             {
               "label": "1",
-              "text": "Fear of eternal punishment."
+              "text": "Fear of eternal punishment.",
+              "kind": "gloss"
             }
           ]
         }
@@ -4504,7 +4852,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Sobriety."
+              "text": "Sobriety.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4514,7 +4863,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Obedience to Princes."
+              "text": "Obedience to Princes.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4524,7 +4874,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Concord."
+              "text": "Concord.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4534,7 +4885,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Industry."
+              "text": "Industry.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4544,7 +4896,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Profound counsel."
+              "text": "Profound counsel.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4554,7 +4907,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Fidelity."
+              "text": "Fidelity.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4564,17 +4918,19 @@
           "notes": [
             {
               "label": "1",
-              "text": "Sincerity."
+              "text": "Sincerity.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 8,
-          "text": "The king that sitteth in the throne of judgment, dissipateth all evil with his look. <na>[1]</na>",
+          "text": "The king that sitteth in the throne of judgement, dissipateth all evil with his look. <na>[1]</na>",
           "notes": [
             {
               "label": "1",
-              "text": "Execution of Justice."
+              "text": "Execution of Justice.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4584,7 +4940,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Necessity of grace."
+              "text": "Necessity of grace.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4594,7 +4951,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Equity."
+              "text": "Equity.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4604,7 +4962,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Good towardliness."
+              "text": "Good towardliness.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4614,7 +4973,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Right use of senses."
+              "text": "Right use of senses.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4624,7 +4984,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Diligent travail."
+              "text": "Diligent travail.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4634,7 +4995,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Prudence."
+              "text": "Prudence.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4644,7 +5006,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Knowledge is a jewel."
+              "text": "Knowledge is a jewel.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4654,7 +5017,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Security in suretyship."
+              "text": "Security in suretyship.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4664,7 +5028,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Truth."
+              "text": "Truth.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4674,7 +5039,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Counsel in war."
+              "text": "Counsel in war.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4684,7 +5050,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Consult with the faithful."
+              "text": "Consult with the faithful.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4694,7 +5061,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Honour of parents."
+              "text": "Honour of parents.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4704,7 +5072,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Lawful gain."
+              "text": "Lawful gain.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4714,7 +5083,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Meekness."
+              "text": "Meekness.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4724,7 +5094,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Equity."
+              "text": "Equity.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4734,7 +5105,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Trust in God's providence."
+              "text": "Trust in God's providence.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4744,7 +5116,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Performance of vows."
+              "text": "Performance of vows.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4754,7 +5127,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Public justice."
+              "text": "Public justice.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4764,7 +5138,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Purity of mind."
+              "text": "Purity of mind.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4774,7 +5149,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Three kingly virtues."
+              "text": "Three kingly virtues.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4784,7 +5160,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Prudence with fortitude."
+              "text": "Prudence with fortitude.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4794,7 +5171,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Punishment of sins."
+              "text": "Punishment of sins.",
+              "kind": "gloss"
             }
           ]
         }
@@ -4809,7 +5187,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "God's providence."
+              "text": "God's providence.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4819,37 +5198,41 @@
           "notes": [
             {
               "label": "1",
-              "text": "ch. 14. v. 12. & 16. v. 2."
+              "text": "ch. 14. v. 12. & 16. v. 2.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 3,
-          "text": "To do mercy and judgment, doth more please our Lord than victims. <na>[1]</na>",
+          "text": "To do mercy and judgement, doth more please our Lord than victims. <na>[1]</na>",
           "notes": [
             {
               "label": "1",
-              "text": "Mercy and judgement."
+              "text": "Mercy and judgement.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 4,
-          "text": "Exaltation of the eyes is the dilation of the heart: the lamp of the impious sin. <na>[1]</na>",
+          "text": "Exaltation of the eyes is the dilatation of the heart: the lamp of the impious sin. <na>[1]</na>",
           "notes": [
             {
               "label": "1",
-              "text": "Humility."
+              "text": "Humility.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 5,
-          "text": "The cogitations of the strong are always in aboundance: but every sluggard is always in poverty. <na>[1]</na>",
+          "text": "The cogitations of the strong are always in abundance: but every sluggard is always in poverty. <na>[1]</na>",
           "notes": [
             {
               "label": "1",
-              "text": "Fortitude."
+              "text": "Fortitude.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4859,17 +5242,19 @@
           "notes": [
             {
               "label": "1",
-              "text": "Truth."
+              "text": "Truth.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 7,
-          "text": "The robberies of the impious shall draw them down, because they would not do judgment. <na>[1]</na>",
+          "text": "The robberies of the impious shall draw them down, because they would not do judgement. <na>[1]</na>",
           "notes": [
             {
               "label": "1",
-              "text": "Equity."
+              "text": "Equity.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4879,7 +5264,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Right in heart."
+              "text": "Right in heart.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4889,7 +5275,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Domestical peace."
+              "text": "Domestical peace.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4899,7 +5286,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Commiseration."
+              "text": "Commiseration.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4909,7 +5297,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Chastisement of sin."
+              "text": "Chastisement of sin.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4919,7 +5308,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Charity."
+              "text": "Charity.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4929,7 +5319,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Alms deeds."
+              "text": "Alms deeds.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4939,27 +5330,30 @@
           "notes": [
             {
               "label": "1",
-              "text": "Alms in secret."
+              "text": "Alms in secret.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 15,
-          "text": "It is a joy to the just to do judgment: and dread to them that work iniquity. <na>[1]</na>",
+          "text": "It is a joy to the just to do judgement: and dread to them that work iniquity. <na>[1]</na>",
           "notes": [
             {
               "label": "1",
-              "text": "Just punishment."
+              "text": "Just punishment.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 16,
-          "text": "Aman, that shall err from the way of doctrine, shall abide in the assembly of giants. <na>[1]</na>",
+          "text": "A man, that shall err from the way of doctrine, shall abide in the assembly of giants. <na>[1]</na>",
           "notes": [
             {
               "label": "1",
-              "text": "Observation of orders."
+              "text": "Observation of orders.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4969,7 +5363,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Temperance & parsimony."
+              "text": "Temperance & parsimony.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4979,7 +5374,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Piety."
+              "text": "Piety.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4989,7 +5385,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Domestical peace."
+              "text": "Domestical peace.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4999,7 +5396,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Frugality."
+              "text": "Frugality.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5009,7 +5407,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Justice and mercy."
+              "text": "Justice and mercy.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5019,7 +5418,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Fortitude."
+              "text": "Fortitude.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5029,7 +5429,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Guard of the tongue."
+              "text": "Guard of the tongue.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5039,7 +5440,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Modesty."
+              "text": "Modesty.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5049,7 +5451,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Diligent travail."
+              "text": "Diligent travail.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5059,7 +5462,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Liberality."
+              "text": "Liberality.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5069,7 +5473,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Sincerity in religion."
+              "text": "Sincerity in religion.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5079,7 +5484,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "True testimony, and sound doctrine."
+              "text": "True testimony, and sound doctrine.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5089,7 +5495,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Amendment of faults."
+              "text": "Amendment of faults.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5099,7 +5506,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Conformity to God's will."
+              "text": "Conformity to God's will.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5109,7 +5517,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "God's grace necessary."
+              "text": "God's grace necessary.",
+              "kind": "gloss"
             }
           ]
         }
@@ -5124,7 +5533,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Honest fame."
+              "text": "Honest fame.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5134,7 +5544,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Contentment without state."
+              "text": "Contentment without state.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5144,7 +5555,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Prudence."
+              "text": "Prudence.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5154,7 +5566,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Poverty of spirit."
+              "text": "Poverty of spirit.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5168,7 +5581,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Good custom in virtues."
+              "text": "Good custom in virtues.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5178,7 +5592,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Diligent travail."
+              "text": "Diligent travail.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5188,7 +5603,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Equity."
+              "text": "Equity.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5198,11 +5614,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "Alms deeds."
+              "text": "Alms deeds.",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "Better to give than to take."
+              "text": "Better to give than to take.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5212,7 +5630,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Expel the incorrigible."
+              "text": "Expel the incorrigible.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5222,7 +5641,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Cleanness of heart."
+              "text": "Cleanness of heart.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5232,7 +5652,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The godly prosper."
+              "text": "The godly prosper.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5242,7 +5663,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Fortitude."
+              "text": "Fortitude.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5252,7 +5674,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Care of chastity."
+              "text": "Care of chastity.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5262,7 +5685,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Chastisement."
+              "text": "Chastisement.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5272,7 +5696,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Compassion."
+              "text": "Compassion.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5282,7 +5707,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Rules of wisdom are necessary, profitable, and upon practice found pleasant: rightly directing all our thoughts, words and deeds."
+              "text": "Rules of wisdom are necessary, profitable, and upon practice found pleasant: rightly directing all our thoughts, words and deeds.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5308,7 +5734,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Care of the poor; because they are dear to God."
+              "text": "Care of the poor; because they are dear to God.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5322,7 +5749,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Fly from evil company which may corrupt thee."
+              "text": "Flee from evil company which may corrupt thee.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5336,7 +5764,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Avoid suretyship, lest thou fall into distress."
+              "text": "Avoid suretyship, lest thou fall into distress.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5350,7 +5779,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Keep ancient traditions."
+              "text": "Keep ancient traditions.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5360,7 +5790,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Diligent travail."
+              "text": "Diligent travail.",
+              "kind": "gloss"
             }
           ]
         }
@@ -5375,27 +5806,29 @@
           "notes": [
             {
               "label": "1",
-              "text": "Modesty and discretion at the table of great persons."
+              "text": "Modesty and discretion at the table of great persons.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 2,
-          "text": "and set a knife in thy throat, if notwithstanding thou have thy soul in thine own power. <na>[1]</na>",
-          "notes": [
-            {
-              "label": "1",
-              "text": "Mediocrity of riches, and contentment with mean state."
-            }
-          ]
+          "text": "and set a knife in thy throat, if notwithstanding thou have thy soul in thine own power."
         },
         {
           "verse": 3,
-          "text": "Desire not his meats, in which is the breath of lying."
+          "text": "Desire not his meats, in which is the bread of lying."
         },
         {
           "verse": 4,
-          "text": "Labour not to be rich: but set a mean to thy prudence."
+          "text": "Labour not to be rich: but set a mean to thy prudence. <na>[1]</na>",
+          "notes": [
+            {
+              "label": "1",
+              "text": "Mediocrity of riches, and contentment with mean state.",
+              "kind": "gloss"
+            }
+          ]
         },
         {
           "verse": 5,
@@ -5407,7 +5840,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Eat not with a niggard, lest he be secretly grieved, outwardly dissembling, and thyself repent it."
+              "text": "Eat not with a niggard, lest he be secretly grieved, outwardly dissembling, and thyself repent it.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5425,7 +5859,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Advise not the uncapable."
+              "text": "Advise not the uncapable.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5435,7 +5870,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Hurt not orphans: for they are dear to God."
+              "text": "Hurt not orphans: for they are dear to God.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5449,7 +5885,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Diligent study of wisdom."
+              "text": "Diligent study of wisdom.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5459,7 +5896,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Moderate chastisement profiteth youth."
+              "text": "Moderate chastisement profiteth youth.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5473,7 +5911,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Virtues of children are joyful to the parents."
+              "text": "Virtues of children are joyful to the parents.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5487,7 +5926,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Contentment with God's will."
+              "text": "Contentment with God's will.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5497,7 +5937,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Hope of reward."
+              "text": "Hope of reward.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5507,7 +5948,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Learn and practise wisdom."
+              "text": "Learn and practise wisdom.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5521,7 +5963,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Sobriety and Temperance."
+              "text": "Sobriety and Temperance.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5531,7 +5974,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Honour of parents."
+              "text": "Honour of parents.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5541,7 +5985,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Wisdom most precious."
+              "text": "Wisdom most precious.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5551,7 +5996,14 @@
           "notes": [
             {
               "label": "1",
-              "text": "See. v. 15. and 16."
+              "text": "See. v. 15. and 16.",
+              "kind": "gloss"
+            }
+          ],
+          "cross_refs": [
+            {
+              "text": "and 26",
+              "source": "sancta"
             }
           ]
         },
@@ -5565,7 +6017,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Bodily and spiritual purity."
+              "text": "Bodily and spiritual purity.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5583,7 +6036,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Detest drunkenness."
+              "text": "Detest drunkenness.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5597,7 +6051,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Drunkenness is deceitful,"
+              "text": "Drunkenness is deceitful,",
+              "kind": "gloss"
             }
           ]
         },
@@ -5607,7 +6062,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "dangerous,"
+              "text": "dangerous,",
+              "kind": "gloss"
             }
           ]
         },
@@ -5617,7 +6073,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "beastly,"
+              "text": "beastly,",
+              "kind": "gloss"
             }
           ]
         },
@@ -5627,7 +6084,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "hurtful to others,"
+              "text": "hurtful to others,",
+              "kind": "gloss"
             }
           ]
         },
@@ -5637,7 +6095,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "senseless, and unsatiable."
+              "text": "senseless, and unsatiable.",
+              "kind": "gloss"
             }
           ]
         }
@@ -5652,7 +6111,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Fly evil company, lest thou be allured to vice."
+              "text": "Flee evil company, lest thou be allured to vice.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5666,7 +6126,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Wisdom and virtues, not wickedness, do prosper temporally and spiritually."
+              "text": "Wisdom and virtues, not wickedness, do prosper temporally and spiritually.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5684,7 +6145,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Counsel in wars, and other great affairs."
+              "text": "Counsel in wars, and other great affairs.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5698,7 +6160,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Good purposes."
+              "text": "Good purposes.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5708,7 +6171,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Report well of others."
+              "text": "Report well of others.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5718,7 +6182,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Fortitude."
+              "text": "Fortitude.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5728,7 +6193,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Works of mercy, according to our ability."
+              "text": "Works of mercy, according to our ability.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5742,7 +6208,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Wisdom is sweet:"
+              "text": "Wisdom is sweet:",
+              "kind": "gloss"
             }
           ]
         },
@@ -5752,7 +6219,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "and giveth hope."
+              "text": "and giveth hope.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5762,7 +6230,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Toleration of other's imperfections:"
+              "text": "Toleration of other's imperfections:",
+              "kind": "gloss"
             }
           ]
         },
@@ -5773,11 +6242,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>Oftentimes. S. Aug. li. 11. c. 31. civit.</i>"
+              "text": "<i>Oftentimes. S. Aug. li. 11. c. 31. civit.</i>",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "Without which none liveth."
+              "text": "Without which none liveth.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5787,7 +6258,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Charity towards enemies."
+              "text": "Charity towards enemies.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5801,7 +6273,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Have peace with all, so much as may be."
+              "text": "Have peace with all, so much as may be.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5815,7 +6288,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Loyalty to God & the King."
+              "text": "Loyalty to God & the King.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5829,7 +6303,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Equity in judgement."
+              "text": "Equity in judgement.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5839,7 +6314,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Condemning the guilty, & delivering the innocent, is very grateful to all."
+              "text": "Condemning the guilty, & delivering the innocent, is very grateful to all.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5857,7 +6333,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Order in all affairs."
+              "text": "Order in all affairs.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5867,7 +6344,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Discretion in bearing witness."
+              "text": "Discretion in bearing witness.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5877,7 +6355,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Revenge not."
+              "text": "Revenge not.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5887,7 +6366,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Diligent labour, and vigilance to provide necessaries, &"
+              "text": "Diligent labour, and vigilance to provide necessaries, &",
+              "kind": "gloss"
             }
           ]
         },
@@ -5918,7 +6398,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The 2. part. More Parables of Salomon written by others."
+              "text": "The 2. part. More Parables of Salomon written by others.",
+              "kind": "head"
             }
           ]
         },
@@ -5928,7 +6409,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "God's works are not all revealed."
+              "text": "God's works are not all revealed.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5938,7 +6420,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Kings have some secrets."
+              "text": "Kings have some secrets.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5952,7 +6435,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Public justice and punishment of sin."
+              "text": "Public justice and punishment of sin.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5962,7 +6446,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Modesty, and"
+              "text": "Modesty, and",
+              "kind": "gloss"
             }
           ]
         },
@@ -5972,7 +6457,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Humility."
+              "text": "Humility.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5982,7 +6468,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Care of other's fame."
+              "text": "Care of others fame.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5992,7 +6479,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Compose controversies secretly, rather than contend in public court."
+              "text": "Compose controversies secretly, rather than contend in public court.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6002,7 +6490,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "From fear."
+              "text": "From fear.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6012,7 +6501,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Speak in due time."
+              "text": "Speak in due time.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6022,7 +6512,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Prudent admonition."
+              "text": "Prudent admonition.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6032,7 +6523,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Diligence in public affairs."
+              "text": "Diligence in public affairs.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6042,7 +6534,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Performance of promised industry."
+              "text": "Performance of promised industry.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6052,7 +6545,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Meekness."
+              "text": "Meekness.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6062,7 +6556,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Temperance."
+              "text": "Temperance.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6072,7 +6567,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Modesty."
+              "text": "Modesty.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6082,7 +6578,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "True testimony."
+              "text": "True testimony.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6092,7 +6589,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Trust not a dissembler."
+              "text": "Trust not a dissembler.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6102,15 +6600,18 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>* A consuming saltish hard earth.</i>"
+              "text": "<i>* A consuming saltish hard earth.</i>",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "Strive not with the incorrigible."
+              "text": "Strive not with the incorrigible.",
+              "kind": "gloss"
             },
             {
               "label": "3",
-              "text": "Alacrity."
+              "text": "Alacrity.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6120,7 +6621,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Charity towards enemies."
+              "text": "Charity towards enemies.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6139,7 +6641,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Hear not detraction."
+              "text": "Hear not detraction.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6149,7 +6652,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Domestical peace."
+              "text": "Domestical peace.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6159,7 +6663,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Joy of well doing."
+              "text": "Joy of well doing.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6169,7 +6674,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Profession of truth."
+              "text": "Profession of truth.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6179,7 +6685,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Humility in knowledge."
+              "text": "Humility in knowledge.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6189,7 +6696,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Government of the tongue."
+              "text": "Government of the tongue.",
+              "kind": "gloss"
             }
           ]
         }
@@ -6204,17 +6712,19 @@
           "notes": [
             {
               "label": "1",
-              "text": "Advance not the vicious."
+              "text": "Advance not the vicious.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 2,
-          "text": "As a bird flying to other places, & a sparrow going whither he lift: so a curse uttered in vain shall light upon some man. <na>[1]</na>",
+          "text": "As a bird flying to other places, & a sparrow going whither he list: so a curse uttered in vain shall light upon some man. <na>[1]</na>",
           "notes": [
             {
               "label": "1",
-              "text": "Patience in false slander."
+              "text": "Patience in false slander.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6224,7 +6734,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Chastisement."
+              "text": "Chastisement.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6234,7 +6745,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Answer a fool wisely: detecting his folly."
+              "text": "Answer a fool wisely: detecting his folly.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6248,7 +6760,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Place fit men in office:"
+              "text": "Place fit men in office:",
+              "kind": "gloss"
             }
           ]
         },
@@ -6258,7 +6771,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Wise men in authority:"
+              "text": "Wise men in authority:",
+              "kind": "gloss"
             }
           ]
         },
@@ -6268,7 +6782,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Virtuous in honour, and"
+              "text": "Virtuous in honour, and",
+              "kind": "gloss"
             }
           ]
         },
@@ -6278,7 +6793,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Learned to teach."
+              "text": "Learned to teach.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6288,7 +6804,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Make fools to keep silence."
+              "text": "Make fools to keep silence.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6298,8 +6815,12 @@
           "notes": [
             {
               "label": "1",
-              "text": "Return not to former sins."
+              "text": "Return not to former sins.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "2. Pet. 2."
           ]
         },
         {
@@ -6308,7 +6829,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Humble opinion of thyself."
+              "text": "Humble opinion of thyself.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6318,7 +6840,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Fortitude."
+              "text": "Fortitude.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6328,17 +6851,19 @@
           "notes": [
             {
               "label": "1",
-              "text": "Profitable labours."
+              "text": "Profitable labours.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 15,
-          "text": "The slothful hideth his hand under the arm-hole, and is grieved if he turneth it to his mouth. <na>[1]</na>",
+          "text": "The slothful hideth his hand under the armhole, and is grieved if he turneth it to his mouth. <na>[1]</na>",
           "notes": [
             {
               "label": "1",
-              "text": "At least some good work."
+              "text": "At least some good work.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6348,7 +6873,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Love not idleness."
+              "text": "Love not idleness.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6358,7 +6884,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Intermeddle not in brawls."
+              "text": "Intermeddle not in brawls.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6372,7 +6899,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Unfeigned friendship, especially in familiar acquaintance."
+              "text": "Unfeigned friendship, especially in familiar acquaintance.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6382,7 +6910,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Punish bate-makers."
+              "text": "Punish bate-makers.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6392,7 +6921,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Pacify the wrathful."
+              "text": "Pacify the wrathful.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6402,7 +6932,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Hear not whisperers of evil reports."
+              "text": "Hear not whisperers of evil reports.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6412,7 +6943,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Fly from hypocrites."
+              "text": "Fly from hypocrites.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6422,7 +6954,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Whose flattery and soft speech are suspicious, they will fall at last into their own traps, truth prevailing."
+              "text": "Whose flattery and soft speech are suspicious, they will fall at last into their own traps, truth prevailing.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6453,7 +6986,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Trust not to future uncertainties."
+              "text": "Trust not to future uncertainties.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6463,7 +6997,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Praise not thyself."
+              "text": "Praise not thyself.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6473,7 +7008,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Beware of a fool's wrath:"
+              "text": "Beware of a fool's wrath:",
+              "kind": "gloss"
             }
           ]
         },
@@ -6483,7 +7019,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "for it hath no mercy."
+              "text": "for it hath no mercy.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6493,7 +7030,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Love friendly severity, not enemy's flattery."
+              "text": "Love friendly severity, not enemy's flattery.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6507,7 +7045,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Temperance in meat."
+              "text": "Temperance in meat.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6517,17 +7056,19 @@
           "notes": [
             {
               "label": "1",
-              "text": "Just care of thy family."
+              "text": "Just care of thy family.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 9,
-          "text": "The heart is delighted with ointment and diverse odours: and with the good counsels of a friend the soul is sweetened. <na>[1]</na>",
+          "text": "The heart is delighted with ointment and divers odours: and with the good counsels of a friend the soul is sweetened. <na>[1]</na>",
           "notes": [
             {
               "label": "1",
-              "text": "Esteem friendly counsel."
+              "text": "Esteem friendly counsel.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6537,7 +7078,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Old friends are better, & surer than a kinsman."
+              "text": "Old friends are better, & surer than a kinsman.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6547,7 +7089,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Be wise even for thy father's sake."
+              "text": "Be wise even for thy father's sake.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6561,7 +7104,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Foresee and prevent dangers. Trust not enemies."
+              "text": "Foresee and prevent dangers. Trust not enemies.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6571,7 +7115,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Suspect extraordinary courtesy."
+              "text": "Suspect extraordinary courtesy.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6581,13 +7126,14 @@
           "notes": [
             {
               "label": "1",
-              "text": "Tolerate incorrigible brawlers with patience; lest they become worse by thy striving to amend them."
+              "text": "Tolerate incorrigible brawlers with patience; lest they become worse by thy striving to amend them.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 16,
-          "text": "He that retaineth her, as he that should hold the wind, and shall call it the oil of his right hand."
+          "text": "He that retaineth her, as he that should hold the wind, and shall call in the oil of his right hand."
         },
         {
           "verse": 17,
@@ -6595,11 +7141,12 @@
         },
         {
           "verse": 18,
-          "text": "He that keepeth the figtree, shall eat the fruits thereof: and he that is the keeper of his master, shall be glorified. <na>[1]</na>",
+          "text": "He that keepeth the figtree, shall eat the fruit thereof: and he that is the keeper of his master, shall be glorified. <na>[1]</na>",
           "notes": [
             {
               "label": "1",
-              "text": "Conserve that is good."
+              "text": "Conserve that is good.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6609,7 +7156,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Conscience is best witness."
+              "text": "Conscience is best witness.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6619,7 +7167,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Contentment with our state."
+              "text": "Contentment with our state.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6629,21 +7178,24 @@
           "notes": [
             {
               "label": "1",
-              "text": "Humility desireth not praise."
+              "text": "Humility desireth not praise.",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "Right of heart."
+              "text": "Right of heart.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 22,
-          "text": "If thou shall bray a fool in a mortar, as when a pestle striketh upon ptisane, his folly shall not be taken from him. <na>[1]</na>",
+          "text": "If thou shalt bray a fool in a mortar, as when a pestle striketh upon ptisane, his folly shall not be taken from him. <na>[1]</na>",
           "notes": [
             {
               "label": "1",
-              "text": "Strive not to teach a fool."
+              "text": "Strive not to teach a fool.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6653,7 +7205,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Discharge thy duty:"
+              "text": "Discharge thy duty:",
+              "kind": "gloss"
             }
           ]
         },
@@ -6663,7 +7216,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Whiles thou art in this life."
+              "text": "Whiles thou art in this life.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6677,7 +7231,7 @@
         },
         {
           "verse": 27,
-          "text": "Let the milk of the goats suffice thee for thy meats, and for the necessities of thy house: and for victual to thy hand-maids. <cr>[1]</cr><na>[2]</na>",
+          "text": "Let the milk of the goats suffice thee for thy meats, and for the necessities of thy house: and for victual to thy handmaids. <cr>[1]</cr><na>[2]</na>",
           "cross_refs": [
             {
               "label": "2",
@@ -6687,7 +7241,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "Be content with things necessary, and they shall be given to thee."
+              "text": "Be content with things necessary, and they shall be given to thee.",
+              "kind": "gloss"
             }
           ]
         }
@@ -6698,11 +7253,12 @@
       "verses": [
         {
           "verse": 1,
-          "text": "The impious flyeth, no man pursuing: but the just confident as a lion, shall be without terror. <na>[1]</na>",
+          "text": "The impious fleeth, no man pursuing: but the just confident as a lion, shall be without terror. <na>[1]</na>",
           "notes": [
             {
               "label": "1",
-              "text": "Innocency is without fear."
+              "text": "Innocence is without fear.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6712,7 +7268,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "General piety of the people procureth God's favour."
+              "text": "General piety of the people procureth God's favour.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6722,7 +7279,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Neighbourly compassion."
+              "text": "Neighbourly compassion.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6732,17 +7290,19 @@
           "notes": [
             {
               "label": "1",
-              "text": "Zeal of justice."
+              "text": "Zeal of justice.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 5,
-          "text": "Evil men think not on judgment: but they that seek after our Lord, mark all things. <na>[1]</na>",
+          "text": "Evil men think not on judgement: but they that seek after our Lord, mark all things. <na>[1]</na>",
           "notes": [
             {
               "label": "1",
-              "text": "Remember the day of judgement."
+              "text": "Remember the day of judgement.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6752,7 +7312,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Honesty and poverty."
+              "text": "Honesty and poverty.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6762,7 +7323,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Not want nor waste."
+              "text": "No want nor waste.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6772,7 +7334,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Just gain in traffic."
+              "text": "Just gain in traffic.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6782,7 +7345,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Obedience to magistrates."
+              "text": "Obedience to magistrates.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6792,7 +7356,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Give counsel sincerely."
+              "text": "Give counsel sincerely.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6802,7 +7367,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Humility in authority."
+              "text": "Humility in authority.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6812,7 +7378,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Place the godly in office."
+              "text": "Place the godly in office.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6822,7 +7389,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Acknowledge thy faults."
+              "text": "Acknowledge thy faults.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6832,7 +7400,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Fear to offend."
+              "text": "Fear to offend.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6842,7 +7411,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Clemency in Princes,"
+              "text": "Clemency in Princes,",
+              "kind": "gloss"
             }
           ]
         },
@@ -6852,17 +7422,19 @@
           "notes": [
             {
               "label": "1",
-              "text": "and prudent liberality."
+              "text": "and prudent liberality.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 17,
-          "text": "Aman that doth calumniate the blood of a soul, if he shall fly into a lake, no man abideth. <na>[1]</na>",
+          "text": "A man that doth calumniate the blood of a soul, if he shall flee into a lake, no man abideth. <na>[1]</na>",
           "notes": [
             {
               "label": "1",
-              "text": "Revenge bloodshed."
+              "text": "Revenge bloodshed.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6872,7 +7444,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Harmless life."
+              "text": "Harmless life.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6882,7 +7455,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Diligent labour."
+              "text": "Diligent labour.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6892,7 +7466,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Just dealing."
+              "text": "Just dealing.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6902,17 +7477,19 @@
           "notes": [
             {
               "label": "1",
-              "text": "Just judgement."
+              "text": "Just judgement.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 22,
-          "text": "Aman that hasteneth to be rich, and envieth others, is ignorant that poverty shall come upon him. <na>[1]</na>",
+          "text": "A man that hasteneth to be rich, and envieth others, is ignorant that poverty shall come upon him. <na>[1]</na>",
           "notes": [
             {
               "label": "1",
-              "text": "Moderate gain."
+              "text": "Moderate gain.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6922,7 +7499,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Friendly correption."
+              "text": "Friendly correption.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6932,17 +7510,19 @@
           "notes": [
             {
               "label": "1",
-              "text": "To rob parents is a grievous crime."
+              "text": "To rob parents is a grievous crime.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 25,
-          "text": "He that exalteth and dilateth himself, raiseth brawls: but he that trusteth in our Lord, shall be healed. <na>[1]</na>",
+          "text": "He that exulteth and dilateth himself, raiseth brawls: but he that trusteth in our Lord, shall be healed. <na>[1]</na>",
           "notes": [
             {
               "label": "1",
-              "text": "Exalt not thyself."
+              "text": "Exalt not thyself.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6952,7 +7532,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Trust not thine own judgement."
+              "text": "Trust not thine own judgement.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6962,7 +7543,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Alms deeds."
+              "text": "Alms deeds.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6972,7 +7554,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Godly magistrates."
+              "text": "Godly magistrates.",
+              "kind": "gloss"
             }
           ]
         }
@@ -6987,7 +7570,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Love to be corrected."
+              "text": "Love to be corrected.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6997,17 +7581,19 @@
           "notes": [
             {
               "label": "1",
-              "text": "Choose godly magistrates."
+              "text": "Choose godly magistrates.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 3,
-          "text": "Aman that loveth wisdom, maketh his father glad: but he that maintaineth harlots, shall destroy his substance. <na>[1]</na>",
+          "text": "A man that loveth wisdom, maketh his father glad: but he that maintaineth harlots, shall destroy his substance. <na>[1]</na>",
           "notes": [
             {
               "label": "1",
-              "text": "Love wisdom."
+              "text": "Love wisdom.",
+              "kind": "gloss"
             }
           ]
         },
@@ -7017,17 +7603,19 @@
           "notes": [
             {
               "label": "1",
-              "text": "Just and liberal magistrates."
+              "text": "Just and liberal magistrates.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 5,
-          "text": "Aman that with fair and feigned words speaketh to his friend, spreadeth a net to his steps. <na>[1]</na>",
+          "text": "A man that with fair and feigned words speaketh to his friend, spreadeth a net to his steps. <na>[1]</na>",
           "notes": [
             {
               "label": "1",
-              "text": "Sincere amity."
+              "text": "Sincere amity.",
+              "kind": "gloss"
             }
           ]
         },
@@ -7037,7 +7625,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Just joy of the wicked's fall."
+              "text": "Just joy of the wicked's fall.",
+              "kind": "gloss"
             }
           ]
         },
@@ -7047,7 +7636,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Compassion of the poor."
+              "text": "Compassion of the poor.",
+              "kind": "gloss"
             }
           ]
         },
@@ -7057,7 +7647,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Care of common good."
+              "text": "Care of common good.",
+              "kind": "gloss"
             }
           ]
         },
@@ -7067,7 +7658,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Contend not with a fool."
+              "text": "Contend not with a fool.",
+              "kind": "gloss"
             }
           ]
         },
@@ -7077,7 +7669,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Defend the just."
+              "text": "Defend the just.",
+              "kind": "gloss"
             }
           ]
         },
@@ -7087,7 +7680,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Discretion in just anger."
+              "text": "Discretion in just anger.",
+              "kind": "gloss"
             }
           ]
         },
@@ -7097,7 +7691,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Detestation of lying."
+              "text": "Detestation of lying.",
+              "kind": "gloss"
             }
           ]
         },
@@ -7107,7 +7702,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Contentment in state of life."
+              "text": "Contentment in state of life.",
+              "kind": "gloss"
             }
           ]
         },
@@ -7117,7 +7713,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Equity in judgement."
+              "text": "Equity in judgement.",
+              "kind": "gloss"
             }
           ]
         },
@@ -7127,7 +7724,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Chastisement of youth."
+              "text": "Chastisement of youth.",
+              "kind": "gloss"
             }
           ]
         },
@@ -7137,7 +7735,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "God never permitteth all to be evil."
+              "text": "God never permitteth all to be evil.",
+              "kind": "gloss"
             }
           ]
         },
@@ -7147,7 +7746,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Instruct children."
+              "text": "Instruct children.",
+              "kind": "gloss"
             }
           ]
         },
@@ -7157,7 +7757,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Pray to have good Pastors."
+              "text": "Pray to have good Pastors.",
+              "kind": "gloss"
             }
           ]
         },
@@ -7167,7 +7768,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Compel the froward to obey."
+              "text": "Compel the froward to obey.",
+              "kind": "gloss"
             }
           ]
         },
@@ -7177,17 +7779,19 @@
           "notes": [
             {
               "label": "1",
-              "text": "Consideration in speaking."
+              "text": "Consideration in speaking.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 21,
-          "text": "He that nourished his servant delicately from his childhood, afterward shall feel him stubborn. <na>[1]</na>",
+          "text": "He that nourisheth his servant delicately from his childhood, afterward shall feel him stubborn. <na>[1]</na>",
           "notes": [
             {
               "label": "1",
-              "text": "Subdue the flesh to the spirit."
+              "text": "Subdue the flesh to the spirit.",
+              "kind": "gloss"
             }
           ]
         },
@@ -7197,7 +7801,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Meekness."
+              "text": "Meekness.",
+              "kind": "gloss"
             }
           ]
         },
@@ -7207,7 +7812,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Humility."
+              "text": "Humility.",
+              "kind": "gloss"
             }
           ]
         },
@@ -7217,7 +7823,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Participate not with sin."
+              "text": "Participate not with sin.",
+              "kind": "gloss"
             }
           ]
         },
@@ -7227,7 +7834,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Fear not men in God's cause,"
+              "text": "Fear not men in God's cause,",
+              "kind": "gloss"
             }
           ]
         },
@@ -7237,7 +7845,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "remembering that God is Judge of all."
+              "text": "remembering that God is Judge of all.",
+              "kind": "gloss"
             }
           ]
         },
@@ -7247,11 +7856,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "Hate all wickedness."
+              "text": "Hate all wickedness.",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "Obey spiritual and temporal parents."
+              "text": "Obey spiritual and temporal parents.",
+              "kind": "gloss"
             }
           ]
         }
@@ -7271,7 +7882,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "The wisest man best knoweth that he wanteth much of perfect wisdom yet in his humility supposeth, that others have attained somewhat more than himself."
+              "text": "The wisest man best knoweth that he wanteth much of perfect wisdom yet in his humility supposeth, that others have attained somewhat more than himself.",
+              "kind": "gloss"
             }
           ]
         },
@@ -7285,7 +7897,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Christ the Son of God is wisdom itself and as the Son of man hath perfect wisdom."
+              "text": "Christ the Son of God is wisdom itself and as the Son of man hath perfect wisdom.",
+              "kind": "gloss"
             }
           ]
         },
@@ -7315,7 +7928,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Bondslaves are to be pitied, and not affliction added to the afflicted."
+              "text": "Bondslaves are to be pitied, and not affliction added to the afflicted.",
+              "kind": "gloss"
             }
           ]
         },
@@ -7325,7 +7939,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "Four execrable vices: Ingratitude, Hypocrisy. Insolency: Oppression of the poor."
+              "text": "Four execrable vices: Ingratitude, Hypocrisy. Insolency: Oppression of the poor.",
+              "kind": "gloss"
             }
           ]
         },
@@ -7335,7 +7950,7 @@
         },
         {
           "verse": 13,
-          "text": "A generation, whose eyes are lofty, and the eye-lids thereof set up on high."
+          "text": "A generation, whose eyes are lofty, and the eyelids thereof set up on high."
         },
         {
           "verse": 14,
@@ -7343,17 +7958,18 @@
         },
         {
           "verse": 15,
-          "text": "The horseleech hath <na>(e)</na> two daughters that say: Bring, bring. Three things are unsatiable, the fourth never saith it sufficeth.",
+          "text": "The horseleach hath <na>(e)</na> two daughters that say: Bring, bring. Three things are unsatiable, the fourth never sayeth it sufficeth.",
           "notes": [
             {
               "label": "e",
-              "text": "Concupiscence of the flesh, & of the eyes. Envy, Luxury, Avarice, & Ambition."
+              "text": "Concupiscence of the flesh, & of the eyes. Envy, Luxury, Avarice, & Ambition.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 16,
-          "text": "Hell, and the mouth of the matrice, & the earth which is not satisfied with water: but the fire never saith it sufficeth."
+          "text": "Hell, and the mouth of the matrice, & the earth which is not satisfied with water: but the fire never sayeth it sufficeth."
         },
         {
           "verse": 17,
@@ -7361,7 +7977,8 @@
           "notes": [
             {
               "label": "f",
-              "text": "Dishonour of parents shall be severely punished."
+              "text": "Dishonour of parents shall be severely punished.",
+              "kind": "gloss"
             }
           ]
         },
@@ -7375,13 +7992,14 @@
           "notes": [
             {
               "label": "g",
-              "text": "Young men following carnal appetite, can no more give account of their actions, than of the ways which an eagle, a serpent and a ship have passed."
+              "text": "Young men following carnal appetite, can no more give account of their actions, than of the ways which an eagle, a serpent and a ship have passed.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 20,
-          "text": "Such is also the way of an adulterous woman, which eateth, and wiping her mouth saith: I have done no evil."
+          "text": "Such is also the way of an adulterous woman, which eateth, and wiping her mouth sayeth: I have done no evil."
         },
         {
           "verse": 21,
@@ -7393,7 +8011,7 @@
         },
         {
           "verse": 23,
-          "text": "by an odious woman when she shall be taken in matrimony: & by a bond-woman when she shall be heir to her mistress.",
+          "text": "by an odious woman when she shall be taken in matrimony: & by a bondwoman when she shall be heir to her mistress.",
           "has_annotation": true
         },
         {
@@ -7402,7 +8020,8 @@
           "notes": [
             {
               "label": "h",
-              "text": "By these examples are commended four virtues, Industry, Prudence, Concord, and Humility."
+              "text": "By these examples are commended four virtues, Industry, Prudence, Concord, and Humility.",
+              "kind": "gloss"
             }
           ]
         },
@@ -7420,7 +8039,7 @@
         },
         {
           "verse": 28,
-          "text": "The stellion stayeth on his hands, & tarrieth in king's houses."
+          "text": "The stellion stayeth on his hands, & tarrieth in kings houses."
         },
         {
           "verse": 29,
@@ -7428,7 +8047,8 @@
           "notes": [
             {
               "label": "i",
-              "text": "Other four Fortitude, Chastity, Order, and Justice."
+              "text": "Other four Fortitude, Chastity, Order, and Justice.",
+              "kind": "gloss"
             }
           ]
         },
@@ -7446,7 +8066,8 @@
           "notes": [
             {
               "label": "k",
-              "text": "Fools ought not to govern."
+              "text": "Fools ought not to govern.",
+              "kind": "gloss"
             }
           ]
         },
@@ -7456,7 +8077,8 @@
           "notes": [
             {
               "label": "l",
-              "text": "Moderation is necessary in all actions."
+              "text": "Moderation is necessary in all actions.",
+              "kind": "gloss"
             }
           ]
         }
@@ -7478,7 +8100,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Words pertaining to Salomon, spoken to him by his mother: who here calleth him Lamuel, signifying, <i>God with him.</i>"
+              "text": "Words pertaining to Salomon, spoken to him by his mother: who here calleth him Lamuel, signifying, <i>God with him.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -7508,11 +8131,12 @@
         },
         {
           "verse": 8,
-          "text": "Open thy mouth to <na>(b)</na> the dumb, & to the causes of all the children that pass:",
+          "text": "Open thy mouth to <na>(b)</na> the dumb, & to the cause of all the children that pass:",
           "notes": [
             {
               "label": "b",
-              "text": "Doctrine is most profitable to those, that are modestly dumb, more willing to hear than to speak."
+              "text": "Doctrine is most profitable to those, that are modestly dumb, more willing to hear than to speak.",
+              "kind": "gloss"
             }
           ]
         },
@@ -7522,7 +8146,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "The chief & most proper office of a King is to do justice."
+              "text": "The chief & most proper office of a King is to do justice.",
+              "kind": "gloss"
             }
           ]
         },
@@ -7533,7 +8158,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "A woman of such perfection as is here described, is indeed rare, yet possible to be found."
+              "text": "A woman of such perfection as is here described, is indeed rare, yet possible to be found.",
+              "kind": "gloss"
             }
           ]
         },
@@ -7575,7 +8201,8 @@
           "notes": [
             {
               "label": "e",
-              "text": "Flax on the distaff signifieth purpose to do good works, yarn on the spindle the work well begun, which giveth confidence in God that the same shall be perfect and have due reward."
+              "text": "Flax on the distaff signifieth purpose to do good works, yarn on the spindle the work well begun, which giveth confidence in God that the same shall be perfect and have due reward.",
+              "kind": "gloss"
             }
           ]
         },
@@ -7601,7 +8228,8 @@
           "notes": [
             {
               "label": "f",
-              "text": "They make and sell cloth, which learning and observing God's law, do teach it others."
+              "text": "They make and sell cloth, which learning and observing God's law, do teach it others.",
+              "kind": "gloss"
             }
           ]
         },
@@ -7631,7 +8259,8 @@
           "notes": [
             {
               "label": "g",
-              "text": "External comeliness is not durable: but the fear of God is more worthy of praise."
+              "text": "External comeliness is not durable: but the fear of God is more worthy of praise.",
+              "kind": "gloss"
             }
           ]
         },
@@ -7641,11 +8270,13 @@
           "notes": [
             {
               "label": "h",
-              "text": "Good works shall be rewarded,"
+              "text": "Good works shall be rewarded,",
+              "kind": "gloss"
             },
             {
               "label": "i",
-              "text": "at the tribunal seat of judgement."
+              "text": "at the tribunal seat of judgement.",
+              "kind": "gloss"
             }
           ]
         }

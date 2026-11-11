@@ -270,6 +270,9 @@
             {
               "text": "Act. 14, 15. 17, 24."
             }
+          ],
+          "xrefs": [
+            "Acts 14:15; 17:24. Ps. 32:6; 135:5. Ecclus. 10:1. Heb. 11:3. Job 38. Jer. 10:13."
           ]
         },
         {
@@ -310,7 +313,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "The firmament is all the space from the earth to the highest stars: the lowest part divideth between the waters on the earth and the waters in the air. S. Aug. l. 11. de Gen. ad lit c. 4."
+              "text": "The firmament is all the space from the earth to the highest stars: the lowest part divideth between the waters on the earth and the waters in the air. S. Aug. l. 11. de Gen. ad lit c. 4.",
+              "kind": "gloss"
             }
           ]
         },
@@ -324,7 +328,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Likewise heaven is all the space above the earth; in whose lowest part are birds and waters, in the higher part stars: the highest is the Empyreal heaven. Esa. 66."
+              "text": "Likewise heaven is all the space above the earth; in whose lowest part are birds and waters, in the higher part stars: the highest is the Empyreal heaven. Esa. 66.",
+              "kind": "gloss"
             }
           ]
         },
@@ -354,7 +359,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "The lights made the first day are disposed the fourth day in their proper courses for more distinction of times. S. Dionys. ca. 4. de divin. nom. S. Tho. p. 1. q. 67. a. 4. & q. 70. a. 2."
+              "text": "The lights made the first day are disposed the fourth day in their proper courses for more distinction of times. S. Dionys. ca. 4. de divin. nom. S. Tho. p. 1. q. 67. a. 4. & q. 70. a. 2.",
+              "kind": "gloss"
             }
           ]
         },
@@ -369,7 +375,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "The Sun & Moon: for though the moon be the least visible star except Mercury, yet it giveth more light on the earth by reason it is nearer, & so Moyses speaketh according to the vulgar capacity and use of things. S. Aug. l. 2. de Gen. ad lit. cap. 16."
+              "text": "The Sun & Moon: for though the moon be the least visible star except Mercury, yet it giveth more light on the earth by reason it is nearer, & so Moyses speaketh according to the vulgar capacity and use of things. S. Aug. l. 2. de Gen. ad lit. ca. 16.",
+              "kind": "gloss"
             }
           ]
         },
@@ -417,15 +424,21 @@
             {
               "text": "Col. 3, 10."
             }
+          ],
+          "xrefs": [
+            "Col. 3:10."
           ]
         },
         {
           "verse": 27,
-          "text": "And God created man to his own image: to the image of God he created him, male and female he created them."
+          "text": "And God created man to his own image: to the image of God he created him, male and female he created them.",
+          "xrefs": [
+            "Matt. 19:4."
+          ]
         },
         {
           "verse": 28,
-          "text": "And God blessed them, and saith: <cr>[1]</cr> Increase and multiply, and replenish the earth, and subdue it, and rule over the fishes and the sea, and fowls of the air & all living creatures that move upon the earth.",
+          "text": "And God blessed them, and saith: <cr>[1]</cr> Increase and multiply, and replenish the earth, and subdue it, and rule over the fishes of the sea, and fowls of the air & all living creatures that move upon the earth.",
           "has_annotation": true,
           "cross_refs": [
             {
@@ -447,7 +460,8 @@
           "notes": [
             {
               "label": "e",
-              "text": "Every creature in nature is good, but all considered together make the whole world perfect, most apt to man's use and God's glory. S. Aug. li. 1. de Gen. cont. Manich. ca. 21."
+              "text": "Every creature in nature is good, but all considered together make the whole world perfect, most apt to man's use and God's glory. S. Aug. li. 1. de Gen. cont. Manich. ca. 21.",
+              "kind": "gloss"
             }
           ]
         }
@@ -479,8 +493,12 @@
           "notes": [
             {
               "label": "1",
-              "text": "God createth not new kinds of creatures, yet still worketh. Io. 5, 17. conserving & governing all things, and createth souls, grace, & glory of the same kind. S. Aug. l. 4. de Gen. ad lit. c. 12."
+              "text": "God createth not new kinds of creatures, yet still worketh. Io. 5, 17. conserving & governing all things, and createth souls, grace, & glory of the same kind. S. Aug. l. 4. de Gen. ad lit. c. 12.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Exod. 20:11. Deut. 5:14. Heb. 4:4."
           ]
         },
         {
@@ -510,8 +528,12 @@
           "notes": [
             {
               "label": "a",
-              "text": "Man's soul is immediately created by God, not produced of other substance, as the souls of beasts and plants are."
+              "text": "Man's soul is immediately created by God, not produced of other substance, as the souls of beasts and plants are.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "1 Cor. 15:45."
           ]
         },
         {
@@ -520,7 +542,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Whether this Paradise be now extant is uncertain, though it be certain that Enoch & Elias are yet living in earth. <i>S. Aug. l. 2. cont. Pelagi. c. 23. See Pererius. l. 3. q. 5. & l. 7. q. ultima.</i>"
+              "text": "Whether this Paradise be now extant is uncertain, though it be certain that Enoch & Elias are yet living in earth. <i>S. Aug. l. 2. cont. Pelagi. c. 23. See Pererius. li. 3. q. 5. & li. 7. q. ultima.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -575,7 +598,7 @@
         },
         {
           "verse": 21,
-          "text": "Our Lord God therefore cast a deep sleep upon Adam: and when he was fast asleep, he took one of his ribs, & filled up flesh for it."
+          "text": "Our Lord God therefore cast a dead sleep upon Adam: and when he was fast asleep, he took one of his ribs, & filled up flesh for it."
         },
         {
           "verse": 22,
@@ -583,11 +606,13 @@
           "notes": [
             {
               "label": "c",
-              "text": "As we say brick is made of earth, and a house is built of brick: so Adam was made of earth, & Eve built of a rib of Adam. And that of one rib, as if God should build a house of one brick, or as indeed he fed 5000. men with five loaves. <i>Chris. ho. 15. S. Aug. Tract. 24. in Joan. S. Tho. p. 1. q. 92. a. 3.</i>"
+              "text": "As we say brick is made of earth, and a house is built of brick: so Adam was made of earth, & Eve built of a rib of Adam. And that of one rib, as if God should build a house of one brick, or as indeed he fed 5000. men with five loaves. <i>Chris. ho. 15. S. Aug. Tract. 24. in Joan. S. Tho. p. 1. q. 92. a. 3.</i>",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "Mat. 19, 5. Mat. 10, 7. 1. Cor. 6, 16. Eph 5, 31."
+              "text": "Mat. 19, 5. Mat. 10, 7. 1. Cor. 6, 16. Eph 5, 31.",
+              "kind": "gloss"
             }
           ]
         },
@@ -601,8 +626,12 @@
           "notes": [
             {
               "label": "d",
-              "text": "Not three, nor four, nor more, for then two were changed to another number. S. Jer. l. 1. cont. Iovi."
+              "text": "Not three, nor four, nor more, for then two were changed to another number. S. Jer. l. 1. cont. Iovi.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Matt. 19:5. Mark 10:7. 1 Cor. 6:16. Eph. 5:31."
           ]
         },
         {
@@ -622,7 +651,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Serpents most crafty to escape harm when they hurt men: so is the devil."
+              "text": "Serpents most crafty to escape harm when they hurt men: so is the devil.",
+              "kind": "gloss"
             }
           ]
         },
@@ -645,7 +675,10 @@
         },
         {
           "verse": 5,
-          "text": "For God doth know that in what day soever you shall eat thereof, your eyes shall be opened: and you shall be as gods, knowing good and evil."
+          "text": "For God doth know that in what day soever you shall eat thereof, your eyes shall be opened: and you shall be as gods, knowing good and evil.",
+          "xrefs": [
+            "2 Cor. 11:3."
+          ]
         },
         {
           "verse": 6,
@@ -662,8 +695,12 @@
           "notes": [
             {
               "label": "b",
-              "text": "After sin they were ashamed, not before. <i>S. Chrisos.</i>"
+              "text": "After sin they were ashamed, not before. <i>S. Chrisos.</i>",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Ecclus. 25. 1 Tim. 2:14."
           ]
         },
         {
@@ -680,7 +717,7 @@
         },
         {
           "verse": 11,
-          "text": "To whom he said: And who hath told thee that thou wast naked, but that thou hast eaten of the tree, whereof I commanded thee that thou shouldst not eat?"
+          "text": "To whom he said: And who hath told thee that thou wast naked, but that thou hast eaten of the tree, whereof I commanded thee that thou shouldest not eat?"
         },
         {
           "verse": 12,
@@ -696,22 +733,25 @@
           "notes": [
             {
               "label": "c",
-              "text": "All this curse pertaineth to the devil that spake in the serpent. <i>S. Aug. l. 2. de Gen. ad lit. c. 36. S. Beda in hunc locum.</i>"
+              "text": "All this curse pertaineth to the devil that spake in the serpent. <i>S. Aug. l. 2. de Gen. ad lit. c. 36. S. Beda in hunc locum.</i>",
+              "kind": "gloss"
             },
             {
               "label": "d",
-              "text": "Earthly or worldly and carnal men S. Greg. in"
+              "text": "Earthly or worldly and carnal men S. Greg. in",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 15,
-          "text": "I will put enmity between thee & the woman, & thy seed and the seed of her: she shall bruise thy head in pieces, and thou shalt lie in wait <na>(e)</na> of her heel.",
+          "text": "I will put enmities between thee & the woman, & thy seed and the seed of her: she shall bruise thy head in pieces, and thou shalt lie in wait <na>(e)</na> of her heel.",
           "has_annotation": true,
           "notes": [
             {
               "label": "e",
-              "text": "Though good men resist tentations at the first assaults, and so bruise the serpent's head, yet he endeavoureth still to deceive especially in the end of man's life, signified by the heel. S. Gre. in cap. 1. Iob."
+              "text": "Though good men resist temptations at the first assaults, and so bruise the serpent's head, yet he endeavoureth still to deceive especially in the end of man's life, signified by the heel. St. Gregory. in cap. 1. Iob.",
+              "kind": "gloss"
             }
           ]
         },
@@ -722,15 +762,19 @@
             {
               "text": "1. Cor. 14."
             }
+          ],
+          "xrefs": [
+            "1 Cor. 14."
           ]
         },
         {
           "verse": 17,
-          "text": "And to Adam he said: Because thou hast heard the voice of thy wife, and hast eaten of the tree wherefore I commanded thee that thou shouldst not eat, cursed is the earth in thy work: with <na>(f)</na> much toiling shalt thou eat thereof all the days of thy life.",
+          "text": "And to Adam he said: Because thou hast heard the voice of thy wife, and hast eaten of the tree whereof I commanded thee that thou shouldest not eat, cursed is the earth in thy work: with <na>(f)</na> much toiling shalt thou eat thereof all the days of thy life.",
           "notes": [
             {
               "label": "f",
-              "text": "All men travail one way or other: & such as suffer weeds to overgrow (in their souls) shall after this life either sustain the fire of Purgatory, or eternal pain. <i>S. Aug. l. 2. c.</i> 20. Gen. con. Man."
+              "text": "All men travail one way or other: & such as suffer weeds to overgrow (in their souls) shall after this life either sustain the fire of Purgatory, or eternal pain. <i>S. Aug. l. 2. c.</i> 20. Gen. co. Man.",
+              "kind": "gloss"
             }
           ]
         },
@@ -749,7 +793,8 @@
           "notes": [
             {
               "label": "g",
-              "text": "She was mother rather of all the dying: but in figure of our B. Lady who is mother of Christ, life itself, she is called mother of the living. S. Epiph. her. 78."
+              "text": "She was mother rather of all the dying: but in figure of our B. Lady who is mother of Christ, life itself, she is called mother of the living. S. Epiph. her. 78.",
+              "kind": "gloss"
             }
           ]
         },
@@ -803,13 +848,17 @@
         },
         {
           "verse": 4,
-          "text": "Abel also <na>(a)</na> offered of the first-begotten of his flock, and of their fat: and our Lord had respect of Abel, & to his gifts.",
+          "text": "Abel also <na>(a)</na> offered of the first begotten of his flock, and of their fat: and our Lord had respect to Abel, & to his gifts.",
           "has_annotation": true,
           "notes": [
             {
               "label": "a",
-              "text": "A figure of the Lamb that was slain from the beginning of the world. <i>Apoc. 13. v. 8.</i>"
+              "text": "A figure of the Lamb that was slain from the beginning of the world. <i>Apoc. 13. v. 8.</i>",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Heb. 11."
           ]
         },
         {
@@ -822,7 +871,7 @@
         },
         {
           "verse": 7,
-          "text": "If thou do well, shall thou not receive again: but if thou doest ill, shall not thy sin forthwith be present at the door? But the lust thereof shall be under thee, and thou shalt have dominion over it.",
+          "text": "If thou do well, shalt thou not receive again: but if thou doest ill, shall not thy sin forthwith be present at the door? But the lust thereof shall be under thee, and thou shalt have dominion over it.",
           "has_annotation": true
         },
         {
@@ -832,6 +881,9 @@
             {
               "text": "Sap. 10."
             }
+          ],
+          "xrefs": [
+            "Sap. 10."
           ]
         },
         {
@@ -841,15 +893,19 @@
             {
               "text": "1. Io. 3."
             }
+          ],
+          "xrefs": [
+            "1 John 3."
           ]
         },
         {
           "verse": 10,
-          "text": "And he said to him: what hast thou done? <na>(b)</na> The voice of thy brother's blood cryeth to me out of the earth.",
+          "text": "And he said to him: what hast thou done? <na>(b)</na> The voice of thy brother's blood crieth to me out of the earth.",
           "notes": [
             {
               "label": "b",
-              "text": "Willful murder is one of the sins that cry to God for revenge."
+              "text": "Wilful murder is one of the sins that cry to God for revenge.",
+              "kind": "gloss"
             }
           ]
         },
@@ -884,7 +940,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "By the increase of Abraham's seed (by the line only of Isaac and Jacob, besides themselves of Ismael and Esau) in little more than 400. years to above six hundred thousand men able to bear arms <i>(Num. 1.)</i> it appeareth that Cain's progeny in as many years might suffice to people a city, yea a whole country. S. Aug. l. civit. c. 8."
+              "text": "By the increase of Abraham's seed (by the line only of Isaac and Jacob, besides themselves of Ismael and Esau) in little more than 400. years to above six hundred thousand men able to bear arms <i>(Num. 1.)</i> it appeareth that Cain's progeny in as many years might suffice to people a city, yea a whole country. S. Aug. l. civit. c. 8.",
+              "kind": "gloss"
             }
           ]
         },
@@ -898,7 +955,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "This Lamech of Cain's issue, is the first that is noted in Scripture to have taken two wives."
+              "text": "This Lamech of Cain's issue, is the first that is noted in Scripture to have taken two wives.",
+              "kind": "gloss"
             }
           ]
         },
@@ -921,7 +979,7 @@
         },
         {
           "verse": 24,
-          "text": "Seven-fold vengeance shall be taken of Cain: but of Lamech seventy times seven-fold."
+          "text": "Sevenfold vengeance shall be taken of Cain: but of Lamech seventy times seven-fold."
         },
         {
           "verse": 25,
@@ -945,6 +1003,9 @@
             {
               "text": "Sap. 2, 24. Eccl. 17, 1."
             }
+          ],
+          "xrefs": [
+            "Sap. 2:24. & Eccli. 17:1."
           ]
         },
         {
@@ -953,7 +1014,7 @@
         },
         {
           "verse": 3,
-          "text": "And Adam lived an hundred and thirty years; & begat to his own image and likeness, and called his name Seth."
+          "text": "And Adam lived a hundred and thirty years; & begat to his own image and likeness, and called his name Seth."
         },
         {
           "verse": 4,
@@ -967,7 +1028,7 @@
         },
         {
           "verse": 6,
-          "text": "Set also lived an hundred five years, and begat Enos."
+          "text": "Seth also lived a hundred five years, and begat Enos."
         },
         {
           "verse": 7,
@@ -1015,7 +1076,7 @@
         },
         {
           "verse": 18,
-          "text": "And Jared lived an hundred sixty two years, and begat Enoch."
+          "text": "And Jared lived a hundred sixty two years, and begat Enoch."
         },
         {
           "verse": 19,
@@ -1035,7 +1096,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "This Hebrew phrase <i>walked with God,</i> signifieth that he lived well & pleased God."
+              "text": "This Hebrew phrase <i>walked with God,</i> signifieth that he lived well & pleased God.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1050,13 +1112,14 @@
           "notes": [
             {
               "label": "b",
-              "text": "The seventy two Interpreters say, God translated him, and so doth S. Paul. <i>Heb. 11.</i>"
+              "text": "The seventy two Interpreters say, God translated him, and so doth S. Paul. <i>Heb. 11.</i>",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 25,
-          "text": "Mathusala also lived an hundred eighty seven years, and begat Lamech."
+          "text": "Mathusala also lived a hundred eighty seven years, and begat Lamech."
         },
         {
           "verse": 26,
@@ -1068,13 +1131,14 @@
           "notes": [
             {
               "label": "c",
-              "text": "This is the longest life of all here recited. But if we consider that Adam was as strong of body the first day he was created, as these others were at the age of 60. years (before which, none are said to have begot children & so subtract 60. years from Mathusala, then Adam lived in man's state longer than he by 21. years."
+              "text": "This is the longest life of all here recited. But if we consider that Adam was as strong of body the first day he was created, as these others were at the age of 60. years (before which, none are said to have begot children & so subtract 60. years from Mathusala, then Adam lived in man's state longer than he by 21. years.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 28,
-          "text": "And Lamech lived an hundred eighty two years, & begat a son:"
+          "text": "And Lamech lived a hundred eighty two years, & begat a son:"
         },
         {
           "verse": 29,
@@ -1090,7 +1154,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "The second prophecy before Mass on Easter Eve."
+              "text": "The second prophecy before Mass on Easter Eve.",
+              "kind": "gloss"
             }
           ]
         }
@@ -1111,7 +1176,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "The professors of true religion were called the sons of God; the followers of errors the sons of men."
+              "text": "The professors of true religion were called the sons of God; the followers of errors the sons of men.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1136,7 +1202,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "God who is immutable, & subject to no passion, yet by the enormity of sins seemeth provoked to wrath, and to repent that he had made man. <i>S. Amb. li. de Noe & arca. c. 4.</i>"
+              "text": "God who is immutable, & subject to no passion, yet by the enormity of sins seemeth provoked to wrath, and to repent that he had made man. <i>S. Amb. li. de Noe & arca. c. 4.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -1155,12 +1222,17 @@
           "notes": [
             {
               "label": "c",
-              "text": "In all generations God reserved some just. Much more in the law of Grace."
+              "text": "In all generations God reserved some just. Much more in the law of Grace.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "Eccl. 44. 17."
+              "text": "Eccl. 44. 17.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Ecclus. 44:17."
           ]
         },
         {
@@ -1218,11 +1290,13 @@
           "notes": [
             {
               "label": "d",
-              "text": "A right example of a just man."
+              "text": "A right example of a just man.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "Heb. 11."
+              "text": "Heb. 11.",
+              "kind": "gloss"
             }
           ]
         }
@@ -1238,7 +1312,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Noe was just not only by the estimation of men, but indeed and before God."
+              "text": "Noe was just not only by the estimation of men, but indeed and before God.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1248,7 +1323,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Observation of clean and unclean beasts by tradition, before the law of Moyses."
+              "text": "Observation of clean and unclean beasts by tradition, before the law of Moyses.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1275,6 +1351,9 @@
             {
               "text": "Mat. 24. Luc. 17."
             }
+          ],
+          "xrefs": [
+            "Matt. 24. Luke 17."
           ]
         },
         {
@@ -1291,15 +1370,17 @@
         },
         {
           "verse": 11,
-          "text": "In the six hundred year of the life of Noe, in the second month, in the seventeenth day of the month, all the fountains of the <na>(c)</na> great depth were broken up, and <na>(d)</na> the flood-gates of heaven were opened:",
+          "text": "In the six hundred year of the life of Noe, in the second month, in the seventeenth day of the month, all the fountains of the <na>(c)</na> great depth were broken up, and <na>(d)</na> the floodgates of heaven were opened:",
           "notes": [
             {
               "label": "c",
-              "text": "The Hebrew word <i>Thehom</i> signifieth a gulf of water, from whence new fountains sprang, more abundantly than ever since or before."
+              "text": "The Hebrew word <i>Thehom</i> signifieth a gulf of water, from whence new fountains sprang, more abundantly then ever since or before.",
+              "kind": "gloss"
             },
             {
               "label": "d",
-              "text": "<i>Arubbah</i> signifieth great pipes or windows, by which water fell down in great abundance from the air, here called heaven. <i>S. Hier. quest. Heb. S. Epiph, ad Io. Hierosolym. S. Chr. ho. 25. in Gen.</i>"
+              "text": "<i>Arubbah</i> signifieth great pipes or windows, by which water fell down in great abundance from the air, here called heaven. <i>S. Hier. quest. Heb. S. Epiph, ad Io. Hierosolym. S. Chr. ho. 25. in Gen.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -1355,12 +1436,15 @@
         },
         {
           "verse": 23,
-          "text": "<cr>[1]</cr> And he clean destroyed all substance that was upon the earth, from man even to beast, as well it that creepeth, as the fowls of the air: and they were destroyed from off the earth: but only Noe remained, and they that were with him in the ark.",
+          "text": "<cr>[1]</cr> And he clean destroyed all substance that was upon the earth, from man even to beast, as well it that creepeth, as the fowls of the air: and they were destroyed from of the earth: but only Noe remained, and they that were with him in the ark.",
           "has_annotation": true,
           "cross_refs": [
             {
               "text": "Eccl. 39."
             }
+          ],
+          "xrefs": [
+            "Sap. 10:4. Ecclus. 39."
           ]
         },
         {
@@ -1370,6 +1454,9 @@
             {
               "text": "1. Pet. 3."
             }
+          ],
+          "xrefs": [
+            "1 Pet. 3."
           ]
         }
       ],
@@ -1384,7 +1471,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The third part of this book. Of the new increase & multiplication of the world."
+              "text": "The third part of this book. Of the new increase & multiplication of the world.",
+              "kind": "head"
             }
           ]
         },
@@ -1394,7 +1482,7 @@
         },
         {
           "verse": 3,
-          "text": "And the waters returned from the earth going & coming: and they began to decrease after an hundred fifty days."
+          "text": "And the waters returned from the earth going & coming: and they began to decrease after a hundred fifty days."
         },
         {
           "verse": 4,
@@ -1414,7 +1502,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "The crow returned not into the ark, but (as appeareth by the Hebrew text) going and returning rested upon the ark."
+              "text": "The crow returned not into the ark, but (as appeareth by the Hebrew text) going and returning rested upon the ark.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1448,7 +1537,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "They entered into the ark the 17. day, the second month of the other year: so they remained there a whole year & ten days."
+              "text": "They entered into the ark the 17. day, the second month of the other year: so they remained there a whole year & ten days.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1487,7 +1577,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "In the whole year of the flood was no sowing nor reaping, nor pleasant variety of times, but all desolate and miserable: hence forth God promiseth more seasonable times. S. Amb. li. de Noe & Arca. c. 33."
+              "text": "In the whole year of the flood was no sowing nor reaping, nor pleasant variety of times, but all desolate and miserable: hence forth God promiseth more seasonable times. S. Amb. li. de Noe & Arca. c. 33.",
+              "kind": "gloss"
             }
           ]
         }
@@ -1885,7 +1976,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Of this commandment, or rather blessing see the Annotations chap. 1. v. 28."
+              "text": "Of this commandment, or rather blessing see the Annotations chap. 1. v. 28.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1906,6 +1998,9 @@
             {
               "text": "Levi. 17."
             }
+          ],
+          "xrefs": [
+            "Levit. 17."
           ]
         },
         {
@@ -1934,7 +2029,7 @@
         },
         {
           "verse": 11,
-          "text": "I will establish my covenant with you, and all flesh shall be no more destroyed with the waters of a flood, neither shall there be from hence-forth a flood to waste the earth."
+          "text": "I will establish my covenant with you, and all flesh shall be no more destroyed with the waters of a flood, neither shall there be from henceforth a flood to waste the earth."
         },
         {
           "verse": 12,
@@ -1946,7 +2041,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "The rainbow was before, but was not a sign, as God saith hence forth it should be, for men to remember his promise. <i>Severianus in Gen. S. Tho. Quodlib. 3. a. 30.</i>"
+              "text": "The rainbow was before, but was not a sign, as God saith henceforth it should be, for men to remember his promise. <i>Severianus in Gen. S. Tho. Quodlib. 3. a. 30.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -1976,7 +2072,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "By this it is clear that Noe had no more children after the flood. <i>S. Chrysost. ho. 29. in Gen.</i>"
+              "text": "By this it is clear that Noe had no more children after the flood. <i>S. Chrysost. ho. 29. in Gen.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -1995,7 +2092,7 @@
         },
         {
           "verse": 23,
-          "text": "But indeed Sem and Japhet put a cloak upon their shoulders, and going backward, covered the privities of their father: and their faces were turned away, and they saw not their father's privities."
+          "text": "But indeed Sem and Japheth put a cloak upon their shoulders, and going backward, covered the privities of their father: and their faces were turned away, and they saw not their father's privities."
         },
         {
           "verse": 24,
@@ -2008,11 +2105,14 @@
         },
         {
           "verse": 26,
-          "text": "And he saith: Blessed be the Lord God of Sem, Chanaan be his servant. <cr>[1]</cr>",
+          "text": "And he said: Blessed be the Lord God of Sem, Chanaan be his servant. <cr>[1]</cr>",
           "cross_refs": [
             {
               "text": "Apoc. 13, 8."
             }
+          ],
+          "xrefs": [
+            "Apoc. 13:8."
           ]
         },
         {
@@ -2027,6 +2127,9 @@
             {
               "text": "Heb. 11."
             }
+          ],
+          "xrefs": [
+            "Heb. 11."
           ]
         },
         {
@@ -2045,7 +2148,7 @@
         },
         {
           "verse": 2,
-          "text": "The children of Japheth: Gomer, & Magog, & Madai, & Javan, & Tubal, and Mosoch, and Thiras."
+          "text": "The children of Japheth: Gomer, & Magog, & Madai, & Javan, & Thubal, and Mosoch, and Thiras."
         },
         {
           "verse": 3,
@@ -2078,7 +2181,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "That is, in his sight who cannot be deceived."
+              "text": "That is, in his sight who cannot be deceived.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2105,7 +2209,7 @@
         },
         {
           "verse": 15,
-          "text": "And Chanaan begat Sidon his first-begotten, Hethæus,"
+          "text": "And Canaan begat Sidon his first begotten, Hethæus,"
         },
         {
           "verse": 16,
@@ -2117,7 +2221,7 @@
         },
         {
           "verse": 18,
-          "text": "and A radius, Samaræus, and Hamathæus: and afterwards were spread the people of the Chananites."
+          "text": "and Aradius, Samaræus, and Hamathæus: and afterwards were spread the people of the Chananits."
         },
         {
           "verse": 19,
@@ -2133,7 +2237,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Hence S. Augustin gathereth that the people of Israel were called Hebrews of this Heber. <i>l. 16. c. 3. civit.</i>"
+              "text": "Hence S. Augustin gathereth that the people of Israel were called Hebrews of this Heber. <i>l. 16. c. 3. civit.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -2155,7 +2260,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Heber having a son born when the tongues were divided called him Phaleg, which signifieth division. <i>S. Aug. li. 16. c. 11. civit.</i>"
+              "text": "Heber having a son born when the tongues were divided called him Phaleg, which signifieth division. <i>S. Aug. li. 16. c. 11. civit.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -2208,7 +2314,7 @@
         },
         {
           "verse": 4,
-          "text": "and they said, Come, let us make us a city and a tower, the top whereof may reach to heaven: and let us renown our name before we be dispersed into all lands.",
+          "text": "and they said, Come, let us make us a city and a tower, the top whereof may reach to heaven: and let us renowne our name before we be dispersed into all lands.",
           "has_annotation": true
         },
         {
@@ -2234,7 +2340,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "He that speaketh so confusedly that he is not understood is said to babble."
+              "text": "He that speaketh so confusedly that he is not understood is said to babble.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2244,7 +2351,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Moyses here sheweth the succession of Patriarchs, from Sem to Abraham, as he did before from Adam to Noe. <i>S. Aug. l. 16. c. 10. civit.</i>"
+              "text": "Moyses here sheweth the succession of Patriarchs, from Sem to Abraham, as he did before from Adam to Noe. <i>S. Aug. l. 16. c. 10. civit.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -2307,7 +2415,7 @@
         },
         {
           "verse": 25,
-          "text": "And Nachor lived after he begat Thare, and hundred and nineteen years, and begat sons and daughters."
+          "text": "And Nachor lived after he begot Thare, an hundred and nineteen years, and begat sons and daughters."
         },
         {
           "verse": 26,
@@ -2323,7 +2431,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Ur a city, or territory of Chaldea. <i>70. Interpret. and Josephus l. 1. Antiq.</i>"
+              "text": "Ur a city, or territory of Chaldea. <i>70. Interpret. and Josephus li. 1. Antiq.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -2341,7 +2450,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "Abram was commanded to go forth of Chaldea, as appeareth Act. 7. v. 4. though this journey is here ascribed to Thare as the principal person."
+              "text": "Abram was commanded to go forth of Chaldea, as appeareth Act. 7. v. 4. though this journey is here ascribed to Thare as the principal person.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2372,8 +2482,12 @@
           "notes": [
             {
               "label": "2",
-              "text": "The fifth part of this book. Of Abraham's leaving his country, God's blessing of his seed, and commandment of Circumcision."
+              "text": "The fifth part of this book. Of Abraham's leaving his country, God's blessing of his seed, and commandment of Circumcision.",
+              "kind": "head"
             }
+          ],
+          "xrefs": [
+            "Acts 7."
           ]
         },
         {
@@ -2382,7 +2496,7 @@
         },
         {
           "verse": 3,
-          "text": "I will bless them that bless thee, and curse them that curse thee, and <na>(a)</na> IN <sc>Thee</sc> shall all the kindreds of the earth be blessed. <cr>[1]</cr>",
+          "text": "I will bless them and bless thee, and curse them that curse thee, and <na>(a)</na> IN <sc>Thee</sc> shall all the kindreds of the earth be blessed. <cr>[1]</cr>",
           "cross_refs": [
             {
               "text": "Heb. 11."
@@ -2391,13 +2505,17 @@
           "notes": [
             {
               "label": "a",
-              "text": "In Christ born of Abraham's seed all nations are blessed. Gal. 3."
+              "text": "In Christ born of Abraham's seed all nations are blessed. Gal. 3.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 4,
-          "text": "Abram therefore went out as our Lord had commanded him, and with him went Lot: seventy five years old was Abraham when he went forth out of Haran."
+          "text": "Abram therefore went out as our Lord had commanded him, and with him went Lot: seventy five years old was Abram when he went forth out of Haran.",
+          "xrefs": [
+            "Heb. 11."
+          ]
         },
         {
           "verse": 5,
@@ -2405,7 +2523,7 @@
         },
         {
           "verse": 6,
-          "text": "Abram passed through the country unto the place Sichem, as far as the noble vale: and the Chananite was at that time in the country."
+          "text": "Abram passed through the country unto the place Sichem, as far as the noble vale: and the Cananite was at that time in the country."
         },
         {
           "verse": 7,
@@ -2413,13 +2531,14 @@
           "notes": [
             {
               "label": "b",
-              "text": "Abram dedicated Altars to God especially in those places where he received promises, or benefits. <i>S. Chrisost. ho. 31. in Gen.</i>"
+              "text": "Abram dedicated Altars to God especially in those places where he received promises, or benefits. <i>S. Chrisost. ho. 31. in Gen.</i>",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 8,
-          "text": "And marching on from thence to a mountain, that was on the east side of Bethel, there he pitched his tent, having Bethel on the west, and Hai on the east: he builded there also an altar to our Lord, and called upon his name."
+          "text": "And marching on from thence to a mountain, that was on the east side of Bethel, there he pitched his tent, having Bethel on the west, and Hay on the east: he builded there also an altar to our Lord, and called upon his name."
         },
         {
           "verse": 9,
@@ -2456,11 +2575,12 @@
         },
         {
           "verse": 17,
-          "text": "And our Lord <na>(c)</na> scourged Pharao with very sore plagues, and his house, for Sarai Abram's wife.",
+          "text": "But our Lord <na>(c)</na> scourged Pharao with very sore plagues, and his house, for Sarai Abram's wife.",
           "notes": [
             {
               "label": "c",
-              "text": "God by corporal affliction hindered Pharao & his men from doing violence to Sarai. <i>S. Chris. ho. 32. in Gen.</i>"
+              "text": "God by corporal affliction hindered Pharao & his men from doing violence to Sarai. <i>S. Chris. ho. 32. in Gen.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -2726,7 +2846,7 @@
         },
         {
           "verse": 3,
-          "text": "And he returned by the way that he came, from the south unto Bethel, even to the place where before he had pitched a tabernacle between Bethel and Hai:"
+          "text": "And he returned by the way that he came, from the south unto Bethel, even to the place where before he had pitched a tabernacle between Bethel and Hay:"
         },
         {
           "verse": 4,
@@ -2750,7 +2870,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Four sorts of brethren in holy writ: german brothers, as Jacob and Esau: of kindred, as Abraham and Lot: of same nation, as the Jews & Samaritanes: in Religion as all Catholics."
+              "text": "Four sorts of brethren in holy writ: german brothers, as Jacob and Esau: of kindred, as Abraham and Lot: of same nation, as the Jews & Samaritanes: in Religion as all Catholics.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2788,7 +2909,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Not the children of the flesh, but the children of promise are the seed, Rom. 9. and are innumerable. Apoc. 7. v. 9."
+              "text": "Not the children of the flesh, but the children of promise are the seed, Rom. 9. and are innumerable. Apoc. 7. v. 9.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2808,7 +2930,7 @@
       "verses": [
         {
           "verse": 1,
-          "text": "And it came to pass in that time, that Amraphel the king of Sennaar, and Arioch the king of Pontus, and Chodorlahomor king of the Elamites, and Thadal the king of Nations."
+          "text": "And it came to pass in that time, that Amraphel the king of Sennaar, and Arioch the king of Pontus, and Chodorlahomor king of the Elamyts, and Thadal the king of Nations."
         },
         {
           "verse": 2,
@@ -2816,15 +2938,15 @@
         },
         {
           "verse": 3,
-          "text": "All these came together into the wood-land vale, which now is the salt sea."
+          "text": "All these came together into the woodland vale, which now is the salt sea."
         },
         {
           "verse": 4,
-          "text": "For they had served Chodorlahomor twelve years, & the thirteenth year they revolted from him."
+          "text": "For they had served Chodorlamor twelve years, & the thirteenth year they revolted from him."
         },
         {
           "verse": 5,
-          "text": "Therefore in the fourteenth year came Chodorlahomor, and the kings that were with him, and they struck Raphaim in Astarothcarnaim, and Susim with them, and Emim in Savee of Cariathaim,"
+          "text": "Therefore in the fourteenth year came Chodorlahomor, and the king that were with him, and they stroke Raphaim in Astarothcarnaim, and Susim with them, and Emim in Savee of Cariathaim,"
         },
         {
           "verse": 6,
@@ -2832,19 +2954,19 @@
         },
         {
           "verse": 7,
-          "text": "And they returned, and came as far as the fountain of Misphat, the same is Cades: and they struck all the country of the Amelechites, and of the Amorrheans, that dwell in Asasonthamar."
+          "text": "And they returned, and came as far as the fountain of Misphat, the same is Cades: and they stroke all the country of the Ameleichites, and of the Amorheans, that dwell in Assasonthamar."
         },
         {
           "verse": 8,
-          "text": "And they went forth the king of Sodome, and the king of Gomorra, and the king of Adama, and the king of Seboim, moreover also the king of Bala, which is Segor: and they set themselves against them in battle array in the wood-land vale:"
+          "text": "And they went forth the king of Sodome, and the king of Gomorra, and the king of Adama, and the king of Seboim, moreover also the king of Bala, which is Segor: and they set themselves against them in battle array in the woodland vale:"
         },
         {
           "verse": 9,
-          "text": "to wit against Chodorlahomor king of the Elamites, and Thadal king of Nations, and Amraphel king of Sennaar, and Arioch king of Pontus: four kings against five."
+          "text": "to wit against Chodorlahomor king of the Elamites, and Chadal king of Nations, and Amraphel king of Sennaar, and Arioch king of Pontus: four kings against five."
         },
         {
           "verse": 10,
-          "text": "But the wood-land vale had many pits of bitume. Therefore the king of Sodome and of Gomorra turned their backs, and were overthrown there: and they that remained fled to the mountain."
+          "text": "But the woodland vale had many pits of bitume. Therefore the king of Sodome and of Gomorra turned their backs, and were overthrown there: and they that remained fled to the mountain."
         },
         {
           "verse": 11,
@@ -2864,7 +2986,7 @@
         },
         {
           "verse": 15,
-          "text": "And dividing his company, he ran upon them in the night, and struck them, and pursued them unto Hoba, which is on the left hand of Damascus."
+          "text": "And dividing his company, he ran upon them in the night, and stroke them, and pursued them unto Hoba, which is on the left hand of Damascus."
         },
         {
           "verse": 16,
@@ -2903,7 +3025,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Abraham enriched by God, would take no more of man, but his soldiers' sustenance, the proper hire of spiritual workmen. S. Chrisost. in Gen."
+              "text": "Abraham enriched by God, would take no more of man, but his soldiers' sustenance, the proper hire of spiritual workmen. S. Chrisost. in Gen.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2931,7 +3054,7 @@
         },
         {
           "verse": 4,
-          "text": "And immediately the word of our Lord came to him saying: He shall not be thine heir: but he that shall come out of thy womb him shalt thou have thine heir."
+          "text": "And immediately the word of our Lord came to him saying: He shall not be thy heir: but he that shall come out of thy womb him shalt thou have thine heir."
         },
         {
           "verse": 5,
@@ -2945,6 +3068,9 @@
             {
               "text": "Ro. 4. Gal. 3. Iac. 2."
             }
+          ],
+          "xrefs": [
+            "Rom. 4. Gal. 3. James 2."
           ]
         },
         {
@@ -2961,7 +3087,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "These three kinds of beasts & two of birds signify that the Israelites should be three generations in a strange land, the fourth in the desert, the fifth in possession of Chanaan. <i>Theod. q. 65. in Gen.</i>"
+              "text": "These three kinds of beasts & two of birds signify that the Israelites should be three generations in a strange land, the fourth in the desert, the fifth in possession of Chanaan. <i>Theod. q. 65. in Gen.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -2988,8 +3115,12 @@
           "notes": [
             {
               "label": "b",
-              "text": "Abraham & his seed were in a strange land 400. and odd years, but in servitude & affliction about 140."
+              "text": "Abraham & his seed were in a strange land 400. and odd years, but in servitude & affliction about 140.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Acts 17."
           ]
         },
         {
@@ -2999,6 +3130,9 @@
             {
               "text": "Exod. 12."
             }
+          ],
+          "xrefs": [
+            "Exod. 12."
           ]
         },
         {
@@ -3007,11 +3141,12 @@
         },
         {
           "verse": 16,
-          "text": "But in the fourth generation they shall return hither: for <na>(c)</na> as yet the iniquities of the Amorrheans are not at the full until this present time.",
+          "text": "But in the fourth generation they shall return hither: for <na>(c)</na> as yet the iniquities of the Amorrheanes are not at the full until this present time.",
           "notes": [
             {
               "label": "c",
-              "text": "God deferreth to punish, either that the wicked may amend, or the good be exercised by them. S. Aug. Psal. 54. or because the iniquity is not come to that great measure which his wisdom foreseeth, and will punish in the end, to his own more glory, & more good of others. S. Greg. ho. 11. in 3. Ezech."
+              "text": "God deferreth to punish, either that the wicked may amend, or the good be exercised by them. S. Aug. Psal. 54. or because the iniquity is not come to that great measure which his wisdom foreseeth, and will punish in the end, to his own more glory, & more good of others. S. Greg. ho. 11. in 3. Ezech.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3025,7 +3160,7 @@
         },
         {
           "verse": 19,
-          "text": "the Cineans, and Cenezeites, the Cedmonites,"
+          "text": "the Cineans, and Cenezites, the Cedmonites,"
         },
         {
           "verse": 20,
@@ -3033,7 +3168,7 @@
         },
         {
           "verse": 21,
-          "text": "and the Amorreans and the Chananites, and Gargasites, and the Jebusites."
+          "text": "and the Amorreans and the Cananites, and Gargasites, and the Jebusites."
         }
       ],
       "summary": "Abram doubting and lamenting that he should have no child, God promiseth him much issue, 6. who believing is justified. 9. offereth sacrifice prescribed by God, 13. & is forewarned that his seed shall be in a strange land 400. years. 14. shall be delivered from servitude, 18. and possess Chanaan."
@@ -3060,7 +3195,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Some obey whilst they are rude, or in low state, but having got a little knowledge or advancement disdain their advancers. <i>S. Gregory. li. 21. in 1. Reg. 3.</i>"
+              "text": "Some obey whilst they are rude, or in low state, but having got a little knowledge or advancement disdain their advancers. <i>S. Gregory. li. 21. in 1. Reg. 3.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -3098,7 +3234,7 @@
         },
         {
           "verse": 13,
-          "text": "And she called the name of our Lord that spake unto her: Thou the God which hast seen me. For she said: verily here have I seen the back parts of him that hast seen me."
+          "text": "And she called the name of our Lord that spake unto her: Thou the God which hast seen me. For she said: verily here have I seen the back parts of him that hath seen me."
         },
         {
           "verse": 14,
@@ -3124,7 +3260,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "He is perfect in this life, that sincerely tendeth towards perfection of the next life. And this God here commanded to Abraham, & Christ to all Christians. <i>Mat. 5. S. Aug. l. de perfect. cont. Cælest.</i> See Gen. 6. v. 9."
+              "text": "He is perfect in this life, that sincerely tendeth towards perfection of the next life. And this God here commanded to Abraham, & Christ to all Christians. <i>Mat. 5. S. Aug. l. de perfect. cont. Cælest.</i> See Gen. 6. v. 9.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3176,7 +3313,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Circumcision and name received the eighth day signified the association of Saints in heaven after the seven days travail of this world. <i>Ser. de circum. apud S. Cyprian.</i>"
+              "text": "Circumcision and name received the eighth day signified the association of Saints in heaven after the seven days travail of this world. <i>Ser. de circum. apud S. Cyprian.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -3203,7 +3341,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Abraham laughed not doubting but rejoicing. <i>S. Ambro. li. de Abraham c. 4. S. Aug. l. 16. c. 26. de civit.</i>"
+              "text": "Abraham laughed not doubting but rejoicing. <i>S. Ambro. li. de Abraham c. 4. S. Aug. l. 16. c. 26. de civit.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -3225,7 +3364,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "Temporal blessings were common to Ismael, but spiritual pertained properly to Isaac and Israel, & their successors."
+              "text": "Temporal blessings were common to Ismael, but spiritual pertained properly to Isaac and Israel, & their successors.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3247,7 +3387,7 @@
         },
         {
           "verse": 26,
-          "text": "The self-same day was Abraham circumcised and Ismael his son."
+          "text": "The selfsame day was Abraham circumcised and Ismael his son."
         },
         {
           "verse": 27,
@@ -3255,7 +3395,8 @@
           "notes": [
             {
               "label": "e",
-              "text": "Conformity in Religion conserveth peace in every family. <i>Tho. Anglus in hunc locum.</i>"
+              "text": "Conformity in Religion conserveth peace in every family. <i>Tho. Anglus in hunc locum.</i>",
+              "kind": "gloss"
             }
           ]
         }
@@ -3284,8 +3425,12 @@
           "notes": [
             {
               "label": "a",
-              "text": "Abraham saw three, and adored one, professing three divine Persons and one God. <i>S. Aug. li. 16. c. 29. civit.</i>"
+              "text": "Abraham saw three, and adored one, professing three divine Persons and one God. <i>S. Aug. li. 16. c. 29. civit.</i>",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Heb. 13."
           ]
         },
         {
@@ -3319,6 +3464,9 @@
             {
               "text": "Rom. 9."
             }
+          ],
+          "xrefs": [
+            "Rom. 9."
           ]
         },
         {
@@ -3343,7 +3491,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Abraham laughing with admiration for joy was not reprehended, but Sara laughing of diffidence was reprehended, by him that seeth the heart. <i>S. Aug. q. 36. in Gen. & li. 16. c. 31. civit.</i>"
+              "text": "Abraham laughing with admiration for joy was not reprehended, but Sara laughing of diffidence was reprehended, by him that seeth the heart. <i>S. Aug. q. 36. in Gen. & li. 16. c. 31. civit.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -3385,7 +3534,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "what a wall are just men to their country? Their faith saveth us, their justice defendeth us from destruction. <i>S. Amb. li. 1. de Abrah. c. 6.</i>"
+              "text": "what a wall are just men to their country? Their faith saveth us, their justice defendeth us from destruction. <i>S. Amb. li. 1. de Abraham. c. 6.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -3437,7 +3587,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Abraham and Lot by hospitality merited to receive Angels instead of men. Heb. 13."
+              "text": "Abraham and Lot by hospitality merited to receive Angels instead of men. Heb. 13.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3479,7 +3630,7 @@
         },
         {
           "verse": 11,
-          "text": "and them that were without they struck with blindness from the least to the greatest, so that they could not find the door."
+          "text": "and them that were without they stroke with blindness from the least to the greatest, so that they could not find the door."
         },
         {
           "verse": 12,
@@ -3491,7 +3642,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "This sin cryeth to heaven for revenge."
+              "text": "This sin crieth to heaven for revenge.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3521,7 +3673,7 @@
         },
         {
           "verse": 20,
-          "text": "There is this city here-by at hand, whereunto I may fly, a little one, and I shall be safe in it: is it not a little one, and my life shall be saved?"
+          "text": "There is this city hereby at hand, whereunto I may flee, a little one, and I shall be safe in it: is it not a little one, and my life shall be saved?"
         },
         {
           "verse": 21,
@@ -3533,7 +3685,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>a little one.</i>"
+              "text": "<i>a little one.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -3555,7 +3708,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Lot's wife turned into salt, admonisheth the servants of God to proceed in virtue, & not to look back to vice. <i>Luc. 17. S. Aug. li. 16. c. 30. civit.</i>"
+              "text": "Lot's wife turned into salt, admonisheth the servants of God to proceed in virtue, & not to look back to vice. <i>Luc. 17. S. Aug. li. 16. c. 30. civit.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -3573,7 +3727,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "Lot neither perfect nor very wicked was delivered for Abraham's sake. <i>S. Aug. q. 45. in Gen.</i>"
+              "text": "Lot neither perfect nor very wicked was delivered for Abraham's sake. <i>S. Aug. q. 45. in Gen.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -3611,7 +3766,8 @@
           "notes": [
             {
               "label": "e",
-              "text": "Moabites & Ammonites were two distinct Nations, perhaps of the 72. See. p. 41."
+              "text": "Moabites & Ammonites were two distinct Nations, perhaps of the 72. See. p. 41.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3635,7 +3791,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "See pag. 50."
+              "text": "See pag. 50.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3681,7 +3838,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Not his father's own daughter, but of his progeny. <i>S. Aug. l. 22. cont. Faust. c. 35. & l. 16. c. 19. & 30. de civit.</i>"
+              "text": "Not his father's own daughter, but of his progeny. <i>S. Aug. l. 22. cont. Faust. c. 35. & li. 16. c. 19. & 30. de civit.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -3695,7 +3853,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Kings of the earth esteeming the Church only for a laudable people of God, seek to subject her to themselves: but knowing he to be the inviolable spouse of Christ, subject themselves to her, & offer to her most honourable gifts. <i>S. Aug. li. 22. cont. Faust. c. 38.</i>"
+              "text": "Kings of the earth esteeming the Church only for a laudable people of God, seek to subject her to themselves: but knowing her to be the inviolable spouse of Christ, subject themselves to her, & offer to her most honourable gifts. <i>S. Aug. li. 22. cont. Faust. c. 38.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -3733,7 +3892,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Of the progeny and other blessings of Abraham, Isaac, and Jacob."
+              "text": "Of the progeny and other blessings of Abraham, Isaac, and Jacob.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3747,13 +3907,14 @@
           "notes": [
             {
               "label": "a",
-              "text": "Abraham & Sara laughed (he admiring, she doubting) at the joyful promise of a son, & therefore he is called Isaac, which signifieth laughter. <i>S. Aug. li. 16. c. 31. civit.</i>"
+              "text": "Abraham & Sara laughed (he admiring, she doubting) at the joyful promise of a son, & therefore he is called Isaac, which signifieth laughter. <i>St. Aug. li. 16. c. 31. civit.</i>",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 4,
-          "text": "and he circumcised him the eighth day, as God had commanded him,"
+          "text": "and he circumcised him the eight day, as God had commanded him,"
         },
         {
           "verse": 5,
@@ -3790,12 +3951,17 @@
           "notes": [
             {
               "label": "b",
-              "text": "See c. 17. v. 21."
+              "text": "See c. 17. v. 21.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "Rom. 9. Heb. 11."
+              "text": "Rom. 9. Heb. 11.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Rom. 9. Heb. 11."
           ]
         },
         {
@@ -3876,7 +4042,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>well of oath</i>"
+              "text": "<i>well of oath</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -3909,8 +4076,12 @@
           "notes": [
             {
               "label": "2",
-              "text": "The third prophecy in the Office before Mass on Easter eve. And the first on Whitsun-eve."
+              "text": "The third prophecy in the Office before Mass on Easter eve. And the first on Whitsun-eve.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Judith 8. Heb. 11."
           ]
         },
         {
@@ -3924,7 +4095,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "This history is clear, and a most notorious example of perfect obedience."
+              "text": "This history is clear, and a most notorious example of perfect obedience.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3942,7 +4114,7 @@
         },
         {
           "verse": 6,
-          "text": "He took also the wood of the holocaust, and laid it upon Isaac his son: and himself carried in his hand fire and a sword. And as they went on together,"
+          "text": "He took also the wood of the holocaust, and laid it upon Isaac his son: and himself carried in his hands fire and a sword. And as they went on together,"
         },
         {
           "verse": 7,
@@ -3978,7 +4150,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "It is a grateful and religious thing, by naming of places to conserve the memory of God's benefits, that posterity may know them. <i>S. Chrisost. ho. 48. in Gen.</i>"
+              "text": "It is a grateful and religious thing, by naming of places to conserve the memory of God's benefits, that posterity may know them. <i>S. Chrisost. ho. 48. in Gen.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -4004,17 +4177,18 @@
         },
         {
           "verse": 20,
-          "text": "These things so being done, it was <na>(c)</na> told Abraham that Melcha also had born children to Nachor his brother,",
+          "text": "These things so being done, it was <na>(c)</na> told Abraham that Melcha also had borne children to Nachor his brother,",
           "notes": [
             {
               "label": "c",
-              "text": "Nachor's progeny is here mentioned to shew whence Rebecca came, whom Isaac married."
+              "text": "Nachor's progeny is here mentioned to shew whence Rebecca came, whom Isaac married.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 21,
-          "text": "Hus the first-begotten, and Buz his brother, and Camuel the father of the Sirians,"
+          "text": "Hus the firstbegotten, and Buz his brother, and Camuel the father of the Sirians,"
         },
         {
           "verse": 22,
@@ -4048,7 +4222,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "A clear example of religious Office in burying the dead."
+              "text": "A clear example of religious Office in burying the dead.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4070,7 +4245,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Adoration used for reverence done to men. <i>See also c. 27. v. 29. c. 33. v. 3. 7. and S. Aug. q. 61. in Gen.</i>"
+              "text": "Adoration used for reverence done to men. <i>See also c. 27. v. 29. c. 33. v. 3. 7. and S. Aug. q. 61. in Gen.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -4080,7 +4256,7 @@
         },
         {
           "verse": 9,
-          "text": "that he give me the double cave, which he hath in the uttermost part of his field: for money to the worth therefore let him deliver it to me before you for possession of a sepulchre."
+          "text": "that he give me the double cave, which he hath in the uttermost part of his field: for money to the worth thereof let him deliver it to me before you for possession of a sepulchre."
         },
         {
           "verse": 10,
@@ -4146,7 +4322,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "In choosing a wife a virtuous stock and family, especially true faith and religion, are before all other things to be considered and preferred. <i>S. Amb. li. 1. c. 9. de Abrah. S. Chrisost. ho. 48. in Gen.</i>"
+              "text": "In choosing a wife a virtuous stock and family, especially true faith and religion, are before all other things to be considered and preferred. <i>S. Amb. li. 1. c. 9. de Abrah. S. Chrisost. ho. 48. in Gen.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -4164,7 +4341,7 @@
         },
         {
           "verse": 7,
-          "text": "Our Lord God of heaven, which took me out of my father's house, and out of my native country, which spake to me, and sware to me, saying: To thy seed will I give this land; he shall send his Angel before thee, and thou shall take from thence a wife for my son:"
+          "text": "Our Lord God of heaven, which took me out of my father's house, and out of my native country, which spake to me, and sware to me, saying: To thy seed will I give this land; he shall send his Angel before thee, and thou shalt take from thence a wife for my son:"
         },
         {
           "verse": 8,
@@ -4253,7 +4430,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Her father having perhaps many wives & every one a several house, she went to her mother's house."
+              "text": "Her father having perhaps many wives & every one a several house, she went to her mother's house.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4263,7 +4441,7 @@
         },
         {
           "verse": 30,
-          "text": "And when he had seen the earlets and bracelets in his sister's hands, and hand heard all her words reporting: These words spake the man unto me; he came to the man which stood beside the camels, and nigh to the fountain of water:"
+          "text": "And when he had seen the earlets and bracelets in his sister's hands, and had heard all her words reporting: These words spake the man unto me; he came to the man which stood beside the camels, and nigh to the fountain of water:"
         },
         {
           "verse": 31,
@@ -4287,7 +4465,7 @@
         },
         {
           "verse": 36,
-          "text": "And Sara my lord's wife hath born my lord a son in her old age, and he hath given him all things that he had."
+          "text": "And Sara my lord's wife hath borne my lord a son in her old age, and he hath given him all things that he had."
         },
         {
           "verse": 37,
@@ -4355,7 +4533,7 @@
         },
         {
           "verse": 53,
-          "text": "And taking forth vessels of silver, and gold, and garments, gave them to Rebecca for a present. To her brothers also, and to her mother he offered gifts."
+          "text": "And taking forth vessel of silver, and gold, and garments, gave them to Rebecca for a present. To her brothers also, and to her mother he offered gifts."
         },
         {
           "verse": 54,
@@ -4375,7 +4553,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "As children ought not to marry without their parent's good liking; so the parties' own consent is most necessary. S. Amb. Epist. 43."
+              "text": "As children ought not to marry without their parents good liking; so the parties' own consent is most necessary. S. Amb. Epist. 43.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4401,11 +4580,12 @@
         },
         {
           "verse": 63,
-          "text": "and he was gone forth to <na>(d)</na> meditate in the field, the day now being well spent: and when he head cast up his eyes, he saw camels coming a far off.",
+          "text": "and he was gone forth to <na>(d)</na> meditate in the field, the day now being well spent: and when he had cast up his eyes, he saw camels coming a far off.",
           "notes": [
             {
               "label": "d",
-              "text": "Suach signifieth to speak considerately with heart or mouth. Here S. Ambrose (li. 1. c. 1. de Isaac) and S. Aug. (q. 69. in Gen.) understand it of mental prayer."
+              "text": "Suach signifieth to speak considerately with heart or mouth. Here S. Ambrose (li. 1. c. 1. de Isaac) and S. Aug. (q. 69. in Gen.) understand it of mental prayer.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4458,7 +4638,7 @@
         },
         {
           "verse": 7,
-          "text": "And the days of Abraham's life were an hundred seventy and five years."
+          "text": "And the days of Abraham's life were a hundred seventy and five years."
         },
         {
           "verse": 8,
@@ -4466,7 +4646,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "The life of the just hath fullness of days though it be otherwise short; the days of the wicked are void of fruit, be they many or few. <i>S. Ambros. li. de Abraham.</i>"
+              "text": "The life of the just hath fullness of days though it be otherwise short; the days of the wicked are void of fruit, be they many or few. <i>S. Ambros. li. de Abraham.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -4529,7 +4710,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "S. Augustin (q. 72. in Gen.) disputeth, but could not decide, whether Rebecca went to some Priest, or Prophet, or Altar, or whither else, or only retired to private prayer."
+              "text": "S. Augustin (q. 72. in Gen.) disputeth, but could not decide, whether Rebecca went to some Priest, or Prophet, or Altar, or whither else, or only retired to private prayer.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4556,7 +4738,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Holy Scripture premonisheth Jacob's sincerity, lest in the Mysteries following he might be suspected of false dealing. S. Aug. li. 16. c. 37. civit."
+              "text": "Holy Scripture premonisheth Jacob's sincerity, lest in the Mysteries following he might be suspected of false dealing. S. Aug. li. 16. c. 37. civit.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4601,11 +4784,12 @@
         },
         {
           "verse": 2,
-          "text": "And our Lord appeared to him, and said: <na>(a)</na> Go not down into Ægypt, but rest in the land which I shall tell thee.",
+          "text": "And our Lord appeared to him, and said: <na>(a)</na> Go not down into Egypt, but rest in the land which I shall tell thee.",
           "notes": [
             {
               "label": "a",
-              "text": "God by Abraham's exemplar life invited the Ægyptians to true religion: now commandeth Isaac to stay in Gerara to the like end. <i>S. Theod. q. 76. in Gen.</i>"
+              "text": "God by Abraham's exemplar life invited the Ægyptians to true religion: now commandeth Isaac to stay in Gerara to the like end. <i>S. Theod. q. 76. in Gen.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -4632,7 +4816,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "See pag. 50."
+              "text": "See pag. 50.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4650,7 +4835,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Adultery a great sin also among Paynims."
+              "text": "Adultery a great sin also among Painims.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4673,7 +4859,7 @@
         },
         {
           "verse": 15,
-          "text": "stopped at that time all the wells, that the servants of his father Abraham had digged, filling them up with earth:"
+          "text": "stopped at that time all the wells, that the servants of his father Abraham had digged, filling them up with water:"
         },
         {
           "verse": 16,
@@ -4693,7 +4879,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "* The channel where sometimes a vehement stream runneth, sometimes none at all."
+              "text": "* The channel where sometimes a vehement stream runneth, sometimes none at all.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4703,7 +4890,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>Wrangling.</i>"
+              "text": "<i>Wrangling.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -4741,7 +4929,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "So nations of the world first envied the Church of Christ, but after made peace with it."
+              "text": "So nations of the world first envied the Church of Christ, but after made peace with it.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4755,7 +4944,7 @@
         },
         {
           "verse": 31,
-          "text": "A rising in the morning, they sware one to another: and Isaac dismissed them peaceably into their place."
+          "text": "Arising in the morning, they sware one to another: and Isaac dismissed them peaceably into their place."
         },
         {
           "verse": 32,
@@ -4775,7 +4964,8 @@
           "notes": [
             {
               "label": "e",
-              "text": "Esau by marrying against his parents' will, made breach from them."
+              "text": "Esau by marrying against his parents' will, made breach from them.",
+              "kind": "gloss"
             }
           ]
         }
@@ -4791,7 +4981,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle on Saturday the second week in Lent."
+              "text": "The Epistle on Saturday the second week in Lent.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -4809,7 +5000,7 @@
         },
         {
           "verse": 5,
-          "text": "Which when Rebecca had heard, and he was gone into the field to fulfill his father's commandment,"
+          "text": "Which when Rebecca had heard, and he was gone into the field to fulfil his father's commandment,"
         },
         {
           "verse": 6,
@@ -4841,7 +5032,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Jacob secure in conscience that the right of first-birth belonged to him, yet feared to give occasion of offence to his father."
+              "text": "Jacob secure in conscience that the right of first-birth belonged to him, yet feared to give occasion of offence to his father.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4880,13 +5072,14 @@
           "notes": [
             {
               "label": "b",
-              "text": "It was truly God's will, but not in that sense as Isaac understood it."
+              "text": "It was truly God's will, but not in that sense as Isaac understood it.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 21,
-          "text": "And Isaac said: Come hither, that I may feel thee my son, and may prove whether thou be my son Esau, or not."
+          "text": "And Isaac said: Come hither, that I may feel thee my son, and may prove whether thou be my son Esau, or no."
         },
         {
           "verse": 22,
@@ -4939,7 +5132,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Isaac now knowing it to be God's will, ratified that he had done."
+              "text": "Isaac now knowing it to be God's will, ratified that he had done.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4969,7 +5163,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "worldlings' blessing consisteth in transitory wealth."
+              "text": "worldlings' blessing consisteth in transitory wealth.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4979,7 +5174,8 @@
           "notes": [
             {
               "label": "e",
-              "text": "The Idumeans being subdued by King David (2. Reg. 8.) revolted from King Joram, & had a King of their own (4. Reg. 8.) they were again subdued by Hircanus (teste Iosepho. li. 13. Antiq.) but again Herod an Idumean reigned in Jewry Math. 2. Luc. 1."
+              "text": "The Idumeans being subdued by King David (2. Reg. 8.) revolted from King Joram, & had a King of their own (4. Reg. 8.) they were again subdued by Hircanus (teste Iosepho. li. 13. Antiq.) but again Herod an Idumean reigned in Jewry Math. 2. Luc. 1.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5031,7 +5227,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Isaac again confirmeth the blessings of Abraham to Jacob and his seed, omitting Esau; yea and God repeateth the same v. 13."
+              "text": "Isaac again confirmeth the blessings of Abraham to Jacob and his seed, omitting Esau; yea and God repeateth the same v. 13.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5061,7 +5258,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle in a votive Mass for travellers."
+              "text": "The Epistle in a votive Mass for travellers.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5078,6 +5276,9 @@
             {
               "text": "Sap. 10."
             }
+          ],
+          "xrefs": [
+            "Sap. 10."
           ]
         },
         {
@@ -5111,7 +5312,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>House of God.</i>"
+              "text": "<i>House of God.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -5122,7 +5324,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "To whom enough is not enough, to him nothing is enough. Aulus Gell."
+              "text": "To whom enough is not enough, to him nothing is enough. Aulus Gell.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5186,7 +5389,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "S. Augustine (q. 87. in Gen.) commendeth familiar kissing of kinsfolk and friends as a laudable custom in some countries. It is no-where more civil & modest than in England."
+              "text": "S. Augustine (q. 87. in Gen.) commendeth familiar kissing of kinsfolk and friends as a laudable custom in some countries. It is no-where more civil & modest than in England.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5208,7 +5412,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>Without wages?</i>"
+              "text": "<i>Without wages?</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -5246,7 +5451,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Laban grievously offended, neither could Lia be excused, but Jacob was innocent in this fact."
+              "text": "Laban grievously offended, neither could Lia be excused, but Jacob was innocent in this fact.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5268,7 +5474,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "After seven days he had Rachel who was his first spouse. <i>S. Hierom. Tradit. Heb. S. Aug. q. 89. in Gen.</i>"
+              "text": "After seven days he had Rachel who was his first spouse. <i>S. Hierom. Tradit. Heb. S. Aug. q. 89. in Gen.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -5298,7 +5505,7 @@
         },
         {
           "verse": 34,
-          "text": "And she conceived the third time, and bare another son: and said: Now also my husband will be joined to me, for because I have born him three sons: and therefore she called his name, Levi."
+          "text": "And she conceived the third time, and bare another son: and said: Now also my husband will be joined to me, for because I have borne him three sons: and therefore she called his name, Levi."
         },
         {
           "verse": 35,
@@ -5316,7 +5523,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Not properly envy, but grief & lawful emulation. <i>S.</i> Aug. li. 22. c. 54. cont. Faust."
+              "text": "Not properly envy, but grief & lawful emulation. <i>S.</i> Aug. li. 22. c. 54. cont. Faust.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5334,7 +5542,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Of plurality of wives see pag. 60."
+              "text": "Of plurality of wives see pag. 60.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5352,7 +5561,7 @@
         },
         {
           "verse": 8,
-          "text": "for whom Rachel said: God hath compared me with my sister, and I have prevailed: and she called him Nephthali."
+          "text": "for whom Rachel said: God hath compared me with my sister, and I have prevailed: and she called him Nepthali."
         },
         {
           "verse": 9,
@@ -5376,21 +5585,22 @@
         },
         {
           "verse": 14,
-          "text": "And Ruben, going forth in the time of wheat harvest into the field, found mandragoras: which he brought to his mother Lia. And Rachel said: Give me part of thy son's <na>(c)</na> mandragoras.",
+          "text": "And Ruben, going forth in the time of wheat harvest into the field, found mandragores: which he brought to his mother Lia. And Rachel said: Give me part of thy son's <na>(c)</na> mandragores.",
           "notes": [
             {
               "label": "c",
-              "text": "Holy Scripture (saith S. Augustine) would never have mentioned such womanly desires, but to admonish us to seek great mysteries therein. li. 22. c. 56. cont. Faustum."
+              "text": "Holy Scripture (saith S. Augustine) would never have mentioned such womanly desires, but to admonish us to seek great mysteries therein. li. 22. c. 56. cont. Faustum.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 15,
-          "text": "She answered: Dost thou think it a small matter that thou hast taken my husband from me, unless thou take also my son's mandragoras? Rachel said: For thy son's mandragoras let him sleep with thee this night."
+          "text": "She answered: Dost thou think it a small matter that thou hast taken my husband from me, unless thou take also my son's mandragores? Rachel said: For thy son's mandragores let him sleep with thee this night."
         },
         {
           "verse": 16,
-          "text": "And when Jacob returned at even from the field, Lia went out to meet him, and said: Company with me, because with wages I have hired thee for my son's mandragoras. And he slept with her that night."
+          "text": "And when Jacob returned at even from the field, Lia went out to meet him, and said: Company with me, because with wages I have hired thee for my son's mandragores. And he slept with her that night."
         },
         {
           "verse": 17,
@@ -5406,7 +5616,7 @@
         },
         {
           "verse": 20,
-          "text": "& said: God hath endowed me with a good dowry: this turn also my husband will be with me, for because I have born him six sons, and therefore she called his name, Zabulon."
+          "text": "& said: God hath endowed me with a good dowry: this turn also my husband will be with me, for because I have borne him six sons, and therefore she called his name, Zabulon."
         },
         {
           "verse": 21,
@@ -5454,11 +5664,11 @@
         },
         {
           "verse": 32,
-          "text": "Go round about all the flocks, and separate all the sheep of diverse colours, of speckled fleece: and what-soever shall be russet and spotted, and of diverse colours, as well in the sheep as in the goats, shall be my wages."
+          "text": "Go round about all thy flocks, and separate all the sheep of divers colours, of speckled fleece: and what-soever shall be russet and spotted, and of divers colours, as well in the sheep as in the goats, shall be my wages."
         },
         {
           "verse": 33,
-          "text": "And my justice shall answer for me tomorrow before thee, when the time of the bargain shall come: and all that shall not be of diverse colours, and spotted, and russet, as well in the sheep as in the goats, shall accuse me of theft."
+          "text": "And my justice shall answer for me tomorrow before thee, when the time of the bargain shall come: and all that shall not be of divers colours, and spotted, and russet, as well in the sheep as in the goats, shall accuse me of theft."
         },
         {
           "verse": 34,
@@ -5466,7 +5676,7 @@
         },
         {
           "verse": 35,
-          "text": "And he separated the same day the she goats, and the sheep, and the he goats, and the rams of diverse colours, and spotted: and all the flock of one colour, that is of white and black fleece, he delivered in the hand of his sons."
+          "text": "And he separated the same day the she goats, and the sheep, and the he goats, and the rams of divers colours, and spotted: and all the flock of one colour, that is of white and black fleece, he delivered in the hand of his sons."
         },
         {
           "verse": 36,
@@ -5474,11 +5684,12 @@
         },
         {
           "verse": 37,
-          "text": "Jacob therefore <na>(d)</na> taking green rods of the poplar, and of the almond, and of the plane-trees, in part pilled them: and when the barks were taken off, in the parts that were pilled there appeared whiteness: but the parts that were whole remained green: and by this means the colour was made diverse.",
+          "text": "Jacob therefore <na>(d)</na> taking green rods of the poplar, and of the almond, and of the plane-trees, in part pilled them: and when the barks were taken of, in the parts that were pilled there appeared whiteness: but the parts that were whole remained green: and by this means the colour was made divers.",
           "notes": [
             {
               "label": "d",
-              "text": "Jacob did justly use this means to recover that which Laban withheld from him, being due for the dowry of his wives, and recompence for his service. <i>Rupert. l. 7. c. 39. in Gen.</i>"
+              "text": "Jacob did justly use this means to recover that which Laban withheld from him, being due for the dowry of his wives, and recompence for his service. <i>Rupert. li. 7. c. 39. in Gen.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -5488,7 +5699,7 @@
         },
         {
           "verse": 39,
-          "text": "And it came to pass that in the very heat of the ramming, the sheep beheld the rods, and brought forth spotted, and of diverse colours, and speckled."
+          "text": "And it came to pass that in the very heat of the ramming, the sheep beheld the rods, and brought forth spotted, and of divers colours, and speckled."
         },
         {
           "verse": 40,
@@ -5504,7 +5715,7 @@
         },
         {
           "verse": 43,
-          "text": "And the man was enriched beyond measure, and he had many flock, women servants and men servants, camels and asses."
+          "text": "And the man was enriched beyond measure, and he had many flocks, women servants and men servants, camels and asses."
         }
       ],
       "summary": "Rachel yet barren delivereth her handmaid to Jacob, who beareth two sons. 9. Lia ceasing to bear giveth her handmaid also, and she beareth two more. 17 Then Lia beareth other two sons, and one daughter. 22. Rachel beareth Joseph. 25. Jacob desirous to return home, is hired to stay for a certain part of the stock's increase. 43. Whereby he becometh exceeding rich."
@@ -5542,7 +5753,7 @@
         },
         {
           "verse": 8,
-          "text": "If at any time he said: They of diverse colours shall be thy wages; all the sheep brought forth young of diverse colours. But when he said contrary: Thou shalt take all the white ones for thy wages; all the flocks brought forth white ones."
+          "text": "If at any time he said: They of divers colours shall be thy wages; all the sheep brought forth young of divers colours. But when he said contrary: Thou shalt take all the white ones for thy wages; all the flocks brought forth white ones."
         },
         {
           "verse": 9,
@@ -5550,7 +5761,7 @@
         },
         {
           "verse": 10,
-          "text": "For after the time came of the ewes conceiving, I lifted up mine eyes, and saw in my sleep the males ascending upon the females of diverse colours, and the spotted, and the speckled."
+          "text": "For after the time came of the ewes conceiving, I lifted up mine eyes, and saw in my sleep the males ascending upon the females of divers colours, and the spotted, and the speckled."
         },
         {
           "verse": 11,
@@ -5558,7 +5769,7 @@
         },
         {
           "verse": 12,
-          "text": "Who said: Lift up thine eyes, and see all the males ascending upon the females, them of diverse colours, the spotted and the speckled. For I have seen all things that Laban hath done to thee."
+          "text": "Who said: Lift up thine eyes, and see all the males ascending upon the females, them of divers colours, the spotted and the speckled. For I have seen all things that Laban hath done to thee."
         },
         {
           "verse": 13,
@@ -5566,7 +5777,8 @@
           "notes": [
             {
               "label": "e",
-              "text": "Anointing of Altars, and free vows are grateful offices to God. See chap. 28."
+              "text": "Anointing of Altars, and free vows are grateful offices to God. See chap. 28.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5597,7 +5809,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>Teraphim.</i>"
+              "text": "<i>Teraphim.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -5631,7 +5844,7 @@
         },
         {
           "verse": 27,
-          "text": "Why wouldst thou fly without my knowledge, and not tell me, that I might have brought thee on the way with joy, and songs, and timbrels, and citterns?"
+          "text": "Why wouldst thou flee without my knowledge, and not tell me, that I might have brought thee on the way with joy, and songs, and timbrels, and citherns?"
         },
         {
           "verse": 28,
@@ -5667,11 +5880,12 @@
         },
         {
           "verse": 36,
-          "text": "And Jacob being <na>(f)</na> angry said in chiding manner: For what fault of mine, and for what offence of my part hast thou so chased after me,",
+          "text": "And Jacob being <na>(f)</na> angry said in chiding manner: For what fault of mine, and for what offence of my part hast thou so chafed after me,",
           "notes": [
             {
               "label": "f",
-              "text": "Jacob in this just expostulation was angry and sinned not. Psal. 4."
+              "text": "Jacob in this just expostulation was angry and sinned not. Psal. 4.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5697,7 +5911,7 @@
         },
         {
           "verse": 42,
-          "text": "Unless the God of my father Abraham, and the fear of Isaac had holpen me, peradventure now thou hadst sent me away naked: God beheld my affliction and the labour of my hands, and rebuked thee yesterday."
+          "text": "Unless the God of my father Abraham, and the fear of Isaac had holpe me, peradventure now thou hadst sent me away naked: God beheld my affliction and the labour of my hands, and rebuked thee yesterday."
         },
         {
           "verse": 43,
@@ -5717,7 +5931,7 @@
         },
         {
           "verse": 47,
-          "text": "Which Laban called the witness-heap: and Jacob called the hillock of testimony, either of men according to the property of his language."
+          "text": "Which Laban called the witness-heap: and Jacob called the hillock of testimony, either of them according to the propriety of his language."
         },
         {
           "verse": 48,
@@ -5873,7 +6087,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "The changing of his name here promised, is performed chap. 35. S. Hierom Tradit. Heb."
+              "text": "The changing of his name here promised, is performed chap. 35. S. Hierom Tradit. Heb.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5941,7 +6156,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Jacob seeing God's hand in this change of his brother's mind, not of flattery, but sincerely acknowledged his benignity, as God's countenance towards him."
+              "text": "Jacob seeing God's hand in this change of his brother's mind, not of flattery, but sincerely acknowledged his benignity, as God's countenance towards him.",
+              "kind": "gloss"
             }
           ]
         },
@@ -5997,7 +6213,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "O Dina (saith S. Bernard) what need was there to see women of a strange country! <i>Tract. de gradib. humilitatis.</i>"
+              "text": "O Dina (saith S. Bernard) what need was there to see women of a strange country! <i>Tract. de gradib. humilitatis.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -6051,7 +6268,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "They offended by falsely pretending religion, and by excess in revenge, & therefore are reproved by their father. v. 30. & cap. 49. v. 5. Otherwise their zeal was just to punish so foul a fault <i>Judith. 9.</i>"
+              "text": "They offended by falsely pretending religion, and by excess in revenge, & therefore are reproved by their father. v. 30. & chap. 49. v. 5. Otherwise their zeal was just to punish so foul a fault <i>Judith. 9.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -6061,7 +6279,7 @@
         },
         {
           "verse": 15,
-          "text": "But in this order we may be considerate, if you will be like to us, and all the man sex among you be circumcised:"
+          "text": "But in this order we may be confederate, if you will be like to us, and all the man sex among you be circumcised:"
         },
         {
           "verse": 16,
@@ -6144,7 +6362,7 @@
         },
         {
           "verse": 3,
-          "text": "Arise, and let us go up into Bethel, that we may make there an altar unto God: who herd me in the day of my tribulation, and accompanied me in my journey."
+          "text": "Arise, and let us go up into Bethel, that we may make there an altar unto God: who heard me in the day of my tribulation, and accompanied me in my journey."
         },
         {
           "verse": 4,
@@ -6152,7 +6370,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>An execrable tree.</i>"
+              "text": "<i>An execrable tree.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -6162,7 +6381,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "God (when it pleaseth him) maketh the weak stronger than the mighty, and few more terrible than many. <i>S. Chrisost. ho. 59. S. Aug. q. 112. in Gen.</i>"
+              "text": "God (when it pleaseth him) maketh the weak stronger than the mighty, and few more terrible than many. <i>S. Chrisost. ho. 59. S. Aug. q. 112. in Gen.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -6189,7 +6409,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "The name of supplanter not sufficiently expressing his valor he is also called Israel. See the Annotation."
+              "text": "The name of supplanter not sufficiently expressing his valour he is also called Israel. See the Annotation.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6232,6 +6453,9 @@
             {
               "text": "Math. 2."
             }
+          ],
+          "xrefs": [
+            "Matt. 2."
           ]
         },
         {
@@ -6248,7 +6472,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "For this fact Ruben was excluded from the chief dignity among his brethren. Gen. 49."
+              "text": "For this fact Ruben was excluded from the chief dignity among his brethren. Gen. 49.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6306,7 +6531,7 @@
         },
         {
           "verse": 5,
-          "text": "Oolibama bare Jehus and Ihelon and Core, these are the sons of Esau, that were born to him in the land of Chanaan."
+          "text": "Oolibama bare Jehus and Ihelon and Coree, these are the sons of Esau, that were born to him in the land of Chanaan."
         },
         {
           "verse": 6,
@@ -6315,7 +6540,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "The separation of Esau from Jacob."
+              "text": "The separation of Esau from Jacob.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6349,7 +6575,7 @@
         },
         {
           "verse": 14,
-          "text": "These also were the sons of Oolibama, the daughter of Ana, the daughter of Sebeon, the wife of Esau, which she bare to him, Jehus, and Ihelon, and Core."
+          "text": "These also were the sons of Oolibama, the daughter of Ana, the daughter of Sebeon, the wife of Esau, which she bare to him, Jehus, and Ihelon, and Coree."
         },
         {
           "verse": 15,
@@ -6357,15 +6583,15 @@
         },
         {
           "verse": 16,
-          "text": "Duke Core, Duke Gatham, Duke Amalech, these are the sons of Eliphaz in the land of Edom, & these are the sons of Ada."
+          "text": "Duke Coree, Duke Gatham, Duke Amalech, these are the sons of Eliphaz in the land of Edom, & these are the sons of Ada."
         },
         {
           "verse": 17,
-          "text": "These also were the sons of Rahuel, the son of Esau: Duke Nahath, Duke Zara, Duke Samma, Duke Meza. And these be the Dukes of Rahuel, in the Land of Edom: these be the sons of Basemath the wife of Esau."
+          "text": "These also were the sons of Rahuel, the son of Esau: Duke Nahath, Duke Zara, Duke Zamma, Duke Meza. And these be the Dukes of Rahuel, in the Land of Edom: these be the sons of Basemath the wife of Esau."
         },
         {
           "verse": 18,
-          "text": "And these were the sons of Oolibama the wife of Esau: Duke Jehus, Duke Ihelon, Duke Core. These be the Dukes of Oolibama, the daughter of Ana, and wife of Esau."
+          "text": "And these were the sons of Oolibama the wife of Esau: Duke Jehus, Duke Ihelon, Duke Coree. These be the Dukes of Oolibama, the daughter of Ana, and wife of Esau."
         },
         {
           "verse": 19,
@@ -6429,7 +6655,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "By the common opinion of Latin and Greek fathers this was holy Job, as we shall discuss when we come to his book"
+              "text": "By the common opinion of Latin and Greek fathers this was holy Job, as we shall discuss when we come to his book",
+              "kind": "gloss"
             }
           ]
         },
@@ -6439,7 +6666,7 @@
         },
         {
           "verse": 35,
-          "text": "He also being dead, there reigned in his stead Adad the son of Badad, that struck Madian in the country of Moab: and the name of his city was Avith."
+          "text": "He also being dead, there reigned in his stead Adad the son of Badad, that stroke Madian in the country of Moab: and the name of his city was Avith."
         },
         {
           "verse": 36,
@@ -6455,7 +6682,7 @@
         },
         {
           "verse": 39,
-          "text": "This men also being dead Adar reigned in his place, and the name of his city was Phau: and his wife was called Meetabel, the daughter of Matred, daughter of Mezaab."
+          "text": "This man also being dead Adar reigned in his place, and the name of his city was Phau: and his wife was called Meetabel, the daughter of Matred, daughter of Mezaab."
         },
         {
           "verse": 40,
@@ -6467,7 +6694,7 @@
         },
         {
           "verse": 42,
-          "text": "Duke Cenez, Duke Theman, Duke Mabsar,"
+          "text": "Duke Cenez, Duke Theman, Duke Mabser,"
         },
         {
           "verse": 43,
@@ -6489,17 +6716,19 @@
           "notes": [
             {
               "label": "a",
-              "text": "These things following happened to Jacob, in his generations, that is in his children. <i>See S. Chrisost. ho. 23. in Gen.</i>"
+              "text": "These things following happened to Jacob, in his generations, that is in his children. <i>See S. Chrisost. ho. 23. in Gen.</i>",
+              "kind": "gloss"
             },
             {
               "label": "b",
-              "text": "That for ill life they were infamous, the Hebrew word <i>dibba</i> signifieth <i>infamy.</i>"
+              "text": "That for ill life they were infamous, the Hebrew word <i>dibba</i> signifieth <i>infamy.</i>",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 3,
-          "text": "And Israel loved Joseph above all his sons, because he had begotten him in his old age and he made him a coat of diverse colours.",
+          "text": "And Israel loved Joseph above all his sons, because he had begotten him in his old age and he made him a coat of divers colours.",
           "has_annotation": true
         },
         {
@@ -6508,7 +6737,7 @@
         },
         {
           "verse": 5,
-          "text": "It chanced also that he reported to his brethren a dream that he had seen, which occasion was the seed of great hatred."
+          "text": "It chanced also that he reported to his brethren a dream that he had seen, which occasion was the seed of greater hatred."
         },
         {
           "verse": 6,
@@ -6520,7 +6749,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle on Friday, in the second week of Lent."
+              "text": "The Epistle on Friday, in the second week of Lent.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6542,7 +6772,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Brothers easily envy each other: but the parents are glad of their children's advancement."
+              "text": "Brothers easily envy each other: but the parents are glad of their children's advancement.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6568,7 +6799,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "So Christ, & all good Pastors."
+              "text": "So Christ, & all good Pastors.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6590,7 +6822,8 @@
           "notes": [
             {
               "label": "e",
-              "text": "So the Jews thinking to prevent Christ's exaltation cooperated unwitting thereto. <i>Prosper. li. de promiss. Dei.</i>"
+              "text": "So the Jews thinking to prevent Christ's exaltation co-operated unwitting thereto. <i>Prosper. li. de promiss. Dei.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -6604,7 +6837,7 @@
         },
         {
           "verse": 23,
-          "text": "As soon therefore as he came unto his brethren, forthwith they stripped him out of his side coat, and of diverse colours,"
+          "text": "As soon therefore as he came unto his brethren, forthwith they stripped him out of his side coat, and of divers colours,"
         },
         {
           "verse": 24,
@@ -6628,7 +6861,8 @@
           "notes": [
             {
               "label": "f",
-              "text": "Some read <i>thirty:</i> And as the reading is diverse, so Christ whom Joseph signified is more & less esteemed of"
+              "text": "Some read <i>thirty:</i> And as the reading is divers, so Christ whom Joseph signified is more & less esteemed of",
+              "kind": "gloss"
             }
           ]
         },
@@ -6679,11 +6913,12 @@
       "verses": [
         {
           "verse": 1,
-          "text": "The <na>(a)</na> same time Judas going down from his brethren, turned in to a man an Odolamite, named Hiras.",
+          "text": "The <na>(a)</na> same time Judas going down from his brethren, turned in to a man an Odollamite, named Hiras.",
           "notes": [
             {
               "label": "a",
-              "text": "Moyses inserteth here this history, because Christ should be born of the genealogy of Judas and Phares. Mat. 1."
+              "text": "Moyses inserteth here this history, because Christ should be born of the genealogy of Judas and Phares. Mat. 1.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6705,11 +6940,11 @@
         },
         {
           "verse": 6,
-          "text": "And Judas gave a wife to Her his first-begotten, named Thamar."
+          "text": "And Judas gave a wife to Her his first begotten, named Thamar."
         },
         {
           "verse": 7,
-          "text": "Also Her the first-begotten of Judas, was wicked in the sight of our Lord, and was slain of him."
+          "text": "Also Her the first begotten of Judas, was wicked in the sight of our Lord, and was slain of him."
         },
         {
           "verse": 8,
@@ -6722,7 +6957,7 @@
         },
         {
           "verse": 10,
-          "text": "And therefore our Lord struck him, because he did a detestable thing."
+          "text": "And therefore our Lord stroke him, because he did a detestable thing."
         },
         {
           "verse": 11,
@@ -6738,7 +6973,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Thamar sinned desiring to be a mother without lawful marriage: and Judas sinned lying with a supposed harlot <i>S. Aug. li. 22. c. 61. 62. & 63. cont. Faust.</i>"
+              "text": "Thamar sinned desiring to be a mother without lawful marriage: and Judas sinned lying with a supposed harlot <i>S. Aug. li. 22. c. 61. 62. & 63. cont. Faust.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -6756,7 +6992,7 @@
         },
         {
           "verse": 17,
-          "text": "He said: I will send thee a kid out of the flocks. And when she said again: I will suffer that thou wilt, if thou give me a pledge, till thou send that which thou dost promise;"
+          "text": "He said: I will send thee a kid out of the flocks. And when she said again: I will suffer that thou wilt, if thou give me a pledge, till thou send that which thou doest promise;"
         },
         {
           "verse": 18,
@@ -6780,7 +7016,7 @@
         },
         {
           "verse": 23,
-          "text": "Judas said: Let her take it to her, surely she cannot charge us with a lie, I sent the kid which I promised: and thou didst not find her."
+          "text": "Judas said: Let her take it to her, surely she can not charge us with a lie, I sent the kid which I promised: and thou didst not find her."
         },
         {
           "verse": 24,
@@ -6788,7 +7024,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Adultery punishable by death, in the law of nature."
+              "text": "Adultery punishable by death, in the law of nature.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6832,7 +7069,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Joseph endowed with all virtues was a special mirror of chastity. <i>S. Amb. li. de Ioseph. c. 1.</i>"
+              "text": "Joseph endued with all virtues was a special mirror of chastity. <i>S. Amb. li. de Ioseph. c. 1.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -6850,7 +7088,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The four cardinal virtues reigned in him."
+              "text": "The four cardinal virtues reigned in him.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6864,11 +7103,12 @@
         },
         {
           "verse": 8,
-          "text": "Who <na>(b)</na> in nowise assenting to that wicked act, said to her: Behold, my master having delivered all things unto me, knoweth not what he hath in his own house:",
+          "text": "Who <na>(b)</na> in no wise assenting to that wicked act, said to her: Behold, my master having delivered all things unto me, knoweth not what he hath in his own house:",
           "notes": [
             {
               "label": "b",
-              "text": "Temperance."
+              "text": "Temperance.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6878,17 +7118,19 @@
           "notes": [
             {
               "label": "c",
-              "text": "Justice."
+              "text": "Justice.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 10,
-          "text": "With these kind of words <na>(d)</na> day by day both the woman was importune upon the young man, and he refused the adultery.",
+          "text": "With these kind of words <na>(d)</na> day by day both the woman was importune upon the young man, and he refused the advowtry.",
           "notes": [
             {
               "label": "d",
-              "text": "Fortitude."
+              "text": "Fortitude.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6902,7 +7144,8 @@
           "notes": [
             {
               "label": "e",
-              "text": "Prudence."
+              "text": "Prudence.",
+              "kind": "gloss"
             }
           ]
         },
@@ -6944,7 +7187,8 @@
           "notes": [
             {
               "label": "f",
-              "text": "God is more specially with his servants in affliction than in prosperity. <i>S. Amb. li. de Ioseph. c. 5.</i>"
+              "text": "God is more specially with his servants in affliction than in prosperity. <i>S. Amb. li. de Ioseph. c. 5.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -6964,11 +7208,11 @@
       "verses": [
         {
           "verse": 1,
-          "text": "These things being so done, it chanced that two Eunuchs, the cup-bearer of the king of Ægypt, and his baker, offended against their lord."
+          "text": "These things being so done, it chanced that two Eunuchs, the cupbearer of the king of Ægypt, and his baker, offended against their lord."
         },
         {
           "verse": 2,
-          "text": "And Pharao being wrath against them (for the one was chief of the cup-bearers, the other chief baker)"
+          "text": "And Pharao being wrath against them (for the one was chief of the cupbearers, the other chief baker)"
         },
         {
           "verse": 3,
@@ -6997,7 +7241,7 @@
         },
         {
           "verse": 9,
-          "text": "The chief of the cup-bearers first told his dream: I saw before me a vine,"
+          "text": "The chief of the cupbearers first told his dream: I saw before me a vine,"
         },
         {
           "verse": 10,
@@ -7005,7 +7249,7 @@
         },
         {
           "verse": 11,
-          "text": "and the cup of Pharao in my hand: and I took the grapes, and wrung them into the cup which I held, and I gave the cup to Pharao."
+          "text": "and the cup of Pharao in my hand: and I took the grapes, and wrong them into the cup which I held, and I gave the cup to Pharao."
         },
         {
           "verse": 12,
@@ -7013,7 +7257,7 @@
         },
         {
           "verse": 13,
-          "text": "after the which Pharao will remember thy service, & will restore thee to thy old degree: & thou shalt give him the cup according to thine office, as before thou hadst wont to do."
+          "text": "after the which Pharao will remember thy service, & will restore thee to thy old degree: & thou shalt give him the cup according to thine office, as before thou haddest wont to do."
         },
         {
           "verse": 14,
@@ -7041,13 +7285,14 @@
           "notes": [
             {
               "label": "a",
-              "text": "Death on the cross was most cruel, & most ignominious. Cicero 7. Ver. yet suffered by Christ and by him made glorious. <i>Sap. 2. Philip. 2.</i>"
+              "text": "Death on the cross was most cruel, & most ignominious. Cicero 7. Ver. yet suffered by Christ and by him made glorious. <i>Sap. 2. Philip. 2.</i>",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 20,
-          "text": "The third day after this was the birth-day of Pharao: who making a great feast to his servants, at the banquet he remembered the master of the cup-bearers, and the chief of the bakers."
+          "text": "The third day after this was the birth day of Pharao: who making a great feast to his servants, at the banquet he remembered the master of the cupbearers, and the chief of the bakers."
         },
         {
           "verse": 21,
@@ -7059,7 +7304,7 @@
         },
         {
           "verse": 23,
-          "text": "And yet notwithstanding the chief of the cup-bearers, prosperous things succeeding, forgat his interpreter."
+          "text": "And yet notwithstanding the chief of the cupbearers, prosperous things succeeding, forgat his interpreter."
         }
       ],
       "summary": "Joseph interpreteth the dreams of two Eunuchs prisoners, 12. that the one should be restored to his office, 16. the other be hanged. 20. The third day the event declared the interpretations to be true, but Joseph is forgotten."
@@ -7073,7 +7318,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Pharao his dreams, and his Eunuchs' were prophetical. For by them God forshewed things to come v. 25. yet they were no Prophets, but Joseph: who had the gift to interpret them. <i>S. Aug. l. 12. c. 9. de Gen. ad lit. S. Greg. l. 11. Moral. in c. 13. Iob.</i>"
+              "text": "Pharao his dreams, and his Eunuchs' were prophetical. For by them God forshewed things to come v. 25. yet they were no Prophets, but Joseph: who had the gift to interpret them. <i>S. Aug. l. 12. c. 9. de Gen. ad lit. S. Greg. l. 11. Moral. in c. 13. Iob.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -7083,7 +7329,7 @@
         },
         {
           "verse": 3,
-          "text": "Other seven also came up out of the river, foul, and carrion lean: and they fed on the very bank of the river, in green places:"
+          "text": "Other seven also came up out of the river, foul, and caryan lean: and they fed on the very bank of the river, in green places:"
         },
         {
           "verse": 4,
@@ -7107,7 +7353,7 @@
         },
         {
           "verse": 9,
-          "text": "Then at length the master of the cup-bearers remembering himself, said: I confess my sin:"
+          "text": "Then at length the master of the cupbearers remembering himself, said: I confess my sin:"
         },
         {
           "verse": 10,
@@ -7131,7 +7377,7 @@
         },
         {
           "verse": 15,
-          "text": "To whom he said: I have seen dreams, and there is not any that can expound them; which I have heard, thou dost most wisely interpret."
+          "text": "To whom he said: I have seen dreams, and there is not any that can expound them; which I have heard, thou doest most wisely interpret."
         },
         {
           "verse": 16,
@@ -7139,7 +7385,7 @@
         },
         {
           "verse": 17,
-          "text": "Pharao therefore told that he had see: Me thought I stood upon the bank of the river,"
+          "text": "Pharao therefore told that he had seen: Me thought I stood upon the bank of the river,"
         },
         {
           "verse": 18,
@@ -7175,7 +7421,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "These things came to pass by God's particular providence. <i>Psal. 4. God called</i> (or caused) <i>a famine upon the land.</i>"
+              "text": "These things came to pass by God's particular providence. <i>Psalm. 4. God called</i> (or caused) <i>a famine upon the land.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -7263,7 +7510,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "<i>Cohen</i> signifieth Priest; as not only the Latin, but also the 70. & Philo and Iosephus here translate; though sometimes it signifieth <i>Prince,</i> as the Chaldey paraphrasis interpreteth, whereby it is probable that this Putiphar was both a priest, and a prince."
+              "text": "<i>Cohen</i> signifieth Priest; as not only the Latin, but also the 70. & Philo and Iosephus here translate; though sometimes it signifieth <i>Prince,</i> as the Chaldey paraphrasis interpreteth, whereby it is probable that this Putiphar was both a priest, and a prince.",
+              "kind": "gloss"
             }
           ]
         },
@@ -7289,11 +7537,12 @@
         },
         {
           "verse": 51,
-          "text": "And he called the name of the first-begotten <na>[1]</na> Manasses, saying: God made me to forget all my labours, and my father's house.",
+          "text": "And he called the name of the first begotten <na>[1]</na> Manasses, saying: God made me to forget all my labours, and my father's house.",
           "notes": [
             {
               "label": "1",
-              "text": "* Oblivion."
+              "text": "* Oblivion.",
+              "kind": "gloss"
             }
           ]
         },
@@ -7303,7 +7552,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "* Fruitful or Growing."
+              "text": "* Fruitful or Growing.",
+              "kind": "gloss"
             }
           ]
         },
@@ -7402,7 +7652,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "If these things which ye say be proved false, ye are to be held as spies for your lying. <i>S. Aug. q. 139. super Gen.</i>"
+              "text": "If these things which ye say be proved false, ye are to be held as spies for your lying. <i>S. Aug. q. 139. super Gen.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -7476,7 +7727,7 @@
         },
         {
           "verse": 34,
-          "text": "and bring your youngest brother to me, that I may know you are not spies: and you may receive this fellow again, that is kept in prison: and afterwards may have license to buy what things you will."
+          "text": "and bring your youngest brother to me, that I may know you are not spies: and you may receive this fellow again, that is kept in prison: and afterwards may have licence to buy what things you will."
         },
         {
           "verse": 35,
@@ -7497,7 +7748,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Mine old age, or, me an old man. S. Aug. q. 142."
+              "text": "Mine old age, or, me an old man. S. Aug. q. 142.",
+              "kind": "gloss"
             }
           ]
         }
@@ -7545,7 +7797,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Guilt of sin is a greater bond than the life of Ruben's sons, which he offered, and Jacob yielded not thereto; & yet granted to this offer of Judas."
+              "text": "Guilt of sin is a greater bond than the life of Ruben's sons, which he offered, and Jacob yielded not thereto; & yet granted to this offer of Judas.",
+              "kind": "gloss"
             }
           ]
         },
@@ -7587,7 +7840,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>Calumniam.</i>"
+              "text": "<i>Calumniam.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -7625,7 +7879,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "They now adore him, who they sold, lest they should adore him. S. Greg. ho. 22. in Ezech."
+              "text": "They now adore him, whom they sold, lest they should adore him. S. Greg. ho. 22. in Ezech.",
+              "kind": "gloss"
             }
           ]
         },
@@ -7655,7 +7910,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "See Exodi. 8. v. 26."
+              "text": "See Exodi. 8. v. 26.",
+              "kind": "gloss"
             }
           ]
         },
@@ -7670,7 +7926,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "Every one having five portions, Benjamin had double. Josephus li. 1. Antiq."
+              "text": "Every one having five portions, Benjamin had double. Josephus li. 1. Antiq.",
+              "kind": "gloss"
             }
           ]
         }
@@ -7690,7 +7947,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "By this Joseph tried his brethren's affection, whether they would entreat for Benjamin, or suffer him to be captive: as they had before sold himself to captivity. <i>Theo. q. 105. in Gen.</i>"
+              "text": "By this Joseph tried his brethren's affection, whether they would entreat for Benjamin, or suffer him to be captive: as they had before sold himself to captivity. <i>Theo. q. 105. in Gen.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -7700,7 +7958,7 @@
         },
         {
           "verse": 4,
-          "text": "And they were now departed out of the city, and had gone forward a little way: then Joseph sending for the steward of his house, said: Arise, quote he, and pursue the men: and overtaking them say to them: Why have you rendered evil for good?"
+          "text": "And they were now departed out of the city, and had gone forward a little way: then Joseph sending for the steward of his house, said: Arise, quoth he, and pursue the men: and overtaking them say to them: Why have you rendered evil for good?"
         },
         {
           "verse": 5,
@@ -7740,7 +7998,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Otorments of mercy! He vexeth whom he loveth. <i>S. Greg. ho. 22. in Ezech.</i>"
+              "text": "O torments of mercy! He vexeth whom he loveth. <i>S. Greg. ho. 22. in Ezech.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -7754,7 +8013,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Joseph being indeed a Prophet, knowing more than all sorcerers in Ægypt spoke of himself as he was esteemed in that place. <i>S. Aug. q. 145. super Gen.</i>"
+              "text": "Joseph being indeed a Prophet, knowing more than all sorcerers in Ægypt spoke of himself as he was esteemed in that place. <i>S. Aug. q. 145. super Gen.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -7816,7 +8076,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "See Gen. 42. v. 38."
+              "text": "See Gen. 42. v. 38.",
+              "kind": "gloss"
             }
           ]
         },
@@ -7868,7 +8129,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "God's providence turned their evil dealing to the good of the whole family, <i>chap. 50. v. 20.</i>"
+              "text": "God's providence turned their evil dealing to the good of the whole family, <i>chap. 50. v. 20.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -7890,7 +8152,7 @@
         },
         {
           "verse": 10,
-          "text": "And thou shalt dwell in the land of Gessen: and thou shalt be near me thou and thy sons, and thy son's children, thy sheep, and thy herds, and all things that thou dost possess."
+          "text": "And thou shalt dwell in the land of Gessen: and thou shalt be near me thou and thy sons, and thy sons children, thy sheep, and thy herds, and all things that thou dost possess."
         },
         {
           "verse": 11,
@@ -7918,7 +8180,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Joseph's prudent proceeding before he made himself known to his brethren and them to Pharao, procured all this joy and favour towards them in Ægypt."
+              "text": "Joseph's prudent proceeding before he made himself known to his brethren and them to Pharao, procured all this joy and favour towards them in Ægypt.",
+              "kind": "gloss"
             }
           ]
         },
@@ -7984,7 +8247,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Of Jacob and his progenies going into Ægypt. Of his and Joseph's death."
+              "text": "Of Jacob and his progenies going into Ægypt. Of his and Joseph's death.",
+              "kind": "gloss"
             }
           ]
         },
@@ -8046,7 +8310,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "That is, She bare their fathers in Mesopotamia. <i>S. Aug. q. 131. in Gen.</i>"
+              "text": "That is, She bare their fathers in Mesopotamia. <i>S. Aug. q. 131. in Gen.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -8092,7 +8357,7 @@
         },
         {
           "verse": 26,
-          "text": "All the souls, that entered with Jacob into Ægypt, and that came out of his thigh, besides his son's wives, sixty six.",
+          "text": "All the souls, that entered with Jacob into Ægypt, and that came out of his thigh, besides his sons wives, sixty six.",
           "has_annotation": true
         },
         {
@@ -8105,7 +8370,7 @@
         },
         {
           "verse": 29,
-          "text": "Wither when he was come, Joseph addressing his chariot went up to meet his father, unto the same place: and seeing him fell upon his neck, and as they embraced he wept."
+          "text": "Whither when he was come, Joseph addressing his chariot went up to meet his father, unto the same place: and seeing him fell upon his neck, and as they embraced he wept."
         },
         {
           "verse": 30,
@@ -8129,7 +8394,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Ægyptians honouring sheep, goats, and kine for gods, detested them that did govern, kill, or eat those cattle."
+              "text": "Ægyptians honouring sheep, goats, and kine for gods, detested them that did govern, kill, or eat those cattle.",
+              "kind": "gloss"
             }
           ]
         }
@@ -8159,7 +8425,7 @@
         },
         {
           "verse": 4,
-          "text": "We are come to sojourn in the land, because there is no grass for thy servant's flocks, the famine being very sore in the land of Chanaan: and we desire thee to command that we thy servants may be in the Land of Gessen."
+          "text": "We are come to sojourn in the land, because there is no grass for thy servants flocks, the famine being very sore in the land of Chanaan: and we desire thee to command that we thy servants may be in the Land of Gessen."
         },
         {
           "verse": 5,
@@ -8171,7 +8437,7 @@
         },
         {
           "verse": 7,
-          "text": "After this Joseph brought in his father to the king, and set him before him: who blessed him,"
+          "text": "After this Joseph brought in his father to the king, and set him before him: who blessing him,"
         },
         {
           "verse": 8,
@@ -8183,7 +8449,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Every man's life is short, & replenished with many miseries. <i>Job. 14.</i>"
+              "text": "Every man's life is short, & replenished with many miseries. <i>Job. 14.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -8242,7 +8509,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "The Priests of Ægypt being not forced to labour for their living, found out the Mathematics as witnesseth Aristotle <i>in princ. Metaph.</i>"
+              "text": "The Priests of Ægypt being not forced to labour for their living, found out the Mathematics as witnesseth Aristotle <i>in princ. Metaph.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -8260,7 +8528,7 @@
         },
         {
           "verse": 26,
-          "text": "From that time until this present day in the whole land of Ægypt, the fifth part is payed to the kings, and it became as it were a law, saving the land of the Priests, which was free from this condition."
+          "text": "From that time until this present day in the whole land of Ægypt, the fifth part is paid to the kings, and it became as it were a law, saving the land of the Priests, which was free from this condition."
         },
         {
           "verse": 27,
@@ -8321,6 +8589,9 @@
             {
               "text": "Mat. 2."
             }
+          ],
+          "xrefs": [
+            "Matt. 2."
           ]
         },
         {
@@ -8354,7 +8625,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "By this he made a cross prefiguring the Cross of Christ. Isidor. in hunc locum."
+              "text": "By this he made a cross prefiguring the Cross of Christ. Isidor. in hunc locum.",
+              "kind": "gloss"
             }
           ]
         },
@@ -8403,7 +8675,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "These are predictions, not all blessings. <i>S. Amb. li. de Benedict Patriar.</i>"
+              "text": "These are predictions, not all blessings. <i>S. Amb. li. de Benedict Patriar.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -8413,7 +8686,7 @@
         },
         {
           "verse": 3,
-          "text": "Ruben my first-begotten, thou art my strength, & the beginning of my sorrow: former in gifts, greater in Empire."
+          "text": "Ruben my first begotten, thou art my strength, & the beginning of my sorrow: former in gifts, greater in Empire."
         },
         {
           "verse": 4,
@@ -8422,7 +8695,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "A prophecy not an imprecation. <i>S. Aug. li. 12. c. 33. cont. Faust.</i>"
+              "text": "A prophecy not an imprecation. <i>S. Aug. li. 12. c. 33. cont. Faust.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -8433,7 +8707,7 @@
         },
         {
           "verse": 6,
-          "text": "Into their counsel come not my soul, and in their congregation be not my glory: because in their fury they slew a man, and in their willfulness they undermined a wall."
+          "text": "Into their counsel come not my soul, and in their congregation be not my glory: because in their fury they slew a man, and in their wilfulness they undermined a wall."
         },
         {
           "verse": 7,
@@ -8454,7 +8728,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "That these are most profound Mysteries, is easy to conceive, but most hard to understand them. In some the Patriarch recounteth things past in his life, foretelling the effects thereof to come. Other things he foresheweth pertaining to the division of the Land of Chanaan, others to the times of the Judges, of the Kings, of the Captivity, of Delivery from thence, of Christ, of Antichrist, and of the end of this world. Of all which diverse ancient fathers have written large commentaries, and godly treatises."
+              "text": "That these are most profound Mysteries, is easy to conceive, but most hard to understand them. In some the Patriarch recounteth things past in his life, foretelling the effects thereof to come. Other things he foresheweth pertaining to the division of the Land of Chanaan, others to the times of the Judges, of the Kings, of the Captivity, of Delivery from thence, of Christ, of Antichrist, and of the end of this world. Of all which divers ancient fathers have written large commentaries, and godly treatises.",
+              "kind": "gloss"
             }
           ]
         },
@@ -8515,7 +8790,7 @@
         },
         {
           "verse": 24,
-          "text": "His bow sat upon the strong, and the bands of his arms and his hands were dissolved, by the hands of the Mighty of Jacob: thence came forth a pastor, the son of Israel."
+          "text": "His bow sat upon the strong, and the bands of his arms and his hands were dissolved, by the hands of the Mighty of Jacob: thence came forth a pastor, the stone of Israel."
         },
         {
           "verse": 25,
@@ -8531,7 +8806,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "This prophecy S. Augustin understandeth of S. Paul, of the tribe of Benjamin, who was first a persecutor, and after an Apostle of Christ. <i>Ser. 14. de Sanctis.</i>"
+              "text": "This prophecy S. Augustin understandeth of S. Paul, of the tribe of Benjamin, who was first a persecutor, and after an Apostle of Christ. <i>Ser. 14. de Sanctis.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -8575,7 +8851,7 @@
         },
         {
           "verse": 4,
-          "text": "And the mourning time being expired, Joseph spake to the family of Pharao: If I have found grace in your sight, speak in the ears of Pharao:"
+          "text": "And the mourning-time being expired, Joseph spake to the family of Pharao: If I have found grace in your sight, speak in the ears of Pharao:"
         },
         {
           "verse": 5,
@@ -8583,7 +8859,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Jacob digged a sepulchre for himself, though it be not heretofore mentioned when he did it. <i>S. Aug. q. 170. in Gen.</i>"
+              "text": "Jacob digged a sepulchre for himself, though it be not heretofore mentioned when he did it. <i>S. Aug. q. 170. in Gen.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -8641,7 +8918,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "This word <i>adoring</i> often in holy Scripture signifieth civil honour; as here it can have no other sense."
+              "text": "This word <i>adoring</i> often in holy Scripture signifieth civil honour; as here it can have no other sense.",
+              "kind": "gloss"
             }
           ]
         },
@@ -8660,7 +8938,7 @@
         },
         {
           "verse": 22,
-          "text": "And he dwelt in Ægypt, with all his father's house: and lived an hundred and ten years. And he saw the children of Ephraim unto the third generation. Also the children of Machir the son of Manasses were born in Joseph's knee."
+          "text": "And he dwelt in Ægypt, with all his father's house: and lived an hundred and ten years. And he saw the children of Ephraim unto the third generation. Also the children of Machir the son of Manasses were born in Joseph's knees."
         },
         {
           "verse": 23,

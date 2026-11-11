@@ -30,7 +30,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle upon the 10. Sunday after Pentecost."
+              "text": "The Epistle upon the 10. Sunday after Pentecost.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -81,7 +82,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The beginning of all Schisms is over much admiring & addicting men's selves to their own particular Masters."
+              "text": "The beginning of all Schisms is over much admiring & addicting men's selves to their own particular Masters.",
+              "kind": "gloss"
             }
           ]
         },
@@ -149,7 +151,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle for S. Agatha, <i>Febr. 5.</i>"
+              "text": "The Epistle for S. Agatha, <i>Febr. 5.</i>",
+              "kind": "lectionary"
             }
           ]
         },
@@ -243,7 +246,7 @@
         },
         {
           "verse": 10,
-          "text": "But to us God hath revealed by his Spirit. For the Spirit searcheth all things, yea the profundities of God."
+          "text": "But to us God hath revealed by his Spirit. For the Spirit searcheth all things, yea the profoundities of God."
         },
         {
           "verse": 11,
@@ -274,6 +277,10 @@
           "cross_refs": [
             {
               "text": "Esa. 40, 14."
+            },
+            {
+              "text": "Esa. 40, 13",
+              "source": "sancta"
             }
           ]
         }
@@ -293,7 +300,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Church only hath truth both in her milk and in her bread: that is, whether she instruct the perfect, or the imperfect who are called carnal. <i>Aug. li. 15. c. 3. cont. Faust.</i>"
+              "text": "The Church only hath truth both in her milk and in her bread: that is, whether she instruct the perfect, or the imperfect who are called carnal. <i>Aug. li. 15. c. 3. cont. Faust.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -303,11 +311,12 @@
         },
         {
           "verse": 4,
-          "text": "For when one saith, I certes am Paul's, & another, I Apollo's; are you not <na>[1]</na> <alt>men</alt>? What is Apollo then? and what is Paul?",
+          "text": "For when one saith, I certes am Paul's, & another, I Apollos; are you not <na>[1]</na> <alt>men</alt>? What is Apollo then? and what is Paul?",
           "notes": [
             {
               "label": "1",
-              "text": "<i>carnal</i>"
+              "text": "<i>carnal</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -334,11 +343,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "c A marvelous dignity of spiritual pastors, that they be not only the instruments or ministers of Christ (as Castal. noteth Beza falsely translateth <i>Administri,</i> for <i>Coadjutores</i> ), but indeed God's coadjutors in the work of our Salvation."
+              "text": "c A marvelous dignity of spiritual pastors, that they be not only the instruments or ministers of Christ (as Castal. noteth Beza falsely translateth <i>Administri,</i> for <i>Coadjutores</i> ), but indeed God's coadjutors in the work of our Salvation.",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "<i>c συνεργοὶ</i>"
+              "text": "<i>c συνεργοὶ</i>",
+              "kind": "word"
             }
           ]
         },
@@ -423,7 +434,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle upon the 4. Sunday of Advent."
+              "text": "The Epistle upon the 4. Sunday of Advent.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -433,7 +445,7 @@
         },
         {
           "verse": 3,
-          "text": "But to me it is a thing of least account, to be judged of you, or of man's day: But I judge not my-self neither."
+          "text": "But to me it is a thing of least account, to be judged of you, or of man's day: But I judge not my self neither."
         },
         {
           "verse": 4,
@@ -446,17 +458,18 @@
         },
         {
           "verse": 6,
-          "text": "But these things, brethren, <na>[1]</na> I have transfigured into myself and Apollo, for you; that in us you may learn, one not to be puffed up against another, above that is written.",
+          "text": "But these things, brethren, <na>[1]</na> I have transfigured into my self and Apollo, for you; that in us you may learn, one not to be puffed up against another, above that is written.",
           "notes": [
             {
               "label": "1",
-              "text": "Lo when he named himself, and Apollo, & Cephas: he meant other seditious and factious preachers whose names he spared."
+              "text": "Lo when he named himself, and Apollo, & Cephas: he meant other seditious and factious preachers whose names he spared.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 7,
-          "text": "For who discerneth thee? Or what hast thou that thou hast not received? And if thou hast received, what doest thou glory as though thou hast not received?"
+          "text": "For who discerneth thee? Or what hast thou that thou hast not received? And if thou hast received, what doest thou glory as though thou hast nor received?"
         },
         {
           "verse": 8,
@@ -468,11 +481,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "a The Epistle upon S. James' day, <i>Iul. 25.</i>"
+              "text": "a The Epistle upon S. James' day, <i>Iul. 25.</i>",
+              "kind": "lectionary"
             },
             {
               "label": "2",
-              "text": "b The Epistle upon SS. Simon and Jude's eve, Octob. 27. And for some Confessors, not Bishops."
+              "text": "b The Epistle upon SS. Simon and Jude's eve, Octob. 27. And for some Confessors, not Bishops.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -502,7 +517,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c So may S. Augustine our Apostle say to us English men."
+              "text": "c So may S. Augustine our Apostle say to us English men.",
+              "kind": "gloss"
             }
           ]
         },
@@ -552,7 +568,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Christian men should be sorrowful to see grievous offences born withal, and ought zealously to seek the offender's punishment by excommunication."
+              "text": "Christian men should be sorrowful to see grievous offences borne withal, and ought zealously to seek the offenders punishment by excommunication.",
+              "kind": "gloss"
             }
           ]
         },
@@ -581,7 +598,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle upon Easter day."
+              "text": "The Epistle upon Easter day.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -596,7 +614,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c Either this Epistle in the words before, or some other."
+              "text": "c Either this Epistle in the words before, or some other.",
+              "kind": "gloss"
             }
           ]
         },
@@ -611,7 +630,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c A notorious willful corruption in the Bible 1562: translating in the verse before, <i>Idolaters</i> ; and here, <i>worshiper of images</i>: the Apostle's word being one, εἰδωλολάτρης, <i>Idolater</i>."
+              "text": "c A notorious wilful corruption in the Bible 1562: translating in the verse before, <i>Idolaters</i> ; and here, <i>worshipper of images</i>: the Apostles word being one, εἰδωλολάτρης, <i>Idolater</i>.",
+              "kind": "gloss"
             }
           ]
         },
@@ -646,7 +666,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The faithful judge and give sentence with God at the later day, specially the Apostles and the perfect Christians that have forsaken all for Christ's sake."
+              "text": "The faithful judge and give sentence with God at the later day, specially the Apostles and the perfect Christians that have forsaken all for Christ's sake.",
+              "kind": "gloss"
             }
           ]
         },
@@ -682,11 +703,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "c For this, the English Bible 1562 falsely translateth,"
+              "text": "c For this, the English Bible 1562 falsely translateth,",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "<i>c εἰδωλολάτραι</i>"
+              "text": "<i>c εἰδωλολάτραι</i>",
+              "kind": "word"
             }
           ]
         },
@@ -729,11 +752,12 @@
         },
         {
           "verse": 18,
-          "text": "Fly fornication. Every sin whatsoever a man doeth is without the body: but he that doeth fornicate, sinneth <na>[1]</na> against his own body.",
+          "text": "Flee fornication. Every sin whatsoever a man doth is without the body: but he that doth fornicate, sinneth <na>[1]</na> against his own body.",
           "notes": [
             {
               "label": "1",
-              "text": "Fornication is not only enemy to the soul, but wasteth, weakeneth, corrupteth and defileth the body, more properly and directly than any other sins do."
+              "text": "Fornication is not only enemy to the soul, but wasteth, weakeneth, corrupteth and defileth the body, more properly and directly than any other sins do.",
+              "kind": "gloss"
             }
           ]
         },
@@ -767,7 +791,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>c debitum reddat.</i>"
+              "text": "<i>c debitum reddat.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -782,11 +807,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "If the layman cannot pray, unless he abstain from his wife: the Priest that always must offer sacrifices, and always pray, must therefore always be free from matrimony. <i>Hiero. li. 1. c. 19. adver. Iovin.</i>"
+              "text": "If the layman cannot pray, unless he abstain from his wife: the Priest that always must offer sacrifices, and always pray, must therefore always be free from matrimony. <i>Hiero. li. 1. c. 19. adver. Iovin.</i>",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "<i>to fasting & prayer:</i>"
+              "text": "<i>to fasting & prayer:</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -806,7 +833,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Before he treated of the continency of such as were married, now he giveth lessons for the unmarried also."
+              "text": "Before he treated of the continency of such as were married, now he giveth lessons for the unmarried also.",
+              "kind": "gloss"
             }
           ]
         },
@@ -817,7 +845,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>c uri. πυροῦσθαι.</i>"
+              "text": "<i>c uri. πυροῦσθαι.</i>",
+              "kind": "word"
             }
           ]
         },
@@ -884,7 +913,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>c libertus</i>"
+              "text": "<i>c libertus</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -894,7 +924,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "You must not serve men so that you obey & please them more than God."
+              "text": "You must not serve men so that you obey & please them more than God.",
+              "kind": "gloss"
             }
           ]
         },
@@ -904,7 +935,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>one, brethren,</i>"
+              "text": "<i>one, brethren,</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -915,7 +947,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle for holy Virgins not Martyrs."
+              "text": "The Epistle for holy Virgins not Martyrs.",
+              "kind": "gloss"
             }
           ]
         },
@@ -934,7 +967,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Virginity counseled as the better: Marriage not forbidden, because it is no sin."
+              "text": "Virginity counseled as the better: Marriage not forbidden, because it is no sin.",
+              "kind": "gloss"
             }
           ]
         },
@@ -995,7 +1029,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c The state of widowhood more blessed, than the state of matrimony."
+              "text": "c The state of widowhood more blessed, than the state of matrimony.",
+              "kind": "gloss"
             }
           ]
         }
@@ -1018,7 +1053,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Knowledge without charity puffeth up in pride, and profiteth nothing at all: when it is joined with charity, then it edifieth. <i>Aug. li. 9. civ. Dei. c. 20.</i>"
+              "text": "Knowledge without charity puffeth up in pride, and profiteth nothing at all: when it is joined with charity, then it edifieth. <i>Aug. li. 9. civ. Dei. c. 20.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -1036,11 +1072,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "No meats unclean."
+              "text": "No meats unclean.",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "Giving of scandal reprehended. 7. <i>Some with a conscience.]</i> The perfecter men's fault was, that they gave offence by their eating, to the weaker Christians. Who seeing them whom they reputed wise and learned, to eat the meats offered to Idols, conceived that there was some virtue and sanctification in those meats, from the Idol to which they were offered: and thought that such things were or might be eaten with the same conscience and devotion as before their conversion."
+              "text": "Giving of scandal reprehended. 7. <i>Some with a conscience.]</i> The perfecter men's fault was, that they gave offence by their eating, to the weaker Christians. Who seeing them whom they reputed wise and learned, to eat the meats offered to Idols, conceived that there was some virtue and sanctification in those meats, from the Idol to which they were offered: and thought that such things were or might be eaten with the same conscience and devotion as before their conversion.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1063,11 +1101,11 @@
         },
         {
           "verse": 9,
-          "text": "But take heed lest perhaps this your liberty become an offence to the weak."
+          "text": "But take heed lest perhaps this your liberty be an offence to the weak."
         },
         {
           "verse": 10,
-          "text": "For if a man see him that hath knowledge, sit at table in the idol's temple; shall not his conscience, being weak, be edified, to eat things sacrificed to idols?",
+          "text": "For if a man see him that hath knowledge, sit at table in the idols temple; shall not his conscience, being weak, be edified, to eat things sacrificed to idols?",
           "has_annotation": true
         },
         {
@@ -1123,12 +1161,13 @@
         },
         {
           "verse": 5,
-          "text": "Have we not power to lead about a woman a sister, as also the rest of the Apostles, and our Lord's brethren, and <na>[1]</na> Cephas?",
+          "text": "Have we not power to lead about a woman a sister, as also the rest of the Apostles, and our Lords brethren, and <na>[1]</na> Cephas?",
           "has_annotation": true,
           "notes": [
             {
               "label": "1",
-              "text": "He nameth Cephas (that is Peter) to prove his purpose by the example of the chief and Prince of the Apostles. <i>S. Ambro. S. Chrys. Oecum.</i> upon this place."
+              "text": "He nameth Cephas (that is Peter) to prove his purpose by the example of the chief and Prince of the Apostles. <i>S. Ambro. S. Chrys. Oecum.</i> upon this place.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1156,13 +1195,14 @@
           "notes": [
             {
               "label": "2",
-              "text": "In that country they did tread out their corn with oxen, as we do thresh it out."
+              "text": "In that country they did tread out their corn with oxen, as we do thresh it out.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 10,
-          "text": "Or for us certes doth he say it? For they are written for us. Because he that eareth, ought to ear in hope: and he that treadeth, in hope to receive fruit."
+          "text": "Or for us certes doth he say it? For they are written for us. Because he that eateth, ought to eat in hope: and he that treadeth, in hope to receive fruit."
         },
         {
           "verse": 11,
@@ -1183,11 +1223,13 @@
           "notes": [
             {
               "label": "2",
-              "text": "c The English Bible <i>(1562)</i> here and in the next chapter, saith thrice for <i>altar, temple:</i> most falsely & heretically, against holy altars, which about the time of that translation were digged down in England."
+              "text": "c The English Bible <i>(1562)</i> here and in the next chapter, saith thrice for <i>altar, temple:</i> most falsely & heretically, against holy altars, which about the time of that translation were digged down in England.",
+              "kind": "gloss"
             },
             {
               "label": "3",
-              "text": "<i>c τῷ θυσιαςηρίῳ,</i>"
+              "text": "<i>c τῷ θυσιαςηρίῳ,</i>",
+              "kind": "word"
             }
           ]
         },
@@ -1214,7 +1256,7 @@
         },
         {
           "verse": 19,
-          "text": "For whereas I was free of all, I made myself the servant of all: that I might gain the more."
+          "text": "For whereas I was free of all, I made my self the servant of all: that I might gain the more."
         },
         {
           "verse": 20,
@@ -1230,7 +1272,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Not by fiction or simulation, but by compassion of the infirmities of all sorts. <i>Aug. ep. 9.</i>"
+              "text": "Not by fiction or simulation, but by compassion of the infirmities of all sorts. <i>Aug. ep. 9.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -1241,18 +1284,19 @@
         },
         {
           "verse": 24,
-          "text": "<na>[1]</na> Know you not that they that run in the race, all run indeed, but one receiveth the prize? So run that you may obtain.",
+          "text": "<na>[1]</na> Know you not that they that run in the race, all run indeed, but one receiveth the price? So run that you may obtain.",
           "has_annotation": true,
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle upon the Sunday of Septuagesima."
+              "text": "The Epistle upon the Sunday of Septuagesima.",
+              "kind": "lectionary"
             }
           ]
         },
         {
           "verse": 25,
-          "text": "And every one the striveth for the mastery, refraineth himself from all things: and they certes, that they may receive a corruptible crown: but we an incorruptible."
+          "text": "And every one that striveth for the mastery, refraineth him self from all things: and they certes, that they may receive a corruptible crown: but we an incorruptible."
         },
         {
           "verse": 26,
@@ -1260,7 +1304,7 @@
         },
         {
           "verse": 27,
-          "text": "But I chastise my body, and bring it into servitude, lest perhaps when I have preached to others, myself become reprobate.",
+          "text": "But I chastise my body, and bring it into servitude, lest perhaps when I have preached to others, my self become reprobate.",
           "has_annotation": true
         }
       ],
@@ -1279,6 +1323,9 @@
             {
               "text": "Nu. 8, 18."
             }
+          ],
+          "xrefs": [
+            "Exo. 13, 21. · Nu. 8, 18."
           ]
         },
         {
@@ -1305,6 +1352,9 @@
             {
               "text": "Exo. 17, 6. Nu. 20, 10."
             }
+          ],
+          "xrefs": [
+            "Exo. 17, 6. Nu. 20, 10."
           ]
         },
         {
@@ -1314,6 +1364,9 @@
             {
               "text": "Nu. 26, 63."
             }
+          ],
+          "xrefs": [
+            "Nu. 26, 63."
           ]
         },
         {
@@ -1327,8 +1380,12 @@
           "notes": [
             {
               "label": "2",
-              "text": "The Epistle upon the 9. Sunday after Pentecost."
+              "text": "The Epistle upon the 9. Sunday after Pentecost.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Nu. 11, 4."
           ]
         },
         {
@@ -1347,6 +1404,9 @@
             {
               "text": "Nu. 25, 1."
             }
+          ],
+          "xrefs": [
+            "Nu. 25, 1."
           ]
         },
         {
@@ -1356,6 +1416,9 @@
             {
               "text": "Nu. 21, 5."
             }
+          ],
+          "xrefs": [
+            "Nu. 21, 5."
           ]
         },
         {
@@ -1365,6 +1428,9 @@
             {
               "text": "Nu. 11, 23. 14, 37."
             }
+          ],
+          "xrefs": [
+            "Nu. 11, 23. 14, 37."
           ]
         },
         {
@@ -1377,27 +1443,30 @@
           "notes": [
             {
               "label": "1",
-              "text": "It is profitable to all, or in a manner to all, for to keep them in humility, not to know what they shall be, saith S. Augustine. Which maketh against the vain security of the protestants."
+              "text": "It is profitable to all, or in a manner to all, for to keep them in humility, not to know what they shall be, saith S. Augustine. Which maketh against the vain security of the protestants.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 13,
-          "text": "<na>[1]</na> <alt>Let not tentation apprehend</alt> you, but human. And God is faithful, who will not suffer you to be tempted above that which you are able: but will make also with tentation <na>[2]</na> issue, that you may be able to sustain.",
+          "text": "<na>[1]</na> <alt>Let not tentation apprehend</alt> you, but humane. And God is faithful, who will not suffer you to be tempted above that which you are able: but will make also with tentation <na>[2]</na> issue, that you may be able to sustain.",
           "notes": [
             {
               "label": "1",
-              "text": "<i>Tentation hath not apprehended</i>"
+              "text": "<i>Tentation hath not apprehended</i>",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "<i>c ἔκβασιν</i>"
+              "text": "<i>c ἔκβασιν</i>",
+              "kind": "word"
             }
           ]
         },
         {
           "verse": 14,
-          "text": "For the which cause, my dearest, fly from the serving of idols."
+          "text": "For the which cause, my dearest, flee from the serving of idols."
         },
         {
           "verse": 15,
@@ -1416,7 +1485,7 @@
         },
         {
           "verse": 18,
-          "text": "Behold Israel according to the flesh: they that eat the hosts, are they not partakers of the altar?",
+          "text": "Behold Israël according to the flesh: they that eat the hosts, are they not partakers of the altar?",
           "has_annotation": true
         },
         {
@@ -1430,7 +1499,7 @@
         },
         {
           "verse": 21,
-          "text": "You cannot drink the chalice of our Lord, and the chalice of devils: you cannot be partakers of the table of our Lord, and of the table of devils.",
+          "text": "You cannot drink the chalice of our Lord, and the chalice of devils: you can not be partakers of the table of our Lord, and of the table of devils.",
           "has_annotation": true
         },
         {
@@ -1469,7 +1538,7 @@
         },
         {
           "verse": 29,
-          "text": "conscience I say not thine but the other's. For why is my liberty judged of another man's conscience?"
+          "text": "conscience I say not thine but the others. For why is my liberty judged of another man's conscience?"
         },
         {
           "verse": 30,
@@ -1504,7 +1573,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c In the Greek, <i>Traditions, παραδόσεις.</i>"
+              "text": "c In the Greek, <i>Traditions, παραδόσεις.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -1514,11 +1584,11 @@
         },
         {
           "verse": 4,
-          "text": "Every man praying or prophesying with his head covered, dishonoureth his head."
+          "text": "Every man praying or prophesying with his head covered, dishonesteth his head."
         },
         {
           "verse": 5,
-          "text": "But every woman praying or prophesying with her head not covered, dishonoureth her head: for it is all one as if she were made bald.",
+          "text": "But every woman praying or prophesying with her head not covered, dishonesteth her head: for it is all one as if she were made bald.",
           "has_annotation": true
         },
         {
@@ -1573,7 +1643,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>churches</i>"
+              "text": "<i>churches</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -1587,7 +1658,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle upon Maundy Thursday."
+              "text": "The Epistle upon Maundy Thursday.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -1621,11 +1693,13 @@
           "notes": [
             {
               "label": "3",
-              "text": "a The Epistle upon CORPUS Christi day."
+              "text": "a The Epistle upon CORPUS Christi day.",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "The Apostle's drift in all that he saith here of the Sacrament, is against unworthy receiving (as S. Augustine also noteth <i>Ep. 118. c. 3.</i> ) and not to set out the whole order of ministration, as the heretics do ignorantly imagine."
+              "text": "The Apostle's drift in all that he saith here of the Sacrament, is against unworthy receiving (as S. Augustine also noteth <i>Ep. 118. c. 3.</i> ) and not to set out the whole order of ministration, as the heretics do ignorantly imagine.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1700,7 +1774,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle upon the 10. Sunday after Pentecost."
+              "text": "The Epistle upon the 10. Sunday after Pentecost.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -1734,7 +1809,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "All these Gifts be those which the learned call <i>Gratias gratis datas:</i> which be bestowed often even upon ill livers, which have not the other graces of God whereby their persons should be grateful, just & holy in his sight."
+              "text": "All these Gifts be those which the learned call <i>Gratias gratis datas:</i> which be bestowed often even upon ill livers, which have not the other graces of God whereby their persons should be grateful, just & holy in his sight.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1762,7 +1838,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "A marvelous union betwixt Christ & his church, & a great comfort to all Catholics being members thereof, that the Church and He, the head & the body, make & be called one Christ. <i>Aug. de unit. Ec.</i>"
+              "text": "A marvelous union betwixt Christ & his church, & a great comfort to all Catholics being members thereof, that the Church and He, the head & the body, make & be called one Christ. <i>Aug. de unit. Ec.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -1772,7 +1849,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>one body,</i>"
+              "text": "<i>one body,</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -1836,7 +1914,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "b The Epistle upon S. Bartholomew's day. <i>Augu. 24.</i>"
+              "text": "b The Epistle upon S. Bartholomew's day. <i>Augu. 24.</i>",
+              "kind": "lectionary"
             }
           ]
         },
@@ -1859,7 +1938,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "S. Augustine <i>ep. 137.</i> giveth the same reason, why miracles & cures be done at the memories or bodies of some Saints more than at others: & by the same Saints in one place of their memories rather than at other places."
+              "text": "S. Augustine <i>ep. 137.</i> giveth the same reason, why miracles & cures be done at the memories or bodies of some Saints more than at others: & by the same Saints in one place of their memories rather than at other places.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1886,7 +1966,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle upon the Sunday of Quinquagesima, called Shrove-Sunday."
+              "text": "The Epistle upon the Sunday of Quinquagesima, called Shrove-Sunday.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -1896,7 +1977,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "This proveth that faith is nothing worth to salvation without works, and that there may be true faith without Charity."
+              "text": "This proveth that faith is nothing worth to salvation without works, and that there may be true faith without Charity.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1935,7 +2017,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "By this text S. Augustine <i>li. 22. Civ. c. 29.</i> proveth that the Saints in heaven have more perfect knowledge of our affairs here, than they had when they lived here."
+              "text": "By this text S. Augustine <i>li. 22. Civ. c. 29.</i> proveth that the Saints in heaven have more perfect knowledge of our affairs here, than they had when they lived here.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1954,7 +2037,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Charity is of all the three the greatest. How then doth only faith, being inferior to it, save & justify, and not Charity?"
+              "text": "Charity is of all the three the greatest. How then doth only faith, being inferior to it, save & justify, and not Charity?",
+              "kind": "gloss"
             }
           ]
         }
@@ -1971,20 +2055,20 @@
         },
         {
           "verse": 2,
-          "text": "For he that speaketh with tongues speaketh not to men, but to God: for no man heareth. But in spirit he speaketh mysteries.",
+          "text": "For he that speaketh with tongue speaketh not to men, but to God: for no man heareth. But in spirit he speaketh mysteries.",
           "has_annotation": true
         },
         {
           "verse": 3,
-          "text": "For he that prophesieth, speaketh to men unto edification, & exhortation, & consolation."
+          "text": "For he that prophecieth, speaketh to men unto edification, & exhortation, & consolation."
         },
         {
           "verse": 4,
-          "text": "He that speaketh with tongues, edifieth himself; but he that prophesieth, edifieth the Church."
+          "text": "He that speaketh with tongues, edifieth himself; but he that prophecieth, edifieth the Church."
         },
         {
           "verse": 5,
-          "text": "And I would have you all to speak with tongues, but rather to prophesy. For greater is he that prophesieth, than he that speaketh with tongues: unless perhaps he interpret, that the Church may take edification."
+          "text": "And I would have you all to speak with tongues, but rather to prophesy. For greater is he that prophecieth, than he that speaketh with tongues: unless perhaps he interpret, that the Church may take edification."
         },
         {
           "verse": 6,
@@ -2036,11 +2120,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "c By this word are meant all rude unlearned men, but specially the simple which were yet unchristened, as the Catechumens, which came in to those spiritual exercises, as also infidels did at their pleasures."
+              "text": "c By this word are meant all rude unlearned men, but specially the simple which were yet unchristened, as the Catechumens, which came in to those spiritual exercises, as also infidels did at their pleasures.",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "<i>c idiotæ</i>"
+              "text": "<i>c idiotæ</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -2054,7 +2140,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>with tongues more than you all.</i>"
+              "text": "<i>with tongues more than you all.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -2073,6 +2160,9 @@
             {
               "text": "Esa. 28, 11."
             }
+          ],
+          "xrefs": [
+            "Es. 28, 11."
           ]
         },
         {
@@ -2113,7 +2203,7 @@
         },
         {
           "verse": 30,
-          "text": "But if it be revealed to another sitting, let the first hold his peace."
+          "text": "But if it be revealed to an other sitting, let the first hold his peace."
         },
         {
           "verse": 31,
@@ -2137,6 +2227,10 @@
             },
             {
               "text": "Gen. 3, 16."
+            },
+            {
+              "text": "women. 1 Timothy 2, 12",
+              "source": "sancta"
             }
           ]
         },
@@ -2286,7 +2380,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle upon the 11. Sunday after Pentecost."
+              "text": "The Epistle upon the 11. Sunday after Pentecost.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -2305,12 +2400,17 @@
           "notes": [
             {
               "label": "3",
-              "text": "c This delivery in the Latin & Greek importeth <i>tradition.</i> So by Tradition did the Apostles plant the Church in all truth, before they wrote any thing."
+              "text": "c This delivery in the Latin & Greek importeth <i>tradition.</i> So by Tradition did the Apostles plant the Church in all truth, before they wrote any thing.",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "<i>c tradidi παρέδωκα</i>"
+              "text": "<i>c tradidi παρέδωκα</i>",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Es. 53, 8. Dan. 9, 26. Ps. 15, 10 Ion. 2, 2. Lu. 24."
           ]
         },
         {
@@ -2350,7 +2450,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "<i>c one born out of time</i>"
+              "text": "<i>c one born out of time</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -2365,7 +2466,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "In him God's grace is not void, that worketh by his free will according to the motion and direction of the same grace."
+              "text": "In him God's grace is not void, that worketh by his free will according to the motion and direction of the same grace.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2391,7 +2493,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "So may we say, if the Cath. faith in all points be not true, then our first Apostles were false witnesses, then hath our Country believed in vain all this while, then are all our Forefathers dead in their sins and perished. Which (presupposing Christ to be God) were the greatest absurdity in the world."
+              "text": "So may we say, if the Cath. faith in all points be not true, then our first Apostles were false witnesses, then hath our Country believed in vain all this while, then are all our Forefathers dead in their sins and perished. Which (presupposing Christ to be God) were the greatest absurdity in the world.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2418,6 +2521,9 @@
             {
               "text": "Col. 1, 18. Ap. 1, 5."
             }
+          ],
+          "xrefs": [
+            "Col. 1, 18 · Ap. 1, 5."
           ]
         },
         {
@@ -2500,7 +2606,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>Menander</i>"
+              "text": "<i>Menander</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -2538,7 +2645,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The glory of the bodies of Saints shall not be all alike, but different in heaven according to men's merits."
+              "text": "The glory of the bodies of Saints shall not be all alike, but different in heaven according to men's merits.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2556,7 +2664,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "As to become spiritual doth not take away the substance of the body glorified: no more when Christ's body is said to be in spiritual sort in the Sacrament, doth it import the absence of his true body and substance."
+              "text": "As to become spiritual doth not take away the substance of the body glorified: no more when Christ's body is said to be in spiritual sort in the Sacrament, doth it import the absence of his true body and substance.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2591,7 +2700,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Flesh and blood signify not here the substance of those things, but the corrupt quality incident to them in this life by the fall of Adam."
+              "text": "Flesh and blood signify not here the substance of those things, but the corrupt quality incident to them in this life by the fall of Adam.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2601,7 +2711,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "b The Epistle upon All-Souls day."
+              "text": "b The Epistle upon All-Souls day.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2614,7 +2725,14 @@
             },
             {
               "text": "11, 15."
+            },
+            {
+              "text": "Apoc. 8:2. 11:15",
+              "source": "sancta"
             }
+          ],
+          "xrefs": [
+            "Ap. 8, 2. 11, 15."
           ]
         },
         {
@@ -2632,7 +2750,10 @@
         },
         {
           "verse": 55,
-          "text": "<i>Death where is thy victory? Death where is thy sting?</i>"
+          "text": "<i>Death where is thy victory? Death where is thy sting?</i>",
+          "xrefs": [
+            "Os. 13, 14."
+          ]
         },
         {
           "verse": 56,
@@ -2668,7 +2789,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "That is Sunday. <i>Hiero. q. 4. Hedibiæ.</i> So quickly did the Christians keep Sunday, holiday, and assembled to Divine Service on the same."
+              "text": "That is Sunday. <i>Hiero. q. 4. Hedibiæ.</i> So quickly did the Christians keep Sunday, holiday, and assembled to Divine Service on the same.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2698,7 +2820,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Heretics & other new-fangled strive among themselves, whether Pentecost signify here the term of fifty days; or else the Jews' holy-day so called. But it cometh not to their minds that it is most like to be the feast of Whitsuntide, kept & instituted even then by the Apostles, as appeareth by the Fathers. <i>See S. Aug. ep. 119. c. 15. & 16. Ambr. in c. 17. Lucæ.</i>"
+              "text": "The Heretics & other new-fangled strive among themselves, whether Pentecost signify here the term of fifty days; or else the Jews' holy-day so called. But it cometh not to their minds that it is most like to be the feast of Whitsuntide, kept & instituted even then by the Apostles, as appeareth by the Fathers. <i>See S. Aug. ep. 119. c. 15. & 16. Ambr. in c. 17. Luca.</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -2720,7 +2843,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>c πάντως</i>"
+              "text": "<i>c πάντως</i>",
+              "kind": "word"
             }
           ]
         },
@@ -2746,7 +2870,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>c τὸ ὑμῶν ὑςέρημα.</i>"
+              "text": "<i>c τὸ ὑμῶν ὑςέρημα.</i>",
+              "kind": "word"
             }
           ]
         },
@@ -2777,11 +2902,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "c That is, <i>our Lord is come.</i> Hiero. ep. 173. Therefore <i>anathema</i> to all that love him not, or believe not. <i>Theophyla. upon this place.</i>"
+              "text": "c That is, <i>our Lord is come.</i> Hiero. ep. 173. Therefore <i>anathema</i> to all that love him not, or believe not. <i>Theophyla. upon this place.</i>",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "<i>c אתא מרן</i>"
+              "text": "<i>c אתא מרן</i>",
+              "kind": "gloss"
             }
           ]
         },

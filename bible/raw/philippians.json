@@ -59,7 +59,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle upon the 22. Sunday after Pentecost."
+              "text": "The Epistle upon the 22. Sunday after Pentecost.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -137,7 +138,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "more necessary"
+              "text": "more necessary",
+              "kind": "gloss"
             }
           ]
         },
@@ -164,7 +166,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "b ἔνδειξις, A manifest proof and evidence."
+              "text": "b ἔνδειξις, A manifest proof and evidence.",
+              "kind": "gloss"
             }
           ]
         },
@@ -174,7 +177,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c ἐχαρίσθη"
+              "text": "c ἐχαρίσθη",
+              "kind": "word"
             }
           ]
         },
@@ -184,7 +188,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "do hear"
+              "text": "do hear",
+              "kind": "gloss"
             }
           ]
         }
@@ -200,7 +205,7 @@
         },
         {
           "verse": 2,
-          "text": "fulfill my joy, that you be of one meaning, having the same charity, of one mind, agreeing in one."
+          "text": "fulfil my joy, that you be of one meaning, having the same charity, of one mind, agreeing in one."
         },
         {
           "verse": 3,
@@ -221,7 +226,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle upon Palm Sunday. And upon Holy Rood day, Mai. 3."
+              "text": "The Epistle upon Palm Sunday. And upon Holy Rood day, Mai. 3.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -244,8 +250,12 @@
           "notes": [
             {
               "label": "2",
-              "text": "The Epistle upon Holy Rood day September. 14. And in a Votive Mass of the Holy Cross."
+              "text": "The Epistle upon Holy Rood day September. 14. And in a Votive Mass of the Holy Cross.",
+              "kind": "lectionary"
             }
+          ],
+          "xrefs": [
+            "Heb. 2, 9."
           ]
         },
         {
@@ -260,7 +270,14 @@
           "cross_refs": [
             {
               "text": "Es. 45, 14. Ro. 14, 11."
+            },
+            {
+              "text": "Rom. 14, 12",
+              "source": "sancta"
             }
+          ],
+          "xrefs": [
+            "Es. 45, 14. Ro. 14, 11."
           ]
         },
         {
@@ -291,7 +308,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Such as have by their preaching gained any to Christ, shall joy and glory therein exceedingly at the day of our Lord."
+              "text": "Such as have by their preaching gained any to Christ, shall joy and glory therein exceedingly at the day of our Lord.",
+              "kind": "gloss"
             }
           ]
         },
@@ -302,13 +320,14 @@
           "notes": [
             {
               "label": "1",
-              "text": "Pastors ought to be so zealous of the salvation of their flock, that with S. Paul they should offer themselves to death for the same."
+              "text": "Pastors ought to be so zealous of the salvation of their flock, that with S. Paul they should offer themselves to death for the same.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 18,
-          "text": "And the self-same thing do you also rejoice, and congratulate with me."
+          "text": "And the self same thing do you also rejoice, and congratulate with me."
         },
         {
           "verse": 19,
@@ -324,7 +343,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Many forsake their teachers when they see them in bands and prison for their faith, because most men prefer the world before Christ's glory."
+              "text": "Many forsake their teachers when they see them in bands and prison for their faith, because most men prefer the world before Christ's glory.",
+              "kind": "gloss"
             }
           ]
         },
@@ -362,7 +382,7 @@
         },
         {
           "verse": 30,
-          "text": "because for the work of Christ, he came to the point of death: yielding his life, that he might fulfill that which on your part wanted toward my service."
+          "text": "because for the work of Christ, he came to the point of death: yielding his life, that he might fulfil that which on your part wanted toward my service."
         }
       ],
       "summary": "He exhorteth them most instantly to keep the unity of the Church, and to humble themselves for that purpose one to another, 5. by the example of the marvelous humility of Christ, 9. specially seeing how marvelously he is now exalted for it. 12. Item to obedience, fear, and perseverance. 17. Insinuating (lest it should afterwards trouble them) that he may be martyred at this time. 19. Timothee he hopeth to send, whom he highly commendeth: 25. as also Epaphroditus, whom he presently sendeth."
@@ -380,7 +400,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c By allusion of words, he calleth the carnal Christian Jews that yet boasted in the circumcision of the flesh, concision: & himself & the rest that circumcided their heart and senses spiritually, the true circumcision. S. Chrys. Theophylact."
+              "text": "c By allusion of words, he calleth the carnal Christian Jews that yet boasted in the circumcision of the flesh, concision: & himself & the rest that circumcided their heart and senses spiritually, the true circumcision. S. Chrys. Theophylact.",
+              "kind": "gloss"
             }
           ]
         },
@@ -390,7 +411,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c κατατομὴ et περιτομὴ"
+              "text": "c κατατομὴ et περιτομὴ",
+              "kind": "word"
             }
           ]
         },
@@ -420,7 +442,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle for S. Paul the Eremite: and for a Confessor that is not a Bishop."
+              "text": "The Epistle for S. Paul the Eremite: and for a Confessor that is not a Bishop.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -443,7 +466,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "If S. Paul ceased not to labour still, as though he were not sure to come to the mark without continual endeavour: what security may we poor sinners have of Heretics' persuasions & promises of security and salvation by only faith?"
+              "text": "If S. Paul ceased not to labour still, as though he were not sure to come to the mark without continual endeavour: what security may we poor sinners have of Heretics' persuasions & promises of security and salvation by only faith?",
+              "kind": "gloss"
             }
           ]
         },
@@ -458,11 +482,12 @@
         },
         {
           "verse": 14,
-          "text": "I pursue to the mark, to the prize of the supernal vocation of God in Christ Jesus.",
+          "text": "I pursue to the mark, to the price of the supernal vocation of God in Christ Jesus.",
           "notes": [
             {
               "label": "1",
-              "text": "c ad bravium"
+              "text": "c ad bravium",
+              "kind": "gloss"
             }
           ]
         },
@@ -473,7 +498,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "will reveal"
+              "text": "will reveal",
+              "kind": "gloss"
             }
           ]
         },
@@ -487,11 +513,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "a The Epistle upon the 23. Sunday after Pentecost. And for S. Clement, Novemb. 23."
+              "text": "a The Epistle upon the 23. Sunday after Pentecost. And for S. Clement, Novemb. 23.",
+              "kind": "lectionary"
             },
             {
               "label": "2",
-              "text": "It is a goodly thing when the Pastor may so say to his flock. Neither is it any derogation to Christ, that the people should imitate their Apostle's life & doctrine, & other holy men, S. Augustine, S. Benedict, S. Dominic, S. Francis."
+              "text": "It is a goodly thing when the Pastor may so say to his flock. Neither is it any derogation to Christ, that the people should imitate their Apostles life & doctrine, & other holy men, S. Augustine, S. Benedict, S. Dominic, S. Francis.",
+              "kind": "gloss"
             }
           ]
         },
@@ -533,7 +561,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Euodia"
+              "text": "Euodia",
+              "kind": "gloss"
             }
           ]
         },
@@ -544,7 +573,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "This Clement was afterward the 4. Pope of Rome from S. Peter, as S. Hierom writeth, according to the common supputation."
+              "text": "This Clement was afterward the 4. Pope of Rome from S. Peter, as S. Hierom writeth, according to the common supputation.",
+              "kind": "gloss"
             }
           ]
         },
@@ -554,7 +584,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "b The Epistle upon the 3. Sunday in Advent."
+              "text": "b The Epistle upon the 3. Sunday in Advent.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -564,11 +595,12 @@
         },
         {
           "verse": 6,
-          "text": "Be nothing careful: but in every thing by prayer & supplication with thanks-giving let your petitions be known with God.",
+          "text": "Be nothing careful: but in every thing by prayer & supplication with thanksgiving let your petitions be known with God.",
           "notes": [
             {
               "label": "1",
-              "text": "c ἐν παντὶ τῇ προσευχῇ"
+              "text": "c ἐν παντὶ τῇ προσευχῇ",
+              "kind": "gloss"
             }
           ]
         },
@@ -586,11 +618,12 @@
         },
         {
           "verse": 10,
-          "text": "And I rejoiced in our Lord exceedingly, that once at the length you have reflourished to care for me, as you did also care: but you were occupied.",
+          "text": "And I rejoiced in our Lord exceedingly, that once at the length you have reflorished to care for me, as you did also care: but you were occupied.",
           "notes": [
             {
               "label": "1",
-              "text": "c This reflourishing is the reviving of their old liberality, which for a time had been slack & dead. S. Chrys."
+              "text": "c This reflorishing is the reviving of their old liberality, which for a time had been slack & dead. S. Chrys.",
+              "kind": "gloss"
             }
           ]
         },
@@ -616,7 +649,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "He counteth it not mere alms or a free gift that the people bestoweth on their Pastors or preachers, but a certain mutual traffic as it were, and interchange: the one giving spiritual, the other rendering temporal things for the same."
+              "text": "He counteth it not mere alms or a free gift that the people bestoweth on their Pastors or preachers, but a certain mutual traffic as it were, and interchange: the one giving spiritual, the other rendering temporal things for the same.",
+              "kind": "gloss"
             }
           ]
         },
@@ -639,7 +673,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c χρείαν"
+              "text": "c χρείαν",
+              "kind": "word"
             }
           ]
         },

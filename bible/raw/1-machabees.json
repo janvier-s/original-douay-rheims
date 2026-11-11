@@ -9,11 +9,12 @@
       "verses": [
         {
           "verse": 1,
-          "text": "And it came to pass, after that Alexander Philip's son the Macedonian, that first reigned in Greece, being gone out of the land of Cethim, struck Darius king of the Persians and the Medes:",
+          "text": "And it came to pass, after that Alexander Philip's son the Macedonian, that first reigned in Greece, being gone out of the land of Cethim, stroke Darius king of the Persians and the Medes:",
           "notes": [
             {
               "label": "a",
-              "text": "Other Kings reigned before Alexander in Greece, but he was the first that reigned in that great Monarchy erected by himself."
+              "text": "Other Kings reigned before Alexander in Greece, but he was the first that reigned in that great Monarchy erected by himself.",
+              "kind": "gloss"
             }
           ]
         },
@@ -43,7 +44,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "By delivering his ring to Perdicca, he gave him authority to distribute his kingdoms. Iustinus. li. 12. Q. Curtius. li. 10."
+              "text": "By delivering his ring to Perdicca, he gave him authority to distribute his kingdoms. Iustinus. li. 12. Q. Curtius. li. 10.",
+              "kind": "gloss"
             }
           ]
         },
@@ -61,7 +63,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "* li. 2. c. 3. v. 1. D"
+              "text": "* li. 2. c. 3. v. 1. D",
+              "kind": "gloss"
             }
           ]
         },
@@ -71,11 +74,13 @@
           "notes": [
             {
               "label": "c",
-              "text": "Epiphanes, Noble in renown."
+              "text": "Epiphanes, Noble in renown.",
+              "kind": "gloss"
             },
             {
               "label": "d",
-              "text": "This Antiochus began his reign in the year 137. from Seleucus the first King of Syria after Alexander: otherwise this was the 156 year of the Grecian Monarchy. Euse. in chronico."
+              "text": "This Antiochus began his reign in the year 137. from Seleuchus the first King of Syria after Alexander: otherwise this was the 156 year of the Grecian Monarchy. Euseb. in chronico.",
+              "kind": "gloss"
             }
           ]
         },
@@ -101,13 +106,14 @@
           "notes": [
             {
               "label": "1",
-              "text": "* li. 2. c. 4. v. 7. F"
+              "text": "* li. 2. c. 4. v. 7. F",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 17,
-          "text": "And the kingdom was prepared in the sight of Antiochus, and he began to reign in the land of Ægypt, that he might reign over two kingdoms."
+          "text": "And the kingdom was prepared in the sight of Antiochus, and he began to reign in the land of Egypt, that he might reign over two kingdoms."
         },
         {
           "verse": 18,
@@ -115,11 +121,12 @@
         },
         {
           "verse": 19,
-          "text": "And he made war against Ptolomee the king of Ægypt, & Ptolomee was afraid at his presence, and fled, and many fell wounded.",
+          "text": "And he made war against Ptolomee the king of Egypt, & Ptolomee was afraid at his presence, and fled, and many fell wounded.",
           "notes": [
             {
               "label": "e",
-              "text": "Being established in the kingdom of Syria, he coveted also the kingdom of Ægypt."
+              "text": "Being established in the kingdom of Syria, he coveted also the kingdom of Ægypt.",
+              "kind": "gloss"
             }
           ]
         },
@@ -129,7 +136,14 @@
           "notes": [
             {
               "label": "1",
-              "text": "* li. 2. c. 4. v. 21. H"
+              "text": "* li. 2. c. 4. v. 21. H",
+              "kind": "gloss"
+            }
+          ],
+          "cross_refs": [
+            {
+              "text": "li. 1 c. 4. v. 22",
+              "source": "sancta"
             }
           ]
         },
@@ -147,7 +161,8 @@
           "notes": [
             {
               "label": "f",
-              "text": "Iosephus li. 12. c. 6. writeth that Antiochus first killed such as would have hindered his entrance into Jerusalem, and afterwards those that opened the gates unto him, but would have hindered him from spoiling the temple."
+              "text": "Iosephus li. 12. c. 6. writeth that Antiochus first killed such as would have hindered his entrance into Jerusalem, and afterwards those that opened the gates unto him, but would have hindered him from spoiling the temple.",
+              "kind": "gloss"
             }
           ]
         },
@@ -181,7 +196,8 @@
           "notes": [
             {
               "label": "g",
-              "text": "This was Apollonius, as appeareth li. 2. c. 5. v. 24."
+              "text": "This was Apollonius, as appeareth li. 2. c. 5. v. 24.",
+              "kind": "gloss"
             }
           ]
         },
@@ -191,7 +207,7 @@
         },
         {
           "verse": 32,
-          "text": "And he fell upon the city suddenly, and struck it with a great plague, & destroyed much people in Israel."
+          "text": "And he fell upon the city suddenly, and stroke it with a great plague, & destroyed much people in Israel."
         },
         {
           "verse": 33,
@@ -207,7 +223,8 @@
           "notes": [
             {
               "label": "h",
-              "text": "The tower of Sion fortified & kept,"
+              "text": "The tower of Sion fortified & kept,",
+              "kind": "gloss"
             }
           ]
         },
@@ -217,7 +234,8 @@
           "notes": [
             {
               "label": "i",
-              "text": "by a garrison of Macedonians."
+              "text": "by a garrison of Macedonians.",
+              "kind": "gloss"
             }
           ]
         },
@@ -251,7 +269,8 @@
           "notes": [
             {
               "label": "k",
-              "text": "It sufficed not this cruel tyrant to spoil God's people of their goods, & many of their lives, but he also perverted many in religion: because his master the devil seeketh to destroy men's souls."
+              "text": "It sufficed not this cruel tyrant to spoil God's people of their goods, & many of their lives, but he also perverted many in religion: because his master the devil seeketh to destroy men's souls.",
+              "kind": "gloss"
             }
           ]
         },
@@ -313,7 +332,8 @@
           "notes": [
             {
               "label": "l",
-              "text": "Daniel's prophecy. ch. 9. was here in part fulfilled, as in a figure, & our Saviour confirmeth it. Mat. 24. of Antichrist setting up abomination of desolation in the holy place."
+              "text": "Daniel's prophecy. ch. 9. was here in part fulfilled, as in a figure, & our Saviour confirmeth it. Mat. 24. of Antichrist setting up abomination of desolation in the holy place.",
+              "kind": "gloss"
             }
           ]
         },
@@ -327,7 +347,7 @@
         },
         {
           "verse": 60,
-          "text": "and with whomsoever were found the books of the testament of our Lord, and whomsoever observed the law of our Lord, they murdered him, according to the edict of the king."
+          "text": "and with whomsoever were found the books of the testament of our Lord, and whosoever observed the law of our Lord, they murdered him, according to the edict of the king."
         },
         {
           "verse": 61,
@@ -359,7 +379,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "* li. 2. c. 5. v. 11."
+              "text": "* li. 2. c. 5. v. 11.",
+              "kind": "gloss"
             }
           ]
         }
@@ -385,7 +406,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The 2. part. The wars of the Machabees, begun by this Mathathias, and prosecuted by his sons, especially by Judas, as in the seven chapters following, and more largely in the second book from 8. chapter to the end of the last."
+              "text": "The 2. part. The wars of the Machabees, begun by this Mathathias, and prosecuted by his sons, especially by Judas, as in the seven chapters following, and more largely in the second book from 8. chapter to the end of the last.",
+              "kind": "head"
             }
           ]
         },
@@ -403,7 +425,7 @@
         },
         {
           "verse": 5,
-          "text": "and Eleazar, who was surnamed A baron: and Jonathan, who was surnamed Apphus."
+          "text": "and Eleazar, who was surnamed Abaron: and Jonathan, who was surnamed Apphus."
         },
         {
           "verse": 6,
@@ -423,7 +445,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "This small help of great importance, is that aid whereof Daniel prophesied ch. 11. v. 34."
+              "text": "This small help of great importance, is that aid whereof Daniel prophesied ch. 11. v. 34.",
+              "kind": "gloss"
             }
           ]
         },
@@ -445,7 +468,7 @@
         },
         {
           "verse": 14,
-          "text": "And Mathathias rent his garments, and his sons: and they covered themselves with hair-cloths, and lamented exceedingly."
+          "text": "And Mathathias rent his garments, and his sons: and they covered themselves with haircloths, and lamented exceedingly."
         },
         {
           "verse": 15,
@@ -489,7 +512,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Mathathias not of private spirit, but being general captain of the people, did this justice according to the law, where it is commanded to kill the authors of false pretended religion. Deut. 13. S. Cyprian. Exhort. ad Martyrium c. 5. S. Bernar. Epist. 158. ad Innocent."
+              "text": "Mathathias not of private spirit, but being general captain of the people, did this justice according to the law, where it is commanded to kill the authors of false pretended religion. Deut. 13. S. Cyprian. Exhort. ad Martyrium c. 5. S. Bernar. Epist. 158. ad Innocent.",
+              "kind": "gloss"
             }
           ]
         },
@@ -552,7 +576,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "These are commended by S. Ambrose li. 1. Offic. c. 40. and other Fathers, dying in the simplicity of doves, though they had not the prudence of serpents, which others observing are more commended, especially in respect of the whole Church so dangerously impugned, which God indeed will ever defend, and conserve from utter ruin: Yet he useth also ordinary means, by lawful wars and the like."
+              "text": "These are commended by S. Ambrose li. 1. Offic. c. 40. and other Fathers, dying in the simplicity of doves, though they had not the prudence of serpents, which others observing are more commended, especially in respect of the whole Church so dangerously impugned, which God indeed will ever defend, and conserve from utter ruin: Yet he useth also ordinary means, by lawful wars and the like.",
+              "kind": "gloss"
             }
           ]
         },
@@ -578,7 +603,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "Assideans, otherwise called Esseni, not hypocritically as the Pharisees, nor erroneously as the Sadducees, but sincerely professed a peculiar holy rule of life. Iosephus li. 2. c. 12. de bello Iudaico."
+              "text": "Assideans, otherwise called Esseni, not hypocritically as the Pharisees, nor erroneously as the Sadducees, but sincerely professed a peculiar holy rule of life. Iosephus li. 2. c. 12. de bello Iudaico.",
+              "kind": "gloss"
             }
           ]
         },
@@ -588,7 +614,7 @@
         },
         {
           "verse": 44,
-          "text": "And they gathered an army, & struck the sinners in their wrath, and the wicked men in their indignation: & the rest fled to the nations to escape."
+          "text": "And they gathered an army, & stroke the sinners in their wrath, and the wicked men in their indignation: & the rest fled to the nations to escape."
         },
         {
           "verse": 45,
@@ -647,7 +673,7 @@
         },
         {
           "verse": 55,
-          "text": "Jesus whilst he accomplished the word, was made the Duke in Israel.",
+          "text": "Jesus whiles he accomplished the word, was made the Duke in Israel.",
           "cross_refs": [
             {
               "text": "Iosue. 1"
@@ -656,7 +682,7 @@
         },
         {
           "verse": 56,
-          "text": "Caleb whilst he testifieth in the Church, received an inheritance.",
+          "text": "Caleb whiles he testifieth in the Church, received an inheritance.",
           "cross_refs": [
             {
               "text": "Num. 14."
@@ -674,7 +700,7 @@
         },
         {
           "verse": 58,
-          "text": "Elias whilst he zealeth the zeal of the law, was received into heaven.",
+          "text": "Elias whiles he zealeth the zeal of the law, was received into heaven.",
           "cross_refs": [
             {
               "text": "4. Reg. 2."
@@ -696,6 +722,10 @@
           "cross_refs": [
             {
               "text": "Dan. 5."
+            },
+            {
+              "text": "Dan. 6",
+              "source": "sancta"
             }
           ]
         },
@@ -709,7 +739,7 @@
         },
         {
           "verse": 63,
-          "text": "today he is extolled, and tomorrow he shall not be found: because he is turned into his earth, & his cogitation is perished."
+          "text": "to day he is extolled, and tomorrow he shall not be found: because he is turned into his earth, & his cogitation is perished."
         },
         {
           "verse": 64,
@@ -721,7 +751,8 @@
           "notes": [
             {
               "label": "e",
-              "text": "In all affairs order is of singular importance, that every office be designed to fittest persons. As here Mathathias appointed Simon the chief for determining matters in counsel, & Judas the first for execution, & that the rest should obey these two, and each of these the other in his office."
+              "text": "In all affairs order is of singular importance, that every office be designed to fittest persons. As here Mathathias appointed Simon the chief for determining matters in counsel, & Judas the first for execution, & that the rest should obey these two, and each of these the other in his office.",
+              "kind": "gloss"
             }
           ]
         },
@@ -757,7 +788,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "He did not arrogate to himself to be chief, but being designed by his father, was so accepted by his brethren, and the good people joined with them in defence of the law of God."
+              "text": "He did not arrogate to himself to be chief, but being designed by his father, was so accepted by his brethren, and the good people joined with them in defence of the law of God.",
+              "kind": "gloss"
             }
           ]
         },
@@ -767,7 +799,7 @@
         },
         {
           "verse": 3,
-          "text": "And he dilated glory to his people, & put on him a brigantine as a giant, and girded about him his warly armour in battles, and protected the camp with his sword."
+          "text": "And he dilated glory to his people, & put on him a brigantine as a giant, and girded about him his warlike armour in battles, and protected the camp with his sword."
         },
         {
           "verse": 4,
@@ -775,7 +807,7 @@
         },
         {
           "verse": 5,
-          "text": "And he persecuted the wicked inquiring them out, & such as troubled his people, them he burnt with fire:"
+          "text": "And he persecuted the wicked enquiring them out, & such as troubled his people, them he burnt with fire:"
         },
         {
           "verse": 6,
@@ -787,7 +819,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Judas had four battles, and victories, against four general captains sent by King Antiochus Epiphanes. The first against this Apollonius."
+              "text": "Judas had four battles, and victories, against four general captains sent by King Antiochus Epiphanes. The first against this Apollonius.",
+              "kind": "gloss"
             }
           ]
         },
@@ -801,7 +834,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "li. 2. c. 8. v. 1. M"
+              "text": "li. 2. c. 8. v. 1. M",
+              "kind": "gloss"
             }
           ]
         },
@@ -811,7 +845,7 @@
         },
         {
           "verse": 11,
-          "text": "And Judas understood it, and went forth to meet him: and he struck, and killed him: and there fell many wounded, & the rest fled away."
+          "text": "And Judas understood it, and went forth to meet him: and he stroke, and killed him: and there fell many wounded, & the rest fled away."
         },
         {
           "verse": 12,
@@ -823,7 +857,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "The second against Seron."
+              "text": "The second against Seron.",
+              "kind": "gloss"
             }
           ]
         },
@@ -841,7 +876,7 @@
         },
         {
           "verse": 17,
-          "text": "But as they saw the army coming to meet them, they said to Judas: How shall we a few be able to fight against so great a multitude & so strong, and we are wearied with fasting today?"
+          "text": "But as they saw the army coming to meet them, they said to Judas: How shall we a few be able to fight against so great a multitude & so strong, and we are wearied with fasting to day?"
         },
         {
           "verse": 18,
@@ -849,7 +884,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "The natural frailty of man feareth to encounter with a strong enemy, but true confidence in God's help, which is ever assured in a good cause, giveth courage and getteth the victory."
+              "text": "The natural frailty of man feareth to encounter with a strong enemy, but true confidence in God's help, which is ever assured in a good cause, giveth courage and getteth the victory.",
+              "kind": "gloss"
             }
           ]
         },
@@ -875,7 +911,7 @@
         },
         {
           "verse": 24,
-          "text": "& he pursued him in the descent of Bethoron even to the plain, & there fell of them eight hundred men, & the rest fled into the land of the Philisthiims."
+          "text": "& he pursued him in the descent of Bethoron even to the plain, & there fell of them eight hundred men, & the rest fled into the land of the Philisthims."
         },
         {
           "verse": 25,
@@ -899,11 +935,13 @@
           "notes": [
             {
               "label": "e",
-              "text": "Not only the Jews resisted Antiochus' innovations in religion, but also diverse other nations revolted and rebelled, because he commanded all to leave their former rites and gods, and to accept of his gods only. ch. 1. v. 43."
+              "text": "Not only the Jews resisted Antiochus' innovations in religion, but also divers other nations revolted and rebelled, because he commanded all to leave their former rites and gods, and to accept of his gods only. ch. 1. v. 43.",
+              "kind": "gloss"
             },
             {
               "label": "f",
-              "text": "persecuting all that did not thereto conform themselves."
+              "text": "persecuting all that did not thereto conform themselves.",
+              "kind": "gloss"
             }
           ]
         },
@@ -913,7 +951,7 @@
         },
         {
           "verse": 31,
-          "text": "And he was exceedingly astonished in mind, and purposed to go into Persis, and to take the tributes of the regions, and to gather much silver."
+          "text": "And he was exceedingly astonied in mind, and purposed to go into Persis, and to take the tributes of the regions, and to gather much silver."
         },
         {
           "verse": 32,
@@ -933,7 +971,7 @@
         },
         {
           "verse": 36,
-          "text": "and that he should appoint inhabitants in all their coasts, children strangers, & should by lot distribute their land."
+          "text": "and that he should appoint inhabitants in all their costs, children strangers, & should by lot distribute their land."
         },
         {
           "verse": 37,
@@ -949,7 +987,7 @@
         },
         {
           "verse": 40,
-          "text": "And they went forth with all their power, and came, and joined near to Emmaum in the champion country."
+          "text": "And they went forth with all their power, and came, and joined near to Enimaum in the champaign country."
         },
         {
           "verse": 41,
@@ -969,7 +1007,8 @@
           "notes": [
             {
               "label": "g",
-              "text": "Praying, fasting & other works of penance are the best armour in holy wars for religion."
+              "text": "Praying, fasting & other works of penance are the best armour in holy wars for religion.",
+              "kind": "gloss"
             }
           ]
         },
@@ -983,7 +1022,8 @@
           "notes": [
             {
               "label": "h",
-              "text": "Public place of prayer was, first in Silo, Iosue. 18. after in Maspha. 1. Reg. 7. lastly in Jerusalem."
+              "text": "Public place of prayer was, first in Silo, Iosue. 18. after in Maspha. 1. Reg. 7. lastly in Jerusalem.",
+              "kind": "gloss"
             }
           ]
         },
@@ -997,7 +1037,7 @@
         },
         {
           "verse": 49,
-          "text": "and they brought the ornaments of Priests, and first-fruits, & tithes, & raised up Nazareites, that had fulfilled their days:"
+          "text": "and they brought the ornaments of Priests, and firstfruits, & tithes, & raised up Nazareites, that had fulfilled their days:"
         },
         {
           "verse": 50,
@@ -1025,7 +1065,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "* pentacontarchos."
+              "text": "* pentacontarchos.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1056,7 +1097,8 @@
           "notes": [
             {
               "label": "h",
-              "text": "This most godly resolution encouraged themselves, & procured God's merciful protection."
+              "text": "This most godly resolution encouraged themselves, & procured God's merciful protection.",
+              "kind": "gloss"
             }
           ]
         }
@@ -1072,7 +1114,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "The third battle made by Judas was against this Gorgias, another captain of Antiochus Epiphanes."
+              "text": "The third battle made by Judas was against this Gorgias, another captain of Antiochus Epiphanes.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1086,7 +1129,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Vigilancy in rulers and pastors preserveth from all the devil's stratagems."
+              "text": "Vigilance in rulers and pastors preserveth from all the devil's stratagems.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1096,7 +1140,7 @@
         },
         {
           "verse": 5,
-          "text": "And Gorgias came into the camp of Judas by night, and found no man, & he sought them in the mountains: because he said: These fly from us."
+          "text": "And Gorgias came into the camp of Judas by night, and found no man, & he sought them in the mountains: because he said: These flee from us."
         },
         {
           "verse": 6,
@@ -1104,7 +1148,7 @@
         },
         {
           "verse": 7,
-          "text": "and they saw the camp of the Gentiles strong, and the men in brigantines, and horsemen round about them, and these were skillful to battle."
+          "text": "and they saw the camp of the Gentiles strong, and the men in brigantines, and horsemen round about them, and these were skilful to battle."
         },
         {
           "verse": 8,
@@ -1112,7 +1156,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Confidence in God procureth his assistance."
+              "text": "Confidence in God procureth his assistance.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1142,7 +1187,7 @@
         },
         {
           "verse": 15,
-          "text": "But all the hindmost fell by the sword, and they pursued them as far as Gezeron, and even to the plains of Idumea, and of Azotus, and of Jamnia: and there fell of them even to three thousand men."
+          "text": "But all the hinmost fell by the sword, and they pursued them as far as Gezeron, and even to the plains of Idumea, and of Azotus, and of Jamnia: and there fell of them even to three thousand men."
         },
         {
           "verse": 16,
@@ -1170,7 +1215,7 @@
         },
         {
           "verse": 22,
-          "text": "And they did all fly into the plain of the aliens:"
+          "text": "And they did all flee into the plain of the aliens:"
         },
         {
           "verse": 23,
@@ -1182,6 +1227,10 @@
           "cross_refs": [
             {
               "text": "Psal. 106."
+            },
+            {
+              "text": "Psal. 105",
+              "source": "sancta"
             }
           ]
         },
@@ -1199,7 +1248,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "* li. 2. c. 8. v. 8. O"
+              "text": "* li. 2. c. 8. v. 8. O",
+              "kind": "gloss"
             }
           ]
         },
@@ -1209,7 +1259,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "The fourth great battle of Judas was against Lysias sent by Antiochus into Jury."
+              "text": "The fourth great battle of Judas was against Lysias sent by Antiochus into Jury.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1252,7 +1303,8 @@
           "notes": [
             {
               "label": "e",
-              "text": "As it was the first and chief intention of Judas to defend religion & holy things, so having expugned their enemies, his chief care is to purge the temple, and to restore all holy rites of God's true service."
+              "text": "As it was the first and chief intention of Judas to defend religion & holy things, so having expugned their enemies, his chief care is to purge the temple, and to restore all holy rites of God's true service.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1286,7 +1338,8 @@
           "notes": [
             {
               "label": "f",
-              "text": "Altars, temples, & statues of false gods made of stone, and set up in the temple. c. 1. v. 50. were now destroyed."
+              "text": "Altars, temples, & statues of false gods made of stone, and set up in the temple. ch. 1. v. 50. were now destroyed.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1300,7 +1353,7 @@
         },
         {
           "verse": 46,
-          "text": "And they laid up the stones in the mount of the house in a place convenient, till their should come a Prophet, & give answer concerning them."
+          "text": "And they laid up the stones in the mount of the house in a place convenient, till there should come a Prophet, & give answer concerning them."
         },
         {
           "verse": 47,
@@ -1328,7 +1381,8 @@
           "notes": [
             {
               "label": "g",
-              "text": "The temple was purged two years & something more after the profanation, which was in the year 145. ch. 1. v. 57."
+              "text": "The temple was purged two years & some thing more after the profanation, which was in the year 145. ch. 1. v. 57.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1355,13 +1409,14 @@
           "notes": [
             {
               "label": "h",
-              "text": "Our Saviour observed this feast being instituted long after the Law of Moyses. Ioan. 10. v. 22."
+              "text": "Our Saviour observed this feast being instituted long after the Law of Moyses. Ioan. 10. v. 22.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 57,
-          "text": "And they adorned the face of the temple with gold crowns, and little shields: & they dedicated the gates, and the chambers, and hanged doors upon them."
+          "text": "And they adorned the face of the temple with golden crowns, and little shields: & they dedicated the gates, and the chambers, and hanged doors upon them."
         },
         {
           "verse": 58,
@@ -1381,7 +1436,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "* li. 2. c. 10. v. 1."
+              "text": "* li. 2. c. 10. v. 1.",
+              "kind": "gloss"
             }
           ]
         }
@@ -1397,11 +1453,13 @@
           "notes": [
             {
               "label": "a",
-              "text": "In this chapter is mention of ten battles in which Judas or his brethren Jonathas and Simon were victors."
+              "text": "In this chapter is mention of ten battles in which Judas or his brethren Jonathas and Simon were victors.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "Q"
+              "text": "Q",
+              "kind": "gloss"
             }
           ]
         },
@@ -1411,11 +1469,12 @@
         },
         {
           "verse": 3,
-          "text": "And Judas fought against the children of Esau in Idumea, & them that were in Acrabathane: because they beset the Israelites round about, and he struck them with a great plague.",
+          "text": "And Judas fought against the children of Esau in Idumea, & them that were in Acrabathane: because they beset the Israelites round about, and he stroke them with a great plague.",
           "notes": [
             {
               "label": "b",
-              "text": "The first against the Idumeans in Acrabathane."
+              "text": "The first against the Idumeans in Acrabathane.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1425,7 +1484,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "The second against the Beanites."
+              "text": "The second against the Beanites.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1435,7 +1495,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "utterly destroyed."
+              "text": "utterly destroyed.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1445,13 +1506,14 @@
           "notes": [
             {
               "label": "d",
-              "text": "The third against the Ammonites."
+              "text": "The third against the Ammonites.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 7,
-          "text": "and he made many battles with them, and they were discomfited in their sight, & he struck them:"
+          "text": "and he made many battles with them, and they were discomfited in their sight, & he stroke them:"
         },
         {
           "verse": 8,
@@ -1459,17 +1521,19 @@
           "notes": [
             {
               "label": "1",
-              "text": "villages."
+              "text": "villages.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 9,
-          "text": "And the Gentiles that are in Galaad, gathered together against the Israelites, that were in their coasts to dispatch them: and they fled into the fortress of Datheman.",
+          "text": "And the Gentiles that are in Galaad, gathered together against the Israelites, that were in their costs to dispatch them: and they fled into the fortress of Batheman.",
           "notes": [
             {
               "label": "e",
-              "text": "The fourth against the Galadites."
+              "text": "The fourth against the Galadites.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1507,7 +1571,8 @@
           "notes": [
             {
               "label": "f",
-              "text": "The fifth against the Galileans of the Gentiles."
+              "text": "The fifth against the Galileans of the Gentiles.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1569,7 +1634,7 @@
         },
         {
           "verse": 32,
-          "text": "& he said to his host: Fight ye today for your brethren."
+          "text": "& he said to his host: Fight ye to day for your brethren."
         },
         {
           "verse": 33,
@@ -1577,7 +1642,7 @@
         },
         {
           "verse": 34,
-          "text": "And the camp of Timothee understood that it was Machabeus, and they fled back from his presence: and they struck them with a great plague: and there fell of them in that day almost eight thousand men."
+          "text": "And the camp of Timothee understood that it was Machabeus, and they fled back from his presence: and they stroke them with a great plague: and there fell of them in that day almost eight thousand men."
         },
         {
           "verse": 35,
@@ -1593,7 +1658,7 @@
         },
         {
           "verse": 38,
-          "text": "And Judas send to view the army: and they reported unto him, saying: That all nations, that are round about us, are assembled against us, an army exceeding great:"
+          "text": "And Judas sent to view the army: and they reported unto him, saying: That all nations, that are round about us, are assembled against us, an army exceeding great:"
         },
         {
           "verse": 39,
@@ -1605,7 +1670,7 @@
         },
         {
           "verse": 41,
-          "text": "But if he be afraid to pass over, and camp without the river, let us pass over to them, and we shall prevail against them."
+          "text": "But if he be afraid to pass over, and camp without the river, let us pass over to them, and we shall prevail against him."
         },
         {
           "verse": 42,
@@ -1617,11 +1682,12 @@
         },
         {
           "verse": 44,
-          "text": "And he took the city it-self, & the temple he burnt with fire, with all things that were therein: & Carnaim was subdued, & could not stand against the face of Judas.",
+          "text": "And he took the city itself, & the temple he burnt with fire, with all things that were therein: & Carnaim was subdued, & could not stand against the face of Judas.",
           "notes": [
             {
               "label": "g",
-              "text": "The sixth against the Carnaimites."
+              "text": "The sixth against the Carnaimites.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1635,7 +1701,8 @@
           "notes": [
             {
               "label": "h",
-              "text": "The seventh against the Ephronites."
+              "text": "The seventh against the Ephronites.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1670,15 +1737,17 @@
         },
         {
           "verse": 53,
-          "text": "And Judas gathered together the hindmost, & he exhorted the people throughout all the way, till they came into the land of Juda:",
+          "text": "And Judas gathered together the hinmost, & he exhorted the people throughout all the way, till they came into the land of Juda:",
           "notes": [
             {
               "label": "i",
-              "text": "Agood and pious captain cherisheth and comforteth the weak soldiers:"
+              "text": "A good and pious captain cherisheth and comforteth the weak soldiers:",
+              "kind": "gloss"
             },
             {
               "label": "k",
-              "text": "and encouraged all to shew their fortitude."
+              "text": "and encouraged all to shew their fortitude.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1696,7 +1765,8 @@
           "notes": [
             {
               "label": "l",
-              "text": "Men that presume of their own strength without commission from lawful authority have not God's assistance, and so fail in their attempts, as not called of God amongst those men, by whom salvation is made in Israel. v. 62."
+              "text": "Men that presume of their own strength without commission from lawful authority have not God's assistance, and so fail in their attempts, as not called of God amongst those men, by whom salvation is made in Israel. v. 62.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1734,11 +1804,12 @@
         },
         {
           "verse": 65,
-          "text": "And Judas went out, and his brethren, and they expugned the children of Esau in the land, that is toward the South, and they struck Chebron, and her daughters: and the walls thereof and the towers he burnt with fire round about.",
+          "text": "And Judas went out, and his brethren, and they expugned the children of Esau in the land, that is toward the South, and they stroke Chebron, and her daughters: and the walls thereof and the towers he burnt with fire round about.",
           "notes": [
             {
               "label": "m",
-              "text": "The eighth against the Idumeans, in Chebron."
+              "text": "The eighth against the Idumeans, in Chebron.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1748,21 +1819,23 @@
           "notes": [
             {
               "label": "n",
-              "text": "The ninth against the Samaritanes."
+              "text": "The ninth against the Samaritanes.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 67,
-          "text": "In that day fell the Priests in battle, whilst they will do manfully, whilst they go forth without counsel into battle."
+          "text": "In that day fell the Priests in battle, whiles they will do manfully, whiles they go forth without counsel into battle."
         },
         {
           "verse": 68,
-          "text": "And Judas declined to Azotus into the land of the aliens, and he threw down their altars, and the sculptiles of their gods he burnt with fire: and he took the spoils of the cities, and returned into the land of Juda.",
+          "text": "And Judas declined to Azotus into the land of the aliens, and he threw down their altars, and the sculptils of their gods he burnt with fire: and he took the spoils of the cities, and returned into the land of Juda.",
           "notes": [
             {
               "label": "o",
-              "text": "The tenth against the Philistiims in Azotus."
+              "text": "The tenth against the Philistiims in Azotus.",
+              "kind": "gloss"
             }
           ]
         }
@@ -1778,7 +1851,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The full history of Antiochus Epiphanes his death is written in this chapter to the 16. v. and in all the 9. of the second Book."
+              "text": "The full history of Antiochus Epiphanes his death is written in this chapter to the 16. v. and in all the 9. of the second Book.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1796,7 +1870,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Finally he returned into the country of Babylon:"
+              "text": "Finally he returned into the country of Babylon:",
+              "kind": "gloss"
             }
           ]
         },
@@ -1806,7 +1881,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "but before he arrived there he heard the bad news of his army in Jury, & fell into intolerable and desperate diseases, v. 8. and li. 2. ch. 9. v. 5."
+              "text": "but before he arrived there he heard the bad news of his army in Jury, & fell into intolerable and desperate diseases, v. 8. and li. 2. ch. 9. v. 5.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1840,7 +1916,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "All this was but feigned repentance. li. 2. ch. 9. v. 13."
+              "text": "All this was but feigned repentance. li. 2. ch. 9. v. 13.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1862,21 +1939,24 @@
           "notes": [
             {
               "label": "b",
-              "text": "Antiochus began to persecute the Jews in the year 143. ch. 1. v. 21. and dying this year, 149. it appeareth that his persecution dured about six years, or somewhat more: agreeable to the answer of the Angel Dan. 8. v. 14. that it should endure 2300. days, which make six years, & almost four months. Within which time Judas by his valor obtained & purged the holy places, in the year 148. ch. 6. v. 52. some months before Antiochus' death."
+              "text": "Antiochus began to persecute the Jews in the year 143. ch. 1. v. 21. and dying this year, 149. it appeareth that his persecution dured about six years, or somewhat more: agreeable to the answer of the Angel Dan. 8. v. 14. that it should endure 2300. days, which make six years, & almost four months. Within which time Judas by his valour obtained & purged the holy places, in the year 148. ch. 6. v. 52. some months before Antiochus' death.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "* li. 2. c. 9. v. 1. S"
+              "text": "* li. 2. c. 9. v. 1. S",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 17,
-          "text": "And Lysias understood that the king was dead, and he appointed Antiochus his son to reign, who he brought up a young man: and he called his name Eupator.",
+          "text": "And Lysias understood that the king was dead, and he appointed Antiochus his son to reign, whom he brought up a young man: and he called his name Eupator.",
           "notes": [
             {
               "label": "1",
-              "text": "* li. 2. c. 10. v. 10. V"
+              "text": "* li. 2. c. 10. v. 10. V",
+              "kind": "gloss"
             }
           ]
         },
@@ -1950,7 +2030,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Blood of the grape (wine Deut. 32. v. 14. ) and juice of mulberries do incite elephants to fight. As some kind of blood or smell thereof doth incite hounds to hunt. Vallesius c. 82. sacræ Philosophiæ."
+              "text": "Blood of the grape (wine Deut. 32. v. 14. ) and juice of mulberries do incite elephants to fight. As some kind of blood or smell thereof doth incite hounds to hunt. Vallesius c. 82. sacræ Philosophiæ.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2004,7 +2085,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "S. Ambrose li. 1. c. 40. Offic. highly commendeth the fortitude of this soldier, putting himself in so present danger of death, fighting for religion."
+              "text": "S. Ambrose li. 1. c. 40. Offic. highly commendeth the fortitude of this soldier, putting himself in so present danger of death, fighting for religion.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2074,11 +2156,12 @@
         },
         {
           "verse": 63,
-          "text": "And he departed in haste, and returned to Antioch, and found Philip ruling over the city: and he fought against him and won the city.",
+          "text": "And he departed in haste, and returned to Antioch, and found Philip ruling over the city: and he fought against him and wan the city.",
           "notes": [
             {
               "label": "1",
-              "text": "* li. 2. c. 13. v. 1."
+              "text": "* li. 2. c. 13. v. 1.",
+              "kind": "gloss"
             }
           ]
         }
@@ -2094,11 +2177,13 @@
           "notes": [
             {
               "label": "a",
-              "text": "This Seleucus was brother to Antiochus Epiphanes: & so Antiochus Eupator was Demetrius his cousin-german."
+              "text": "This Seleucus was brother to Antiochus Epiphanes: & so Antiochus Eupator was Demetrius his cousin-german.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "X"
+              "text": "X",
+              "kind": "gloss"
             }
           ]
         },
@@ -2120,7 +2205,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Alcimus was now in place of the high-priest, as Menelaus had been before him, set up by Antiochus: & therefore is rightly here said: he would have been the chief Priest, but indeed was not. For the true high-priesthood was amongst the Machabees."
+              "text": "Alcimus was now in place of the high-priest, as Menelaus had been before him, set up by Antiochus: & therefore is rightly here said: he would have been the chief Priest, but indeed was not. For the true high priesthood was amongst the Machabees.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2130,7 +2216,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "This usurper with his complices devised false accusations against Judas and the rest, to incense the King against them. And by great gifts gained the king's favour. li. 2. c. 14. v. 4."
+              "text": "This usurper with his complices devised false accusations against Judas and the rest, to incense the King against them. And by great gifts gained the king's favour. li. 2. c. 14. v. 4.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2164,7 +2251,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "Among the Scribes the Assideans were first consulted, being as learned as the Pharisees, or any other, and indeed more sincere, as we noted ch. 2. v. 42."
+              "text": "Among the Scribes the Assideans were first consulted, being as learned as the Pharisees, or any other, and indeed more sincere, as we noted ch. 2. v. 42.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2174,7 +2262,8 @@
           "notes": [
             {
               "label": "e",
-              "text": "And so Alcimus deceiving them in a matter of fact, to wit, that himself meant truly (as he did not) cruelly murdered three score of them."
+              "text": "And so Alcimus deceiving them in a matter of fact, to write, that himself meant truly (as he did not) cruelly murdered three score of them.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2229,7 +2318,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "* li. 2. c. 14. v. 1. Z"
+              "text": "* li. 2. c. 14. v. 1. Z",
+              "kind": "gloss"
             }
           ]
         },
@@ -2239,7 +2329,8 @@
           "notes": [
             {
               "label": "f",
-              "text": "This Nicanor was the most terrible enemy against Judas, but was at last slain by him. v. 43. & li. 2. c. 15. v. 28."
+              "text": "This Nicanor was the most terrible enemy against Juda, but was at last slain by him. v. 43. & li. 2. c. 15. v. 28.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2293,7 +2384,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "* li. 2. c. 14. v. 12. B"
+              "text": "* li. 2. c. 14. v. 12. B",
+              "kind": "gloss"
             }
           ]
         },
@@ -2303,7 +2395,8 @@
           "notes": [
             {
               "label": "g",
-              "text": "This was the last conflict between Judas and Nicanor written more largely in the last chapter of the second book."
+              "text": "This was the last conflict between Judas and Nicanor written more largely in the last chapter of the second book.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2313,7 +2406,7 @@
         },
         {
           "verse": 41,
-          "text": "They that were sent by king Sennacherib, o Lord, because they blasphemed thee, an angel came forth, and struck of them an hundred eighty five thousand:",
+          "text": "They that were sent by king Sennacherib, o Lord, because they blasphemed thee, an angel came forth, and stroke of them an hundred eighty five thousand:",
           "cross_refs": [
             {
               "text": "4. Reg. 19."
@@ -2322,7 +2415,7 @@
         },
         {
           "verse": 42,
-          "text": "so destroy this army in our sight today, and let the rest know that he hath spoken it upon the holy places: and judge thou him according to his malice."
+          "text": "so destroy this army in our sight to day, and let the rest know that he hath spoken ill upon the holy places: and judge thou him according to his malice."
         },
         {
           "verse": 43,
@@ -2358,11 +2451,13 @@
           "notes": [
             {
               "label": "h",
-              "text": "Whiles Judas disposed things pertaining to religion, and the commonwealth: Demetrius prepared for wars. ch. 9. v. 3."
+              "text": "Whiles Judas disposed things pertaining to religion, and the commonwealth: Demetrius prepared for wars. ch. 9. v. 3.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "l. 2. c. 15. v. 1."
+              "text": "li. 2. c. 15. v. 1.",
+              "kind": "gloss"
             }
           ]
         }
@@ -2378,11 +2473,13 @@
           "notes": [
             {
               "label": "a",
-              "text": "Of the renowned acts of the Romans, other Historiographers have also written largely: especially Livius, Diodorus, Iustinus, Florus, Varre, Plutarchus, and many others."
+              "text": "Of the renowned acts of the Romans, other Historiographers have also written largely: especially Livius, Diodorus, Iustinus, Florus, Varre, Plutarchus, and many others.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "D"
+              "text": "D",
+              "kind": "gloss"
             }
           ]
         },
@@ -2396,11 +2493,12 @@
         },
         {
           "verse": 4,
-          "text": "and destroyed the places that were very far off from them, and the kings that came upon them from the ends of the earth, and struck them with a great plague: and the rest give them tribute every year.",
+          "text": "and destroyed the places that were very far off from them, and the kings that came upon them from the ends of the earth, and stroke them with a great plague: and the rest give them tribute every year.",
           "notes": [
             {
               "label": "1",
-              "text": "What places these were Iosephus expresseth. l. 12. c. 17."
+              "text": "What places these were Iosephus expresseth. li. 12. c. 17.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2410,11 +2508,12 @@
         },
         {
           "verse": 6,
-          "text": "and that Antiochus the great king of Asia, who made battle against them, having an hundred and twenty elephants, and horsemen, and chariots and army exceeding great was discomfited by them:",
+          "text": "and that Antiochus the great king of Asia, who made battle against them, having an hundred and twenty elephants, and horsemen, and chariots an army exceeding great was discomfited by them:",
           "notes": [
             {
               "label": "b",
-              "text": "Polybius li. 5. writeth that Antiochus had 102. elephants in his war against Ptolemeus, & therefore it is not to be marveled that he had 120. against the Romans."
+              "text": "Polybius li. 5. writeth that Antiochus had 102. elephants in his war against Ptolemeus, & therefore it is not to be marveled that he had 120. against the Romans.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2452,7 +2551,7 @@
         },
         {
           "verse": 15,
-          "text": "And that they made themselves a court, and consulted daily three hundred and twenty, that sat in counsel always for the multitude, that they might do the things that were convenient:"
+          "text": "And that they made themselves a court, and consulted daily three hundred and twenty, that sate in counsel always for the multitude, that they might do the things that were convenient:"
         },
         {
           "verse": 16,
@@ -2460,7 +2559,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Though Rome was then governed by two consuls: Yet one only ruled every day in their course, not both in one day, for so saith Livius (li. 2. hist.) it should have been more terror of two rulers, than before it had been of one king."
+              "text": "Though Rome was then governed by two consuls: Yet one only ruled every day in their course, not both in one day, for so saith Livius (li. 2. hist.) it should have been more terror of two rulers, than before it had been of one king.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2522,7 +2622,7 @@
         },
         {
           "verse": 31,
-          "text": "Yea and concerning the evils, that Demetrius the king hath done against them, we have written to him, saying: Why hast thou aggravated the yoke upon our friends and fellows the Jews?"
+          "text": "Yea and concerning the evils, that Demetrius the king hath done against them, we have written to him, saying: Why hast thou aggravated thy yoke upon our friends and fellows the Jews?"
         },
         {
           "verse": 32,
@@ -2540,13 +2640,14 @@
           "notes": [
             {
               "label": "a",
-              "text": "This happened about a year after the death of Nicanor. ch. 7. v. 50. li. 2. c. 15. 38."
+              "text": "This happened about a year after the death of Nicanor. ch. 7. v. 50. li. 2. c. 15. 38.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 2,
-          "text": "And they went the way, that leadeth into Galgal, and camped in Masaloth, which is in Arbellis: and they won it, and slew of men many souls."
+          "text": "And they went the way, that leadeth into Galgal, and camped in Masaloth, which is in Arbellis: and they wan it, and slew of men many souls."
         },
         {
           "verse": 3,
@@ -2570,7 +2671,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Strongest men are not free from first motions of perturbation, but reflecting upon their own infirmity, & confiding in God's providence, take courage in a good cause, being assured either of temporal victory, or of eternal glory. As now it happened to this most glorious Champion. v. 18."
+              "text": "Strongest men are not free from first motions of perturbation, but reflecting upon their own infirmity, & confiding in God's providence, take courage in a good cause, being assured either of temporal victory, or of eternal glory. As now it happened to this most glorious Champion. v. 18.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2584,7 +2686,7 @@
         },
         {
           "verse": 10,
-          "text": "And Judas said: God forbid we should do this thing, to fly from them: & if our time be near, let us die manfully for our brethren, and let us not stain our glory."
+          "text": "And Judas said: God forbid we should do this thing, to flee from them: & if our time be near, let us die manfully for our brethren, and let us not stain our glory."
         },
         {
           "verse": 11,
@@ -2608,7 +2710,7 @@
         },
         {
           "verse": 16,
-          "text": "And they that were in the left wing, saw that the ring wing was discomfited, and they followed after Judas, and them that were with him at the back:"
+          "text": "And they that were in the left wing, saw that the right wing was discomfited, and they followed after Judas, and them that were with him at the back:"
         },
         {
           "verse": 17,
@@ -2632,7 +2734,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "The mighty may fall in the sight of men, but Judas his fortitude proved & confirmed by former heroical acts, with prosperous success, was now perfectly consummate by this most glorious end. S. Ambr. li. 1. c. 41. Offic."
+              "text": "The mighty may fall in the fight of men, but Judas his fortitude proved & confirmed by former heroical acts, with prosperous success, was now perfectly consummate by this most glorious end. S. Ambr. li. 1. c. 41. Offic.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2646,7 +2749,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "Where there is no governor the people shall fall. Pro. 11."
+              "text": "Where there is no governor the people shall fall. Pro. 11.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2672,7 +2776,8 @@
           "notes": [
             {
               "label": "e",
-              "text": "Ionathas the third general captain of the Machabees was also high Priest after the death of Judas. Though Alcimus by the King's favour unjustly usurped the office: (ch. 7. v. 5.) whiles Judas yet lived, and until this time. v. 54."
+              "text": "Ionathas the third general captain of the Machabees was also high Priest after the death of Judas. Though Alcimus by the King's favour unjustly usurped the office: (ch. 7. v. 5.) whiles Judas yet lived, and until this time. v. 54.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2710,7 +2815,8 @@
           "notes": [
             {
               "label": "f",
-              "text": "They also killed him. v. 38. 42."
+              "text": "They also killed him. v. 38. 42.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2724,7 +2830,7 @@
         },
         {
           "verse": 39,
-          "text": "And they lifted up their eyes, and saw: and lo a tumult, a great preparation: and the bridegroom came forth, and his friends, and his brethren to meet them with timbrels, and musical instruments, and many weapons."
+          "text": "And they lifted up their eyes, and saw: and lo a tumult, and great preparation: and the bridegroom came forth, and his friends, and his brethren to meet them with timbrels, and musical instruments, and many weapons."
         },
         {
           "verse": 40,
@@ -2740,7 +2846,8 @@
           "notes": [
             {
               "label": "g",
-              "text": "To revenge or punish faults in due measure, & other right circumstances, is a special virtue, moderating man's defence of his person, honour, or right, without cruelty, or remissness: and so the children sometimes are temporally punished, for their parent's sins, and the community for their leader's, either for their consent before the fact or after; or to prevent that they do not the like. S. Tho. 2. 2. q. 108."
+              "text": "To revenge or punish faults in due measure, & other right circumstances, is a special virtue, moderating man's defence of his person, honour, or right, without cruelty, or remissness: and so the children sometimes are temporally punished, for their parents sins, and the community for their leaders, either for their consent before the fact or after; or to prevent that they do not the like. S. Tho. 2. 2. q. 108.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2750,7 +2857,7 @@
         },
         {
           "verse": 44,
-          "text": "And Jonathas said to his company: Let us arise, and fight against our enemies: for it is not today as yesterday, and the day before."
+          "text": "And Jonathas said to his company: Let us arise, and fight against our enemies: for it is not to day as yesterday, and the day before."
         },
         {
           "verse": 45,
@@ -2775,7 +2882,8 @@
           "notes": [
             {
               "label": "h",
-              "text": "Ionathas and his men swam not to the other side, but to another place on the same side: for other wise the armies had been parted by the river: and so there had been no conflict that time."
+              "text": "Ionathas and his men swam not to the other side, but to another place on the same side: for other wise the armies had been parted by the river: and so there had been no conflict that time.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2805,7 +2913,8 @@
           "notes": [
             {
               "label": "i",
-              "text": "Iosephus li. 12. c. 17. confesseth that Judas was high-Priest, but erreth in saying he succeeded after Alcimus: neither considering that Alcimus was not indeed high priest, but an usurper: nor that he lived after Judas: who was slain a year before this time. v. 3. & 18. Whereby, and by many other such errors, we see that Iosephus is rather to be corrected by this book than to disallow this book because it differeth from Iosephus, or other like authors."
+              "text": "Iosephus li. 12. c. 17. confesseth that Judas was high-Priest, but erreth in saying he succeeded after Alcimus: neither considering that Alcimus was not indeed high priest, but an usurper: nor that he lived after Judas: who was slain a year before this time. v. 3. & 18. Whereby, and by many other such errors, we see that Iosephus is rather to be corrected by this book than to disallow this book because it differeth from Iosephus, or other like authors.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2855,7 +2964,7 @@
         },
         {
           "verse": 66,
-          "text": "and struck O dares, and his brethren, and the children of Phaseron in their tabernacles, and he began to slay, and to grow in forces."
+          "text": "and stroke odares, and his brethren, and the children of Phaseron in their tabernacles, and he began to slay, and to grow in forces."
         },
         {
           "verse": 67,
@@ -2871,7 +2980,8 @@
           "notes": [
             {
               "label": "k",
-              "text": "Evil councel how soever it happeneth to them that follow it, is ever hurtful to them that give it."
+              "text": "Evil councel how soever it happeneth to them that follow it, is ever hurtful to them that give it.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2903,7 +3013,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "He falsely avouched that he was the son of Antiochus Epiphanes: for he was indeed of very mean birth. Iustinus. li. 35."
+              "text": "He falsely avouched that he was the son of Antiochus Epiphanes: for he was indeed of very mean birth. Iustinus. li. 35.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2985,7 +3096,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "It was not in the king's power to make Ionathas high priest but he being so before, the king from this time did so account him."
+              "text": "It was not in the king's power to make Ionathas high priest but he being so before, the king from this time did so account him.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3015,7 +3127,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "This King Demetrius to get his desired purpose, sticked not to write a plain lie, for he had heard that the Jews had refused him and made league with his enemy Alexander. v. 22. 23."
+              "text": "This King Demetrius to get his desired purpose, sticked not to write a plain lie, for he had heard that the Jews had refused him and made league with his enemy Alexander. v. 22. 23.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3065,7 +3178,7 @@
         },
         {
           "verse": 38,
-          "text": "And the three cities that are added to Jury of the country of Samaria, let them be accounted with Jury: that they may be under one, and obey no other power, but the high priest's:"
+          "text": "And the three cities that are added to Jury of the country of Samaria, let them be accounted with Jury: that they may be under one, and obey no other power, but the high priests:"
         },
         {
           "verse": 39,
@@ -3085,7 +3198,7 @@
         },
         {
           "verse": 43,
-          "text": "And whosoever fly into the temple that is in Jerusalem, and in all the coasts thereof, in the king's danger for matter, let them be dismissed, & all things, that they have in my kingdom, let them have it free."
+          "text": "And whosoever flee into the temple that is in Jerusalem, and in all the coasts thereof, in the king's danger for matter, let them be dismissed, & all things, that they have in my kingdom, let them have it free."
         },
         {
           "verse": 44,
@@ -3101,11 +3214,13 @@
           "notes": [
             {
               "label": "d",
-              "text": "Notwithstanding the great offers of evil disposed men, Ionathas and all prudent men considering their former wicked deeds do not give credit to glorious words."
+              "text": "Notwithstanding the great offers of evil disposed men, Ionathas and all prudent men considering their former wicked deeds do not give credit to glorious words.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "ch. 7. v. 11."
+              "text": "ch. 7. v. 11.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3131,7 +3246,8 @@
           "notes": [
             {
               "label": "e",
-              "text": "This Ptolomeus Philometor decided a controversy, that the Jews had the true temple in Jerusalem, and that the Samaritanes' temple in Garizim was schismatical: which he judged, because albeit both pleaded antiquity, yet only the Jews proved by continual succession of high Priests from Aaron, and shewed that the other departed from them, first in the time of Jeroboam, and afterwards built that temple in Garizim, when some were returned from captivity: whereof Josephus writeth. li. 13. c. 6. Antiquit. Our Saviour also judged that the cause of the Jews was better. Ioan. 4. v. 22."
+              "text": "This Ptolomeus Philometor decided a controversy, that the Jews had the true temple in Jerusalem, and that the Samaritanes' temple in Garizim was schismatical: which he judged, because albeit both pleaded antiquity, yet only the Jews proved by continual succession of high Priests from Aaron, and shewed that the other departed from them, first in the time of Jeroboam, and afterwards built that temple in Garizim, when some were returned from captivity: whereof Josephus writeth. li. 13. c. 6. Antiquit. Our Saviour also judged that the cause of the Jews was better. Ioan. 4. v. 22.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3189,7 +3305,8 @@
           "notes": [
             {
               "label": "f",
-              "text": "When calumniators see that the innocent is justified and honoured, they fail in their heart to proceed against him."
+              "text": "When calumniators see that the innocent is justified and honoured, they fail in their heart to proceed against him.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3219,7 +3336,7 @@
         },
         {
           "verse": 71,
-          "text": "Now therefore if thou trust in thy forces, come down to us in the plain, let us compare there one with another: because with me is the force of battles."
+          "text": "Now therefore if thou trust in thy forces, come down to us into the plain, let us compare there one with another: because with me is the force of battles."
         },
         {
           "verse": 72,
@@ -3227,7 +3344,7 @@
         },
         {
           "verse": 73,
-          "text": "and now how wilt thou be able to abide the horsemen, & so great an army in the plain, where is no stone, nor rock, nor place to fly?"
+          "text": "and now how wilt thou be able to abide the horsemen, & so great an army in the plain, where is no stone, nor rock, nor place to flee?"
         },
         {
           "verse": 74,
@@ -3263,7 +3380,8 @@
           "notes": [
             {
               "label": "g",
-              "text": "Ionathas set his army in that manner as on every side his men stood in front ready to resist the force of the enemy coming towards them, all their backs so turned within their own squadron, that the enemy could no way enter without present resistance: and so those of the ambushment could only cast darts, but could not break the array of Ionathas' camp, nor make any entrance without their own present death."
+              "text": "Ionathas set his army in that manner as on every side his men stood in front ready to resist the force of the enemy coming towards them, all their backs so turned within their own squadron, that the enemy could no way enter without present resistance: and so those of the ambushment could only cast darts, but could not break the array of Ionathas' camp, nor make any entrance without their own present death.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3310,11 +3428,12 @@
       "verses": [
         {
           "verse": 1,
-          "text": "And the king of Ægypt gathered an army, as the sand that is about the sea shore, and many ships: and he sought to win the kingdom of Alexander by guile, and to add it to his own kingdom.",
+          "text": "And the king of Egypt gathered an army, as the sand that is about the sea shore, and many ships: and he sought to win the kingdom of Alexander by guile, and to add it to his own kingdom.",
           "notes": [
             {
               "label": "a",
-              "text": "By this hyperbolical description (very frequent in holy scripture) is signified that Ptolomeus' army was exceeding great, yea greater than can be easily conceived, and therefore is described by excessive terms."
+              "text": "By this hyperbolical description (very frequent in holy scripture) is signified that Ptolomeus' army was exceeding great, yea greater than can be easily conceived, and therefore is described by excessive terms.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3364,7 +3483,7 @@
         },
         {
           "verse": 13,
-          "text": "And Ptolomee entered into Antioch, & he put two crowns upon his head, of Ægypt, & of Asia."
+          "text": "And Ptolomee entered into Antioch, & he put two crowns upon his head, of Egypt, & of Asia."
         },
         {
           "verse": 14,
@@ -3400,7 +3519,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "When Pastors endeavour to extirpate sin out of the minds of the people, those that hate godliness, suggest to temporal princes that such spiritual preaching is dangerous to their state."
+              "text": "When Pastors endeavour to extirpate sin out of the minds of the people, those that hate godliness, suggest to temporal princes that such spiritual preaching is dangerous to their state.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3414,7 +3534,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "But zealous men cease not from so necessary a work, because God's word is not tied. 2. Tim. 2."
+              "text": "But zealous men cease not from so necessary a work, because God's word is not tied. 2. Tim. 2.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3432,7 +3553,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "And wise Kings will most esteem of such men, knowing that their fidelity towards God, is an assurance that they will also be faithful to Princes."
+              "text": "And wise Kings will most esteem of such men, knowing that their fidelity towards God, is an assurance that they will also be faithful to Princes.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3446,7 +3568,8 @@
           "notes": [
             {
               "label": "e",
-              "text": "The King had before adjoined principal places to Judea which were called Toparchiæ, that is places of principality, or principal governments: now he granted also immunities to them as to all Judea and Samaria."
+              "text": "The King had before adjoined principal places to Judea which were called Toparchiæ, that is places of principality, or principal governments: now he granted also immunities to them as to all Judea and Samaria.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3516,7 +3639,8 @@
           "notes": [
             {
               "label": "f",
-              "text": "Three thousand faithful encountering with an hundred & twenty thousand infidels, killed of them in one day an"
+              "text": "Three thousand faithful encountering with an hundred & twenty thousand infidels, killed of them in one day an",
+              "kind": "gloss"
             }
           ]
         },
@@ -3566,7 +3690,7 @@
         },
         {
           "verse": 56,
-          "text": "And Tryphon took the beasts, and won Antioch."
+          "text": "And Tryphon took the beasts, and wan Antioch."
         },
         {
           "verse": 57,
@@ -3578,7 +3702,8 @@
           "notes": [
             {
               "label": "g",
-              "text": "As to wear purple, and to bare a crown, so to drink in gold cups, and to wear a gold chain, was proper to Kings, and to whom they gave license."
+              "text": "As to wear purple, and to bare a crown, so to drink in gold cups, and to wear a gold chain, was proper to Kings, and to whom they gave licence.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3616,7 +3741,8 @@
           "notes": [
             {
               "label": "h",
-              "text": "It is an ancient ceremony in all nations, often mentioned in these Books, to confirm peace by giving each other the right hand."
+              "text": "It is an ancient ceremony in all nations, often mentioned in these Books, to confirm peace by giving each other the right hand.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3638,7 +3764,8 @@
           "notes": [
             {
               "label": "i",
-              "text": "Only two captains remained, and with them some soldiers (as Iosephus writeth about 50.) for it is not to be thought that Ionathas would have returned to battle. v. 72. being but three men in all to begin a new assault."
+              "text": "Only two captains remained, and with them some soldiers (as Iosephus writeth about 50.) for it is not to be thought that Ionathas would have returned to battle. v. 72. being but three men in all to begin a new assault.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3670,11 +3797,12 @@
         },
         {
           "verse": 2,
-          "text": "and to the Spartiates, & to other places he sent epistles according to the same tenure.",
+          "text": "and to the Spartiats, & to other places he sent epistles according to the same tenure.",
           "notes": [
             {
               "label": "a",
-              "text": "Sparta the chief city of Lacedemonia called also Lacedemon, and Theramne."
+              "text": "Sparta the chief city of Lacedemonia called also Lacedemon, and Theramne.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3688,21 +3816,22 @@
         },
         {
           "verse": 5,
-          "text": "And this is a copy of the epistles which Jonathas wrote to the Spartiates:"
+          "text": "And this is a copy of the epistles which Jonathas wrote to the Spartiats:"
         },
         {
           "verse": 6,
-          "text": "Jonathas the high Priest, and the ancients of the nation, and the Priests, and the rest of the people of the Jews, to the Spartiates their brethren greeting.",
+          "text": "Jonathas the high Priest, and the ancients of the nation, and the Priests, and the rest of the people of the Jews, to the Spartiats their brethren greeting.",
           "notes": [
             {
               "label": "b",
-              "text": "Spartians otherwise called Lacedemonians (by Iosephus and other writers) descended from Abraham, v. 21. and were in great league with the Jews."
+              "text": "Spartians otherwise called Lacedemonians (by Iosephus and other writers) descended from Abraham, v. 21. and were in great league with the Jews.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 7,
-          "text": "Long ago were epistles sent to Onias the high-Priest from Arius who reigned with you, that you are our brethren, as the writing containeth, that here beneath followeth."
+          "text": "Long ago were epistles sent to Onias the high priest from Arius who reigned with you, that you are our brethren, as the writing containeth, that here beneath followeth."
         },
         {
           "verse": 8,
@@ -3754,13 +3883,14 @@
           "notes": [
             {
               "label": "c",
-              "text": "The Spartians had written this epistle before Onias writ to them, though it be here placed after."
+              "text": "The Spartianes had written this epistle before Onias writ to them, though it be here placed after.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 20,
-          "text": "Arius the king of the Spartians to Onias the grand Priest greeting."
+          "text": "Arius the king of the Spartians to Onias the grandpriest greeting."
         },
         {
           "verse": 21,
@@ -3768,7 +3898,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "There remained with the Spartiates old writs of genealogies, as Iosephus supposeth. li. 12. c. 5. & li. 13. c. 9."
+              "text": "There remained with the Spartiates old writs of genealogies, as Iosephus supposeth. li. 12. c. 5. & li. 13. c. 9.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3810,7 +3941,7 @@
         },
         {
           "verse": 31,
-          "text": "And Jonathas turned aside to the Arabians, that were called Zabadeans, & he struck them, & took the spoils of them."
+          "text": "And Jonathas turned aside to the Arabians, that were called Zabadeans, & he stroke them, & took the spoils of them."
         },
         {
           "verse": 32,
@@ -3846,7 +3977,8 @@
           "notes": [
             {
               "label": "e",
-              "text": "Morally in Tryphon is noted the practice of the devil: who intending to overthrow a King or a Kingdom, first seeketh to deceive the pastors, and to destroy them: especially by error or other sin. For (as S. Gregory teacheth. ho. 38. ) if the pastor's life be corrupted, his doctrine will be contemned."
+              "text": "Morally in Tryphon is noted the practice of the devil: who intending to overthrow a King or a Kingdom, first seeketh to deceive the pastors, and to destroy them: especially by error or other sin. For (as S. Gregory teacheth. ho. 38. ) if the pastors life be corrupted, his doctrine will be contemned.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3864,7 +3996,7 @@
         },
         {
           "verse": 43,
-          "text": "and received him with honour, & commanded him to all his friends, and gave him gifts: and he commanded his hosts to obey him, as himself."
+          "text": "and received him with honour, & commended him to all his friends, and gave him gifts: and he commanded his hosts to obey him, as himself."
         },
         {
           "verse": 44,
@@ -3872,7 +4004,7 @@
         },
         {
           "verse": 45,
-          "text": "And now send them back to their houses, but choose thee a few men, that may be with thee, and come with me to Ptolomais, and I will deliver it to thee, and the other holds, and the army, and all the overseers of the affairs, and returning I will depart: for therefore I came."
+          "text": "And now send them back to their houses, but choose thee a few men, that may be with thee, and come with me to Ptolemais, and I will deliver it to thee, and the other holds, and the army, and all the overseers of the affairs, and returning I will depart: for therefore I came."
         },
         {
           "verse": 46,
@@ -3908,7 +4040,7 @@
         },
         {
           "verse": 54,
-          "text": "They have no prince, and helper: now therefore let us expugn them, and take away from men the memory of them."
+          "text": "They have no prince, and helper: now therefore let us expugne them, and take away from men the memory of them."
         }
       ],
       "summary": "Jonathas confirmeth league with the Romans and Spartiates, by letters: 19. with mention of letters received before. 24. By diligent guard he defendeth the country from the enemies' invasions, putting them to flight: 31. subdueth the Arabians, and returneth by Damascus (33. Simon prospering in other places.) fortifieth Jerusalem. 39. Finally is deceived by Tryphon. 48. and all his men are slain."
@@ -3922,7 +4054,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Simon the fourth general captain of the Machabees, & high-priest excelled his brethren in wisdom, by the testimony of his father, c. 2. v. 65."
+              "text": "Simon the fourth general captain of the Machabees, & highpriest excelled his brethren in wisdom, by the testimony of his father, c. 2. v. 65.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3948,7 +4081,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "He undertook by all his endeavour to defend and deliver his nation from danger and to restore their former liberty."
+              "text": "He undertook by all his endeavour to defend and deliver his nation from danger and to restore their former liberty.",
+              "kind": "gloss"
             }
           ]
         },
@@ -3990,7 +4124,7 @@
         },
         {
           "verse": 16,
-          "text": "And now send an hundred talents of silver, and his two sons for hostages, that being dismissed he fly not from us, and we will release him."
+          "text": "And now send an hundred talents of silver, and his two sons for hostages, that being dismissed he flee not from us, and we will release him."
         },
         {
           "verse": 17,
@@ -3998,7 +4132,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Simon being wise chose the less evil, and less danger. For if he had not sent that was demanded, it was very like and almost certain, that Ionathas should be slain, and it would have been imputed to Simon, that he had not taken just care of his brother's life, whereby the people would have been alienated from him, and perhaps have revolted from him, and also from religion. S. Tho. in hunc locum."
+              "text": "Simon being wise chose the less evil, and less danger. For if he had not sent that was demanded, it was very like and almost certain, that Ionathas should be slain, and it would have been imputed to Simon, that he had not taken just care of his brother's life, whereby the people would have been alienated from him, and perhaps have revolted from him, and also from religion. S. Tho. in hunc locum.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4044,7 +4179,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "This was not vain glory, but true glory to keep memory of so great virtue: thereby to stir up others to imitation. He that loveth honour (saith S. Augustin. li. cont. Secundin. c. 17. ) imitateth God. but humble souls desire honour in God, proud men will be honoured more than God. or without God. O how many Epitaphs are of wicked men, nothing else but perpetual monuments of their ambition, vanity, injustice, cruelty, & other vices! But those that are of true virtues are to God's more honour: the author of all virtues."
+              "text": "This was not vain glory, but true glory to keep memory of so great virtue: thereby to stir up others to imitation. He that loveth honour (saith S. Augustin. li. cont. Secundin. c. 17. ) imitateth God. but humble souls desire honour in God, proud men will be honoured more than God. or without God. O how many Epitaphs are of wicked men, nothing else but perpetual monuments of their ambition, vanity, injustice, cruelty, & other vices! But those that are of true virtues are to God's more honour: the author of all virtues.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4082,7 +4218,7 @@
         },
         {
           "verse": 36,
-          "text": "King Demetrius to Simon the High-Priest, and the friend of kings, and to the ancients, and to the nation of the Jews, greeting."
+          "text": "King Demetrius to Simon the High priest, and the friend of kings, and to the ancients, and to the nation of the Jews, greeting."
         },
         {
           "verse": 37,
@@ -4090,7 +4226,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "* a precious chain."
+              "text": "* a precious chain.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4112,11 +4249,11 @@
         },
         {
           "verse": 42,
-          "text": "And the people of Israel began to write in the tables, and public instruments. The first year under Simon the High-Priest, the great Duke, and the Prince of the Jews:"
+          "text": "And the people of Israel began to write in the tables, and public instruments. The first year under Simon the High priest, the great Duke, and the Prince of the Jews:"
         },
         {
           "verse": 43,
-          "text": "In these days Simon approached to Gaza, and compassed it with camps, and he made engines, and set them to the city, and he struck one tower, and took it."
+          "text": "In these days Simon approached to Gaza, and compassed it with camps, and he made engines, and set them to the city, and he stroke one tower, and took it."
         },
         {
           "verse": 44,
@@ -4136,7 +4273,8 @@
           "notes": [
             {
               "label": "e",
-              "text": "By how much more, that mercy is admixed with justice, so that justice be not destroyed, and that religion be advanced, the better it pleaseth God, and edifieth the well disposed."
+              "text": "By how much more, that mercy is admixed with justice, so that justice be not destroyed, and that religion be advanced, the better it pleaseth God, and edifieth the well disposed.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4146,7 +4284,7 @@
         },
         {
           "verse": 49,
-          "text": "But they that were in the castle of Jerusalem, were prohibited to go out and to come into the country, and to buy and sell: and they were exceeding hungry, and many of them perished for famine,"
+          "text": "But they that were in the castle of Jerusalem, were prohibited to go out and to come in to the country, and to buy and sell: and they were exceeding hungry, and many of them perished for famine,"
         },
         {
           "verse": 50,
@@ -4170,7 +4308,8 @@
           "notes": [
             {
               "label": "f",
-              "text": "This John Hyrcanus defended the country against invaders. ch. 16."
+              "text": "This John Hyrcanus defended the country against invaders. ch. 16.",
+              "kind": "gloss"
             }
           ]
         }
@@ -4182,7 +4321,7 @@
       "verses": [
         {
           "verse": 1,
-          "text": "In the year an hundreth seventy two, king Demetrius gathered his army, and went into Media to get him aids to expugn Tryphon."
+          "text": "In the year an hundreth seventy two, king Demetrius gathered his army, and went into Media to get him aids to expugne Tryphon."
         },
         {
           "verse": 2,
@@ -4190,7 +4329,7 @@
         },
         {
           "verse": 3,
-          "text": "And he went, and struck the camp of Demetrius: and took him, and brought him to Arsaces, and he put him into ward."
+          "text": "And he went, and stroke the camp of Demetrius: and took him, and brought him to Arsaces, and he put him into ward."
         },
         {
           "verse": 4,
@@ -4198,7 +4337,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Simon had now governed the people two years, beginning with great difficulties, but henceforth enjoyed peace till Antiochus Sedetes brake the league, & invaded Jury. ch. 15. v. 27. & 39."
+              "text": "Simon had now governed the people two years, beginning with great difficulties, but henceforth enjoyed peace till Antiochus Sedetes brake the league, & invaded Jury. ch. 15. v. 27. & 39.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4216,7 +4356,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "He reduced many Jews from captivity."
+              "text": "He reduced many Jews from captivity.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4226,7 +4367,7 @@
         },
         {
           "verse": 9,
-          "text": "The ancients sat all in the streets, and treated of the good things of the land, and the youngmen did on them glory, and the stoles of war."
+          "text": "The ancients safe all in the streets, and treated of the good things of the land, and the youngmen did on them glory, and the stoles of war."
         },
         {
           "verse": 10,
@@ -4258,7 +4399,7 @@
         },
         {
           "verse": 17,
-          "text": "But as they heard that Simon his brother was made the High-Priest in his place, and he obtained all the country, and the cities therein;"
+          "text": "But as they heard that Simon his brother was made the High priest in his place, and he obtained all the country, and the cities therein;"
         },
         {
           "verse": 18,
@@ -4274,7 +4415,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Sparta being the chief city of Lacedemonia, had many cities subject & depending as upon their Metropolitan."
+              "text": "Sparta being the chief city of Lacedemonia, had many cities subject & depending as upon their Metropolitan.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4296,7 +4438,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "When peace was established in all Jury, and friendship confirmed with the Romans, & Lacedemonians, the whole nation of the Jews in gratitude towards Simon, who only now remained of Mathathias' sons, confirmed him in the office of high-priest perpetually or for ever, v. 41. that is, during his life, & to his progeny, v. 49."
+              "text": "When peace was established in all Jury, and friendship confirmed with the Romans, & Lacedemonians, the whole nation of the Jews in gratitude towards Simon, who only now remained of Mathathias' sons, confirmed him in the office of high-priest perpetually or for ever, v. 41. that is, during his life, & to his progeny, v. 49.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4310,7 +4453,7 @@
         },
         {
           "verse": 27,
-          "text": "And this is a copy of the writing. The Eighteenth day of the month Elul, in the year an hundreth seventy two, the third year under Simon the grand-Priest in Asaramel,"
+          "text": "And this is a copy of the writing. The Eighteenth day of the month Elul, in the year an hundreth seventy two, the third year under Simon the grand priest in Asaramel,"
         },
         {
           "verse": 28,
@@ -4366,11 +4509,12 @@
         },
         {
           "verse": 41,
-          "text": "and that the Jews, and their Priests consented that he should be their duke, & high-Priest for ever, till there rise the faithful Prophet:",
+          "text": "and that the Jews, and their Priests consented that he should be their duke, & high priest for ever, till there rise the faithful Prophet:",
           "notes": [
             {
               "label": "e",
-              "text": "The high-Priesthood continued in this family of the Machabees until Herod took it from them, selling it for money, and then shortly came Christ the faithful Prophet."
+              "text": "The high-Priesthood continued in this family of the Machabees until Herod took it from them, selling it for money, and then shortly came Christ the faithful Prophet.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4396,7 +4540,7 @@
         },
         {
           "verse": 47,
-          "text": "And Simon took it upon him, and it pleased him to execute high Priest-hood, and to be duke & prince of the nation of the Jews, and of the Priests, and to be chief over all."
+          "text": "And Simon took it upon him, and it pleased him to execute high Priesthood, and to be duke & prince of the nation of the Jews, and of the Priests, and to be chief over all."
         },
         {
           "verse": 48,
@@ -4418,13 +4562,14 @@
           "notes": [
             {
               "label": "a",
-              "text": "This Antiochus Sedetes son of Demetrius Soter, was brother to Demetrius the second, who was now captive in Persia. ch. 14. v. 3."
+              "text": "This Antiochus Sedetes son of Demetrius Soter, was brother to Demetrius the second, who was now captive in Persia. ch. 14. v. 3.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 2,
-          "text": "and they contained this tenure: King Antiochus to Simon the grand-Priest, and to the nation of the Jews greeting."
+          "text": "and they contained this tenure: King Antiochus to Simon the grand priest, and to the nation of the Jews greeting."
         },
         {
           "verse": 3,
@@ -4480,13 +4625,14 @@
           "notes": [
             {
               "label": "b",
-              "text": "This legate was sent almost two years before to Rome ch. 14. v. 24. and now brought letters not only to the Jews but also to sundry kings and peoples in their behalf."
+              "text": "This legate was sent almost two years before to Rome ch. 14. v. 24. and now brought letters not only to the Jews but also to sundry kings and peoples in their behalf.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 16,
-          "text": "Lucius the Consul of the Romans, to Ptolemee the king greeting."
+          "text": "Lucius the Consul of the Romans, to Ptolomee the king greeting."
         },
         {
           "verse": 17,
@@ -4514,7 +4660,7 @@
         },
         {
           "verse": 23,
-          "text": "and into all countries: and to Lampsaces, & to the Spartiates, and to Delus, and to Myndus, and to Sicyon, & to Caria, and to Samus, & Pamphilia, and Lycia, and Alicarnassus, and Coo, & Siden, & A radon, and Rhodes, and Phaselis, & Gortyna, and Gnidus, and Cypres, & Cyrenee."
+          "text": "and into all countries: and to Lampsaces, & to the Spartiates, and to Delus, and to Myndus, and to Sicyon, & to Caria, and to Samus, & Pamphilia, and Lycia, and Alicarnassus, and Coo, & Siden, & Aradon, and Rhodes, and Phaselis, & Gortyna, and Gnidus, and Cypres, & Cyrenee."
         },
         {
           "verse": 24,
@@ -4526,7 +4672,7 @@
         },
         {
           "verse": 26,
-          "text": "And Simon sent unto him two thousand chosen men for aid, and silver, & gold, and aboundance of furniture."
+          "text": "And Simon sent unto him two thousand chosen men for aid, and silver, & gold, and abundance of furniture."
         },
         {
           "verse": 27,
@@ -4546,11 +4692,11 @@
         },
         {
           "verse": 31,
-          "text": "But if not, give you for them five hundred talents of silver, and for the destruction, that you have made, & the tributes of cities other five hundred talents: but if not, we will come and expugn you."
+          "text": "But if not, give you for them five hundred talents of silver, and for the destruction, that you have made, & the tributes of cities other five hundred talents: but if not, we will come and expugne you."
         },
         {
           "verse": 32,
-          "text": "And Athenobius the king's friend came into Jerusalem, and saw the glory of Simon, and his magnificence in gold, and silver, and furniture aboundant, and he was astonished, & told him the king's words."
+          "text": "And Athenobius the king's friend came into Jerusalem, and saw the glory of Simon, and his magnificence in gold, and silver, and furniture abundant, and he was astonied, & told him the king's words."
         },
         {
           "verse": 33,
@@ -4562,11 +4708,12 @@
         },
         {
           "verse": 35,
-          "text": "For concerning Joppe, and Gazara, that thou complainest they made a great plague among the people, and in our country: for these we given an hundred talents. And Athenobius answered him not a word.",
+          "text": "For concerning Joppe, and Gazara, that thou complainest they made a great plague among the people, and in our country: for these we give an hundred talents. And Athenobius answered him not a word.",
           "notes": [
             {
               "label": "c",
-              "text": "Simon subdued these two towns because they annoyed the Jews: but because they otherwise pertained not to Jury he payed for them an hundred talents."
+              "text": "Simon subdued these two towns because they annoyed the Jews: but because they otherwise pertained not to Jury he payed for them an hundred talents.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4588,7 +4735,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "By the river of Cedron (over which David passed 2. Reg. 15. v. 23. and our Saviour. Ioa. 18. ) a city was now built, or rather repaired being decayed before."
+              "text": "By the river of Cedron (over which David passed 2. Reg. 15. v. 23. and our Saviour. Ioa. 18. ) a city was now built, or rather repaired being decayed before.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4608,11 +4756,12 @@
       "verses": [
         {
           "verse": 1,
-          "text": "And John went up from Gazara, and told Simon his father what Cendebæus did among their people.",
+          "text": "And John went up from Gazara, and told Simon his father what Cendebæus did amongst their people.",
           "notes": [
             {
               "label": "a",
-              "text": "After Simon's death, his eldest son John, surnamed Hyrcanus, succeeded him in government spiritual and temporal. v. 24."
+              "text": "After Simon's death, his eldest son John, surnamed Hyrcanus, succeeded him in government spiritual and temporal. v. 24.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4658,7 +4807,7 @@
         },
         {
           "verse": 12,
-          "text": "For he was the son in law of the high-Priest."
+          "text": "For he was the son in law of the high priest."
         },
         {
           "verse": 13,
@@ -4678,7 +4827,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "He beginning to govern in the year 170. ch. 13. v. 41. 42. had difficulties the first & last years, in the rest they had peace. To be inebriated signifieth no more but to be replenished with drink competently, or aboundantly, without excess. As Psal. 64. v. 10. the earth inebriated, and v. 11. rivers inebriated. That is, abundantly replenished without excess. S. August. q. 144. in Gen."
+              "text": "He beginning to govern in the year 170. ch. 13. v. 41. 42. had difficulties the first & last years, in the rest they had peace. To be inebriated signifieth no more but to be replenished with drink competently, or aboundantly, without excess. As Psal. 64. v. 10. the earth inebriated, and v. 11. rivers inebriated. That is, abundantly replenished without excess. S. August. q. 144. in Gen.",
+              "kind": "gloss"
             }
           ]
         },
@@ -4716,11 +4866,13 @@
           "notes": [
             {
               "label": "c",
-              "text": "Out of the book here mentioned some think the fourth book of Machabees was translated. See Sixtus Senen. li. 1. Biblioth. pag. 37."
+              "text": "Out of the book here mentioned some think the fourth book of Machabees was translated. See Sixtus Senen. li. 1. Biblioth. pag. 37.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "* li. 2. c. 1. v. 1."
+              "text": "* li. 2. c. 1. v. 1.",
+              "kind": "gloss"
             }
           ]
         }
@@ -4808,6 +4960,480 @@
         {
           "marker": "◦",
           "text": "An order how to read these books."
+        }
+      ]
+    },
+    {
+      "title": "THE CONTINUANCE OF THE CHURCH, AND RELIGION IN THE SIXTH AGE: from the captivity in Babylon to the coming of our Saviour, near the space of 640 years.",
+      "text": "SUCH is the providence of Almighty God, that not obscurely, or at some times only, but manifestly, and without intermission his Divine Majesty is acknowledged, his name glorified; his Religion professed, and his precepts observed by a visible known Church, from the beginning of the world to the end thereof, as we have already showed in the other five ages; and shall no less clearly declare the same in this sixth. For albeit the peculiar people of God were for their sins carried forth of their country, and held captives in Babylon seventy years, and after their reduction were subject to strangers ruling over them, and sometimes extremely afflicted with persecution, yet they still persevered in the same faith and religion, had succession of Priests, and of one Highpriest, with conservation also of the royal line of David, even to Christ our eternal King and Priest.\n\nFirst therefore concerning Articles of faith and religion, the belief in one God was so generally confessed by the whole Jewish nation, that their Priests and Prophets did use it for a principle, in confirmation of other points, as well doctrinal as moral. So Malachie teaching that our neighbour is to be beloved, God to be served, and his laws to be kept: Is there not one Father of us all (saith he. ch.2. v.10.) Hath not one God created us? Why then doth every one of us despise his brother, violating the covenant of our fathers? More expressly Jeremie in his Epistle (Baruc. 6.) showeth the vanity and absurdity of many gods: exhorting the people to serve the one omnipotent God, saying to him sincerely in their hearts; (v.5.) Thou oughtest to be adored O Lord. Likewise, when the Magicians of Chaldea ascribed the knowledge of dreams to false gods, Daniel with the other three children (ch.2.v.18) prayed the God of heaven: and the mystery was revealed to Daniel. And he declared and expounded the king's dream. Who thereupon confessed to Daniel (v.47.) In very deed your God is the God of gods, and Lord of kings. The same three children (Daniel.3.) were cast into the burning furnace, and Daniel into the lions' den (ch.6. & 14.) ready to die for their faith in one God. For this faith also Mardocheus, as is written in the book of Esther, was persecuted, and he with all the people were in extreme danger. And the author of the book of wisdom teacheth that one God is known by consideration of his creatures: All men are vain (saith he. ch.13. v.1.) that by things seen, understand not him that is: neither attending to the works agnise who was the workman. So the author of Ecclesiasticus ch.1. v.8. professeth: There is one most high Creator omnipotent, and mighty king, and to be feared exceedingly, sitting upon the throne, the God of Dominion.\n\nAs for the high Mystery of three Divine Persons in one God not so commonly revealed in the old testament, yet was it known and in some sort uttered: As Aggeus 2. v.5. & 6. I am with you, saith the Lord of hosts, the word that I did covenant with you: when you came out of the land of Egypt: and my Spirit shall be in the midst of you. Where, by the Lord of hosts, is commonly understood God the Father; by his spirit, God the Holy Ghost, and the word may signify God the Son: of whose Incarnation the Prophet plainly speaketh in the next verses. For in this consisteth the covenant between God and his people, that they should keep his word of precepts and commandments expressed in the law: and he would send them the word, his only Son the Second Divine Person to redeem mankind. Again the same three Persons seem to be distinguished in divers places, God the Father is described according to man's small capacity, Daniel.7. v.9. thus: Thrones were set, and THE ANCIENT OF DAYS sat: his vesture white as snow, and the hairs of his head as clean wool, his throne flames of fire, his wheels fire kindled. He is called Ancient of days, not only because he is eternal, for so are the other two Divine Persons, but this term is attributed to the Father, because in order he is the beginning, from whom the other two Persons proceed [The Son by generation, the Holy Ghost from the Father and the Son by procession.] To God the Son the same Prophet Daniel prayeth: ch.9. v.17. saying: Now therefore hear O our God, the petition of thy servant, and his prayers: and show thy face upon thy Sanctuary which is desert, for thine own sake: that is, for thine own merits: which can only be understood of that Divine Person, which is incarnate. Zacharie, 12. v.10. God speaking by the prophet saith: I will pour out upon the house of David, and upon the inhabitants of Jerusalem the spirit of grace and of prayers, which may easily be understood to be the promise of the B. Trinity: but that which immediately followeth: and they shall look towards me, whom they pierced, can only be spoken by the Second Divine Person, who only is incarnate, and was pierced in his Passion. In the book of wisdom is much written of wisdom increated, a term appropriated to God the Son. especially ch.2.7.8.9. and 10. The like in Ecclesiasticus, ch.1.4.24. And ch.51. v.14. is distinct mention of the Father & the Son, I have invocated (saith the author, or any faithful soul) our Lord, the Father of my Lord. There is likewise particular mention of the Holy Ghost in some places. As 2. Esd.9. v.20. Thou gavest them the good Spirit, which should teach them. for the office of internal teaching is appropriated to the Holy Ghost. John 14. v.17. and 16. v.13. The Spirit of truth, and he shall teach you all truth. Ezec.36. v.27. I will put my Spirit in the midst of you, and will make that you walk in my precepts. Zach.7. v.12. The words which the Lord sent in HIS SPIRIT, by the hand of the former Prophets. Sapient.1. v.5. The Holy Ghost of discipline will flee from him that feigneth. Ecclesiasticus 1.v.9. He created her in the Holy Ghost. 24. v.29. They that eat ME, shall yet hunger, and they that drink ME, shall yet thirst. Where God calleth the Holy Ghost (which is received by grace) himself. Because all three Divine Persons are one God. And that there be many Divine Persons in God, who is one in substance, is sufficiently signified by all those holy Scriptures, where God is called by the name Elohim, in the plural number; especially seeing this name hath also the singular number, Eloha. As Job 12. v.4. & 36. v.2. Daniel.2. v.28. Habacuc.1. v.11. & 3. v.3. which last place seemeth most plainly to speak of the Son of God, ELOHA MITHEMAN IAVO. God will come from Theman, or from the South. And therefore where this word Elohim is used in the plural number (as in most places it is) it signifieth plurality of Persons in God.\n\nChrist's Incarnation is more clearly foreshowed by the Prophets, who above other consolations, most especially comforted the people by their prophecies of Christ our Saviour. Jeremie 23.v.5. I will raise up to David a just branch, and he shall reign a king, and shall be wise, and he shall do judgement and justice in the earth. Ch.31. v.23. A woman shall compass a man. Christ though in body a little infant, yet in power and wisdom was most perfect of all men, even when he was in his mother's womb. Ch.33. v.14. Behold the days will come, saith our Lord, and I will raise up the good word. v.15. I will make the spring of justice to bud forth unto David, & he shall do judgement and justice in the earth. Jeremie's Lamentations are in greatest part of Christ and his Church. And some part can hardly be applied to any other. ch.3. v.30. He shall give the cheek to him that striketh him, he shall be filled with reproaches, ch.4. v.20. Christ our Lord is taken in our sins. Baruch.2. v.35. God promising to reduce the people from Babylon, addeth: And I will establish unto them another testament everlasting (by Christ, whose kingdom is for ever) that I be their God, and they shall be my people. Ch.3. v.36. This is our God, and there shall none other be esteemed against him. v.38. After these things he was seen upon the earth, and was conversant with men. Ezechiel peculiarly called by an Angel the son of man, was therein a special figure of our Saviour, who so calleth himself. And the same prophet hath in plain terms foreshowed the office of Christ, the true Pastor of all pastors. ch.34. v.25. I will (saith God by this prophet) raise up over them one Pastor, who shall feed them, my servant David. that is, Christ prefigured by David. His admirable visions in the three first chapters, and nine last pertain properly and principally to the new Testament of Christ, and his Church, showing the abundance of grace and glory given by him to the elect. Daniel.7. v.13. With the clouds of heaven there came in as it were the Son of man, and he came even to the ancient of days, and in his sight they offered him. He came even to the ancient of days, because in his Divinity he is equal to the Father: and in his humanity he is offered to God in Sacrifice. v.14. His power is eternal: and his kingdom shall not be corrupted. ch.9. v.24. Seventy weeks (of years) are abridged, that sins may be forgiven, grace be infused, prophecies be fulfilled, and the Holy one of holies be anointed. All which belong only to Christ. v.26. After sixty two weeks Christ shall be slain. Aggeus 2. v.8. The desired of all nations shall come. Zach.3. v.8. I will bring my servant the Orient. ch.13. v.7. Strike the Pastour, and the sheep shall be dispersed, fulfilled in Christ's Passion Mat.26. v.21. Malach.3. v.2. Forthwith shall come to his temple the Dominator, whom you seek, & the Angel of the testament, whom ye desire. The book of wisdom. ch.2. v.12. describeth the malice of the wicked against Christ. Let us (say they) circumvent the just, because he is unprofitable to us: and he is contrary to our works, and reproachfully objecteth to us the sins of the law. v.13. He boasteth that he hath the knowledge of God, and nameth himself the Son of God. Ecclesiasticus 24. v.34. God appointed to David his servant, to raise up a king of him, most strong and sitting in the throne of honour for ever. Which eternal king proceeding from David can be none but Christ our Saviour. And all the praises of Patriarchs, and Prophets (in the last eight chapters) consist in their faith, and expectation of Christ. Likewise the Priests and people. 1. Mach.14. v.28.35. and 49. showed their faith of Christ to come, when they established Simon, and his progeny in the government and highpriesthood, for ever till there rise the faithful Prophet, to wit the Prophet of whom all the prophets did speak (Luke 24 v.27.) Amongst the rest Jeremie, ch.31. v.23. and Ezechiel ch.44. v.2. make also especial mention of some singular privileges of the most excellent virgin Mother of God. Of whom also Judith, and Esther were apparent figures, who received special graces for the benefit of their nation, and so did this singular Virgin receive of God most eminent gifts, above all other mere creatures, for the benefit of the whole Church.\n\nOf Angels the celestial spirits, is frequent mention in the holy Scriptures of this age. Their multitude is innumerable, and therefore are insinuated to men by general terms. Daniel.7. v.10. Thousands of thousands ministered to him, and ten thousand hundred thousands assisted him. And their power is most great, and to men most profitable. An Angel defended the three children in the furnace, walking with them in the fire. Daniel.3. v.49.95. Another defended Daniel from the lions. ch.6. v.22. The same or another carried Habacuc from Jewry into Babylon. Dan.14. v.35. and restored him in his place again. v.38. The Archangel Gabriel instructed Daniel, ch.8. v.16.17. ch.9.v.21. And ch.10.v.13. & 20. Other Angels the Patrons or Guardians of the Persians and Grecians, prayed for those countries; and S. Michael, v.21. for the Jews. An Angel spake in Zacharie, ch.1. v.9. Another Angel went to meet him. ch.2.v.3. And in respect of Angelical offices, both S. John Baptist, and our Saviour himself are figuratively called Angels. Malach.3. v.1. No marvel therefore that Judas Machabeus and his army, 2. Machab.11.v.6. prayed for the assistance of a good Angel, which was granted them. v.8. And so they went promptly, having an helper from heaven. v.10. Their like prayer had the same effect in another battle. 2. Machab.15.v.27.\n\nContrary to these glorious Angels are other spirits, at first created in grace, which falling into pride, and most obstinate malice are perpetual enemies to God their Creator, and to all mankind, continually calumniating the works of God, and of all his servants, whereof they are called Devils, or calumniators. They never cease tempting all they can to evil, so to bring men to eternal death: For by the envy of the devil (Sap.2.v.7.) death (both of soul & body) came into this world. The just stipend of sin. All sins offend God and please the devils. But more particularly they desire to be honoured as God with Sacrifice. Which therefore they require to themselves and their idols. And for this sin of Idolatry, above all others, God is most provoked to wrath: & for the same most especially punished his people: as the Prophet Baruch (chap.4.v.6.) signifieth to the people, saying: You are sold to the Gentiles. &c. You are delivered to their adversaries: and giving the reason why, he addeth: v.7. For you have exasperated him that made you, the eternal God immolating to devils. And not to God.\n\nThe same all the Prophets teach, and withal that Sacrifice is the sovereign service due to God only, and not to any creature, how excellent soever. But of Sacrifice there is so much written, that it were over long and needless to recite the places. It importeth more to observe the predictions of the most excellent, and perfect Sacrifice of the new Testament Malachie.1. v.11. From the rising of the sun (saith God by this Prophet) even to the going down, there is sacrificing, and there is offered in my name a clean oblation. In the old testament they offered cattle, & birds, by pouring out their blood about the altar, and drawing forth their bowels. For purging and cleansing whereof there was much washing and labour: but now in the Church of Christ, is the clean Sacrifice of our Lord's body and blood, in forms of bread and wine. It is also in itself so pure, that it cannot be polluted (as the old sacrifices were, v.12.) by unworthy Priests, but is always available to some or other, ex opere operato. According to that the same Prophet testifieth, ch.3. v.4. The Sacrifice of Juda and Jerusalem shall please our Lord. Which is necessarily understood of the Christians' sacrifice: for else this place were contrary to that which God said to the Jewish priests, ch.1. v.10. I have no will in you, and I will not receive gift at your hand. Daniel also prophesieth, ch.9. v.27. that in the half of the week the host and the sacrifice shall fail. Ch.12. v.11. The continual sacrifice shall be taken away, thereby signifying that not only after the figure, the Sacrifice prefigured should succeed (for else there should be no daily Sacrifice at all in the new Testament, which Malachie saith plainly there shall be, not in one, or in few places, but from the rising of the sun, even to the going down, &c.) but also that both the old and new sacrifices should be taken away in their several times. For so our Saviour (Mat.24.v.15.) applieth the next words of this prophecy, and abomination of desolation shall be set up, not only as a sign before the destruction of Jerusalem, but also of the end of the world. Verified in part as in the figure, when the temple was destroyed, & divers profanations made in the same place: but more especially shall be fulfilled by Antichrist, abolishing the holy Sacrifice of Christ's body and blood, so much as he shall be suffered: as S. Hyppolitus writeth, lib. de Antichristo. & in oratione de consummatione mundi. Agreeable to S. Ireneus. li.4. c.32. & li.5. in fine S. Jerome. in Dan.11. Theodoretus in eundem locum, and S. Chrisostom in opere imperfecto. Yea some Hebrew Rabbins acknowledge Transubstantiation, in the Eucharist. as R. David Kimhi witnesseth upon these words of Osee.14.v.8. They shall live with wheat, and shall spring as a vine: Many of our Doctors (saith he) expound this, that there shall be mutation of nature in wheat, in the times of our Redeemer Christ. This Rabbi David also, and the Chaldee Paraphrasis expound Ezechiel's prophecy, ch.36. v.25. I will pour out upon you clean water, of the remission of sin, though they signify not by what particular means. Which Christian Doctors undoubtedly explicate of the Sacrament of Baptism. And likewise his other prophecy, ch.47. v.1. waters issued forth under the threshold of the house towards the East, cannot be understood of any other waters than of Baptism.\n\nThe purifications, oblations, and other works of penance practised by the people, after their return from captivity, written. 2. Esd.9.10.13. testify their observation of the law in this point, by which the Sacrament of penance in the new testament was prefigured.\n\nIn like sort the continuance of Priesthood, and priestly functions is manifest in the books of Esdras, and of other Prophets, which prefigured the Sacrament of holy Orders, in the Church of Christ.\n\nIn these times also the feasts instituted by the law, were observed with more or less solemnity, as time, place, and other opportunities served. As Esdras testifieth. li.1. c.3. v.2. Josue (the highpriest) and Zorobabel (the duke) after their return from captivity, built an altar (notwithstanding the threats of infidels) and offered upon it holocaust to our Lord morning and evening. And they made the solemnity of tabernacles, and other feasts, as well in the Calends, as in all the solemnities of our Lord, though the temple was not yet built again (v.6.) And afterwards upon new occasion, Judas Machabeus, 1. Mach.4. & 2. Mach.10. instituted a new feast, which our Saviour observed. John 10. v.12.\n\nThe like observation was kept of fasts. For amongst the feasts which were all duly performed (1. Esd.3. v.5.) one was of Expiation which consisted in fasting from even to even. Levit.23. Num.29. And besides the ordinary, Esdras appointed a peculiar fast for special purposes, 1. Esd.8. v.21. And I proclaimed (saith he) a fast, beside the river Ahaua, that we might be afflicted before the Lord our God: and might desire of him a right way for us, and our children. And (v.23.) we fasted and besought our God hereby: and it fell out prosperously unto us. Again, 2. Esd.9. v.1. The children of Israel came together in fasting, and sackcloths, and earth upon them. see more of fasting Judith.4. & 9. Esther 5. & 14. Zachar.8. And of abstinence from certain meats according to the law, Daniel 1. & 9. Judith.10. & 12.2. Mach.6. & 7.\n\nMore generally the whole form of good life is excellently prescribed in the books of wisdom and Ecclesiasticus. Where under the general virtues of Wisdom and Justice, all are admonished to seek diligently to know God, and to serve him. As much as to say, to have faith and good works: the two feet, and legs, on which the godly walk unto life everlasting. Let one short sentence here serve for example (wishing all men to read more in the books themselves) Sap.6. v.18.19. & 20. is this gradation. The beginning of wisdom is the true desire of discipline; the care of discipline is love; & love is the keeping of her laws: and the keeping of the laws is the consummation of incorruption: & incorruption maketh to be next to God. These are the steps from earth to heaven, from this vale of miseries to eternal happiness. first A true and sincere desire of discipline, or of God's true service: 2. This desire or care of discipline breedeth love of God: 3. love is the keeping of laws, the commandments of God: for he that saith he loveth God, and keepeth not his commandments is a liar: 4. keeping the laws is the consummation of incorruption: making the soul perfect in virtues, and free from corruption of sins: 5. and this incorruption maketh to be next to God, joining man with God, which is the perfect beatitude of eternal life. And so he concludeth, v.22. Therefore (from first to last by degrees) desire of wisdom leadeth to the everlasting kingdom. Yet must we understand that neither the first step of good desire, nor any of the rest is in a man's own power as of himself, so much as to think a good thought, but God's grace preventeth stirreth men up, and continually assisteth, in all good beginnings progress, and perseverance, as the same divine author teacheth a little before, v.14. wisdom preventeth them that covet her, that she first may show herself unto them. Then to admit, or refuse is in their power, that have good motions. And therefore sin is rightly imputed, and damnation justly inflicted upon the wicked, because as Nehemias (2. Esd.9. v.17.) testifieth of the ungrateful people, they would not hear. And they hardened their necks, and gave the head to return to their servitude, as it were by contention, or striving against God, through their own free will; which appeareth here to remain in sinners. On the other side the same Nehemias in confidence of reward for good works, and of his voluntary cooperating with God's grace, feared not to pray (2. Esd.5. v.19) in these words: Remember me my God to good, according to all things which I have done to this people.\n\nSome men moreover besides the commandments of the law, voluntarily professed a peculiar state of holy life, a plain figure, or rather an example of Evangelical counsels. As in the former ages the Nazarites, whose rule is prescribed Numeri 6. practised by Samson (Judic.13.) and Samuel (1. Reg.1.) and the Rechabites (Jere.35.) so in this last age next before Christ the Assideans, or Esseni. 1. Mach.2.v.42. of whom Judas Machabeus in his time was head or captain. 2. Mach.14. v.6. Jeremie the prophet (ch.16 v.2.) by God's ordinance lived single unmarried all the time of the captivity. Thou shalt not take a wife, and thou shalt not have sons and daughters in this place: to wit, in Jerusalem. Neither did he marry when he was afterwards in Egypt. But of his own accord remained a virgin all his life, as S. Jerome writeth, li.1. advers. Iovinianum.\n\nPrayers of Saints after they are departed from this world is manifestly deduced of the sacred text, Jere.15. v.1. of Moyses and Samuel, not to be heard if they should pray for the people, whom God had decreed to punish, were consequently to be heard in some other case. And more expressly. 2. Mach.15. v.12. & 14. is recorded that Onias, and Jeremie did pray for all the people, and for all the holy city. Reverent estimation of Relics, and other holy things is manifest by the fact of the same Prophet Jeremie, who by God's ordinance (2. Mach.2.v.1. & 5.) hid the holy fire, and the Tabernacle, and the Ark, & the Altar of incense in a cave. that they should not be profaned by infidels ransacking Jerusalem, and the temple: Other holy ornaments also, and vessels were restored by the favourable king Cyrus, 1. Esd.1. v.7. & ch.8. v.30. In figure also of the holy Cross on which Christ was to redeem mankind, those that mourned for the abominations in Jerusalem (Ezec.9.) were signed in their foreheads with the letter Thau, or, T. and so were saved from the common slaughter of the unsigned.\n\nPrayer and Sacrifice for the dead is likewise clear, 2. Mach.12.v.43. &c. if either the text may be admitted for Canonical, saying (v.46.) It is a holy and healthful cogitation to pray for the dead; or for good testimony of Judas' fact; being Highpriest, and doing that which the whole Church practised, and which the Jews yet observe to this day.\n\nOf the General Resurrection, is good testimony in the same place v.43. and 44. as the ground of Judas his piety towards the dead, well and religiously thinking of the Resurrection. For unless he hoped that they which were slain should rise again, it should seem superfluous, and vain to pray for the dead. But seeing he did believe the Resurrection, he did right well and piously. And seeing the belief of resurrection is true, it followeth, as this author inferreth, that it is a holy thing to pray for the dead.\n\nMalachie the last of the Prophets, in the last chapter foreshoweth, and describeth the General judgement, in the end of this world: wherein the wicked shall be condemned, and the just eternally rewarded. Which day shall come (saith he) kindled as a furnace. All that do impiety (dying in that state) shall be stubble, and that day shall inflame them. And there shall rise to you that fear my name, the Sun of justice, and health in his wings, or glorious beams, healing and curing all bodily infirmities, and defects. Before which day he foretelleth of two signs, v.5. The coming of Elias the Prophet. and. v.6. & the conversion of the Jews to Christ. And thus much may here suffice, for particular points of religion in this age.\n\nIt resteth to view the state and government of the Church in this time. Which may be considered according to the four Monarchies of heathen nations: the Chaldees; the Medes & Persians; the Grecians; and the Romans: Under the Chaldees, whose Imperial city was Babylon, they were in captivity seventy years. By the Medes and Persians (for that Monarchy consisted of those two nations) they were released from captivity with many favours, yet sometimes afflicted. Under the Monarchy of the Grecians, they were partly in extreme persecution of Antiochus Epiphanes, and of other Grecian kings and princes, partly in wars for defence of God's laws. Before and after which persecution and wars, as well under the Grecians, as the Romans till Christ's Passion the Church was for most part in peace, yet some times afflicted. But omitting many intricate difficulties about the times and reigns of sundry heathen kings, it will suffice our purpose to show the general state of the Jewish nation, with their own particular governors spiritual and temporal, with more or less favour of foreign Princes.\n\nFirst therefore concerning their estate in their captivity in Babylon, we may here observe God's providence, in that before the city and temple of Jerusalem were destroyed, and the whole nation made captive, Joachin (otherwise called Jechonias) the son of Joachaz (who was also called Jechonias) king of Juda was transported into Babylon, and his mother, and many other principal persons. 4. Reg.24. v.15. Likewise Josedech son of Saraias highpriest (1. Paral.6.v.15.) was carried into Babylon. And in the mean time Sedecias (uncle to Joachin) reigned in Juda, who in the eleventh year, was taken and carried captive into Babylon, and there died, Joachin yet living in prison. And Saraias the Highpriest with others, was slain in Rebla, when Jerusalem was destroyed. 4. Reg.25. v.18. & 21. To whom Josedech succeeded in the highpriesthood. So that both the issue of David, in the right line of our Saviour's genealogy, and the Highpriest of Aaron's stock, were in Babylon before the whole body of the nation was brought thither. This Jechonias (or Joachin) remained in prison, till the death of Nabuchodonosor, the space of thirty seven years, and was then delivered by Euilmerodach, and by him entertained courteously as a prince, 4. Reg.25. v.27. He married there and had issue Salathiel; and Salathiel had Zorobabel. Who together with Josue son of Josedech highpriest, & Esdras, Nehemias, & others recited 1. Esd.2. conducted the children of Israel from Babylon into their country. There were also in a former transmigration Daniel, and the other three children Ananias, Misael, & Azarias, (of the royal or principal blood) in the third year of Joakim (otherwise called Eliacim son of Josias. 4. Reg.23. v.34.) king of Juda. Dan.1. v.1.6. These with others were carried as hostages into Babylon, and brought up more liberally. Where serving God sincerely, abstaining from unlawful meats, were protected by God, much also esteemed and promoted in that place. For Daniel about the age of twelve years, convinced the two wicked Judges, and delivered Susanna from their cruel hands. Dan.13. And afterwards for declaring and interpreting the king's dream (Dan.2.) and excellent wisdom, and gift of prophecy was admired by all, advanced by the king: but maligned by certain envious sorcerers, and great men. Whereby he was sometimes in great danger, but still delivered by God's power protecting him. Dan.6. & 14. The other three children were likewise advanced. Dan.2. v.49. and therefore by divers envied, and for refusing to adore an idol set up by Nabuchodonosor were cast into a hot burning furnace, and there preserved. Dan.3.\n\nJeremie, who before this time began to prophesy whiles he was a child, (Jere.1.) continued in the time of captivity, in Jerusalem and Jewry, with much affliction, and still prophesying finally died in Egypt. Baruch his scribe, and also a Prophet, went sometimes into Babylon, and returned into Jewry (Baruch.1.) instructing and exhorting the people.\n\nEzechiel was carried with king Jechonias, and Josedech into Babylon, and there prophesied (ch.1.v.2.) part of the same time with Daniel, in great part the same things with Jeremie. And during the captivity, king Jechonias, Josedech the highpriest, Jeremie, Baruch, Ezechiel prophets, & innumerable others (some Martyrs, and many Confessors) parted from this world. But Daniel yet lived. And in place of Josedech Highpriest Josue succeeded, and the progeny of king Jechonias continuing in Salathiel, and Zorobabel, the nation had them and other eminent men, with temporal dependence upon foreign princes in the next Monarchy of the Medes and Persians.\n\nFor when Darius king of Medes had slain Baltazar king of the Chaldees, and so possessed Babylon, with the whole country he brought the Monarchy to the Medes & Persians. Dan.5.v.31. and within the space of one year he died; and Cyrus succeeding granted leave to all the Jews to return into Jewry; and there to build up their temple, and city of Jerusalem, which Nabuchodonosor had destroyed. At which time Daniel had his vision, that Christ our Saviour should come into the world, within seventy weeks (of seven years to the week, that is, in four hundred ninety years) after the perfect finishing of the temple. and city. Dan.9.v.24. & 25. But when they were so built again, that the weeks began to be counted, is very obscure: as it was the will of God, that the prophecy, being certain in itself, should not be over clear to every man's understanding, but as likewise many other prophecies, shut and sealed. Dan.12. v.6.9.13.\n\nIn this time of the Medes and Persians Monarchy, Mardocheus remaining in Chaldea, after the relaxation had that vision in a dream, Esther.11. after which followed the history of him, & Queen Esther, and wicked Aman; with the danger and delivery of all the Jews in those parts.\n\nSome think it likewise probable, that the history of Judith happened after the captivity; though others suppose that it was in the time of Manasses king of Juda. which not being our purpose to discuss and decide, we will pass to things more certain.\n\nThe prophets Aggeus & Zacharias near twenty years after the relaxation, earnestly exhorted the princes & people to build up the temple which had been begun, and now was neglected upon vain fear, thinking, the time was not yet come of building the house of our Lord. Aggeus.1. v.2. Whereupon the prophet reproveth them, expostulating thus: Why, is it time for you to dwell in embowed houses, and this house (of our Lord) desert? And assureth them. v.10. that their ground should remain barren, and ch.2.v.15. their sacrifices ungrateful, till they should build the temple: promising moreover that this new temple should be more glorious by Christ's personal presence therein, than the former temple built by Salomon. But especially the Church of Christ prefigured by the temple, should far excel the Synagogue of the old testament. ch.2.v.10. Great shall be the glory of this last house more than of the first. Which Zacharie confirmeth inviting the Gentiles to come, and the Jews to return into Christ's Church: ch.2. v.6. O flee out of the land of the North, saith our Lord, because into the four winds of heaven, have I dispersed you. v.7. O Sion flee thou that dwellest with the daughter of Babylon. And by divers other visions and prophecies they foreshow the conversion of the Gentiles, and rejection of the Jews for their obduration, but in the end they also shall be converted.\n\nMalachie prophesied after the finishing of the temple, exhorting all to offer their sacrifices with purity of heart, reprehending both priests and people for not so doing. ch.1. He also foreshoweth the rejection of the Jews, & calling of the Gentiles, with the change of the old sacrifices, and institution of a new far more excellent, and more effectual, to be offered every where (v.10. & 11.) He concludeth his prophecy ch.4. foretelling the terrible day of Judgement, and life or death everlasting.\n\nThese later prophets yet living, as Josephus, Eusebius, Theodoretus and others testify in their histories, the Grecians obtained so great a Monarchy by king Alexander the Great of Macedo, that being parted after his death amongst many, yet all were great kingdoms, some longer some shorter time. In the beginning whereof when king Alexander came to Jerusalem, as Josephus writeth. li.11. c.8. Antiquit. Jaddus the highpriest going forth in his pontifical attire to meet him, the same king straightways fell down at his feet with all reverence. And being demanded by his friends, the princes of his army, why he so much honoured the highpriest, he answered, that he honoured not the man for himself, but for his office, and God in him, who had appeared to him in sleep in that very habit, and ornaments, when he in Macedonia discoursed in his mind of making battle against the Persians, promising him assured victory. Shortly after this it happened, that Manasses an Apostata highpriest, by intercession of Sanaballat, whose daughter he had unlawfully married, obtained licence to build a temple in Garizim, which the Samaritans afterwards pretended to be more ancient than the temple of Jerusalem, against which our Saviour gave sentence. John 4.v.22. It was also decided by king Ptolomeus in Alexandria (as Josephus witnesseth. li.13. c.6.) by way of arbitrament, finding that the temple of Jerusalem, and the Highpriests thereof had a perpetual succession from Salomon's time, and that their pretence of Jacob's adoring in Garizim was not to the purpose, seeing there was no succession, that temple being lately built. Nevertheless the same Ptolomeus to gratify Onias another Apostata, son of good Onias Highpriest and Martyr (2. Macab.4. v.34.) gave leave to build another temple in Egypt, which stood likewise in schisme against the true temple of Jerusalem, wresting to their purpose the prophecy of Isaie. ch.19. v.19. In that day there shall be an altar of our Lord in the midst of Egypt. Which S. Jerome showeth to be understood of the Church of Christ. Before this last schismatical temple, and after the former were the Seventy two Interpreters, or Translators of the Hebrew Bible into Greek. of whom S. Jerome and all ancient Fathers speak much, & esteem of very great & Canonical authority.\n\nIn the time of the Grecians Monarchy, profane learning flourished more than before, and Philosophers abounded, but differed exceedingly amongst themselves, and all erred in the principles both of Natural & Moral knowledge. For whereas indeed God omnipotent was the only maker of the whole world, and all things therein, all these Philosophers supposed and taught, that some material thing was coeternal with God: and so they put the same thing to have been the beginning of all other things. Which some say was the water, some the Air, some the Earth, some the Fire, some all these four Elements, some the Atomos, or indivisible small bodies, some one thing some another. Whereof S. Epiphanius writeth in compendio contra hæreses. And the like absurd conceits they had of the chief Good, or Summum bonum. Which the Pythagorians thought to be nothing else but a certain immortality of the soul, and so, as it may still be in a body. And therefore seeing both men and beasts do die, they held opinion, that when a soul parteth out of one body, it goeth into another. Yea and maketh transmigration from one species or kind to another. As from a man's body into the body of a horse, or an ox; and contrariwise from a brute beast into a man again, and from one beast into another. The Stoics put the chief good in virtues, but could reach no further than to a certain contentment of joy in their mind, not knowing the reward of virtues to consist in seeing God. Platonics, or Academics conceived more of God, and pure spirits, but thought both corporal and spiritual creatures were coeternal with God. The Peripatetics placed the chief good, or felicity in the aggregation of best spiritual, corporal, and worldly things together. The Epicures esteemed carnal and bodily pleasures above all. And all these and their followers judged so diversly of the right true felicity, contradicting and condemning each others' opinions, that they were multiplied into innumerable Sects. As S. Augustine declareth out of Marcus Varro: and opposeth against them all, the one assured faith and judgement of God's Church, in his 19. book de ciuit. Dei. c.4. And concludeth with the Royal Prophet, and S. Paul, that their cogitations are vain, which will have happiness to be in any other thing but in seeing God; or to be obtained by any other means, without God's grace. And not only before & since, but also in the same times the authors of The Books of wisdom & Ecclesiasticus taught right doctrine against those erroneous Philosophers.\n\nFor profession also of true faith and religion the Machabees both suffered, and laboured most notably, when king Antiochus Epiphanes (1. Mach.1. v.43.) wrote to all his kingdom, that all the people should be one, and every one should leave his own law. And whosoever should not do according to the word of Antiochus they should die. Against which most wicked decree, and cruel execution thereof, God's grace so abounded that (v.65.) many of the people of Israel, determined with themselves, that they would not eat the unclean things: and they chose rather to die, than to be defiled with unclean meats: and that they would not break the holy law of God, & so were murdered: As is more particularly recorded, 2. Mach.5. v.14. how there were in the space of three days fourscore thousand slain, forty thousand imprisoned, & no less sold. After this with more pretence of justice, but with more malice, endeavouring to terrify others, & to draw them to yield, or make show of conformity to wicked laws, ch.6. v.10. Two women were accused to have circumcised their sons, whom when they had led about through the city, with the infants hanging at their breasts, they threw down headlong by the walls. And v.11. other people were burnt with fire, for secretly keeping the day of the Sabbath. Thirdly. v.18. Eleazarus being urged to eat swine's flesh, and entreated by his familiar friends, to make show of conformity, would neither eat, nor feign to eat it, but died most constantly, leaving an example of virtue & fortitude. Fourthly seven brethren and their mother (2. Mach.7.) yielded also their lives in most glorious Martyrdom, because they would not yield conformity to wicked laws.\n\nAfter which heroical constancy in suffering, it was also God's providence, that others should show their fortitude, in delivering his Church from these calamities and dangers. For Matthathias of the tribe of Levi, and stock of Aaron Priest, and (after the apostasy of Jason. li.2. c.4. v.10.) Highpriest, lamenting the pitiful state of God's people, with resolute mind, and invincible courage resisting wicked Antiochus (1. Mach.2.) of just zeal with his own hands slew one, who for fear of death was ready to offer sacrifice to idols, & withal killed the king's commissioner, who came to compel men to commit idolatry: and then gathered troops to defend so holy a cause. Against whom the enemies fighting on the sabbath days killed many, which of scruple would not resist. But upon further consideration, the rest resolved to defend themselves also on the sabbath day, if they were assaulted.\n\nNext to him succeeded his son Judas Machabeus in both the offices of Highpriest & General captain: who (as good order required) first pursued the wicked (to wit amongst his own subjects) inquiring them out, and such as troubled his people, them he burned with fire. 1. Mach.3. v.5. and his enemies were repelled for fear of him: all the workers of iniquity were troubled: and salvation was directed in his hand. For he and his followers 2. Mach.8. v.2. invocated our Lord, that he would have respect to his own people; the temple; the city; hear the voice of blood crying unto him, remember the most unjust deaths of innocents, and the blasphemies done to his name. So he with a few (having made this preparation by prayer) overthrew the armies of Antiochus, with their four principal captains Apollonius (1. Mach.3. v.11.) and (v.23.) Seron, (ch.4.) Gorgias, and Lysias. Then cleansing the temple (v.36. & li.2. ch.10.) renewed the holy vessels, which were destroyed by Antiochus, and dedicated a new altar. v.47. & 56.\n\nAnd whiles Judas with his brethren delivered the people from all bordering enemies. 1. Mach.5. & li.2. ch.10. & 11. Antiochus Epiphanes li.1. c.6. & li.2. ch.9. died most miserably. And his young son Antiochus Eupator reigned. Against whose captains Judas had still more victories. li.2. ch.12. & 13. Then followed the last battle of Nicanor sent by king Demetrius, where he was slain by Judas' forces, in the midst of his army. li.1. ch.7. & li.2. ch.15. whereof Demetrius hearing sent new forces with Bacchides and Alcimus, and more than two parts of Judas' small camp fleeing away, he with only eight hundred. li.1. ch.9. setting upon the enemies defeated the strongest part of their army: but another part coming at his back. great slaughter was made on both sides, and Judas after many heroical acts was now slain in battle, dying with most renowned glory. v.18. all good men lamenting his death.\n\nAfter him Jonathas his brother succeeded Highpriest, and general captain, ch.9. v.28. who managing the common affairs with great wisdom, piety, and courage; the wicked usurper Alcimus, who not long before swearing that he would not hurt the Assideans, presently killed threescore of them in one day. li.1. ch.7. v.15. and beginning to deface the temple, was suddenly stricken with a palsy, and died miserably, li.1. ch.9. v.54. Jonathas prospering against the enemies confirmed league with the Romans and Lacedemonians, ch.12. At last was deceived, and both he and his sons were treacherously slain by Tryphon, ch.13. So Simon his brother was made Highpriest, and captain general by public consent. ch.14. who after many noble acts, ch.15. was also villainously slain with two of his sons, by his son in law Ptolomee. And his other son Joannes Hyrcanus succeeded, ch.16. In his days the Jews in Jerusalem wrote to their brethren in Egypt, exhorting them not to frequent the schismatical temple in Egypt, but to keep the feasts which were instituted in Jerusalem. Thus much of the troublesome state of the Church, reduced to peace by the Machabees.\n\nShortly after which time, the Roman kingdom having been often increased in the space of near seven hundred years from the building of Rome, was by Pompeius the great, subduing the East countries, extended so far, that as Plinie writeth. li.7. c.26. Asia Minor was now as it were the middle part, which before was the uttermost borders of their dominions. And the same Pompeius, amongst the rest, taking Jerusalem, brought the Jews under the Roman Empire, near fourscore years before Christ. under whom they enjoyed some liberties, till Herod Ascalonita a stranger born (his father an Idumean, his mother an Arabian) was first made governor of Galilee, then Tetrarch of Judea, and afterwards king thereof. who being advanced by the Romans to royal dignity, endeavouring by sundry benefits to get the people's favour, amongst other things enlarged and adorned their Temple, making it as it were a new edifice, in comparison of that which was built after the captivity: yea more excellent as some think, than that which Salomon built. But this new king made sale of spiritual offices. Namely he sold the office of the Highpriest for money, and that from year to year, or for short and limited time. In him was fulfilled the prophecy of the Patriarch Jacob, Gen.49. giving it for a sign that Christ our Redeemer should presently come into this world, saying: The sceptre shall not be taken away from Judas, and a duke out of his thigh, till he do come that is to be sent, and the same shall be the expectation of the Gentiles. And therefore Herod hearing by the sages, that the true king of Jews was born, in extreme fury murdered the innocent Infants. Mat.2. And so both Jews and Gentiles were admonished that the Messias was born of the seed, and right line of King David. Whose Genealogy before the captivity we noted in the fifth age of the world to Joachaz son of Josias. Now therefore to prosecute the same, we must observe, that whereas S. Mathew saith: Josias begat Jechonias, by this Jechonias he meaneth Joachaz, otherwise called Jechonias; or else he ascribeth the nephew to the grandfather as his son. For Josias was slain at least eleven years before Jechonias the father of Salathiel was born. And this later Jechonias was also called Joachin, the first of the third Tessaradechad, so the second Salathiel. the 3. Zorobabel: 4. Abiud, 5. Eliachim, 6. Azor. 7. Sadoc. 8. Achim, 9. Eliud, 10. Eleazar, 11. Mathan, 12. Jacob, 13. Joseph. the husband of Marie, of whom was born the fourteenth, JESUS CHRIST. And this known by tradition, not written before S. Matthew's Gospel.\n\nThe succession also of the Highpriests, declared in our former Recapitulations of the fourth and fifth ages, from Aaron to Josedech, who was Highpriest in the captivity, after that his father Saraias was slain, 4. Reg.25. v.18. continued, as partly by holy scriptures, the rest by other authors appeareth in this order: After the same Josedech, his son Josue, then Joachim, Eliachim, Eliasib, Joiada, Jonathan, Jaddus, in the time of king Alexander: Onias the first, Simon Priscus, Eleazarus, by whom the Seventy two Interpreters were sent to king Ptolomeus Philodelphus. Manasses, who became an Apostata, Onias the second, Simon the second, of whom is worthy mention, Eccli.50. Onias the third, whose brother Jason obtained the office of the king by simony, and became an Apostata, so was never lawful, neither those that followed him. Menelaus of the tribe of Benjamin. Lisimachus his brother, & vicar. Alcimus though of Aaron's stock, yet for his Apostasy unlawful. All which time the true Highpriests were of the Machabees, Matthathias & his sons Judas, Jonathas, and Simon, his son Joannes Hyrcanus. Then Aristobulus, Alexander, another Hyrcanus, in whose time Pompeius took Jerusalem, Antigonus, after whom Herod put Anaelus in the office for money. And so the rest or most of them that followed were simoniacal. Aristobulus, Josue, Simon, Mathias, Josephus, Jozarus, Eleazarus, Josue, Anna, Ismael, Eleazarus, Simon, and Caiphas. Who in council (John 11. v.49.) gave sentence (which himself understood not) that it was expedient, that one man die for the people, and the whole nation perish not. Which the holy Evangelist ascribeth to his office, being highpriest of that year, he prophesied that JESUS should die for the nation: and not only for the nation, but to gather into one the children of God, that were dispersed.\n\nJESUS REDEEMER, correct in us our errors, gather the dispersed, conserve them that are and shall be gathered, make all one flock in one fold under one Pastour, thyself JESUS CHRIST. To whom with the Father, and the Holy Ghost be all thanks, praise, honour, and glory, now and for ever and ever. AMEN.",
+      "notes": [
+        {
+          "marker": 1,
+          "text": "is the providence of Almighty God, that not obscurely — God's true Service hath always continued in the visible Church. ↩"
+        },
+        {
+          "marker": 2,
+          "text": "First therefore concerning Articles of faith and religion — Faith in one God is the ground of all religion. ↩"
+        },
+        {
+          "marker": 3,
+          "text": "As for the high Mystery of three Divine Persons in one God — The B. Trinity revealed to some and uttered obscurely in the old testament. ↩"
+        },
+        {
+          "marker": 4,
+          "text": "Again the same three Persons seem to be distinguished in divers places — Distinction of Persons in one God. ↩"
+        },
+        {
+          "marker": 5,
+          "text": "THE ANCIENT OF DAYS sat: his vesture white as snow — The Father. ↩"
+        },
+        {
+          "marker": 6,
+          "text": "To God the Son the same Prophet Daniel prayeth — The Son. ↩"
+        },
+        {
+          "marker": 7,
+          "text": "There is likewise particular mention of the Holy Ghost in some places — The Holy Ghost. ↩"
+        },
+        {
+          "marker": 8,
+          "text": "the Holy Ghost (which is received by grace) himself — Other places prove plurality of Persons in God. ↩"
+        },
+        {
+          "marker": 9,
+          "text": "Christ's Incarnation is more clearly foreshowed by the Prophets — The mystery of Christ's Incarnation is more frequent & more plain in the holy Scriptures especially in the Prophets. Jeremie. ↩"
+        },
+        {
+          "marker": 10,
+          "text": "Christ our Lord is taken in our sins. Baruch.2. v.35. — Baruch. ↩"
+        },
+        {
+          "marker": 11,
+          "text": "Ezechiel peculiarly called by an Angel the son of man — Ezechiel. ↩"
+        },
+        {
+          "marker": 12,
+          "text": "Daniel.7. v.13. With the clouds of heaven — Daniel. ↩"
+        },
+        {
+          "marker": 13,
+          "text": "Aggeus 2. v.8. The desired of all nations shall come — Aggeus. ↩"
+        },
+        {
+          "marker": 14,
+          "text": "Zach.3. v.8. I will bring my servant the Orient — Zacharias. ↩"
+        },
+        {
+          "marker": 15,
+          "text": "Malach.3. v.2. Forthwith shall come to his temple the Dominator — Malachias. ↩"
+        },
+        {
+          "marker": 16,
+          "text": "The book of wisdom. ch.2. v.12. describeth the malice of the wicked against Christ — Also the books of wisdom. ↩"
+        },
+        {
+          "marker": 17,
+          "text": "Ecclesiasticus 24. v.34. God appointed to David his servant — Ecclesiasticus. ↩"
+        },
+        {
+          "marker": 18,
+          "text": "Likewise the Priests and people. 1. Mach.14. v.28.35. — & Machabees. ↩"
+        },
+        {
+          "marker": 19,
+          "text": "Amongst the rest Jeremie, ch.31. v.23. and Ezechiel ch.44. v.2. — Prophecies & figures of the B. virgin mother of God. ↩"
+        },
+        {
+          "marker": 20,
+          "text": "Of Angels the celestial spirits, is frequent mention in the holy Scriptures — Angels excel corporal creatures in multitude. ↩"
+        },
+        {
+          "marker": 21,
+          "text": "And their power is most great, and to men most profitable — And in power. ↩"
+        },
+        {
+          "marker": 22,
+          "text": "and restored him in his place again. v.38. — They help men and are lawfully invocated by men. ↩"
+        },
+        {
+          "marker": 23,
+          "text": "Contrary to these glorious Angels are other spirits — Devils hating God, and all mankind never cease to tempt men to sin. ↩"
+        },
+        {
+          "marker": 24,
+          "text": "to be honoured as God with Sacrifice — They seek to be honoured with sacrifice. ↩"
+        },
+        {
+          "marker": 25,
+          "text": "The same all the Prophets teach, and withal that Sacrifice is the sovereign service due to God only — Sacrifice is the proper service of God. ↩"
+        },
+        {
+          "marker": 26,
+          "text": "the predictions of the most excellent, and perfect Sacrifice of the new Testament — Sacrifice of the new testament, in all places. ↩"
+        },
+        {
+          "marker": 27,
+          "text": "now in the Church of Christ, is the clean Sacrifice of our Lord's body — More pure and excellent than the old. ↩"
+        },
+        {
+          "marker": 28,
+          "text": "the host and the sacrifice shall fail — The old ceased and the new succeeded, ↩"
+        },
+        {
+          "marker": 29,
+          "text": "old and new sacrifices should be taken away in their several times — which shall also be abandoned by Antichrist. ↩"
+        },
+        {
+          "marker": 30,
+          "text": "Yea some Hebrew Rabbins acknowledge Transubstantiation — Transubstantiation confessed by Rabbins. ↩"
+        },
+        {
+          "marker": 31,
+          "text": "remission of sin, though they signify not by what particular means — Baptism. ↩"
+        },
+        {
+          "marker": 32,
+          "text": "after their return from captivity, written. 2. Esd.9.10.13. — Penance. ↩"
+        },
+        {
+          "marker": 33,
+          "text": "In like sort the continuance of Priesthood, and priestly functions — Holy orders. ↩"
+        },
+        {
+          "marker": 34,
+          "text": "In these times also the feasts instituted by the law — Feasts. ↩"
+        },
+        {
+          "marker": 35,
+          "text": "The like observation was kept of fasts — Fasts ordinary. ↩"
+        },
+        {
+          "marker": 36,
+          "text": "consisted in fasting from even to even. Levit.23. Num.29. — And extraordinary. ↩"
+        },
+        {
+          "marker": 37,
+          "text": "And of abstinence from certain meats according to the law — Abstinence. ↩"
+        },
+        {
+          "marker": 38,
+          "text": "More generally the whole form of good life is excellently prescribed — Form of good life prescribed in the sapiential books. ↩"
+        },
+        {
+          "marker": 39,
+          "text": "The beginning of wisdom is the true desire of discipline — The ascending by steps from earth to heaven. ↩"
+        },
+        {
+          "marker": 40,
+          "text": "for he that saith he loveth God, and keepeth not his commandments is a liar — 1. John 2. ↩"
+        },
+        {
+          "marker": 41,
+          "text": "neither the first step of good desire, nor any of the rest is in a man's own power — Without God's grace preventing, no man can think or do anything meritorious. ↩"
+        },
+        {
+          "marker": 42,
+          "text": "as of himself, so much as to think a good thought — 2. Cor.3. ↩"
+        },
+        {
+          "marker": 43,
+          "text": "On the other side the same Nehemias in confidence of reward for good works — Confidence of good works done in grace. ↩"
+        },
+        {
+          "marker": 44,
+          "text": "Some men moreover besides the commandments of the law, voluntarily professed a peculiar state of holy life — Voluntary vows like to Evangelical counsels. ↩"
+        },
+        {
+          "marker": 45,
+          "text": "by God's ordinance lived single unmarried all the time of the captivity — Perpetual virginity. ↩"
+        },
+        {
+          "marker": 46,
+          "text": "Prayers of Saints after they are departed from this world is manifestly deduced — Prayers of Saints. ↩"
+        },
+        {
+          "marker": 47,
+          "text": "Reverent estimation of Relics, and other holy things — Relics. ↩"
+        },
+        {
+          "marker": 48,
+          "text": "Other holy ornaments also, and vessels were restored — Holy vessels. ↩"
+        },
+        {
+          "marker": 49,
+          "text": "In figure also of the holy Cross on which Christ was to redeem mankind — Sign of the Cross. ↩"
+        },
+        {
+          "marker": 50,
+          "text": "Prayer and Sacrifice for the dead is likewise clear — Prayer for the dead. ↩"
+        },
+        {
+          "marker": 51,
+          "text": "Of the General Resurrection, is good testimony in the same place — Resurrection. ↩"
+        },
+        {
+          "marker": 52,
+          "text": "Malachie the last of the Prophets, in the last chapter foreshoweth — Judgement. ↩"
+        },
+        {
+          "marker": 53,
+          "text": "kindled as a furnace. All that do impiety — Everlasting punishment. and eternal reward. ↩"
+        },
+        {
+          "marker": 54,
+          "text": "Before which day he foretelleth of two signs, v.5. — The coming of Elias, & conversion of the Jews. ↩"
+        },
+        {
+          "marker": 55,
+          "text": "It resteth to view the state and government of the Church in this time — The state of the Church in the times of heathen Monarchies, in general. ↩"
+        },
+        {
+          "marker": 56,
+          "text": "First therefore concerning their estate in their captivity in Babylon — Their state in the captivity. ↩"
+        },
+        {
+          "marker": 57,
+          "text": "of Juda was transported into Babylon, and his mother, and many other principal persons — King Jechonias, and Josedech Highpriest were in Babylon before the whole nation was captive. ↩"
+        },
+        {
+          "marker": 58,
+          "text": "He married there and had issue Salathiel — Jechonias entertained in captivity as a prince. ↩"
+        },
+        {
+          "marker": 59,
+          "text": "There were also in a former transmigration Daniel — Daniel with other three children were carried before any of the kings into Babylon. ↩"
+        },
+        {
+          "marker": 60,
+          "text": "For Daniel about the age of twelve years — They were singularly esteemed. ↩"
+        },
+        {
+          "marker": 61,
+          "text": "maligned by certain envious sorcerers, and great men — Sometimes in danger. ↩"
+        },
+        {
+          "marker": 62,
+          "text": "The other three children were likewise advanced — But preserved by God. ↩"
+        },
+        {
+          "marker": 63,
+          "text": "Jeremie, who before this time began to prophesy whiles he was a child — Jeremie prophesied in Jerusalem and in Egypt. ↩"
+        },
+        {
+          "marker": 64,
+          "text": "Ezechiel was carried with king Jechonias, and Josedech into Babylon — Ezechiel and Daniel in Babylon. ↩"
+        },
+        {
+          "marker": 65,
+          "text": "For when Darius king of Medes had slain Baltazar king of the Chaldees — The Monarchy of Medes and Persians. ↩"
+        },
+        {
+          "marker": 66,
+          "text": "and Cyrus succeeding granted leave to all the Jews to return into Jewry — Cyrus licensed the Jews to return and build up their temple. ↩"
+        },
+        {
+          "marker": 67,
+          "text": "that Christ our Saviour should come into the world, within seventy weeks — Prophecy of Christ: after seventy weeks. ↩"
+        },
+        {
+          "marker": 68,
+          "text": "remaining in Chaldea, after the relaxation had that vision in a dream — Mardocheus. ↩"
+        },
+        {
+          "marker": 69,
+          "text": "Esther.11. after which followed the history of him — Esther. ↩"
+        },
+        {
+          "marker": 70,
+          "text": "wicked Aman; with the danger and delivery of all the Jews in those parts — Aman. ↩"
+        },
+        {
+          "marker": 71,
+          "text": "though others suppose that it was in the time of Manasses king of Juda — Judith. ↩"
+        },
+        {
+          "marker": 72,
+          "text": "The prophets Aggeus & Zacharias near twenty years after the relaxation — Aggeus and Zacharias. ↩"
+        },
+        {
+          "marker": 73,
+          "text": "But especially the Church of Christ prefigured by the temple — The Church more glorious in the new testament. ↩"
+        },
+        {
+          "marker": 74,
+          "text": "Malachie prophesied after the finishing of the temple — Malachie. ↩"
+        },
+        {
+          "marker": 75,
+          "text": "These later prophets yet living, as Josephus, Eusebius, Theodoretus — The Grecian Monarchy. ↩"
+        },
+        {
+          "marker": 76,
+          "text": "In the beginning whereof when king Alexander came to Jerusalem — King Alexander honoured Jaddus the Highpriest. ↩"
+        },
+        {
+          "marker": 77,
+          "text": "by intercession of Sanaballat, whose daughter he had unlawfully married — The schismatical temple in Garizim. ↩"
+        },
+        {
+          "marker": 78,
+          "text": "gave leave to build another temple in Egypt — Another schismatical temple in Egypt. ↩"
+        },
+        {
+          "marker": 79,
+          "text": "Before this last schismatical temple, and after the former were the Seventy two Interpreters — The Seventy two Interpreters. ↩"
+        },
+        {
+          "marker": 80,
+          "text": "In the time of the Grecians Monarchy, profane learning flourished more than before — Profane learning flourished amongst the Grecians, but they erred exceedingly in matters of Religion. ↩"
+        },
+        {
+          "marker": 81,
+          "text": "some the Atomos, or indivisible small bodies — Primum principium. ↩"
+        },
+        {
+          "marker": 82,
+          "text": "absurd conceits they had of the chief Good, or Summum bonum — Summum bonum. Pythagorians. ↩"
+        },
+        {
+          "marker": 83,
+          "text": "The Stoics put the chief good in virtues — Stoics. ↩"
+        },
+        {
+          "marker": 84,
+          "text": "Platonics, or Academics conceived more of God — Academics. ↩"
+        },
+        {
+          "marker": 85,
+          "text": "The Peripatetics placed the chief good — Peripatetics. ↩"
+        },
+        {
+          "marker": 86,
+          "text": "The Epicures esteemed carnal and bodily pleasures above all — Epicures. ↩"
+        },
+        {
+          "marker": 87,
+          "text": "their followers judged so diversly of the right true felicity — The assured faith of the Church, the city of God. ↩"
+        },
+        {
+          "marker": 88,
+          "text": "And concludeth with the Royal Prophet, and S. Paul — Psal.93 ↩"
+        },
+        {
+          "marker": 89,
+          "text": "that their cogitations are vain — 1. Cor.3. ↩"
+        },
+        {
+          "marker": 90,
+          "text": "For profession also of true faith and religion the Machabees both suffered — The Machabees professed the same. ↩"
+        },
+        {
+          "marker": 91,
+          "text": "and every one should leave his own law — Antiochus his Edict. ↩"
+        },
+        {
+          "marker": 92,
+          "text": "how there were in the space of three days fourscore thousand slain — Martyrs for this faith. ↩"
+        },
+        {
+          "marker": 93,
+          "text": "Two women were accused to have circumcised their sons — For circumcision. ↩"
+        },
+        {
+          "marker": 94,
+          "text": "keeping the day of the Sabbath. Thirdly. v.18. — For keeping the Sabbath ↩"
+        },
+        {
+          "marker": 95,
+          "text": "would neither eat, nor feign to eat it — For abstaining from swine's flesh. ↩"
+        },
+        {
+          "marker": 96,
+          "text": "After which heroical constancy in suffering — Holy wars for the Church and religion. ↩"
+        },
+        {
+          "marker": 97,
+          "text": "For Matthathias of the tribe of Levi, and stock of Aaron Priest — Matthathias. ↩"
+        },
+        {
+          "marker": 98,
+          "text": "Next to him succeeded his son Judas Machabeus — Judas Machabeus. ↩"
+        },
+        {
+          "marker": 99,
+          "text": "For he and his followers 2. Mach.8. v.2. invocated our Lord — A religious prayer. ↩"
+        },
+        {
+          "marker": 100,
+          "text": "Then cleansing the temple (v.36. & li.2. ch.10.) — The temple cleansed. ↩"
+        },
+        {
+          "marker": 101,
+          "text": "And whiles Judas with his brethren delivered the people from all bordering enemies — Antiochus died miserably. ↩"
+        },
+        {
+          "marker": 102,
+          "text": "Then followed the last battle of Nicanor sent by king Demetrius — Nicanor slain. ↩"
+        },
+        {
+          "marker": 103,
+          "text": "and Judas after many heroical acts was now slain in battle — Judas died gloriously. ↩"
+        },
+        {
+          "marker": 104,
+          "text": "After him Jonathas his brother succeeded Highpriest — Jonathas. ↩"
+        },
+        {
+          "marker": 105,
+          "text": "and beginning to deface the temple, was suddenly stricken with a palsy — Alcimus died miserably. ↩"
+        },
+        {
+          "marker": 106,
+          "text": "So Simon his brother was made Highpriest — Simon. ↩"
+        },
+        {
+          "marker": 107,
+          "text": "And his other son Joannes Hyrcanus succeeded — Joannes Hyrcanus. ↩"
+        },
+        {
+          "marker": 108,
+          "text": "the Roman kingdom having been often increased — The Roman Monarchy. ↩"
+        },
+        {
+          "marker": 109,
+          "text": "till Herod Ascalonita a stranger born — Herod the first strange king of the Jews. ↩"
+        },
+        {
+          "marker": 110,
+          "text": "amongst other things enlarged and adorned their Temple — He enlarged the temple. But sold the office of Highpriest. ↩"
+        },
+        {
+          "marker": 111,
+          "text": "giving it for a sign that Christ our Redeemer should presently come into this world — This king was a sign of Christ's coming. ↩"
+        },
+        {
+          "marker": 112,
+          "text": "we noted in the fifth age of the world to Joachaz son of Josias — pag.939. ↩"
+        },
+        {
+          "marker": 113,
+          "text": "Now therefore to prosecute the same, we must observe — The genealogy of Christ from the captivity. ↩"
+        },
+        {
+          "marker": 114,
+          "text": "The succession also of the Highpriests — Succession of Highpriests. ↩"
+        },
+        {
+          "marker": 115,
+          "text": "declared in our former Recapitulations of the fourth and fifth ages — pag.713. 939. ↩"
+        },
+        {
+          "marker": 116,
+          "text": "Then Aristobulus, Alexander, another Hyrcanus — The true succession continued also in the times of usurpers. ↩"
+        },
+        {
+          "marker": 117,
+          "text": "JESUS REDEEMER, correct in us our errors — A petition to JESUS CHRIST. ↩"
         }
       ]
     }

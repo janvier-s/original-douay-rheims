@@ -18,9 +18,10 @@ attribution required.
 |------|-------------|
 | `bible/tagged/` | Bible text with all original markup (`<sc>`, `<i>`, `<na>`, `<mn>`, `<cr>`) — 76 books. **Canonical.** |
 | `bible/raw/` | Bible text as plain prose — all markup and markers stripped |
-| `annotations/` | Chapter-level annotation sidecars (commentary, extended notes) — 1,677 annotations |
+| `annotations/` | Chapter-level annotation sidecars (commentary, extended notes) — 1,521 annotations |
 | `usfm/` | USFM 3 files — one per book, with footnotes and cross-references |
 | `usfm-study/` | The same, plus the annotations as `\ef` study notes |
+| `verse-only/` | Scripture text alone, with no notes, markers, cross-references or summaries. JSON, USFM, Markdown, plain text, CSV and SQLite — see below |
 | `index/lemmas/` | Where each annotation's catchword sits in the verse it annotates |
 | `reference/ot/` | Old Testament front matter (preface, tables, glossary, etc.) |
 | `reference/nt/` | New Testament front matter (preface, tables, glossary, etc.) |
@@ -159,3 +160,24 @@ and the reasoning.
 ## Related
 
 - [Original Douay-Rheims Bible](https://odr.app) — web reader built on this data
+
+## Verse-only edition
+
+The scripture text with everything else removed: no footnotes, annotations,
+cross-references, marginal markers, chapter summaries, introductions or end
+matter. It is generated from the same data as the rest of the bundle and
+published as release assets rather than committed, so the repository stays
+small.
+
+| Release asset | Contents |
+|---------------|----------|
+| `original-douay-rheims-verse-only-json.zip` | `<book>.json` per book, `{ book, code, title, chapters: [{ chapter, verses: [{ verse, text }] }] }`, plus `original-douay-rheims.json` with all 76 books |
+| `original-douay-rheims-verse-only-usfm.zip` | USFM 3, one file per book, with `\c`, `\p`, `\v`. Italics (`\it`) and small caps (`\sc`) are kept |
+| `original-douay-rheims-verse-only-markdown.zip` | One `.md` per book, bold verse numbers, italics kept |
+| `original-douay-rheims-verse-only-text.zip` | One `.txt` per book, wrapped at 76 columns with hanging verse numbers |
+| `original-douay-rheims-verse-only.md` / `.txt` | The whole Bible in one file |
+| `original-douay-rheims-verse-only.csv` | `book,code,chapter,verse,part,text`, one row per verse |
+| `original-douay-rheims-verse-only.sqlite` | Tables `books` and `verses`, plus an FTS5 index `verses_fts` for full-text search |
+
+`part` is empty unless a chapter repeats a verse number, which the current text
+does not.

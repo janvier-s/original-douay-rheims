@@ -34,7 +34,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "God's peculiar love was first shewed to the Israelites in preferring their progenitor Jacob & them his issue before Esau & his offspring, though in them there was no difference at all, the one neither deserving more nor less than the other, but of his mere mercy electing the one and justly rejecting the other, whereof see the Annot. Rom. 9."
+              "text": "God's peculiar love was first shewed to the Israelites in preferring their progenitor Jacob & them his issue before Esau & his offspring, though in them there was no difference at all, the one neither deserving more nor less than the other, but of his mere mercy electing the one and justly rejecting the other, whereof see the Annot. Rom. 9.",
+              "kind": "gloss"
             }
           ]
         },
@@ -53,7 +54,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Again lastly the same special undeserved love was shewed, in that the Idumeans subdued by the Chaldees remained in captivity, but the Israelites were now reduced into their country."
+              "text": "Again lastly the same special undeserved love was shewed, in that the Idumeans subdued by the Chaldees remained in captivity, but the Israelite were now reduced into their country.",
+              "kind": "gloss"
             }
           ]
         },
@@ -71,7 +73,8 @@
           "notes": [
             {
               "label": "c",
-              "text": "Those that offer base and contemptible things to God shew that they esteem little of God, and so by their fact despise and contemn him."
+              "text": "Those that offer base and contemptible things to God shew that they esteem little of God, and so by their fact despise and contemn him.",
+              "kind": "gloss"
             }
           ]
         },
@@ -81,7 +84,8 @@
           "notes": [
             {
               "label": "d",
-              "text": "If you dare not offer your worse things to your temporal Prince, how dare you offer them to God?"
+              "text": "If you dare not offer your worse things to your temporal Prince, how dare you offer them to God?",
+              "kind": "gloss"
             }
           ]
         },
@@ -101,6 +105,10 @@
           "cross_refs": [
             {
               "text": "Psal. 112."
+            },
+            {
+              "text": "Psal. 1",
+              "source": "sancta"
             }
           ]
         },
@@ -114,11 +122,13 @@
           "notes": [
             {
               "label": "e",
-              "text": "Two defects were in their sacrifices: they offered that which they got by robbery, or extortion:"
+              "text": "Two defects were in their sacrifices: they offered that which they got by robbery, or extortion:",
+              "kind": "gloss"
             },
             {
               "label": "f",
-              "text": "& not the best, but worse part thereof."
+              "text": "& not the best, but worse part thereof.",
+              "kind": "gloss"
             }
           ]
         },
@@ -138,7 +148,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "Priests coveting & scraping riches do greatly dishonour God: diminish the estimation of holy Sacraments & other rites, as though they were temporal to be bought & sold for money, and so do scandalize the weak."
+              "text": "Priests coveting & scraping riches do greatly dishonour God: diminish the estimation of holy Sacraments & other rites, as though they were temporal to be bought & sold for money, and so do scandalize the weak.",
+              "kind": "gloss"
             }
           ]
         },
@@ -153,7 +164,8 @@
           "notes": [
             {
               "label": "b",
-              "text": "Such are happy if God by suffering them to be spoiled, recall them to repentance. For otherwise they will be deprived of eternal reward, as being payed their wages already in this world. These our Saviour calleth Hirelings, not true Pastors. Ioa. 10."
+              "text": "Such are happy if God by suffering them to be spoiled, recall them to repentance. For otherwise they will be deprived of eternal reward, as being payed their wages already in this world. These our Saviour calleth Hirelings, not true Pastors. Ioa. 10.",
+              "kind": "gloss"
             }
           ]
         },
@@ -179,11 +191,13 @@
           "notes": [
             {
               "label": "c",
-              "text": "The proper office of Priests besides the administration of Sacraments is also to teach the people true doctrine:"
+              "text": "The proper office of Priests besides the administration of Sacraments is also to teach the people true doctrine:",
+              "kind": "gloss"
             },
             {
               "label": "d",
-              "text": "as being the Angel, that is to say, the messenger, from God."
+              "text": "as being the Angel, that is to say, the messenger, from God.",
+              "kind": "gloss"
             }
           ]
         },
@@ -197,13 +211,14 @@
           "notes": [
             {
               "label": "e",
-              "text": "Which holy functions priests not performing are made contemptible in this world and miserable in eternal torments. Ep. Iud. v. 11."
+              "text": "Which holy functions priests not performing are made contemptible in this world and miserable in eternal torments. Ep. Iud. v. 11.",
+              "kind": "gloss"
             }
           ]
         },
         {
           "verse": 10,
-          "text": "Why, is there not one father to us all? Hath not one God created us? Why then doth every one of us despise his brother, violating the covenant of our fathers?",
+          "text": "Why, is there not one father of us all? Hath not one God created us? Why then doth every one of us despise his brother, violating the covenant of our fathers?",
           "cross_refs": [
             {
               "text": "Mat. 23. v. 9. Eph. 4. v. 5."
@@ -225,7 +240,13 @@
         },
         {
           "verse": 13,
-          "text": "And this again have you done, you covered the altar of the Lord with tears, with weeping, and howling, so that I have respect no more to sacrifice, neither do I accept any placable thing at your hand."
+          "text": "And this again have you done, you covered the altar of the Lord with tears, with weeping, and howling, so that I have respect no more to sacrifice, neither do I accept any placable thing at your hand.",
+          "cross_refs": [
+            {
+              "text": "Amos 5. v. 22",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 14,
@@ -265,15 +286,18 @@
           "notes": [
             {
               "label": "a",
-              "text": "S. John Baptist is called an Angel or messenger, because he was to be sent with special commission from God: and for his purity in Angelical life."
+              "text": "S. John Baptist is called an Angel or messenger, because he was to be sent with special commission from God: and for his purity in Angelical life.",
+              "kind": "gloss"
             },
             {
               "label": "b",
-              "text": "S. John was first conceived, likewise first born, and he first preached, and shortly after him our Saviour came."
+              "text": "S. John was first conceived, likewise first born, and he first preached, and shortly after him our Saviour came.",
+              "kind": "gloss"
             },
             {
               "label": "c",
-              "text": "Christ is the Angel of the testament, because he made the Pact of peace between God and man."
+              "text": "Christ is the Angel of the testament, because he made the Pact of peace between God and man.",
+              "kind": "gloss"
             }
           ]
         },
@@ -291,15 +315,17 @@
         },
         {
           "verse": 5,
-          "text": "And I will come to you in judgement, and will be a swift witness to sorcerers, and adulterers, and to the perjured, and them that calumniate the hire of the hired man, the widows, and pupils, and oppress the stranger, nor have feared me, saith the Lord of hosts.",
+          "text": "And I will come to you in judgement, and will be a swift witness to sorcerers, and advouterers, and to the perjured, and them that calumniate the hire of the hired man, the widows, and pupils, and oppress the stranger, nor have feared me, saith the Lord of hosts.",
           "notes": [
             {
               "label": "d",
-              "text": "In the mean time God threateneth to punish all, even secret sins:"
+              "text": "In the mean time God threateneth to punish all, even secret sins:",
+              "kind": "gloss"
             },
             {
               "label": "e",
-              "text": "Known to him though not to other witnesses."
+              "text": "Known to him though not to other witnesses.",
+              "kind": "gloss"
             }
           ]
         },
@@ -326,11 +352,12 @@
         },
         {
           "verse": 10,
-          "text": "Bring in all the tithe into the barn: and let there be meat in my house, and prove me upon this, saith our Lord: if I open not unto you the flood-gates of heaven, and pour you out blessing even to aboundance,",
+          "text": "Bring in all the tithe into the barn: and let there be meat in my house, and prove me upon this, saith our Lord: if I open not unto you the floodgates of heaven, and pour you out blessing even to abundance,",
           "notes": [
             {
               "label": "f",
-              "text": "Paying of tithes is most strictly commanded."
+              "text": "Paying of tithes is most strictly commanded.",
+              "kind": "gloss"
             }
           ]
         },
@@ -348,15 +375,17 @@
         },
         {
           "verse": 14,
-          "text": "And you said: What have we spoken against thee? You have said: He is vain that serveth God, and what profit is it that we have kept his precepts, and that we have walked sorrowful before the Lord of hosts?",
+          "text": "And you said: What have we spoken against thee? You have said: He is vain that serveth God, and what profit is it that we have kept his precepts, and that we have walked sorrowful before the Lord of host?",
           "notes": [
             {
               "label": "g",
-              "text": "Sin of murmuring against God, is great blasphemy & not tolerable: For when they were punished by famine, for defrauding the Levites of tithes, they blasphemously imputed it to God: as though he had not such care of his own people, as he had of other nations, which had aboundance of temporal goods."
+              "text": "Sin of murmuring against God, is great blasphemy & not tolerable: For when they were punished by famine, for defrauding the Levites of tithes, they blasphemously imputed it to God: as though he had not such care of his own people, as he had of other nations, which had abundance of temporal goods.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "Iob. 21. v. 14. Isa. 58. v. 2."
+              "text": "Iob. 21. v. 14. Isa. 58. v. 2.",
+              "kind": "gloss"
             }
           ]
         },
@@ -388,7 +417,8 @@
           "notes": [
             {
               "label": "a",
-              "text": "In the day of judgement shall plainly appear, what difference is between the just and the wicked."
+              "text": "In the day of judgement shall plainly appear, what difference is between the just and the wicked.",
+              "kind": "gloss"
             }
           ]
         },
@@ -420,15 +450,18 @@
           "notes": [
             {
               "label": "b",
-              "text": "The Septuagint for explication add Thesbites. And S. Ierom in 17. Mat. teacheth that Elias shall indeed come and restore all things."
+              "text": "The Septuagint for explication add Thesbites. And S. Ierom in 17. Mat. teacheth that Elias shall indeed come and restore all things.",
+              "kind": "gloss"
             },
             {
               "label": "1",
-              "text": "Mat. 11. & 17. v. 11."
+              "text": "Mat. 11. & 17. v. 11.",
+              "kind": "gloss"
             },
             {
               "label": "c",
-              "text": "Christ's first coming was in all meekness not in terror, but his coming to judge will be dreadful. And therefore the Prophet here meaneth not S. John Baptist, but that Elias himself shall come before the great and dreadful day of our Lord."
+              "text": "Christ's first coming was in all meekness not in terror, but his coming to judge will be dreadful. And therefore the Prophet here meaneth not S. John Baptist, but that Elias himself shall come before the great and dreadful day of our Lord.",
+              "kind": "gloss"
             }
           ]
         },
@@ -438,7 +471,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "* utter destruction. The end of the Prophetical Books."
+              "text": "* utter destruction. The end of the Prophetical Books.",
+              "kind": "gloss"
             }
           ]
         }

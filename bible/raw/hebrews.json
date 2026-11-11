@@ -64,7 +64,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle at the third Mass on Christmas day."
+              "text": "The Epistle at the third Mass on Christmas day.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -84,11 +85,13 @@
           "notes": [
             {
               "label": "2",
-              "text": "c ἀπαύγασμα"
+              "text": "c ἀπαύγασμα",
+              "kind": "word"
             },
             {
               "label": "3",
-              "text": "b χαρακτὴρ ὑποστάσεως"
+              "text": "b χαρακτὴρ ὑποστάσεως",
+              "kind": "word"
             }
           ]
         },
@@ -98,7 +101,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The excellency of Christ above Angels."
+              "text": "The excellency of Christ above Angels.",
+              "kind": "gloss"
             }
           ]
         },
@@ -116,7 +120,7 @@
         },
         {
           "verse": 6,
-          "text": "And when again he bringeth in the first-begotten into the world, he saith, And let all the Angels of God adore him.",
+          "text": "And when again he bringeth in the first begotten into the world, he saith, And let all the Angels of God adore him.",
           "has_annotation": true,
           "cross_refs": [
             {
@@ -161,15 +165,18 @@
         },
         {
           "verse": 12,
-          "text": "And as a vesture shalt thou change them, and they shall be changed: but thou art the self-same, and thy years shall not fail."
+          "text": "And as a vesture shalt thou change them, and they shall be changed: but thou art the self same, and thy years shall not fail."
         },
         {
           "verse": 13,
-          "text": "But to which of the Angels said he at any time: Sit on my right hand, until I make thine enemies the foot-stool of thy feet?",
+          "text": "But to which of the Angels said he at any time: Sit on my right hand, until I make thine enemies the footstool of thy feet?",
           "cross_refs": [
             {
               "text": "Ps. 109, 1. 1. Cor. 15, 25."
             }
+          ],
+          "xrefs": [
+            "Ps. 109, 1. · 1. Cor. 15, 25."
           ]
         },
         {
@@ -178,7 +185,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The holy Angels (saith S. Augustine) to the society of whom we aspire in this our peregrination, as they have eternity to continue, so also facility to know, and felicity to rest: for they do help us without all difficulty, because with their spiritual motions pure and free, they labour or travail not. De Civit. li. 11. c. 31."
+              "text": "The holy Angels (saith S. Augustine) to the society of whom we aspire in this our peregrination, as they have eternity to continue, so also facility to know, and felicity to rest: for they do help us without all difficulty, because with their spiritual motions pure and free, they labour or travail not. De Civit. li. 11. c. 31.",
+              "kind": "gloss"
             }
           ]
         }
@@ -194,11 +202,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "c As that which runneth out of a broken vessel, or that runneth by, is lost."
+              "text": "c As that which runneth out of a broken vessel, or that runneth by, is lost.",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "c μὴ ποτε παραρρυῶμεν"
+              "text": "c μὴ ποτε παραρρυῶμεν",
+              "kind": "word"
             }
           ]
         },
@@ -256,7 +266,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "This proveth against the Calvinists that Christ by his Passion merited his own glorification. Which they would not for shame deny of Christ, but that they are at a point to deny all meritorious works, yea even in Christ also. And therefore they translate also this sentence heretically, by transposing the words. In the Bible printed the year 1579."
+              "text": "This proveth against the Calvinists that Christ by his Passion merited his own glorification. Which they would not for shame deny of Christ, but that they are at a point to deny all meritorious works, yea even in Christ also. And therefore they translate also this sentence heretically, by transposing the words. In the Bible printed the year 1579.",
+              "kind": "gloss"
             }
           ]
         },
@@ -287,6 +298,9 @@
             {
               "text": "Esa. 8, 18."
             }
+          ],
+          "xrefs": [
+            "Ps. 17, 3. · Es. 8, 18."
           ]
         },
         {
@@ -296,6 +310,9 @@
             {
               "text": "Ose. 13, 14. 1. Cor. 15, 54."
             }
+          ],
+          "xrefs": [
+            "Ose. 13, 14. 1. Cor. 15, 54."
           ]
         },
         {
@@ -308,7 +325,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c The dignity of man, in that Christ took our nature unto his Person in Deity, and not the nature of Angels."
+              "text": "c The dignity of man, in that Christ took our nature unto his Person in Deity, and not the nature of Angels.",
+              "kind": "gloss"
             }
           ]
         },
@@ -337,6 +355,9 @@
             {
               "text": "Nu. 12, 7."
             }
+          ],
+          "xrefs": [
+            "Nu. 12, 7."
           ]
         },
         {
@@ -345,7 +366,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The excellency of Christ above Moyses."
+              "text": "The excellency of Christ above Moyses.",
+              "kind": "gloss"
             }
           ]
         },
@@ -400,7 +422,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Faith is the ground work of our creation in Christ, which if we hold not fast, all the building is lost."
+              "text": "Faith is the ground work of our creation in Christ, which if we hold not fast, all the building is lost.",
+              "kind": "gloss"
             }
           ]
         },
@@ -419,6 +442,9 @@
             {
               "text": "Nu. 14, 37. 21, 23."
             }
+          ],
+          "xrefs": [
+            "Nu. 14, 37. 21, 23."
           ]
         },
         {
@@ -463,7 +489,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "If the Apostle had not evidently here shewed that the Sabboth's rest was a figure of the eternal repose in heaven, who durst to have applied that Scripture of God's rest the seventh day, to that purpose? Or how can our Adversaries now reprehend the like application manifoldly used in all holy ancient writers to the like end?"
+              "text": "If the Apostle had not evidently here shewed that the Sabboth's rest was a figure of the eternal repose in heaven, who durst to have applied that Scripture of God's rest the seventh day, to that purpose? Or how can our Adversaries now reprehend the like application manifoldly used in all holy ancient writers to the like end?",
+              "kind": "gloss"
             }
           ]
         },
@@ -490,7 +517,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c So Iosue is called in Greek."
+              "text": "c So Iosue is called in Greek.",
+              "kind": "gloss"
             }
           ]
         },
@@ -512,7 +540,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Whatsoever God threateneth by his word concerning the punishment of sin and incredulity, shall be executed, be the offence never so secret, deep, or hidden in our hearts, because God's speech passeth easily and searcheth throughly every part, power, and faculty of man's soul."
+              "text": "Whatsoever God threateneth by his word concerning the punishment of sin and incredulity, shall be executed, be the offence never so secret, deep, or hidden in our hearts, because God's speech passeth easily and searcheth throughly every part, power, and faculty of man's soul.",
+              "kind": "gloss"
             }
           ]
         },
@@ -535,7 +564,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle in a Mass for the election of the Pope."
+              "text": "The Epistle in a Mass for the election of the Pope.",
+              "kind": "gloss"
             }
           ]
         }
@@ -552,7 +582,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle upon the feast of S. Thomas of Canterbury. Decem. 29. And in his Translation Iulij. 7. And for a Bishop that is a Confessor."
+              "text": "The Epistle upon the feast of S. Thomas of Canterbury. Decem. 29. And in his Translation Iulij. 7. And for a Bishop that is a Confessor.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -574,6 +605,10 @@
             },
             {
               "text": "1. Par. 23. 13."
+            },
+            {
+              "text": "Aaron. 2 Par. 26, 18. 1 Par. 23, 13",
+              "source": "sancta"
             }
           ]
         },
@@ -626,7 +661,7 @@
         },
         {
           "verse": 13,
-          "text": "For every one that is partaker of milk, is unskillful of the word of justice: for he is a child."
+          "text": "For every one that is partaker of milk, is unskilful of the word of justice: for he is a child."
         },
         {
           "verse": 14,
@@ -659,11 +694,14 @@
             {
               "text": "Heb. 10, 26."
             }
+          ],
+          "xrefs": [
+            "Heb. 10, 26."
           ]
         },
         {
           "verse": 5,
-          "text": "have more-over tasted the good word of God, & the powers of the world to come,"
+          "text": "have moreover tasted the good word of God, & the powers of the world to come,"
         },
         {
           "verse": 6,
@@ -683,7 +721,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "It is evident by these words; against the Novatians and the Calvinists, that S. Paul meant not precisely, that they had done, or could do any such sin, whereby they should be put out of all hope of salvation, and be sure of damnation, during their life."
+              "text": "It is evident by these words; against the Novatians and the Calvinists, that S. Paul meant not precisely, that they had done, or could do any such sin, whereby they should be put out of all hope of salvation, and be sure of damnation, during their life.",
+              "kind": "gloss"
             }
           ]
         },
@@ -759,7 +798,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "When the Fathers & Catholic expositors pick out allegories and mysteries out of the names of men, the Protestants not endued with the Spirit whereby the Scriptures were given, deride their holy labours in the search of the same: but the Apostle findeth high mystery in the very names of persons and places, as you see."
+              "text": "When the Fathers & Catholic expositors pick out allegories and mysteries out of the names of men, the Protestants not endued with the Spirit whereby the Scriptures were given, deride their holy labours in the search of the same: but the Apostle findeth high mystery in the very names of persons and places, as you see.",
+              "kind": "gloss"
             }
           ]
         },
@@ -780,6 +820,9 @@
             {
               "text": "Nu. 18, 21. Deu. 18, 1. Ios. 14, 4."
             }
+          ],
+          "xrefs": [
+            "Nu. 18, 21. Deu. 18, 1. Ios. 14, 4."
           ]
         },
         {
@@ -797,7 +840,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The tithes given to Melchisedech were not given as to a mere mortal man, as all of the tribe of Levi & Aaron's order were: but as to one representing the Son of God, who now liveth and reigneth and holdeth his priesthood & the functions thereof for ever."
+              "text": "The tithes given to Melchisedech were not given as to a mere mortal man, as all of the tribe of Levi & Aaron's order were: but as to one representing the Son of God, who now liveth and reigneth and holdeth his priesthood & the functions thereof for ever.",
+              "kind": "gloss"
             }
           ]
         },
@@ -829,7 +873,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Priesthood."
+              "text": "Priesthood.",
+              "kind": "gloss"
             }
           ]
         },
@@ -886,7 +931,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle upon S. Leo his day Iunii 28. and for some other Confessors Bishops."
+              "text": "The Epistle upon S. Leo his day Iunii 28. and for some other Confessors Bishops.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -900,11 +946,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "them that go"
+              "text": "them that go",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "Christ according to his human nature prayeth for us, & continually representeth his former passion and merits to God the Father."
+              "text": "Christ according to his human nature prayeth for us, & continually representeth his former passion and merits to God the Father.",
+              "kind": "gloss"
             }
           ]
         },
@@ -924,7 +972,7 @@
         },
         {
           "verse": 28,
-          "text": "For the Law appointeth Priests men that have infirmity: but the word of the oath which is after the Law, the Son for ever perfected."
+          "text": "For the Law appointeth Priests them that have infirmity: but the word of the oath which is after the Law, the Son for ever perfected."
         }
       ],
       "summary": "To prove the Priesthood of Christ incomparably to excel the priesthood of Aaron (and therefore, that Levitical priesthood now to cease, and that law also with it) he scanneth every word of the verse alleged out of the Psalm, Our Lord hath sworn: thou art a Priest for ever, according to the order of Melchisedech."
@@ -942,7 +990,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Christ living and reigning in heaven, continueth his priestly function still, and is minister not of Moyses Sancta & tabernacle, but of his own body & blood, which be the true holies, and tabernacle, not formed by man, but by God's own hand."
+              "text": "Christ living and reigning in heaven, continueth his priestly function still, and is minister not of Moyses Sancta & tabernacle, but of his own body & blood, which be the true holies, and tabernacle, not formed by man, but by God's own hand.",
+              "kind": "gloss"
             }
           ]
         },
@@ -968,7 +1017,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "c λατρεύουσι"
+              "text": "c λατρεύουσι",
+              "kind": "word"
             }
           ]
         },
@@ -982,7 +1032,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The promises and effects of the Law were temporal, but the promises and effects of Christ's Sacraments in the Church be eternal."
+              "text": "The promises and effects of the Law were temporal, but the promises and effects of Christ's Sacraments in the Church be eternal.",
+              "kind": "gloss"
             }
           ]
         },
@@ -993,6 +1044,9 @@
             {
               "text": "Hier. 31, 31."
             }
+          ],
+          "xrefs": [
+            "Hier. 31, 31."
           ]
         },
         {
@@ -1015,7 +1069,7 @@
         },
         {
           "verse": 13,
-          "text": "And in saying a new, the former he hath made old. And that which groweth ancient and waxed old, is nigh to utter decay."
+          "text": "And in saying a new, the former he hath made old. And that which groweth ancient and waxeth old, is nigh to utter decay."
         }
       ],
       "summary": "Out of the same Psalm 109 he urgeth this also, Sit thou on my right hand, shewing that the Levitical tabernacle on earth, was but a shadow of his true Tabernacle in heaven: without which he should not be a Priest at all: 6. Whereas he is of a better Priesthood than they, as also he proveth by the excellency of the new Testament above the old."
@@ -1034,11 +1088,13 @@
           "notes": [
             {
               "label": "2",
-              "text": "The Epistle upon Imber Saturday in Sept."
+              "text": "The Epistle upon Imber Saturday in Sept.",
+              "kind": "lectionary"
             },
             {
               "label": "3",
-              "text": "c λατρείας."
+              "text": "c λατρείας.",
+              "kind": "word"
             }
           ]
         },
@@ -1062,7 +1118,7 @@
         },
         {
           "verse": 5,
-          "text": "and over it were the Cherubins of glory over-shadowing the propitiatory, of which things it is not needful to speak now particularly.",
+          "text": "and over it were the Cherubins of glory overshadowing the propitiatory, of which things it is not needful to speak now particularly.",
           "has_annotation": true,
           "cross_refs": [
             {
@@ -1089,7 +1145,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The way to heaven was not open before Christ's passion; & therefore the Patriarchs and good men of the old Testament were in some other place of rest until then."
+              "text": "The way to heaven was not open before Christ's passion; & therefore the Patriarchs and good men of the old Testament were in some other place of rest until then.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1099,11 +1156,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "c All things done in the old Testament and priesthood were figures of Christ's actions."
+              "text": "c All things done in the old Testament and priesthood were figures of Christ's actions.",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "c τὸν λατρεύοντα."
+              "text": "c τὸν λατρεύοντα.",
+              "kind": "word"
             }
           ]
         },
@@ -1118,7 +1177,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "b The Epistle upon Passion Sunday."
+              "text": "b The Epistle upon Passion Sunday.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -1142,11 +1202,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "shall"
+              "text": "shall",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "cleanse"
+              "text": "cleanse",
+              "kind": "gloss"
             }
           ]
         },
@@ -1178,7 +1240,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Here we may learn that the Scriptures contain not all necessary rites or truths, when neither the place to which the Apostle alludeth, nor any other, mentioneth half these ceremonies, but he had them by tradition."
+              "text": "Here we may learn that the Scriptures contain not all necessary rites or truths, when neither the place to which the Apostle alludeth, nor any other, mentioneth half these ceremonies, but he had them by tradition.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1194,7 +1257,7 @@
         },
         {
           "verse": 21,
-          "text": "The tabernacle also & all the vessels of the ministry he in like manner sprinkled with blood."
+          "text": "The tabernacle also & all the vessel of the ministry he in like manner sprinkled with blood."
         },
         {
           "verse": 22,
@@ -1228,11 +1291,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "c By this word which signifieth to empty or draw out even to the bottom, is declared the plentiful and perfect redemption of sin by Christ."
+              "text": "c By this word which signifieth to empty or draw out even to the bottom, is declared the plentiful and perfect redemption of sin by Christ.",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "c ad exhaurienda peccata."
+              "text": "c ad exhaurienda peccata.",
+              "kind": "gloss"
             }
           ]
         }
@@ -1282,7 +1347,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c For sin, is the proper name of a certain sacrifice called in Hebrew :חטאתas Holocaust is another kind. See the Annot. 2. Cor. 5. v. 21."
+              "text": "c For sin, is the proper name of a certain sacrifice called in Hebrew :חטאתas Holocaust is another kind. See the Annot. 2. Cor. 5. v. 21.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1306,7 +1372,13 @@
         {
           "verse": 11,
           "text": "And every Priest indeed is ready daily ministering, and often offering the same hosts, which can never take away sins:",
-          "has_annotation": true
+          "has_annotation": true,
+          "cross_refs": [
+            {
+              "text": "Ps. 109",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 12,
@@ -1314,12 +1386,16 @@
           "cross_refs": [
             {
               "text": "Ps. 109. 1. Cor. 15, 25."
+            },
+            {
+              "text": "sitteth. 1",
+              "source": "sancta"
             }
           ]
         },
         {
           "verse": 13,
-          "text": "hence-forth expecting, until his enemies be put the foot-stool of his feet."
+          "text": "hence-forth expecting, until his enemies be put the footstool of his feet."
         },
         {
           "verse": 14,
@@ -1327,7 +1403,10 @@
         },
         {
           "verse": 15,
-          "text": "And the Holy Ghost also doth testify to us. For after that he said:"
+          "text": "And the Holy Ghost also doth testify to us. For after that he said:",
+          "xrefs": [
+            "Hier. 31, 33, 34."
+          ]
         },
         {
           "verse": 16,
@@ -1340,7 +1419,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "This is partly fulfilled in & by the grace of the new Testament, but it shall be perfectly accomplished in heaven."
+              "text": "This is partly fulfilled in & by the grace of the new Testament, but it shall be perfectly accomplished in heaven.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1363,11 +1443,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "c To dedicate, is to be author & beginner of a thing. The Protestants translate, he hath prepared, for their heresy that Christ was not the first man that entered into heaven."
+              "text": "c To dedicate, is to be author & beginner of a thing. The Protestants translate, he hath prepared, for their heresy that Christ was not the first man that entered into heaven.",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "c ἐνεκαίνισεν"
+              "text": "c ἐνεκαίνισεν",
+              "kind": "word"
             }
           ]
         },
@@ -1407,7 +1489,7 @@
         },
         {
           "verse": 28,
-          "text": "Aman making the Law of Moyses frustrate, without any mercy dieth under two or three witnesses.",
+          "text": "A man making the Law of Moyses frustrate, without any mercy dieth under two or three witnesses.",
           "cross_refs": [
             {
               "text": "Deu. 19, 15. Mat. 18, 16. Io. 8, 17."
@@ -1421,7 +1503,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "Heresy and Apostasy from the Catholic faith, punishable by death."
+              "text": "Heresy and Apostasy from the Catholic faith, punishable by death.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1448,7 +1531,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle for many Martyrs."
+              "text": "The Epistle for many Martyrs.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1467,7 +1551,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c Good works make great confidence of salvation, & have great reward."
+              "text": "c Good works make great confidence of salvation, & have great reward.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1482,6 +1567,9 @@
             {
               "text": "Abac. 2, 3. Ro. 1, 17. Gal. 3, 12."
             }
+          ],
+          "xrefs": [
+            "Abac. 2, 3. Ro. 1, 17. Gal. 3, 12."
           ]
         },
         {
@@ -1506,11 +1594,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "By this word substance is meant, that faith is the"
+              "text": "By this word substance is meant, that faith is the",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "c ἔλεγχος."
+              "text": "c ἔλεγχος.",
+              "kind": "word"
             }
           ]
         },
@@ -1550,8 +1640,12 @@
           "notes": [
             {
               "label": "2",
-              "text": "Here it appeareth that Henoch yet liveth and is not dead: against the Calvinists. See the annot. Apocal. chap. 11."
+              "text": "Here it appeareth that Henoch yet liveth and is not dead: against the Calvinists. See the annot. Apocal. chap. 11.",
+              "kind": "gloss"
             }
+          ],
+          "xrefs": [
+            "Gen. 5, 24. Eccl. 44, 16."
           ]
         },
         {
@@ -1561,7 +1655,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "We must believe that God will reward all our good works: for he is a rewarder of true justice, not an accepter or imputer of that that is not."
+              "text": "We must believe that God will reward all our good works: for he is a rewarder of true justice, not an accepter or imputer of that that is not.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1572,6 +1667,9 @@
             {
               "text": "Gen. 6, 13. Eccl. 44, 17."
             }
+          ],
+          "xrefs": [
+            "Gen. 6, 13. Eccl. 44, 17."
           ]
         },
         {
@@ -1593,7 +1691,7 @@
         },
         {
           "verse": 11,
-          "text": "By faith, Sara also herself being barren, received virtue in conceiving of seed, yea past the time of age: because she believed that he was faithful which had promised.",
+          "text": "By faith, Sara also her self being barren, received virtue in conceiving of seed, yea past the time of age: because she believed that he was faithful which had promised.",
           "cross_refs": [
             {
               "text": "Gen. 17, 19. 18, 10. 21, 2. Eccli. 44. 22."
@@ -1602,7 +1700,10 @@
         },
         {
           "verse": 12,
-          "text": "For the which cause even of one (and him quite dead) there rose as the stars of heaven in multitude, and as the sand that is by the sea shore innumerable."
+          "text": "For the which cause even of one (and him quite dead) there rose as the stars of heaven in multitude, and as the sand that is by the sea shore innumerable.",
+          "xrefs": [
+            "Eccl. 44, 22."
+          ]
         },
         {
           "verse": 13,
@@ -1644,7 +1745,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c That is, in figure and mystery of Christ dead, & alive again."
+              "text": "c That is, in figure and mystery of Christ dead, & alive again.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1681,7 +1783,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "The translation of Relics or Saints' bodies, & the due regard and honour we ought to have to the same, are proved hereby."
+              "text": "The translation of Relics or Saints' bodies, & the due regard and honour we ought to have to the same, are proved hereby.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1699,7 +1802,7 @@
         },
         {
           "verse": 24,
-          "text": "By faith, Moyses being made great, denied himself to be the son of Pharao's daughter:",
+          "text": "By faith, Moyses being made great, denied him self to be the son of Pharao's daughter:",
           "cross_refs": [
             {
               "text": "Exo. 2, 11."
@@ -1716,7 +1819,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Protestants that deny we may or ought to do good in respect or for reward in heaven, are hereby confuted."
+              "text": "The Protestants that deny we may or ought to do good in respect or for reward in heaven, are hereby confuted.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1748,6 +1852,10 @@
           "cross_refs": [
             {
               "text": "Ios, 6, 20."
+            },
+            {
+              "text": "Jos. 6, 20",
+              "source": "sancta"
             }
           ]
         },
@@ -1771,7 +1879,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle for SS. Fabian and Sebastian Ian. 20. S. Symphorosa cum septem filiis. Iul. 18. And for many Martyrs."
+              "text": "The Epistle for SS. Fabian and Sebastian Ian. 20. S. Symphorosa cum septem filiis. Iul. 18. And for many Martyrs.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -1825,7 +1934,7 @@
         },
         {
           "verse": 3,
-          "text": "For, think diligently upon him which sustained of sinners such contradiction against himself: that you be not wearied, fainting in your minds."
+          "text": "For, think diligently upon him which sustained of sinners such contradiction against him self: that you be not wearied, fainting in your minds."
         },
         {
           "verse": 4,
@@ -1852,7 +1961,7 @@
         },
         {
           "verse": 7,
-          "text": "Persevere ye in discipline. As unto children doth God offer himself to you. For what son is there, whom the father doth not correct?"
+          "text": "Persevere ye in discipline. As unto children doth God offer him self to you. For what son is there, whom the father doth not correct?"
         },
         {
           "verse": 8,
@@ -1893,7 +2002,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "That we be not good, there is no lack on God's part, who offereth his grace to us: but the defect is in ourselves that are not answerable to God's calling of us and grace towards us."
+              "text": "That we be not good, there is no lack on God's part, who offereth his grace to us: but the defect is in ourselves that are not answerable to God's calling of us and grace towards us.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1908,7 +2018,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "c Such as forsake their salvation and religion to save their lands and goods, are like Esau."
+              "text": "c Such as forsake their salvation and religion to save their lands and goods, are like Esau.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1924,7 +2035,7 @@
         },
         {
           "verse": 18,
-          "text": "For you are not come to a palpable mount, and an accessible fire, and whirl-wind, and darkness, and storm,",
+          "text": "For you are not come to a palpable mount, and an accessible fire, and whirlwind, and darkness, and storm,",
           "cross_refs": [
             {
               "text": "Exo. 19, 20."
@@ -1933,7 +2044,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "kindled (or) burning."
+              "text": "kindled (or) burning.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1960,7 +2072,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "The faithful are made fellows of Angels & of all the perfect souls departed since the beginning of the world, and of Christ himself."
+              "text": "The faithful are made fellows of Angels & of all the perfect souls departed since the beginning of the world, and of Christ him self.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1970,7 +2083,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "c τετελειωμένων."
+              "text": "c τετελειωμένων.",
+              "kind": "word"
             }
           ]
         },
@@ -1994,19 +2108,23 @@
             {
               "text": "Ag. 2, 7."
             }
+          ],
+          "xrefs": [
+            "Ag. 2, 7."
           ]
         },
         {
           "verse": 27,
-          "text": "And in that he sayeth, Yet once, he declareth the translation of moveable things as being made, that those things may remain which are unmovable."
+          "text": "And in that he saith, Yet once, he declareth the translation of moveable things as being made, that those things may remain which are unmoveable."
         },
         {
           "verse": 28,
-          "text": "Therefore receiving an unmovable kingdom, we have grace: but the which let us serve pleasing God, with fear & reverence.",
+          "text": "Therefore receiving an unmoveable kingdom, we have grace: by the which let us serve pleasing God, with fear & reverence.",
           "notes": [
             {
               "label": "1",
-              "text": "c λατρεύωμεν."
+              "text": "c λατρεύωμεν.",
+              "kind": "word"
             }
           ]
         },
@@ -2036,7 +2154,8 @@
           "notes": [
             {
               "label": "2",
-              "text": "c ἡ φιλαδελφία."
+              "text": "c ἡ φιλαδελφία.",
+              "kind": "word"
             }
           ]
         },
@@ -2052,7 +2171,7 @@
         },
         {
           "verse": 3,
-          "text": "Remember them in bands, as if you were bound with them; & them that labour, as yourselves also remaining in body."
+          "text": "Remember them in bonds, as if you were bound with them; & them that labour, as yourselves also remaining in body."
         },
         {
           "verse": 4,
@@ -2084,13 +2203,14 @@
           "notes": [
             {
               "label": "1",
-              "text": "The Epistle for S. Nicolas 6. Decemb. & S. Augustin our Apostle and for some other Confessors Bishops."
+              "text": "The Epistle for S. Nicolas 6. Decemb. & S. Augustin our Apostle and for some other Confessors Bishops.",
+              "kind": "lectionary"
             }
           ]
         },
         {
           "verse": 8,
-          "text": "Jesus Christ yesterday, and today: the same also for ever."
+          "text": "Jesus Christ yesterday, and to day: the same also for ever."
         },
         {
           "verse": 9,
@@ -2099,7 +2219,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "New, diverse, changeable, & strange doctrines to be avoided, for such be heretical. Against which the best remedy or preservative is, always to look back to our first Apostles, & the holy Fathers' doctrine."
+              "text": "New, divers, changeable, & strange doctrines to be avoided, for such be heretical. Against which the best remedy or preservative is, always to look back to our first Apostles, & the holy Fathers' doctrine.",
+              "kind": "gloss"
             }
           ]
         },
@@ -2137,6 +2258,9 @@
             {
               "text": "Ose. 14, 3."
             }
+          ],
+          "xrefs": [
+            "Ose. 14, 3."
           ]
         },
         {
@@ -2167,11 +2291,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "c καταρτίσαι, that is, make you perfect and absolute in all goodness."
+              "text": "c καταρτίσαι, that is, make you perfect and absolute in all goodness.",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "c aptet vos"
+              "text": "c aptet vos",
+              "kind": "gloss"
             }
           ]
         },

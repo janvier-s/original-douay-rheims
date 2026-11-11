@@ -25,7 +25,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "<i>pleasure. χαρὰν, χαριν.</i>"
+              "text": "<i>pleasure. χαρὰν, χαριν.</i>",
+              "kind": "word"
             }
           ]
         },
@@ -35,7 +36,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "A great grace to be beneficial to strangers, specially to them that be of our Catholic faith and suffer for the same."
+              "text": "A great grace to be beneficial to strangers, specially to them that be of our Catholic faith and suffer for the same.",
+              "kind": "gloss"
             }
           ]
         },
@@ -57,7 +59,8 @@
           "notes": [
             {
               "label": "1",
-              "text": "b It seemeth (saith S. Bede) he was an Arch-heretic or proud Sect-master."
+              "text": "b It seemeth (saith S. Bede) he was an Arch-heretic or proud Sect-master.",
+              "kind": "gloss"
             }
           ]
         },
@@ -67,11 +70,13 @@
           "notes": [
             {
               "label": "1",
-              "text": "That is, <i>I will rebuke them and make them known to be wicked.</i> Bede."
+              "text": "That is, <i>I will rebuke them and make them known to be wicked.</i> Bede.",
+              "kind": "gloss"
             },
             {
               "label": "2",
-              "text": "<i>c commonebo. ὑπομνήσω</i>"
+              "text": "<i>c commonebo. ὑπομνήσω</i>",
+              "kind": "gloss"
             }
           ]
         },
@@ -89,7 +94,7 @@
         },
         {
           "verse": 14,
-          "text": "But I hope forth-with to see thee, and we will speak mouth to mouth. Peace be to thee. The friends salute thee. Salute the friends by name."
+          "text": "But I hope forthwith to see thee, and we will speak mouth to mouth. Peace be to thee. The friends salute thee. Salute the friends by name."
         }
       ],
       "summary": "He commendeth Gaius, for continuing in the truth, and for suffering or succouring true preachers, 9. noting Diotrepes for the contrary, and praising Demetrius."

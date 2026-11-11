@@ -9,7 +9,17 @@
       "verses": [
         {
           "verse": 1,
-          "text": "And Iosias made a Pasch in Jerusalem to our Lord & immolated the Phase the fourteenth moon of the month:"
+          "text": "And Iosias made a Pasch in Jerusalem to our Lord & immolated the Phase the fourteenth moon of the month:",
+          "cross_refs": [
+            {
+              "text": "4. Reg. 23. v. 21",
+              "source": "sancta"
+            },
+            {
+              "text": "2. Paral. 35. v. 1",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 2,
@@ -25,11 +35,17 @@
         },
         {
           "verse": 5,
-          "text": "according to the writing of David king of Israel, and according to the magnificence of Salomon his son, all in the temple, and according to your father's portion of principality, among them that stand in the sight of your brethren the children of Israel."
+          "text": "according to the writing of David king of Israel, and according to the magnificence of Salomon his son, all in the temple, and according to your fathers portion of principality, among them that stand in the sight of your brethren the children of Israel."
         },
         {
           "verse": 6,
-          "text": "Immolate the Pasch, and prepare the sacrifices for your brethren, and do according to the precept of our Lord which was given to Moyses."
+          "text": "Immolate the Pasch, and prepare the sacrifices for your brethren, and do according to the precept of our Lord which was given to Moyses.",
+          "cross_refs": [
+            {
+              "text": "Exo. 12",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 7,
@@ -105,7 +121,17 @@
         },
         {
           "verse": 25,
-          "text": "And after all this fact of Iosias, came up Pharao the king of Ægypt coming in Charcamis from the way upon Euphrates, and Iosias went forth to meet him. 4."
+          "text": "And after all this fact of Iosias, came up Pharao the king of Ægypt coming in Charcamis from the way upon Euphrates, and Iosias went forth to meet him. 4.",
+          "cross_refs": [
+            {
+              "text": "4. Reg. 23. v. 29",
+              "source": "sancta"
+            },
+            {
+              "text": "2. Paral. 35. v. 20",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 26,
@@ -129,11 +155,11 @@
         },
         {
           "verse": 31,
-          "text": "And he went up into his second chariot: & coming to Jerusalem, died, and was buried in his father's sepulchre."
+          "text": "And he went up into his second chariot: & coming to Jerusalem, died, and was buried in his fathers sepulchre."
         },
         {
           "verse": 32,
-          "text": "And in all Jury they mourned for Iosias, & the rulers with their wives lamented him until this day. And this was given out to be done always unto all the stock of Israel."
+          "text": "And in all Jurie they mourned for Iosias, & the rulers with their wives lamented him until this day. And this was given out to be done always unto all the stock of Israel."
         },
         {
           "verse": 33,
@@ -141,7 +167,17 @@
         },
         {
           "verse": 34,
-          "text": "And they that were of the nation, taking Jechonias the son of Iosias, made him king for Iosias his father, when he was three and twenty years old. 4. . v. 30. 2. Par. 36. v. 1."
+          "text": "And they that were of the nation, taking Jechonias the son of Iosias, made him king for Iosias his father, when he was three and twenty years old. 4. . v. 30. 2. Par. 36. v. 1.",
+          "cross_refs": [
+            {
+              "text": "4. Reg. 23. v. 30",
+              "source": "sancta"
+            },
+            {
+              "text": "2. Par. 36. v. 1",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 35,
@@ -185,15 +221,33 @@
         },
         {
           "verse": 45,
-          "text": "and after a year Nabuchodonosor sending, transported him into Babylon together with the sacred vessels of our Lord."
+          "text": "and after a year Nabuchodonosor sending, transported him into Babylon together with the sacred vessels of our Lord.",
+          "cross_refs": [
+            {
+              "text": "4. Reg. 24. v. 1",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 46,
-          "text": "And he made Sedecias king of Juda and"
+          "text": "And he made Sedecias king of Juda and",
+          "cross_refs": [
+            {
+              "text": "v. 17",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 47,
-          "text": "And he did evil in the sight of our Lord, and was not afraid of the words which were spoken by Jeremy the Prophet from the mouth of our Lord:"
+          "text": "And he did evil in the sight of our Lord, and was not afraid of the words which were spoken by Jeremie the Prophet from the mouth of our Lord:",
+          "cross_refs": [
+            {
+              "text": "Jere. 37. v. 2",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 48,
@@ -205,7 +259,7 @@
         },
         {
           "verse": 50,
-          "text": "And the God of their fathers sent by his messenger to reclaim them, for that he would spare them, and his tabernacle."
+          "text": "And the God of their fathers sent by his messenger to reclame them, for that he would spare them, and his tabernacle."
         },
         {
           "verse": 51,
@@ -237,7 +291,13 @@
         },
         {
           "verse": 58,
-          "text": "as long as the land quietly kept her sabbaths, all the time of her desolation she sabbathized in the application of seventy years."
+          "text": "as long as the land quietly kept her sabbaths, all the time of her desolation she sabbathized in the application of seventy years.",
+          "cross_refs": [
+            {
+              "text": "Dan. 9. v. 2",
+              "source": "sancta"
+            }
+          ]
         }
       ]
     },
@@ -247,11 +307,13 @@
       "verses": [
         {
           "verse": 1,
-          "text": "CYRUS king of the Persians reigning for the accomplishment of the word of our Lord by the mouth of Jeremy,"
-        },
-        {
-          "verse": 1,
-          "text": "Cyrus king of the Persians reigning for the accomplishment of the word of our Lord by the mouth of Jeremy, 2. . v. 22. 2. . v. 1. & 6. v. 3. . v. 12. & 29. v."
+          "text": "CYRUS king of the Persians reigning for the accomplishment of the word of our Lord by the mouth of Jeremy,",
+          "cross_refs": [
+            {
+              "text": "2. Paral. 36. v. 22",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 2,
@@ -259,11 +321,17 @@
         },
         {
           "verse": 3,
-          "text": "saying: Thus saith Cyrus king of the Persians: The Lord of Israel, the high Lord, hath made me king over the whole earth,"
+          "text": "saying: Thus saith Cyrus king of the Persians: The Lord of Israel, the high Lord, hath made me king over the whole earth,",
+          "cross_refs": [
+            {
+              "text": "v. 3",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 4,
-          "text": "& hath signified to me to build him a house in Jerusalem which is in Jury."
+          "text": "& hath signified to me to build him a house in Jerusalem which is in Jurie."
         },
         {
           "verse": 5,
@@ -271,7 +339,13 @@
         },
         {
           "verse": 6,
-          "text": "Whosoever therefore dwell about the places, let them help them that are in the same place, in gold & silver,"
+          "text": "Whosoever therefore dwell about the places, let them help them that are in the same place, in gold & silver,",
+          "cross_refs": [
+            {
+              "text": "Dan. 9. v. 2",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 7,
@@ -279,7 +353,7 @@
         },
         {
           "verse": 8,
-          "text": "And the Princes of the tribes, of the villages, and of Jury, of the tribe of Benjamin, & the Priests, and the Levites standing up, whom our Lord moved to go up, and to build the house of our Lord which is in Jerusalem, and they that were round about them,"
+          "text": "And the Princes of the tribes, of the villages, and of Jurie, of the tribe of Benjamin, & the Priests, and the Levites standing up, whom our Lord moved to go up, and to build the house of our Lord which is in Jerusalem, and they that were round about them,"
         },
         {
           "verse": 9,
@@ -295,7 +369,7 @@
         },
         {
           "verse": 12,
-          "text": "And by him they were delivered to Salmanasar president of Jury."
+          "text": "And by him they were delivered to Salmanasar president of Jurie."
         },
         {
           "verse": 13,
@@ -311,7 +385,13 @@
         },
         {
           "verse": 16,
-          "text": "But in the times of Artaxerxes king of the Persians, there wrote to him of them that dwelt in Jury and Jerusalem, Balsamus, and Mithridatus, and Sabellius, and Rathimus, Balthemus, Sabellius scribe, and the rest dwelling in Samaria, and other places, the epistle following to king Artaxerxes."
+          "text": "But in the times of Artaxerxes king of the Persians, there wrote to him of them that dwelt in Jurie and Jerusalem, Balsamus, and Mithridatus, and Sabellius, and Rathimus, Balthemus, Sabellius scribe, and the rest dwelling in Samaria, and other places, the epistle following to king Artaxerxes.",
+          "cross_refs": [
+            {
+              "text": "1. Esd. 4. v. 7",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 17,
@@ -385,7 +465,7 @@
         },
         {
           "verse": 2,
-          "text": "and to all that wear purple, and to the Prætors, and Consuls, and Lieutenants under him from India unto Æthiopia, an hundred twenty seven provinces."
+          "text": "and to all that were purple, and to the Prætors, and Consuls, and Lieutenants under him from India unto Æthiopia, an hundred twenty seven provinces."
         },
         {
           "verse": 3,
@@ -433,11 +513,11 @@
         },
         {
           "verse": 14,
-          "text": "And sending he called all the Magistrates of the Persians, and the Medes, and them that wear purple, and the Prætors, and the Overseers;"
+          "text": "And sending he called all the Magistrates of the Persians, and the Medes, and them that wear purple, and the Pretors, and the Overseers;"
         },
         {
           "verse": 15,
-          "text": "and they sat in the Councel: and the writings were read before them."
+          "text": "and they sate in the Councel: and the writings were read before them."
         },
         {
           "verse": 16,
@@ -457,11 +537,11 @@
         },
         {
           "verse": 20,
-          "text": "and every mind it turneth into security and pleasantness, and it remembereth not any sorrow and duty,"
+          "text": "and every mind it turneth into security and pleasantness, and it remembreth not any sorrow and duty,"
         },
         {
           "verse": 21,
-          "text": "and all hearts it maketh honest, and it remembereth not king, nor magistrate, and it maketh a man speak all things by talents."
+          "text": "and all hearts it maketh honest, and it remembreth not king, nor magistrate, and it maketh a man speak all things by talents."
         },
         {
           "verse": 22,
@@ -547,7 +627,7 @@
         },
         {
           "verse": 17,
-          "text": "And they make the garments of all men, & they do honour to all men, and men cannot be separated from women."
+          "text": "And they make the garments of all men, & they do honour to all men, and men can not be separated from women."
         },
         {
           "verse": 18,
@@ -599,7 +679,7 @@
         },
         {
           "verse": 30,
-          "text": "and taking off the crown from his head, and putting it upon herself, and with the palm of her left hand she struck the king."
+          "text": "and taking of the crown from his head, and putting it upon herself, and with the palm of her left hand she stroke the king."
         },
         {
           "verse": 31,
@@ -741,7 +821,13 @@
       "verses": [
         {
           "verse": 1,
-          "text": "After these things were chosen to go up the Princes of towns by their houses, and tribes, and their wives, and their sons and daughters, & their men servants and women servants, and their cattle."
+          "text": "After these things were chosen to go up the Princes of towns by their houses, and tribes, and their wives, and their sons and daughters, & their men servants and women servants, and their cattle.",
+          "cross_refs": [
+            {
+              "text": "1. Esd. 2. v. 1",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 2,
@@ -765,11 +851,23 @@
         },
         {
           "verse": 7,
-          "text": "And they are these, that of Jury came up from the captivity of the transmigration, whom Nabuchodonosor the king of Babylon transported into Babylon, and returned into Jerusalem. 1."
+          "text": "And they are these, that of Jury came up from the captivity of the transmigration, whom Nabuchodonosor the king of Babylon transported into Babylon, and returned into Jerusalem. 1.",
+          "cross_refs": [
+            {
+              "text": "1. Esd. 2. v. 2",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 8,
-          "text": "And every one sought a part of Jury according to his own city, they that came with Zorobabel, and Iesus, Nehemias, Areores, Elimeo, Emmanio, Mardocheo, Beelsuro, Mechpsatochor, Olioro, Emonia one of their Princes."
+          "text": "And every one sought a part of Jury according to his own city, they that came with Zorobabel, and Iesus, Nehemias, Areores, Elimeo, Emmanio, Mardocheo, Beelsuro, Mechpsatochor, Olioro, Emonia one of their Princes.",
+          "cross_refs": [
+            {
+              "text": "2. Esd. 7. v. 6",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 9,
@@ -881,7 +979,7 @@
         },
         {
           "verse": 36,
-          "text": "These are the children that came up from Thelmela, Thelharsa: the Princes of them, Carmelam, and Careth:"
+          "text": "These are the children that came up from Thelmela, Thelharsa: the Princes of them, Carmellam, and Careth:"
         },
         {
           "verse": 37,
@@ -925,7 +1023,13 @@
         },
         {
           "verse": 47,
-          "text": "And the seventh month being at hand, and when the children of Israel were every man in his own affairs, they came together with one mind into the court, that was before the east gate."
+          "text": "And the seventh month being at hand, and when the children of Israel were every man in his own affairs, they came together with one mind into the court, that was before the east gate.",
+          "cross_refs": [
+            {
+              "text": "1. Esd. 3. v. 1",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 48,
@@ -945,7 +1049,7 @@
         },
         {
           "verse": 52,
-          "text": "& after these they appointed oblations, and the hosts of the sabbaths, and of the new moons, and of all the solemn sanctified days."
+          "text": "& after these the appointed oblations, and the hosts of the sabbaths, and of the new moons, and of all the solemn sanctified days."
         },
         {
           "verse": 53,
@@ -957,7 +1061,7 @@
         },
         {
           "verse": 55,
-          "text": "And they gave carts to the Sidonians, & Tyrianes, that with them they should carry cedar beams from Libanus, & should make boats in the haven Ioppe, according to the decree that was written for them by Cyrus king of the Persians."
+          "text": "And they gave carts to the Sidonians, & Tyrianes, that with them they should carry cedar beams from Lybanus, & should make boats in the haven Ioppe, according to the decree that was written for them by Cyrus king of the Persians."
         },
         {
           "verse": 56,
@@ -1009,7 +1113,13 @@
         },
         {
           "verse": 68,
-          "text": "And coming to Zorobabel & Iesus, the overseers of the villages, they said to them: We will build together with you."
+          "text": "And coming to Zorobabel & Iesus, the overseers of the villages, they said to them: We will build together with you.",
+          "cross_refs": [
+            {
+              "text": "1. Esd. 4. v. 2",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 69,
@@ -1039,7 +1149,13 @@
       "verses": [
         {
           "verse": 1,
-          "text": "And in the second year of the reign of Darius prophesied Aggeus, & Zacharias the son of Addo the Prophet to Jury & Jerusalem in the name of God of Israel upon them."
+          "text": "And in the second year of the reign of Darius prophesied Aggeus, & Zacharias the son of Addo the Prophet to Jury & Jerusalem in the name of God of Israel upon them.",
+          "cross_refs": [
+            {
+              "text": "1. Esd. 5. v. 1",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 2,
@@ -1127,7 +1243,13 @@
         },
         {
           "verse": 23,
-          "text": "Then Darius the king commanded search to be made in the libraries: and there was found in Ecbatana a town that is in the country of Media, one place wherein were written these words."
+          "text": "Then Darius the king commanded search to be made in the libraries: and there was found in Ecbatana a town that is in the country of Media, one place wherein were written these words.",
+          "cross_refs": [
+            {
+              "text": "1. Esd. 6. v. 1",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 24,
@@ -1181,7 +1303,13 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Then Sisennes the deputy of Coelesyria, and Phenice, and Satrabuzanes, and their fellows, obeying those things which were decreed of Darius the king"
+          "text": "Then Sisennes the deputy of Coelesyria, and Phænice, and Satrabuzanes, and their fellows, obeying those things which were decreed of Darius the king",
+          "cross_refs": [
+            {
+              "text": "1. Esd. 6. v. 13",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 2,
@@ -1247,7 +1375,13 @@
       "verses": [
         {
           "verse": 1,
-          "text": "And after him when Artaxerxes king of the Persians reigned, came Esdras the son of Azarias, the son of Helcias the son of Salome"
+          "text": "And after him when Artaxerxes king of the Persians reigned, came Esdras the son of Azarias, the son of Helcias the son of Salome",
+          "cross_refs": [
+            {
+              "text": "1. Esd. 7. v. 1",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 2,
@@ -1327,7 +1461,7 @@
         },
         {
           "verse": 21,
-          "text": "And I king Artaxerxes have given commandment to the keepers of the treasure of Syria and Phenice, that what things soever Esdras the Priest and reader of the law of the Lord shall write for, they give him unto an hundred talents of silver, likewise also of gold."
+          "text": "And I king Artaxerxes have given commandment to the keepers of the treasure of Syria and Phænice, that what things soever Esdras the Priest and reader of the law of the Lord shall write for, they give him unto an hundred talents of silver, likewise also of gold."
         },
         {
           "verse": 22,
@@ -1347,7 +1481,7 @@
         },
         {
           "verse": 26,
-          "text": "But thou Esdras according to the wisdom of God appoint judges, and arbiters in all Syria and Phenice: and teach all them that know not the law of thy God:"
+          "text": "But thou Esdras according to the wisdom of God appoint judges, and arbiters in all Syria and Phænice: and teach all them that know not the law of thy God:"
         },
         {
           "verse": 27,
@@ -1367,7 +1501,13 @@
         },
         {
           "verse": 31,
-          "text": "And these are the Princes according to their kindreds, and several principalities of them that came up from Babylon the Kingdom of Artaxerxes."
+          "text": "And these are the Princes according to their kindreds, and several principalities of them that came up from Babylon the Kingdom of Artaxerxes.",
+          "cross_refs": [
+            {
+              "text": "1. Esd. 8. v. 1",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 32,
@@ -1423,7 +1563,7 @@
         },
         {
           "verse": 45,
-          "text": "And I sent to Eleazarus, and Eccelon, and Masman, and Maloban, and Enaathan, and Samea, and Ioribum, Nathan, Enuagam, Zacharias, and Mosolam the leaders themselves, and that were skillful."
+          "text": "And I sent to Eleazarus, and Eccelon, and Masman, and Maloban, and Enaathan, and Samea, and Ioribum, Nathan, Enuagam, Zacharias, and Mosolam the leaders themselves, and that were skilful."
         },
         {
           "verse": 46,
@@ -1482,6 +1622,10 @@
           "text": "And I said to them: You are also sanctified to our Lord, and the vessels be holy, and the gold and silver is vowed to our Lord the God of our fathers."
         },
         {
+          "verse": 60,
+          "text": "Watch and keep, till you deliver them to some of the rulers of the people, and to the Priests, and Levites, and to the princes of the cities of Israel in Jerusalem, in the treasury of the house of our God."
+        },
+        {
           "verse": 61,
           "text": "And those Priests and Levites that received the gold and silver and vessels, brought it to Jerusalem into the temple of our Lord."
         },
@@ -1515,7 +1659,13 @@
         },
         {
           "verse": 69,
-          "text": "And these things being finished, the rulers came to me, saying: The stock of Israel, and the princes, and the Priests, and the Levites"
+          "text": "And these things being finished, the rulers came to me, saying: The stock of Israel, and the princes, and the Priests, and the Levites",
+          "cross_refs": [
+            {
+              "text": "1. Esd. 9. v. 1",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 70,
@@ -1607,7 +1757,13 @@
         },
         {
           "verse": 92,
-          "text": "And when Esdras with adoration confessed weeping, lying flat on the ground before the temple, there were gathered before him out of Jerusalem a very great multitude, men and women, and young men and young women. For there was great weeping in the multitude itself."
+          "text": "And when Esdras with adoration confessed weeping, lying flat on the ground before the temple, there were gathered before him out of Jerusalem a very great multitude, men and women, and young men and young women. For there was great weeping in the multitude itself.",
+          "cross_refs": [
+            {
+              "text": "1. Esd. 10. v. 1",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 93,
@@ -1637,7 +1793,13 @@
       "verses": [
         {
           "verse": 1,
-          "text": "And Esdras rising up from before the court of the temple, went into the chamber of Ionathas the son of Nasabi."
+          "text": "And Esdras rising up from before the court of the temple, went into the chamber of Ionathas the son of Nasabi.",
+          "cross_refs": [
+            {
+              "text": "1. Esd. 10. v. 6",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 2,
@@ -1645,7 +1807,7 @@
         },
         {
           "verse": 3,
-          "text": "And there was proclamation made in all Jury, & in Jerusalem to all that were of the captivity gathered in Jerusalem,"
+          "text": "And there was proclamation made in all Jurie, & in Jerusalem to all that were of the captivity gathered in Jerusalem,"
         },
         {
           "verse": 4,
@@ -1657,7 +1819,7 @@
         },
         {
           "verse": 6,
-          "text": "And all the multitude sat in the court of the temple trembling, for the present winter."
+          "text": "And all the multitude sate in the court of the temple trembling, for the present winter."
         },
         {
           "verse": 7,
@@ -1697,7 +1859,7 @@
         },
         {
           "verse": 16,
-          "text": "And Esdras the priest chose unto him men the great princes of their fathers according to their names: & they sat together in the newmoon of the tenth month to examine this business."
+          "text": "And Esdras the priest chose unto him men the great princes of their fathers according to their names: & they sate together in the newmoon of the tenth month to examine this business."
         },
         {
           "verse": 17,
@@ -1753,7 +1915,7 @@
         },
         {
           "verse": 30,
-          "text": "And of the sons of Banni: O lamus, & Maluchus, and Ieddeus, and Iasub, and Azabus, & Ierimoth."
+          "text": "And of the sons of Banni: Olamus, & Maluchus, and Ieddeus, and Iasub, and Azabus, & Ierimoth."
         },
         {
           "verse": 31,
