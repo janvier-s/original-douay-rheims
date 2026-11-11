@@ -21,7 +21,7 @@ attribution required.
 | `annotations/` | Chapter-level annotation sidecars (commentary, extended notes), 1,521 annotations |
 | `usfm/` | USFM 3 files, one per book, with footnotes and cross-references |
 | `usfm-study/` | The same, plus the annotations as `\ef` study notes |
-| *(release assets)* | Verse-only edition: scripture text alone, with no notes, markers, cross-references or summaries. JSON, USFM, Markdown, plain text, CSV, SQLite and EPUB. See below |
+| *(release assets)* | Verse-only edition: scripture text alone, with no notes, markers, cross-references or summaries. JSON, USFM, Markdown, plain text, CSV, SQLite, EPUB, OSIS and DOCX. See below |
 | `index/lemmas/` | Where each annotation's catchword sits in the verse it annotates |
 | `reference/ot/` | Old Testament front matter (preface, tables, glossary, etc.) |
 | `reference/nt/` | New Testament front matter (preface, tables, glossary, etc.) |
@@ -177,6 +177,10 @@ small.
 | `original-douay-rheims-verse-only-text.zip` | One `.txt` per book, wrapped at 76 columns with hanging verse numbers |
 | `original-douay-rheims-verse-only-epub.zip` | EPUB 3, one file per book plus `original-douay-rheims.epub` with all 76 books. Verse numbers are superscript, italics and small caps are kept, and the 1582 title page is the cover. The table of contents runs testament, book, chapter |
 | `original-douay-rheims-verse-only.epub` | The whole Bible as one EPUB |
+| `original-douay-rheims-verse-only-osis.zip` | OSIS 2.1.1 XML, one file per book plus the whole Bible. Books, chapters and verses carry `osisID`s (`Gen.1.1`). Italics are `<hi type="italic">` and small caps are `<hi type="small-caps">`. Every file validates against `osisCore.2.1.1.xsd` |
+| `original-douay-rheims-verse-only.osis.xml` | The whole Bible as one OSIS file |
+| `original-douay-rheims-verse-only-docx.zip` | Word documents, one per book plus the whole Bible. The 1582 title page opens each file, followed by a table of contents field and heading styles for testament, book and chapter |
+| `original-douay-rheims-verse-only.docx` | The whole Bible as one Word document |
 | `original-douay-rheims-verse-only.md` / `.txt` | The whole Bible in one file |
 | `original-douay-rheims-verse-only.csv` | `book,code,chapter,verse,part,text`, one row per verse |
 | `original-douay-rheims-verse-only.sqlite` | Tables `books` and `verses`, plus an FTS5 index `verses_fts` for full-text search |
