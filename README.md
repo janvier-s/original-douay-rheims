@@ -1,13 +1,13 @@
-# Original Douay-Rheims Bible — JSON and USFM Dataset
+# Original Douay-Rheims Bible: JSON and USFM Dataset
 
 The complete text of the Original Douay-Rheims Bible (Old Testament 1609, New
 Testament 1582) in structured JSON, with footnotes, cross-references,
 annotations, and reference documents.
 
-This is the unmodified historic translation — not the 18th-century Challoner
-revision — rendered faithfully from the original printed volumes.
+This is the unmodified historic translation, which predates the 18th-century
+Challoner revision, rendered faithfully from the original printed volumes.
 
-**License:** [CC0 1.0 Universal](LICENSE) — public domain. Use freely, no
+**License:** [CC0 1.0 Universal](LICENSE). Public domain. Use freely, no
 attribution required.
 
 ---
@@ -16,12 +16,12 @@ attribution required.
 
 | Path | Description |
 |------|-------------|
-| `bible/tagged/` | Bible text with all original markup (`<sc>`, `<i>`, `<na>`, `<mn>`, `<cr>`) — 76 books. **Canonical.** |
-| `bible/raw/` | Bible text as plain prose — all markup and markers stripped |
-| `annotations/` | Chapter-level annotation sidecars (commentary, extended notes) — 1,521 annotations |
-| `usfm/` | USFM 3 files — one per book, with footnotes and cross-references |
+| `bible/tagged/` | Bible text with all original markup (`<sc>`, `<i>`, `<na>`, `<mn>`, `<cr>`): 76 books. **Canonical.** |
+| `bible/raw/` | Bible text as plain prose, with all markup and markers stripped |
+| `annotations/` | Chapter-level annotation sidecars (commentary, extended notes), 1,521 annotations |
+| `usfm/` | USFM 3 files, one per book, with footnotes and cross-references |
 | `usfm-study/` | The same, plus the annotations as `\ef` study notes |
-| `verse-only/` | Scripture text alone, with no notes, markers, cross-references or summaries. JSON, USFM, Markdown, plain text, CSV and SQLite — see below |
+| *(release assets)* | Verse-only edition: scripture text alone, with no notes, markers, cross-references or summaries. JSON, USFM, Markdown, plain text, CSV and SQLite. See below |
 | `index/lemmas/` | Where each annotation's catchword sits in the verse it annotates |
 | `reference/ot/` | Old Testament front matter (preface, tables, glossary, etc.) |
 | `reference/nt/` | New Testament front matter (preface, tables, glossary, etc.) |
@@ -63,8 +63,8 @@ Each file in `bible/tagged/` and `bible/raw/` represents one book.
 
 | Tag | Meaning |
 |-----|---------|
-| `<sc>Word</sc>` | Small caps — proper nouns and significant passages |
-| `<i>word</i>` | Italic — words supplied by the translators, absent from the Latin |
+| `<sc>Word</sc>` | Small caps for proper nouns and significant passages |
+| `<i>word</i>` | Italic for words supplied by the translators, absent from the Latin |
 
 `bible/raw/` strips all tags. `bible/tagged/` preserves everything including
 footnote anchors (`<na>`), marginal note numbers (`<mn>`), and cross-reference
@@ -123,8 +123,8 @@ A character marker opened inside a note takes the `\+` prefix on both forms
 (`\+it word\+it*`), as does one opened inside another marker.
 
 Footnotes are embedded inline using `\f <label> \fr {ch}.{v} \ft {text}\f*`,
-reusing the marker token the source printed — `\f 1`, `\f a`, or `\f -` where
-the note had no token of its own.
+reusing the marker token the source printed (`\f 1`, `\f a`, or `\f -` where
+the note had no token of its own).
 
 Cross-references are embedded inline using `\x - \xt {text}\x*`. The reference
 text uses original ODR abbreviations (e.g. `Io. 8, 12.` = John 8:12).
@@ -138,7 +138,7 @@ the original printed volumes: prefaces to the reader, tables of contents,
 glossaries, historical tables, doctrinal essays, and other apparatus.
 
 Most files have a `paragraphs` array of `{ "text": "..." }` objects. Some have
-`subsections`, `entries`, or `articles` arrays — see `SCHEMA.md` for the full
+`subsections`, `entries`, or `articles` arrays. See `SCHEMA.md` for the full
 structure of each document type.
 
 ---
@@ -147,7 +147,7 @@ structure of each document type.
 
 76 books: the 73 of the Catholic canon, including the deuterocanonical books
 (Tobias, Judith, 1 & 2 Machabees, Wisdom, Ecclesiasticus, Baruch), plus the
-three the ODR prints in its appendix — 3 Esdras, 4 Esdras, and the Prayer of
+three the ODR prints in its appendix: 3 Esdras, 4 Esdras, and the Prayer of
 Manasses.
 
 The ODR follows Vulgate numbering, so its Esdras books are not the ones a modern
@@ -159,7 +159,7 @@ and the reasoning.
 
 ## Related
 
-- [Original Douay-Rheims Bible](https://odr.app) — web reader built on this data
+- [Original Douay-Rheims Bible](https://odr.app): web reader built on this data
 
 ## Verse-only edition
 
