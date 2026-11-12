@@ -190,10 +190,15 @@ The text as e-books, Word documents, Bible-software files and web pages, publish
 | Choice | Values |
 |--------|--------|
 | Edition | `verse-only` (scripture text alone) or `study` (with the printed apparatus) |
-| Layout | `flowing` (one paragraph per chapter), `paragraph` (the site's paragraphs) or `verse` (one paragraph per verse) |
+| Layout | `verse` (one paragraph per verse), `paragraph` (the site's paragraphs) or `flowing` (one paragraph per chapter) |
 | Format | `epub`, `osis`, `docx` or `html` |
 
-Asset names follow `original-douay-rheims-<edition>-<layout>-<format>.zip`, for example `original-douay-rheims-study-paragraph-epub.zip`. Each zip holds one file per book (76) plus the whole Bible. The whole Bible is also a separate asset, `original-douay-rheims-<edition>-<layout>.<ext>`, for example `original-douay-rheims-verse-only-verse.html`. That is 24 zips and 24 whole-Bible files. Every EPUB, DOCX and HTML file uses the 1582 Rheims title page as its cover.
+Each combination has two assets:
+
+- **Whole Bible**: one file, `original-douay-rheims-<edition>-<layout>.<ext>`, for example `original-douay-rheims-verse-only-verse.html`.
+- **Book by book**: one zip of 76 files, one per book, `original-douay-rheims-<edition>-<layout>.<ext>.by-book.zip`, for example `original-douay-rheims-study-paragraph.epub.by-book.zip`. The zip holds only single-book files and does not repeat the whole Bible.
+
+That is 24 whole-Bible files and 24 book-by-book zips. Only EPUB files carry the 1582 Rheims title page as a cover image. DOCX, HTML and OSIS have no images.
 
 ### Editions
 
@@ -217,6 +222,6 @@ Twenty-three notes have no marker in the text. The USFM files leave them out; th
 | `epub` | EPUB 3 with a navigation document by testament, book and chapter. Real footnotes in the study edition |
 | `osis` | OSIS 2.1.1 XML with an `osisID` on every book, chapter and verse (`Gen.1.1`), valid against `osisCore.2.1.1.xsd`. Italics are `<hi type="italic">` and small caps are `<hi type="small-caps">`. Study annotations are `<note type="study">`, summaries are `<div type="summary">` and introductions are `<div type="introduction">` |
 | `docx` | Word documents with heading styles for testament, book and chapter, Word footnotes in the study edition, and a contents page of links at the start: every book, with a link to each of its chapters. Each book also opens with a row of chapter links |
-| `html` | One self-contained page per file with the cover embedded, a collapsible contents sidebar, a row of chapter links under each book title, and light and dark themes. It works offline and without scripts, though the sidebar collapse needs them |
+| `html` | One self-contained page per file with no images, a collapsible contents sidebar, a row of chapter links under each book title, and light and dark themes. It works offline and without scripts, though the sidebar collapse needs them |
 
-Releases v3.1 to v3.3 hold the earlier `flowing` builds under the older names (`original-douay-rheims-verse-only-epub.zip` and so on). Those DOCX files have a Word table of contents field that stays empty until the reader updates it. The v3.4 DOCX files replace it with the contents page of links.
+Releases v3.1 to v3.4 hold earlier builds under their older names (`original-douay-rheims-verse-only-epub.zip` and so on), and v3.4 still has the cover image in its DOCX and HTML files. Those DOCX files have a Word table of contents field that stays empty until the reader updates it. The v3.4 DOCX files replace it with the contents page of links.
