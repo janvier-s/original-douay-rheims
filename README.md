@@ -21,6 +21,7 @@ attribution required.
 | `annotations/` | Chapter-level annotation sidecars (commentary, extended notes), 1,521 annotations |
 | `usfm/` | USFM 3 files, one per book, with footnotes and cross-references |
 | `usfm-study/` | The same, plus the annotations as `\ef` study notes |
+| *(release assets)* | Study edition as EPUB, OSIS and DOCX, with introductions, summaries, footnotes and annotations. See below |
 | *(release assets)* | Verse-only edition: scripture text alone, with no notes, markers, cross-references or summaries. JSON, USFM, Markdown, plain text, CSV, SQLite, EPUB, OSIS and DOCX. See below |
 | `index/lemmas/` | Where each annotation's catchword sits in the verse it annotates |
 | `reference/ot/` | Old Testament front matter (preface, tables, glossary, etc.) |
@@ -187,3 +188,33 @@ small.
 
 `part` is empty unless a chapter repeats a verse number, which the current text
 does not.
+
+## Study edition (EPUB, OSIS, DOCX)
+
+The scripture text with the printed apparatus, as release assets. Each format
+comes as one file per book plus the whole Bible.
+
+What the files carry:
+
+- Book introductions, chapter summaries (the "arguments"), articles and end matter.
+- Marginal notes and cross-references as real footnotes (OSIS: `<note>` and `<note type="crossReference">`).
+- The extended annotations, after the verse they belong to.
+- In the whole-Bible files, the transcribed title pages, prefaces, censures, tables, glossary, index and errata, as front and back matter of each testament.
+
+Two choices to know about. Twenty-three notes have no marker in the text. The
+USFM files leave them out; the study files keep each one as a footnote at the
+end of its verse, summary or paragraph. The Sancta Clara Press cross-references
+that have no marker in the text are left out, as in the USFM files.
+
+| Release asset | Contents |
+|---------------|----------|
+| `original-douay-rheims-study-epub.zip` | EPUB 3, one file per book plus the whole Bible |
+| `original-douay-rheims-study.epub` | The whole Bible as one EPUB |
+| `original-douay-rheims-study-osis.zip` | OSIS 2.1.1 XML, one file per book plus the whole Bible. Annotations are `<note type="study">`, summaries are `<div type="summary">`, introductions are `<div type="introduction">` |
+| `original-douay-rheims-study.osis.xml` | The whole Bible as one OSIS file |
+| `original-douay-rheims-study-docx.zip` | Word documents, one per book plus the whole Bible, with real footnotes, a table of contents field and heading styles |
+| `original-douay-rheims-study.docx` | The whole Bible as one Word document |
+
+OSIS notes cannot nest, so an annotation's own sub-notes are flattened: a
+superscript number where each marker stood and the note texts after the
+annotation, the same as in the `usfm-study` files.
