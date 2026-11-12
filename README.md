@@ -21,8 +21,8 @@ attribution required.
 | `annotations/` | Chapter-level annotation sidecars (commentary, extended notes), 1,521 annotations |
 | `usfm/` | USFM 3 files, one per book, with footnotes and cross-references |
 | `usfm-study/` | The same, plus the annotations as `\ef` study notes |
-| *(release assets)* | Study edition as EPUB, OSIS and DOCX, with introductions, summaries, footnotes and annotations. See below |
-| *(release assets)* | Verse-only edition: scripture text alone, with no notes, markers, cross-references or summaries. JSON, USFM, Markdown, plain text, CSV, SQLite, EPUB, OSIS and DOCX. See below |
+| *(release assets)* | Reading editions as EPUB, OSIS, DOCX and HTML, verse-only and study, in three layouts. See below |
+| *(release assets)* | Verse-only edition: scripture text alone, with no notes, markers, cross-references or summaries. JSON, USFM, Markdown, plain text, CSV and SQLite. See below |
 | `index/lemmas/` | Where each annotation's catchword sits in the verse it annotates |
 | `reference/ot/` | Old Testament front matter (preface, tables, glossary, etc.) |
 | `reference/nt/` | New Testament front matter (preface, tables, glossary, etc.) |
@@ -176,12 +176,6 @@ small.
 | `original-douay-rheims-verse-only-usfm.zip` | USFM 3, one file per book, with `\c`, `\p`, `\v`. Italics (`\it`) and small caps (`\sc`) are kept |
 | `original-douay-rheims-verse-only-markdown.zip` | One `.md` per book, bold verse numbers, italics kept |
 | `original-douay-rheims-verse-only-text.zip` | One `.txt` per book, wrapped at 76 columns with hanging verse numbers |
-| `original-douay-rheims-verse-only-epub.zip` | EPUB 3, one file per book plus `original-douay-rheims.epub` with all 76 books. Verse numbers are superscript, italics and small caps are kept, and the 1582 title page is the cover. The table of contents runs testament, book, chapter |
-| `original-douay-rheims-verse-only.epub` | The whole Bible as one EPUB |
-| `original-douay-rheims-verse-only-osis.zip` | OSIS 2.1.1 XML, one file per book plus the whole Bible. Books, chapters and verses carry `osisID`s (`Gen.1.1`). Italics are `<hi type="italic">` and small caps are `<hi type="small-caps">`. Every file validates against `osisCore.2.1.1.xsd` |
-| `original-douay-rheims-verse-only.osis.xml` | The whole Bible as one OSIS file |
-| `original-douay-rheims-verse-only-docx.zip` | Word documents, one per book plus the whole Bible. The 1582 title page opens each file, followed by a table of contents field and heading styles for testament, book and chapter |
-| `original-douay-rheims-verse-only.docx` | The whole Bible as one Word document |
 | `original-douay-rheims-verse-only.md` / `.txt` | The whole Bible in one file |
 | `original-douay-rheims-verse-only.csv` | `book,code,chapter,verse,part,text`, one row per verse |
 | `original-douay-rheims-verse-only.sqlite` | Tables `books` and `verses`, plus an FTS5 index `verses_fts` for full-text search |
@@ -189,32 +183,40 @@ small.
 `part` is empty unless a chapter repeats a verse number, which the current text
 does not.
 
-## Study edition (EPUB, OSIS, DOCX)
+## Reading editions (EPUB, OSIS, DOCX, HTML)
 
-The scripture text with the printed apparatus, as release assets. Each format
-comes as one file per book plus the whole Bible.
+The text as e-books, Word documents, Bible-software files and web pages, published as release assets. Every file is a combination of three choices, and every combination is built:
 
-What the files carry:
+| Choice | Values |
+|--------|--------|
+| Edition | `verse-only` (scripture text alone) or `study` (with the printed apparatus) |
+| Layout | `flowing` (one paragraph per chapter), `paragraph` (the site's paragraphs) or `verse` (one paragraph per verse) |
+| Format | `epub`, `osis`, `docx` or `html` |
+
+Asset names follow `original-douay-rheims-<edition>-<layout>-<format>.zip`, for example `original-douay-rheims-study-paragraph-epub.zip`. Each zip holds one file per book (76) plus the whole Bible. The whole Bible is also a separate asset, `original-douay-rheims-<edition>-<layout>.<ext>`, for example `original-douay-rheims-verse-only-verse.html`. That is 24 zips and 24 whole-Bible files. Every EPUB, DOCX and HTML file uses the 1582 Rheims title page as its cover.
+
+### Editions
+
+The verse-only edition has no notes, markers, cross-references, summaries or introductions. The study edition carries:
 
 - Book introductions, chapter summaries (the "arguments"), articles and end matter.
-- Marginal notes and cross-references as real footnotes (OSIS: `<note>` and `<note type="crossReference">`).
+- Marginal notes and cross-references as footnotes (OSIS: `<note>` and `<note type="crossReference">`).
 - The extended annotations, after the verse they belong to.
 - In the whole-Bible files, the transcribed title pages, prefaces, censures, tables, glossary, index and errata, as front and back matter of each testament.
 
-Two choices to know about. Twenty-three notes have no marker in the text. The
-USFM files leave them out; the study files keep each one as a footnote at the
-end of its verse, summary or paragraph. The Sancta Clara Press cross-references
-that have no marker in the text are left out, as in the USFM files.
+Twenty-three notes have no marker in the text. The USFM files leave them out; the study files keep each one as a footnote at the end of its verse, summary or paragraph. The Sancta Clara Press cross-references that have no marker in the text are left out, as in the USFM files. OSIS notes cannot nest, so an annotation's own sub-notes are flattened into a superscript number and trailing text, the same as in the `usfm-study` files.
 
-| Release asset | Contents |
-|---------------|----------|
-| `original-douay-rheims-study-epub.zip` | EPUB 3, one file per book plus the whole Bible |
-| `original-douay-rheims-study.epub` | The whole Bible as one EPUB |
-| `original-douay-rheims-study-osis.zip` | OSIS 2.1.1 XML, one file per book plus the whole Bible. Annotations are `<note type="study">`, summaries are `<div type="summary">`, introductions are `<div type="introduction">` |
-| `original-douay-rheims-study.osis.xml` | The whole Bible as one OSIS file |
-| `original-douay-rheims-study-docx.zip` | Word documents, one per book plus the whole Bible, with real footnotes, a table of contents field and heading styles |
-| `original-douay-rheims-study.docx` | The whole Bible as one Word document |
+### Layouts
 
-OSIS notes cannot nest, so an annotation's own sub-notes are flattened: a
-superscript number where each marker stood and the note texts after the
-annotation, the same as in the `usfm-study` files.
+`paragraph` uses the paragraph breaks from the reading site, which come from the CPDV edition's USFM and are applied to this text by verse number. They are not the breaks of the 1582 and 1609 printings. Psalms, the Canticle of Canticles, 3 Esdras, 4 Esdras and the Prayer of Manasses have no paragraph data, so in the `paragraph` layout each of their chapters is one paragraph. The `verse` layout covers those books verse by verse. In OSIS, `flowing` puts the verses directly in the chapter and the other two layouts wrap them in `<p>`.
+
+### Formats
+
+| Format | What it gives you |
+|--------|-------------------|
+| `epub` | EPUB 3 with a navigation document by testament, book and chapter. Real footnotes in the study edition |
+| `osis` | OSIS 2.1.1 XML with an `osisID` on every book, chapter and verse (`Gen.1.1`), valid against `osisCore.2.1.1.xsd`. Italics are `<hi type="italic">` and small caps are `<hi type="small-caps">`. Study annotations are `<note type="study">`, summaries are `<div type="summary">` and introductions are `<div type="introduction">` |
+| `docx` | Word documents with heading styles for testament, book and chapter, Word footnotes in the study edition, and a contents page of links at the start: every book, with a link to each of its chapters. Each book also opens with a row of chapter links |
+| `html` | One self-contained page per file with the cover embedded, a collapsible contents sidebar, a row of chapter links under each book title, and light and dark themes. It works offline and without scripts, though the sidebar collapse needs them |
+
+Releases v3.1 to v3.3 hold the earlier `flowing` builds under the older names (`original-douay-rheims-verse-only-epub.zip` and so on). Those DOCX files have a Word table of contents field that stays empty until the reader updates it. The v3.4 DOCX files replace it with the contents page of links.
