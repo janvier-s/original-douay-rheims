@@ -378,13 +378,7 @@
           "text": "Have I not dissembled? Have I not kept silence? Have I not been at ease? And indignation is come upon me."
         }
       ],
-      "summary": "Eliphaz blameth Job as guilty of impatience, arguing thereupon that he was not so perfect in virtue as he seemed, 7. and therefore is now punished by God, who (as Eliphaz falsely supposeth) `afflicteth not innocent men`: 12. alleging for proof an imaginary vision. <na>[1]</na>",
-      "summary_notes": [
-        {
-          "marker": 1,
-          "text": "The second part. Diverse discourses & disputes about the cause of Job's afflictions."
-        }
-      ]
+      "summary": "Job lamenteth, describing his own, and the general calamities of man, 13. and showing how to escape many miseries which either are never born or die presently after their birth."
     },
     {
       "chapter": 4,
@@ -500,6 +494,13 @@
         {
           "verse": 21,
           "text": "And they that shall be least, shall be taken away from them: they shall die, and not in wisdom."
+        }
+      ],
+      "summary": "Eliphaz blameth Job as guilty of impatience, arguing thereupon that he was not so perfect in virtue as he seemed, 7. and therefore is now punished by God, who (as Eliphaz falsely supposeth) `afflicteth not innocent men`: 12. alleging for proof an imaginary vision. <na>[1]</na>",
+      "summary_notes": [
+        {
+          "marker": 1,
+          "text": "The second part. Diverse discourses & disputes about the cause of Job's afflictions."
         }
       ]
     },
@@ -901,7 +902,7 @@
           "text": "Why doest thou not take away my sin, and why doest thou not take away mine iniquity? Behold now I shall sleep in the dust: and if thou seek me in the morning, I shall not be."
         }
       ],
-      "summary": "Baldad chargeth Job to have spoken unjustly, exhorting him to turn to God, and so he shall prosper better than heretofore: 13. shewing that hypocrites shall not prosper, 20. inferreth (falsely) that God afflicteth not the sincere,"
+      "summary": "Job explicateth divers calamities of man's life, and namely of his own. 6. Supposing it not likely that he shall return to former prosperous state, 15. desireth to die."
     },
     {
       "chapter": 8,
@@ -1009,7 +1010,7 @@
           "text": "They that hate thee, shall be clothed with confusion: and the tabernacle of the impious shall not stand."
         }
       ],
-      "summary": "nor helpeth the malignant.",
+      "summary": "Baldad chargeth Job to have spoken unjustly, exhorting him to turn to God, and so he shall prosper better than heretofore: 13. shewing that hypocrites shall not prosper, 20. inferreth (falsely) that God afflicteth not the sincere, nor helpeth the malignant.",
       "summary_continuation": {
         "text": "nor helpeth the malignant."
       }
@@ -1541,7 +1542,7 @@
           "text": "They shall grope as in the dark, and not in the light, and he shall make them go amiss as drunken men."
         }
       ],
-      "summary": "Of their words Job confuteth his adversaries, that they have spoken that which they know not: 13. defendeth his own innocency: 22. desiring of God, if he be afflicted for secret sins, that he may know them."
+      "summary": "Job sheweth the knowledge, which his friends much boast of, to be the common known doctrine of God's servants. He more truly, and more profoundly discourseth of God's power and wisdom, still defending his own innocency in respect of great sins."
     },
     {
       "chapter": 13,
@@ -1686,7 +1687,8 @@
           "verse": 28,
           "text": "Who as rottenness am to be consumed, and as a garment, that is eaten of the moth."
         }
-      ]
+      ],
+      "summary": "Of their words Job confuteth his adversaries, that they have spoken that which they know not: 13. defendeth his own innocency: 22. desiring of God, if he be afflicted for secret sins, that he may know them."
     },
     {
       "chapter": 14,
@@ -2181,13 +2183,7 @@
           "text": "All my things shall descend into most deep hell: there at the least, shall I have rest thinkest thou?"
         }
       ],
-      "summary": "Baldad setteth upon Job again, charging him with present impatience and former impiety, 6. and that therefore he suffereth worthy punishment. <na>[1]</na>",
-      "summary_notes": [
-        {
-          "marker": 1,
-          "text": "The fifth conflict."
-        }
-      ]
+      "summary": "For the grievousness of his pain Job expecteth speedy death, 4. chargeth his friends with folly for holding only remuneration in this life. 6. himself hopeth happier rest in the other world."
     },
     {
       "chapter": 18,
@@ -2282,6 +2278,13 @@
         {
           "verse": 21,
           "text": "These are then the tabernacles of the wicked man, and this is the place of him that knoweth not God."
+        }
+      ],
+      "summary": "Baldad setteth upon Job again, charging him with present impatience and former impiety, 6. and that therefore he suffereth worthy punishment. <na>[1]</na>",
+      "summary_notes": [
+        {
+          "marker": 1,
+          "text": "The fifth conflict."
         }
       ]
     },
@@ -2569,7 +2572,7 @@
           "text": "This is the portion of an impious man from God, & the inheritance of his words from our Lord."
         }
       ],
-      "summary": "Job requiring his friends to hear him, 7. discourseth of the cause, why some evil men prosper all this life."
+      "summary": "Sophar avoucheth that some wicked men flourish for a time, but are afterwards justly plagued. 19. thereupon condemneth Job as an hypocrite."
     },
     {
       "chapter": 21,
@@ -2592,7 +2595,7 @@
           "notes": [
             {
               "label": "a",
-              "text": "Though he disputed with three men, yet it was",
+              "text": "Though he disputed with three men, yet it was concerning divine things not human but of God's providence, and justice, of the resurrection of eternal life and punishment.",
               "kind": "gloss"
             }
           ]
@@ -2736,7 +2739,8 @@
           "verse": 34,
           "text": "How therefore do ye comfort me in vain, whereas your answer is shewed to be repugnant to the truth?"
         }
-      ]
+      ],
+      "summary": "Job requiring his friends to hear him, 7. discourseth of the cause, why some evil men prosper all this life."
     },
     {
       "chapter": 22,
@@ -3149,7 +3153,7 @@
           "text": "How much more man rottenness, and the son of man a worm?"
         }
       ],
-      "summary": "More and more Job confirmeth his innocency, avouching that God not presently judging, 11. will in time condemn the wicked."
+      "summary": "Baldad endeavoureth again to terrify Job, with God's judgement, from appealing thereto, and from avouching his own innocency."
     },
     {
       "chapter": 26,
@@ -3356,7 +3360,8 @@
           "verse": 23,
           "text": "He shall clasp his hands upon him, and shall hiss upon him, beholding his place."
         }
-      ]
+      ],
+      "summary": "More and more Job confirmeth his innocency, avouching that God not presently judging, 11. will in time condemn the wicked."
     },
     {
       "chapter": 28,
@@ -3785,7 +3790,7 @@
           "text": "My harp is turned into mourning, and my instrument into the voice of weepers."
         }
       ],
-      "summary": "Holy Job reciteth sincerely his own virtues, shewing thereby that he is not punished so grievously for his sins, but by God's providence for some other cause."
+      "summary": "Holy Job sheweth the great change of his temporal estate, from welfare into great calamity."
     },
     {
       "chapter": 31,
@@ -3967,16 +3972,17 @@
         },
         {
           "verse": 40,
-          "text": "For wheat let the briar grow to me, and for barley the thorn. <na>(d)</na>",
+          "text": "For wheat let the briar grow to me, and for barley the thorn. The words of Job are ended. <na>(d)</na>",
           "notes": [
             {
               "label": "d",
-              "text": "Job disputed no more with his friends but afterward submitted himself to God, acknowledging some unadvised speech. <i>c. 39. v. 37. c. 42. v. 3.</i> (d) The words of Job are ended.",
+              "text": "Job disputed no more with his friends but afterward submitted himself to God, acknowledging some unadvised speech. <i>c. 39. v. 37. c. 42. v. 3.</i>",
               "kind": "gloss"
             }
           ]
         }
-      ]
+      ],
+      "summary": "Holy Job reciteth sincerely his own virtues, shewing thereby that he is not punished so grievously for his sins, but by God's providence for some other cause."
     },
     {
       "chapter": 32,
@@ -4098,7 +4104,7 @@
           "text": "For I know not how long I shall continue, and whether after a while my maker will take me away."
         }
       ],
-      "summary": "Eliu endeavoureth to prove by Job's speech that he is unjust: 13. arguing that God (by afflicting him) hath already so judged. 23. But if by an Angel's admonition he repent, all shall be remitted."
+      "summary": "Eliu a young man being angry that Job persisted in his opinion, and that his three friends could not convince him, 8. taketh upon him to confute Job which they could not do."
     },
     {
       "chapter": 33,
@@ -4249,7 +4255,8 @@
           "verse": 33,
           "text": "And if thou have not, hear me: hold thy peace, & I will teach thee wisdom."
         }
-      ]
+      ],
+      "summary": "Eliu endeavoureth to prove by Job's speech that he is unjust: 13. arguing that God (by afflicting him) hath already so judged. 23. But if by an Angel's admonition he repent, all shall be remitted."
     },
     {
       "chapter": 34,
@@ -4378,7 +4385,7 @@
         },
         {
           "verse": 28,
-          "text": "That they might cause the cry of the needy man to come to him, & he heard the voice of the poor."
+          "text": "That they caused the cry of the needy man to come to him, & he heard the voice of the poor."
         },
         {
           "verse": 29,
@@ -5250,7 +5257,7 @@
           "notes": [
             {
               "label": "i",
-              "text": "Hawks; whereof Aristotel saith there be ten kinds:",
+              "text": "Hawks; whereof Aristotel saith there be ten kinds: Pliny sixteen.",
               "kind": "gloss"
             }
           ]
@@ -5579,7 +5586,7 @@
           ]
         }
       ],
-      "summary": "Holy Job instructed and comforted by God's discourse, acknowledgeth his fault, and craveth pardon for his oversight in speech, or cogitation. 7. God justifieth his cause against his friends. 9. They offer sacrifice for their offence. 10. All things prosper with Job, double to that he had before: 16. and he dieth happily."
+      "summary": "Leviathan is further described by the peculiar parts of his body. and terrible composition of all his members."
     },
     {
       "chapter": 42,
@@ -5678,7 +5685,8 @@
           "verse": 16,
           "text": "And Job lived after these things, an hundred forty years, and he saw his children, and his children's children, unto the fourth generation, and he died an old man, and full of days."
         }
-      ]
+      ],
+      "summary": "Holy Job instructed and comforted by God's discourse, acknowledgeth his fault, and craveth pardon for his oversight in speech, or cogitation. 7. God justifieth his cause against his friends. 9. They offer sacrifice for their offence. 10. All things prosper with Job, double to that he had before: 16. and he dieth happily."
     }
   ],
   "endMatters": [

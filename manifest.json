@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "generated": "2026-11-11T23:29:42.109Z",
-  "commit": "0eca699eb33d2a75a917e8ef9e7da6ead2445a30",
+  "generated": "2026-11-13T06:18:54.287Z",
+  "commit": "237112e4822ff69a4765d0e8df3f7b22878d06b5",
   "counts": {
     "books": 76,
     "chapters": 1361,
-    "verses": 37195,
-    "usfmVerses": 37145,
+    "verses": 37201,
+    "usfmVerses": 37151,
     "annotations": 1521,
     "annotationFiles": 397,
     "subNotes": 3606,

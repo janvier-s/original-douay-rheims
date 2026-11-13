@@ -451,7 +451,7 @@
           "notes": [
             {
               "label": "a",
-              "text": "Three things make a common wealth to be in good state.",
+              "text": "Three things make a common wealth to be in good state. 1. Good agreement of principal men amongst themselves, and with the commonalty. 2. Exact observation of good laws: 3. And eminent virtue of the supreme governor with exercise of piety and hate of sins.",
               "kind": "gloss"
             },
             {
@@ -490,7 +490,7 @@
           "notes": [
             {
               "label": "b",
-              "text": "other three things do trouble the state:",
+              "text": "other three things do trouble the state: Obstinacy in offenders, not content to be corrected. 2. Inveterate malice seeking revenge against just Superiors. 3. and avarice of princes, to rob the holy or common treasure.",
               "kind": "gloss"
             },
             {
@@ -1060,10 +1060,6 @@
           "cross_refs": [
             {
               "text": "ch. 3. v. 23. 27."
-            },
-            {
-              "text": "c. 3. v. 3. 27",
-              "source": "sancta"
             }
           ]
         },
@@ -1073,7 +1069,7 @@
           "notes": [
             {
               "label": "c",
-              "text": "All rites of religion with temples and other holy things",
+              "text": "All rites of religion with temples and other holy things are ordained to the Service of God, and for men's spiritual good, and therefore when men cease to serve God, as holy things are destroyed, or taken away.",
               "kind": "gloss"
             }
           ]
@@ -1168,7 +1164,7 @@
           "notes": [
             {
               "label": "b",
-              "text": "Besides former great massacre. c. 5. four most notorious martyrdoms are here related.",
+              "text": "Besides former great massacre. c. 5. four most notorious martyrdoms are here related. 1. Women with their circumcised children. 2. Other people for keeping the sabbath.",
               "kind": "gloss"
             }
           ]
@@ -2545,7 +2541,6 @@
         {
           "verse": 46,
           "text": "It is therefore a holy, and healthful cogitation to pray for the dead, that they may be loosed from sins.",
-          "has_annotation": true,
           "notes": [
             {
               "label": "h",
@@ -2556,8 +2551,14 @@
               "label": "1",
               "text": "* li. 1. c. 6. v. 18.",
               "kind": "gloss"
+            },
+            {
+              "label": "2",
+              "text": "This text is clear for praying for the dead.",
+              "kind": "gloss"
             }
-          ]
+          ],
+          "has_annotation": true
         }
       ],
       "summary": "Whilst the Jews have peace with the King, others still persecute them: 5. which Judas revengeth: 13. and in Caspin maketh great slaughter, and reposeth in Characa. Ten thousand of Timothee's men are slain. 20. whom Judas pursuing killeth many in Carnion: 34. taketh him, but releaseth him again: 27. the like in Ephron. 32. Some Jews are slain in battle against Gorgias. 38. Judas and his men are purified, and gathering the dead bodies, find that some had taken unlawful spoils. 42. For whose souls he prayeth, and causeth sacrifice to be offered."

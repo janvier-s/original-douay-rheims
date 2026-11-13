@@ -527,7 +527,13 @@
         },
         {
           "verse": 32,
-          "text": "but he that knoweth all things, knoweth her, & hath found her out by his prudence: he that prepared the earth in time everlasting, and replenished it with cattle, and fourfooted beasts:"
+          "text": "but he that knoweth all things, knoweth her, & hath found her out by his prudence: he that prepared the earth in time everlasting, and replenished it with cattle, and fourfooted beasts:",
+          "cross_refs": [
+            {
+              "text": "Deut. 30. v. 11. Mat. 11. v. 30. 1. Ioa. 5. v. 3.",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 33,
@@ -631,7 +637,13 @@
         },
         {
           "verse": 15,
-          "text": "For he hath brought upon them a nation from afar, a wicked nation, and of another tongue:"
+          "text": "For he hath brought upon them a nation from afar, a wicked nation, and of another tongue:",
+          "cross_refs": [
+            {
+              "text": "Deut. 28. v. 49. Iere. 5. v. 15.",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 16,
@@ -783,7 +795,7 @@
           "text": "For God will bring Israel with joyfulness in the light of his majesty, with mercy, and justice, which is of him."
         }
       ],
-      "summary": "Jeremie by his epistle forewarneth the Jews, that they shall be captives in Babylon: and after seventy years shall be released: 3. exhorting them all that time to avoid idolatry: 7. largely shewing the vanity of idols."
+      "summary": "A consolatory prophecy to Jerusalem, that her children shall be reduced with joy from captivity."
     },
     {
       "chapter": 6,
@@ -794,6 +806,13 @@
           "cross_refs": [
             {
               "text": "Iere. 25. v. 8. 9. &c."
+            }
+          ],
+          "notes": [
+            {
+              "label": "a",
+              "text": "Jeremie wrote this Epistle before the common people were in Babylon, but Baruch read it unto them in Babylon, and so it was sent back to the rest, which were yet in Jerusalem.",
+              "kind": "gloss"
             }
           ]
         },
@@ -1117,7 +1136,8 @@
           "verse": 72,
           "text": "Better is therefore the just man, that hath not idols: for he shall be far from reproaches."
         }
-      ]
+      ],
+      "summary": "Jeremie by his epistle forewarneth the Jews, that they shall be captives in Babylon: and after seventy years shall be released: 3. exhorting them all that time to avoid idolatry: 7. largely shewing the vanity of idols."
     }
   ]
 }

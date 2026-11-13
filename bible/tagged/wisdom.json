@@ -1296,7 +1296,7 @@
           "notes": [
             {
               "label": "d",
-              "text": "Man's wisdom without special wisdom from God is not",
+              "text": "Man's wisdom without special wisdom from God is not sufficient to govern ourselves, much less others.",
               "kind": "gloss"
             }
           ]
@@ -1372,6 +1372,12 @@
         {
           "verse": 4,
           "text": "For whose cause, when water destroyed the earth, wisdom healed it again, governing <na>(c)</na> the just by contemptible wood.",
+          "cross_refs": [
+            {
+              "text": "Gen. 6.",
+              "source": "sancta"
+            }
+          ],
           "notes": [
             {
               "label": "c",
@@ -1397,6 +1403,12 @@
         {
           "verse": 6,
           "text": "She delivered <na>(e)</na> the just, fleeing from the impious that perished, when the fire came down upon Pentapolis:",
+          "cross_refs": [
+            {
+              "text": "Gen. 19.",
+              "source": "sancta"
+            }
+          ],
           "notes": [
             {
               "label": "e",
@@ -1659,7 +1671,7 @@
           "notes": [
             {
               "label": "g",
-              "text": "Ægyptians serving beasts for gods, where plagued by",
+              "text": "Ægyptians serving beasts for gods, were plagued by frogs, sciniphs, flies, and locusts.",
               "kind": "gloss"
             }
           ]
@@ -1971,6 +1983,10 @@
           "cross_refs": [
             {
               "text": "Ier. 10."
+            },
+            {
+              "text": "Isa. 44.",
+              "source": "sancta"
             }
           ],
           "xrefs": [
@@ -2532,7 +2548,7 @@
           "notes": [
             {
               "label": "a",
-              "text": "Literally the Ægyptians had darkness three days together. <i>Exo. 10. v. 22.</i>",
+              "text": "Literally the Ægyptians had darkness three days together. <i>Exo. 10. v. 22.</i> Morally they & other gentiles were in darkness without faith in God, till Christ's Resurrection the third day. · Exo. 10.",
               "kind": "gloss"
             }
           ]

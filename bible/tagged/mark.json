@@ -705,11 +705,15 @@
         },
         {
           "verse": 29,
-          "text": "But he that shall blaspheme against the Holy Ghost, he hath not forgiveness for ever, but shall be guilty of an eternal sin. Because they said: He hath an unclean spirit.",
+          "text": "But he that shall blaspheme against the Holy Ghost, he hath not forgiveness for ever, but shall be guilty of an eternal sin.",
           "has_annotation": true
         },
         {
           "verse": 30,
+          "text": "Because they said: He hath an unclean spirit."
+        },
+        {
+          "verse": 31,
           "text": "And <cr>[1]</cr> there come his mother and brethren; and standing without they sent unto him calling him,",
           "cross_refs": [
             {
@@ -718,15 +722,11 @@
           ]
         },
         {
-          "verse": 31,
-          "text": "And the multitude sat about him; and they say to him:",
+          "verse": 32,
+          "text": "And the multitude sat about him; and they say to him: Behold thy mother and thy brethren without seek thee.",
           "xrefs": [
             "Mt. 12, 46. · Lu. 8, 19."
           ]
-        },
-        {
-          "verse": 32,
-          "text": "Behold thy mother and thy brethren without seek thee."
         },
         {
           "verse": 33,

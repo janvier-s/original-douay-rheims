@@ -452,6 +452,10 @@
           "cross_refs": [
             {
               "text": "Ioel. 2, 28."
+            },
+            {
+              "text": "Ioël. 2, 28.",
+              "source": "sancta"
             }
           ],
           "xrefs": [
@@ -3145,10 +3149,6 @@
           "cross_refs": [
             {
               "text": "Iud. 1. Reg. 8."
-            },
-            {
-              "text": "1. Reg. 8",
-              "source": "sancta"
             }
           ]
         },
@@ -3524,10 +3524,6 @@
           "cross_refs": [
             {
               "text": "Act, 13, 2."
-            },
-            {
-              "text": "Act. 13, 2",
-              "source": "sancta"
             }
           ]
         },

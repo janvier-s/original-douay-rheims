@@ -68,10 +68,6 @@
           "cross_refs": [
             {
               "text": "Gen. 21. 25. 29. 38."
-            },
-            {
-              "text": "Gen. 21, 25, 29",
-              "source": "sancta"
             }
           ]
         },
@@ -443,10 +439,6 @@
           "cross_refs": [
             {
               "text": "Mr. 1, 4. Luc. 3, 3."
-            },
-            {
-              "text": "Luke 3",
-              "source": "sancta"
             }
           ],
           "notes": [
@@ -1314,7 +1306,7 @@
         },
         {
           "verse": 26,
-          "text": "Behold the fowls of the air, that they sow not, neither reap, nor gather into barns: and your heavenly father feedeth them."
+          "text": "Behold the fowls of the air, that they sow not, neither reap, nor gather into barns: and your heavenly father feedeth them. Are not you much more of price than they?"
         },
         {
           "verse": 27,
@@ -1561,10 +1553,6 @@
           "cross_refs": [
             {
               "text": "Mr. 1, 40. Lu. 5, 12."
-            },
-            {
-              "text": "Mark 1 Luke 5",
-              "source": "sancta"
             }
           ],
           "xrefs": [
@@ -1582,10 +1570,6 @@
           "cross_refs": [
             {
               "text": "Lev. 14, 2."
-            },
-            {
-              "text": "Levit. 14",
-              "source": "sancta"
             }
           ],
           "xrefs": [
@@ -1674,10 +1658,6 @@
           "cross_refs": [
             {
               "text": "Esa. 53, 4. 1. Pet. 2, 24. Lu. 9, 57."
-            },
-            {
-              "text": "Isaias 53",
-              "source": "sancta"
             }
           ],
           "xrefs": [
@@ -1758,10 +1738,6 @@
           "cross_refs": [
             {
               "text": "Mr. 5, 1. Luc. 8, 26."
-            },
-            {
-              "text": "Mark 5",
-              "source": "sancta"
             }
           ],
           "xrefs": [
@@ -4085,7 +4061,7 @@
         },
         {
           "verse": 14,
-          "text": "And <cr>[1]</cr> when he was come unto the multitude, there came to him a man falling down upon his knees before him, saying: Lord have mercy upon my Son, for he is lunatic, and sore vexed: for he falleth often into the fire, and often into the water.",
+          "text": "And <cr>[1]</cr> when he was come unto the multitude, there came to him a man falling down upon his knees before him,",
           "cross_refs": [
             {
               "text": "Mar. 9, 14. Luc. 9, 37."
@@ -4097,33 +4073,37 @@
         },
         {
           "verse": 15,
-          "text": "And I offered him to thy Disciples, and they could not cure him."
+          "text": "saying: Lord have mercy upon my Son, for he is lunatic, and sore vexed: for he falleth often into the fire, and often into the water."
         },
         {
           "verse": 16,
-          "text": "<sc>Jesus</sc> answered and said: O faithless and perverse generation, how long shall I be with you? How long shall I suffer you? Bring him hither to me."
+          "text": "And I offered him to thy Disciples, and they could not cure him."
         },
         {
           "verse": 17,
-          "text": "And <sc>Jesus</sc> rebuked him, and the devil went out of him, and the lad was cured from that hour."
+          "text": "<sc>Jesus</sc> answered and said: O faithless and perverse generation, how long shall I be with you? How long shall I suffer you? Bring him hither to me."
         },
         {
           "verse": 18,
+          "text": "And <sc>Jesus</sc> rebuked him, and the devil went out of him, and the lad was cured from that hour."
+        },
+        {
+          "verse": 19,
           "text": "Then came the Disciples to <sc>Jesus</sc> secretly, and said: Why could we not cast him out?",
           "has_annotation": true
         },
         {
-          "verse": 19,
+          "verse": 20,
           "text": "<sc>Jesus</sc> said to them, because of your incredulity: For, Amen I say to you, if you have faith as a mustard seed, you shall say to this mountain, Remove from thence thither, and it shall remove; and nothing shall be impossible to you.",
           "has_annotation": true
         },
         {
-          "verse": 20,
+          "verse": 21,
           "text": "But this kind is not cast out but by prayer and fasting.",
           "has_annotation": true
         },
         {
-          "verse": 21,
+          "verse": 22,
           "text": "And <cr>[1]</cr> when they conversed in Galilee, <sc>Jesus</sc> said to them: The Son of man is to be betrayed into the hands of men:",
           "cross_refs": [
             {
@@ -4132,14 +4112,14 @@
           ]
         },
         {
-          "verse": 22,
+          "verse": 23,
           "text": "and they shall kill him, and the third day he shall rise again. And they were stroken sad exceedingly.",
           "xrefs": [
             "Mr. 9, 31 · Luc. 9, 44."
           ]
         },
         {
-          "verse": 23,
+          "verse": 24,
           "text": "And when they were come to Capharnaum, there came they that received the didrachmes, unto Peter, and said to him: Your master doth he not pay the <na>[1]</na> didrachmes?",
           "notes": [
             {
@@ -4150,16 +4130,16 @@
           ]
         },
         {
-          "verse": 24,
+          "verse": 25,
           "text": "He saith, Yes. And when he was entered into the house, <sc>Jesus</sc> prevented him, saying: What is thy opinion Simon? The kings of the earth, of whom receive they tribute or cense? Of their children, or of strangers?"
         },
         {
-          "verse": 25,
+          "verse": 26,
           "text": "And he said: Of strangers. <sc>Jesus</sc> said to him: Then the children are free.",
           "has_annotation": true
         },
         {
-          "verse": 26,
+          "verse": 27,
           "text": "But that we may not scandalize them, go thy ways to the sea, and cast a hook: and that fish which shall first come up, take: and when thou hast opened his mouth, thou shalt find a <na>[1]</na> stater: take that, and give it them for me and thee.",
           "has_annotation": true,
           "notes": [
@@ -7005,10 +6985,6 @@
           "cross_refs": [
             {
               "text": "Zach. 11, 12."
-            },
-            {
-              "text": "Zach. 11, 11",
-              "source": "sancta"
             }
           ],
           "xrefs": [

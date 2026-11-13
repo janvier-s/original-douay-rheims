@@ -2433,7 +2433,7 @@
           "notes": [
             {
               "label": "a",
-              "text": "This image of a serpent not only when it wrought miraculous health, but also long after was worthily reserved",
+              "text": "This image of a serpent not only when it wrought miraculous health, but also long after was worthily reserved in memory of the benefit: but when the people offered sacrifice unto it, which is proper to God only, good Ezechias did laudably break it. And to show that there was no deity in it: called it Nohestan, that is, a piece of brass. And so in the Catholic Church when any holy Relic or Image is abused, it is taken away, or the error otherwise corrected. See S. Aug. li. 10. c. 8. ciuit. Ser. 14 de verb. Apost. & 101. de temp.",
               "kind": "gloss"
             },
             {
@@ -3148,7 +3148,13 @@
         },
         {
           "verse": 13,
-          "text": "The excelses also that were in Jerusalem, on the right side of the Mount of offence, which Salomon the king of Israel had built to Astaroth the idol of the Sidonians, and to Chamos the scandal of Moab, and to Melchom the abomination of the children of Ammon, the king destroyed."
+          "text": "The excelses also that were in Jerusalem, on the right side of the Mount of offence, which Salomon the king of Israel had built to Astaroth the idol of the Sidonians, and to Chamos the scandal of Moab, and to Melchom the abomination of the children of Ammon, the king destroyed.",
+          "cross_refs": [
+            {
+              "text": "3. Reg. 11.",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 14,
@@ -3160,7 +3166,13 @@
         },
         {
           "verse": 16,
-          "text": "And Josias turning, saw there sepulchres, that were in the mount: and he sent & took the bones out of the sepulchres, and burnt them upon the altar, & polluted it according to the word of our Lord, which the man of God spake, who had foretold these things."
+          "text": "And Josias turning, saw there sepulchres, that were in the mount: and he sent & took the bones out of the sepulchres, and burnt them upon the altar, & polluted it according to the word of our Lord, which the man of God spake, who had foretold these things.",
+          "cross_refs": [
+            {
+              "text": "3. Reg. 13.",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 17,

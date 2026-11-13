@@ -73,7 +73,7 @@
           "notes": [
             {
               "label": "b",
-              "text": "Men's souls daily created are of the same kind as Adam's soul: other creatures either were in their kinds from",
+              "text": "Men's souls daily created are of the same kind as Adam's soul: other creatures either were in their kinds from the beginning of the world, or are procreated of divers kinds preexisting. S. Tho. p. 1. q. 73. a. 1. ad. 3.",
               "kind": "gloss"
             }
           ]
@@ -476,7 +476,11 @@
         },
         {
           "verse": 17,
-          "text": "Take heed to keep thy foot, when thou enterest into the house of God, and approach thou to hear. <cr>[1]</cr> For much better is obedience, than the victims of fools, who know not what evil they do.",
+          "text": "Take heed to keep thy foot, when thou enterest into the house of God, and approach thou to hear."
+        },
+        {
+          "verse": 18,
+          "text": "<cr>[1]</cr> For much better is obedience, than the victims of fools, who know not what evil they do.",
           "cross_refs": [
             {
               "text": "1. Reg. 15. Osee 6."

@@ -133,7 +133,11 @@
         },
         {
           "verse": 23,
-          "text": "And I call God to witness upon my soul, that sparing you, I came not any more to Corinth, not because we over-rule your faith: but, we are helpers of your joy. For in the faith you stand.",
+          "text": "And I call God to witness upon my soul, that sparing you, I came not any more to Corinth,"
+        },
+        {
+          "verse": 24,
+          "text": "not because we over-rule your faith: but, we are helpers of your joy. For in the faith you stand.",
           "has_annotation": true
         }
       ],

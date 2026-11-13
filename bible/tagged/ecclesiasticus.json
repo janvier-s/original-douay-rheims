@@ -426,6 +426,10 @@
           "cross_refs": [
             {
               "text": "Gen. 27. & 49."
+            },
+            {
+              "text": "Deut. 27.",
+              "source": "sancta"
             }
           ]
         },
@@ -567,10 +571,6 @@
           "cross_refs": [
             {
               "text": "Dan. 4. v. 24."
-            },
-            {
-              "text": "Dan. 4",
-              "source": "sancta"
             }
           ]
         },
@@ -3591,7 +3591,7 @@
           "notes": [
             {
               "label": "b",
-              "text": "In this and other places is not understood a fool that by defect of natural wit is ignorant, or an idiot, but he that is void of grace, full of malice, and wickedness.",
+              "text": "In this and other places is not understood a fool that by defect of natural wit is ignorant, or an idiot, but he that is void of grace, full of malice, and wickedness. For the wicked life of such a one is worse than his death. 7. 11.",
               "kind": "gloss"
             }
           ]
@@ -3619,7 +3619,7 @@
               "text": "Gen. 50. Pro. 27."
             },
             {
-              "text": "Prov. 23",
+              "text": "Gen 50. Prou. 23.",
               "source": "sancta"
             }
           ]
@@ -3818,11 +3818,16 @@
         },
         {
           "verse": 15,
-          "text": "There is another <na>(d)</na> contrary speech, also to death, be it not found in the inheritance of Jacob.",
+          "text": "There is another <na>(d)</na> contrary speech, also <na>[1]</na> to death, be it not found in the inheritance of Jacob.",
           "notes": [
             {
               "label": "d",
               "text": "In oaths God is called to witness as he that cannot lie, but blasphemy attributeth that to God which perceiveth not to him or attributeth to some creature that which only belongeth to God, and so is a contrary sin to unlawful swearing. Both are mortal sins.",
+              "kind": "gloss"
+            },
+            {
+              "label": "1",
+              "text": "Both are mortal sins.",
               "kind": "gloss"
             }
           ]
@@ -4791,6 +4796,12 @@
         {
           "verse": 1,
           "text": "He <na>(a)</na> that will be revenged, shall find revenge of our Lord, and keeping he will keep his sin.",
+          "cross_refs": [
+            {
+              "text": "Luc. 6.",
+              "source": "sancta"
+            }
+          ],
           "notes": [
             {
               "label": "a",
@@ -5039,11 +5050,7 @@
         },
         {
           "verse": 15,
-          "text": "Shut up alms in the heart of the poor, and the same shall obtain for thee against all evil."
-        },
-        {
-          "verse": 16,
-          "text": "<cr>[1]</cr> The alms a man giveth is as a purse with him: it will conserve his grace as the ball of the eye.",
+          "text": "Shut up alms in the heart of the poor, and the same shall obtain for thee against <cr>[1]</cr> all evil.",
           "cross_refs": [
             {
               "text": "Tob. 4."
@@ -5051,47 +5058,47 @@
           ]
         },
         {
+          "verse": 16,
+          "text": "Above the shield of the mighty,"
+        },
+        {
           "verse": 17,
-          "text": "And furthermore will raise up and render reward to every one upon their heads."
+          "text": "& above the spear, it shall fight against thine enemy."
         },
         {
           "verse": 18,
-          "text": "Above the shield of the mighty, & above the spear, it shall fight against thine enemy."
-        },
-        {
-          "verse": 19,
           "text": "A good man becometh surety for his neighbour: and he that hath lost shame, will leave him to himself."
         },
         {
-          "verse": 20,
+          "verse": 19,
           "text": "Forget not the kindness of a surety: for he hath given his life for thee."
         },
         {
-          "verse": 21,
+          "verse": 20,
           "text": "The sinner and unclean person flyeth from his surety."
         },
         {
-          "verse": 22,
+          "verse": 21,
           "text": "A sinner counteth the goods of his surety to himself: and unthankful in mind, will forsake him that delivered him."
         },
         {
-          "verse": 23,
+          "verse": 22,
           "text": "Aman is surety for his neighbour: and when he hath lost shame, he shall be forsaken of him."
         },
         {
-          "verse": 24,
+          "verse": 23,
           "text": "Naughty suretyship hath undone many that were in good case, and hath tossed them as a wave of the sea."
         },
         {
-          "verse": 25,
+          "verse": 24,
           "text": "Whurling round about, it hath made mighty men to remove, and they have wandered in strange nations."
         },
         {
-          "verse": 26,
+          "verse": 25,
           "text": "A sinner that transgresseth the commandment of our Lord, shall fall into naughty suretyship: and he that endeavoureth to do many things, shall fall into judgement."
         },
         {
-          "verse": 27,
+          "verse": 26,
           "text": "Recover thy neighbour according to thy power, and <na>(c)</na> take heed to thyself that thou fall not.",
           "notes": [
             {
@@ -5102,35 +5109,35 @@
           ]
         },
         {
-          "verse": 28,
+          "verse": 27,
           "text": "The beginning of man's life water & bread, and garment, and house covering his turpitude."
         },
         {
-          "verse": 29,
+          "verse": 28,
           "text": "Better is the poor man's fare under a roof of boards, than sumptuous cheer in a strange place without a house."
         },
         {
-          "verse": 30,
+          "verse": 29,
           "text": "Let the least thing please thee in stead of a great, and thou shalt not hear the reproach of peregrination."
         },
         {
-          "verse": 31,
+          "verse": 30,
           "text": "It is a naughty life to change lodging from house to house: and where he shall lodge, he shall not deal boldly, nor open his mouth."
         },
         {
-          "verse": 32,
+          "verse": 31,
           "text": "He shall lodge, and feed, and make the unthankful drink, and beside these things he shall hear bitter words."
         },
         {
-          "verse": 33,
+          "verse": 32,
           "text": "Pass thou stranger & furnish the table, & with the things thou hast in thy hand, feed the rest."
         },
         {
-          "verse": 34,
+          "verse": 33,
           "text": "Depart from the presence of the honour of my friends: for the necessity of my house my brother is to be lodged with me."
         },
         {
-          "verse": 35,
+          "verse": 34,
           "text": "These things be grievous to a man that hath understanding: rebuke for the house, and the reproach of the lender."
         }
       ],
@@ -6025,25 +6032,17 @@
         },
         {
           "verse": 2,
-          "text": "It is an wholesome sacrifice to attend to the commandments, and to depart from all iniquity."
-        },
-        {
-          "verse": 3,
-          "text": "And to offer propitiation by sacrifice for injustices, and to retire from injustice is prayer for sins."
-        },
-        {
-          "verse": 4,
-          "text": "He who offereth the flour of wheat, shall give thanks: and he that is merciful offereth sacrifice.",
+          "text": "It is an wholesome sacrifice to attend to the commandments, and to depart from all iniquity.",
           "xrefs": [
             "Exo. 23. & 34. Deut. 16."
           ]
         },
         {
-          "verse": 5,
+          "verse": 3,
           "text": "To depart from iniquity is a thing that pleaseth our Lord well, and to depart from injustice is an entreating for sins."
         },
         {
-          "verse": 6,
+          "verse": 4,
           "text": "<na>(b)[1]</na> Thou shalt not appear before the sight of our Lord empty.",
           "notes": [
             {
@@ -6059,23 +6058,23 @@
           ]
         },
         {
-          "verse": 7,
+          "verse": 5,
           "text": "For all these things are done because of the commandment of God."
         },
         {
-          "verse": 8,
+          "verse": 6,
           "text": "The oblation of the just maketh a fat altar, and is an odour of sweetness in the sight of the Highest."
         },
         {
-          "verse": 9,
+          "verse": 7,
           "text": "The sacrifice of the just is acceptable, and our Lord will not forget the memory thereof."
         },
         {
-          "verse": 10,
+          "verse": 8,
           "text": "Render glory to God with a good mind: and diminish not the first fruits of thine hands."
         },
         {
-          "verse": 11,
+          "verse": 9,
           "text": "In every gift make thy countenance cheerful, and in joyfulness sanctify thy tithes. <cr>[1]</cr>",
           "cross_refs": [
             {
@@ -6084,14 +6083,14 @@
           ]
         },
         {
-          "verse": 12,
+          "verse": 10,
           "text": "Give to the Highest according to his gift, and with a good eye do according to the ability of thine hands:",
           "xrefs": [
             "Leuit. 22. Deut. 15."
           ]
         },
         {
-          "verse": 13,
+          "verse": 11,
           "text": "because our Lord is a rewarder, and will repay thee <na>(c)</na> seven times so much.",
           "notes": [
             {
@@ -6102,7 +6101,7 @@
           ]
         },
         {
-          "verse": 14,
+          "verse": 12,
           "text": "<cr>[1]</cr> Offer not wicked gifts, for he will not receive them.",
           "cross_refs": [
             {
@@ -6111,11 +6110,11 @@
           ]
         },
         {
-          "verse": 15,
+          "verse": 13,
           "text": "And look not upon an unjust sacrifice, because our Lord is judge, and there is not with him the glory of person."
         },
         {
-          "verse": 16,
+          "verse": 14,
           "text": "<cr>[1]</cr> Our Lord will not accept person against the poor, and he will hear the prayer of him that is hurt.",
           "cross_refs": [
             {
@@ -6124,43 +6123,43 @@
           ]
         },
         {
-          "verse": 17,
+          "verse": 15,
           "text": "He will not despise the prayers of the pupil: nor the widow, if she pour out speech of mourning."
         },
         {
-          "verse": 18,
+          "verse": 16,
           "text": "Do not the widow's tears run down the cheek, & her exclamation upon him that causeth them to run?"
         },
         {
-          "verse": 19,
+          "verse": 17,
           "text": "For from the cheek they go up even to heaven, and our Lord the hearer will not be delighted in them."
         },
         {
-          "verse": 20,
+          "verse": 18,
           "text": "He that adoreth God in delectation, shall be received, & his petition shall approach even to the clouds."
         },
         {
-          "verse": 21,
+          "verse": 19,
           "text": "The prayer of him that humbleth himself, shall penetrate the clouds: and till it approach he will not be comforted: and he will not depart till the Highest behold."
         },
         {
-          "verse": 22,
+          "verse": 20,
           "text": "And our Lord will not be long, but will judge the just, and will do judgement: and the strongest will not have patience in them, that he may crush their back:"
         },
         {
-          "verse": 23,
+          "verse": 21,
           "text": "and he will repay vengeance to the Gentiles, till he take away the multitude of the proud: & break the sceptres of the unjust,"
         },
         {
-          "verse": 24,
+          "verse": 22,
           "text": "till he reward men according to their doings: and according to the works of Adam, and according to his presumption."
         },
         {
-          "verse": 25,
+          "verse": 23,
           "text": "till he judge the judgement of his people, and shall delight the just with his mercy:"
         },
         {
-          "verse": 26,
+          "verse": 24,
           "text": "The mercy of God is beautiful in the time of tribulation, as a cloud of rain in the time of drought."
         }
       ],
@@ -6652,7 +6651,7 @@
           "notes": [
             {
               "label": "d",
-              "text": "When pastors have leisure from preaching, they may then profit others by writing. So S. Paul, not only preached,",
+              "text": "When pastors have leisure from preaching, they may then profit others by writing. So S. Paul, not only preached, but also writ. So likewise the Doctors of the Church and other holy Fathers.",
               "kind": "gloss"
             }
           ]
@@ -7412,7 +7411,7 @@
           "notes": [
             {
               "label": "a",
-              "text": "Of all senseless creatures, yea & of sensible also, that have not reason, the sun is most excellent. Of which all corporal creatures receive their light: & by whose influence all generation of creatures proceedeth: whereof is this Maxim in Philosophy, that <i>The sun and man beget a man.</i> And Aristotel calleth the sun the father of men and of gods.",
+              "text": "Of all senseless creatures, yea & of sensible also, that have not reason, the sun is most excellent. Of which all corporal creatures receive their light: & by whose influence all generation of creatures proceedeth: whereof is this Maxim in Philosophy, that <i>The sun and man beget a man.</i> And Aristotel calleth the sun the father of men and of gods. li. 2. de anima. But the faithful know it is a creature inferior to man, in respect of his reasonable soul, and in them both & in all other creatures, acknowledge superexcellent & infinite Majesty in God.",
               "kind": "gloss"
             }
           ]
@@ -7762,7 +7761,13 @@
         },
         {
           "verse": 4,
-          "text": "In his faith and meekness he made him holy, and chose him of all flesh."
+          "text": "In his faith and meekness he made him holy, and chose him of all flesh.",
+          "cross_refs": [
+            {
+              "text": "Num. 1.",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 5,
@@ -8025,10 +8030,6 @@
           "cross_refs": [
             {
               "text": "1. Reg. 17."
-            },
-            {
-              "text": "1. Reg. 1",
-              "source": "sancta"
             }
           ]
         },
@@ -8084,6 +8085,12 @@
         {
           "verse": 23,
           "text": "And after this he slept, and <na>(e)[1]</na> he notified to the king, and shewed him the end of his life, and he exalted his voice out of the earth in prophecy, to take clean away the impiety of the nation.",
+          "cross_refs": [
+            {
+              "text": "Reg. 18.",
+              "source": "sancta"
+            }
+          ],
           "notes": [
             {
               "label": "e",

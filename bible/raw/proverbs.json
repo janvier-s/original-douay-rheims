@@ -132,7 +132,7 @@
             },
             {
               "label": "d",
-              "text": "shall be fit to govern.",
+              "text": "shall be fit to govern. others.",
               "kind": "gloss"
             }
           ]
@@ -627,7 +627,7 @@
         },
         {
           "verse": 3,
-          "text": "For I also was the son of my father, tender and as the only-begotten in my mother's sight:",
+          "text": "For I also was the son of my father, tender and as only begotten in my mother's sight:",
           "notes": [
             {
               "label": "a",
@@ -744,7 +744,15 @@
         },
         {
           "verse": 27,
-          "text": "Decline not to the right hand, nor to the left: turn away thy foot from evil. For our Lord knoweth the ways that are on the right hand: but those are perverse, which are on the left hand. But he will make thy courses right, and thy ways he will bring forward in peace."
+          "text": "Decline not to the right hand, nor to the left: turn away thy foot from evil."
+        },
+        {
+          "verse": 28,
+          "text": "For our Lord knoweth the ways that are on the right hand: but those are perverse, which are on the left hand."
+        },
+        {
+          "verse": 29,
+          "text": "But he will make thy courses right, and thy ways he will bring forward in peace."
         }
       ],
       "summary": "The wiseman exhorteth others by his own example to seek wisdom. 14. to decline from the wicked, and to imitate the just, 23. to guide well the heart, mouth, and feet."
@@ -1365,7 +1373,7 @@
           "text": "but he that shall sin against me, shall hurt his own soul. All that hate me, love death."
         }
       ],
-      "summary": "Wisdom having built her house with seven pillars, inviteth all to a prepared banquet: 11. promising to multiply joyful days. 12. Folly inciteth to her contrary"
+      "summary": "Wisdom is preached in conspicuous and most frequented places, that none may pretend want of admonition, 7. her doctrine is true, godly, profitable, and necessary to all sorts of men. 12. wisdom (increated which is God himself) is eternal. 32. and bringeth eternal happiness."
     },
     {
       "chapter": 9,
@@ -1412,7 +1420,7 @@
           "notes": [
             {
               "label": "b",
-              "text": "Where is no hope of amendment prudence directeth us not to admonish, nor rebuke sinners, lest without any fruit we procure enmity, charity also requireth rather to expect",
+              "text": "Where is no hope of amendment prudence directeth us not to admonish, nor rebuke sinners, lest without any fruit we procure enmity, charity also requireth rather to expect better opportunity, lest the offender become worse by our admonition.",
               "kind": "gloss"
             },
             {
@@ -1463,7 +1471,7 @@
           "text": "And he was ignorant that giants are there, and her guests in the depths of hell."
         }
       ],
-      "summary": "banquet of stolen water and hid bread.",
+      "summary": "Wisdom having built her house with seven pillars, inviteth all to a prepared banquet: 11. promising to multiply joyful days. 12. Folly inciteth to her contrary banquet of stolen water and hid bread.",
       "summary_continuation": {
         "text": "banquet of stolen water and hid bread."
       }
@@ -2017,7 +2025,7 @@
         },
         {
           "verse": 17,
-          "text": "A merciful man doth good to his kindred also. Benefacit animæ suæ vir misericors; qui autem crudelis est, etiam propinquos abjicit.",
+          "text": "A merciful man doth good to his kindred also.",
           "notes": [
             {
               "label": "1",
@@ -5573,7 +5581,14 @@
         },
         {
           "verse": 5,
-          "text": "Armour and swords in the way of the perverse: but the keeper of his own soul departeth far from them."
+          "text": "Armour and swords in the way of the perverse: but the keeper of his own soul departeth far from them.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "Care of the soul's health.",
+              "kind": "gloss"
+            }
+          ]
         },
         {
           "verse": 6,
@@ -6812,6 +6827,12 @@
         {
           "verse": 11,
           "text": "As a dog that returneth to his vomit, so the unwise that reiterateth his folly.",
+          "cross_refs": [
+            {
+              "text": "2. Pet. 2.",
+              "source": "sancta"
+            }
+          ],
           "notes": [
             {
               "label": "1",

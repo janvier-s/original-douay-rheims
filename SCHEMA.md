@@ -27,19 +27,19 @@ index/lemmas/<book>.json         derived: catchword spans into the tagged text
 |---|---|
 | Books | 76 |
 | Chapters | 1,361 |
-| Verses in the corpus | 37,195 |
-| Verse entries in the JSON trees | 37,146 |
-| `\v` lines emitted in USFM | 37,145 |
+| Verses in the corpus | 37,201 |
+| Verse entries in the JSON trees | 37,152 |
+| `\v` lines emitted in USFM | 37,151 |
 | Annotations | 1,521 (in 397 files) |
 | Annotation sub-notes | 3,606 |
 | Reference documents | 34 |
 
 The three differ for two reasons. 49 fragments the corpus numbers as verse 0
 are not scripture and are folded into the summary they complete (see *Verse 0*),
-which accounts for the JSON trees holding 37,146 entries. The USFM drops one
-more because the duplicate verse in 3 Esdras 2 is emitted as a segment rather
-than a second `\v` line. `manifest.json` reports the corpus figure as `verses`
-and the USFM figure as `usfmVerses`.
+which accounts for the JSON trees holding 37,152 entries. The USFM drops one
+more because the Tobias heading the corpus files as chapter 0 is emitted as an
+introduction paragraph (`\ip`) rather than a `\v` line. `manifest.json` reports
+the corpus figure as `verses` and the USFM figure as `usfmVerses`.
 
 ## Book file shape
 
@@ -483,14 +483,9 @@ cannot bind leaves the same 13,606. Every note and every marker is accounted for
 
 ### The duplicate verse in 3 Esdras 2
 
-`3-esdras` chapter 2 numbers two entries `1`: two readings of one verse,
-differing in capitalisation, the second trailing malformed cross-reference
-residue. It is the only repeated verse number in the corpus.
-
-Which reading is canonical is an editorial judgment about scripture, so the
-export makes no choice: the first keeps `\v 1`, the second becomes `\v 1b`.
-**The segment letter records a corpus defect. It is not a claim that the printed
-text divides this verse.**
+Earlier releases carried two entries numbered `1` in `3-esdras` chapter 2, and
+the export emitted the second as `\v 1b`. The corpus has since dropped the
+duplicate, so no verse number repeats and no segment letters are emitted.
 
 ### Verse 0
 

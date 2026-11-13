@@ -2185,7 +2185,14 @@
         },
         {
           "verse": 26,
-          "text": "King Salomon also made a name in Asiongaber, which is beside Ailath in the shore of the Redsea in the Land of Idumea."
+          "text": "King Salomon also made <na>(c)</na> a name in Asiongaber, which is beside Ailath in the shore of the Redsea in the Land of Idumea.",
+          "notes": [
+            {
+              "label": "c",
+              "text": "a monument.",
+              "kind": "gloss"
+            }
+          ]
         },
         {
           "verse": 27,

@@ -61,6 +61,11 @@
               "label": "1",
               "text": "The first part. The occasion of the Jews' persecution at this time.",
               "kind": "head"
+            },
+            {
+              "label": "2",
+              "text": "This book is read at Matins the fourth week of September.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -123,7 +128,7 @@
           ]
         }
       ],
-      "summary": "Nabuchodonosor sendeth Holofernes his General to waste all countries of the west, 7. with a great army, and aboundant munition. 11. They subdue many places, and others are strucken with great fear."
+      "summary": "Nabuchodonosor king of Assyrians overcometh Arphaxad king of the Medes: 7. summoneth many other nations to submit themselves to his Empire: 11. which they refusing he threateneth revenge."
     },
     {
       "chapter": 2,
@@ -207,7 +212,8 @@
           "verse": 18,
           "text": "and the fear of him fell upon all the inhabitants of the land."
         }
-      ]
+      ],
+      "summary": "Nabuchodonosor sendeth Holofernes his General to waste all countries of the west, 7. with a great army, and aboundant munition. 11. They subdue many places, and others are strucken with great fear."
     },
     {
       "chapter": 3,
@@ -373,7 +379,7 @@
           "text": "And they all prayed God with all their heart, that he would visit his people Israel."
         }
       ],
-      "summary": "Holofernes hearing that the Israelites prepare to resist him, in great rage demandeth diverse particulars concerning that people. 5. Achior an Ammonite telleth the marvelous works of God towards them, 22. adviseth him not to fight against them. 26. The chief captains are offended, and threaten Achior."
+      "summary": "The children of Israel exceedingly fearing Holofernes forces, 3. provide to resist him, by the exhortation of the High priest, using both human, 8. and divine means."
     },
     {
       "chapter": 5,
@@ -507,6 +513,10 @@
           "cross_refs": [
             {
               "text": "Ios. 21."
+            },
+            {
+              "text": "Ios. 12.",
+              "source": "sancta"
             }
           ]
         },
@@ -565,7 +575,8 @@
           "verse": 29,
           "text": "that every nation may know that Nabuchodonosor is God of the earth, and besides him there is none other."
         }
-      ]
+      ],
+      "summary": "Holofernes hearing that the Israelites prepare to resist him, in great rage demandeth diverse particulars concerning that people. 5. Achior an Ammonite telleth the marvelous works of God towards them, 22. adviseth him not to fight against them. 26. The chief captains are offended, and threaten Achior."
     },
     {
       "chapter": 6,
@@ -1106,7 +1117,7 @@
           "text": "and all Nations may acknowledge that thou art God, and there is no other besides thee."
         }
       ],
-      "summary": "Judith excellently adorned, and very beautiful goeth with her handmaid towards the camp, 11. is taken by the watch, 16. and brought to Holofernes."
+      "summary": "Judith in haircloth and ashes prayeth for the delivery of the people, remembering like benefits of God. 12. craveth power to overthrow Holofernes."
     },
     {
       "chapter": 10,
@@ -1238,7 +1249,8 @@
           "verse": 20,
           "text": "and when she had looked in his face, she adored him, falling prostrate upon the ground. And the servants of Holofernes lifted her up, their lord commanding it."
         }
-      ]
+      ],
+      "summary": "Judith excellently adorned, and very beautiful goeth with her handmaid towards the camp, 11. is taken by the watch, 16. and brought to Holofernes."
     },
     {
       "chapter": 11,

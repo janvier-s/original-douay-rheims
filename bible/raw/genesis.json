@@ -269,6 +269,10 @@
           "cross_refs": [
             {
               "text": "Act. 14, 15. 17, 24."
+            },
+            {
+              "text": "Iob. 38. Ier. 10, 13.",
+              "source": "sancta"
             }
           ],
           "xrefs": [
@@ -3875,13 +3879,7 @@
           "text": "for our Lord had closed up every matrice of the house of Abimelech for Sara Abraham's wife."
         }
       ],
-      "summary": "Isaac is born, 4. circumcised, 8. and weaned. 9. Agar and Ismael are put forth of Abraham's house, 15. but after desolation are nourished, and prosper in the desert. 22. King Abimelech and Abraham make a league confirming it with oath.",
-      "summary_notes": [
-        {
-          "marker": 1,
-          "text": "The sixth part of this book."
-        }
-      ]
+      "summary": "Abraham sojourning in Geraris, his wife is taken into King Abimelech's house, but by God's commandment is restored untouched, 14. with great gifts, 17. and Abraham praying Abimelech's house is cured."
     },
     {
       "chapter": 21,
@@ -4058,6 +4056,13 @@
         {
           "verse": 34,
           "text": "And he was a sojourner in the land of the Palestines many days."
+        }
+      ],
+      "summary": "Isaac is born, 4. circumcised, 8. and weaned. 9. Agar and Ismael are put forth of Abraham's house, 15. but after desolation are nourished, and prosper in the desert. 22. King Abimelech and Abraham make a league confirming it with oath.",
+      "summary_notes": [
+        {
+          "marker": 1,
+          "text": "The sixth part of this book."
         }
       ]
     },
@@ -6655,7 +6660,7 @@
           "notes": [
             {
               "label": "b",
-              "text": "By the common opinion of Latin and Greek fathers this was holy Job, as we shall discuss when we come to his book",
+              "text": "By the common opinion of Latin and Greek fathers this was holy Job, as we shall discuss when we come to his book against the Hebrew doctors, who say Job was of Nachor's race.",
               "kind": "gloss"
             }
           ]

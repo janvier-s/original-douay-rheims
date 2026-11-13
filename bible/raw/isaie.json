@@ -299,7 +299,7 @@
           "notes": [
             {
               "label": "f",
-              "text": "The Rabbins understand those Judges and Priests that",
+              "text": "The Rabbins understand those Judges and Priests that governed the people after their deliverance from captivity: but S. Jerome expoundeth this and the like places of the Apostles and their successors.",
               "kind": "gloss"
             }
           ]
@@ -626,7 +626,7 @@
           "text": "And there shall be a tabernacle for a place of shadow in the day from the heat, and for security, and covert from the whirlwind, and from rain."
         }
       ],
-      "summary": "Under the figure of a barren vineyard, is prophesied the rejection of the Jews, 7. for their sins of avarice, 11. intemperance, & other wickedness, 18. one iniquity drawing another, 20. judging good to be evil, and evil good. 25. For which the Gentiles of diverse nations shall afflict them."
+      "summary": "After the destruction of the Jews, many women shall seek to marry with one man, 2. but the relics, repenting of their sins, shall return to God, 5. and flourish under his protection."
     },
     {
       "chapter": 5,
@@ -789,7 +789,8 @@
           "verse": 30,
           "text": "And it shall sound upon him in that day, as the sound of the sea: we shall look towards the earth, and behold darkness of tribulation, and the light is darkened in the mist thereof."
         }
-      ]
+      ],
+      "summary": "Under the figure of a barren vineyard, is prophesied the rejection of the Jews, 7. for their sins of avarice, 11. intemperance, & other wickedness, 18. one iniquity drawing another, 20. judging good to be evil, and evil good. 25. For which the Gentiles of diverse nations shall afflict them."
     },
     {
       "chapter": 6,
@@ -1120,7 +1121,7 @@
               "text": "Luc. 2. Rom. 9. 2. Pet. 2."
             },
             {
-              "text": "Romans 9. 1",
+              "text": "Romans 9. 1 Peter 2.",
               "source": "sancta"
             }
           ]
@@ -1638,13 +1639,7 @@
           "text": "Rejoice, and praise o habitation of Sion: because great in the midst of thee, is the holy one of Israel."
         }
       ],
-      "summary": "The Prophet foretelleth the calamity, and ruin of Babylon.",
-      "summary_notes": [
-        {
-          "marker": 1,
-          "text": "The 2. part. Ten prophetical comminations against so Many peoples."
-        }
-      ]
+      "summary": "A Canticle of thanks for the benefits of Christ."
     },
     {
       "chapter": 13,
@@ -1779,6 +1774,13 @@
         {
           "verse": 22,
           "text": "And the Syrach owls shall answer there in the houses thereof, and mermaids in the temples of pleasure."
+        }
+      ],
+      "summary": "The Prophet foretelleth the calamity, and ruin of Babylon.",
+      "summary_notes": [
+        {
+          "marker": 1,
+          "text": "The 2. part. Ten prophetical comminations against so Many peoples."
         }
       ]
     },
@@ -2030,7 +2032,7 @@
           "text": "Because the waters of Dibon are replenished with blood: for I will put additions upon Dibon: the lion for them that shall flee of Moab, and for the remnant of the land."
         }
       ],
-      "summary": "The Prophet prayeth for and prophesieth Christ's coming: 6. adding more of the affliction of the Moabites for their pride."
+      "summary": "Unexpected ruin shall fall upon the Moabites: 5. Whereof the Prophet hath compassion."
     },
     {
       "chapter": 16,
@@ -2110,7 +2112,8 @@
             }
           ]
         }
-      ]
+      ],
+      "summary": "The Prophet prayeth for and prophesieth Christ's coming: 6. adding more of the affliction of the Moabites for their pride."
     },
     {
       "chapter": 17,
@@ -2250,7 +2253,7 @@
           "text": "In that time shall a gift be brought to the Lord of hosts, of a people plucked asunder and rent in pieces: of a terrible people, after which there hath been none other, of a nation expecting and trodden under foot, whose land the floods have spoiled, to the place of the name of the Lord of hosts, mount Sion."
         }
       ],
-      "summary": "Further description of the Ægyptians' punishment, 17. with their conversion to Christ in the new Testament."
+      "summary": "The Egyptians, for alluring the two tribes to their confederacy, shall be afflicted, 7. and the Jews return to more sincere service of God."
     },
     {
       "chapter": 19,
@@ -2369,7 +2372,8 @@
           "verse": 25,
           "text": "which the Lord of hosts hath blessed, saying: Blessed be my people of Ægypt, and the work of my hands to the Assyrian: but Israel is mine inheritance."
         }
-      ]
+      ],
+      "summary": "Further description of the Ægyptians' punishment, 17. with their conversion to Christ in the new Testament."
     },
     {
       "chapter": 20,
@@ -2947,7 +2951,7 @@
           "text": "And the munitions of thy high walls shall fall, and be humbled, & shall be plucked down to the ground even to the dust."
         }
       ],
-      "summary": "A Canticle of thanks for changing the old Synagogue into the Church of Christ: which hath more light of true faith, 12. and more patience in tribulations: 19. which in the general resurrection shall be made manifest."
+      "summary": "The Prophet giveth thanks to God for his marvellous works, 7. and great benefits, in lightening many with faith, washing away sins, and giving grace, and eternal glory."
     },
     {
       "chapter": 26,
@@ -3075,7 +3079,8 @@
             }
           ]
         }
-      ]
+      ],
+      "summary": "A Canticle of thanks for changing the old Synagogue into the Church of Christ: which hath more light of true faith, 12. and more patience in tribulations: 19. which in the general resurrection shall be made manifest."
     },
     {
       "chapter": 27,
@@ -3086,6 +3091,10 @@
           "cross_refs": [
             {
               "text": "Iob. 40."
+            },
+            {
+              "text": "Iob. 4.",
+              "source": "sancta"
             }
           ],
           "notes": [
@@ -3243,7 +3252,7 @@
           "notes": [
             {
               "label": "f",
-              "text": "Because Isaias & other holy Prophets often & much urged, not only the people, but also priests (which had rule over the people) to keep God's commandments, and to",
+              "text": "Because Isaias & other holy Prophets often & much urged, not only the people, but also priests (which had rule over the people) to keep God's commandments, and to expect his mercy and goodness, they scornfully repeat the same words, deriding such exhortations and desperately giving themselves to all wickedness, as if they neither feared death nor hell. v. 15.",
               "kind": "gloss"
             }
           ]
@@ -3289,7 +3298,7 @@
               "text": "2. Reg. 5. 1. Par. 14."
             },
             {
-              "text": "Josue. 10",
+              "text": "2. Reg. 5. 1. Par. 14. Iosue. 10.",
               "source": "sancta"
             }
           ]
@@ -3460,6 +3469,10 @@
           "cross_refs": [
             {
               "text": "Eccli. 29."
+            },
+            {
+              "text": "Eccli. 19.",
+              "source": "sancta"
             }
           ]
         },
@@ -4106,7 +4119,7 @@
           "text": "And he hath cast them a lot, and his hand hath divided it unto them by measure: they shall possess it for ever, in generation and generation they shall dwell therein."
         }
       ],
-      "summary": "Gentiles converted to Christ shall much rejoice, 5. being comforted and confirmed by his miracles, much more by his internal grace, which bringeth to life everlasting."
+      "summary": "A prophecy of the destruction of the whole world, at the day of Judgement, 5. and in particular of Idumea, 9. and Jerusalem, as figures thereof."
     },
     {
       "chapter": 35,
@@ -4170,7 +4183,8 @@
           "verse": 10,
           "text": "And the redeemed of our Lord shall be converted, and shall come into Sion with praise, and everlasting joy shall be upon their head: they shall obtain joy and gladness, and sorrow and mourning shall flee away."
         }
-      ]
+      ],
+      "summary": "Gentiles converted to Christ shall much rejoice, 5. being comforted and confirmed by his miracles, much more by his internal grace, which bringeth to life everlasting."
     },
     {
       "chapter": 36,
@@ -4304,7 +4318,7 @@
       "verses": [
         {
           "verse": 1,
-          "text": "And it came to pass, when king Ezechias had heard it, he rent his garments, and was wrapped in sack cloth, and entered into the house of our Lord.",
+          "text": "And it came to pass, when king Ezechias had heard it, he rent his garments, and was wrapped in sackcloth, and entered into the house of our Lord.",
           "cross_refs": [
             {
               "text": "4. Reg. 19. 2. Par. 32."
@@ -5424,7 +5438,7 @@
           "notes": [
             {
               "label": "c",
-              "text": "All that is here said of the vanity of idols & foolish impiety of idolaters, may be referred (saith S. Ierom in this",
+              "text": "All that is here said of the vanity of idols & foolish impiety of idolaters, may be referred (saith S. Ierom in this place) unto heresy, and heretics, who artificially devise the fictions of their own doctrines and lying: and adore the things which they know were feigned by themselves; neither are so content, but draw the simple to embrace and adore the same inventions. A little after he sheweth, that the Catholic Church of Christ shall be ever free from such idolatry: quite contrary to the Protestants' assertion that the Church should have fallen & been in idolatry many hundred years together.",
               "kind": "gloss"
             }
           ]
@@ -5758,7 +5772,7 @@
           "text": "I have made my justice near, it shall not be far off, and my salvation shall not tarry. I will give salvation in Sion, and my glory to Israel."
         }
       ],
-      "summary": "The destruction of Babylon is further prophesied, for their pride, 8. arrogancy, 10. and sorcery."
+      "summary": "Bel, Nabo, and other idols shall be destroyed, 3. Whereupon the Jews are admonished to return from sin, to God's true service. 12. And salvation is promised by Christ."
     },
     {
       "chapter": 47,
@@ -5856,7 +5870,8 @@
           "verse": 15,
           "text": "So are the things become unto thee, in whatsoever thou hast travailed: thy merchants from thy youth, every one hath erred in his own way, there is none that can save thee."
         }
-      ]
+      ],
+      "summary": "The destruction of Babylon is further prophesied, for their pride, 8. arrogancy, 10. and sorcery."
     },
     {
       "chapter": 48,
@@ -5972,7 +5987,7 @@
               "text": "Exod. 1. Nu. 20."
             },
             {
-              "text": "Exo. 17",
+              "text": "Exo. 17. Nu. 20.",
               "source": "sancta"
             }
           ]
@@ -6235,7 +6250,7 @@
           "text": "Lo all you do kindle a fire, are compassed with flames, walk in the light of your fire, and in the flames which you have kindled: of my hand is this done to you, you shall sleep in sorrows."
         }
       ],
-      "summary": "God encourageth Sion to trust in his promised comfort, by example of Abraham. 3. For the spiritual Sion, the Church of Christ, shall receive much grace by his Evangelical law. 12. And her children shall not fear"
+      "summary": "The synagogue shall be divorced for her iniquities. 4. Christ will omit no ordinary means, but for her sake will endure ignominious afflictions. 10. All which she contemning shall perish."
     },
     {
       "chapter": 51,
@@ -6378,7 +6393,7 @@
           "text": "And I will put it in their hand, that have humbled thee, and have said to thy soul: Bow down, that we may pass over: and thou hast laid thy body as the ground, and as a way to them that pass over?"
         }
       ],
-      "summary": "persecution, nor be overcome: 23. but her enemies shall fail.",
+      "summary": "God encourageth Sion to trust in his promised comfort, by example of Abraham. 3. For the spiritual Sion, the Church of Christ, shall receive much grace by his Evangelical law. 12. And her children shall not fear persecution, nor be overcome: 23. but her enemies shall fail.",
       "summary_continuation": {
         "text": "persecution, nor be overcome: 23. but her enemies shall fail."
       }
@@ -6549,7 +6564,7 @@
           "text": "Therefore will I distribute unto him very many, and he shall divide the spoils of the strong, for that he hath delivered his soul unto death, and was reputed with the wicked: and he hath borne the sins of many, and hath prayed for the transgressors."
         }
       ],
-      "summary": "Gentiles who were barren shall multiply in the Church of Christ: 10. from which God's mercy shall never be separated."
+      "summary": "All will not believe Christ's Gospel to whom it shall be preached: 2. as the mystery of his ignominious death for all men's sins: 7. which he will suffer most meekly: 10. for which his name shall be glorified in all places."
     },
     {
       "chapter": 54,
@@ -6669,7 +6684,8 @@
           "verse": 17,
           "text": "Every vessel that is made against thee, shall not prosper: and every tongue resisting thee in judgement, thou shalt judge. This is the inheritance of the servants of our Lord, and their justice with me, saith our Lord."
         }
-      ]
+      ],
+      "summary": "Gentiles who were barren shall multiply in the Church of Christ: 10. from which God's mercy shall never be separated."
     },
     {
       "chapter": 55,
@@ -7093,7 +7109,7 @@
               "text": "Num. 11. Isa. 40."
             },
             {
-              "text": "Isa. 50",
+              "text": "Num. 11. Isa. 50.",
               "source": "sancta"
             }
           ]
@@ -7138,7 +7154,7 @@
               "text": "Prov. 1. Rom. 1."
             },
             {
-              "text": "Rom. 7",
+              "text": "Prou. 1. Rom. 7.",
               "source": "sancta"
             }
           ]
@@ -7454,7 +7470,7 @@
           "text": "For as the earth bringeth forth her spring, and as the garden shooteth forth his seed: so shall our Lord God make justice to spring forth, and praise before all the Gentiles."
         }
       ],
-      "summary": "The Prophet avoucheth that he will not cease from preaching Christ: 4. to whom all nations shall be converted: 8. & whose Church shall continue for ever."
+      "summary": "Christ announceth himself to be sent from heaven to teach the truth, to heal and pardon the penitent, to comfort the desolate, and strengthen the weak. 4. whose Apostles shall constantly preach justice in all the world. 10. And his Church shall rejoice."
     },
     {
       "chapter": 62,
@@ -7529,7 +7545,8 @@
           "verse": 12,
           "text": "And they shall call them, The holy people, the redeemed of our Lord. But thou shalt be called, A city sought for, and not Forsaken."
         }
-      ]
+      ],
+      "summary": "The Prophet avoucheth that he will not cease from preaching Christ: 4. to whom all nations shall be converted: 8. & whose Church shall continue for ever."
     },
     {
       "chapter": 63,
@@ -7731,7 +7748,7 @@
           "text": "Wilt thou upon these things contain thyself, o Lord, wilt thou hold thy peace, and afflict us vehemently?"
         }
       ],
-      "summary": "The Gentiles shall seek and find Christ, 2. whom the Jews will persecute; and shall be rejected, only a few relics reserved. 13. So the Church shall multiply, and abound in graces."
+      "summary": "The Jews in captivity pray to God for release: 4. acknowledging his former great benefits, and their own sins, fleeing now to his mercy."
     },
     {
       "chapter": 65,
@@ -7918,7 +7935,8 @@
             }
           ]
         }
-      ]
+      ],
+      "summary": "The Gentiles shall seek and find Christ, 2. whom the Jews will persecute; and shall be rejected, only a few relics reserved. 13. So the Church shall multiply, and abound in graces."
     },
     {
       "chapter": 66,

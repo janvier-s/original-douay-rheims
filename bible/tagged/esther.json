@@ -38,12 +38,17 @@
       "verses": [
         {
           "verse": 1,
-          "text": "In <na>[1]</na> the days of Assuerus, who reigned from India unto Æthiopia over an hundred twenty seven provinces:",
+          "text": "In <na>[1]</na><na>[2]</na> the days of Assuerus, who reigned from India unto Æthiopia over an hundred twenty seven provinces:",
           "notes": [
             {
               "label": "1",
               "text": "The first part beginneth in the 11. ch.",
               "kind": "head"
+            },
+            {
+              "label": "2",
+              "text": "This book is read at Matins the last week of September.",
+              "kind": "lectionary"
             }
           ]
         },
@@ -553,7 +558,7 @@
           "notes": [
             {
               "label": "a",
-              "text": "This prudence in delaying to propose her petition, increased the King's desire to know it, moved him to",
+              "text": "This prudence in delaying to propose her petition, increased the King's desire to know it, moved him to promise more assuredly, and so bound him the more to accomplish it.",
               "kind": "gloss"
             }
           ]
@@ -737,7 +742,7 @@
           "text": "To whom the king said: Hang him upon it. Aman therefore was hanged on the gibbet, which he had prepared for Mardocheus: and the king's wrath ceased."
         }
       ],
-      "summary": "Esther informeth the king that Mardocheus is her uncle, he is advanced in authority, 3. and contrary letters are sent that the Jews be saved, 11. and their enemies slain,"
+      "summary": "Esther entertaining the king and Aman again at a feast, is promised to obtain, whatsoever she will ask. 3. she demandeth safety for her self, and all the people, against Aman's cruelty, 6. and Aman is hanged on the gallows, which he had prepared for Mardocheus."
     },
     {
       "chapter": 8,
@@ -823,7 +828,7 @@
           ]
         }
       ],
-      "summary": "15. Mardocheus is in high honour, and his whole nation <i>is esteemed and feared by other people.</i>",
+      "summary": "Esther informeth the king that Mardocheus is her uncle, he is advanced in authority, 3. and contrary letters are sent that the Jews be saved, 11. and their enemies slain, 15. Mardocheus is in high honour, and his whole nation <i>is esteemed and feared by other people.</i>",
       "summary_continuation": {
         "text": "15. Mardocheus is in high honour, and his whole nation <i>is esteemed and feared by other people.</i>"
       }
@@ -1016,7 +1021,7 @@
         },
         {
           "verse": 3,
-          "text": "and how Mardocheus of the Jews' kindred was second after king Assuerus: and great with the Jews, and acceptable to the people of his brethren, seeking good to his people, and speaking those things, which pertained to the good of his seed. <na>(a)</na> <na>[1]</na>",
+          "text": "and how Mardocheus of the Jews' kindred was second after king Assuerus: and great with the Jews, and acceptable to the people of his brethren, seeking good to his people, and speaking those things, which pertained to the good of his seed. <na>(a)</na> <na>[1]</na> <na>[2]</na>",
           "notes": [
             {
               "label": "a",
@@ -1027,6 +1032,11 @@
               "label": "1",
               "text": "<i>The Greek of the 72. interpreters.</i>",
               "kind": "gloss"
+            },
+            {
+              "label": "2",
+              "text": "<i>That which is in the Hebrew I have expressed most faithfully. And these things that follow, I found written in the common edition, which are contained in the Greek tongue and letters: and in the mean time this chapter was extant after the end of the book: which according to our custom, we have marked with an Obelus before it, that is to say, a broach.</i>",
+              "kind": "head"
             }
           ]
         },
@@ -1078,11 +1088,16 @@
       "verses": [
         {
           "verse": 1,
-          "text": "In <na>[1]</na> the fourth year when Ptolomee and Cleopatra reigned, Dositheus, which named himself a Priest, and of the Levitical kindred, and Ptolomee his son brought this epistle of Phurim, which they said Lysimachus the son of Ptolomee did interpret in Jerusalem.",
+          "text": "In <na>[1]</na> the fourth year when Ptolomee and Cleopatra reigned, Dositheus, which named himself a Priest, and of the Levitical kindred, and Ptolomee his son brought this epistle of Phurim, which they said Lysimachus the son of Ptolomee did interpret in Jerusalem. <na>[2]</na>",
           "notes": [
             {
               "label": "1",
-              "text": "The first part. The presage, & occasion of Esther's advancement and Aman's persecuting the Jews. <i>This beginning was in the common edition, which is neither extant in Hebrew, nor with any of</i>",
+              "text": "The first part. The presage, & occasion of Esther's advancement and Aman's persecuting the Jews.",
+              "kind": "head"
+            },
+            {
+              "label": "2",
+              "text": "<i>This beginning was in the common edition, which is neither extant in Hebrew, nor with any of the interpreters.</i> Except the 72.",
               "kind": "head"
             }
           ]
@@ -1170,7 +1185,7 @@
           ]
         }
       ],
-      "summary": "The conspiracy of two eunuchs detected by Mardocheus, is repeated, 6. and Aman's malice against him for the same."
+      "summary": "An Appendix and conclusion of this history. 2. The dream of Mardocheus."
     },
     {
       "chapter": 12,
@@ -1224,7 +1239,8 @@
             }
           ]
         }
-      ]
+      ],
+      "summary": "The conspiracy of two eunuchs detected by Mardocheus, is repeated, 6. and Aman's malice against him for the same."
     },
     {
       "chapter": 13,
@@ -1436,7 +1452,7 @@
           "text": "O God strong above all, hear the voice of them, that have no other hope, and deliver us from the hand of the wicked, and deliver me from my fear."
         }
       ],
-      "summary": "Mardocheus causeth Esther to go to the king and entreat for the people. 10. She is terrified by his countenance, but God turneth his heart, and he calleth her courteously to him."
+      "summary": "Esther prayeth in humility of spirit, that God will deliver the people from the cruelty of Aman."
     },
     {
       "chapter": 15,
@@ -1564,7 +1580,8 @@
             }
           ]
         }
-      ]
+      ],
+      "summary": "Mardocheus causeth Esther to go to the king and entreat for the people. 10. She is terrified by his countenance, but God turneth his heart, and he calleth her courteously to him."
     },
     {
       "chapter": 16,

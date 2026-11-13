@@ -49,7 +49,13 @@
         },
         {
           "verse": 7,
-          "text": "And Iosias gave unto the people that was found of sheep, lambs, and kids, & goats thirty thousand, calves three thousand. . . ."
+          "text": "And Iosias gave unto the people that was found of sheep, lambs, and kids, & goats thirty thousand, calves three thousand. . . .",
+          "cross_refs": [
+            {
+              "text": "Leuit. 23. Num. 28.",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 8,
@@ -287,7 +293,13 @@
         },
         {
           "verse": 57,
-          "text": "And they were his servants until the Persians reigned in the fulfilling of the word of our Lord by the mouth of Jeremy: . v. 12. & 29. v."
+          "text": "And they were his servants until the Persians reigned in the fulfilling of the word of our Lord by the mouth of Jeremy: . v. 12. & 29. v.",
+          "cross_refs": [
+            {
+              "text": "Iere. 25. v. 12. & 29. v. 10.",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 58,
@@ -317,7 +329,13 @@
         },
         {
           "verse": 2,
-          "text": "our Lord raised up the spirit of Cyrus King of the Persians, and he proclaimed in all his Kingdoms, and that by writing,"
+          "text": "our Lord raised up the spirit of Cyrus King of the Persians, and he proclaimed in all his Kingdoms, and that by writing,",
+          "cross_refs": [
+            {
+              "text": "2. Esd. 1. v. 1. & 6.",
+              "source": "sancta"
+            }
+          ]
         },
         {
           "verse": 3,
@@ -325,6 +343,10 @@
           "cross_refs": [
             {
               "text": "v. 3",
+              "source": "sancta"
+            },
+            {
+              "text": "Iere. 26. v. 12. & 29. v. 10.",
               "source": "sancta"
             }
           ]
@@ -631,7 +653,7 @@
         },
         {
           "verse": 18,
-          "text": "If they have gathered gold and silver, and"
+          "text": "If they have gathered gold and silver, and every beautiful thing, and see a woman comely and fair,"
         },
         {
           "verse": 19,
@@ -767,7 +789,7 @@
         },
         {
           "verse": 52,
-          "text": "& upon the altars to burn holocausts daily, as they have commandment: to offer"
+          "text": "& upon the altars to burn holocausts daily, as they have commandment: to offer other ten talents every year,"
         },
         {
           "verse": 53,
@@ -903,7 +925,7 @@
         },
         {
           "verse": 17,
-          "text": "the children of Marsar, four hundred twenty two: the children of Zabarus, ninety five: the children of"
+          "text": "the children of Marsar, four hundred twenty two: the children of Zabarus, ninety five: the children of Sepolemon, an hundred twenty three:"
         },
         {
           "verse": 18,
@@ -1011,7 +1033,7 @@
         },
         {
           "verse": 44,
-          "text": "And of the rulers themselves by their villages, when they came into the temple of God, which was in Jerusalem, to renew and raise up the"
+          "text": "And of the rulers themselves by their villages, when they came into the temple of God, which was in Jerusalem, to renew and raise up the temple in his place, according to their power:"
         },
         {
           "verse": 45,

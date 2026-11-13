@@ -2227,10 +2227,6 @@
             },
             {
               "text": "Gen. 3, 16."
-            },
-            {
-              "text": "women. 1 Timothy 2, 12",
-              "source": "sancta"
             }
           ]
         },
@@ -2603,6 +2599,12 @@
         {
           "verse": 33,
           "text": "Be not seduced, Evil communications corrupt good manners.",
+          "cross_refs": [
+            {
+              "text": "Esa. 22, 13. Menander.",
+              "source": "sancta"
+            }
+          ],
           "notes": [
             {
               "label": "1",
