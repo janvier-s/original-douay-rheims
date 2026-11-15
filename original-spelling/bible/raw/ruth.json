@@ -1,0 +1,458 @@
+{
+  "book": "ruth",
+  "book_title": "The Book of Ruth.",
+  "short_title": "Ruth",
+  "hebrew_title": null,
+  "intros": [
+    {
+      "title": "THE ARGVMENT OF THE BOOKE OF RVTH.",
+      "text": "AMONGST other thinges that happened to the people of Iſrael, in the time of the Iudges, this hiſtorie of Ruth, to Witt, her coming from Moab, her conuerſion to true Religion, godlie conuerſation, and mariage with Booz of the tribe of Iuda, is recorded, as a more principal matter. For that not onlie King Dauid, but conſequently alſo our SAVIOVR, the Redemer of mankind deſcended from her. Wherby was foreſignified, that as ſaluation thus proceded from the Gentiles together with the Jews: ſo the Gentiles are made partakers of the ſame grace. More clerly prophecied, as S. Hierom noteth, by Iſai (cap. 16.) ſaying: SEND FORTH, O LORD, THE LAMBE, THE RULER OF THE EARTH, FROM THE ROCKE OF THE DESERT TO THE MOUNT OF THE DAUGHTER OF SION: That is, from Ruth the gentile, to Hieruſalem, or rather to the Church. This mariage of Ruth came to paſſe about the time of A beſan Iudge . The booke was written, as is moſt probable, by Samuel: and is diuided into foure chapters; whoſe contentes folow in their places.",
+      "default": true,
+      "notes": [
+        {
+          "marker": 1,
+          "text": "The hiſtorie of Ruth is regeſtred in holie Scripture, for the genealogie of Dauid, and eſpecially of our Sauiour Chriſt."
+        },
+        {
+          "marker": 2,
+          "text": "Iudic. 12."
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "IN the dayes of one Iudge, when the Iudges ruled, there came a famine in the Land. And there went a man of Bethleem Iuda, to ſeiourne in the land of Moab with his wife, and two children."
+        },
+        {
+          "verse": 2,
+          "text": "him ſelf was called Elimelech, and his wife, Noemi: and his two ſonnes, the one Mahalon, and the other Chelion, Ephraites of Bethleem Iuda. And entring into the countrie of Moab, they abode there."
+        },
+        {
+          "verse": 3,
+          "text": "And Elimelech the huſband of Noemi died: and she remained with her ſonnes."
+        },
+        {
+          "verse": 4,
+          "text": "Who tooke wiues of the Moabites, of the which one was called Orpha, and the other Ruth. And they abode there ten yeares,"
+        },
+        {
+          "verse": 5,
+          "text": "and both died, to witte, Mahalon and Chelion: and the woman remayned deſtitute of her two children & her huſband."
+        },
+        {
+          "verse": 6,
+          "text": "And she aroſe to goe into her countrie with both her daughters in law from the countrie of Moab: for ſhe had heard that our Lord had reſpected his people, & had geuen them victuals."
+        },
+        {
+          "verse": 7,
+          "text": "She therfore went forth from the place of her peregrination, with both her daughters in law: and being now ſette in the way to returne into the Land of Iuda,"
+        },
+        {
+          "verse": 8,
+          "text": "ſhe ſaid to them: Goe into your mothers houſe, our Lord doe mercie with you, as you haue done with the dead and with me."
+        },
+        {
+          "verse": 9,
+          "text": "Grant he vnto you to find reſt in the houſes of your huſbandes, which you shal take. And she kiſſed them. Who lifting vp their voice beganne to weepe,"
+        },
+        {
+          "verse": 10,
+          "text": "& to ſay: We wil goe on with thee to thy people."
+        },
+        {
+          "verse": 11,
+          "text": "To whom ſhe anſwered: Returne my daughters, why come you with me? shal I haue ſonnes any more in my wombe, that you may hope for huſbandes of me?"
+        },
+        {
+          "verse": 12,
+          "text": "Returne my daughters, and goe your wayes: for I am now ſpent with old age, and not fitte for wedlocke. Although I might conceiue this night, and beare children,"
+        },
+        {
+          "verse": 13,
+          "text": "if you would expect til they grow, and be of mans age, you ſhal be old women befor you marrie. Doe not ſo my daughters, I beſech you: for your diſtreſſe doth the more greue me, and the hand of our Lord is come forth againſt me."
+        },
+        {
+          "verse": 14,
+          "text": "Therfore lifting vp their voice, they beganne to weepe agayne, Orpha kiſſed her mother in law, and returned: Ruth cleaued to her mother in law."
+        },
+        {
+          "verse": 15,
+          "text": "to whom Noemi ſaid: Behold thy kinſewoman is returned to her people, and to her goddes, goe with her.",
+          "notes": [
+            {
+              "label": "a",
+              "text": "Noemi perſwaded not to idolatre, but inſinuated that if Ruth would not returne to her countrie, ſhe muſt alſo leaue the falſe goddes. And ſo ſhe anſwered, that ſhe would ſerue the ſame true God of Iſrael.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 16,
+          "text": "Who anſwered: Be not againſt me, to the end that I should leaue thee and depart: for whither ſoeuer thou shalt goe, I wil goe: and where thou shalt abide, I alſo wil abide. Thy people my people, and thy God my God."
+        },
+        {
+          "verse": 17,
+          "text": "The land that shal receiue thee dying, in the ſame wil I die: and there wil I take a place for my burial. Theſe thinges doe God to me, & theſe thinges adde he, if death onlie shal not ſeparate me and thee."
+        },
+        {
+          "verse": 18,
+          "text": "Noemi therfore ſeing, that Ruth with a ſtidfaſt mind had determined to goe forward with her, would not be againſt it, nor perſwade her any more to returne to her frendes:"
+        },
+        {
+          "verse": 19,
+          "text": "and they went forth together, and came into Bethlehem. Who being entered into the citie, a brute was quickly ſpred among them: and the wemen ſaid: This is that Noemi."
+        },
+        {
+          "verse": 20,
+          "text": "To whom ſhe ſaid: Cal me not Noemi (that it to ſay, beautiful) but cal me Mara (that is to ſay, bitter) becauſe with bitternes hath the Almightie very much replenished me."
+        },
+        {
+          "verse": 21,
+          "text": "I went forth ful, and our Lord hath brought me backe emptie. Why therfore doe you cal me Noemi whom our Lord hath humbled, and the Almightie hath afflicted?",
+          "notes": [
+            {
+              "label": "b",
+              "text": "She had a huſband and two ſonnes, and ſufficient prouiſion, but now was bereaued of them al.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 22,
+          "text": "Noemi therfore came with Ruth the Moabite her daughter in law, from the Land of her peregrination: and returned into Bethlehem, when barley was firſt reaped."
+        }
+      ],
+      "summary": "By occaſion of famine Elimelech of Bethleem going with his wife Noemi, and two ſonnes, into the Land of Moab, there dieth. 4. His ſonnes marrie wiues of that countrie, and die without iſſue. 6. Noemi returning home wardes hardly perſwadeth one of her daughters in law, to part from her. 15. The other, called Ruth, wil needes goe with her, profeſſing the ſame God and Religion. 19. So theſe two arriue in Betheleem."
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "AND Elimelech her huſband had a coſin, a mightie man, and of great riches, named Booz."
+        },
+        {
+          "verse": 2,
+          "text": "And Ruth the Moabite ſaid to her mother in law: If thou command, I wil goe into the field, and gather the eares of corne, that shal eſcape the handes of the reapers, where ſoeuer I shal find the grace of the father of the houſe fauorable towardes me. To whom she anſwered: Goe my daughter."
+        },
+        {
+          "verse": 3,
+          "text": "She went therfore and gathered the eares of corne after the backes of the reapers. And it chanced that the owner of the ſame field was Booz, who was of the kinred of Elimelech."
+        },
+        {
+          "verse": 4,
+          "text": "And behold, he came out of Bethlehem, and ſaid to the reapers: Our Lord be with you. Who anſwered him: Our Lord bleſſe thee.",
+          "notes": [
+            {
+              "label": "a",
+              "text": "The Church vſeth this ſalutation in the holie ſacrifice and other diuine office.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 5,
+          "text": "And Booz ſaid to the yongman, that was ouerſeer of the reapers: Whoſe maide is this?"
+        },
+        {
+          "verse": 6,
+          "text": "To whom he anſwered: This is that Moabite, which came with Noemi, from the countrie of Moab,"
+        },
+        {
+          "verse": 7,
+          "text": "and she deſired that she might gather the eares of corne that remayne, folowing the ſteppes of the reapers: and from morning vntil now she ſtayeth in the field, and not ſo much as for a very moment hath she returned home."
+        },
+        {
+          "verse": 8,
+          "text": "And Booz ſaid to Ruth: Heare me daughter, goe not into an other field to gather, neither depart thou from this place: but ioyne thy ſelfe to my maides,"
+        },
+        {
+          "verse": 9,
+          "text": "and where they haue reaped, folow. For I haue commanded my ſeruantes, that no man moleſt thee: but if thou shalt thirſt alſo, goe to the fardels, and drinke the waters, wherof the ſeruantes alſo doe drinke."
+        },
+        {
+          "verse": 10,
+          "text": "who falling on her face and adoring vpon the ground, ſaid to him: Whence cometh this to me, that I should find grace before thine eies, and that thou wouldeſt voutſafe to know me a ſtrange woman?"
+        },
+        {
+          "verse": 11,
+          "text": "To whom he anſwered: Al thinges haue beene told me, which thou haſt done to thy mother in law after the death of thy huſband: and that thou haſt leift thy parentes, and the land wherein thou waſt borne, and art come to a people, which before thou kneweſt not."
+        },
+        {
+          "verse": 12,
+          "text": "Our Lord render vnto thee for thy worke, and God grant thou mayeſt receiue a ful reward of our Lord the God of Iſrael, to whom thou art come, & vnder whoſe winges thou art fled.",
+          "notes": [
+            {
+              "label": "b",
+              "text": "Booz doubted not but reward was due to good workes.",
+              "kind": "gloss"
+            },
+            {
+              "label": "c",
+              "text": "Yea a ful reward, anſwerable to Ruth pietie: Vvhich muſt be ſpiritual and eternal.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 13,
+          "text": "Who ſaid: I haue found grace in thine eies my lord, which haſt comforted me, and haſt ſpoken to the hart of thy handmaide, which am not like to one of thy maides."
+        },
+        {
+          "verse": 14,
+          "text": "And Booz ſaid to her: When the houre shal come to eate, come hither, and eate bread, and dippe thy morſel in the vinagre. She therfore ſate at the ſide of the reapers, and she heaped to her ſelfe polent, and did eate and was filled, and tooke the leauinges."
+        },
+        {
+          "verse": 15,
+          "text": "And from thence she aroſe, to gleane the eares of corne after her maner. And Booz commanded his ſeruantes, ſaying: Yea and if she wil reape with you, forbid her not:"
+        },
+        {
+          "verse": 16,
+          "text": "and of your owne handfuls alſo caſt forth of purpoſe, and let them remaine, that she may gather them without bashefulnes, and gathering let no man controwle her."
+        },
+        {
+          "verse": 17,
+          "text": "She gleaned therfore in the field vntil euening: & that which she had gathered beating with a rodde & threshing she found of barley as it were the meaſure of an ephi, that is, three bushels."
+        },
+        {
+          "verse": 18,
+          "text": "Which carying she returned into the citie, and shewed to her mother in law: moreouer she brought forth, and gaue her of the remaynes of her meate, wherwith she had beene filled."
+        },
+        {
+          "verse": 19,
+          "text": "And her mother in law ſaid to her: Where haſt thou gathered to day, and where haſt thou wrought? bleſſed be he that hath had mercie on thee. And she told her with whom she had wrought: and she told the mans name, that he was called Booz."
+        },
+        {
+          "verse": 20,
+          "text": "To whom Noemi anſwered: Be he bleſſed of our Lord: becauſe the ſame grace, which he had shewed to the liuing, he hath kept alſo to the dead. And agayne she ſaid: The man is our nigh coſin."
+        },
+        {
+          "verse": 21,
+          "text": "And Ruth, This alſo, quoth she, he commanded me, that ſo long I should ioyne my ſelf to the reapers, til al the corne were reaped."
+        },
+        {
+          "verse": 22,
+          "text": "To whom her mother inlaw ſaid: It is better my daughter, that thou goe forth with his maides to reape, leſt in an other mans field ſome may reſiſt thee."
+        },
+        {
+          "verse": 23,
+          "text": "She therfore ioyned her ſelf to the maides of Booz: and ſo long reaped with them, til the barley and the wheate were layd vp in the barnes."
+        }
+      ],
+      "summary": "Ruth gathering eares of corne in Booz field, 8. he kindly biddeth her tarie with his ſeruantes. 17. At night she returneth carying good quantitie of corne, and part of the meate, which they gaue her, to her mother in law."
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "BVT after that she was returned to her mother inlaw, she heard of her: My daughter, I wil ſeeke thee reſt, and wil prouide that it may be wel with thee."
+        },
+        {
+          "verse": 2,
+          "text": "This Booz, to whoſe maides thou art ioyned in the field, is our nigh kinſman, and this night he wynoweth the barne floore of the barley."
+        },
+        {
+          "verse": 3,
+          "text": "Wash therfore and annoynte thy ſelf, and put on thy better garmentes, and goe downe into the barne floore, let no man ſee thee, til he shal haue ended eating & drinking."
+        },
+        {
+          "verse": 4,
+          "text": "And when he shal goe to ſleepe, marke the place wherein he ſleepeth: and thou shalt come, and diſcouer the mantel wherwith he is couered toward his feete, and shal caſt thy ſelf downe and lie there: and he wil tel thee what thou muſt doe.",
+          "notes": [
+            {
+              "label": "a",
+              "text": "The euent ſhewed that Noemi was inſpired by God to geue ſuch direction to Ruth, & to foretel what Booz would doe.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 5,
+          "text": "Who anſwered: Whatſoeuer thou shalt command, that wil I doe."
+        },
+        {
+          "verse": 6,
+          "text": "And she went downe into the barne floore, and did al the thinges which her mother in law had commanded her."
+        },
+        {
+          "verse": 7,
+          "text": "And when Booz had eaten, & drunken, and was made pleaſant, and was gone to ſleepe by the heape of sheaues, she came cloſely, and diſcouering the mantel, at his feete, layd her ſelf downe."
+        },
+        {
+          "verse": 8,
+          "text": "And behold, when it was now midnight the man was afrayd, and trubled: and he ſaw a woman lying at his feete,"
+        },
+        {
+          "verse": 9,
+          "text": "and ſaid to her: Who art thou? And she anſwered: I am Ruth thy handmaide: ſpred thy mantel vpon thy ſeruant, becauſe thou art nigh of kinne."
+        },
+        {
+          "verse": 10,
+          "text": "And he ſaid: Bleſſed art thou of our Lord my daughter, and the former mercie thou haſt paſſed with the later: becauſe thou haſt not folowed yong men either poore or rich.",
+          "notes": [
+            {
+              "label": "b",
+              "text": "It was very commendable that ſhe loued her firſt huſband and mother in law: but more vertue in fleing occaſion of ſinne with young men, and ſeeking to marie according to the law of God with her former huſbands kinſman. Deut. 25.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 11,
+          "text": "Feare not therfore, but whatſoeuer thou shalt ſay to me, I wil doe to thee. For al the people that dwelleth within the gates of my citie, knowe, that thou art a woman of vertue."
+        },
+        {
+          "verse": 12,
+          "text": "Neither doe I denie my ſelf nigh of kinne, but there is an other neerer then I."
+        },
+        {
+          "verse": 13,
+          "text": "Reſt this night: and when morning is come, if he wil retayne thee by the right of nigh of kindred, the thing is wel done, but if he wil not, I wil take thee without al doubt, our Lord liueth, ſleepe vntil morning."
+        },
+        {
+          "verse": 14,
+          "text": "She ſlept therfore at his feete til the night was gone. Therfore she aroſe before men could know one an other, and Booz ſaid: Beware leſt any man know that thou cameſt hither."
+        },
+        {
+          "verse": 15,
+          "text": "And agayne, Spred, quoth he, thy mantel, wherwith thou art couered, and hold it with both handes. Who ſpredding and holding it, he meaſured ſix meaſures of barley, and put it vpon her. Who carying it entred into the citie,"
+        },
+        {
+          "verse": 16,
+          "text": "and came to her mother in law. Who ſaid to her: What haſt thou done daughter? And she told her al thinges, that the man had done to her."
+        },
+        {
+          "verse": 17,
+          "text": "And she ſaid: Behold ſix meaſures of barley hath he geuen me, and he ſaid: I wil not haue thee returne emptie to thy mother in law."
+        },
+        {
+          "verse": 18,
+          "text": "And Noemi ſaid: Expect daughter til we ſee what end the thing wil haue. For the man wil not ceaſe vntil he haue accomplished that which he hath ſpoken."
+        }
+      ],
+      "summary": "Ruth inſtructed by her mother in law ſleepeth at Booz feete, 8. and ſignifiing that she perteyneth to him by the law of affinitie, receiueth a good anſwer, 14. and ſix meaſures of barley."
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "BOOZ therfore went vp to the gate, and ſate there. And when he had ſeene the nigh kinſman paſſe by, of whom the talke was had before, he ſaid to him: Turne in a litle while, and ſitte here: calling him by his name. Who turned in, and ſate."
+        },
+        {
+          "verse": 2,
+          "text": "And Booz taking ten men of the citie, ſaid to them: Sitte ye here."
+        },
+        {
+          "verse": 3,
+          "text": "Who ſitting downe, he ſpake to the nigh kinſeman: Noemi, who is returned from the countrie of Moab, wil ſel the part of the field belonging to our brother Elimelech.",
+          "notes": [
+            {
+              "label": "a",
+              "text": "Booz calleth his kinſman brother, as Abraham called Lot his brother. Gen. 13. being his Nephew.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 4,
+          "text": "Which I would thee to vnderſtand, and would tel thee before al that ſitte, and the ancientes of my people. If thou wilt poſſeſſe it by the right of nigh kindred: bye, and poſſeſſe it. but if it pleaſe thee not, tel me the ſame, that I may know what I ought to doe. For there is no nigh kinſeman ſauing thee, which art firſt, and me, who am ſecond. But he anſwered: I wil bye the field."
+        },
+        {
+          "verse": 5,
+          "text": "To whom, Booz ſaid: When thou shalt bye the field at the womans hand, thou muſt take alſo Ruth the Moabite, which was the wife of the deceaſed: that thou mayeſt rayſe vp the name of thy kinſman in his inheritance."
+        },
+        {
+          "verse": 6,
+          "text": "Who anſwered: I yeld my right of nigh kindred: for I may not abolish the poſteritie of myne owne familie. Doe thou vſe my priuiledge, which I profeſſe that I doe willingly forgoe."
+        },
+        {
+          "verse": 7,
+          "text": "And this in old time was the maner in Iſrael betwen kinſemen, that if at any time one yelded to an other his right: that the graunt might be ſure, the man put of his shoe, and gaue it to his neighbour. this was a teſtimonie of yelding in Iſrael.",
+          "notes": [
+            {
+              "label": "b",
+              "text": "See Deut. 25. noting here withal, that the penaltie was leſſe, when an other kinſman vndertaking the mariage, the woman was preuented from complayning before the iudge.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 8,
+          "text": "Booz therfore ſaid to his kinſeman: Take of thy shoe. Which immediatly he looſed from his foote."
+        },
+        {
+          "verse": 9,
+          "text": "But to the ancientes, and the whole people he ſaid: You are witneſſes this day, that I haue purchaſed al thinges which were Elimelechs; and Chelions and Mahalons, Noemi deliuering them:"
+        },
+        {
+          "verse": 10,
+          "text": "and haue taken in mariage Ruth the Moabite, the wife of Mahalon, that I may rayſe vp the name of the deceaſed in his inheritance, leſt his name be abolished out of his familie and brethren and people. You, I ſay, are witneſſes of this thing."
+        },
+        {
+          "verse": 11,
+          "text": "Al the people that was in the gate anſwered, and the ancientes: We are witneſſes: Our Lord make this woman, which entereth into thy houſe, as Rachel, and Lia, which builded the houſe of Iſrael: that ſhe may be an example of vertue in Ephrata, and may haue a famous name in Bethlehem:"
+        },
+        {
+          "verse": 12,
+          "text": "that thy houſe may be, as the houſe of Phares, whom Thamar bare to Iudas, of the ſeede which our Lord shal geue thee of this yong woman."
+        },
+        {
+          "verse": 13,
+          "text": "Booz therfore tooke Ruth, and had her to wife: and went in vnto her, and our Lord gaue her to conceiue, and to beare a ſonne."
+        },
+        {
+          "verse": 14,
+          "text": "And the wemen ſaid to Noemi: Bleſſed be our Lord, which hath not ſuffered that there should fayle a ſucceſſor of thy familie: that his name should be called in Iſrael."
+        },
+        {
+          "verse": 15,
+          "text": "And thou ſhouldeſt haue one that may comfort thy ſoule, and cherish thy old age. For of thy daughter in law is he borne, which wil loue thee: and much better is she to thee, then if thou hadſt ſeuen ſonnes."
+        },
+        {
+          "verse": 16,
+          "text": "And Noemi taking the child put it in her boſome, and did the office of a nource and of one that ſhould carie him."
+        },
+        {
+          "verse": 17,
+          "text": "And the wemen her neighbours congratulating her, and ſaying: There is a ſonne borne to Noemi: called his name Obed: this is the father of Iſai, the father of Dauid.",
+          "notes": [
+            {
+              "label": "c",
+              "text": "Here appeareth the final cauſe of writing this hiſtorie, to shew the Genealogie of King Dauid from Iudas the Patriarch, of whom Chriſt should deſcend, ſo prophecied: Gen. 49. and shewed to be performed; Mat. 1.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 18,
+          "text": "Theſe are the generations of Phares: Phares begat Eſron,"
+        },
+        {
+          "verse": 19,
+          "text": "Eſron begat Aram, Aram begat Aminadab,"
+        },
+        {
+          "verse": 20,
+          "text": "Aminadab begat Nahaſſon, Nahaſſon begat Salmon,"
+        },
+        {
+          "verse": 21,
+          "text": "Salmon begat Booz, Booz begat Obed,"
+        },
+        {
+          "verse": 22,
+          "text": "Obed begat Iſai, Iſai begat Dauid."
+        }
+      ],
+      "summary": "Booz before the ancientes of the citie ( the neerer kinſman refuſing ) poſſeſſeth the inheritance of Elimelech, 10. and marieth Ruth. 13. Hath by her a ſonne, the grandfather of Dauid. 18. VVhoſe genealogie by this occaſion is recited, from Phares the ſonne of Iudas the patriarch."
+    }
+  ],
+  "spelling": "original"
+}

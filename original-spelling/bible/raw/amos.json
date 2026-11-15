@@ -1,0 +1,1021 @@
+{
+  "book": "amos",
+  "book_title": "The Prophecy of Amos.",
+  "short_title": "Amos",
+  "hebrew_title": null,
+  "intros": [
+    {
+      "title": "THE PROPHECIE OF AMOS.",
+      "text": "AMOS a herds-man of Thecua in the tribe of Zabulon, was indued with the ſpirite of prophecie about the ſame time with Oſee and Ioel, in the reigne of Ozias King of Iuda, and of Iereboam ſonne of Ioas King of Iſrael, in Metaphores, and other obſcure ſpeaches agreable to his paſtoral education, but profound in ſenſe, prophecieth eſpecially againſt the Kingdom of Iſrael, and diuers Gentiles; partly alſo againſt Iuda, foreshewing their afflictions for their ſinnes: but at laſt the vocation of al Nations to Chriſt, with aboundance of ſpiritual graces in his Church.",
+      "default": true,
+      "notes": [
+        {
+          "marker": 1,
+          "text": "Amos prophecied the ſame time vvith Oſee and Ioel."
+        },
+        {
+          "marker": 2,
+          "text": "S. Ierom. Epiſt. ad Paulin."
+        },
+        {
+          "marker": 3,
+          "text": "Eſpecially Againſt the tenne tribes. 3 (c)"
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "THE wordes of Amos, who was among the paſtours of Thecua: Which he ſaw vpon Iſrael in the dayes of Ozias the king of Iuda, and in the dayes of Iereboam the ſonne of Ioas the king of Iſrael two yeares before the earthquake.",
+          "notes": [
+            {
+              "label": "a",
+              "text": "Aſ Dauid was called from keping shepe, made a king, & a Prophet : ſo Amos being a shepheard or hearde man was alſo made a Prophet.",
+              "kind": "gloss"
+            },
+            {
+              "label": "b",
+              "text": "Ioſephus. li. 9. c. 1. Antiq. ſayeth this earthquake happened when king Ozias preſumed to offer incenſe, but it muſt nedes be vnderſtood of a former, in the dayes of Ieroboam, v.1. who died in the 38. yeare of Ozias 2. Par. 26. at leaſt 14. yeares before his depoſition : for he reigned in al. 52.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "And he ſayd: Our Lord wil roare out of Sion, and out of Ieruſalem he wil geue his voice: & the beautiful places of the paſtours haue mourned and the toppe of Carmel is withered.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "Ioel 3. Zach. 14.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 3,
+          "text": "Thus ſayth our Lord: Vpon three wickedneſſes of Damaſcus, and vpon foure I wil not conuert it: becauſe they haue threshed Galaad with yron waynes.",
+          "notes": [
+            {
+              "label": "c",
+              "text": "Three ſignifie the multitude of their ſinnes : for three is the firſt number that is called manie or may be called al.",
+              "kind": "gloss"
+            },
+            {
+              "label": "d",
+              "text": "and foure ſignifie exceſſe in multitude, ſo that, albeit God doth forgeue a multitude of ſinnes, yet at laſt for ſo great exceſſe he haſteneth their punishment.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 4,
+          "text": "And I wil ſend fyre into the houſe of Azael, and it shal deuoure the houſes of Benadad."
+        },
+        {
+          "verse": 5,
+          "text": "And I wil breake the barre of Damaſcus: and I wil deſtroy the inhabitant out of the idol, and him that holdeth the ſcepter out of the houſe of pleaſure: and the people of Syria shal be tranſported to Cyrene, ſaith our Lord."
+        },
+        {
+          "verse": 6,
+          "text": "Thus ſaith our Lord: Vpon three wickedneſſes of Gaza, & vpon foure I wil not conuert it, becauſe they haue tranſported a perfect captiuitie, to shut it vp in Idumea."
+        },
+        {
+          "verse": 7,
+          "text": "And I wil ſend fyre on the wal of Gaza, and it shal deuoure the houſes therof."
+        },
+        {
+          "verse": 8,
+          "text": "And I wil deſtroy the inhabitant out of Azotus, and him that holdeth the ſcepter out of Aſcalon: and I wil turne my hand vpon Accaron, and the reſt of the Philiſthims shal perish, ſayth our Lord God."
+        },
+        {
+          "verse": 9,
+          "text": "Thus ſaith our Lord: Vpon the three wickedneſſes of Tyre, and vpon foure I wil not conuert it: becauſe they haue shut vp a perfect captiuite in Idumea, and haue not remembred the league of bretheren."
+        },
+        {
+          "verse": 10,
+          "text": "And I wil ſend fyre vpon the wal of Tyre, it shal deuoure the houſes therof."
+        },
+        {
+          "verse": 11,
+          "text": "Thus ſayth our Lord: Vpon three wickedneſſes of Edom, and vpon foure I wil not conuert him: becauſe he hath perſecuted his brother with the ſword, and hath violated his mercie, and hath held his furie longer, and hath kept his indignation euen to the end."
+        },
+        {
+          "verse": 12,
+          "text": "I wil ſend fyre into Theman: and it shal deuoure the houſes of Boſra."
+        },
+        {
+          "verse": 13,
+          "text": "Thus ſayth our Lord: Vpon three wickedneſſes of the children of Ammon, and vpon foure I wil not conuert him: becauſe he hath cut in ſunder the wemen with childe of Galaad to dilate his limite."
+        },
+        {
+          "verse": 14,
+          "text": "And I wil kindle a fyre in the wal of Rabba: & it shal deuoure the houſes therof with howling in the day of battel, and with a whirlewind in the day of commotion."
+        },
+        {
+          "verse": 15,
+          "text": "And Melchom shal goe into captiuitie, himſelf, and his princes together, ſayth our Lord.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "* The god of the Ammonites.",
+              "kind": "gloss"
+            }
+          ]
+        }
+      ],
+      "summary": "In the reigne of Iozias in Iuda, and of Ieroboam in Iſrael, this prophet Amos, 3. threatneth Damascus, 6. Gaza, 8. Azotus, and other Philiſtians. 9. Tyre, 11. Idumea, 13. and Ammon, for their obſtinacie in ſinne, abuſing his long patience."
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "THVS ſayth our Lord: Vpon three wickedneſſes of Moab and vpon foure I wil not conuert him: becauſe he hath burnt the bones of Idumea euen to ashes.",
+          "notes": [
+            {
+              "label": "a",
+              "text": "Beſides other ſinnes of the Moabites, their crueltie, in dravving the bones of the king of Idumea out of the graue, as S. Ierom teſtifieth by tradition; and their king immolating his owne ſonne, 4. Reg. 3. exceeded the reſt, and therfore were at laſt more ſeuerely punished.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "And I wil ſend fyre into Moab, and it shal deuoure the houſes of Carioth: and Moab shal dye in the ſound, in the noyſe of the trumpet:"
+        },
+        {
+          "verse": 3,
+          "text": "and I wil deſtroy the iudge out of the middes of him, and al his princes I wil kil with him, ſaith our Lord."
+        },
+        {
+          "verse": 4,
+          "text": "Thus ſaith our Lord: Vpon three wickedneſſes of Iuda, & vpon foure I wil not conuert him: becauſe he hath caſt away the law of our Lord, and not kept his commandments: for their idols haue deceiued them, after which their fathers went.",
+          "notes": [
+            {
+              "label": "b",
+              "text": "The moſt heynous ſinne in Iuda, was that hauing the law to inſtruct them, they contemned, and tranſgreſſed it.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 5,
+          "text": "And I wil ſend fire into Iuda, and it shal deuoure the houſes of Ieruſalem."
+        },
+        {
+          "verse": 6,
+          "text": "Thus ſaith our Lord: Vpon three wickedneſſes of Iſrael, and vpon foure I wil not conuert him: becauſe he hath ſold the iuſt for ſiluer, and the poore for shoes.",
+          "notes": [
+            {
+              "label": "c",
+              "text": "Iſrael much more contemned the ſame law of God, & committed the ſinnes of al nations.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 7,
+          "text": "Which bruiſe the heades of the poore vpon the duſt of the earth, and decline the way of the humble: and the ſonne and his father haue gone to a young woman, that they might violate my holie name.",
+          "notes": [
+            {
+              "label": "d",
+              "text": "Sonnes committed inceſt vvith their fathers vviues; & the fathers with their daughters in law, which moſt deteſtable ſinnes muſt nedes be ſeuerly punished.",
+              "kind": "gloss"
+            },
+            {
+              "label": "1",
+              "text": "* puellam.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 8,
+          "text": "And vpon garments layd to pledge they did lye beſide euerie altar: & the wine of the condemned they dranke in the houſe of their God."
+        },
+        {
+          "verse": 9,
+          "text": "But I did caſt out the Ammorrheit before their face: whoſe height the height of Cedars, & he ſtrong as an oke: and I deſtroyed his fruite from aboue, & his rootes beneath.",
+          "cross_refs": [
+            {
+              "text": "Num. 21. Deut. 2."
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "text": "It is I that made you come vp out of the Land of Ægypt, & I ledde you in the deſert fourtie yeares, that you might poſſeſſe the Land of the Amorrheite."
+        },
+        {
+          "verse": 11,
+          "text": "And I rayſed vp of your ſonnes to be prophets & of your yongmen Nazareites, is it not ſo ô children of Iſrael, ſaith our Lord?"
+        },
+        {
+          "verse": 12,
+          "text": "And you dranke wine to the Nazareites: and the prophets you commanded, ſaying: Prophecie not."
+        },
+        {
+          "verse": 13,
+          "text": "Behold I wil ſcreake vnder you, as a wayne ſcreaketh loden vvith hay."
+        },
+        {
+          "verse": 14,
+          "text": "And flight shal perish from the ſwift, and the valient shal not obteyne his ſtrength, and the ſtrong shal not ſaue his life."
+        },
+        {
+          "verse": 15,
+          "text": "And he that holdeth the bow shal not ſtand, and the ſwift of his feete shal not be ſaued, and the rider of the horſe shal not ſaue his life."
+        },
+        {
+          "verse": 16,
+          "text": "and the ſtoute of hart among the valients shal flee naked in that day, ſayth our Lord."
+        }
+      ],
+      "summary": "God alſo threatneth Moab, 4. Iuda, 6. and Iſrael, 9. that for ingratitude, 12. and other ſinnes, they shal be brought into captiuitie."
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "HEARE the word, that our Lord hath ſpoken vpon you, ye children of Iſrael: vpon al the kindred that I brought forth out of the Land of Ægypt, ſaying:",
+          "notes": [
+            {
+              "label": "a",
+              "text": "By Iſrael is here vnderſtood the whole people al the kinred or ofspring of Iacob, deliuered from Ægypt.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "Onlie you haue I knowen of al the kindreds of the earth: therfore wil I viſite vpon you al your iniquities."
+        },
+        {
+          "verse": 3,
+          "text": "Why shal two walke together, vnles they be agreed?",
+          "notes": [
+            {
+              "label": "b",
+              "text": "As two men do not wel trauel together except they agree : ſo man can not walke vvith God, vnles he agree with God, keeping his commandments.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 4,
+          "text": "Wil the lion roare in the forreſt, vnles he haue a praye? wil the lions whelp geue voice out of his denne, vnles he hath caught ſomewhat?"
+        },
+        {
+          "verse": 5,
+          "text": "wil the bird fal into the ſnare of the earth, without the ſowler? Shal the ſnare be taken away from the earth, before it hath taken ſomewhat?"
+        },
+        {
+          "verse": 6,
+          "text": "Shal the trumpet ſound in the citie, and wil not the people be afrayd? Shal there be euil in the citie, which our Lord hath not done?",
+          "notes": [
+            {
+              "label": "c",
+              "text": "Al euil of paine that is, punishment for ſinne is by Gods permiſſion, and ordinance, either to bring ſinners to repentance, or (if they dye in mortal ſinne) the beginning of eternal punishment.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 7,
+          "text": "Becauſe our Lord God wil not doe a word, vnles he haue reueled his ſecret to his ſeruants the prophets."
+        },
+        {
+          "verse": 8,
+          "text": "The lion shal roare, who wil not feare? Our Lord God hath ſpoken, who shal not prophecie?"
+        },
+        {
+          "verse": 9,
+          "text": "Make it heard in the houſes of Azotus, and in the houſes of the Land of Ægypt: and ſay: Gather ye together vpon the mountaines of Samaria, and ſee the manie madneſſes in the midddes therof, and them that ſuffer calumnie in the inner parts therof."
+        },
+        {
+          "verse": 10,
+          "text": "And they haue not knowne to doe right, ſayth our Lord, treaſuring vp iniquitie, and robberies in their houſes."
+        },
+        {
+          "verse": 11,
+          "text": "Therfore thus ſayth our Lord God: The land shal be in tribulation, & compaſſed about: and thy ſtrength shal be plucked away from thee, and thy houſes shal be ſpoyled."
+        },
+        {
+          "verse": 12,
+          "text": "Thus ſayth our Lord: As if a paſtour should get out of the lions mouth two legges, or the tippe of the eare: ſo shal the children of Iſrael, that dwel in Samaria, be deliuered, in the plague of the bed, and in the couche of Damaſcus."
+        },
+        {
+          "verse": 13,
+          "text": "Heare ye, and conteſt in the houſe of Iacob, ſayth our Lord the God of hoſts:"
+        },
+        {
+          "verse": 14,
+          "text": "That in the day when I shal begin to viſite the preuarications of Iſrael, I wil viſite vpon him, and vpon the altars of Bethel: and the hornes of the altar shal be cut of, and shal fal to the ground.",
+          "notes": [
+            {
+              "label": "d",
+              "text": "The fayreſt and ſtrongeſt thinges that vvicked men haue shal at laſt be deſtroyed.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 15,
+          "text": "And I wil ſtrike the winter houſe with the ſummer houſe: and the houſes of yuorie shal perish, and manie houſes shal be diſſipated, ſayth our Lord."
+        }
+      ],
+      "summary": "For their manifold ſinnes, al the twelue tribes shal be ſore plaged. 11. and made captiues."
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "HEARE this word ye fatte kine, which are in the mountaines of Samaria: which doe calumnie to the needie, and breake the poore: which ſay to your lords: Bring, and we wil drinke.",
+          "notes": [
+            {
+              "label": "a",
+              "text": "Rich hard-harted people, who being welthie haue no compaſſion of the poore.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "Our Lord God hath ſworne by his holie, that loe the dayes shal come vpon you, and they shal lift you vp on poles, and your remnant in pottes boyling hotte."
+        },
+        {
+          "verse": 3,
+          "text": "And by the breaches you shal goe out one againſt an other, & you shal be caſt forth into Armon, ſaith our Lord.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "places of Armenia.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 4,
+          "text": "Come ye to Bethel, and doe impiouſely to Galgal, and multiplie preuarication: and offer in the morning your victimes, three dayes your tithes.",
+          "notes": [
+            {
+              "label": "b",
+              "text": "After manie admonitions geuen in vaine God ſuffereth the idolaters to do al the vvickednes they liſt.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 5,
+          "text": "And ſacrifice ye prayſe of the leauened: and cal voluntarie oblations, and proclaime it: for ſo would you ô children of Iſrael, ſayth our Lord God."
+        },
+        {
+          "verse": 6,
+          "text": "Wherupon I alſo haue geuen you dulnes of the teeth in al your cities, and lacke of bread in al your places: and you haue not returned to me, ſayth our Lord.",
+          "notes": [
+            {
+              "label": "c",
+              "text": "Al theſe afflictions God ſent to the children of Iſrael for their good, but they murmured & were ſtil obſtinate.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 7,
+          "text": "I alſo haue ſtayed the rayne from you, when there remayned yet three monethes vnto harueſt: and I rayned vpon one citie, and vpon an other citie I rayned not: one part was rayned vpon; and the part whereupon I rayned not, withered."
+        },
+        {
+          "verse": 8,
+          "text": "And two and three cities came to one citie to drinke water, & were not filled: & you returned not to me, ſaith our Lord."
+        },
+        {
+          "verse": 9,
+          "text": "I ſtroke you with a burning winde, & with blaſting, the multitude of your gardens, and al your vineyards: your oliue groues, & figgroues the eruke hath eaten: and you returned not to me, ſayth our Lord.",
+          "cross_refs": [
+            {
+              "text": "Agge. 2."
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "text": "I ſent death vpon you in the way of Ægypt, I ſtroke your yongmen with the ſword, euen to the captiuitie of your horſes: and I made the putrefaction of your campe to come vp into your noſtherels: and you returned not to me, ſayth our Lord."
+        },
+        {
+          "verse": 11,
+          "text": "I ſubuerted you, as God ſubuerted Sodom and Gomorth, and you were made as a fyrebrand haſtely caught from the burning: and you returned not to me, ſayth our Lord."
+        },
+        {
+          "verse": 12,
+          "text": "Wherfore theſe thinges wil I doe to thee Iſrael: but after I shal doe theſe thinges to thee, be prepared to meete thy God ô Iſrael.",
+          "notes": [
+            {
+              "label": "d",
+              "text": "After long captiuitie Chriſt vvil offer himſelf to the Iewes, and ſuch as receiue him, he wil ſaue.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 13,
+          "text": "Becauſe loe he that formeth the mountaines and createth the wind, and declareth his word to man, maketh the morning miſt, and walketh vpon the high places of the earth: our Lord the God of hoſt is his name."
+        }
+      ],
+      "summary": "The tenne tribes are particularly charged for oppreſſing the poore, 2. therfore threatned with calamities: 6. blamed for their obſtinacie: 12. neuertheles al are admonished to expect Chriſt."
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "HEARE ye this word, that I lift vpon you a lamentation. The houſe of Iſrael is fallen, and it shal not adde to riſe againe.",
+          "notes": [
+            {
+              "label": "a",
+              "text": "When the people neither fele nor feare euil, God forſeing their calamities, lamenteth the ſame in their behalf, therby admonishing them to know their owne danger, and by repentance to preuent it.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "The virgine of Iſrael, is caſt forth vpon her land, there is none to rayſe her vp."
+        },
+        {
+          "verse": 3,
+          "text": "Becauſe thus ſayth our Lord God: The citie, out of which came forth a thouſand, there shal be left in it an hundred: and out of which there came an hundred, there shal be left in it tenne, in the houſe of Iſrael."
+        },
+        {
+          "verse": 4,
+          "text": "Becauſe thus ſayth our Lord to the houſe of Iſrael: Seeke ye me, and you shal liue."
+        },
+        {
+          "verse": 5,
+          "text": "And ſeeke not Bethel, and into Galgal enter not, and into Berſabee you shal not paſſe: becauſe Galgal shal be led captiue, and Bethel shal be vnprofitable."
+        },
+        {
+          "verse": 6,
+          "text": "Seke ye our Lord: and liue: leſt perhaps the houſe of Ioſeph be burnt as fyre, and it shal deuoure, and there shal be none to quench Bethel."
+        },
+        {
+          "verse": 7,
+          "text": "You that turne iudgement into wormewod, and leaue of iuſtice in the land."
+        },
+        {
+          "verse": 8,
+          "text": "Him that maketh Arcturus, and Orion, and that turneth darknes into morning, and that changeth day into night: that calleth the waters of the ſea, and powreth them out vpon the face of the earth: The Lord is his name."
+        },
+        {
+          "verse": 9,
+          "text": "He that ſeeketh deſtruction vpon the ſtrong, and bringeth depopulation vpon the mightie."
+        },
+        {
+          "verse": 10,
+          "text": "They haue hated him that rebuketh in the gate: and him that ſpeaketh perfectly they haue abhorred.",
+          "cross_refs": [
+            {
+              "text": "Sopho. 1."
+            }
+          ]
+        },
+        {
+          "verse": 11,
+          "text": "Therfore becauſe you ſpoiled the poore, and tooke the choſen praye from him: you shal build houſes with ſquare ſtone, and shal not dwel in them: you shal plant moſt amiable vineyards, and ſhal not drinke the wine of them."
+        },
+        {
+          "verse": 12,
+          "text": "Becauſe I haue knowen manie your wickedneſſes, and your ſtrong ſinnes: enemies of the iuſt, taking bribe, and oppreſſing the poore in the gate."
+        },
+        {
+          "verse": 13,
+          "text": "Therfore shal the wiſe at that time hold his peace, becauſe it is an euil time."
+        },
+        {
+          "verse": 14,
+          "text": "Seeke ye good, and not euil, that you may liue: and our Lord the God of hoſts wil be with you, as you haue ſayd."
+        },
+        {
+          "verse": 15,
+          "text": "Hate ye euil, and loue good, and eſtablish iudgement in the gate: if perhaps our Lord the God of hoſts may haue mercie on the remnant of Ioſeph.",
+          "cross_refs": [
+            {
+              "text": "Rom. 12. Pſal. 96."
+            }
+          ],
+          "notes": [
+            {
+              "label": "b",
+              "text": "Rom. 11. Pſal. 96. · If men ſeeke good & not euil, God vvil aſſiſt them, as in the former verſe, and in innumerable holie ſcriptures: but it is here ſayd: perhaps God wil haue mercie by reaſon of the difficultie of mans part who conuerteth not alwayes perfectly, as he hath freevvil to do by Gods grace aſſiſting him.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 16,
+          "text": "Therfore thus ſayth our Lord the God of hoſts the Dominatour, in al ſtreates lamentation: and in al places that are without, shal be ſayd wo wo: and they shal cal the huſbandman to mourning, and to lamentation them that know to lament."
+        },
+        {
+          "verse": 17,
+          "text": "And in al vineyardes there shal be lamentation: becauſe I wil paſſe through in the middes of thee, ſayth our Lord."
+        },
+        {
+          "verse": 18,
+          "text": "Wo vnto them that deſyre the day of our Lord: to what purpoſe the ſame vnto you? This day of our Lord, darkenes, and not light.",
+          "cross_refs": [
+            {
+              "text": "Isa. 13. Iere. 30. Ioel. 1. Soph. 1."
+            }
+          ]
+        },
+        {
+          "verse": 19,
+          "text": "As if a man should flee from the face of a lion, & a beare should mete him: & enter into the houſe, & leane with his hand vpon the wal, and a ſerpent should bite him."
+        },
+        {
+          "verse": 20,
+          "text": "Why, is not the day of our Lord darkenes, and not light: and miſt, and no shining therein?"
+        },
+        {
+          "verse": 21,
+          "text": "I haue hated, and haue reiected your feſtiuities: and I wil not take the odour of your aſſemblies.",
+          "cross_refs": [
+            {
+              "text": "Iſa. 1. Ier. 6. Mat. 2."
+            }
+          ]
+        },
+        {
+          "verse": 22,
+          "text": "And if you shal offer vnto me holocauſts, and your gifts, I wil not receiue them: and the vowes of your fat thinges I wil not reſpect."
+        },
+        {
+          "verse": 23,
+          "text": "Take away from me the tumult of thy ſonges: and the canticles of thy harpe I wil not heare."
+        },
+        {
+          "verse": 24,
+          "text": "And iudgement shal be reueled as water, and iuſtice, as a mightie torrent."
+        },
+        {
+          "verse": 25,
+          "text": "Why, did you offer hoſtes and ſacrifice to me in the deſert fourtie yeares, ô houſe of Iſrael?",
+          "cross_refs": [
+            {
+              "text": "Act. 7. Pſal. 94."
+            }
+          ],
+          "notes": [
+            {
+              "label": "c",
+              "text": "Act. 7. Pſal. 94. · In the firſt yeare of the 40. and beginning of the ſecond they offered ſacrifices to God. Leuit. 8 & 9. Num. 7. But not afterwardes. S. Aug q 47. in Exod.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 26,
+          "text": "And you caried a tabernacle for your Moloch, and the image of your idols, the ſtarre of your God, which you made to your ſelues."
+        },
+        {
+          "verse": 27,
+          "text": "And I wil make you remoue beyond Damaſcus, ſaith our Lord, the God of hoſtes is his name."
+        }
+      ],
+      "summary": "Notwithſtanding great miſeries threatned againſt the tenne tribes: 4. yet if they wil repent they shal eſcape: 7. otherwiſe they shal fal into captiuitie: 14. and therfore they are admonished to returne to God: 16. but being obſtinate, 21. no ſacrifice can appeaze Gods wrath."
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "WO TO you that are rich in Sion, and haue confidence in the mountaine of Samaria: ye great men, heads of the peoples, going ſtately into the houſe of Iſrael.",
+          "cross_refs": [
+            {
+              "text": "Iac. 5."
+            }
+          ],
+          "notes": [
+            {
+              "label": "a",
+              "text": "Iac. 5. · It iſ a fowle & odious fault vvhen rich men neglect the poore, but moſt deteſtable vvhen the rich in Sion, welthie clergie men, haue not compaſſion on them that vvant, either ſpiritual or temporal helpe.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "Paſſe ye into Chalane, and ſee, & goe ye thence into Emath the great: and deſcend into Geth of the Paleſtines, and to al the beſt kingdoms of theſe: if their border be larger then your border."
+        },
+        {
+          "verse": 3,
+          "text": "You that are ſeperated vnto the euil day: and approch to the throne of iniquitie."
+        },
+        {
+          "verse": 4,
+          "text": "You that ſleepe in beds of iuorie, and play the wantons in your couches: that eate the lambe out of the flocke, and calues out of the middes of the heard."
+        },
+        {
+          "verse": 5,
+          "text": "You that ſing to the voice of the pſalter: as Dauid they haue thought themſelues to haue the inſtruments of ſong."
+        },
+        {
+          "verse": 6,
+          "text": "That drinke wine in phials, and are annoynted with the beſt oyntment: and they ſuffered nothing vpon the contrition of Ioſeph."
+        },
+        {
+          "verse": 7,
+          "text": "Wherfore now they shal goe in the head of them, that goe in tranſmigration: and the faction of the wantons shal be taken away."
+        },
+        {
+          "verse": 8,
+          "text": "The Lord God hath ſworne by his ſoule, ſaith our Lord the God of hoſtes: I deteſt the pride of Iacob, and I hate his houſes, and I wil deliuer vp the citie with the inhabitants therof.",
+          "cross_refs": [
+            {
+              "text": "Iere. 51."
+            }
+          ],
+          "notes": [
+            {
+              "label": "b",
+              "text": "Iere. 51. · VVheras Iacob by humilitie, patience, & manie other vertues, became great in Gods fauour: novv his progenie by pride and delicacie become hateful to God in reſpect of theſe ſinnes, & are therfore afflicted, and miſerably ſlaine, and caried captiues.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "text": "And if there shal be left tenne men in one houſe, they alſo shal dye."
+        },
+        {
+          "verse": 10,
+          "text": "And his kinſman shal take him vp, and shal burne him, that he may carie the bones out of the houſe: and he shal ſay to him, that is in the inner parts of the houſe: Is there yet with thee?"
+        },
+        {
+          "verse": 11,
+          "text": "And he shal anſwer: There is an end. And he shal ſay to him: Hold thy peace, & remember not the name of our Lord."
+        },
+        {
+          "verse": 12,
+          "text": "Becauſe loe our Lord hath commanded, and he wil ſtrike the greater houſe with ruins, and the leſſer houſe with clefts."
+        },
+        {
+          "verse": 13,
+          "text": "Why can horſes runne vpon rockes, or can there be ploughing with buffles? becauſe you haue turned iudgement into bitternes, and the fruite of iuſtice into wormewood?",
+          "notes": [
+            {
+              "label": "c",
+              "text": "To turne the vvorkes of iudgement and iuſtice, into ſinnes, vvhich are bitter and vngratful, is as contrarie to order, as it is contrarie to the courſe of nature, that horſes should runne vpon craggie rockes or wild buffes be brought to dravv the plough.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 14,
+          "text": "Which reioyce in thinges of naught: which ſay: Why haue not we taken vnto vs hornes in our owne ſtrength?"
+        },
+        {
+          "verse": 15,
+          "text": "For behold I wil rayſe vp from you ô houſe of Iſrael, ſaith our Lord the God of hoſtes, a nation: and they shal deſtroy you from the entrance of Emath, euen to the torrent of the deſert."
+        }
+      ],
+      "summary": "For the auarice, and luxurie of both kingdomes, 7. they shal be caried into captiuitie."
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "THESE thinges hath our Lord God shewed to me: and loe the former of the locuſt in the beginning of thinges that ſpring of the later rayne, and behold the later rayne after the kings mowing.",
+          "notes": [
+            {
+              "label": "a",
+              "text": "Locuſtes ſvvarming in multitude ſignified the Aſſirian ſouldiars inuading the tenne tribes, as is recorded 4. Reg. 18.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "And it came to paſſe: after it had finished to eate the graſſe of the land, I ſayd: O Lord God be propicious I beſeech thee: who shal rayſe vp Iacob, becauſe he is a litle one?"
+        },
+        {
+          "verse": 3,
+          "text": "Our Lord hath had pitie vpon this: It shal not be, ſayth our Lord.",
+          "notes": [
+            {
+              "label": "b",
+              "text": "Salmanaſar king of Aſſirians hauing ſubdued the tenne tribes, inuaded the kingdom of Iuda, & beſieged Ieruſalem but his armie was miraculouſly deſtroyed. 4. Reg. 19.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 4,
+          "text": "Theſe thinges hath our Lord God called iudgement vnto fyre, and it deuoured the great depth and it did eate a part together.",
+          "notes": [
+            {
+              "label": "c",
+              "text": "This ſecond viſion of fire ſignified the captiuitie of the two tribes caried into Babylon. 4. Reg. 24. & 25.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 5,
+          "text": "And I ſayd: Lord God be quiet I beſech thee: who shal rayſe vp Iacob, becauſe he is a litle one?"
+        },
+        {
+          "verse": 6,
+          "text": "Our Lord had pitie vpon this: Yea this alſo shal not be, ſayth our Lord God."
+        },
+        {
+          "verse": 7,
+          "text": "Theſe thinges hath our Lord shewed to me: and loe our Lord ſtanding vpon a wal plaſtered, and in his hand a maſons truel.",
+          "notes": [
+            {
+              "label": "d",
+              "text": "This third viſion ſignified the calamities which the ten tribes ſuffered ſhortly after in the reigne of Manahem. 4. Reg. 15 v. 20.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 8,
+          "text": "And our Lord ſayd to me: What ſeeſt thou Amos? And I ſayd: A maſons truel. And our Lord ſayd: Behold I wil lay downe the truel in the middes of my people Iſrael: I wil adde no more to plaſter it ouer."
+        },
+        {
+          "verse": 9,
+          "text": "And the excelſes of the idol shal be throwen downe, and the ſanctifications of Iſrael shal be made deſolate: and I wil riſe vpon the houſe of Ieroboam with the ſword."
+        },
+        {
+          "verse": 10,
+          "text": "And Amaſias the prieſt of Bethel ſent to Ieroboam the king of Iſrael, ſaying: Amos hath rebelled againſt thee in the middes of the houſe of Iſrael: the land wil not be able to ſuſteyne al his wordes.",
+          "notes": [
+            {
+              "label": "e",
+              "text": "Falſe prophets not induring the vvholſome preaching of true paſtores falſely accuſe them of rebellion, treaſon, and ſedition.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 11,
+          "text": "For thus ſaith Amos: Ieroboam shal dye by the ſword, and Iſrael shal depart captiue out of their land.",
+          "notes": [
+            {
+              "label": "f",
+              "text": "In this alſo the falſe prophet lyed, for Amos ſayd not : Ieroboam shal dye by the ſword : but that God would riſe vpon the houſe of Ieroboam vvith the ſword. v. 9. fulfilled vvhen Zacharias the ſonne of Ieroboam was ſlaine by Sellum. 4. Reg. 15 v 10.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 12,
+          "text": "And Amaſias ſayd to Amos: Thou that ſeeſt, goe, flee into the land of Iuda: & eate bread there, and thou shalt prophecie there."
+        },
+        {
+          "verse": 13,
+          "text": "And in Bethel thou shalt adde no more to prophecie: becauſe it is the ſanctification of the king, and it is the houſe of the kingdom."
+        },
+        {
+          "verse": 14,
+          "text": "And Amos anſwered, and ſayd to Amaſias: I am not a prophete , and I am not the ſonne of a prophet: but an heardſman am I plucking ſycomores.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "by education.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 15,
+          "text": "And our Lord tooke me when I folowed the flocke, and our Lord ſayd to me: Goe, prophecie to my people Iſrael."
+        },
+        {
+          "verse": 16,
+          "text": "And now heare the word of our Lord: Thou ſayeſt: Thou shalt not prophecie vpon Iſrael, and thou shalt not diſtil vpon the houſe of the idol."
+        },
+        {
+          "verse": 17,
+          "text": "Therfore thus ſaith our Lord: Thy wife shal fornicate in the citie, and thy ſonnes, and thy daughters shal fal by the ſword, & thy ground shal be meaſured with a corde: and thou shalt dye in a polluted land, and Iſrael shal depart captiue out of their land."
+        }
+      ],
+      "summary": "In three viſions manie miſeries are reueled, which shal come vpon both the kingdomes. 10. A falſe prieſt of Bethel accuſing the prophet of ſedition, and endeuouring to chaſe him away, 14. is by him forewarned of miſeries to his familie, and death to himſelf."
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "THESE thinges hath our Lord shewed to me: and be-hold an apple hooke.",
+          "notes": [
+            {
+              "label": "a",
+              "text": "By this viſion of a hooke is ſignified that not only the nerer partes of the tenne tribes should be brought into captiuitie which is writen. 4. Reg. 15. v 29. but alſo the reſt which vvere further of : as fruite of trees, vvhich can not be gathered vvith the hand, is drawven vvith a hooke : & ſo al vvere caried avvay. 4. Reg. 17. v. 6.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "And he ſayd: What ſeeſt thou Amos? And I ſayd: An apple hooke. And our Lord ſayd to me: The end cometh vpon my people Iſrael: I wil adde no more to paſſe them."
+        },
+        {
+          "verse": 3,
+          "text": "And the henges of the temple shal creake in that day, ſaith our Lord God: manie shal dye: in euerie place shal ſilence be caſt."
+        },
+        {
+          "verse": 4,
+          "text": "Heare this you that tread downe the poore, & make the needie of the land to fayle,"
+        },
+        {
+          "verse": 5,
+          "text": "ſaying: When wil the moneth paſſe, and we shal ſel wares: and the Sabbath, and we open the corne: that we may diminish the meaſure, and increaſe the ſicle, and conuey in deceitful balances,"
+        },
+        {
+          "verse": 6,
+          "text": "that we may for ſiluer poſſeſſe the needie, and the poore for shoes, and may ſel the refuſe of the corne?"
+        },
+        {
+          "verse": 7,
+          "text": "Our Lord hath ſworne agaynſt the pride of Iacob If I shal forget euen to the end al their workes."
+        },
+        {
+          "verse": 8,
+          "text": "Why, shal not the land be moued vpon this, and euerie inhabitant therof mourne: and riſe vp as a riuer altogether, and be caſt out, and runne downe to the riuer of Ægypt?",
+          "cross_refs": [
+            {
+              "text": "Deut. 1. Iere. 15. Tob. 2. Mar. 1."
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "text": "And it shal be in that day, ſaith our Lord God: The ſunne shal goe downe at midday, & I wil make the earth to be darke in the day of light.",
+          "notes": [
+            {
+              "label": "b",
+              "text": "In their great proſperitie; vvhen they leaſt ſuſpect, calamities shal fal vpon them. · Deut. 1. Iere 15.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "text": "And I wil turne your feſtiuities into mourning, and al your ſongues into lamentation: and I wil bring in vpon euerie backe of yours ſackcloth, and vpon euerie head baldnes: and I wil lay it as the mourning of an onlie begotten ſonne; and the later end therof as a bitter day."
+        },
+        {
+          "verse": 11,
+          "text": "Behold the dayes come, ſaith our Lord, and I wil ſend forth famine into the land: not the famine of bread, nor thirſt of water, but of hearing the word of the Lord.",
+          "notes": [
+            {
+              "label": "c",
+              "text": "It can not be doubted but in the ſiege there vvas vvant of bread drinke and of other victuals : but greater vvant of ſpiritual foode.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 12,
+          "text": "And they shal be moued from the ſea euen to ſea, and from the North euen to the Eaſt: they shal goe about ſeeking the word of our Lord, and shal not finde."
+        },
+        {
+          "verse": 13,
+          "text": "In that day the fayre virgins shal faile, & the yongmen in thirſt."
+        },
+        {
+          "verse": 14,
+          "text": "They that ſweare by the ſinne of Samaria, and ſay: Thy God ô Dan liueth: and the way of Berſebee liueth: and they shal fal, and shal riſe no more."
+        }
+      ],
+      "summary": "In a viſion of an apple hooke the captiuitie of the tenne tribes is againe foreshewed, 4. with reprehenſion of their auarice, and oppreſſion of the poore: 7. for which they shal fal into great miſeries."
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "I SAW our Lord ſtanding vpon the altar, and he ſayd: Strike the henges, & let the lintels be moued: for there is auarice in the head of al, and the laſt of them wil I kil by the ſword: there shal be no flight for them: they shal flee, and he shal not be ſaued that shal flee of them.",
+          "notes": [
+            {
+              "label": "a",
+              "text": "Deſtruction of the Altar,",
+              "kind": "gloss"
+            },
+            {
+              "label": "b",
+              "text": "and the Temple, importe the abolishing of ſacrifice, vvhen the two tribes vvere caried into Babylon. · Pſal. 13.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "If they shal deſcend euen to hel, thence shal my hand bring them out: and if they shal aſcend euen to heauen, thence wil I plucke them downe.",
+          "cross_refs": [
+            {
+              "text": "Pſal. 138."
+            }
+          ]
+        },
+        {
+          "verse": 3,
+          "text": "And if they shal be hid in the toppe of Carmel, thence ſearching wil I take them away: and if they shal hide themſelues from mine eyes in the depth of the ſea, there wil I command the ſerpent & he shal bite them."
+        },
+        {
+          "verse": 4,
+          "text": "And if they shal go into captiuitie before their enemies, there wil I command the ſword, and it shal kil them. And I wil ſet mine eyes vpon them to euil, and not to good.",
+          "cross_refs": [
+            {
+              "text": "Iere. 44."
+            }
+          ]
+        },
+        {
+          "verse": 5,
+          "text": "And our Lord the God of hoſtes, which toucheth the earth, and it shal melt away: and al that dwel therein shal mourne: and it shal al riſe as a riuer, and shal runne downe as the floud of Ægypt."
+        },
+        {
+          "verse": 6,
+          "text": "He that buildeth in heauen his aſcenſion, and hath founded his bundel vpon the earth: who calleth the waters of the ſea, and powreth them out vpon the face of the earth, the Lord is his name.",
+          "notes": [
+            {
+              "label": "c",
+              "text": "God who defendeth his Church as a ſtrong bundel faſt bond together, vvil punish the vvicked vvith iuſt afflictions.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 7,
+          "text": "Why, are not you as the children of the Æthiopians vnto me, ô children of Iſrael, ſaith our Lord? Did not I make Iſrael to aſcend out of the Land of Ægypt: and the Paleſthins out of Cappadocia, and the Syrians out of Cyrenee?"
+        },
+        {
+          "verse": 8,
+          "text": "Behold the eyes of our Lord God vpon the ſinning kingdom; & I wil deſtroy it from the face of the earth: but yet deſtroying I wil not deſtroy the houſe of Iacob, ſayth our Lord.",
+          "notes": [
+            {
+              "label": "d",
+              "text": "Notvvithſtanding the great ruine of the Ievves, ſlaine & ledde captiues, yet God in them conſerued the Church that it was not deſtroyed.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "text": "For behold I wil command, and wil shake the houſe of Iſrael in al nations, as wheate is shaken in a ſieue: and there shal not a litle ſtone fal vpon the earth."
+        },
+        {
+          "verse": 10,
+          "text": "Al the ſinners of my people shal fal by the ſword: which ſay: The euil shal not approch, & shal not come vpon vs."
+        },
+        {
+          "verse": 11,
+          "text": "In that day I wil rayſe vp the tabernacle of Dauid, that was fallen: & I wil reedifie the breaches of the walles therof, and thoſe thinges, that were fallen I wil repayre: and I wil reedifie him as in the dayes of old.",
+          "notes": [
+            {
+              "label": "e",
+              "text": "S. Iames conformable to S. Peters doctrine, interpreteth this place of the conuerſion of the Gentiles to Chriſt. Act. 15. v. 15. &c. · Act. 15.",
+              "kind": "gloss"
+            },
+            {
+              "label": "1",
+              "text": "Act. 15.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 12,
+          "text": "That they may poſſeſſe the remnant of Idumea, and al nations, becauſe that my name is inuocated vpon them: ſaith our Lord that doth theſe thinges."
+        },
+        {
+          "verse": 13,
+          "text": "Behold the dayes come, ſaith our Lord: and the plougher shal ouertake the reaper, & the treader of the grape him that ſoweth ſede: and the mountaynes shal droppe ſweetnes, and al hilles shal be tilled."
+        },
+        {
+          "verse": 14,
+          "text": "And I wil conuert the captiuitie of my people Iſrael: and they shal build the deſert cities, & inhabite: and shal plant vineyards, and drinke the wine of them: & shal make gardens, and eate the fruites of them.",
+          "cross_refs": [
+            {
+              "text": "Ioel. 3."
+            }
+          ]
+        },
+        {
+          "verse": 15,
+          "text": "And I wil plant them vpon their owne ground: & I wil no more plucke them out of their land, which I haue geuen them, ſayth our Lord thy God."
+        }
+      ],
+      "summary": "The great deſtruction of Ieruſalem, 8. and diſperſion of al the Iewes are againe prophecied : 11. with the conuerſion of Gentils, and the Church of Chriſt shal greatly proſper."
+    }
+  ],
+  "spelling": "original"
+}

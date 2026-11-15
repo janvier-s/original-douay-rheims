@@ -1,0 +1,702 @@
+{
+  "book": "philippians",
+  "book_title": "The Epistle of Paul\nto the Philippians.",
+  "short_title": "Philippians",
+  "hebrew_title": null,
+  "intros": [
+    {
+      "title": "THE ARGUMENT OF THE EPISTLE OF S. PAUL TO THE PHILIPPIANS.",
+      "text": "HOW S. Paul was called by a viſion into Macedonia, we reade Act. 16. and how he came to Philippi being the firſt citie thereof, and of his preaching, miracles, and ſuffering there. And againe Act. 19. Paul purpoſed in the Spirit, when he had paſſed through Macedonia and Achaia, to goe to Hieruſalem, ſaying: After I haue been there, I muſt ſee Rome alſo. Which purpoſe he executed Act. 20. taking his leaue at Epheſus. And being afterward come into Achaia, he had counſel to returne through Macedonia, and ſo at length from Philippi he began his nauigation toward Hieruſalem, and from Hieruſalem being caried priſoner to Rome (Act. 28.) he wrote from thence this Epiſtle to the Philippians: or rather in his ſecond apprehenſion, about 10 yeres after the firſt.\nIn it he confirmeth them (as he did the Epheſians alſo about the ſame time) againſt the tentatiõ that they might haue in hearing that he were executed. Therfore he firſt ſaith: And I wil haue you know brethren, that the things about me, are come to the more furtherance of the Goſpel: ſo that my bandes were made manifeſt in Chriſt in al the Court &c. Secondly he ſignifieth that his deſire is, to be diſſolued and to be with Chriſt. But yet (leſt they ſhould be diſcomforted) that he hopeth to come againe to them. Whereof, notwithſtanding that he hath yet no certaintie, he ſignifieth in ſaying: I hope to ſend Timothee vnto you, immediatly as I ſhal ſee the things that concerne me. Thirdly therefore he prepareth them againſt the worſt, ſaying: I hope to come againe to you: but and if I be immolated, vpon the ſacrifice and ſeruice of your faith, I reioyce and congratulate with you al, and the ſelf-ſame thing do you alſo reioyce and congratulate with me.\n\nMoreouer he partly warneth them (as he had done before) of thoſe Iudaical Falſe-apoſtles who preached circumciſion & Moyſes law to the Chriſtian Gentils: partly he exhorteth them to ſuffer perſecution, to liue wel, and ſpecially to humble themſelues one to another, rather then by any pride to breake the peace & vnitie of the Church.",
+      "default": true,
+      "notes": [
+        {
+          "marker": 1,
+          "text": "Eph. 3."
+        },
+        {
+          "marker": 2,
+          "text": "Phil. 1. v. 12. 23. 26."
+        },
+        {
+          "marker": 3,
+          "text": "Phil. 2. v. 23. 24. 17."
+        },
+        {
+          "marker": "◦",
+          "text": "Phil. 3."
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "PAVL and Timothee the ſeruants of IESVS Chriſt: to al the ſainctes in Chriſt IESVS that are at Philippi, vvith the Biſhops and Deacons.",
+          "has_annotation": true
+        },
+        {
+          "verse": 2,
+          "text": "Grace to you and peace from God our father, and our Lord IESVS Chriſt."
+        },
+        {
+          "verse": 3,
+          "text": "I giue thankes to my God in al memorie of you"
+        },
+        {
+          "verse": 4,
+          "text": "( alvvaies in al my praiers for al you, vvith ioy making petition )"
+        },
+        {
+          "verse": 5,
+          "text": "for your communicating in the Goſpel of Chriſt from the firſt day vntil novv."
+        },
+        {
+          "verse": 6,
+          "text": "truſting this ſame thing, that he which hath begōne in you a good worke, vvil perfit it vnto the day of Chriſt IESVS.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "The Epiſtle vpon the 22 Sunday after Pentecoſt.",
+              "kind": "lectionary"
+            }
+          ]
+        },
+        {
+          "verse": 7,
+          "text": "as it is reaſon for me, this to thinke for al you, for that I haue you in hart, & in my bandes, and in the defenſe, and the confirmation of the Goſpel, al you to be partakers of my ioy."
+        },
+        {
+          "verse": 8,
+          "text": "For God is my vvitnes, hovv I couet you al in the bowels of IESVS Chriſt."
+        },
+        {
+          "verse": 9,
+          "text": "And this I pray, that your charitie may more and more abound in knovvledge and in al vnderſtanding:"
+        },
+        {
+          "verse": 10,
+          "text": "that you may approue the better things, that you may be ſincere and vvithout offence vnto the day of Chriſt,"
+        },
+        {
+          "verse": 11,
+          "text": "repleniſhed vvith the fruite of iuſtice by IESVS Chriſt, vnto the glorie and praiſe of God. ⊢"
+        },
+        {
+          "verse": 12,
+          "text": "And I vvil haue you knovv brethren, that the things about me are come to the more furtherance of the Goſpel:"
+        },
+        {
+          "verse": 13,
+          "text": "ſo that my bandes vvere made manifeſt in Chriſt in al the court, and in al the reſt,"
+        },
+        {
+          "verse": 14,
+          "text": "that many of our brethren in our Lord, hauing confidence in my bandes, vvere bold more aboundantly vvithout feare to ſpeake the vvord of God."
+        },
+        {
+          "verse": 15,
+          "text": "Some in deede euen for enuie and contention: but ſome alſo for good vvil preache Chriſt."
+        },
+        {
+          "verse": 16,
+          "text": "Some of charitie: knovving that I am ſet vnto the defenſe of the Goſpel."
+        },
+        {
+          "verse": 17,
+          "text": "And ſome of contention preache Chriſt not ſincerely: ſuppoſing that they raiſe affliction to my bandes."
+        },
+        {
+          "verse": 18,
+          "text": "But vvhat? So that by al meanes, vvhether by occaſion, or by truth, Chriſt be preached: in this alſo I reioyce, yea & vvil reioyce."
+        },
+        {
+          "verse": 19,
+          "text": "For I knovv that this ſhal fall out to me vnto ſaluatiō by your praier and the ſubminiſtration of the Spirit of IESVS Chriſt,"
+        },
+        {
+          "verse": 20,
+          "text": "according to my expectation & hope, becauſe in nothing ſhal I be confounded, but in al confidence as alvvaies, novv alſo ſhal Chriſt be magnified in my body, vvhether it be by life, or by death."
+        },
+        {
+          "verse": 21,
+          "text": "For vnto me, to liue is Chriſt: and to die is gaine."
+        },
+        {
+          "verse": 22,
+          "text": "And if to liue in the fleſh, this vnto me be the fruit of the vvorke, and vvhat I ſhal chooſe I knovv not."
+        },
+        {
+          "verse": 23,
+          "text": "And I am ſtraitened of the tvvo: hauing deſire to be diſſolued & to be vvith Chriſt, a thing much more better."
+        },
+        {
+          "verse": 24,
+          "text": "but to abide in the fleſh, `neceſſarie' for you.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "`more neceſſarie",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 25,
+          "text": "And truſting this, I know that I ſhal abide and continue vvith you al, vnto your furtherance and ioy of the faith:"
+        },
+        {
+          "verse": 26,
+          "text": "that your gratulation may abound in Chriſt IESVS in me, by my comming againe to you."
+        },
+        {
+          "verse": 27,
+          "text": "Only conuerſe ye vvorthie of the Goſpel of Chriſt: that vvhether vvhen I come and ſee you, or els be abſent, I may heare of you that you ſtand in one Spirit, of one minde labouring together to the faith of the Goſpel:",
+          "cross_refs": [
+            {
+              "text": "Eph. 4, 1."
+            }
+          ]
+        },
+        {
+          "verse": 28,
+          "text": "And in nothing be ye terrified of the aduerſaries, vvhich to them is cauſe of perdition: but to you of ſaluation, & this of God:",
+          "notes": [
+            {
+              "label": "1",
+              "text": "ἔνδειξις, A manifeſt proofe and euidence.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 29,
+          "text": "for to you it is giuen for Chriſt, not only that you beleeue in him, but alſo that you ſuffer for him,",
+          "notes": [
+            {
+              "label": "1",
+              "text": "c ἐχαρίσθη",
+              "kind": "word"
+            }
+          ]
+        },
+        {
+          "verse": 30,
+          "text": "hauing the ſame combat like as you haue ſeen in me, and novv `haue heard' of me.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "`doe heare",
+              "kind": "gloss"
+            }
+          ]
+        }
+      ],
+      "summary": "Hauing ſignified that he vſeth to thanke God for their vertue, 9 and alſo to pray for their encreaſe : 12 he certifieth them (for their confirmatiō & comfort) vvhat good was come through his trouble at Rome, 24 & that he doubteth not (though he rather deſire martyrdom) but to come againe vnto them, 27 exhorting them to liue as they ought to do, 28 and namely not to ſhrinke for perſecution."
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "IF therfore there be any conſolation in Chriſt, if any ſolace of charitie, if any ſocietie of ſpirit, if any bovvels of commiſeration:"
+        },
+        {
+          "verse": 2,
+          "text": "fulfil my ioy, that you be of one meaning, hauing the ſame charitie, of one minde, agreing in one."
+        },
+        {
+          "verse": 3,
+          "text": "nothing by contentiō, neither by vaine glorie: but in humilitie, eche coūting other better then them ſelues:",
+          "cross_refs": [
+            {
+              "text": "Ro. 12, 10. 1. Cor. 10, 24."
+            }
+          ]
+        },
+        {
+          "verse": 4,
+          "text": "euery one not cōſidering the things that are their owne, but thoſe that are other mens."
+        },
+        {
+          "verse": 5,
+          "text": "For this thinke in your ſelues, vvhich alſo in Chriſt IESVS,",
+          "notes": [
+            {
+              "label": "1",
+              "text": "The Epiſtle vpon Palme Sunday. And vpon Holy Roode day, Mai. 3.",
+              "kind": "lectionary"
+            }
+          ]
+        },
+        {
+          "verse": 6,
+          "text": "vvho vvhen he vvas in the forme of God, thought it no robberie, him ſelf to be equal to God,"
+        },
+        {
+          "verse": 7,
+          "text": "but he exinanited him ſelf, taking the forme of a ſeruant, made into the ſimilitude of men, and in ſhape found as man."
+        },
+        {
+          "verse": 8,
+          "text": "He humbled him ſelf, made obediēt vnto death: euen the death of the croſſe.",
+          "cross_refs": [
+            {
+              "text": "Heb. 2, 9."
+            }
+          ],
+          "notes": [
+            {
+              "label": "2",
+              "text": "The Epiſtle vpon Holy Roode day Septemb. 14. And in a Votiue Maſſe of the Holy Croſſe.",
+              "kind": "lectionary"
+            }
+          ],
+          "xrefs": [
+            "Heb. 2, 9."
+          ]
+        },
+        {
+          "verse": 9,
+          "text": "For the vvhich thing God alſo hath exalted him, and hath giuen him a name vvhich is aboue al names:",
+          "has_annotation": true
+        },
+        {
+          "verse": 10,
+          "text": "that in the name of IESVS euery knee bovve of the celeſtials, terreſtrials, and infernals:",
+          "has_annotation": true,
+          "cross_refs": [
+            {
+              "text": "Es. 45, 14. Ro. 14, 11."
+            },
+            {
+              "text": "Rom. 14, 12",
+              "source": "sancta"
+            }
+          ],
+          "xrefs": [
+            "Es. 45, 14. Ro. 14, 11."
+          ]
+        },
+        {
+          "verse": 11,
+          "text": "and euery tongue cōfeſſe that our Lord IESVS Chriſt is in the glorie of God the Father. ⊢"
+        },
+        {
+          "verse": 12,
+          "text": "Therfore my deereſt, ( as you haue alvvaies obeied ) not as in the preſence of me only, but much more novv in my abſence, vvith feare and trembling vvorke your ſaluation.",
+          "has_annotation": true
+        },
+        {
+          "verse": 13,
+          "text": "For it is God that vvorketh in you both to vvil and to accompliſh, according to his good vvil.",
+          "has_annotation": true
+        },
+        {
+          "verse": 14,
+          "text": "And doe ye al things vvithout murmurings and ſtaggerings:"
+        },
+        {
+          "verse": 15,
+          "text": "that you may be vvithout blame, and the ſimple children of God, vvithout reprehenſion in the middes of a crooked and peruerſe generation. among vvhom you ſhine as lightes in the vvorld:"
+        },
+        {
+          "verse": 16,
+          "text": "conteining the vvord of life to my glorie in the daie of Chriſt, becauſe I haue not runne in vaine, nor in vaine laboured.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "∷ Such as haue by their preaching gained any to Chriſt, ſhal ioy and glorie therein excedingly at the day of our Lord.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 17,
+          "text": "But and if I be immolated, vpon the ſacrifice and ſeruice of your faith, I reioyce and congratulate vvith you al.",
+          "has_annotation": true,
+          "notes": [
+            {
+              "label": "1",
+              "text": "∷ Paſtors ought to be ſo zelous of the ſaluation of their flocke, that vvith S. Paul they ſhould offer them ſelues to death for the ſame.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 18,
+          "text": "And the ſelf ſame thing doe you alſo reioyce, and congratulate vvith me."
+        },
+        {
+          "verse": 19,
+          "text": "And I hope in our Lord IESVS, to ſend Timothee vnto you quickly, that I alſo may be of good comfort, when I knovv the things pertaining to you."
+        },
+        {
+          "verse": 20,
+          "text": "For I haue no mā ſo of one minde that vvith ſincere affection is careful for you."
+        },
+        {
+          "verse": 21,
+          "text": "For al ſeeke the things that are their ovvne: not the things that are IESVS Chriſts.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "∷ Many forſake their teachers vvhen they ſee them in bandes and priſon for their faith, becauſe moſt men preferre the vvorld before Chriſts glorie.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 22,
+          "text": "And knovv ye an experiment of him, that as a ſonne the father, ſo hath he ſerued vvith me in the Goſpel."
+        },
+        {
+          "verse": 23,
+          "text": "This man therfore I hope to ſend vnto you, immediatly as I ſhal ſee the things that concerne me."
+        },
+        {
+          "verse": 24,
+          "text": "And I truſt in our Lord that my ſelf alſo ſhal come to you quickly."
+        },
+        {
+          "verse": 25,
+          "text": "But I haue thought it neceſſarie to ſend to you Epaphroditus my brother and coadiutor and felovv ſouldiar, but your Apoſtle, and miniſter of my neceſſitie."
+        },
+        {
+          "verse": 26,
+          "text": "Becauſe in deede he had a deſire tovvard you al: and vvas penſiue, for that you had heard that he vvas ſicke."
+        },
+        {
+          "verse": 27,
+          "text": "For in deede he vvas ſicke euen to death: but God had mercie on him: and not only on him, but on me alſo, leſt I ſhould haue ſorovv vpon ſorovv."
+        },
+        {
+          "verse": 28,
+          "text": "Therfore I ſent him the more ſpedily: that ſeeing him, you may reioyce againe, and I may be vvithout ſorovv."
+        },
+        {
+          "verse": 29,
+          "text": "Receiue him therfore vvith al ioy in our Lord: and ſuch intreate vvith honour."
+        },
+        {
+          "verse": 30,
+          "text": "becauſe for the vvorke of Chriſt, he came to the point of death: yelding his life, that he might fulfil that vvhich on your part vvanted tovvard my ſeruice."
+        }
+      ],
+      "summary": "He exhorteth them moſt inſtantly to keepe the vnitie of the Church, and to humble them ſelues for that purpoſe one to an other, 5 by the example of the maruelous humilitie of Chriſt, 9 ſpecially ſeing hovv maruelouſly he is novv exalted for it. 12 Item to obedience, feare, and perſeuerance. 17 Inſinuating ( leſt it ſhould aftervvardes trouble them ) that he may be martyred at this time, 19 Timothee he hopeth to ſend, vvhom he highly commendeth : 25 as alſo Epaphroditus, vvhom he preſently ſendeth."
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "FROM hence forth my brethren, reioyce in our Lord. To vvrite the ſame things vnto you, to me ſurely it is not tedious, and to you it is neceſſarie."
+        },
+        {
+          "verse": 2,
+          "text": "See the dogges, ſee the euil vvorkers, ſee the cconciſiō.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "By alluſion of vvords, he calleth the carnal Chriſtian Iews that yet boaſted in the circumciſion of the fleſh, conciſiō: & him ſelf & the reſt that circumcided their hart and ſenſes ſpiritually, the true circumciſion. S. Chrys. Theophylact.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 3,
+          "text": "For vve are the circumciſion, vvhich in ſpirit ſerue God: and vve glorie in Chriſt IESVS, and not hauing confidence in the fleſh,",
+          "notes": [
+            {
+              "label": "1",
+              "text": "c κατατομὴ et περιτομὴ",
+              "kind": "word"
+            }
+          ]
+        },
+        {
+          "verse": 4,
+          "text": "albeit I alſo haue confidence in the fleſh. If any other man ſeeme to haue confidence in the fleſh, I more,"
+        },
+        {
+          "verse": 5,
+          "text": "circumciſed the eight day, of the ſtocke of Iſraël, of the tribe of Beniamin, an Hebrevv of Hebrevves: according to the Lavv, a Phariſee:",
+          "cross_refs": [
+            {
+              "text": "2. Cor. 11, 22."
+            },
+            {
+              "text": "Act. 23, 6."
+            }
+          ]
+        },
+        {
+          "verse": 6,
+          "text": "according to emulation, perſecuting the Church of God: according to the iuſtice that is in the Lavv, conuerſing vvithout blame."
+        },
+        {
+          "verse": 7,
+          "text": "But the things that vvere gaines to me, thoſe haue I eſteemed for Chriſt, detriments.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "The Epiſtle for a Confeſſor that is not a Biſhop.",
+              "kind": "lectionary"
+            }
+          ]
+        },
+        {
+          "verse": 8,
+          "text": "Yea but I eſteeme al things to be detriment for the paſſing knovvledge of IESVS Chriſt my Lord: for vvhom I haue made al things as detriment, and do eſteeme them as dung, that I may gaine Chriſt:"
+        },
+        {
+          "verse": 9,
+          "text": "and may be found in him not hauing my iuſtice vvhich is of the Lavv, but that vvhich is of the faith of Chriſt, vvhich is of God iuſtice in faith:",
+          "has_annotation": true
+        },
+        {
+          "verse": 10,
+          "text": "to knovv him, and the vertue of his reſurrection, and the ſocietie of his paſſions, configured to his death,"
+        },
+        {
+          "verse": 11,
+          "text": "if by any meanes I may come to the reſurrection vvhich is from the dead.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "If S. Paul ceaſed not to labour ſtill, as though he vvere not ſure to come to the marke vvithout continual endeuour: vvhat ſecuritie may vve poore ſinners haue of Heretikes perſuaſions & promiſes of ſecuritie and ſaluation by onely faith?",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 12,
+          "text": "Not that novv I haue receiued, or novv am perfect: but I purſue, if I may comprehend vvherein I am alſo comprehended of Chriſt IESVS. ⊢",
+          "has_annotation": true
+        },
+        {
+          "verse": 13,
+          "text": "Brethren, I do not account that I haue comprehended. Yet one thing: forgetting the things that are behinde, but ſtretching forth my ſelf to thoſe that are before,"
+        },
+        {
+          "verse": 14,
+          "text": "I purſue to the marke, to the price of the ſupernal vocation of God in Chriſt IESVS.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "c ad brauium",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 15,
+          "text": "Let vs therfore as many as are perfect, be thus minded: and if you be any othervviſe minded, this alſo God hath reuealed to you.",
+          "has_annotation": true,
+          "notes": [
+            {
+              "label": "1",
+              "text": "`vvil reueale",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 16,
+          "text": "Neuertheleſſe vvherevnto we are come, that vve be of the ſame minde, let vs continue in the ſame rule."
+        },
+        {
+          "verse": 17,
+          "text": "Be folovvers of me brethren: & obſerue them that vvalke ſo as you haue our forme.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "The Epiſtle vpon the 23 Sunday after Pentecoſt. And for S. Clemēt, Nouemb. 23.",
+              "kind": "lectionary"
+            },
+            {
+              "label": "2",
+              "text": "It is a goodly thing vvhen the Paſtor may ſo ſay to his flocke. Neither is it any derogation to Chriſt, that the people ſhould imitate their Apoſtles life & doctrine, & other holy men, S. Auguſtine, S. Benedict, S. Dominike, S. Francis.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 18,
+          "text": "For many vvalke vvhom often I told you of (and novv vveeping alſo I tel you) the enemies of the croſſe of Chriſt:",
+          "cross_refs": [
+            {
+              "text": "Ro. 16, 17."
+            }
+          ]
+        },
+        {
+          "verse": 19,
+          "text": "vvhoſe end is deſtruction: vvhoſe God, is the belly: and their glorie in their confuſion, vvhich minde vvorldly things."
+        },
+        {
+          "verse": 20,
+          "text": "But our conuerſation is in heauen? vvhence alſo vve expect the Sauiour, our Lord IESVS Chriſt,"
+        },
+        {
+          "verse": 21,
+          "text": "vvho vvil reforme the body of our humilitie, configured to the body of his glorie, according to the operation vvhereby alſo he is able to ſubdue al things to him ſelf."
+        }
+      ],
+      "summary": "He vvarneth them of the Falſe-apoſtles, 4 ſhevving that him ſelf had much more to bragge of in Iudaiſme then they: but that he maketh price of nothing but only of Chriſt, and of Chriſtian iuſtice, and of ſuffering vvith him ( 12 vvherein yet he acknovvledgeth his imperfection ) 17 exhorting them to beare Chriſtes Croſſe vvith him, and not to imitate thoſe bellygods."
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "THERFORE, my deereſt brethren and moſt deſired, my ioy and my crovvne: ſo ſtand in our Lord, my deereſt.",
+          "has_annotation": true
+        },
+        {
+          "verse": 2,
+          "text": "`Euchodia' I deſire & Syntyché I beſeeche to be of one minde in our Lord.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "Euodia",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 3,
+          "text": "Yea and I beſeeche thee my ſincere companion, helpe thoſe vvomen that haue laboured vvith me in the Goſpel vvith Clement, and the reſt my coadiutors, vvhoſe names are in the booke of life. ⊢",
+          "has_annotation": true,
+          "notes": [
+            {
+              "label": "1",
+              "text": "This Clement vvas aftervvard the 4 Pope of Rome from S. Peter, as S. Hierom vvriteth according to the cōmon ſupputation.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 4,
+          "text": "Reioyce in our Lord alvvaies: againe I ſay reioyce.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "The Epiſtle vpon the 3 Sunday in Aduent.",
+              "kind": "lectionary"
+            }
+          ]
+        },
+        {
+          "verse": 5,
+          "text": "Let your modeſtie be knovven to al men. Our Lord is nigh."
+        },
+        {
+          "verse": 6,
+          "text": "Be nothing careful: but in euery thing by praier & ſupplicatiō vvith thākeſgiuing let your petitions be knovven vvith God.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "c ἐν παντὶ τῇ προσευχῇ",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 7,
+          "text": "And the peace of God vvhich paſſeth al vnderſtanding, keepe your hartes and intelligences in Chriſt IESVS. ⊢"
+        },
+        {
+          "verse": 8,
+          "text": "For the reſt brethren, vvhat things ſo euer be true, vvhatſoeuer honeſt, whatſoeuer iuſt, vvhatſoeuer holy, whatſoeuer amiable, vvhatſoeuer of good fame, if there be any vertue, if any praiſe of diſcipline, theſe things thinke vpon."
+        },
+        {
+          "verse": 9,
+          "text": "Vvhich you haue both learned, and receiued, and heard, & ſeen in me: theſe things doe ye, and the God of peace ſhall be vvith you."
+        },
+        {
+          "verse": 10,
+          "text": "And I reioyced in our Lord excedingly, that once at the length you haue crefloriſhed to care for me, as you did alſo care: but you vvere occupied.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "This refloriſhing is the reuiuing of their old liberalitie, vvhich for a time had been ſlacke & dead. S. Chrys.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 11,
+          "text": "I ſpeake not as it vvere for penurie. for I haue learned, to be cōtent vvith the things that I haue."
+        },
+        {
+          "verse": 12,
+          "text": "I knovv both to be brought lovv, I knovv alſo to abound: ( euery vvhere, and in al things I am inſtructed) both to be ful, & to be hungrie, both to abound, and to ſuffer penurie."
+        },
+        {
+          "verse": 13,
+          "text": "I can al things in him that ſtrengtheneth me."
+        },
+        {
+          "verse": 14,
+          "text": "Neuertheleſſe you haue done vvel, communicating to my tribulation."
+        },
+        {
+          "verse": 15,
+          "text": "And you alſo knovv ô Philippians, that in the beginning of the Goſpel, vvhen I departed from Macedonia, no church communicated vnto me in the account of gift and receite, but you only:",
+          "notes": [
+            {
+              "label": "1",
+              "text": "He counteth it not mere almes or a free gift that the people beſtoweth on their Paſtors or preachers, but a certaine mutual traffike as it vvere, and enterchange: the one giuing ſpiritual, the other rēdering tēporal things for the ſame.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 16,
+          "text": "for vnto Theſſalonica alſo, once and tvviſe you ſent to my vſe."
+        },
+        {
+          "verse": 17,
+          "text": "Not that I ſeeke the gift, but I ſeeke the fruite abounding in your account."
+        },
+        {
+          "verse": 18,
+          "text": "But I haue al things, and abound: I vvas filled after I receiued of Epaphroditus the things that you ſent, an odour of ſvveetenes, an acceptable hoſt, pleaſing God.",
+          "has_annotation": true
+        },
+        {
+          "verse": 19,
+          "text": "And my God ſupply al your clacke according to his riches in glorie, in Chriſt IESVS.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "c χρείαν",
+              "kind": "word"
+            }
+          ]
+        },
+        {
+          "verse": 20,
+          "text": "And to God & our father be glorie vvorld vvithout end. Amen."
+        },
+        {
+          "verse": 21,
+          "text": "Salute ye euery ſaincte in Chriſt IESVS."
+        },
+        {
+          "verse": 22,
+          "text": "The brethren that are vvith me, ſalute you. Al the ſainctes ſalute you: but eſpecially they that are of Cæſars houſe."
+        },
+        {
+          "verse": 23,
+          "text": "The grace of our Lord IESVS Chriſt be vvith your ſpirit. Amen."
+        }
+      ],
+      "summary": "He exhorteth them to perſeuerance, 2 and certaine by name to vnitie, 5 to modeſtie, 6 to peace vvithout ſolicitude or careful anxietie, 8 to al that good is, 9 to ſuch things as they ſee in him ſelf. 10 that he reioyced in their contribution, not for his ovvne neede, but for their merite."
+    }
+  ],
+  "spelling": "original"
+}

@@ -1,0 +1,4469 @@
+{
+  "book": "mark",
+  "book_title": "The Holy Gospel of Jesus Christ\naccording to Mark.",
+  "short_title": "Mark",
+  "hebrew_title": null,
+  "intros": [
+    {
+      "title": "THE ARGUMENT OF S. MARKES GOSPEL.",
+      "text": "S. Markes Goſpel may be wel diuided into foure partes.\nThe firſt part, of the preparation that was made to the manifeſtation of Chriſt: chap. 1. in the beginning.\nThe ſecond, of his manifeſting himſelfe by Preaching and Miracles, and that in Galilee: the reſidue of the 1. chap. vnto the 10. chap.\nThe third, of his comming into Iurie, towards his Paſſion: chap. 10.\nThe fourth, of the Holy Weeke of his Paſſion in Hieruſalem: chap. 11. to the end of the booke.\n\nOf S. Marke and his conuerſation with the two Apoſtles S. Paul and S. Barnabee, we haue at large Act. 12. and 15. ſomewhat alſo Col. 4. and 2. Tim. 4. and to Philemon. Moreouer of his familiaritie with the Prince of the Apoſtles S. Peter, we haue 1. Pet. 5. For ſo it pleaſed our Lord, that onely two of the Euangeliſtes ſhould be of his twelue Apoſtles, to wit, S. Matthew and S. Iohn. The other two, S. Marke and S. Luke, he gaue vnto vs of the Diſciples of his two moſt principal and moſt glorious Apoſtles S. Peter and S. Paul. Whoſe Goſpels therefore were of Antiquitie counted as the Goſpels of S. Peter and S. Paul themſelves. Marke the diſciple and interpreter of Peter (ſaith S. Hierom ) according to that which he heard of Peters mouth, wrote at Rome a briefe Goſpel at the requeſt of the Brethren (about 10 or 12 yeres after our Lordes Aſcenſion.) which when Peter had heard, he approued it, and with his authoritie did publiſh it to the Church to be read, as Clemens Alexandrinus writeth li. 6. Hypotypos.\n\nIn the ſame place S. Hierom addeth, how he went into Ægypt to preach, and was the firſt Biſhop of the cheefe Citie there, named Alexandria: and how Philo Iudæus at the ſame time ſeeing and admiring the life and conuerſation of the Chriſtians there vnder S. Marke, who were Monkes, wrote a booke thereof, which is extant to this day. And not onely S. Hierom (in Marco, & in Philone) but alſo Euſebius Hiſt. li. 2. ca. 15. 16. 17. Epiphanius Secta 29. Nazaræorum, li. 1. to. 2. Caſſianus de Inſtit. Caenobiorum li. 2. c. 5. Sozomenus li. 1. c. 12. Nicephorus li. 2. c. 15. and diuerſe others, do make mention of the ſaid Monkes out of the ſame Author. Finally, He died (ſaith S. Hierom) the 8. yere of Nero, and was buried at Alexandria, Anianus ſucceding in his place. But from Alexandria he was tranſlated to Venice, Anno Dom. 830. \n\nIt is alſo to be noted, that in reſpect of S. Peter, who ſent S. Marke his ſcholer to Alexandria, and made him the firſt Biſhop there, this See was eſteemed next in dignitie to the See of Rome, and the Biſhop thereof was accounted the cheefe Metropolitane or Patriarch of the Eaſt, and that by the firſt Councel of Nice. Whereof ſee S. Leo ep. 53. S. Gregorie li. 5. ep. 60. & li. 6. ep. 37.",
+      "default": true,
+      "notes": [
+        {
+          "marker": "◦",
+          "text": "In Catal. Script. Eccleſiaſt."
+        },
+        {
+          "marker": 1,
+          "text": "Philo de Supplicibus."
+        },
+        {
+          "marker": 2,
+          "text": "In Catalogo."
+        },
+        {
+          "marker": 3,
+          "text": "* Naucler. generat. 28."
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "THE beginning of the Goſpel of IESVS CHRIST the ſonne of God."
+        },
+        {
+          "verse": 2,
+          "text": "As it is vvritten in Eſay the Prophet : ( Behold I ſend mine Angel before thy face, who ſhal prepare thy way before thee.)",
+          "cross_refs": [
+            {
+              "text": "Eſa. 40, 3."
+            },
+            {
+              "text": "Mal. 3, 1."
+            }
+          ],
+          "notes": [
+            {
+              "label": "3",
+              "text": "the prophet's",
+              "kind": "gloss"
+            }
+          ],
+          "xrefs": [
+            "Mal. 3, 1. · Esa. 40, 3."
+          ]
+        },
+        {
+          "verse": 3,
+          "text": "A voice of one crying in the deſert, Prepare ye the vvay of our Lord, make ſtraight his pathes."
+        },
+        {
+          "verse": 4,
+          "text": "Iohn vvas in the deſert baptizing, and preaching the baptiſme of penance vnto remiſsion of ſinnes.",
+          "cross_refs": [
+            {
+              "text": "Mt. 3, 1. Lu. 3, 4. Io. 1, 15."
+            }
+          ],
+          "notes": [
+            {
+              "label": "2",
+              "text": "Iohns baptiſme put them in hope only of remiſſion of ſinnes as a preparatiue to Chriſtes Sacrament by which ſinnes were indeede to be remitted. Aug. li. 5 de bapt. c. 10.",
+              "kind": "gloss"
+            }
+          ],
+          "xrefs": [
+            "Mt. 3, 1. · Lu. 3, 4."
+          ]
+        },
+        {
+          "verse": 5,
+          "text": "And there vvent forth to him al the countrie of Iewrie, and al they of Hieruſalem: and vvere baptized of him in the riuer of Iordan, confeſsing their ſinnes.",
+          "has_annotation": true,
+          "xrefs": [
+            "Io. 1, 15."
+          ]
+        },
+        {
+          "verse": 6,
+          "text": "And Iohn vvas clothed vvith camels heare, and a girdle of a ſkinne about his loines: and he did eate locuſtes and vvild honie.",
+          "has_annotation": true
+        },
+        {
+          "verse": 7,
+          "text": "And he preached, ſaying, There commeth a ſtronger then I after me: vvhoſe latchet of his ſhoes I am not vvorthie ſtouping downe to vnlooſe."
+        },
+        {
+          "verse": 8,
+          "text": "I haue baptized you vvith vvater: but he ſhal baptize you vvith the holy Ghoſt.",
+          "has_annotation": true
+        },
+        {
+          "verse": 9,
+          "text": "And it came to paſſe: in thoſe daies came IESVS from Nazareth of Galilee: and vvas baptized of Iohn in Iordan.",
+          "has_annotation": true
+        },
+        {
+          "verse": 10,
+          "text": "And forthvvith comming vp out of the vvater, he ſavv the heauens opened, and the Spirit as a doue deſcending, and remaining on him.",
+          "has_annotation": true
+        },
+        {
+          "verse": 11,
+          "text": "And a voice vvas made from heauen, Thou art my beloued ſonne, in thee I am vvel pleaſed."
+        },
+        {
+          "verse": 12,
+          "text": "And forthvvith the Spirit droue him out into the deſert.",
+          "has_annotation": true,
+          "cross_refs": [
+            {
+              "text": "Mt. 4, 1. Lu. 4. 1."
+            }
+          ],
+          "xrefs": [
+            "Mt. 4, 1. · Lu. 4, 1."
+          ]
+        },
+        {
+          "verse": 13,
+          "text": "And he was in the deſert fourtie daies, and fourtie nightes: and vvas tempted of Satan. and he vvas vvith beaſtes, and the Angels miniſtred to him."
+        },
+        {
+          "verse": 14,
+          "text": "And after that Iohn vvas deliuered vp, IESVS came into Galilee, preaching the Goſpel of the kingdom of God,",
+          "cross_refs": [
+            {
+              "text": "Mat. 4, 12. Luc. 4, 14."
+            }
+          ],
+          "notes": [
+            {
+              "label": "2",
+              "text": "THE SECOND part of this Goſpel: of Chriſts manifeſtation.",
+              "kind": "gloss"
+            }
+          ],
+          "xrefs": [
+            "Mat. 4, 12. · Luc. 4, 14."
+          ]
+        },
+        {
+          "verse": 15,
+          "text": "and ſaying, That the time is fulfilled, and the kingdom of God is at hand: be penitent, and beleeue the Goſpel.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "He doth not preach beleefe or faith only, but penance alſo.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 16,
+          "text": "And paſſing by the ſea of Galilee, he ſavv Simon and Andrew his brother, caſting nettes into the ſea (for they were fiſhers)",
+          "cross_refs": [
+            {
+              "text": "Mat. 4, 18. Lu. 5, 2."
+            }
+          ],
+          "xrefs": [
+            "Mat. 4, 18. · Lu. 5, 2."
+          ]
+        },
+        {
+          "verse": 17,
+          "text": "and IESVS ſaid to them, Come after me, and I vvil make you to become fiſhers of men."
+        },
+        {
+          "verse": 18,
+          "text": "And immediatly leauing their nettes, they folovved him."
+        },
+        {
+          "verse": 19,
+          "text": "And being gone thence a litle further, he ſavv Iames of Zebedee, and Iohn his brother, and them repairing their nettes in the ſhippe:"
+        },
+        {
+          "verse": 20,
+          "text": "and forthvvith he called them. And leauing their father Zebedee in the ſhippe vvith his hired men, they folovved him."
+        },
+        {
+          "verse": 21,
+          "text": "And they enter into Capharnaum, and he forthvvith vpon the Sabboths going into the Synagogue, taught them.",
+          "cross_refs": [
+            {
+              "text": "Mat. 4, 13. Lu. 4, 31."
+            }
+          ],
+          "xrefs": [
+            "Mat. 4, 13. · Lu. 4, 31"
+          ]
+        },
+        {
+          "verse": 22,
+          "text": "And they vvere aſtonied at his doctrine. for he vvas teaching them as hauing povver, and not as the Scribes."
+        },
+        {
+          "verse": 23,
+          "text": "And there vvas in their Synagogue a man in an vncleane ſpirit: and he cried out,",
+          "cross_refs": [
+            {
+              "text": "Luc. 4, 32."
+            }
+          ],
+          "xrefs": [
+            "Luc. 4, 32."
+          ]
+        },
+        {
+          "verse": 24,
+          "text": "ſaying, what to vs and to thee IESVS of Nazareth? art thou come to deſtroy vs? I knovv vvho thou art, the Sainct of God."
+        },
+        {
+          "verse": 25,
+          "text": "And IESVS threatened him, ſaying, Hold thy peace, and goe out of the man."
+        },
+        {
+          "verse": 26,
+          "text": "And the vncleane ſpirit tearing him, and crying out vvith a great voice, vvent out of him."
+        },
+        {
+          "verse": 27,
+          "text": "And they marueled al, in ſo much that they queſtioned among them ſelues, ſaying, what thing is this? vvhat is this nevv doctrine? for vvith povver he commaundeth the vncleane ſpirits alſo, and they obey him."
+        },
+        {
+          "verse": 28,
+          "text": "And the bruite of him vvent forth incontinent into al the countrie of Galilee."
+        },
+        {
+          "verse": 29,
+          "text": "And immediatly going forth out of the Synagogue, they came into the houſe of Simon and Andrevv, vvith Iames and Iohn.",
+          "cross_refs": [
+            {
+              "text": "Mat. 8, 14. Luc. 4, 42."
+            }
+          ],
+          "xrefs": [
+            "Mat. 8, 14. · Luc. 4. 42."
+          ]
+        },
+        {
+          "verse": 30,
+          "text": "And Simons vviues mother lay in a fit of a feuer: and forthvvith they tel him of her."
+        },
+        {
+          "verse": 31,
+          "text": "And comming neere he lifted her vp taking her by the hand: and incontinent the ague left her, and ſhe miniſtred vnto them."
+        },
+        {
+          "verse": 32,
+          "text": "And vvhen it vvas euening after ſunne ſet, they brought to him al that vvere il at eaſe and that had deuils."
+        },
+        {
+          "verse": 33,
+          "text": "And al the citie vvas gathered together at the doore."
+        },
+        {
+          "verse": 34,
+          "text": "And he cured many that vvere vexed vvith diuerſe diſeaſes: and he caſt out many deuils, and he ſuffred not them to ſpeake that they knevv him."
+        },
+        {
+          "verse": 35,
+          "text": "And riſing very early, and going forth he vvent into a deſert place: and there he prayed.",
+          "has_annotation": true
+        },
+        {
+          "verse": 36,
+          "text": "And Simon ſought after him, and they that vvere vvith him."
+        },
+        {
+          "verse": 37,
+          "text": "And vvhen they had found him, they ſaid to him, That al ſeeke for thee."
+        },
+        {
+          "verse": 38,
+          "text": "And he ſaith to them, Let vs goe into the next tovvnes and cities, that I may preach there alſo: for to this purpoſe am I come."
+        },
+        {
+          "verse": 39,
+          "text": "And he vvas preaching in their Synagogs, and in al Galilee: and caſting out deuils.",
+          "xrefs": [
+            "Mt. 8, 2. · Lu. 5, 12."
+          ]
+        },
+        {
+          "verse": 40,
+          "text": "And a leper commeth to him beſeeching him: and kneeling dovvne ſaith to him, If thou vvilt, thou canſt make me cleane.",
+          "cross_refs": [
+            {
+              "text": "Mt. 8, 2. Lu. 5, 12."
+            }
+          ]
+        },
+        {
+          "verse": 41,
+          "text": "And IESVS hauing compaſsion on him, ſtretched forth his hand: and touching him, he ſaith vnto him, I vvil, be thou made cleane."
+        },
+        {
+          "verse": 42,
+          "text": "And vvhen he had ſpoken, immediatly the leproſie departed from him, and he vvas made cleane."
+        },
+        {
+          "verse": 43,
+          "text": "And he threatened him, and forthvvith caſt him forth."
+        },
+        {
+          "verse": 44,
+          "text": "and he ſaith to him, See thou tel no body: but goe, ſhevv thy ſelf to the high prieſt, and offer for thy cleanſing the things that Moyſes commaunded, for a teſtimonie to them.",
+          "cross_refs": [
+            {
+              "text": "Lev. 14, 3."
+            }
+          ],
+          "notes": [
+            {
+              "label": "2",
+              "text": "Our Sauiour euen when he healed the leper by extraordinarie miraculous power, would not yet breake order, but ſent the partie to the Prieſt.",
+              "kind": "gloss"
+            }
+          ],
+          "xrefs": [
+            "Leu. 14, 3."
+          ]
+        },
+        {
+          "verse": 45,
+          "text": "But he being gone forth, began to publiſh, and to blaſe abrode the vvord: ſo that novv he could not openly goe into the citie, but vvas abrode in deſert places, and they came together vnto him from al ſides."
+        }
+      ],
+      "summary": "Iohn (the Eremite of whom the Prophets) preaching penance, and liuing him ſelf accordingly, baptizeth the people to prepare them to Chriſt, 7 telling them, that it is not his, but Chriſts Baptiſme, in which they ſhal receiue the Holy Ghoſt. 9 IESVS there is manifeſted from heauen: 12 and by and by he alſo goeth into the wilderneſſe. 14 Beginning in Galilee, 16 after that he hath called foure Diſciples, 21 he preacheth firſt in Capharnaum, confirming his doctrine with beneficial Miracles, to the great admiration of al: 35 then alſo (but firſt retiring into the wildernes) in al the reſt of Galilee, with like miracles.",
+      "summary_notes": [
+        {
+          "marker": 1,
+          "text": "THE FIRST part of this Goſpel: of the preparation to Chriſt's manifeſtation."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "AND againe he entred into Capharnaum after ſome daies, and it vvas heard that he vvas in the houſe,",
+          "cross_refs": [
+            {
+              "text": "Mt. 9, 1. Lu. 5, 18."
+            }
+          ],
+          "xrefs": [
+            "Mt. 9, 1. · Lu. 5, 18"
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "and many came together, ſo that there was no place no not at the doore, and he ſpake to them the vvord."
+        },
+        {
+          "verse": 3,
+          "text": "And they came to him bringing one ſicke of the palſey, vvho vvas caried of foure."
+        },
+        {
+          "verse": 4,
+          "text": "And vvhen they could not offer him vnto him for the multitude, they vncouered the roofe vvhere he vvas: and opening it they did let dovvne the couche wherein the ſicke of the palſey lay.",
+          "has_annotation": true
+        },
+        {
+          "verse": 5,
+          "text": "And when IESVS had ſeen their faith, he ſaith to the ſicke of the palſey, Sonne, thy ſinnes are forgiuen thee.",
+          "has_annotation": true,
+          "notes": [
+            {
+              "label": "1",
+              "text": "Our Lord is moued to be merciful to ſinners by other mens faith and deſires, and not only by the parties owne meanes alvvay.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 6,
+          "text": "And there vvere certaine of the Scribes ſitting there and thinking in their hartes,"
+        },
+        {
+          "verse": 7,
+          "text": "why doth he ſpeake ſo? he blaſphemeth. Who can forgiue ſinnes but only God?",
+          "cross_refs": [
+            {
+              "text": "Iob. 14, 4. Eſa. 43, 25."
+            }
+          ],
+          "xrefs": [
+            "Iob. 14, 4. · Esa. 43, 25."
+          ]
+        },
+        {
+          "verse": 8,
+          "text": "Which by and by IESVS knovving in his ſpirit, that they ſo thought vvithin them ſelues, ſaith to them, why thinke you theſe things in your hartes?"
+        },
+        {
+          "verse": 9,
+          "text": "VVhether is eaſier, to ſay to the ſicke of the palſey, Thy ſinnes are forgiuen thee: or to ſay, Ariſe, take vp thy couche, and vvalke?"
+        },
+        {
+          "verse": 10,
+          "text": "But that you may knovv that the Sonne of man hath povver in earth to forgiue ſinnes (he ſaith to the ſicke of the palſey)",
+          "has_annotation": true
+        },
+        {
+          "verse": 11,
+          "text": "I ſay to thee, Ariſe, take vp thy couche, and goe into thy houſe."
+        },
+        {
+          "verse": 12,
+          "text": "And forthvvith he aroſe: and taking vp his couche, vvent his vvay in the ſight of al, ſo that al marueled, and glorified God, ſaying, That vve neuer ſavv the like."
+        },
+        {
+          "verse": 13,
+          "text": "And he went forth againe to the ſea: and al the multitude came to him, and he taught them."
+        },
+        {
+          "verse": 14,
+          "text": "And vvhen he paſſed by, he ſavv Leui of Alphæus ſitting at the cuſtome place: and he ſaith to him, Folovv me. And riſing vp he folowed him.",
+          "cross_refs": [
+            {
+              "text": "Mt. 9, 9. Lu. 5, 27."
+            }
+          ],
+          "xrefs": [
+            "Mt. 9, 9. · Lu. 5, 27"
+          ]
+        },
+        {
+          "verse": 15,
+          "text": "And it came to paſſe, as he ſate at meate in his houſe, many Publicans and ſinners did ſit dovvne together vvith IESVS and his Diſciples. for they vvere many, vvho alſo folovved him."
+        },
+        {
+          "verse": 16,
+          "text": "And the Scribes and the Phariſees ſeeing that he did eate vvith Publicans and Sinners, ſaid to his Diſciples, why doth your Maiſter eate and drinke vvith Publicans and ſinners?"
+        },
+        {
+          "verse": 17,
+          "text": "IESVS hearing this, ſaith to them, The vvhole haue not neede of a Phyſicion, but they that are il at eaſe. for I came not to call the iuſt, but ſinners."
+        },
+        {
+          "verse": 18,
+          "text": "And the diſciples of Iohn and the Phariſees did vſe to faſt: and they come, and ſay to him, Why do the diſciples of Iohn and of the Phariſees faſt: but thy diſciples do not faſt?",
+          "cross_refs": [
+            {
+              "text": "Mt. 9, 13. Lu. 5, 33."
+            }
+          ],
+          "xrefs": [
+            "Mt. 9, 13 · Lu. 5, 32"
+          ]
+        },
+        {
+          "verse": 19,
+          "text": "And IESVS ſaid to them, why, can the children of the mariage faſt, as long as the bridegrome is vvith them? So long time as they haue the bridegrome vvith them, they can not faſt."
+        },
+        {
+          "verse": 20,
+          "text": "But the daies vvil come vvhen the bridegrome ſhal be taken avvay from them: and then they ſhal faſt in thoſe daies.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "He foretelleth that faſting ſhal be vſed in his Church, no leſſe then in the old law or in the time of Iohn the Baptiſt. See Mat. c. 9, 15.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 21,
+          "text": "No body ſovveth a peece of ravv cloth to an old garment: othervviſe he taketh avvay the nevv peecing from the old, and there is made a greater rent."
+        },
+        {
+          "verse": 22,
+          "text": "And no body putteth nevv vvine into old bottels: othervviſe the vvine burſteth the bottels, and the vvine vvil be ſhed, and the bottels vvil be loſt. but new vvine muſt be put into nevv bottels."
+        },
+        {
+          "verse": 23,
+          "text": "And it came to paſſe againe vvhen he vvalked through the corne on the Sabboths, and his Diſciples began to goe forvvard and to plucke the eares.",
+          "cross_refs": [
+            {
+              "text": "Mt. 12, 1. Lu. 6, 1."
+            }
+          ],
+          "xrefs": [
+            "Mt. 12, 1 · Lu. 6, 1."
+          ]
+        },
+        {
+          "verse": 24,
+          "text": "And the Phariſees ſaid to him, Behold, vvhy do they on the Sabboths that vvhich is not lavvful?"
+        },
+        {
+          "verse": 25,
+          "text": "And he ſaid to them, Did you neuer read vvhat Dauid did, vvhen he vvas in neceſsitie, and him ſelf vvas an hungred and they that vvere vvith him?",
+          "has_annotation": true
+        },
+        {
+          "verse": 26,
+          "text": "hovv he entred into the houſe of God vnder Abiathar the high Prieſt, and did eate the loaues of Propoſition, vvhich it was not lavvful to eate but for the Prieſts, and did giue vnto them vvhich vvere with him?",
+          "cross_refs": [
+            {
+              "text": "1. Re. 21, 6."
+            },
+            {
+              "text": "Lev. 24, 9."
+            }
+          ],
+          "xrefs": [
+            "1. Re. 21, 6. · Leu. 24, 9."
+          ]
+        },
+        {
+          "verse": 27,
+          "text": "And he ſaid to them, The Sabboth was made for man, and not man for the Sabboth."
+        },
+        {
+          "verse": 28,
+          "text": "Therfore the ſonne of man is Lord of the Sabboth alſo.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "The maker of the law may abrogate or diſpenſe when and where for iuſt cauſe it ſeemeth good to him.",
+              "kind": "gloss"
+            }
+          ]
+        }
+      ],
+      "summary": "Againſt the Scribes and Phariſees he defendeth firſt his power to remitte ſinnes in earth, 23 and his eating vvith ſinners (as being the Phyſicion of ſoules, ſignified in thoſe his miraculous cures vpon bodies): 18 then alſo he defendeth his Diſciples, not hauing as yet any faſtes by him preſcribed vnto them, and plucking eares of corne vpon the Sabboth: ſignifying withal that he wil change their ceremonies."
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "AND he entred againe into the Synagogue, and there vvas a man there that had a withered hand.",
+          "cross_refs": [
+            {
+              "text": "Mt. 12, 9. Lu. 6, 6."
+            }
+          ],
+          "xrefs": [
+            "Mt. 12, 9 · Lu. 6, 6."
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "And they vvatched him vvhether he vvould cure on the Sabboths: that they might accuſe him."
+        },
+        {
+          "verse": 3,
+          "text": "And he ſaith to the man that had the vvithered hand, Riſe vp into the middes."
+        },
+        {
+          "verse": 4,
+          "text": "And he ſaith to them, Is it lavvful on the Sabboths to doe vvel or il? to ſaue a ſoule, or to deſtroy? but they held their peace."
+        },
+        {
+          "verse": 5,
+          "text": "And looking round about vpon them vvith anger, being ſorovvful for the blindenes of their hart, he ſaith to the man, Stretch forth thy hand. And he ſtretched it forth: and his hand vvas reſtored vnto him."
+        },
+        {
+          "verse": 6,
+          "text": "And the Phariſees going forth, immediatly made a conſultation vvith the Herodians againſt him hovv they might deſtroy him."
+        },
+        {
+          "verse": 7,
+          "text": "But IESVS with his Diſciples retired to the ſea: and a great multitude from Galilee and Ievvrie folovved him,"
+        },
+        {
+          "verse": 8,
+          "text": "and from Hieruſalem, and from Idumæa, and beyond Iordan. And they about Tyre and Sidon, a great multitude, hearing the things vvhich he did, came to him."
+        },
+        {
+          "verse": 9,
+          "text": "And he ſpake to his Diſciples that a boate might attend on him becauſe of the multitude, leſt they ſhould throng him."
+        },
+        {
+          "verse": 10,
+          "text": "for he healed many, ſo that there preaſed in vpon him for to touch him, as many as had hurtes.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "The only touching of Chriſts holy perſon, or any part of his clothes, or whatſoeuer belonged to him, did heale al diſeaſes.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 11,
+          "text": "And the vncleane ſpirites, vvhen they ſavv him, fel dovvne vnto him: and they cryed ſaying,"
+        },
+        {
+          "verse": 12,
+          "text": "Thou art the ſonne of God. And he vehemently charged them that they ſhould not diſcloſe him.",
+          "has_annotation": true
+        },
+        {
+          "verse": 13,
+          "text": "And aſcending into a mountaine, he called vnto him vvhom he vvould himſelf: and they came to him.",
+          "cross_refs": [
+            {
+              "text": "Mt. 5, 1. 10, 1. Lu. 6, 12. 9, 1."
+            }
+          ],
+          "xrefs": [
+            "Mt. 5, 1. 10, 1. · Lu. 6, 12 9, 1."
+          ]
+        },
+        {
+          "verse": 14,
+          "text": "And he made that tvvelue ſhould be vvith him, and that he might ſend them to preach.",
+          "has_annotation": true
+        },
+        {
+          "verse": 15,
+          "text": "And he gaue them povver to cure infirmities, and to caſt out diuels."
+        },
+        {
+          "verse": 16,
+          "text": "And he gaue to Simon the name Peter.",
+          "has_annotation": true
+        },
+        {
+          "verse": 17,
+          "text": "and Iames of Zebedee, and Iohn the brother of Iames: and he called their names, Boanerges, vvhich is, the ſonnes of thunder."
+        },
+        {
+          "verse": 18,
+          "text": "and Andrevv and Philippe, and Bartlemevv and Matthevv, and Thomas and Iames of Alphæus, and Thaddæus and Simon Cananæus,"
+        },
+        {
+          "verse": 19,
+          "text": "and Iudas Iſcariote, vvho alſo betrayed him."
+        },
+        {
+          "verse": 20,
+          "text": "And they come to a houſe: and the multitude reſorteth together againe, ſo that they could not ſo much as eate bread."
+        },
+        {
+          "verse": 21,
+          "text": "And vvhen his had heard of it, they vvent forth to lay hands on him. for they ſaid, That he vvas become mad.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "See here the conceite of worldly frendes, who thinke the Zeale of Religion, madnes: and therfore count them madde, that are Zelous in Gods cauſe and for the Catholike faith: and the more Zelous, the more mad.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 22,
+          "text": "And the Scribes vvhich vvere come dovvne from Hieruſalem, ſaid, That he hath Beelzebub: and that in the prince of deuils he caſteth out deuils.",
+          "cross_refs": [
+            {
+              "text": "Mat. 12, 24. Luc. 11, 15."
+            }
+          ],
+          "xrefs": [
+            "Mat. 12, 24."
+          ]
+        },
+        {
+          "verse": 23,
+          "text": "And after he had called them together, he ſaid to them in parables, Hovv can Satan caſt out Satan?",
+          "xrefs": [
+            "Luc. 11, 15."
+          ]
+        },
+        {
+          "verse": 24,
+          "text": "And if a kingdom be deuided againſt it ſelf, that kingdom can not ſtand.",
+          "has_annotation": true
+        },
+        {
+          "verse": 25,
+          "text": "And if a houſe be deuided againſt it ſelf, that houſe can not ſtand."
+        },
+        {
+          "verse": 26,
+          "text": "And if Satan be riſen againſt him ſelf, he is deuided, and can not ſtand, but hath an end."
+        },
+        {
+          "verse": 27,
+          "text": "No body can rifle the veſſel of the ſtrong, being entred into his houſe, vnles he firſt binde the ſtrong, and then ſhal he rifle his houſe."
+        },
+        {
+          "verse": 28,
+          "text": "Amen I ſay to you, that al ſinnes ſhal be forgiuen the ſonnes of men, and the blaſphemies wherevvith they ſhal blaſpheme."
+        },
+        {
+          "verse": 29,
+          "text": "But he that ſhal blaſpheme againſt the Holy Ghoſt, he hath not forgiueneſſe for euer, but ſhal be guilty of an eternal ſinne.",
+          "has_annotation": true
+        },
+        {
+          "verse": 30,
+          "text": "Becauſe they ſaid, He hath an vncleane ſpirit."
+        },
+        {
+          "verse": 31,
+          "text": "And there come his mother and brethren: and ſtanding vvithout they ſent vnto him calling him,",
+          "cross_refs": [
+            {
+              "text": "Mt. 12, 46. Lu. 8, 19."
+            }
+          ]
+        },
+        {
+          "verse": 32,
+          "text": "and the multitude ſate about him: and they ſay to him, Behold thy mother and thy brethren vvithout ſeeke thee.",
+          "xrefs": [
+            "Mt. 12, 46. · Lu. 8, 19."
+          ]
+        },
+        {
+          "verse": 33,
+          "text": "And anſvvering them, he ſaid, Who is my mother and my brethren?",
+          "has_annotation": true
+        },
+        {
+          "verse": 34,
+          "text": "And looking about vpon them vvhich ſate round about him, he ſaith, Behold my mother and my brethren."
+        },
+        {
+          "verse": 35,
+          "text": "For vvhoſoeuer ſhal doe the vvil of God, he is my brother and my ſiſter and mother."
+        }
+      ],
+      "summary": "The blind Phariſees ſeeking his death for doing good vpon the Sabboths, he meekely goeth out of the way: where the people that flocke vnto him, and his Miracles, are innumerable. 13 Yea to his Twelue alſo (hauing neede of moe workmen) he geueth power to worke Miracles. 20 He ſo occupieth him ſelf for ſoules, that his kinne thinke him madde. 22 The Scribes of Hieruſalem come ſo farre, and yet haue nothing but abſurdly to blaſpeme his caſting out of Diuels, to their owne damnation. 31 That the Iewes ſhould not (after their maner) thinke it ynough, that he is of their bloud, he telleth that ſuch rather are deere to him, as keepe Gods commaundements."
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "AND againe he began to teach at the ſea ſide: and a great multitude vvas gathered together vnto him, ſo that he vvent vp into a boate, and ſate in the ſea, and al the multitude about the ſea vvas vpon the land:",
+          "cross_refs": [
+            {
+              "text": "Mt. 13, 1. Lu. 8, 4."
+            }
+          ],
+          "xrefs": [
+            "Mt. 13, 1. · Lu. 8, 4."
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "and he taught them in parables many things, and ſaid to them in his doctrine,"
+        },
+        {
+          "verse": 3,
+          "text": "Heare ye: Behold, the ſovver vvent forth to ſovv."
+        },
+        {
+          "verse": 4,
+          "text": "And vvhiles he ſovveth, ſome fel by the vvay ſide, and the foules of the aire came, and did eate it."
+        },
+        {
+          "verse": 5,
+          "text": "And otherſome fel vpon rocky places vvhere it had not much earth: and it ſhot vp immediatly, becauſe it had not deepnes of earth:"
+        },
+        {
+          "verse": 6,
+          "text": "and vvhen the ſunne was riſen, it parched, and becauſe it had not roote, it vvithered."
+        },
+        {
+          "verse": 7,
+          "text": "And ſome fel among thornes: and the thornes grewe vp, and choked it, and it yelded not fruite."
+        },
+        {
+          "verse": 8,
+          "text": "And ſome fel vpon good ground: and it yelded fruite that grewe vp and increaſed, and it brought forth, one thirtie, one ſixtie, and one an hundred."
+        },
+        {
+          "verse": 9,
+          "text": "And he ſaid, He that hath eares to heare, let him heare."
+        },
+        {
+          "verse": 10,
+          "text": "And vvhen he vvas alone, the Tvvelue that vvere vvith him, aſked him the parable."
+        },
+        {
+          "verse": 11,
+          "text": "And he ſaid to them, To you it is giuen to knovv the myſterie of the kingdom of God: but to them that are vvithout, al things are done in parables:",
+          "notes": [
+            {
+              "label": "1",
+              "text": "Such as be out of the Church, though they heare and",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 12,
+          "text": "that ſeeing they may ſee, and not ſee: and hearing they may heare, and not vnderſtand: leſt at any time they ſhould be conuerted and their ſinnes be forgiuen them.",
+          "has_annotation": true,
+          "cross_refs": [
+            {
+              "text": "Eſa. 6, 9."
+            }
+          ],
+          "xrefs": [
+            "Esa. 6, 9"
+          ]
+        },
+        {
+          "verse": 13,
+          "text": "And he ſaith to them, Do you not knovv this parable? and hovv ſhal you knovv al parables?"
+        },
+        {
+          "verse": 14,
+          "text": "He that ſovveth: ſovveth the vvord."
+        },
+        {
+          "verse": 15,
+          "text": "And they by the vvay ſide, are theſe: vvhere the vvord is ſovven, and vvhen they ſhal haue heard, immediatly commeth Satan, and taketh avvay the vvord that vvas ſovven in their hartes."
+        },
+        {
+          "verse": 16,
+          "text": "And thy likevviſe that are ſovven vpon the rocky places, are theſe: vvho vvhen they heare the vvord, immediatly vvith ioy receiue it:"
+        },
+        {
+          "verse": 17,
+          "text": "and they haue not roote in them ſelues, but are temporal: aftervvard vvhen tribulation is riſen and perſecution for the vvord, forthvvith they are ſcandalized."
+        },
+        {
+          "verse": 18,
+          "text": "And other there be that are ſovven among thornes: theſe are they that heare the vvord,"
+        },
+        {
+          "verse": 19,
+          "text": "and the cares of the vvorld and the deceitfulnes of riches, and concupiſcences about other things entring in choke the vvord, and it is made fruiteles."
+        },
+        {
+          "verse": 20,
+          "text": "And theſe are they that vvere ſovven vpon the good ground, vvhich heare the vvord and receiue it, and yeld fruite one thirtie, one ſixtie, and one an hundred."
+        },
+        {
+          "verse": 21,
+          "text": "And he ſaid to them, Commeth a candel to be put vnder a buſhel, or vnder a bed? and not to be put vpon the candleſticke?",
+          "cross_refs": [
+            {
+              "text": "Lu. 8, 16."
+            }
+          ],
+          "notes": [
+            {
+              "label": "2",
+              "text": "Chriſt came not to teach his doctrine in corners and hucker mucker, as Heretikes doe, but to lighten the whole world therewith.",
+              "kind": "gloss"
+            }
+          ],
+          "xrefs": [
+            "Lu. 8, 16"
+          ]
+        },
+        {
+          "verse": 22,
+          "text": "For there is nothing hid, vvhich ſhal not be made manifeſt: neither vvas any thing made ſecret, but that it ſhal come to light."
+        },
+        {
+          "verse": 23,
+          "text": "If any man haue eares to heare, let him heare."
+        },
+        {
+          "verse": 24,
+          "text": "And he ſaid to them, See vvhat you heare. In vvhat meaſure you mete, it ſhal be meaſured to you againe, and more ſhal be giuen `to you'.",
+          "cross_refs": [
+            {
+              "text": "Lu. 8, 18."
+            }
+          ],
+          "notes": [
+            {
+              "label": "2",
+              "text": "`to you that heare.",
+              "kind": "gloss"
+            }
+          ],
+          "xrefs": [
+            "Lu. 8, 18"
+          ]
+        },
+        {
+          "verse": 25,
+          "text": "For he that hath, to him ſhal be giuen: and he that hath not, that alſo vvhich he hath, ſhal be taken avvay from him."
+        },
+        {
+          "verse": 26,
+          "text": "And he ſaid, So is the kingdom of God, as if a man caſt ſeede into the earth,"
+        },
+        {
+          "verse": 27,
+          "text": "and ſleepe, and riſe vp night and day, and the ſeede ſpring, and grovve vp vvhiles he knovveth not.",
+          "has_annotation": true
+        },
+        {
+          "verse": 28,
+          "text": "For the earth of it ſelf bringeth forth fruite, firſt the blade, then the eare, aftervvard the ful corne in the eare."
+        },
+        {
+          "verse": 29,
+          "text": "And vvhen the fruite hath brought out it ſelf, immediatly he putteth in the ſickle, becauſe harueſt is come."
+        },
+        {
+          "verse": 30,
+          "text": "And he ſaid, To vvhat ſhal vve liken the kingdom of God? or to vvhat parable ſhal vve compare it?",
+          "cross_refs": [
+            {
+              "text": "Mat. 13, 31. Luc. 13, 19."
+            }
+          ],
+          "xrefs": [
+            "Mat. 13, 31."
+          ]
+        },
+        {
+          "verse": 31,
+          "text": "As a muſtard ſeede: vvhich vvhen it is ſovven in the earth, is leſſe then al the ſeedes that are in the earth:",
+          "has_annotation": true,
+          "xrefs": [
+            "Luc. 13, 19."
+          ]
+        },
+        {
+          "verse": 32,
+          "text": "and vvhen it is ſovven, it riſeth vp, and becommeth greater then al herbes, and maketh great boughes, ſo that the birdes of the aire may dvvel vnder the ſhadovv thereof.",
+          "has_annotation": true
+        },
+        {
+          "verse": 33,
+          "text": "And vvith many ſuch parables he ſpake to them the vvord, according as they vvere able to heare:"
+        },
+        {
+          "verse": 34,
+          "text": "and vvithout parable he did not ſpeake vnto them. but apart, he explicated al things to his Diſciples."
+        },
+        {
+          "verse": 35,
+          "text": "And he ſaith to them in that day, vvhen euening vvas come, Let vs paſſe ouer to the other ſide.",
+          "cross_refs": [
+            {
+              "text": "Mt. 8, 23. Lu. 8, 22."
+            }
+          ],
+          "xrefs": [
+            "Mt. 8, 23 · Lu. 8, 22"
+          ]
+        },
+        {
+          "verse": 36,
+          "text": "And dimiſsing the multitude, they take him ſo as he vvas in the boate: and there vvere other boates with him."
+        },
+        {
+          "verse": 37,
+          "text": "And there aroſe a great ſtorme of winde, and the waues bette into the boate, ſo that the boate was filled."
+        },
+        {
+          "verse": 38,
+          "text": "And he was in the hinder part of the boate ſleeping vpon a pillow: and they raiſe him, and ſay to him, Maiſter, doth it not pertaine to thee that we periſh?"
+        },
+        {
+          "verse": 39,
+          "text": "And riſing vp he threatened the winde, and ſaid to the ſea, Peace, be ſtil. And the winde ceaſed: and there was made a great calme."
+        },
+        {
+          "verse": 40,
+          "text": "And he ſaid to them, Why are you feareful? neither yet haue you faith? And they feared with great feare: and they ſaid one to an other, Who is this (thinkeſt thou) that both winde and ſea obey him?"
+        }
+      ],
+      "summary": "The parables (in which he ſpeaketh to the Iewes, becauſe they vvere reprobate) he expoundeth to his Diſciples; ſhewing that in his ſowing, three parts of foure ſhal periſh, through the fault of the hearers. 21 and that his ſeruants muſt confeſſe their faith, 24 and vſe their gifts (contrary to thoſe ſtony and thorny hearers.) 26 and that his Church (notwithſtanding the looſing of thoſe three partes of the ſeede) ſhalbe brought by his prouidence to the harueſt, that is, to the end of the world: 30 grovving ouer al in time, though in the beginning it be as the litle muſtard ſeede, 35 and though ſuch tempeſts of perſecution in the ſea of this world doe riſe againſt it."
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "AND they came beyond the ſtraite of the ſea into the countrie of the Geraſens.",
+          "cross_refs": [
+            {
+              "text": "Mt. 8, 28. Lu. 8, 26."
+            }
+          ],
+          "xrefs": [
+            "Mat. 8, 28."
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "And as he vvent out of the boate, immediatly there mette him out of the ſepulchres a man in an vncleane ſpirit,",
+          "xrefs": [
+            "Luc. 8, 26."
+          ]
+        },
+        {
+          "verse": 3,
+          "text": "that had his dvvelling in the ſepulchres. and neither vvith chaines could any man novv binde him:",
+          "has_annotation": true
+        },
+        {
+          "verse": 4,
+          "text": "for being often bound with fetters and chaines, he had burſt the chaines, and broken the fetters. and no body could tame him."
+        },
+        {
+          "verse": 5,
+          "text": "and he vvas alvvaies day and night in the ſepulchres and in the mountaines, crying and cutting him ſelf vvith ſtones."
+        },
+        {
+          "verse": 6,
+          "text": "And ſeeing IESVS a farre of, he ranne and adored him:"
+        },
+        {
+          "verse": 7,
+          "text": "and crying vvith a great voice, ſaid, What to me and thee IESVS the ſonne of God moſt high? I adiure thee by God that thou torment me not."
+        },
+        {
+          "verse": 8,
+          "text": "For he ſaid vnto him, Goe out of the man thou vncleane ſpirit."
+        },
+        {
+          "verse": 9,
+          "text": "And he aſked him, What is thy name? And he ſaith to him, My name is Legion: becauſe vve are many."
+        },
+        {
+          "verse": 10,
+          "text": "And he beſought him much, that he vvould not expel him out of the countrie."
+        },
+        {
+          "verse": 11,
+          "text": "And there vvas there about the mountaine a great heard of ſwine, feeding."
+        },
+        {
+          "verse": 12,
+          "text": "And the ſpirits beſought him, ſaying, Send vs into the ſwine, that vve may enter into them.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "It is not with out myſterie that the diuels deſired, and Chriſt ſuffered them to enter into the ſwine, ſignifying that filthy liuers be meete dwelling places for diuels. Aug. tract. 6 in ep. Io.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 13,
+          "text": "And IESVS immediatly graunted vnto them. And the vncleane ſpirits going out, entred into the ſwine: and the heard vvith great violence vvas caried headlong into the ſea, about tvvo thouſand, and vvere ſtifled in the ſea."
+        },
+        {
+          "verse": 14,
+          "text": "And they that fed them, fled, and caried nevves into the citie and into the fields. And they vvent forth to ſee vvhat vvas done:"
+        },
+        {
+          "verse": 15,
+          "text": "and they come to IESVS, and they ſee him that vvas vexed of the deuil, ſitting, clothed, and vvel in his vvittes: and they vvere afraid."
+        },
+        {
+          "verse": 16,
+          "text": "And they that had ſeen it, told them, in vvhat maner he had been dealt vvithal that had the diuel: and of the ſwine."
+        },
+        {
+          "verse": 17,
+          "text": "And they began to deſire him, that he vvould depart from their coaſtes."
+        },
+        {
+          "verse": 18,
+          "text": "And vvhen he vvent vp into the boate, he that had been vexed of the diuel, began to beſeeche him that he might be vvith him,"
+        },
+        {
+          "verse": 19,
+          "text": "and he admitted him not, but ſaith to him, Goe into thy houſe to thine, and tel them hovv great things the Lord hath done for thee, and hath had mercie vpon thee."
+        },
+        {
+          "verse": 20,
+          "text": "And he vvent his vvay, and began to publiſh in Decapolis hovv great things IESVS had done to him: and al marueled."
+        },
+        {
+          "verse": 21,
+          "text": "And when IESVS had paſſed in boate againe ouer the ſtraite, a great multitude aſſembled together vnto him, and he vvas about the ſea.",
+          "cross_refs": [
+            {
+              "text": "Mat. 9, 18. Luc. 8, 42."
+            }
+          ],
+          "xrefs": [
+            "Mat. 9, 18."
+          ]
+        },
+        {
+          "verse": 22,
+          "text": "And there commeth one of the Archſynagogs, named Iaîrus: and ſeeing him, he falleth dovvne at his feete,",
+          "notes": [
+            {
+              "label": "1",
+              "text": "Archſynagogue, cheefe gouerner of a Synagogue.",
+              "kind": "gloss"
+            }
+          ],
+          "xrefs": [
+            "Luc. 8, 42."
+          ]
+        },
+        {
+          "verse": 23,
+          "text": "and beſought him much, ſaying, That my daughter is at the point of death, come, impoſe thy hands vpon her, that ſhe may be ſafe and liue."
+        },
+        {
+          "verse": 24,
+          "text": "And he vvent vvith him, and a great multitude folovved him, and they thronged him."
+        },
+        {
+          "verse": 25,
+          "text": "And a vvoman vvhich vvas in an iſſue of bloud tvvelue yeres,"
+        },
+        {
+          "verse": 26,
+          "text": "and had ſuffred many things of many Phyſicions, and had beſtovved al that ſhe had, neither vvas any thing the better, but vvas rather vvorſe:"
+        },
+        {
+          "verse": 27,
+          "text": "when ſhe had heard of IESVS, ſhe came in the preaſſe behind him, and touched his garment."
+        },
+        {
+          "verse": 28,
+          "text": "for ſhe ſaid, That if I ſhal touche but his garment, I ſhal be ſafe.",
+          "has_annotation": true
+        },
+        {
+          "verse": 29,
+          "text": "And forthvvith the fountaine of her bloud vvas dried: and ſhe felt in her body that ſhe vvas healed of the maladie."
+        },
+        {
+          "verse": 30,
+          "text": "And immediatly IESVS knovving in him ſelf the vertue that had proceeded from him, turning to the multitude, ſaid, Who hath touched my garments?",
+          "has_annotation": true
+        },
+        {
+          "verse": 31,
+          "text": "And his Diſciples ſaid to him, Thou ſeeſt the multitude thronging thee, and ſayeſt thou, who hath touched me?"
+        },
+        {
+          "verse": 32,
+          "text": "And he looked about to ſee her that had done this."
+        },
+        {
+          "verse": 33,
+          "text": "But the vvoman fearing and trembling, knovving vvhat vvas done in her: came and fel dovvne before him, and told him al the truth."
+        },
+        {
+          "verse": 34,
+          "text": "And he ſaid to her, Daughter, thy faith hath made thee ſafe, goe in peace, and be vvhole of thy maladie."
+        },
+        {
+          "verse": 35,
+          "text": "As he vvas yet ſpeaking, they come `to' the Archſynagogue, ſaying, That thy daughter is dead: vvhy doeſt thou trouble the Maiſter any further?",
+          "notes": [
+            {
+              "label": "1",
+              "text": "from",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 36,
+          "text": "But IESVS hauing heard the vvord that vvas ſpoken, ſaith to the Archſynagogue, Feare not: only beleeue.",
+          "has_annotation": true
+        },
+        {
+          "verse": 37,
+          "text": "And he admitted not any man to folovv him, but Peter and Iames and Iohn the brother of Iames."
+        },
+        {
+          "verse": 38,
+          "text": "And they come to the Archſynagogs houſe, and he ſeeth a tumult, and folke vveeping and vvailing much."
+        },
+        {
+          "verse": 39,
+          "text": "And going in, he ſaith to them: Why make you this a doe and vveepe? the vvenche is not dead, but ſleepeth.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "To Chriſt, that can more eaſily raiſe a dead man then we can doe one that is but a ſleepe, death is but ſleepe. Aug. de verb. Do. Ser. 44.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 40,
+          "text": "And they derided him. But he hauing put forth al, taketh the father and the mother of the vvenche, and them that vvere vvith him, and they goe in where the vvenche vvas lying."
+        },
+        {
+          "verse": 41,
+          "text": "And holding the vvenches hand, he ſaith to her, Talitha cumi, vvhich is being interpreted, wenche (I ſay to thee) ariſe.",
+          "has_annotation": true
+        },
+        {
+          "verse": 42,
+          "text": "and forthwith the wenche roſe vp, and walked. and ſhe was twelue yeres old: and they were aſtonied vvith great aſtoniſhment."
+        },
+        {
+          "verse": 43,
+          "text": "And he commaunded them earneſtly that no body ſhould know it: and he bad that ſome thing ſhould be giuen her to eate."
+        }
+      ],
+      "summary": "To the Geraſens (and in them to al men) Chriſt manifeſteth how the Diuel of his malice would vſe them, if he would permitte: 17 and yet they like not their Sauiours preſence. 21 A Woman Gentil, that began her ſickneſſe when the Iewes daughter began her life (ſignifying Abrahams time) he cureth by the way as he was comming to heale the Iewes: And euen then the Iewes do die, but yet them alſo he wil reuiue, as here the Iewes daughter."
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "AND going out from thence, he vvent into his countrie: and his Diſciples folowed him.",
+          "cross_refs": [
+            {
+              "text": "Mt. 13, 54. Lu. 4, 16."
+            }
+          ],
+          "xrefs": [
+            "Mt. 13, 54. · Lu. 4, 16"
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "and when the Sabboth vvas come, he began to teach in the Synagogue: and many hearing him vvere in admiration at his doctrine, ſaying, How came this felovv by al theſe things? and vvhat vviſedom is this that is giuen to him, and ſuch vertues as are vvrought by his hands?"
+        },
+        {
+          "verse": 3,
+          "text": "Is not this the Carpenter, the ſonne of MARIE, the brother of Iames and Ioſeph and Iude and Simon? why, are not alſo his ſiſters here vvith vs? And they vvere ſcandalized in him.",
+          "has_annotation": true
+        },
+        {
+          "verse": 4,
+          "text": "And IESVS ſaid to them, That there is not a Prophet vvithout honour, but in his ovvne countrie, and in his ovvne houſe, and in his ovvne kinred."
+        },
+        {
+          "verse": 5,
+          "text": "and he could not doe any miracle there, but only cured a fevv that vvere ſicke, impoſing his hands",
+          "has_annotation": true
+        },
+        {
+          "verse": 6,
+          "text": "and he marueled becauſe of their incredulity, and he vvent about the tovvnes in circuite teaching."
+        },
+        {
+          "verse": 7,
+          "text": "And he called the Tvvelue: and began to ſend them tvvo and tvvo, and gaue them povver ouer vncleane ſpirits.",
+          "cross_refs": [
+            {
+              "text": "Mt. 10, 1. Lu. 9, 1."
+            }
+          ],
+          "xrefs": [
+            "Mt. 10, 1 · Lu. 9, 1."
+          ]
+        },
+        {
+          "verse": 8,
+          "text": "And he commaunded them that they ſhould take nothing for the vvay, but a rod only: not ſkrippe, not bread, nor money in their purſe,"
+        },
+        {
+          "verse": 9,
+          "text": "but ſhod vvith ſandals, and that they ſhould not put on tvvo coates.",
+          "has_annotation": true
+        },
+        {
+          "verse": 10,
+          "text": "And he ſaid to them, Whitherſoeuer you ſhal enter into an houſe, there tarie til you depart thence."
+        },
+        {
+          "verse": 11,
+          "text": "and vvhoſoeuer ſhal not receiue you, nor heare you: going forth from thence ſhake of the duſt from your feete for a teſtimonie to them."
+        },
+        {
+          "verse": 12,
+          "text": "And going forth they preached that they ſhould doe penance:"
+        },
+        {
+          "verse": 13,
+          "text": "and they caſt out many diuels, and anointed vvith oile many ſicke, and healed them.",
+          "has_annotation": true,
+          "cross_refs": [
+            {
+              "text": "Ia. 5, 14."
+            }
+          ],
+          "notes": [
+            {
+              "label": "2",
+              "text": "A preparatiue to the Sacrament of extreme vnction. Iac. 5.",
+              "kind": "gloss"
+            }
+          ],
+          "xrefs": [
+            "Ia. 5, 14."
+          ]
+        },
+        {
+          "verse": 14,
+          "text": "And king Herod heard (for his name vvas made manifeſt) and he ſaid, That Iohn the Baptiſt is riſen againe from the dead, and therfore vertues vvorke in him.",
+          "cross_refs": [
+            {
+              "text": "Mt. 14, 1. Lu. 9, 7."
+            }
+          ],
+          "xrefs": [
+            "Mt. 14, 1 · Lu. 9, 7."
+          ]
+        },
+        {
+          "verse": 15,
+          "text": "And others ſaid, That it is Elias. But others ſaid, That it is a Prophet, as one of the Prophets."
+        },
+        {
+          "verse": 16,
+          "text": "Which Herod hearing, ſaid, Iohn vvhom I beheaded, he is riſen againe from the dead."
+        },
+        {
+          "verse": 17,
+          "text": "For the ſaid Herod ſent and apprehended Iohn, and bound him in priſon for Herodias the vvife of Philippe his brother, becauſe he had maried her.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "The Goſpel vpon the decollation of S. Iohn Baptiſt Aug. 29.",
+              "kind": "lectionary"
+            },
+            {
+              "label": "2",
+              "text": "He might and ſhould by Moyſes law haue maried his brothers wife, if he had been dead without iſſue: but this Philip was yet aliue, and had alſo this daughter that daunced.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 18,
+          "text": "For Iohn ſaid to Herod, It is not lavvful for thee to haue thy brothers vvife.",
+          "cross_refs": [
+            {
+              "text": "Lev. 18, 16. 20, 21."
+            }
+          ],
+          "xrefs": [
+            "Leu. 18, 16. 20, 21."
+          ]
+        },
+        {
+          "verse": 19,
+          "text": "And Herodias lay in vvaite for him: and vvas deſirous to kil him, and could not."
+        },
+        {
+          "verse": 20,
+          "text": "For Herod feared Iohn, knovving him to be a iuſt and holy man: and he kept him, and by hearing him did many things: and he heard him gladly."
+        },
+        {
+          "verse": 21,
+          "text": "And vvhen a conuenient day vvas fallen, Herod made the ſupper of his birth-day to the Princes and the Tribunes and the cheefe of Galilee."
+        },
+        {
+          "verse": 22,
+          "text": "And vvhen the daughter of the ſame Herodias came in, and had daunced, and pleaſed Herod, and them that ſate vvith him at the table: the King ſaid to the damſel, Aſke of me vvhat thou vvilt, and I vvil giue it thee."
+        },
+        {
+          "verse": 23,
+          "text": "and he ſware to her, That vvhatſoeuer thou ſhalt aſke I vvil giue thee, though the halfe of my kingdom."
+        },
+        {
+          "verse": 24,
+          "text": "Who vvhen ſhe vvas gone forth, ſaid to her mother, What ſhal I aſke? But ſhe ſaid, The head of Iohn the Baptiſt."
+        },
+        {
+          "verse": 25,
+          "text": "And vvhen ſhe vvas gone in by and by with haſt to the King, ſhe aſketh ſaying, I wil that forthvvith thou giue me in a platter the head of Iohn the Baptiſt."
+        },
+        {
+          "verse": 26,
+          "text": "And the King vvas ſtroken ſad. Becauſe of his othe and for them that ſate together at table he vvould not diſpleaſe her:"
+        },
+        {
+          "verse": 27,
+          "text": "but ſending the hangman, commaunded that his head ſhould be brought in a platter."
+        },
+        {
+          "verse": 28,
+          "text": "And he beheaded him in the priſon, and brought his head in a platter: and gaue it to the damſel, and the damſel gaue it to her mother."
+        },
+        {
+          "verse": 29,
+          "text": "Which his diſciples hearing came, and tooke his body: and they put it in a monument. ⊢"
+        },
+        {
+          "verse": 30,
+          "text": "And the Apoſtles gathering together vnto Ieſus, made relation to him of al things that they had done and taught.",
+          "cross_refs": [
+            {
+              "text": "Lu. 9, 10."
+            }
+          ],
+          "xrefs": [
+            "Lu. 9, 10"
+          ]
+        },
+        {
+          "verse": 31,
+          "text": "And he ſaid to them, Come apart into the deſert place, and reſt a litle. For there vvere that came and vvent, many: and they had not ſo much as ſpace to eate."
+        },
+        {
+          "verse": 32,
+          "text": "And going vp into the boate, they vvent into a deſert place apart.",
+          "cross_refs": [
+            {
+              "text": "Mt. 14. 13."
+            }
+          ],
+          "xrefs": [
+            "Mt. 14, 13."
+          ]
+        },
+        {
+          "verse": 33,
+          "text": "And they ſavv them going avvay, and many knevv: and they ranne flocking thither on foote from al cities, and preuented them."
+        },
+        {
+          "verse": 34,
+          "text": "And going forth, IESVS ſavv a great multitude: and he had compaſſion on them, becauſe they vvere as ſheepe not hauing a ſhepheard, and he began to teach them many things.",
+          "xrefs": [
+            "Mt. 14, 15."
+          ]
+        },
+        {
+          "verse": 35,
+          "text": "And vvhen the day vvas novv farre ſpent, his Diſciples came to him, ſaying, This is a deſert place, and the houre is novv paſt:",
+          "cross_refs": [
+            {
+              "text": "Mt. 14, 15. Lu. 9, 12. Io. 6, 5."
+            }
+          ],
+          "xrefs": [
+            "Lu. 9, 12"
+          ]
+        },
+        {
+          "verse": 36,
+          "text": "dimiſſe them, that going out into the next villages and tovvnes, they may bie them ſelues meates to eate.",
+          "xrefs": [
+            "Io. 6, 5."
+          ]
+        },
+        {
+          "verse": 37,
+          "text": "And he anſvvering ſaid, Giue ye them to eate. And they ſaid to him, Let vs goe and bie bread for tvvo hundred pence: and vve vvil giue them to eate."
+        },
+        {
+          "verse": 38,
+          "text": "And he ſaith to them, Hovv many loaues haue you? goe and ſee. And vvhen they knevv, they ſay, Fiue, and tvvo fiſhes."
+        },
+        {
+          "verse": 39,
+          "text": "And he commaunded them that they ſhould make al ſit dovvne, by companies vpon the greene graſſe."
+        },
+        {
+          "verse": 40,
+          "text": "And they ſate dovvne in rankes by hundreds and fifties."
+        },
+        {
+          "verse": 41,
+          "text": "And vvhen he had taken the fiue loaues, and the tvvo fiſhes: looking vp vnto heauen, he bleſſed, and brake the loaues, and gaue to his Diſciples to ſet before them: and the tvvo fiſhes he deuided to al."
+        },
+        {
+          "verse": 42,
+          "text": "And al did eate, and had their fill."
+        },
+        {
+          "verse": 43,
+          "text": "And they tooke vp the leauings, tvvelue ful baſkets of fragments: and of the fiſhes."
+        },
+        {
+          "verse": 44,
+          "text": "And they that did eate, vvere fiue thouſand men."
+        },
+        {
+          "verse": 45,
+          "text": "And immediatly he compelled his Diſciples to goe vp into the boate, that they might goe before him beyond the ſtraite to Bethſaida: vvhiles him ſelf did dimiſſe the people.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "The narrow ſea, or water.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 46,
+          "text": "And vvhen he had dimiſſed them, he vvent into the mountaine to pray.",
+          "cross_refs": [
+            {
+              "text": "Mt. 14, 23. Io 6, 16."
+            }
+          ],
+          "notes": [
+            {
+              "label": "2",
+              "text": "The Goſpel on Saterday after Aſhweneſday.",
+              "kind": "lectionary"
+            }
+          ],
+          "xrefs": [
+            "Mt. 14, 23."
+          ]
+        },
+        {
+          "verse": 47,
+          "text": "And vvhen it vvas late, the boate vvas in the middes of the ſea, and him ſelf alone on the land.",
+          "xrefs": [
+            "Io. 6, 16."
+          ]
+        },
+        {
+          "verse": 48,
+          "text": "And ſeeing them labouring in rovving (for the vvinde vvas againſt them) and about the fourth vvatch of the night he commeth to them vvalking vpon the ſea: and he vvould haue paſſed by them."
+        },
+        {
+          "verse": 49,
+          "text": "But they ſeeing him vvalking vpon the ſea, thought it vvas a ghoſt, and cried out."
+        },
+        {
+          "verse": 50,
+          "text": "For al ſavv him, and vvere troubled. And immediatly he talked vvith them, and ſaid to them, Haue confidence, it is I, feare ye not."
+        },
+        {
+          "verse": 51,
+          "text": "And he vvent vp to them into the ſhippe, and the vvinde ceaſed: and they vvere farre more aſtonied vvithin them ſelues:"
+        },
+        {
+          "verse": 52,
+          "text": "for they vnderſtoode not concerning the loaues: for their hart vvas blinded."
+        },
+        {
+          "verse": 53,
+          "text": "And vvhen they had paſſed ouer, they came into the land of Genezareth, and ſet to the ſhore.",
+          "cross_refs": [
+            {
+              "text": "Mt. 14, 34."
+            }
+          ],
+          "xrefs": [
+            "Mt. 14, 34."
+          ]
+        },
+        {
+          "verse": 54,
+          "text": "And vvhen they vvere gone out of the boate, incontinent they knevv him:"
+        },
+        {
+          "verse": 55,
+          "text": "and running through that vvhole countrie, they began to carie about in couches thoſe that vvere il at eaſe, vvhere they heard he vvas."
+        },
+        {
+          "verse": 56,
+          "text": "And vvhitherſoeuer he entred into townes or into villages or cities, they laid the ſicke in the ſtreates, and beſought him that they might touche but the hemme of his garment: and as many as touched him, vvere made vvhole. ⊢"
+        }
+      ],
+      "summary": "In his owne countrey (ſignifying the reprobate Iewes) he is contemned, and therfore worketh litle in reſpect. 6 His Apoſtles preache euery where and worke miracles, ſo that King Herode (who ſhamefully killed Iohn Baptiſt) and others are ſtriken with great admiration. 30 After Iohns death he goeth into the Deſert, where great concurſe being vnto him, he feedeth 5000 with fiue loaues. 46 And after he hath praied long in the mountaine, he walketh vpon the ſea. 53 And with the very touche of his garments hemme he healeth innumerable."
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "AND there aſſemble together vnto him the Phariſees and certaine of the Scribes, comming from Hieruſalem.",
+          "cross_refs": [
+            {
+              "text": "Mt. 15, 1."
+            }
+          ],
+          "xrefs": [
+            "Mt. 15, 1"
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "And vvhen they had ſeen certaine of his diſciples eate bread vvith common hands, that is, not vvaſhed, they blamed them.",
+          "has_annotation": true
+        },
+        {
+          "verse": 3,
+          "text": "For the Phariſees and al the Ievves, vnles they often vvaſh their hands, eate not, holding the tradition of the Auncients:"
+        },
+        {
+          "verse": 4,
+          "text": "and from the market, vnles they be waſhed, they eate not: and many other things there be that vvere deliuered vnto them to obſerue, the vvaſhings of cuppes and cruſes, and of braſen veſſels & beddes."
+        },
+        {
+          "verse": 5,
+          "text": "And the Phariſees and Scribes aſked him, Why do not thy diſciples vvalke according to the tradition of the Auncients, but they eate bread vvith common hands?"
+        },
+        {
+          "verse": 6,
+          "text": "But he anſvvering, ſaid to them, Wel did Eſay Prophecie of you hypocrites, as it is vvritten, This people honoureth me with their lippes, but their hart is farre from me.",
+          "cross_refs": [
+            {
+              "text": "Eſa. 29, 13."
+            }
+          ],
+          "notes": [
+            {
+              "label": "2",
+              "text": "They that ſay well or teache and preache well, or haue Chriſt and his word in their mouth, and liue naughtily, be touched in this place.",
+              "kind": "gloss"
+            }
+          ],
+          "xrefs": [
+            "Esa. 29, 13."
+          ]
+        },
+        {
+          "verse": 7,
+          "text": "and in vaine doe they vvorſhip me, teaching doctrines precepts of men.",
+          "has_annotation": true
+        },
+        {
+          "verse": 8,
+          "text": "For leauing the commaundement of God, you hold the traditions of men, the vvaſhings of cruſes and cuppes: & many other things you doe like to theſe."
+        },
+        {
+          "verse": 9,
+          "text": "And he ſaid to them, Wel do you fruſtrate the precept of God, that you may obſerue your ovvne tradition.",
+          "xrefs": [
+            "Exo. 20, 12."
+          ]
+        },
+        {
+          "verse": 10,
+          "text": "For Moyſes ſaid, Honour thy father & thy mother. and, He that ſhal curſe father or mother, dying let him dye.",
+          "cross_refs": [
+            {
+              "text": "Exo. 20, 12."
+            },
+            {
+              "text": "Lev. 20, 9."
+            }
+          ]
+        },
+        {
+          "verse": 11,
+          "text": "But you ſay, If a man ſay to father or mother, Corban (vvhich is a gift) vvhatſoeuer proceedeth from me, ſhal profit thee:",
+          "has_annotation": true,
+          "xrefs": [
+            "Leu. 20, 9."
+          ]
+        },
+        {
+          "verse": 12,
+          "text": "and further you ſuffer him not to doe ought for his father or mother,"
+        },
+        {
+          "verse": 13,
+          "text": "defeating the vvord of God for your ovvne tradition vvhich you haue giuen forth. and many other things of this ſort you doe."
+        },
+        {
+          "verse": 14,
+          "text": "And calling againe the multitude vnto him, he ſaid to them, Heare me al you, and vnderſtand."
+        },
+        {
+          "verse": 15,
+          "text": "Nothing is without a man entring into him, that can defile him. but the things that proceede from a man thoſe are they that make a man common.",
+          "has_annotation": true,
+          "notes": [
+            {
+              "label": "1",
+              "text": "See the firſt annotation vpon this chapter.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 16,
+          "text": "If any man haue eares to heare, let him heare."
+        },
+        {
+          "verse": 17,
+          "text": "And vvhen he vvas entred into the houſe from the multitude, his Diſciples aſked him the parable."
+        },
+        {
+          "verse": 18,
+          "text": "And he ſaith to them, So are you alſo vnſkilful? Vnderſtand you not that euery thing from vvithout, entring into a man, can not make him common:"
+        },
+        {
+          "verse": 19,
+          "text": "becauſe it entreth not into his hart, but goeth into the belly, and is caſt out into the priuy, purging al the meates?"
+        },
+        {
+          "verse": 20,
+          "text": "But he ſaid that the things vvhich come forth from a man, they make a man common."
+        },
+        {
+          "verse": 21,
+          "text": "For from vvithin out of the hart of men proceede euil cogitations, aduouteries, fornications, murders,"
+        },
+        {
+          "verse": 22,
+          "text": "theftes, auarices, wickedneſſe, guile, impudicities, an euil eye, blaſphemie, pride, foliſhnes."
+        },
+        {
+          "verse": 23,
+          "text": "Al theſe euils proceede from vvithin, and make a man common."
+        },
+        {
+          "verse": 24,
+          "text": "And riſing from thence he vvent into the coaſtes of Tyre and Sidon: and entring into a houſe, he vvould that no man ſhould knovv, and he could not be hid.",
+          "cross_refs": [
+            {
+              "text": "Mt. 15, 21."
+            }
+          ],
+          "xrefs": [
+            "Mt. 15, 21."
+          ]
+        },
+        {
+          "verse": 25,
+          "text": "For a woman immediatly as ſhe heard of him, vvhoſe daughter had an vncleane ſpirit, entred in, and fel dovvne at his feete."
+        },
+        {
+          "verse": 26,
+          "text": "For the vvoman vvas a Gentile, a Syrophaenician borne. And ſhe beſought him that he vvould caſt forth the diuel out of her daughter."
+        },
+        {
+          "verse": 27,
+          "text": "Who ſaid to her, Suffer firſt the children to be filled. for it is not good to take the childrens bread, and caſt it to the dogges."
+        },
+        {
+          "verse": 28,
+          "text": "But ſhe anſvvered, and ſaid to him, Yea lord. for the vvhelpes alſo eate vnder the table of the crummes of the children."
+        },
+        {
+          "verse": 29,
+          "text": "And he ſaid to her, For this ſaying goe thy vvay, the deuil is gone out of thy daughter."
+        },
+        {
+          "verse": 30,
+          "text": "And when ſhe vvas departed into her houſe, ſhe found the maid lying vpon the bed, and the deuil gone out."
+        },
+        {
+          "verse": 31,
+          "text": "And againe going out of the coaſtes `of Tyre, he came by Sidon' to the ſea of Galilee through the middes of the coaſtes of Decapolis.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "The Goſpel vpon the 11 Sunday after Pentecoſt.",
+              "kind": "lectionary"
+            },
+            {
+              "label": "2",
+              "text": "`of Tyre and Sidon, he came",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 32,
+          "text": "And they bring to him one deafe and dumme: and they beſought him that he vvould impoſe his hand vpon him."
+        },
+        {
+          "verse": 33,
+          "text": "And taking him from the multitude apart, he put his fingers into his eares: and ſpitting, touched his tongue.",
+          "has_annotation": true
+        },
+        {
+          "verse": 34,
+          "text": "and looking vp vnto heauen, he groned, and ſaid to him, Ephphetha, vvhich is, Be thou opened.",
+          "has_annotation": true
+        },
+        {
+          "verse": 35,
+          "text": "And immediatly his eares vvere opened, and the ſtring of his tongue vvas looſed, and he ſpake right."
+        },
+        {
+          "verse": 36,
+          "text": "And he commaunded them not to tel any body. But hovv much he commaunded them, ſo much the more a great deale did they publiſh it,"
+        },
+        {
+          "verse": 37,
+          "text": "and ſo much the more did they vvonder, ſaying, He hath done al things vvel: he hath made both the deafe to heare, and the dumme to ſpeake. ⊢"
+        }
+      ],
+      "summary": "The maſters of Hieruſalem comming ſo farre to carpe him 6 he chargeth with traditions, partly friuolous, 9 partly alſo contrarie to Gods commaundements. 14 And to the people he yeldeth the reaſon of that which they carped, 17 and againe to his diſciples, ſhewing the ground of the Iewiſh waſhing (to witte, that meates otherwiſe defile the ſoule) to be falſe. 24 But by and by among the Gentils, in a vvoman he findeth wonderful faith, vpon her therfore he beſtoweth the crumme that ſhe aſked, 32 returning (becauſe the time of the Gentils was not yet come) to the Iewes with the loafe. 32 Where he ſheweth his compaſſion tovvardes mankind ſo deafe and dumme, 36 and of the people is highly magnified."
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "IN thoſe daies againe vvhen there vvas a great multitude, and had not what to eate: calling his Diſciples together, he ſaith to them,",
+          "cross_refs": [
+            {
+              "text": "Mt. 15, 32."
+            }
+          ],
+          "notes": [
+            {
+              "label": "2",
+              "text": "The Goſpel vpon the 6 Sunday after Pentecoſt.",
+              "kind": "lectionary"
+            }
+          ],
+          "xrefs": [
+            "Mt. 15, 32."
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "I haue compaſsion vpon the multitude: becauſe loe three daies they now endure vvith me, neither haue vvhat to eate.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "Great feruour and deuotion in the good people, and exceding force in our Maiſters preaching, that made thē abide faſting ſo long to heare his diuine ſermons.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 3,
+          "text": "and if I dimiſſe them faſting into their home, they vvil faint in the vvay: for ſome of them came farre of."
+        },
+        {
+          "verse": 4,
+          "text": "And his Diſciples anſvvered him, Whence may a man fil them here vvith bread in the vvildernes?"
+        },
+        {
+          "verse": 5,
+          "text": "And he aſked them, Hovv many loaues haue ye? Who ſaid, Seuen."
+        },
+        {
+          "verse": 6,
+          "text": "And he commaunded the multitude to ſit dovvne vpon the ground. And taking the ſeuen loaues, giuing thankes he brake, and gaue to his Diſciples for to ſet before them, and they did ſet them before the multitude.",
+          "has_annotation": true
+        },
+        {
+          "verse": 7,
+          "text": "And they had a fevv litle fiſhes: and he bleſſed them, and commaunded them to be ſet before them.",
+          "has_annotation": true
+        },
+        {
+          "verse": 8,
+          "text": "And they did eate and vvere filled. and they tooke vp that vvhich vvas left of the fragments, ſeuen maundes."
+        },
+        {
+          "verse": 9,
+          "text": "And they that had eaten vvere about foure thouſand: and he dimiſſed them."
+        },
+        {
+          "verse": 10,
+          "text": "And immediatly going vp into the boate vvith his Diſciples, he came into the quarters of Dalmanûtha.",
+          "cross_refs": [
+            {
+              "text": "Mt. 15, 39. 16, 1."
+            }
+          ],
+          "xrefs": [
+            "Mt. 15, 39. 16, 1."
+          ]
+        },
+        {
+          "verse": 11,
+          "text": "And the Phariſees vvent forth, and began to queſtion vvith him, aſking of him a ſigne from heauen, tempting him."
+        },
+        {
+          "verse": 12,
+          "text": "And groning in ſpirit, he ſaith, Why doth this generation aſke a ſigne? Amen I ſay to you, If a ſigne ſhal be giuen to this generation."
+        },
+        {
+          "verse": 13,
+          "text": "And leauing them, he vvent vp againe into the boate, and paſſed beyond the ſtraite."
+        },
+        {
+          "verse": 14,
+          "text": "And they forgot to take bread: and they had but one loafe vvith them in the boate."
+        },
+        {
+          "verse": 15,
+          "text": "And he commaunded them, ſaying, Looke vvel and bevvare of the leauen of the Phariſees, and the leauen of Herod."
+        },
+        {
+          "verse": 16,
+          "text": "And they reaſoned among them ſelues ſaying, Becauſe vve haue not bread."
+        },
+        {
+          "verse": 17,
+          "text": "Which IESVS knovving, ſaith to them, Why doe you reaſon, becauſe you haue not bread? do you not yet knovv nor vnderſtand? yet haue ye your hart blinded?"
+        },
+        {
+          "verse": 18,
+          "text": "hauing eies ſee you not? and hauing eares heare you not? Neither do you remember?",
+          "xrefs": [
+            "Mar. 6, 38."
+          ]
+        },
+        {
+          "verse": 19,
+          "text": "When I brake fiue loaues among fiue thouſand: and hovv many baſkets ful of fragments tooke you vp? They ſay to him, Tvvelue.",
+          "cross_refs": [
+            {
+              "text": "Mar. 6, 38."
+            }
+          ],
+          "xrefs": [
+            "Mr. 8, 5."
+          ]
+        },
+        {
+          "verse": 20,
+          "text": "When alſo ſeuen loaues among foure thouſand, hovv many maundes of fragments tooke you vp? And they ſay to him, Seuen.",
+          "cross_refs": [
+            {
+              "text": "Mr. 8, 5."
+            }
+          ]
+        },
+        {
+          "verse": 21,
+          "text": "And he ſaid to them, Hovv do you not yet vnderſtand?"
+        },
+        {
+          "verse": 22,
+          "text": "And they come to Bethſaida: and they bring to him one blinde, and deſired him that he vvould touche him.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "Our Sauiour vſed to worke much by touching: that we may learne not to contemne the corporal and external application of holy things, nor to chalenge by the ſpirit and faith only, as Heretikes doe.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 23,
+          "text": "And taking the hand of the blinde, he led him forth out of the towne: and ſpitting into his eies, impoſing his hands, he aſked him if he ſavv any thing."
+        },
+        {
+          "verse": 24,
+          "text": "And looking vp, he ſaid, I ſee men as it vvere trees, vvalking."
+        },
+        {
+          "verse": 25,
+          "text": "After that againe he impoſed his hands vpon his eies, and be began to ſee, and vvas reſtored, ſo that he ſavv al things clerely."
+        },
+        {
+          "verse": 26,
+          "text": "And he ſent him into his houſe, ſaying, Goe into thy houſe: and if thou enter in to the tovvne, tel no body."
+        },
+        {
+          "verse": 27,
+          "text": "And IESVS vvent forth and his Diſciples into the tovvnes of Caeſarêa-Philippi: and in the vvay he aſked his Diſciples, ſaying to them, Whom do men ſay that I am?",
+          "cross_refs": [
+            {
+              "text": "Mt. 16, 13. Lu. 9, 18."
+            }
+          ],
+          "xrefs": [
+            "Mt. 16, 13. · Lu. 9, 18"
+          ]
+        },
+        {
+          "verse": 28,
+          "text": "Who anſvvered him, ſaying, Iohn the Baptiſt, ſome Elias, & other ſome as it vvere one of the Prophets."
+        },
+        {
+          "verse": 29,
+          "text": "Then he ſaith to them, But vvhom do you ſay that I am? Peter anſvvering ſaid to him, Thou art Chriſt."
+        },
+        {
+          "verse": 30,
+          "text": "And he threatened them that they ſhould not tel any man of him."
+        },
+        {
+          "verse": 31,
+          "text": "And he began to teache them, that the Sonne of man muſt ſuffer many things, and be reiected of the Auncients and of the high Prieſtes and the Scribes, and be killed: and after three daies riſe againe."
+        },
+        {
+          "verse": 32,
+          "text": "And he ſpake the vvord openly. And Peter taking him, began to rebuke him."
+        },
+        {
+          "verse": 33,
+          "text": "VVho turning, and ſeeing his Diſciples, threatened Peter, ſaying, Goe behind me Satan, becauſe thou ſauoureſt not the things that are of God, but that are of men."
+        },
+        {
+          "verse": 34,
+          "text": "And calling the multitude together with his Diſciples, he ſaid to them, If any man wil folow me, let him deny him ſelf, and take vp his croſſe, and folow me."
+        },
+        {
+          "verse": 35,
+          "text": "For he that wil ſaue his life, ſhal loſe it: and he that ſhal loſe his life for me and the Goſpel, ſhal ſaue it.",
+          "has_annotation": true
+        },
+        {
+          "verse": 36,
+          "text": "For what ſhal it profit a man, if he gaine the whole world, and ſuffer damage of his ſoule?",
+          "has_annotation": true
+        },
+        {
+          "verse": 37,
+          "text": "Or what permutation ſhal a man giue for his ſoule?"
+        },
+        {
+          "verse": 38,
+          "text": "For he that ſhal be aſhamed of me, and of my wordes in this aduouterous and ſinful generation, the Sonne of man alſo wil be aſhamed of him, when he ſhal come in the glorie of his father with the holy Angels."
+        },
+        {
+          "verse": 39,
+          "text": "And he ſaid to them, Amen I ſay to you, that there be ſome of them that ſtand here, vvhich ſhal not taſt of death, vntil they ſee the kingdom of God comming in povver."
+        }
+      ],
+      "summary": "Of compaſſion he feedeth the people, 4000 vvith ſeuen loaues. 10 After al which miracles as though they were yet vnſufficient to proue him to be Chriſt, the obſtinate Phariſees do require ſome miracle from heauen. 13 Wherevpon forſaking them, he warneth his Diſciples to bevvare of the leauen of their doctrine, neither to feare vvant of neceſſaries. 22 He healeth a blind man by degrees and vvith ceremonies. 27 Peter confeſſeth him (though men al this vvhile had not learned ſo farre) to be Chriſt. 31 and by and by he reuealeth to them his paſſion, 32 rebuking alſo Peter for diſſuading it, 34 and ſhewing that it is a thing wherein al that wil be ſaued (namely in time of perſecution) muſt folovv him."
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "And after ſix daies IESVS taketh Peter and Iames and Iohn: and bringeth them alone into a high mountaine apart, and vvas transfigured before them.",
+          "cross_refs": [
+            {
+              "text": "Mt. 16, 27. 17, 1. Lu. 9, 27."
+            }
+          ],
+          "xrefs": [
+            "Mt. 16, 27. 17, 1 · Lu. 9, 27"
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "And his garments vvere made gliſtering and vvhite excedingly as ſnow, the like vvhereof a fuller cannot make vvhite vpon the earth.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "See the Annotations vpon the 17 of S. Matthew.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 3,
+          "text": "And there appeared to them Elias vvith Moyſes: and they vvere talking vvith IESVS.",
+          "has_annotation": true,
+          "notes": [
+            {
+              "label": "1",
+              "text": "The law and the Prophets ioyne with Chriſt and his Goſpel: the one ſignified by Moyſes, the other by Elias. By whoſe apparitions here we alſo learne that ſometime there may be perſonal entercourſe betwixt the liuing & the dead, though not ordinarily.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 4,
+          "text": "And Peter anſvvering, ſaid to IESVS, Rabbi, it is good for vs to be here: and let vs make three tabernacles, one for thee, and one for Moyſes, and one for Elias."
+        },
+        {
+          "verse": 5,
+          "text": "For he knevv not vvhat he ſaid: for they vvere frighted vvith feare:"
+        },
+        {
+          "verse": 6,
+          "text": "and there vvas a cloude ouerſhadovving them, and a voice came out of the cloude, ſaying, This is my Sonne moſt deere: heare ye him."
+        },
+        {
+          "verse": 7,
+          "text": "And immediatly looking about, they ſavv no man any more but IESVS only vvith them."
+        },
+        {
+          "verse": 8,
+          "text": "And as they deſcended from the mountaine, he commaunded them that they ſhould not tel any man vvhat things they had ſeen: but vvhen the Sonne of man ſhal be riſen againe from the dead."
+        },
+        {
+          "verse": 9,
+          "text": "And they kept in the vvord vvith them ſelues: queſtioning together vvhat that ſhould be, when he ſhal be riſen from the dead."
+        },
+        {
+          "verse": 10,
+          "text": "And they aſked him, ſaying, What ſay the Phariſees then and the Scribes, that Elias muſt come firſt?",
+          "cross_refs": [
+            {
+              "text": "Mal. 4, 5."
+            }
+          ]
+        },
+        {
+          "verse": 11,
+          "text": "Who anſvvering ſaid to them, Elias vvhen he commeth firſt, ſhal reſtore al things: and `hovv' it is vvritten of the Sonne of man, that he ſhal ſuffer many things and be contemned.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "as",
+              "kind": "gloss"
+            }
+          ],
+          "xrefs": [
+            "Mal. 4, 5"
+          ]
+        },
+        {
+          "verse": 12,
+          "text": "But I ſay to you that Elias alſo is come (and they haue done to him vvhatſoeuer they vvould) as it is vvritten of him.",
+          "has_annotation": true
+        },
+        {
+          "verse": 13,
+          "text": "And comming to his Diſciples, he ſavv a great multitude about them, and the Scribes queſtioning vvith them.",
+          "cross_refs": [
+            {
+              "text": "Mt. 17, 14. Lu. 9, 37."
+            }
+          ]
+        },
+        {
+          "verse": 14,
+          "text": "And forthvvith al the people ſeeing IESVS, vvas aſtonied, and much afraid: and running to him, ſaluted him.",
+          "xrefs": [
+            "Mt. 17, 14."
+          ]
+        },
+        {
+          "verse": 15,
+          "text": "And he aſked them, What do you queſtion of among you?",
+          "xrefs": [
+            "Lu. 9, 37"
+          ]
+        },
+        {
+          "verse": 16,
+          "text": "And one of the multitude anſvvering, ſaid, Maiſter, I haue brought my ſonne to thee, hauing a dumme ſpirit,",
+          "notes": [
+            {
+              "label": "1",
+              "text": "The Goſpel vpon weneſday in the Imber weeke of September.",
+              "kind": "lectionary"
+            }
+          ]
+        },
+        {
+          "verse": 17,
+          "text": "Who, vvhereſoeuer he taketh him, daſheth him, and he fometh, and gnaſheth vvith the teeth, and vvithereth: and I ſpake to thy Diſciples to caſt him out, and they could not."
+        },
+        {
+          "verse": 18,
+          "text": "Who anſvvering them, ſaid, O incredulous generation, hovv long ſhal I be vvith you? hovv long ſhal I ſuffer you? bring him vnto me."
+        },
+        {
+          "verse": 19,
+          "text": "And they brought him. And vvhen he had ſeen him, immediatly the ſpirit troubled him: and being throvven vpon the ground, he tumbled foming."
+        },
+        {
+          "verse": 20,
+          "text": "And he aſked his father, Hovv long time is it ſince this hath chaunced vnto him? But he ſaid, From his infancie:"
+        },
+        {
+          "verse": 21,
+          "text": "and often times hath he caſt him into fire and into vvaters, to deſtroy him. but if thou canſt any thing, helpe vs, hauing compaſsion on vs."
+        },
+        {
+          "verse": 22,
+          "text": "And Ieſus ſaid to him, If thou canſt beleeue, al things are poſsible to him that beleeueth."
+        },
+        {
+          "verse": 23,
+          "text": "And incontinent the father of the boy crying out, vvith teares ſaid, I do beleeue Lord: helpe my incredulity."
+        },
+        {
+          "verse": 24,
+          "text": "And when IESVS ſaw the people running together, he threatened the vncleane ſpirit, ſaying to him, Deafe and dumme ſpirit, I commaunde thee, goe out of him, and enter not any more into him."
+        },
+        {
+          "verse": 25,
+          "text": "And crying out, and greatly tearing him, he vvent out of him, and he became as dead, ſo that many ſaid, That he is dead."
+        },
+        {
+          "verse": 26,
+          "text": "But IESVS holding his hand, lifted him vp: and he roſe."
+        },
+        {
+          "verse": 27,
+          "text": "And vvhen he vvas entred into the houſe, his Diſciples ſecretely aſked him, Why could not vve caſt him out?"
+        },
+        {
+          "verse": 28,
+          "text": "And he ſaid to them, This kinde can goe out by nothing, but by prayer and faſting. ⊢",
+          "notes": [
+            {
+              "label": "1",
+              "text": "Note the great force of prayer, and faſting.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 29,
+          "text": "And departing thence they paſſed by Galilee, neither vvould he that any man ſhould knovv.",
+          "cross_refs": [
+            {
+              "text": "Mt. 17, 22. Lu. 9, 21."
+            }
+          ]
+        },
+        {
+          "verse": 30,
+          "text": "And he taught his Diſciples, and ſaid to them, That the Sonne of man ſhal be betrayed into the hands of men, and they ſhal kil him, and being killed the third day he ſhal riſe againe.",
+          "xrefs": [
+            "Mt. 17, 22."
+          ]
+        },
+        {
+          "verse": 31,
+          "text": "But they knevv not the vvord: and they vvere afraid to aſke him.",
+          "xrefs": [
+            "Lu. 9, 21"
+          ]
+        },
+        {
+          "verse": 32,
+          "text": "And they came to Capharnaum. VVho, vvhen he vvas in the houſe, aſked them, What did you treate of in the vvay?",
+          "cross_refs": [
+            {
+              "text": "Mt. 18, 1. Lu. 9, 46."
+            }
+          ]
+        },
+        {
+          "verse": 33,
+          "text": "But they held their peace. for in the vvay they had diſputed among them ſelues, vvhich of them ſhould be the greater.",
+          "xrefs": [
+            "Mt. 18, 1 · Lu. 9, 46."
+          ]
+        },
+        {
+          "verse": 34,
+          "text": "And ſitting dovvne, he called the Tvvelue, and ſaith to them, If any man vvil be firſt, he ſhal be laſt of al, and the miniſter of al."
+        },
+        {
+          "verse": 35,
+          "text": "And taking a childe, he ſet him in the middes of them. VVhom vvhen he had embraced, he ſaid to them,"
+        },
+        {
+          "verse": 36,
+          "text": "VVhoſoeuer ſhal receiue one of ſuch children in my name, receiueth me. and vvhoſoeuer ſhal receiue me, receiueth not me, but him that ſent me."
+        },
+        {
+          "verse": 37,
+          "text": "Iohn anſvvered him, ſaying, Maiſter vve ſavv one caſting out deuils in thy name, vvho folovveth not vs, and vve prohibited him.",
+          "has_annotation": true,
+          "cross_refs": [
+            {
+              "text": "Lu. 9, 49."
+            }
+          ]
+        },
+        {
+          "verse": 38,
+          "text": "But IESVS ſaid, Do not prohibit him. for there is no man that doth a miracle in my name, and can ſoone ſpeake il of me.",
+          "xrefs": [
+            "Lu. 9, 49."
+          ]
+        },
+        {
+          "verse": 39,
+          "text": "for he that is not againſt you, is for you."
+        },
+        {
+          "verse": 40,
+          "text": "For whoſoeuer ſhal giue you to drinke a cuppe of vvater in my name, becauſe you are Chriſts: amen I ſay to you, he ſhal not loſe his revvard.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "Reward for almes deedes, whereby it is euident they be meritorious.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 41,
+          "text": "And vvhoſoeuer ſhal ſcandalize one of theſe litle ones beleeuing in me: it is good for him rather if a milſtone vvere put about his necke, and he vvere caſt into the ſea.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "To giue ſcandal by our life to the weake in faith, is a great ſinne, ſpecially in Prieſts, Preachers, and Princes.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 42,
+          "text": "And if thy hand ſcandalize thee, cut it of. it is good for thee to enter into life, maimed, then hauing tvvo hands to goe into hel, into the fire vnquencheable,"
+        },
+        {
+          "verse": 43,
+          "text": "vvhere their vvorme dieth not, and the fire quencheth not."
+        },
+        {
+          "verse": 44,
+          "text": "And if thy foote ſcandalize thee, choppe it of. it is good for thee to enter into life euerlaſting, lame, rather then hauing tvvo feete, to be caſt into the hel of vnquencheable fire,"
+        },
+        {
+          "verse": 45,
+          "text": "vvhere their vvorme dieth not, and the fire quencheth not."
+        },
+        {
+          "verse": 46,
+          "text": "And if thine eye ſcandalize thee, caſt it out. it is good for thee vvith one eye to enter into the kingdom of God, rather then hauing tvvo eies, to be caſt into the hel of fire,"
+        },
+        {
+          "verse": 47,
+          "text": "vvhere their vvorme dieth not, and the fire quencheth not."
+        },
+        {
+          "verse": 48,
+          "text": "For euery one ſhal be ſalted vvith fire: and euery victime ſhal be ſalted vvith ſalt.",
+          "cross_refs": [
+            {
+              "text": "Lev. 2, 13."
+            }
+          ]
+        },
+        {
+          "verse": 49,
+          "text": "Salt is good. but if the ſalt ſhal be vnſeaſoned: vvhervvith vvil you ſeaſon it? Haue ſalt in you, and haue peace among you.",
+          "xrefs": [
+            "Leu. 2, 13"
+          ]
+        }
+      ],
+      "summary": "The more to confirme them, he giueth them in his Transfiguration a ſight of his glorie, wherevnto Suffering doth bring, 9 and then againe doth inculcate his Paſſion. 14 A Diuel alſo he caſteth out, which his Diſciples (vpon whom therfore the peruerſe Scribes triumphed in his abſence) could not, for lacke of faſting and praying. 30 Being yet in Galilee, he reuealeth more about his Paſsion. 33 And (becauſe in the way to Capharnaum they contended for the Primacie (he teacheth them that humility is the way to Primacie before God: 38 bidding them alſo, not to prohibit ſuch as be not againſt them: nor to giue ſcandal to any one of the faithful. and on the other ſide, the faithful to auoid them by whom they may be ſcandalized and fall, be they neuer ſo neere vnto them.",
+      "summary_continuation": {
+        "text": "33 And (becauſe in the way to Capharnaum they contended for the Primacie (he teacheth them that humility is the way to Primacie before God: 38 bidding them alſo, not to prohibit ſuch as be not againſt them: nor to giue ſcandal to any one of the faithful. and on the other ſide, the faithful to auoid them by whom they may be ſcandalized and fall, be they neuer ſo neere vnto them."
+      }
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "AND riſing vp thence, he commeth into the coaſtes of Ievvrie beyond Iordan: and the multitudes aſſemble againe vnto him. and as he vvas accuſtomed, againe he taught them.",
+          "cross_refs": [
+            {
+              "text": "Mt. 19, 1."
+            }
+          ],
+          "xrefs": [
+            "Mt. 19, 1"
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "And the Phariſees comming neere, aſked him, Is it lavvful for a man to dimiſſe his vvife? tempting him."
+        },
+        {
+          "verse": 3,
+          "text": "But he anſvvering, ſaid to them, VVhat did Moyſes commaund you?",
+          "xrefs": [
+            "Deut. 24, 1."
+          ]
+        },
+        {
+          "verse": 4,
+          "text": "Who ſaid, Moyſes permitted to vvrite a bil of diuorce, and to dimiſſe her.",
+          "has_annotation": true,
+          "cross_refs": [
+            {
+              "text": "Deut. 24, 1."
+            }
+          ]
+        },
+        {
+          "verse": 5,
+          "text": "To vvhom IESVS anſvvering, ſaid, For the hardnes of your hart he vvrote you this precept."
+        },
+        {
+          "verse": 6,
+          "text": "but from the beginning of the creation God made them male and femal.",
+          "cross_refs": [
+            {
+              "text": "Gen. 1, 27."
+            }
+          ],
+          "xrefs": [
+            "Gen. 1, 27."
+          ]
+        },
+        {
+          "verse": 7,
+          "text": "For this cauſe, man ſhal leaue his father and mother: and ſhal cleaue to his vvife,",
+          "cross_refs": [
+            {
+              "text": "Gen. 2, 24."
+            }
+          ],
+          "xrefs": [
+            "Gen. 2, 24."
+          ]
+        },
+        {
+          "verse": 8,
+          "text": "and they tvvo ſhal be in one fleſh. therfore novv they are not tvvo, but one fleſh."
+        },
+        {
+          "verse": 9,
+          "text": "That therfore vvhich God hath ioyned together, let not man ſeparate.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "The obligation betwixt man and wife is ſo great, that during life it can not be broken.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "text": "And in the houſe againe his Diſciples aſked him of the ſame thing.",
+          "cross_refs": [
+            {
+              "text": "Mt. 19, 9. Mt. 5, 32. Lu. 16, 18. 1. Cor. 7, 11."
+            }
+          ],
+          "xrefs": [
+            "Mt. 19, 9"
+          ]
+        },
+        {
+          "verse": 11,
+          "text": "And he ſaith to them, Whoſoeuer dimiſſeth his vvife and marrieth an other: committeth aduoutrie vpon her.",
+          "has_annotation": true,
+          "xrefs": [
+            "Mt. 5, 32 · Lu. 16, 18."
+          ]
+        },
+        {
+          "verse": 12,
+          "text": "And if the vvife dimiſſe her huſband, and mary an other, ſhe committeth aduoutrie.",
+          "xrefs": [
+            "1. Cor. 7, 11."
+          ]
+        },
+        {
+          "verse": 13,
+          "text": "And they offered to him yong children, that he might touche them. And the Diſciples threatened thoſe that offered them.",
+          "cross_refs": [
+            {
+              "text": "Mt. 19, 13. Lu. 18, 15."
+            }
+          ],
+          "xrefs": [
+            "Mt. 19, 13. · Lu. 18, 15."
+          ]
+        },
+        {
+          "verse": 14,
+          "text": "Whom vvhen IESVS ſavv, he tooke it il, and ſaid to them, Suffer the litle children to come vnto me, and prohibit them not. for the kingdom of God is for ſuch."
+        },
+        {
+          "verse": 15,
+          "text": "Amen I ſay to you: Whoſoeuer receiueth not the kingdom of God as a litle childe, ſhal not enter into it."
+        },
+        {
+          "verse": 16,
+          "text": "And embracing them, and impoſing hands vpon them, he bleſſed them.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "Our Sauiour gaue the children his bleſſing, impoſing his hands upon them.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 17,
+          "text": "And when he vvas gone forth in the way, a certaine man running forth and kneeling before him aſked him, Good Maiſter, vvhat ſhal I doe that I may receiue life euerlaſting?",
+          "cross_refs": [
+            {
+              "text": "Mt. 19, 16. Lu. 18, 18."
+            }
+          ],
+          "xrefs": [
+            "Mt. 19, 16."
+          ]
+        },
+        {
+          "verse": 18,
+          "text": "And IESVS ſaid to him, Why calleſt thou me good? None is good but one, God.",
+          "has_annotation": true,
+          "xrefs": [
+            "Lu. 18, 18."
+          ]
+        },
+        {
+          "verse": 19,
+          "text": "Thou knoweſt the commaundements, Commit not aduoutrie, Kil not, Steale not, Beare not falſe witneſſe, doe no fraude, Honour thy father and mother.",
+          "cross_refs": [
+            {
+              "text": "Exo. 20, 13."
+            }
+          ],
+          "notes": [
+            {
+              "label": "2",
+              "text": "Note that the keeping of Gods commaundements procureth life euerlaſting.",
+              "kind": "gloss"
+            }
+          ],
+          "xrefs": [
+            "Exo. 20, 13."
+          ]
+        },
+        {
+          "verse": 20,
+          "text": "But he anſwering, ſaid to him, Maiſter al theſe things I haue obſerued from my youth."
+        },
+        {
+          "verse": 21,
+          "text": "And IESVS beholding him, loued him, and ſaid to him, One thing is vvanting vnto thee: goe, ſel whatſoeuer thou haſt, and giue to the poore, and thou ſhalt haue treaſure in heauen: and come, folovv me.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "This is counſel of perfectiō (not a precept) which the Religious profeſſing and keeping voluntary pouertie, doe folow.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 22,
+          "text": "Who being ſtroken ſad at the vvord, vvent avvay ſorovvful. for he had many poſſeſsions."
+        },
+        {
+          "verse": 23,
+          "text": "And IESVS looking about, ſaith to his Diſciples, Hovv hardly ſhal they that haue money, enter into the kingdom of God!"
+        },
+        {
+          "verse": 24,
+          "text": "And the Diſciples vvere aſtonied at his vvordes. But IESVS againe anſvvering, ſaith to them, Children, hovv hard is it for them that truſt in money, to enter into the kingdom of God!"
+        },
+        {
+          "verse": 25,
+          "text": "It is eaſier for a camel to paſſe through a nedels eie, then for a rich man to enter into the kingdom of God.",
+          "has_annotation": true
+        },
+        {
+          "verse": 26,
+          "text": "VVho marueled more, ſaying to them ſelues, And vvho can be ſaued?"
+        },
+        {
+          "verse": 27,
+          "text": "And IESVS beholding them, ſaith, VVith men it is impoſsibile: but not vvith God. for al things are poſsible vvith God."
+        },
+        {
+          "verse": 28,
+          "text": "And Peter began to ſay vnto him, Behold, vve haue left al things, and haue folowed thee."
+        },
+        {
+          "verse": 29,
+          "text": "IESVS anſvvering, ſaid, Amen I ſay to you, there is no man vvhich hath left houſe, or brethren, or ſiſters, or father, or mother, or children, or landes for me and for the Goſpel:",
+          "notes": [
+            {
+              "label": "1",
+              "text": "Exceding happie be they that can forſake their temporal things for religion.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 30,
+          "text": "that ſhal not receiue an hundred times ſo much novv in this time: houſes, and brethren, and ſiſters, and mothers, and children, and landes, vvith perſecutions: and in the vvorld to come life euerlaſting.",
+          "has_annotation": true,
+          "xrefs": [
+            "Mt. 19, 30."
+          ]
+        },
+        {
+          "verse": 31,
+          "text": "But many that are firſt, ſhal be laſt: and the laſt, firſt.",
+          "cross_refs": [
+            {
+              "text": "Mt. 19, 30. Lu. 13, 30."
+            }
+          ]
+        },
+        {
+          "verse": 32,
+          "text": "And they vvere in the vvay going vp to Hieruſalem: and IESVS vvent before them, and they vvere aſtonied: and folowing vvere afraid. And taking againe the Tvvelue, he began to tel them the things that ſhould befal him.",
+          "cross_refs": [
+            {
+              "text": "Mt. 20, 17. Lu. 18, 31."
+            }
+          ],
+          "xrefs": [
+            "Lu. 13, 30. · Mt. 20, 17."
+          ]
+        },
+        {
+          "verse": 33,
+          "text": "That, behold vve goe vp to Hieruſalem, and the Sonne of man ſhal be betrayed to the cheefe Prieſtes, and to the Scribes and Auncients, and they ſhal condemne him to death, and ſhal deliuer him to the Gentiles,",
+          "xrefs": [
+            "Lu. 18, 31."
+          ]
+        },
+        {
+          "verse": 34,
+          "text": "and they ſhal mocke him, and ſpit on him, and ſcourge him, and kil him, and the third day he ſhal riſe againe."
+        },
+        {
+          "verse": 35,
+          "text": "And there come to him Iames and Iohn the ſonnes of Zebedee, ſaying, Maiſter, vve vvil that vvhat thing ſoeuer we ſhal aſke, thou doe it to vs.",
+          "cross_refs": [
+            {
+              "text": "Mt. 20, 20."
+            }
+          ],
+          "xrefs": [
+            "Mt. 20, 20."
+          ]
+        },
+        {
+          "verse": 36,
+          "text": "But he ſaid to them, What vvil you that I doe to you?"
+        },
+        {
+          "verse": 37,
+          "text": "And they ſaid, Graunt to vs, that vve may ſit, one on thy right hand, and the other on thy left hand, in thy glorie."
+        },
+        {
+          "verse": 38,
+          "text": "And IESVS ſaid to them, You vvotte not vvhat you aſke. can you drinke the cuppe that I drinke: or be baptized vvith the baptiſme vvhervvith I am baptized?"
+        },
+        {
+          "verse": 39,
+          "text": "But they ſaid to him, VVe can. And IESVS ſaid to them, The cuppe in deede vvhich I drinke, you ſhal drinke: and vvith the baptiſme vvhervvith I am baptized, ſhal you be baptized:"
+        },
+        {
+          "verse": 40,
+          "text": "but to ſit on my right hand or on my left, is not mine to giue vnto you, but to vvhom it is prepared."
+        },
+        {
+          "verse": 41,
+          "text": "And the ten hearing, began to be diſpleaſed at Iames and Iohn."
+        },
+        {
+          "verse": 42,
+          "text": "And IESVS calling them, ſaith to them, You knovv that they vvhich ſeeme to rule ouer the gentiles, ouerrule them: and their Princes haue povver ouer them.",
+          "cross_refs": [
+            {
+              "text": "Mt. 20, 25. Lu. 22, 25."
+            }
+          ],
+          "xrefs": [
+            "Mt. 20, 25. · Lu. 22, 25."
+          ]
+        },
+        {
+          "verse": 43,
+          "text": "But it is not ſo in you. but vvhoſoeuer vvil be greater, ſhal be your miniſter:"
+        },
+        {
+          "verse": 44,
+          "text": "and vvhoſoeuer vvil be firſt among you, ſhal be the ſeruant of al."
+        },
+        {
+          "verse": 45,
+          "text": "For the Sonne of man alſo is not come to be miniſtred vnto, but to miniſter, and to giue his life a redempption for many."
+        },
+        {
+          "verse": 46,
+          "text": "And they come to Iericho: and vvhen he departed from Iericho, and his Diſciples, and a very great multitude, the ſonne of Timæus, Bar-timæus the blinde man, ſate by the way ſide begging.",
+          "cross_refs": [
+            {
+              "text": "Mt. 20, 29. Lu. 18, 35."
+            }
+          ],
+          "xrefs": [
+            "Mt. 20, 29. · Lu. 18, 35."
+          ]
+        },
+        {
+          "verse": 47,
+          "text": "VVho vvhen he had heard, that it is IESVS of Nazareth: he began to crie, and to ſay, IESVS, ſonne of Dauid, haue mercie vpon me."
+        },
+        {
+          "verse": 48,
+          "text": "And many threatened him, to hold his peace. but he cried much more, Sonne of Dauid,"
+        },
+        {
+          "verse": 49,
+          "text": "haue mercie vpon me. And IESVS ſtanding ſtil commaunded him to be called. And they call the blinde man, ſaying to him, Be of better comfort, ariſe, he calleth thee."
+        },
+        {
+          "verse": 50,
+          "text": "Who caſting of his garment leapt vp, and came to him."
+        },
+        {
+          "verse": 51,
+          "text": "And IESVS anſvvering, ſaid to him, VVhat vvilt thou that I doe vnto thee? And the blinde man ſaid to him, Rabbôni, that I may ſee."
+        },
+        {
+          "verse": 52,
+          "text": "And IESVS ſaid to him, Goe thy vvaies, thy faith hath made the ſafe. And forthvvith he ſavv, and folovved him in the vvay."
+        }
+      ],
+      "summary": "He anſwereth the tempting Phariſees (and againe his diſciples afterward) that the caſe of a man with his wife ſhalbe (as in the firſt inſtitution) vtterly indiſſoluble. 13 He bleſſeth children. 17 He ſheweth what is to be done to get life euerlaſting. 21 What alſo for a rich man, to be perfect: 28 as alſo what paſsing reward they ſhal haue that doe ſo in time of perſecution. 32 He reuealeth more to his Diſciples touching his Paſſion: 35 bidding the two ambitious ſuiters to thinke rather of ſuffering with him: 41 and teaching vs in the reſt of his Diſciples, not to be greeued at our Eccleſiaſtical Superiours, conſidering they are (as he was him ſelf) to toile for our ſaluation. 46 Then going out of Iericho, he giueth ſight to a blinde man.",
+      "summary_notes": [
+        {
+          "marker": 1,
+          "text": "THE THIRD part of this Goſpel. Chriſt's coming into Jewry toward his Paſſion."
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "AND vvhen they came nigh vnto Hieruſalem and Bethania to Mount-oliuet, he ſendeth tvvo of his Diſciples,",
+          "cross_refs": [
+            {
+              "text": "Mt. 21, 1. Lu. 19, 20. Io. 12, 15."
+            }
+          ],
+          "notes": [
+            {
+              "label": "2",
+              "text": "PALME Sunday.",
+              "kind": "gloss"
+            }
+          ],
+          "xrefs": [
+            "Mt. 21, 1."
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "and ſaith to them, Goe into the tovvne that is againſt you, and immediatly entring in thither, you ſhal finde a colt tied, vpon vvhich no man yet hath ſitten: looſe him, and bring him.",
+          "xrefs": [
+            "Lu. 19, 20. · Io. 12, 15"
+          ]
+        },
+        {
+          "verse": 3,
+          "text": "And if any man ſhal ſay to you, VVhat doe you? ſay that he is needeful for our Lord: and incontinent he vvil ſend him hither."
+        },
+        {
+          "verse": 4,
+          "text": "And going their vvaies, they found the colt tied before the gate vvithout in the meeting of tvvo vvaies: and they looſe him."
+        },
+        {
+          "verse": 5,
+          "text": "And certaine of them that ſtoode there, ſaid to them, VVhat doe you looſing the colt?"
+        },
+        {
+          "verse": 6,
+          "text": "Vvho ſaid to them as IESVS had commaunded them: and they did let him goe vvith them."
+        },
+        {
+          "verse": 7,
+          "text": "And they brought the colt to IESVS: and they lay their garments vpon him, and he ſate vpon him."
+        },
+        {
+          "verse": 8,
+          "text": "And many ſpred their garments in the vvay: and others did cut boughes from the trees, and ſtravved them in the vvay.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "Al theſe voluntary dueties were grateful to our Sauiour, and ſo be the like done to him in the B. Sacrament.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "text": "And they that vvent before and they that folovved, cried ſaying, Hoſanna, bleſſed is he that commeth in the name of our Lord.",
+          "cross_refs": [
+            {
+              "text": "Ps. 117, 26."
+            }
+          ],
+          "xrefs": [
+            "Ps. 117, 26."
+          ]
+        },
+        {
+          "verse": 10,
+          "text": "bleſſed is the kingdom of our father Dauid that commeth, Hoſanna in the higheſt."
+        },
+        {
+          "verse": 11,
+          "text": "And he entred Hieruſalem into the temple: and hauing vevved al things round about, vvhen novv the euening houre vvas come, he vvent forth into Bethania vvith the Tvvelue."
+        },
+        {
+          "verse": 12,
+          "text": "And the next day vvhen they departed from Bethania, he vvas an hungred.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "MVNDAY.",
+              "kind": "gloss"
+            }
+          ],
+          "xrefs": [
+            "Mt. 21, 19."
+          ]
+        },
+        {
+          "verse": 13,
+          "text": "And vvhen he had ſeen a farre of a figtree hauing leaues, he came if happily he could finde any thing on it. And vvhen he was come to it, he found nothing but leaues. for it vvas not the time for figges.",
+          "cross_refs": [
+            {
+              "text": "Mt. 21, 19."
+            }
+          ]
+        },
+        {
+          "verse": 14,
+          "text": "And anſvvering he ſaid to it, Novv no man eate fruite of the any more for euer. And his Diſciples heard it."
+        },
+        {
+          "verse": 15,
+          "text": "And they come to Hieruſalem. And vvhen he vvas entred into the temple, he began to caſt out them that ſold and bought in the temple, and the tables of the bankers, and the chaires of them that ſold pigeons he ouerthrevv.",
+          "cross_refs": [
+            {
+              "text": "Mt. 21, 12. Lu. 19, 45."
+            }
+          ],
+          "xrefs": [
+            "Mt. 21, 12. · Lu. 19, 45."
+          ]
+        },
+        {
+          "verse": 16,
+          "text": "and he ſuffred not that any man ſhould carie a veſſel through the temple:",
+          "has_annotation": true
+        },
+        {
+          "verse": 17,
+          "text": "and he taught, ſaying to them, Is it not vvritten, That my houſe ſhal be called the houſe of prayer to al nations? But you haue made it a denne of theeues.",
+          "has_annotation": true,
+          "cross_refs": [
+            {
+              "text": "Eſa. 56, 7. Ier. 7, 11."
+            }
+          ],
+          "xrefs": [
+            "Esa. 56, 7."
+          ]
+        },
+        {
+          "verse": 18,
+          "text": "VVhich vvhen the cheefe Prieſtes and the Scribes had heard, they ſought hovv they might deſtroy him. for they vvere afraid of him, becauſe the vvhole multitude vvas in admiration vpon his doctrine.",
+          "xrefs": [
+            "Ier. 7, 11"
+          ]
+        },
+        {
+          "verse": 19,
+          "text": "And vvhen euening vvas come, he vvent forth out of the citie."
+        },
+        {
+          "verse": 20,
+          "text": "And vvhen they paſſed by in the morning, they ſavv the figtree vvithered from the rootes.",
+          "cross_refs": [
+            {
+              "text": "Mt. 21, 20."
+            }
+          ],
+          "notes": [
+            {
+              "label": "3",
+              "text": "TVESDAY.",
+              "kind": "gloss"
+            },
+            {
+              "label": "2",
+              "text": "The Goſpel for S. Gregorius Thaumaturgus Nouemb. 17. And in a Votiue Maſſe for any neceſſitie.",
+              "kind": "lectionary"
+            }
+          ],
+          "xrefs": [
+            "Mt. 21, 20."
+          ]
+        },
+        {
+          "verse": 21,
+          "text": "And Peter remembring, ſaid to him, Rabbi, behold the figtree that thou didſt curſe, is vvithered."
+        },
+        {
+          "verse": 22,
+          "text": "b And IESVS anſvvering ſaith to them, Haue faith of God.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "Faith of God is to beleeue that he is able, and that he wil doe it if it be expedient, and no impediment on our part.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 23,
+          "text": "Amen I ſay to you, that vvhoſoeuer ſhal ſay to this mountaine, Be taken vp and be caſt into the ſea, and ſhal not ſtagger in his hart, but beleeue that vvhatſoeuer he ſaith, ſhal be done: it ſhal be done vnto him."
+        },
+        {
+          "verse": 24,
+          "text": "Therfore I ſay to you, al things vvhatſoeuer you aſke, praying, beleeue that you ſhal receiue, and they ſhal come vnto you. ⊢"
+        },
+        {
+          "verse": 25,
+          "text": "And when you ſhal ſtand to pray, forgiue if you haue ought againſt any man: that alſo your father which is in heauen, may forgiue you your ſinnes:"
+        },
+        {
+          "verse": 26,
+          "text": "If ſo be that you wil not forgiue, neither wil your father that is in heauen, forgiue you your ſinnes.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "God neuer forgiueth ſinnes to him that pardoneth not his enemies from his hart. Whereby it is euident that more is required then only faith.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 27,
+          "text": "And they come againe to Hieruſalem. And when he walked in the temple, there come to him the cheefe Prieſtes and the Scribes and the Auncients,",
+          "cross_refs": [
+            {
+              "text": "Mt. 21. 23. Lu. 20, 2."
+            }
+          ],
+          "xrefs": [
+            "Mt. 21, 23."
+          ]
+        },
+        {
+          "verse": 28,
+          "text": "and they ſay to him, In what power doeſt thou theſe things? and who hath giuen thee this power, that thou ſhouldeſt doe theſe things?",
+          "xrefs": [
+            "Lu. 20, 2."
+          ]
+        },
+        {
+          "verse": 29,
+          "text": "And IESVS anſwering ſaid to them, I alſo wil aſke you one word, and anſwer you me: and I wil tel you in what power I doe theſe things."
+        },
+        {
+          "verse": 30,
+          "text": "The baptiſme of Iohn was it from heauen, or from men? anſwer me."
+        },
+        {
+          "verse": 31,
+          "text": "But they thought with them ſelues, ſaying, If we ſay, From heauen: he wil ſay, Why then did you not beleeue him?"
+        },
+        {
+          "verse": 32,
+          "text": "If we ſay, From men, they feared the people. for al accounted Iohn that he was in deede a Prophet."
+        },
+        {
+          "verse": 33,
+          "text": "And they anſwering ſay to IESVS, We know not. And IESVS anſwering ſaith to them, Neither do I tel you in what power I doe theſe things."
+        }
+      ],
+      "summary": "Being now come to the place of his Paſſion, he entereth with triumph as their Chriſt. 12. He curſeth that fruitleſſe leafie tree. 15 He ſheweth his Zeale for the houſe of God: for which the Rulers ſeeke his deſtruction. 24 He exhorteth his Diſciples to ſtedfaſtnes of faith, and to forgiue their enemies. 27 He auoucheth his power by the witnes of Iohn who was a man ſent of God.",
+      "summary_continuation": {
+        "text": "leafie tree. 15 He ſheweth his Zeale for the houſe of God: for which the Rulers ſeeke his deſtruction. 24 He exhorteth his Diſciples to ſtedfaſtnes of faith, and to forgiue their enemies. 27 He auoucheth his power by the witnes of Iohn who was a man ſent of God.",
+        "notes": [
+          {
+            "label": "1",
+            "text": "THE fourth part of this Goſpel, the Holy weeke of his Paſſion in Hieruſalem.",
+            "kind": "gloss"
+          }
+        ]
+      }
+    },
+    {
+      "chapter": 12,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "AND he began to ſpeake to them in parables, A man planted a vineyard and made a hedge about it, and digged a trough, and built a tovvre, and let it out to huſbandmen: and vvent forth into a ſtrange countrie.",
+          "cross_refs": [
+            {
+              "text": "Eſa. 5, 1. Mt. 21, 33. Lu. 20, 9."
+            }
+          ],
+          "notes": [
+            {
+              "label": "2",
+              "text": "This man, is God the Father. This vineyard, is (as Eſay ſaith 5, 1.) the houſe of Iſrael. The ſeruants ſent, are Moyſes and the Prophets, whom the Iewes did diuerſely afflict and perſecute.",
+              "kind": "gloss"
+            }
+          ],
+          "xrefs": [
+            "Es. 5, 1. · Mt. 21, 33. · Lu. 20, 9."
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "And he ſent to the huſbandmen in ſeaſon a ſeruant, to receiue of the huſbandmen, of the fruite of the vineyard."
+        },
+        {
+          "verse": 3,
+          "text": "Vvho apprehending him, bette him: and ſent him avvay emptie."
+        },
+        {
+          "verse": 4,
+          "text": "And againe he ſent to them an other ſeruant: and him they wounded in the head, and vſed him reprochefully."
+        },
+        {
+          "verse": 5,
+          "text": "And againe he ſent an other, and him they killed: and many other, beating certaine, and killing others."
+        },
+        {
+          "verse": 6,
+          "text": "Therfore hauing yet one ſonne moſt deere: him alſo he ſent vnto them laſt ſaying, That they vvill reuerence my ſonne.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "His Sonne is CHRIST our Sauiour, whō the Iewes crucified out of the citie of Ieruſalem, as it were caſting him out of the vineyard.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 7,
+          "text": "But the huſbandmen ſaid one to an other, This is the heier: come, let vs kill him: and the inheritance ſhal be ours."
+        },
+        {
+          "verse": 8,
+          "text": "And apprehending him, they killed him, and caſt him forth out of the vineyard."
+        },
+        {
+          "verse": 9,
+          "text": "What therfore vvil the lord of the vineyard doe? He vvil come and deſtroy the huſbandmen: and vvil giue the vineyard to others.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "The Iewes and their guides to whom the vineyard was ſet, deſtroied: and Gods vineyard giuen to the Apoſtles and their Succeſſors in the Gentils.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "text": "Neither haue you read this ſcripture, The ſtone which the builders reiected, the ſame is made the head of the corner:",
+          "cross_refs": [
+            {
+              "text": "Ps. 117, 22."
+            }
+          ],
+          "notes": [
+            {
+              "label": "2",
+              "text": "CHRIST is become the corner ſtone of the Synagogue and the Church in which the faithful both of the Iewes and Gentils are conteined.",
+              "kind": "gloss"
+            }
+          ],
+          "xrefs": [
+            "Ps. 117, 22."
+          ]
+        },
+        {
+          "verse": 11,
+          "text": "By our Lord was this done, and it is maruelous in our eies?"
+        },
+        {
+          "verse": 12,
+          "text": "And they ſought to lay hands on him, and they feared the multitude. for they knevv that he ſpake this parable to them. And leauing him they vvent their way."
+        },
+        {
+          "verse": 13,
+          "text": "And they ſend to him certaine of the Phariſees and of the Herodians: that they ſhould entrappe him in his vvord.",
+          "cross_refs": [
+            {
+              "text": "Mt. 22, 15. Lu. 26, 20."
+            }
+          ],
+          "xrefs": [
+            "Mt. 22, 15."
+          ]
+        },
+        {
+          "verse": 14,
+          "text": "VVho comming, ſay to him, Maiſter, vve knovv that thou art a true ſpeaker, and careſt not for any man: for thou doeſt not looke vpon the perſon of men, but teacheſt the vvay of God in truth. is it lavvful to giue tribute to Cæſar: or ſhal vve not giue it?",
+          "xrefs": [
+            "Lu. 26, 20."
+          ]
+        },
+        {
+          "verse": 15,
+          "text": "Who knovving their ſubteltie, ſaid to them, VVhy tempt you me? bring me a penie that I may ſee it."
+        },
+        {
+          "verse": 16,
+          "text": "But they brought it him. And he ſaith to them, VVhoſe is this image, and inſcription? They ſay to him, Cæſars."
+        },
+        {
+          "verse": 17,
+          "text": "And IESVS anſvvering, ſaid to them, Render therfore the things that are Cæſars, to Cæſar: and that are Gods, to God. And they marueled at him.",
+          "has_annotation": true
+        },
+        {
+          "verse": 18,
+          "text": "And there came to him the Saducees that ſay there is no reſurrection: and they aſked him ſaying, Maiſter,",
+          "cross_refs": [
+            {
+              "text": "Mt. 22, 23. Lu. 20, 27. Act. 23, 6."
+            }
+          ],
+          "xrefs": [
+            "Mt. 22, 23."
+          ]
+        },
+        {
+          "verse": 19,
+          "text": "Moyſes vvrote vnto vs, that if any mans brother die, and leaue his wife, and leaue no children, his brother ſhal take his vvife and raiſe vp ſeede to his brother.",
+          "has_annotation": true,
+          "cross_refs": [
+            {
+              "text": "Deu. 25, 5."
+            }
+          ],
+          "xrefs": [
+            "Lu. 20, 27. · Act. 23, 6."
+          ]
+        },
+        {
+          "verse": 20,
+          "text": "There vvere therfore ſeuen brethren: and the firſt tooke a vvife, and died leauing no iſſue.",
+          "xrefs": [
+            "Deu. 25, 5."
+          ]
+        },
+        {
+          "verse": 21,
+          "text": "And the ſecond tooke her, and died: and neither this left iſſue. And the third in like maner."
+        },
+        {
+          "verse": 22,
+          "text": "And the ſeuen tooke her in like ſort: and did not leaue iſſue. Laſt of al the vvoman alſo died."
+        },
+        {
+          "verse": 23,
+          "text": "In the reſurrection therfore vvhen they ſhal riſe againe, vvhoſe vvife ſhal ſhe be of theſe? for the ſeuen had her to vvife."
+        },
+        {
+          "verse": 24,
+          "text": "And IESVS anſvvering, ſaid to them, Do ye not therfore erre , not knovving the ſcriptures, nor the povver of God?",
+          "has_annotation": true
+        },
+        {
+          "verse": 25,
+          "text": "For vvhen they ſhal riſe againe from the dead, they ſhal neither marrie, nor be married, but are as the Angels in heauen."
+        },
+        {
+          "verse": 26,
+          "text": "And as concerning the dead, that they do riſe againe, haue you not read in the booke of Moyſes, hovv in the buſh God ſpake to him, ſaying, I am the God of Abraham, and the God of Iſaac, and the God of Iacob?",
+          "cross_refs": [
+            {
+              "text": "Exo. 3, 6."
+            }
+          ],
+          "xrefs": [
+            "Exo. 3, 6"
+          ]
+        },
+        {
+          "verse": 27,
+          "text": "He is not the God of the dead, but of the liuing. You therfore are much deceiued."
+        },
+        {
+          "verse": 28,
+          "text": "And there came one of the Scribes that had heard them queſtioning, and ſeeing that he had wel anſwered them, aſked him vvhich vvas the firſt commaundement of al.",
+          "cross_refs": [
+            {
+              "text": "Mt. 22, 34."
+            }
+          ],
+          "xrefs": [
+            "Mt. 22, 34."
+          ]
+        },
+        {
+          "verse": 29,
+          "text": "And IESVS anſwered him, That the firſt commaundement of al is, Heare Iſrael: the Lord thy God, is one God.",
+          "cross_refs": [
+            {
+              "text": "Deu. 6, 5."
+            }
+          ],
+          "xrefs": [
+            "Deu. 6, 5"
+          ]
+        },
+        {
+          "verse": 30,
+          "text": "And thou ſhalt loue the Lord thy God from thy vvhole hart, and with thy vvhole ſoul, and vvith thy vvhole minde, and vvith thy vvhole povver. This is the firſt commaundement."
+        },
+        {
+          "verse": 31,
+          "text": "And the ſecond is like to it, Thou ſhalt loue they neighbour as thy ſelf. An other commaundement greater then theſe there is not.",
+          "cross_refs": [
+            {
+              "text": "Lev. 19, 18."
+            }
+          ],
+          "xrefs": [
+            "Leu. 19, 18."
+          ]
+        },
+        {
+          "verse": 32,
+          "text": "And the Scribe ſaid to him, VVel Maiſter, thou haſt ſaid in truth, that there is one God, and there is none other beſides him."
+        },
+        {
+          "verse": 33,
+          "text": "And that he be loued from the vvhole hart, and vvith the vvhole vnderſtanding, and vvith the vvhole ſoule, and vvith the vvhole ſtrength: and to loue his neighbour as him ſelf is a greater thing then al holocauſtes and ſacrifices.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "This excellencie of Charitie teacheth vs that faith only is not ſufficient.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 34,
+          "text": "And IESVS ſeeing that he had anſvvered vviſely, ſaid to him, Thou art not farre from the kingdom of God. And no man novv durſt aſke him."
+        },
+        {
+          "verse": 35,
+          "text": "And IESVS anſvvering, ſaid, teaching in the temple, Hovv do the Scribes ſay, that Chriſt is the ſonne of Dauid?",
+          "cross_refs": [
+            {
+              "text": "Mt. 22, 41. Lu. 20, 41."
+            }
+          ],
+          "xrefs": [
+            "Mt. 22, 41. · Lu. 20, 41."
+          ]
+        },
+        {
+          "verse": 36,
+          "text": "For Dauid him ſelf ſaith in the holy Ghoſt: Our Lord ſaid to my Lord, ſit on my right hand, vntil I put thine enemies the foote-ſtoole of thy feete.",
+          "cross_refs": [
+            {
+              "text": "Ps. 109, 1."
+            }
+          ],
+          "xrefs": [
+            "Ps. 109, 1."
+          ]
+        },
+        {
+          "verse": 37,
+          "text": "Dauid therfore him ſelf calleth him Lord, and vvhence is he his ſonne? And a great multitude heard him gladly."
+        },
+        {
+          "verse": 38,
+          "text": "And he ſaid to them in his doctrine, Take heede of the Scribes that vvil vvalke in long robes, and be ſaluted in the market-place,"
+        },
+        {
+          "verse": 39,
+          "text": "and ſit in the firſt chaires in the Synagogs, and loue the higheſt places at ſuppers:"
+        },
+        {
+          "verse": 40,
+          "text": "vvhich deuoure vvidovves houſes vnder the pretence of long prayer: theſe ſhal receiue larger iudgement."
+        },
+        {
+          "verse": 41,
+          "text": "And IESVS ſitting ouer againſt the treaſurie, beheld how the multitude did caſt money into the treaſurie, and many rich men did caſt in much.",
+          "cross_refs": [
+            {
+              "text": "Lu. 21, 2."
+            }
+          ],
+          "xrefs": [
+            "Lu. 21, 2."
+          ]
+        },
+        {
+          "verse": 42,
+          "text": "And when there came a certaine poore widow, ſhe caſt in two mites, which is a farthing."
+        },
+        {
+          "verse": 43,
+          "text": "And calling his Diſciples together, he ſaith to them, Amen I ſay to you, that this poore widow hath caſt in more then al that haue caſt into the treaſurie.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "God doth accept almes that are correſpondent to euery mans abilitie: and the more able, the more muſt a man giue.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 44,
+          "text": "For al they of their aboundance haue caſt in: but ſhe, of her penurie hath caſt in al that ſhe had, her whole liuing."
+        }
+      ],
+      "summary": "He foretelleth to the Iewes in a parable their reprobation moſt worthy, and the vocation of the Church of the Gentils in their place, 10 him ſelf being the headſtone thereof. 13 He defeateth the ſnare of the Phariſees and Herodians, about paying tribute to Cæſar: 18 anſwereth alſo the inuention of the Sadducees againſt the Reſurrection: 28 alſo the oppoſition of a Scribe. 35 And ſo hauing put al the buſie ſectes to ſilence, he turneth and poſeth them on the other ſide, because they imagined Chriſt ſhould be no more but a man. 38 Bidding the people to beware of the Scribes, being ambitious and hypocrites. 41 He commendeth the poore widow for her two mites, aboue al."
+    },
+    {
+      "chapter": 13,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "AND vvhen he vvent out of the temple, one of his Diſciples ſaith to him, Maiſter, behold what maner of ſtones, and vvhat kinde of buildings.",
+          "cross_refs": [
+            {
+              "text": "Mt. 24, 1. Lu. 21, 5."
+            }
+          ],
+          "notes": [
+            {
+              "label": "2",
+              "text": "See the Annotations vpon S. Matthew c. 24.",
+              "kind": "gloss"
+            }
+          ],
+          "xrefs": [
+            "Mt. 24, 1. · Lu. 21, 5."
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "And IESVS anſvvering, ſaid to him, Seeſt thou al theſe great buildings? There ſhal not be left a ſtone vpon a ſtone, that ſhal not be deſtroied."
+        },
+        {
+          "verse": 3,
+          "text": "And vvhen he ſate in Mount-oliuet againſt the temple, Peter and Iames and Iohn and Andrevv aſked him apart,"
+        },
+        {
+          "verse": 4,
+          "text": "Tel vs, vvhen ſhal theſe things be? and vvhat ſhal be the ſigne vvhen al theſe things ſhal begin to be conſummate?",
+          "has_annotation": true,
+          "notes": [
+            {
+              "label": "1",
+              "text": "TVESDAY night.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 5,
+          "text": "And IESVS anſvvering began to ſay to them, See, that no man ſeduce you."
+        },
+        {
+          "verse": 6,
+          "text": "for many ſhal come in my name ſaying that I am he: and they ſhal ſeduce many.",
+          "has_annotation": true
+        },
+        {
+          "verse": 7,
+          "text": "And vvhen you ſhal heare of vvarres and bruites of vvarres, feare not. for theſe things muſt be, but the end is not yet.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "Great vvarres toward the later end.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 8,
+          "text": "For nation ſhal riſe againſt nation and kingdom againſt kingdom, and there ſhal be earthquakes in places, and famines. Theſe things are the beginning of ſorovves."
+        },
+        {
+          "verse": 9,
+          "text": "But looke to your ſelues. For they ſhal deliuer you vp in Councels, and in Synagogs ſhal you be beaten, and you ſhal ſtand before Preſidents and Kings for my ſake, for a teſtimonie vnto them.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "Much perſecution of the faithful and Catholike men in the later end.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "text": "And into al nations firſt the Goſpel muſt be preached."
+        },
+        {
+          "verse": 11,
+          "text": "And vvhen they ſhal leade you and deliuer you, be not careful before hand vvhat you ſhal ſpeake: but that vvhich ſhal be giuen you in that houre, that ſpeake ye. For it is not you that ſpeake, but the holy Ghoſt."
+        },
+        {
+          "verse": 12,
+          "text": "And brother ſhal deliuer brother vnto death, and the father his ſonne: and the children ſhal ariſe againſt the parents, and ſhal vvorke their death.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "Great treacherie and many falſe brethren at the ſame time.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 13,
+          "text": "And you ſhal be odious to al men for my name. But he that ſhal endure vnto the end, he ſhal be ſaued.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "Conſtancie and perſeuerance neceſſarie in time of perſecution.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 14,
+          "text": "And vvhen you ſhal ſee the abomination of deſolation, ſtanding vvhere it ought not (he that readeth, let him vnderſtand) then they that are in Ievvrie, let them flee vnto the mountaines:",
+          "has_annotation": true,
+          "cross_refs": [
+            {
+              "text": "Dan. 9, 27. 2. Theſs. 2, 4."
+            }
+          ],
+          "xrefs": [
+            "Dan. 9, 27. · 2. Thess. 2, 4."
+          ]
+        },
+        {
+          "verse": 15,
+          "text": "and he that is on the houſe-toppe, let him not goe dovvne into the houſe, nor enter in to take any thing out of his houſe:"
+        },
+        {
+          "verse": 16,
+          "text": "and he that ſhal be in the field, let him not returne backe to take his garment."
+        },
+        {
+          "verse": 17,
+          "text": "And vvo to them that are vvith childe and that giue ſucke in thoſe daies."
+        },
+        {
+          "verse": 18,
+          "text": "But pray that the things chaunce not in the vvinter."
+        },
+        {
+          "verse": 19,
+          "text": "For thoſe daies ſhal be ſuch tribulations as vvere not from the beginning of the creation that God created vntil novv, neither ſhal be."
+        },
+        {
+          "verse": 20,
+          "text": "And vnles the Lord had ſhortened the daies, no fleſh ſhould be ſaued: but for the elect vvhich he hath elected, he hath ſhortened the daies.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "Antichriſts reigne ſhalbe three yeres and a halfe. Dan. 7. Apoc. 13.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 21,
+          "text": "And then if any man ſhal ſay vnto you, Loe, here is Chriſt: loe, there: do not beleeue."
+        },
+        {
+          "verse": 22,
+          "text": "For there ſhal riſe vp falſe-Chriſts and falſe-Prophets, and they ſhal ſhevv ſignes and vvonders, to ſeduce (if it be poſsible) the elect alſo.",
+          "has_annotation": true
+        },
+        {
+          "verse": 23,
+          "text": "You therfore take heede: behold I haue foretold you al things."
+        },
+        {
+          "verse": 24,
+          "text": "But in thoſe daies after that tribulation the ſunne ſhal be darkened, and the moone ſhal not giue her light,",
+          "cross_refs": [
+            {
+              "text": "Ez. 31, 7. Ioel. 3, 15."
+            }
+          ],
+          "xrefs": [
+            "Ez. 31, 7 · Ioel. 3, 15."
+          ]
+        },
+        {
+          "verse": 25,
+          "text": "and the ſtarres of heauen ſhal be falling dovvne, and the povvers that are in heauen, ſhal be moued."
+        },
+        {
+          "verse": 26,
+          "text": "And then they ſhal ſee the Sonne of man comming in the cloudes, vvith much povver and glorie.",
+          "cross_refs": [
+            {
+              "text": "Dan. 7, 13."
+            }
+          ],
+          "xrefs": [
+            "Dan. 7, 13."
+          ]
+        },
+        {
+          "verse": 27,
+          "text": "And then ſhal he ſend his Angels, and ſhal gather together his elect from the foure vvindes, from the vttermoſt part of the earth to the vttermoſt part of heauen."
+        },
+        {
+          "verse": 28,
+          "text": "And of the figtree learne ye a parable. VVhen novv the bough thereof is tender, and the leaues come forth, you knovv that ſommer is very nigh."
+        },
+        {
+          "verse": 29,
+          "text": "ſo you alſo vvhen you ſhal ſee theſe things come to paſſe, knovv ye that it is very nigh, at the doores."
+        },
+        {
+          "verse": 30,
+          "text": "Amen I ſay to you, that this generation ſhal not paſſe, vntil al theſe things be done."
+        },
+        {
+          "verse": 31,
+          "text": "Heauen and earth ſhal paſſe, but my vvordes ſhal not paſſe."
+        },
+        {
+          "verse": 32,
+          "text": "But of that day or houre no man knovveth, neither the Angels in heauen, nor the Sonne, but the Father.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "Not as though him ſelf knew not, as the Heretikes Agnoïtę held: but becauſe he knew it not for to teach it others, as being not expedient. Ambr. de fide li. 5 c. 8.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 33,
+          "text": "Take heede, vvatch, and pray. for you know not vvhen the time is.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "The Goſpel for a Cōfeſſor that is a Biſhop, And on the Anniuerſarie of the creation of a Biſhop.",
+              "kind": "lectionary"
+            }
+          ]
+        },
+        {
+          "verse": 34,
+          "text": "Euen as a man vvho being gone into a ſtrange countrie, left his houſe: and gaue his ſeruants authoritie ouer ech vvorke, and commaunded the porter to vvatch."
+        },
+        {
+          "verse": 35,
+          "text": "VVatch ye therfore (for you knovv not vvhen the lord of the houſe commeth: at euen, or at midnight, or at the cocke crovving, or in the morning)"
+        },
+        {
+          "verse": 36,
+          "text": "leſt comming vpon a ſoden, he finde you ſleeping."
+        },
+        {
+          "verse": 37,
+          "text": "And that vvhich I ſay to you, I ſay to al, Vvatch. ⊢"
+        }
+      ],
+      "summary": "To his Diſciples (by occaſion of Hieruſalem and the Temples deſtruction) he foretelleth, 5 what things ſhalbe before the conſummation of the vvorld, as ſpecially the Churches ful preaching vnto al nations. 14 Then, vvhat ſhalbe in the very conſummation, to vvit, Antichriſt with his paſsing great perſecution and ſeduction, but for a ſhort time. 24 then incontinent the day of Iudgement, 28 to our great comfort in thoſe miſeries vnder Antichriſt. 32 As for the moment, to vs it perteineth not to know it. 33 but rather euery man to vvatch, that we be not vnprouided when he commeth to ech one particularly by death."
+    },
+    {
+      "chapter": 14,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "AND the Paſche vvas and the Azymes after tvvo daies: and the cheefe Prieſts and the Scribes ſought hovv they might by ſome vvile lay hands on him, and kil him.",
+          "cross_refs": [
+            {
+              "text": "Mt. 26, 1. Lu. 22, 1."
+            }
+          ],
+          "notes": [
+            {
+              "label": "2",
+              "text": "TENEBRÆ Wedneſday.",
+              "kind": "gloss"
+            }
+          ],
+          "xrefs": [
+            "Mt. 26, 1. · Lu. 22, 1."
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "For they ſaid, Not on the feſtiual day, leſt there might be a tumult of the people."
+        },
+        {
+          "verse": 3,
+          "text": "And vvhen he vvas at Bethania in the houſe of Simon the Leper, and ſate at meate, there came a vvoman hauing an alabaſter boxe of ointment, of pretious ſpike-narde: and breaking the alabaſter-boxe, ſhe povvred it out vpon his head.",
+          "cross_refs": [
+            {
+              "text": "Mat. 26, 6. Ioan. 12, 3."
+            }
+          ],
+          "xrefs": [
+            "Mat. 26, 6. · Ioan. 12, 3."
+          ]
+        },
+        {
+          "verse": 4,
+          "text": "But there vvere certaine that had indignation vvithin them ſelues, and ſaid, VVhereto is this vvaſt of the ointment made?",
+          "has_annotation": true
+        },
+        {
+          "verse": 5,
+          "text": "For this ointment might haue been ſold for more then three hundred pence, and giuen to the poore. And they murmured againſt her."
+        },
+        {
+          "verse": 6,
+          "text": "But IESVS ſaid, Let her alone, vvhy do you moleſt her? ſhe hath vvrought a good vvorke vpon me.",
+          "has_annotation": true
+        },
+        {
+          "verse": 7,
+          "text": "for the poore you haue alvvaies vvith you: and vvhen you vvil, you may doe them good: but me you haue not alvvaies.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "We haue not Chriſt here needing our almes, as when he conuerſed vpon the earth. See Mat. 26, 11.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 8,
+          "text": "That vvhich ſhe had, ſhe hath done: ſhe hath preuented to anoint my body to the burial."
+        },
+        {
+          "verse": 9,
+          "text": "Amen I ſay to you, VVhereſoeuer this Goſpel ſhal be preached in the vvhole vvorld, that alſo vvhich ſhe hath done, ſhal be told for a memorie for her."
+        },
+        {
+          "verse": 10,
+          "text": "And Iudas Iſcariote one of the Tvvelue vvent his vvay to the cheefe Prieſts, for to betray him to them.",
+          "cross_refs": [
+            {
+              "text": "Mat. 26, 17. Lu. 22, 7."
+            }
+          ],
+          "xrefs": [
+            "Mat. 26 17. · Lu. 22, 7"
+          ]
+        },
+        {
+          "verse": 11,
+          "text": "Who hearing it, vvere glad: and they promiſed him that they vvould giue him money. And he ſought hovv he might betray him conueniently."
+        },
+        {
+          "verse": 12,
+          "text": "And the firſt day of the Azymes vvhen they ſacrificed the Paſche, the Diſciples ſay to him, VVither vvilt thou that vve goe, and prepare for thee to eate the Paſche?",
+          "cross_refs": [
+            {
+              "text": "Mt. 26, 17. Lu. 22, 7."
+            }
+          ],
+          "notes": [
+            {
+              "label": "2",
+              "text": "MAVNDY Thurſday.",
+              "kind": "gloss"
+            }
+          ],
+          "xrefs": [
+            "Mt. 26, 17. · Lu. 22, 7."
+          ]
+        },
+        {
+          "verse": 13,
+          "text": "And he ſendeth tvvo of his Diſciples, and ſaith to them, Goe ye into the citie: and there ſhal meete you a man carying a pitcher of vvater, folovv him:"
+        },
+        {
+          "verse": 14,
+          "text": "and vvhitherſoeuer he entreth, ſay to the maiſter of the houſe, that the Maiſter ſaith, Vvhere is my refectorie, vvhere I may eate the Paſche vvith my Diſciples?"
+        },
+        {
+          "verse": 15,
+          "text": "And he vvil ſhevv you a great chamber, adorned: and there prepare for vs."
+        },
+        {
+          "verse": 16,
+          "text": "And his Diſciples vvent their vvaies, and came into the citie: and they found as he had told them, and they prepared the Paſche.",
+          "xrefs": [
+            "Io. 13, 21."
+          ]
+        },
+        {
+          "verse": 17,
+          "text": "And vvhen euen vvas come, he commeth vvith the Tvvelue.",
+          "cross_refs": [
+            {
+              "text": "Io. 13, 21."
+            }
+          ]
+        },
+        {
+          "verse": 18,
+          "text": "And vvhen they vvere ſitting at the table and eating, IESVS ſaid, Amen I ſay to you, that one of you ſhal betray me, he that eateth vvith me."
+        },
+        {
+          "verse": 19,
+          "text": "But they began to be ſad, and to ſay to him ſeuerally, Is it I?"
+        },
+        {
+          "verse": 20,
+          "text": "VVho ſaid to them, One of the Tvvelue, he that dippeth vvith me his hand in the diſh."
+        },
+        {
+          "verse": 21,
+          "text": "and the Sonne of man in deede goeth, as it is vvritten of him, but vvo to that man by vvhom the Sonne of man ſhal be betrayed. it vvere good for him, if that man had not been borne.",
+          "cross_refs": [
+            {
+              "text": "Ps. 40, 10."
+            }
+          ],
+          "xrefs": [
+            "Ps. 40, 10. · Mt. 26, 26."
+          ]
+        },
+        {
+          "verse": 22,
+          "text": "And vvhiles they vvere eating, IESVS tooke bread: and bleſſing brake, and gaue to them, and ſaid, Take, THIS IS MY BODY.",
+          "has_annotation": true,
+          "cross_refs": [
+            {
+              "text": "Mt. 26, 26. Lu. 21, 19. 1. Cor. 11, 24."
+            }
+          ],
+          "xrefs": [
+            "Luc. 21, 19."
+          ]
+        },
+        {
+          "verse": 23,
+          "text": "And taking the chalice, giuing thankes he gaue to them. and they al dranke of it.",
+          "has_annotation": true,
+          "notes": [
+            {
+              "label": "1",
+              "text": "Al dranke, to wit, al the twelue, for moe were not preſent. Whereby is euident that the wordes in S. Mat. (26, 27) Drinke ye al of this, were ſpoken to al the Apoſtles onely, which here are ſaid that they al did drinke. And ſo it is no general commaundement to al men.",
+              "kind": "gloss"
+            }
+          ],
+          "xrefs": [
+            "1. Cor. 11, 24."
+          ]
+        },
+        {
+          "verse": 24,
+          "text": "And he ſaid to them, THIS IS MY BLOVD OF THE NEVV TESTAMENT, THAT SHAL BE SHED FOR MANY.",
+          "has_annotation": true
+        },
+        {
+          "verse": 25,
+          "text": "Amen I ſay to you, that novv I vvil not drinke of the fruite of the vine vntil that day vvhen I ſhal drinke it new in the kingdom of God.",
+          "cross_refs": [
+            {
+              "text": "See Annot. in Mat. c. 26, 29."
+            }
+          ]
+        },
+        {
+          "verse": 26,
+          "text": "And an hymne being ſaid, they vvent forth into Mountoliuet.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "THVRSDAY night.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 27,
+          "text": "And IESVS ſaith to them, You ſhal al be ſcandalized in me in this night: for it is vvritten, I vvil ſtrike the Paſtor, and the ſheepe ſhal be diſperſed.",
+          "cross_refs": [
+            {
+              "text": "Zach. 13, 7."
+            }
+          ],
+          "xrefs": [
+            "Zach. 13, 7."
+          ]
+        },
+        {
+          "verse": 28,
+          "text": "But after that I ſhal be riſen againe, I vvil goe before you into Galilee."
+        },
+        {
+          "verse": 29,
+          "text": "And Peter ſaid to him, Although al ſhal be ſcandalized: yet not I."
+        },
+        {
+          "verse": 30,
+          "text": "And IESVS ſaith to him, Amen I ſay to thee, that thou this day in this night, before the cocke crovv tvviſe, ſhalt thriſe deny me."
+        },
+        {
+          "verse": 31,
+          "text": "But he ſpake more vehemently, Although I ſhould die together vvith thee, I vvil not denie thee. And in like maner alſo ſaid they al."
+        },
+        {
+          "verse": 32,
+          "text": "And they come into a farme-place called Gethſemani. And he ſaith to his Diſciples, Sit you here, vntil I pray."
+        },
+        {
+          "verse": 33,
+          "text": "And he taketh Peter and Iames and Iohn vvith him: and he began to feare and to be heauy."
+        },
+        {
+          "verse": 34,
+          "text": "And he ſaith to them, My ſoul is ſorovvful euen vnto death: ſtay here, and vvatch."
+        },
+        {
+          "verse": 35,
+          "text": "And vvhen he vvas gone forvvard a litle, he fel flat vpon the ground: and he prayed that if it might be, the houre might paſſe from him:"
+        },
+        {
+          "verse": 36,
+          "text": "and he ſaid, Abba, Father, al things are poſſible to thee, tranſferre this chalice from me. but not that vvhich I vvil, but that vvhich thou."
+        },
+        {
+          "verse": 37,
+          "text": "And he commeth, and findeth them ſleeping. And he ſaith to Peter, Simon, ſleepeſt thou? couldſt thou not vvatch one houre?"
+        },
+        {
+          "verse": 38,
+          "text": "VVatch ye, and pray that you enter not into tentation. The ſpirit in deede is prompt, but the fleſh infirme."
+        },
+        {
+          "verse": 39,
+          "text": "And going avvay againe, he prayed, ſaying the ſelfſame vvord."
+        },
+        {
+          "verse": 40,
+          "text": "And returning, againe he found them a ſleepe (for their eies vvere heauy) and they vviſt not vvhat they ſhould anſvver him."
+        },
+        {
+          "verse": 41,
+          "text": "And he commeth the third time, and ſaith to them, Sleepe ye novv, and take reſt, it ſuffiſeth, the houre is come: behold the Sonne of man ſhal be betraied into the hands of ſinners."
+        },
+        {
+          "verse": 42,
+          "text": "Ariſe, let vs goe. behold, he that ſhal betray me, is at hand."
+        },
+        {
+          "verse": 43,
+          "text": "And as he vvas yet ſpeaking, commeth Iudas Iſcariote one of the Tvvelue, and vvith him a great multitude vvith ſvvordes and clubbes, from the cheefe Prieſtes and the Scribes and the Auncients.",
+          "cross_refs": [
+            {
+              "text": "Mt. 26, 47. Luc. 22, 47. Io. 18, 3."
+            }
+          ],
+          "xrefs": [
+            "Mt. 26, 47. · Luc. 22, 47. · Io. 18, 3."
+          ]
+        },
+        {
+          "verse": 44,
+          "text": "And the betrayer of him had giuen them a ſigne, ſaying, VVhomſoeuer I ſhal kiſſe, it is he, lay hold on him, and leade him vvarily."
+        },
+        {
+          "verse": 45,
+          "text": "And vvhen he vvas come, immediatly going to him, he ſaith, Rabbi, and he kiſſed him."
+        },
+        {
+          "verse": 46,
+          "text": "But they laid hands vpon him: and held him."
+        },
+        {
+          "verse": 47,
+          "text": "And one certaine man of the ſtanders about, dravving out a ſvvord, ſmote the ſeruant of the cheefe prieſt, and cut of his eare."
+        },
+        {
+          "verse": 48,
+          "text": "And IESVS anſvvering, ſaid to them, As to a theefe are you come out vvith ſwordes and clubbes to apprehend me?"
+        },
+        {
+          "verse": 49,
+          "text": "I vvas daily vvith you in the temple teaching, and you did not lay hands on me. But, that the Scriptures may be fulfilled."
+        },
+        {
+          "verse": 50,
+          "text": "Then his diſciples leauing him, al fled."
+        },
+        {
+          "verse": 51,
+          "text": "And a certaine yong man folowed him clothed vvith ſindon vpon the bare: & they tooke him."
+        },
+        {
+          "verse": 52,
+          "text": "But he caſting of the ſindon, fled from them naked."
+        },
+        {
+          "verse": 53,
+          "text": "And they brought IESVS to the cheefe Prieſt: and al the Prieſts and the Scribes and the Auncients aſſembled together."
+        },
+        {
+          "verse": 54,
+          "text": "And Peter folovved him a farre of euen in vnto the court of the high Prieſt: and he ſate vvith the ſeruants at the fire, and vvarmed him ſelf."
+        },
+        {
+          "verse": 55,
+          "text": "And the cheefe Prieſts and al the councel ſought teſtimonie againſt IESVS, that they might put him to death, neither found they."
+        },
+        {
+          "verse": 56,
+          "text": "For many ſpake falſe witnes againſt him: and the teſtimonies vvere not conuenient."
+        },
+        {
+          "verse": 57,
+          "text": "And certaine riſing vp, bare falſe vvitnes againſt him, ſaying,"
+        },
+        {
+          "verse": 58,
+          "text": "That vve heard him ſay, I vvil diſſolue this temple made vvith hand, and in three daies vvil I build an other not made vvith hand.",
+          "cross_refs": [
+            {
+              "text": "Io. 2, 19."
+            }
+          ]
+        },
+        {
+          "verse": 59,
+          "text": "And their teſtimonie vvas not conuenient."
+        },
+        {
+          "verse": 60,
+          "text": "And the high Prieſt riſing vp into the middes, aſked IESVS, ſaying, Anſvvereſt thou nothing to theſe things that are obiected to thee of theſe?"
+        },
+        {
+          "verse": 61,
+          "text": "But he held his peace and anſwered nothing. Againe the high Prieſt aſked him, and ſaid to him, Art thou Chriſt the ſonne of the bleſſed God?",
+          "xrefs": [
+            "Dan. 7, 13."
+          ]
+        },
+        {
+          "verse": 62,
+          "text": "And IESVS ſaith to him, I am. And you ſhal ſee the Sonne of man ſitting on the right hand of povver, and comming vvith the cloudes of heauen.",
+          "cross_refs": [
+            {
+              "text": "Dan. 7, 13."
+            }
+          ]
+        },
+        {
+          "verse": 63,
+          "text": "And the high Prieſt renting his garments, ſaith, VVhat neede vve vvitneſſes any further?"
+        },
+        {
+          "verse": 64,
+          "text": "You haue heard blaſphemie. hovv thinke you? VVho al condemned him to be guilty of death.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "Here we may ſee that they were worthily reprobated and forſaken, according to our Sauiours prediction by the parable (Mar. 12) The kingdom of God ſhal be taken from you &c.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 65,
+          "text": "And certaine began to ſpit vpon him, and to couer his face, and to beate him vvith buffets, and to ſay vnto him, Prophecie: and the ſeruants gaue him blovves."
+        },
+        {
+          "verse": 66,
+          "text": "And vvhen Peter vvas in the court beneath, there commeth one of the vvoman-ſeruants of the high Prieſt.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "He feareth not afterward Rome the Lady of the world, that in the houſe of Caiphas was afraid of the high Prieſtes wench. Leo in Natiu. Pet. & Pau. ſer. 1.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 67,
+          "text": "And vvhen ſhe had ſeen Peter vvarming him ſelf, beholding him ſhe ſaith, And thou vvaſt vvith IESVS of Nazareth."
+        },
+        {
+          "verse": 68,
+          "text": "But he denied, ſaying, Neither knovv I, neither vvot I vvhat thou ſaieſt. And he vvent forth before the court: and the cocke crevve."
+        },
+        {
+          "verse": 69,
+          "text": "And againe a vvench ſeeing him, began to ſay to the ſtanders about, That this fellovv is of them."
+        },
+        {
+          "verse": 70,
+          "text": "But he denied againe. And after a vvhile againe they that ſtoode by, ſaid to Peter, Verily thou art of them: for thou art alſo a Galilæan."
+        },
+        {
+          "verse": 71,
+          "text": "But he began to curſe and to ſweare, That I knovv not this man vvhom you ſpeake of.",
+          "has_annotation": true
+        },
+        {
+          "verse": 72,
+          "text": "And immediatly the cocke crevv againe. And Peter remembred the vvord that IESVS had ſaid vnto him, Before the cocke crovv tvviſe, thou ſhalt thriſe deny me. And he began to vveepe."
+        }
+      ],
+      "summary": "Iudas by occaſion of Marie Magdalens ointment, doth ſel him to the Councel of the Ievves 12 After the Paſchal lambe he giueth them the bread of life (Io. 6.) in a myſtical ſacrifice or ſeparation of his bodie and bloud. 27 and that night, is after his prayer, 43 taken of thee Iewes men, Iudas being their Captaine: is forſaken of the other eleuen for feare: 53 is falſly accuſed, and impiouſly condemned of the Iewes Councel, 65 and ſhamefully abuſed of them: 66 and thriſe denied of Peter. Al euen as the Scriptures and him ſelf had often foretold.",
+      "summary_notes": [
+        {
+          "marker": 1,
+          "text": "THE PASSION according to S. Mark in theſe tvvo chapters, is the Goſpel at Maſs upon Tueſday in the Holy Week."
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "AND forthvvith in the morning the cheefe Prieſts vvith the auncients and the Scribes and the vvhole councel, conſulting together, binding IESVS led and deliuered him to Pilate.",
+          "cross_refs": [
+            {
+              "text": "Mt. 27, 1. Lu. 23, 1. Io. 18, 28."
+            }
+          ],
+          "notes": [
+            {
+              "label": "2",
+              "text": "GOOD FRIDAY.",
+              "kind": "gloss"
+            }
+          ],
+          "xrefs": [
+            "Mt. 27, 1. · Lu. 23, 1."
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "And Pilate aſked him, Art thou the King of the Ievves? but he anſwering, ſaid to him, Thou ſaieſt.",
+          "xrefs": [
+            "Io. 18, 28."
+          ]
+        },
+        {
+          "verse": 3,
+          "text": "And the cheefe Prieſts accuſed him in many things."
+        },
+        {
+          "verse": 4,
+          "text": "And Pilate againe aſked him, ſaying, Anſvvereſt thou nothing? ſee in hovv many things they accuſe thee."
+        },
+        {
+          "verse": 5,
+          "text": "But IESVS anſwered nothing more: ſo that Pilate marueled."
+        },
+        {
+          "verse": 6,
+          "text": "And vpon the feſtiual day he vvas vvont to releaſe vnto them one of the priſoners vvhomſoeuer they had demaunded."
+        },
+        {
+          "verse": 7,
+          "text": "And there vvas one called Barabbas, vvhich vvas put in priſon vvith ſeditious perſons, vvho in a ſedition had committed murder."
+        },
+        {
+          "verse": 8,
+          "text": "And when the multitude vvas come vp, they began to require according as alvvaies he did vnto them."
+        },
+        {
+          "verse": 9,
+          "text": "And Pilate anſvvered them, and ſaid, VVil you that I releaſe to you the King of the Ievves?"
+        },
+        {
+          "verse": 10,
+          "text": "For he knevv that the cheefe Prieſts for enuy had deliuered him."
+        },
+        {
+          "verse": 11,
+          "text": "But the cheefe Prieſts moued the people, that he ſhould releaſe Barabbas rather to them.",
+          "has_annotation": true
+        },
+        {
+          "verse": 12,
+          "text": "And Pilate againe anſvvering, ſaid to them, VVhat vvil you then that I doe to the King of the Ievves?"
+        },
+        {
+          "verse": 13,
+          "text": "But they againe cried, Crucifie him."
+        },
+        {
+          "verse": 14,
+          "text": "And Pilate ſaid to them, VVhy, vvhat euil hath he done? But they cried the more, Crucifie him."
+        },
+        {
+          "verse": 15,
+          "text": "And Pilate vvilling to ſatisfie the people, releaſed to them Barabbas, and deliuered IESVS, hauing vvhipped him, for to be crucified.",
+          "has_annotation": true
+        },
+        {
+          "verse": 16,
+          "text": "And the ſouldiars led him into the court of the Palace, and they call together the vvhole band:",
+          "cross_refs": [
+            {
+              "text": "Io. 19, 2."
+            },
+            {
+              "text": "Io. 19, 1",
+              "source": "sancta"
+            }
+          ],
+          "xrefs": [
+            "Io. 19, 2."
+          ]
+        },
+        {
+          "verse": 17,
+          "text": "and they clothe him in purple, and platting a crovvne of thornes, they put it vpon him."
+        },
+        {
+          "verse": 18,
+          "text": "And they began to ſalute him, Haile King of the Iewes."
+        },
+        {
+          "verse": 19,
+          "text": "And they ſmote his head vvith a reede: and they did ſpit on him. and bovving the knees, they adored him."
+        },
+        {
+          "verse": 20,
+          "text": "And after they had mocked him, they ſtripped him of the purple, and put on him his ovvne garments, and they leade him forth to crucifie him."
+        },
+        {
+          "verse": 21,
+          "text": "And they forced a certaine man that paſſed by, Simon a Cyrenêan comming from the countrie, the father of Alexander and Rufus, to take vp his croſſe."
+        },
+        {
+          "verse": 22,
+          "text": "And they bring him into the place Golgotha, vvhich being interpreted is, The place of Caluarie."
+        },
+        {
+          "verse": 23,
+          "text": "And they gaue him to drinke vvine mingled vvith myrrhe: and he tooke it not."
+        },
+        {
+          "verse": 24,
+          "text": "And crucifying him, they deuided his garments, caſting lottes vpon them, vvho ſhould take vvhich."
+        },
+        {
+          "verse": 25,
+          "text": "And it vvas the third houre, and they crucified him."
+        },
+        {
+          "verse": 26,
+          "text": "And the title of his cauſe vvas ſuperſcribed, KING OF THE IEWES."
+        },
+        {
+          "verse": 27,
+          "text": "And vvith him they crucifie tvvo theeues: one on the right hand, and an other on his left."
+        },
+        {
+          "verse": 28,
+          "text": "And the Scripture vvas fulfilled that ſaith, And vvith the vvicked he vvas reputed.",
+          "cross_refs": [
+            {
+              "text": "Eſa. 53, 12."
+            }
+          ]
+        },
+        {
+          "verse": 29,
+          "text": "And they that paſſed by, blaſphemed him, vvagging their heades, and ſaying, Vah, 'he that deſtroieth' the temple, and in three daies 'buildeth' it:",
+          "notes": [
+            {
+              "label": "1",
+              "text": "thou that deſtroieſt",
+              "kind": "gloss"
+            },
+            {
+              "label": "2",
+              "text": "buildeſt",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 30,
+          "text": "ſaue thy ſelf, comming dovvne from the croſſe.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "So Heretikes ſay of the B. Sacrament, If it be Chriſt, let him ſaue him ſelf from al iniuries.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 31,
+          "text": "In like maner alſo the cheefe Prieſts mocking, ſaid vvith the Scribes one to an other, He ſaued others, him ſelf he can not ſaue."
+        },
+        {
+          "verse": 32,
+          "text": "Let Chriſt the king of Iſrael come dovvne novv from the croſſe: that vve may ſee and beleeue. And they that vvere crucified vvith him, railed at him."
+        },
+        {
+          "verse": 33,
+          "text": "And vvhen it vvas the ſixt houre, there vvas made darkenes vpon the vvhole earth vntil the ninthe houre."
+        },
+        {
+          "verse": 34,
+          "text": "And at the ninthe houre IESVS cried out vvith a mightie voice, ſaying, Eloi, Eloi, lamma-ſabacthani? Which is being interpreted, My God, my God, vvhy haſt thou forsaken me?",
+          "cross_refs": [
+            {
+              "text": "Pſa. 21, 1."
+            }
+          ],
+          "notes": [
+            {
+              "label": "2",
+              "text": "See (Mat. c. 27, 46) the blaſphemous expoſition of Caluin and his folowers, and take heede thereof.",
+              "kind": "gloss"
+            }
+          ],
+          "xrefs": [
+            "Ps. 21, 1."
+          ]
+        },
+        {
+          "verse": 35,
+          "text": "And certaine of the ſtanders about hearing, ſaid, Behold, he calleth Elias."
+        },
+        {
+          "verse": 36,
+          "text": "And one running and filling a ſpunge vvith vinegre, and putting it about a reede, gaue him drinke, ſaying, Let be: let vs ſee if Elias come to take him dovvne."
+        },
+        {
+          "verse": 37,
+          "text": "And IESVS putting forth a mightie voice, gaue vp the ghoſt."
+        },
+        {
+          "verse": 38,
+          "text": "And the vele of the temple vvas rent in tvvo, from the toppe to the bottome."
+        },
+        {
+          "verse": 39,
+          "text": "And the Centurion that ſtoode ouer againſt him, ſeeing that ſo crying he had giuen vp the ghoſt, ſaid, In deede this man vvas the ſonne of God."
+        },
+        {
+          "verse": 40,
+          "text": "And there vvere alſo vvomen looking on a farre of: among vvhom vvas Marie Magdalene, and Marie the mother of Iames the leſſe and of Ioſeph, and Salóme:"
+        },
+        {
+          "verse": 41,
+          "text": "and vvhen he vvas in Galilee, they folovved him, and miniſtred to him, and many other vvomen that came vp together vvith him to Hieruſalem."
+        },
+        {
+          "verse": 42,
+          "text": "And vvhen euening vvas come (becauſe it vvas the Paraſceue, vvhich is the Sabboth-eue)"
+        },
+        {
+          "verse": 43,
+          "text": "came Ioſeph of Arimathæa a noble Senatour, vvho him ſelf alſo vvas expecting the kingdom of God: and he vvent in boldly to Pilate, and aſked the body of IESVS."
+        },
+        {
+          "verse": 44,
+          "text": "But Pilate marueled if he vvere novv dead. And ſending for the Centurion, aſked him if he vvere novv dead."
+        },
+        {
+          "verse": 45,
+          "text": "And vvhen he vnderſtoode by the Centurion, he gaue the body to Ioſeph."
+        },
+        {
+          "verse": 46,
+          "text": "And Ioſeph bying ſindon, and taking him dovvne, vvrapped him in the ſindon, and laid him in a monument, that vvas hevved out of a rocke. And he rolled a ſtone to the doore of the monument.",
+          "has_annotation": true
+        },
+        {
+          "verse": 47,
+          "text": "And Marie Magdalene and Marie of Ioſeph beheld vvhere he vvas laid."
+        }
+      ],
+      "summary": "The cheefe of the Iewes accuſe him to Pilate the Gentil. 6 And (he ſeeking to deliuer him) they perſuade the common people (who hitherto were alwaies ready to defend him) not only to preferre the murderer Barabbas, but alſo to crie Crucifige (to the reprobation of the vvhole nation.) 16 After many illuſions, 20 he is crucified by the Gentils. 29 Which the Iewes ſeing, do triumph as if they had now the victorie. 33 But euen then by many wonderful workes he declareth his might, 42 and finally is buried honorably."
+    },
+    {
+      "chapter": 16,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "AND vvhen the Sabboth vvas paſt, Marie Magdalene and Marie of Iames, and Salôme bought ſpices, that comming they might anoint IESVS.",
+          "has_annotation": true,
+          "cross_refs": [
+            {
+              "text": "Mt. 28, 1. Luc. 24, 1. Io. 20, 1."
+            }
+          ],
+          "notes": [
+            {
+              "label": "2",
+              "text": "The Goſpel vpon Eaſter day.",
+              "kind": "gloss"
+            }
+          ],
+          "xrefs": [
+            "Mt. 28, 1. · Lu. 24, 1 · Io. 20, 1."
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "And very early the firſt of the Sabboths, they come to the monument: the ſunne being novv riſen.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "EASTER DAY.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 3,
+          "text": "And they ſaid one to an other, VVho ſhal roll vs backe the ſtone from the doore of the monument?"
+        },
+        {
+          "verse": 4,
+          "text": "And looking, they ſavv the ſtone rolled backe. for it vvas very great."
+        },
+        {
+          "verse": 5,
+          "text": "And entring into the monument, they ſavv a yong man ſitting on the right hand, couered vvith a white robe: and they vvere aſtonied."
+        },
+        {
+          "verse": 6,
+          "text": "VVho ſaith to them, Be not diſmaied: you ſeeke IESVS of Nazareth, that vvas crucified: he is riſen, he is not here, behold the place vvhere they laid him."
+        },
+        {
+          "verse": 7,
+          "text": "But goe, tel his Diſciples and Peter that he goeth before you into Galilee: there you ſhal ſee him, as he told you. ⊢",
+          "cross_refs": [
+            {
+              "text": "Mr. 14, 28."
+            }
+          ],
+          "notes": [
+            {
+              "label": "2",
+              "text": "Peter is named in special (as often els where) for prerogatiue. · Mr. 14, 28.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 8,
+          "text": "But they going forth, fled from the monument. for trembling and feare had inuaded them: and they ſaid nothing to any body. for they vvere afraid."
+        },
+        {
+          "verse": 9,
+          "text": "And he riſing early the firſt of the Sabboth, appeared firſt to Marie Magdalene, out of vvhom he had caſt ſeuen deuils.",
+          "cross_refs": [
+            {
+              "text": "Io. 20, 16."
+            },
+            {
+              "text": "Luc. 8, 2."
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "text": "She went and told them that had been vvith him, that vvere mourning and vveeping."
+        },
+        {
+          "verse": 11,
+          "text": "And they hearing that he vvas aliue and had been ſeen of her, did not beleeue.",
+          "xrefs": [
+            "Lu. 24, 13."
+          ]
+        },
+        {
+          "verse": 12,
+          "text": "And after this he appeared in an other ſhape to tvvo of them vvalking, as they vvere going into the countrie.",
+          "has_annotation": true,
+          "cross_refs": [
+            {
+              "text": "Lu. 24, 13."
+            }
+          ]
+        },
+        {
+          "verse": 13,
+          "text": "and they going told the reſt: neither them did they beleeue.",
+          "xrefs": [
+            "Lu. 24, 36."
+          ]
+        },
+        {
+          "verse": 14,
+          "text": "Laſt he appeared to thoſe eleuen as they ſate at the table: and he exprobrated their incredulity and hardnes of hart, becauſe they did not beleeue them that had ſeen him riſen againe.",
+          "cross_refs": [
+            {
+              "text": "Lu. 24, 36. Io. 20, 26."
+            }
+          ],
+          "notes": [
+            {
+              "label": "2",
+              "text": "The Goſpel vpon the Aſcenſion day. And for ſome Martyrs.",
+              "kind": "lectionary"
+            }
+          ],
+          "xrefs": [
+            "Io. 20, 19. · Mt. 28, 19."
+          ]
+        },
+        {
+          "verse": 15,
+          "text": "And he ſaid to them, Going into the vvhole vvorld preach the Goſpel to al creatures.",
+          "cross_refs": [
+            {
+              "text": "Mt. 28, 19."
+            }
+          ]
+        },
+        {
+          "verse": 16,
+          "text": "He that beleeueth and is baptized, ſhal be ſaued: but he that beleeueth not, ſhal be condemned.",
+          "has_annotation": true
+        },
+        {
+          "verse": 17,
+          "text": "And them that beleeue theſe ſignes ſhal folow: In my name ſhal they caſt out deuils, They ſhal ſpeake vvith nevv tonges,",
+          "has_annotation": true
+        },
+        {
+          "verse": 18,
+          "text": "Serpents ſhal they take avvay, And if they drinke any deadly thing, it ſhal not hurt them, They ſhal impoſe hands vpon the ſicke: and they ſhal be vvhole.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "Miracles the Church by impoſition of hand.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 19,
+          "text": "And ſo our Lord IESVS after he ſpake vnto them, vvas aſſumpted into heauen, and ſate on the right hand of God.",
+          "cross_refs": [
+            {
+              "text": "Lu. 24, 51."
+            }
+          ],
+          "notes": [
+            {
+              "label": "2",
+              "text": "The Aſcenſion.",
+              "kind": "gloss"
+            }
+          ],
+          "xrefs": [
+            "Lu. 25, 51."
+          ]
+        },
+        {
+          "verse": 20,
+          "text": "But they going forth preached euery vvhere: our Lord working vvithal, and confirming the vvord with ſignes that folowed. ⊢"
+        }
+      ],
+      "summary": "The third day, to three vvomen at his Sepulcher, an Angel telleth that he is riſen, and wil (as he promiſed Mar. 14, 28.) ſhew him ſelf in Galilee. 9 The ſame day he appeareth to Marie Magdalene, aftervvard to tvvo Diſciples: yet the Eleuen vvil not beleeue it, vntil to them alſo he appeareth. 15 To vvhom hauing giuen commiſsion into al nations, with power alſo of Miracles, he aſcendeth, and they plant his Church euery where."
+    }
+  ],
+  "spelling": "original"
+}

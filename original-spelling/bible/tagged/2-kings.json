@@ -1,0 +1,3349 @@
+{
+  "book": "2-kings",
+  "book_title": "The Second Book of Samuel,\nwhich we call the Second of Kings.",
+  "short_title": "2 Kings",
+  "hebrew_title": null,
+  "intros": [
+    {
+      "title": "THE ARGVMENT OF THE SECOND BOOKE OF KINGES.",
+      "text": "<i>BESIDES</i> a great part of the firſt booke, and beginning of the third, this ſecond booke is wholly of <mn>[1]</mn> King Dauid. Whoſe manie laudable Actes, as alſo his faultes (which were fewer) with his true repentance, and punishment are related, not in ſuch method, as may eaſily be diuided into diſtinct partes, in order of the chapters; but according to the diſtinction of thinges conteined, his <mn>[2]</mn> ſucceſſion to the royal crowne, firſt in Iuda, and after in al Iſrael, with the declination and death of his competitour Iſboſeth, are recorded in the 2. 3. 4. and 5. chapters. His vertues, and praiſes, to <mn>[3]</mn> wit, his ſolemne mourning for Saul and that familie, his deuotion, fortitude, pietie, and gratitude are ſpecially touched in the 1. 6: 7. 8. 9. and 10. chapters. His ſinnes of adulterie with Bethſabee, of <mn>[4]</mn> killing her huſband Vrias, of pride in numbering his people, with his hearty repentance, and temporal punishment for the ſame, are written from the 11. chapter to the 21. together with the 24. The 22. and 23. chapters contain his thankeſgeuing to God for benefites receiued, and prophecie <mn>[5]</mn> of thinges to come, with a catalogue of valiant men.",
+      "default": true,
+      "notes": [
+        {
+          "marker": 1,
+          "text": "This booke is wholly of Dauid."
+        },
+        {
+          "marker": 2,
+          "text": "His ſucceſſion to the Kingdom."
+        },
+        {
+          "marker": 3,
+          "text": "His vertues."
+        },
+        {
+          "marker": 4,
+          "text": "Faultes."
+        },
+        {
+          "marker": 5,
+          "text": "Thankes, and Prophecie."
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "AND it came to paſſe, after that Saul was dead, that Dauid returned from rhe ſlaughter of Amalec, and taryed in Siceleg two dayes."
+        },
+        {
+          "verse": 2,
+          "text": "And in the third day there appeared a man coming out of Sauls campe, his garments torne, and ſprinkled on the head with duſt, and as he came to Dauid, he fel vpon his face, and adored."
+        },
+        {
+          "verse": 3,
+          "text": "And Dauid ſaid vnto him: Whence comeſt thou? Who ſaid to him: I fledde out of the campe of Iſrael."
+        },
+        {
+          "verse": 4,
+          "text": "And Dauid ſaid vnto him: What is the matter that is done? tel me. Who ſaid: The people is fled out of the battel, and many of the people are ouerthrowen and dead: yea Saul alſo and Ionathas his ſonne are dead."
+        },
+        {
+          "verse": 5,
+          "text": "And Dauid ſaid to the yong man that told him: How knoweſt thou that Saul is dead, and Ionathas his ſonne?"
+        },
+        {
+          "verse": 6,
+          "text": "And the young man that told him, ſayd: <na>(a)</na> By chance I came into mount Gelboe, and Saul leaned vpon his ſpeare: moreouer the chariots and horſemen approched vnto him,",
+          "notes": [
+            {
+              "label": "a",
+              "text": "He fained al this, thincking to get fauoure (for Saul killed himſelf, <i>li. 1. ch. 31</i>.) but Dauid puniſhed him, as ſuch a crime deſerued. <i>v. 15</i>.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 7,
+          "text": "and turning backward, and ſeing me he called. To whom when I had anſwered, here I am:"
+        },
+        {
+          "verse": 8,
+          "text": "he ſaid to me: Who art thou? And I ſaid to him: I am an Amalecite,"
+        },
+        {
+          "verse": 9,
+          "text": "And he ſaid to me: Stand vpon me, and kil me: becauſe anguishes hold me, and as yet al my life is in me."
+        },
+        {
+          "verse": 10,
+          "text": "And ſtanding vpon him, I killed him: for I knewe that he could not liue after the fal: and I tooke the Diademe that was on his head, & the bracelette from his arme, and haue brought to thee my lord hither."
+        },
+        {
+          "verse": 11,
+          "text": "And Dauid taking his garments rent them, and al the men that were with him,"
+        },
+        {
+          "verse": 12,
+          "text": "and they <na>(b)</na> mourned, and wept, and faſted vntil euening vpon Saul and vpon Ionathas his ſonne, and vpon the people of our Lord, and vpon the houſe of Iſrael, becauſe they were fallen by the ſword.",
+          "notes": [
+            {
+              "label": "b",
+              "text": "Exequies of Saul obſerued with mourning weeping and faſting.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 13,
+          "text": "And Dauid ſaid to the yong man that had told him: Whence art thou? Who anſwered: I am the ſonne of a man a ſtranger of Amalec."
+        },
+        {
+          "verse": 14,
+          "text": "Dauid ſaid to him: Why didſt thou not feare to put to thy hand, to kil the annointed of our Lord?"
+        },
+        {
+          "verse": 15,
+          "text": "And Dauid calling one of his ſeruants, ſaid: Goe runne vpon him. Who ſtroke him, and he died."
+        },
+        {
+          "verse": 16,
+          "text": "And Dauid ſaid to him: Thy bloud be vpon thine owne head: for thyn owne mouth hath ſpoken againſt thee, ſaying: I haue ſlaine the annointed of our Lord."
+        },
+        {
+          "verse": 17,
+          "text": "And Dauid mourned this kind of mourning vpon Saul, and vpon Ionathas his ſonne,"
+        },
+        {
+          "verse": 18,
+          "text": "(and he commanded that they should <na>(c)</na> teach the children of Iuda the bowe, as it is written in the Booke of the iuſt.) And he ſaid: Conſider, o Iſrael for them that be dead wounded vpon thy high places.",
+          "notes": [
+            {
+              "label": "c",
+              "text": "The Philiſthijms were ſtrong & cunning archers therefore Dauid commanded that his ſubiectes ſhould lerne and exerciſe the ſame maner of fight.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 19,
+          "text": "The Nobles, ô Iſrael, are ſlaine vpon thy mountaynes: how are the valiants fallen?"
+        },
+        {
+          "verse": 20,
+          "text": "Tel it not in Geth, neither tel ye it in the high waies of Aſcalon: leſt perhaps the daughters of the Philiſthijms be gladde, leſt the daughters of the vncircumciſed reioice."
+        },
+        {
+          "verse": 21,
+          "text": "Mountaines of Gelboe, let neither dew, nor rayne come vpon you, neither be they fields of the firſt fruits: becauſe there was the ſhield of the valiantes caſt away, the shield of Saul, as though he were not annointed with oyle."
+        },
+        {
+          "verse": 22,
+          "text": "From the bloud of the ſlaine, from the fatte of the valiants, the arrowe of Ionathas neuer returned backward, and the ſword of Saul did not returne emptie."
+        },
+        {
+          "verse": 23,
+          "text": "Saul and Ionathas amiable, and comely in their life, in death alſo were not diuided: ſwifter then eagles, ſtronger then lyons."
+        },
+        {
+          "verse": 24,
+          "text": "Yee daughters of Iſrael weepe vpon Saul, who clothed you with ſcarlet in delicaces, who gaue golden ornaments to yout attyre."
+        },
+        {
+          "verse": 25,
+          "text": "How haue the valiantes fallen in battel? Ionathas bene ſlayne in thy high places?"
+        },
+        {
+          "verse": 26,
+          "text": "I am ſorie for thee my brother Ionathas exceeding beautiful, and amiable aboue the loue of wemen. As the mother loueth her onlie ſonne, ſo did I loue thee."
+        },
+        {
+          "verse": 27,
+          "text": "How haue the ſtrong fallen, and the weapons of warre perished?"
+        }
+      ],
+      "summary": "Dauid hearing that Saul and Ionathas are ſlaine, 11. mourneth with al his familie, weeping and faſting. 13. cauſeth him to be ſlaine who affirmed that he had killed king Saul. 18. He traineth vp archers. 19. and inuiteth alſo al Iſrael to mourne."
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "THHEREFORE after theſe thinges Dauid conſulted our Lord, ſaying: Shal I goe vp into one of the cities of Iuda? And our Lord ſaid to him: Goe vp. And Dauid ſaid: whither shal I goe vp? And he anſwered him: Into Hebron."
+        },
+        {
+          "verse": 2,
+          "text": "Dauid therefore went vp, and his two wiues, Achinoam the Iezrahelite, and Abigail the wife of Nabal of Carmel:"
+        },
+        {
+          "verse": 3,
+          "text": "yea and the men alſo that were with him, Dauid brought euery one with his houshould: and they abode in the townes of Hebron."
+        },
+        {
+          "verse": 4,
+          "text": "And the men of Iuda came, and <na>(a)</na> annoynted Dauid there, to reigne ouer the houſe of Iuda. And it was told Dauid, that the men of Iabes Galaad had buried Saul.",
+          "notes": [
+            {
+              "label": "a",
+              "text": "This ſecond annointing, as alſo the third, <i>(ch. 5</i>.) was in confirmation and to put him in poſſeſſion of the firſt made long before. <i>1. Reg. 16</i>.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 5,
+          "text": "Dauid therefore ſent meſſengers vnto the men of Iabes Galaad, and ſayd vnto them: Bleſſed be you to our Lord, which haue done this mercie with your lord Saul, and haue buried him."
+        },
+        {
+          "verse": 6,
+          "text": "And now our Lord certes wil render you mercie and truth: but I alſo wil requite you the good turne, for that you haue done this thing."
+        },
+        {
+          "verse": 7,
+          "text": "Let your handes be ſtrengthned, and be yee ſtout men: for although your lord Saul be dead, yet the houſe of Iuda hath annointed me to be their king."
+        },
+        {
+          "verse": 8,
+          "text": "But Abner the ſonne of Ner prince of Sauls armie, tooke Iſboſeth the ſonne of Saul, & led him about through the campe,"
+        },
+        {
+          "verse": 9,
+          "text": "and ordained him king ouer Galaad, and ouer Geſſuri, and ouer Iezrahel, & ouer Ephraim, and ouer Beniamin, and ouer al Iſrael."
+        },
+        {
+          "verse": 10,
+          "text": "Fourtie yeares old was Iſboſeth the ſonne of Saul when he began to reigne ouer Iſrael, and he reigned <na>(b)</na> two yeares: and only the houſe of Iuda folowed Dauid.",
+          "notes": [
+            {
+              "label": "b",
+              "text": "He reigned two yeares before he beganne much to decline, but in al ſeuen yeares and a half, for ſo long Dauid reigned only in Iuda. <i>v. 11</i>.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 11,
+          "text": "And the number of the daies, that Dauid abode, reigning in Hebron ouer the houſe of Iuda, was ſeuen yeares and ſix monethes."
+        },
+        {
+          "verse": 12,
+          "text": "And Abner the ſonne of Ner went forth, and the ſeruantes of Iſboſeth the ſonne of Saul, out of the campe into Gabaon."
+        },
+        {
+          "verse": 13,
+          "text": "Moreouer Ioab the ſonne of Saruia, and the ſeruants of Dauid went forth, and mette them beſide the poole of Gabaon, and when they were come together into one place, they ſate one ouer againſt an other: theſe on the one ſide of the poole, and they on the other."
+        },
+        {
+          "verse": 14,
+          "text": "And Abner ſaid to Ioab: Let the yong men riſe, and <na>(c)</na> play before vs. And Ioab anſwered: Let them riſe.",
+          "notes": [
+            {
+              "label": "c",
+              "text": "Hence perhaps cometh the phraiſe, that <i>one armie playeth vpon an other with ſmal and great artillerie</i>, that is, ſtrike and kil their enimies with al ſortes of gunnes. <i>Ioſephus li. 7. c. 1. Antiq</i>.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 15,
+          "text": "There roſe therefore and paſſed twelue in number, of Beniamin, of Iſboſeths part the ſonne of Saul, and twelue of the ſeruantes of Dauid."
+        },
+        {
+          "verse": 16,
+          "text": "And euery one taking the head of his mate, ſticked his ſword into the ſide of his aduerſarie, and they fel together: & the name of the place was called: The field of the valiantes, in Gabaon."
+        },
+        {
+          "verse": 17,
+          "text": "And there roſe a very ſore battel in that day: and Abner was put to flight, & the men of Iſrael, by the ſeruantes of Dauid."
+        },
+        {
+          "verse": 18,
+          "text": "And there were there the three ſonnes of Saruia, Ioab, and Abiſai, and Aſael: moreouer Aſael was a moſt ſwift runner, as it were one of the roes, that abide in the wooddes."
+        },
+        {
+          "verse": 19,
+          "text": "And Aſael purſued Abner, and declined not to the right hand nor to the left omitting to purſue Abner."
+        },
+        {
+          "verse": 20,
+          "text": "Abner therefore looked backe behind him, and ſaid: Art thou Aſael? Who anſwered: I am."
+        },
+        {
+          "verse": 21,
+          "text": "And Abner ſaid to him: Goe to the right hand, or to the left, and apprehend one of the youug men, and take to thee his ſpoyles. But Aſael would not leaue but vrged him."
+        },
+        {
+          "verse": 22,
+          "text": "And againe Abner ſaid to Aſael: Retyre, and do not folowe me, leſt I be compelled to ſticke thee to the ground, and I shal not be able to lift vp my face to Ioab thy brother."
+        },
+        {
+          "verse": 23,
+          "text": "Who contemned to heare, and would not goe aſide: Abner therefore ſtroke him, with his ſpeare turned backe in the priuy partes, and thruſt him through, and he dyed in the ſame place: and al that paſſed by that place, wherein Aſael fel and dyed, did ſtay."
+        },
+        {
+          "verse": 24,
+          "text": "But whiles Ioab and Abiſai purſued Abner fleeing, the ſunne went downe: and they came as farre as the hil of the water conduit, that is ouer againſt the valley the way of the deſert in Gabaon."
+        },
+        {
+          "verse": 25,
+          "text": "And the children of Beniamin were aſſembled together to Abner: and being gathered in a plumpe, into one troupe, they ſtoode in the toppe of one hil."
+        },
+        {
+          "verse": 26,
+          "text": "And Abner cried out to Ioab, and ſaid: Shal thy ſword rage vnto vtter deſtructrion? knoweſt thou not that deſperation is dangerous? how long differreſt thou to ſay to the people, that they leaue to purſue their brethren?"
+        },
+        {
+          "verse": 27,
+          "text": "And Ioab ſaid: Our Lord liueth, if thou hadeſt ſpoken, in the morning had the people retyred, from purſuing their brethren."
+        },
+        {
+          "verse": 28,
+          "text": "Ioab therefore ſounded the trumpette, and al the armie ſtood, neither did they purſue Iſrael any further, nor enter into fight."
+        },
+        {
+          "verse": 29,
+          "text": "And Abner and his men went through the champaine country, al that night: and they paſſed Iordan, and hauing viewed al Beth horon, came to the campe."
+        },
+        {
+          "verse": 30,
+          "text": "Moreouer Ioab returning, after he had leift Abner, aſſembled al the people: and there wanted of Dauids ſeruantes nintene men, beſide Aſael."
+        },
+        {
+          "verse": 31,
+          "text": "But the ſeruantes of Dauid ſtroke of Beniamin, and of the men, that were with Abner three hundred three ſcore, who alſo died."
+        },
+        {
+          "verse": 32,
+          "text": "And they tooke Aſael, & buried him in the ſepulchre of his father in Bethlehem: and Ioab, and the men that were with him, walked al the night, and in the very twilight they came into Hebron."
+        }
+      ],
+      "summary": "Dauid is receiued and annointed King of Iuda. 5. He commendeth thoſe of Iabes Galaad, which buried Saul. 8. Isboſeth the ſonne of Saul reigneth ouer the reſt of Iſrael. 12. whereby riſeth sharpe Warre betwen Abner and Ioab, chief captaines of the two kinges. 30. Manie more are ſlaine of Abners partie then of Ioabs."
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "THERE was made therefore long ſtrife betwen the houſe of Saul, and betwen the houſe of Dauid: Dauid proſpering and alwaies ſtronger then himſelf, but the houſe of Saul decreaſing daily."
+        },
+        {
+          "verse": 2,
+          "text": "And there were ſonnes borne to Dauid in Hebron: and his firſt begotten was Amnon of Achinoam the Iezrahelite."
+        },
+        {
+          "verse": 3,
+          "text": "And after him Cheleab of Abigail the wife of Nabal of Carmel: moreouer the third Abſalom the ſonne of Maacha the daughter of Tolmai king of Geſſur."
+        },
+        {
+          "verse": 4,
+          "text": "And the fourth Adonias, the ſonne of Haggith: and the fifth Saphathia, the ſonne of Abital."
+        },
+        {
+          "verse": 5,
+          "text": "The ſixt alſo Iethraam of Egla the wife of Dauid. theſe were borne to Dauid in Hebron."
+        },
+        {
+          "verse": 6,
+          "text": "Therefore when there was battel betwen the houſe of Saul and houſe of Dauid, Abner the ſonne of Ner ruled the houſe of Saul."
+        },
+        {
+          "verse": 7,
+          "text": "And Saul had a concubine named Reſpha, the daughter of Aia. And Iſboſeth ſaid to Abner:"
+        },
+        {
+          "verse": 8,
+          "text": "Why diddeſt thou go in to my fathers concubine? Who being wrath exceedingly for the wordes of Iſboſeth, ſaid: What <na>(a)</na> am I a dogges head againſt Iuda this day, which haue done mercie vpon the houſe of Saul thy father, and vpon his brethren and neereſt freinds, & haue not deliuered thee into the hands of Dauid, & haſt thou ſought againſt me that thou mighteſt charge me for a woman to day?",
+          "notes": [
+            {
+              "label": "a",
+              "text": "Am I contemptible in thy ſight, and yet head of them that oppoſe againſt Dauid, I that haue donne ſo much for thee, wil not indure to be reprehended, for a ſmal fault. So God ſuffereth the maintainers of an euil quarel to fal out among them ſelues, wherby the right cauſe is aduanced.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "text": "Theſe things do God to Abner, and theſe things adde he to him, vnleſſe as our Lord hath ſworne to Dauid, ſo I doe truth to him."
+        },
+        {
+          "verse": 10,
+          "text": "That the kingdom be transferred from the houſe of Saul, and the throne of Dauid be exalted ouer Iſrael, and ouer Iuda, from Dan to Berſabee."
+        },
+        {
+          "verse": 11,
+          "text": "And he could not anſwer him any thing, becauſe he feared him."
+        },
+        {
+          "verse": 12,
+          "text": "Abner therefore ſent meſſengers to Dauid for himſelf ſaying: Whoſe is the land? And that they should ſay: Make amitie with me, & my hand shal be with thee: and I wil reduce vnto thee al Iſrael."
+        },
+        {
+          "verse": 13,
+          "text": "Who ſaid: Very wel: I wil make amitie with thee: but one thing I deſire of thee, ſaying: Thou shalt not ſee my face before thou bring Michol the daughter of Saul: and ſo thou shalt come, and ſee me."
+        },
+        {
+          "verse": 14,
+          "text": "And Dauid ſent meſſengers to Iſboſeth the ſonne of Saul, ſaying: Reſtore my wife Michol, which I betrothed to me for an hundred prepuces of the Philiſthijms."
+        },
+        {
+          "verse": 15,
+          "text": "Iſboſeth therefore ſent, and tooke her from her huſband Phaltiel, the ſonne of Lais."
+        },
+        {
+          "verse": 16,
+          "text": "And her huſband folowed her, weeping as farre as Bahurim: and Abner ſaid to him: Goe, and returne. Who returned."
+        },
+        {
+          "verse": 17,
+          "text": "Abner alſo ſpake to the ancients of Iſrael, ſaying: Both yeſterday and the day before you ſought Dauid that he might reigne ouer you."
+        },
+        {
+          "verse": 18,
+          "text": "Now therefore do ſo: becauſe our Lord hath ſpoken to Dauid, ſaying: In the hand of my ſeruant Dauid I wil ſaue my people Iſrael from the hands of the Philiſtijms, and of al their enemies."
+        },
+        {
+          "verse": 19,
+          "text": "And Abner ſpake alſo to Beniamin. And he went to ſpeake vnto Dauid in Hebron al things which pleaſed Iſrael, and al Beniamin."
+        },
+        {
+          "verse": 20,
+          "text": "And he came to Dauid into Hebron with twentie men: and Dauid made a feaſt to Abner, and to his men that came with him."
+        },
+        {
+          "verse": 21,
+          "text": "And Abner ſayd to Dauid: I wil riſe, that I may gather vnto thee my lord king al Iſrael, and may enter a league with thee, and thou mayſt reigne ouer al, as thy ſoule deſireth. When Dauid therefore had brought Abner on the way, and he was gone in peace,"
+        },
+        {
+          "verse": 22,
+          "text": "forthwith Dauids ſeruantes and Ioab came, hauing ſlayne the robbers, with a praye exceding great: and Abner was not with Dauid in Hebron, Becauſe he had now diſmiſſed him, and he was departed in peace."
+        },
+        {
+          "verse": 23,
+          "text": "And Ioab, and al the armie which were with him, came afterward: it was therefore told Ioab, that Abner the ſonne of Ner came to the king, and he diſmiſſed him, and he departed in peace."
+        },
+        {
+          "verse": 24,
+          "text": "And Ioab went in to the king, and ſaid: What haſt thou done? Behold Abner came to thee: why didſt thou diſmiſſe him and he is gone and departed?"
+        },
+        {
+          "verse": 25,
+          "text": "knoweſt thou not Abner the ſonne of Ner, that to this end he came to thee, that he might deceiue thee, and might know thy going out, and thy coming in, and vnderſtand al things that thou doeſt?"
+        },
+        {
+          "verse": 26,
+          "text": "Ioab therfore being gone from Dauid, ſent meſſengers after Abner, and brought him backe from the ceſterne Sira, Dauid being ignorant therof."
+        },
+        {
+          "verse": 27,
+          "text": "And when Abner was returned into Hebron, Ioab brought him aſide to the middes of the gate, to ſpake vnto him in guile: and ſtroke him there in the priuie partes, and he died, in reuenge of the bloud of Aſael his brother."
+        },
+        {
+          "verse": 28,
+          "text": "Which when Dauid had heard, that the thing was now done, he ſaid: I am innocent, and my kingdom before God for euer from the bloud of Abner the ſonne of Ner,"
+        },
+        {
+          "verse": 29,
+          "text": "and come it vpon the head of Ioab, and vpon al his fathers houſe: neither let there fayle of the houſe of Ioab one hauing a fluxe of ſeede, and a leper, and houlding the diſtaffe, and falling by the ſword, lacking bread."
+        },
+        {
+          "verse": 30,
+          "text": "Ioab therefore and Abiſai his brother ſlewe Abner, becauſe he had killed Aſael their brother in Gabaon in the battel."
+        },
+        {
+          "verse": 31,
+          "text": "And Dauid ſaid to Ioab, and to al the people, that were with him: Rent your garmentes, and be girded with ſacke clothes, and mourne before the funeral of Abner. Moreouer king Dauid folowed the beere."
+        },
+        {
+          "verse": 32,
+          "text": "And when they had buried Abner in Hebron, king Dauid lifted vp his voice, and wept vpon the graue of Abner: and al the people alſo wept."
+        },
+        {
+          "verse": 33,
+          "text": "And the king mourning and lamenting Abner, ſayd: Not as cowardes are wont to die, hath Abner died."
+        },
+        {
+          "verse": 34,
+          "text": "Thy handes were not bound, and thy feete were not loden with fetters: but as men are wont to fal before the children of iniquitie, ſo art thou fallen. And al the people dubling it wept vpon him."
+        },
+        {
+          "verse": 35,
+          "text": "And when al the multitude was come to take meate with Dauid, when it was yet cleere day Dauid ſware, ſaying: Theſe thinges do God to me, and theſe adde he, if before ſunne ſet I ſhal taſt bread or any thing els."
+        },
+        {
+          "verse": 36,
+          "text": "And al the people heard, and al thinges pleaſed them which the king did in the ſight of al the people."
+        },
+        {
+          "verse": 37,
+          "text": "And al the people knewe, and al Iſrael in that day that it was not the kinges doing, that Abner the ſonne of Ner was ſlayne."
+        },
+        {
+          "verse": 38,
+          "text": "The king alſo ſaid to his ſeruantes: Are you ignorant that a prince and the greateſt is ſlayne this day in Iſrael?"
+        },
+        {
+          "verse": 39,
+          "text": "But I as yet <na>(b)</na> delicate, and annointed king: moreouer the the ſonnes of Saruia are hard to me: our Lord reward him that doth euil according to his malice.",
+          "notes": [
+            {
+              "label": "b",
+              "text": "weake, being newly receiued king, and not able to punish ſtrong offenders. But Ioab & others were afterwardes punished. <i>3. Reg. 2</i>.",
+              "kind": "gloss"
+            }
+          ]
+        }
+      ],
+      "summary": "Iſboſeths forces daily decay, Dauid increaſeth in powre, and hath manie ſonnes. 7. Abner vpon occaſion of a ſlander breaketh from Isboſeth, and ſerueth Dauid, bringing Michol to him, and much people of Iſrael. 23. Ioab of emulation and reuenge killeth Abner. 28. for which Dauid is offended with Ioab, 31. and mourneth for Abner."
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "AND Iſboſeth the ſonne of Saul heard that Abner was ſlaine in Hebron: and his handes were weakened, and al Iſrael was trubled."
+        },
+        {
+          "verse": 2,
+          "text": "And the ſonne of Saul had two men captaynes of robbers, the name of one Baana, and the name of the other Rechab, the ſonnes of Rhemmon the Berothite of the ſonnes of Beniamin: for Beroth alſo was accounted in Beniamin."
+        },
+        {
+          "verse": 3,
+          "text": "And the Berothites fled into Gethaim, and were there ſtrangers vntil that time."
+        },
+        {
+          "verse": 4,
+          "text": "And Ionathas the ſonne of Saul had a ſonne lame in his feete: for he was fiue yeares old, when the tydinges came of Saul and Ionathas from Iezrahel. his nurſe therefore taking him, fled: and when ſhe made haſt to flee, he fel, and was made lame: and he was called Miphiboſeth."
+        },
+        {
+          "verse": 5,
+          "text": "Therefore the ſonnes of Rhemmon the Berothite, Rachab and Baana coming, entered into the houſe of Iſboſeth in the heat of the day: who ſlept vpon his bed at noone."
+        },
+        {
+          "verse": 6,
+          "text": "And they entered into the houſe ſecretely taking eares of corne, and Rechab and Baana his brother, ſtroke him in priuy partes and fled."
+        },
+        {
+          "verse": 7,
+          "text": "And when they were entred into the houſe, he ſlept vpon his bed in a parler, and ſtriking they killed him: and taking away his head they went by the way of the deſert al night."
+        },
+        {
+          "verse": 8,
+          "text": "And brought the head of Iſboſeth to Dauid into Hebron: and they ſaid to the king: Behold the head of Iſboſeth the ſonne of Saul thine enemie who ſought thy life: and our Lord hath geuen my lord the king this day reuenge of Saul, and of his ſeede."
+        },
+        {
+          "verse": 9,
+          "text": "But Dauid anſwering Rechab, and Baana his brother, the ſonnes of Rhemmon the Berothite, and ſayd to them: our Lord liueth, which hath deliuered my ſoule out of al diſtreſſe,"
+        },
+        {
+          "verse": 10,
+          "text": "for ſo much as him that told me, and ſaid: Saul is dead, who thought that he told proſperous thinges, I apprehended, and ſlewe him in Siceleg, to whom I should haue geuen a reward for his tydinges."
+        },
+        {
+          "verse": 11,
+          "text": "How much more now when wicked men haue ſlaine an innocent man in his owne houſe, vpon his bed, ſhal I not require his bloud of your hand, and take you away from the earth?"
+        },
+        {
+          "verse": 12,
+          "text": "Dauid therefore commanded his ſeruantes, and they ſlew them, and cutting of their hands and feete, hanged them ouer the poole in Hebron: but the head of Iſboſeth they tooke, and buried in the ſepulcher of Abner in Hebron."
+        }
+      ],
+      "summary": "Baana and Rechab ſecretly kil Isboſeth: 8. bring his head to Dauid. 9. who condemning their fact, putteth them to death."
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "AND al the tribes of Iſrael came to Dauid in Hebton, ſaying: Behold we are thy bone and thy flesh."
+        },
+        {
+          "verse": 2,
+          "text": "Yea and yeſterday alſo and the day before when Saul was king ouer vs, thou waſt he that didſt leade vs forth and bring backe Iſrael: and our Lord ſayd to thee: Thou shalt feede my people Iſrael, and thou shalt be prince ouer Iſrael."
+        },
+        {
+          "verse": 3,
+          "text": "The ancientes alſo of Iſrael came to the king into Hebron, and king Dauid made a league with them in Hebron before our Lord: and they <na>(a)</na> annointed Dauid to be king ouer Iſrael.",
+          "notes": [
+            {
+              "label": "a",
+              "text": "They annoint him againe in confirmation of their conſent (as Iuda had donne <i>chap. 2</i>.) acknowledging Gods ordinance. <i>1. Reg. 16</i>.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 4,
+          "text": "Thirtie yeares old was Dauid when he began to reigne, and he reigned fourtie yeares."
+        },
+        {
+          "verse": 5,
+          "text": "In Hebron he reigned ouer Iuda ſeuen yeares and ſix monethes: and in Ieruſalem he reigned three and thirtie yeares ouer al Iſrael & Iuda."
+        },
+        {
+          "verse": 6,
+          "text": "And the king went, & al the men that were with him, into Ieruſalem to the Iebuſeite the inhabiter of the land: & they ſaid to Dauid: Thou shalt not come in hither, vnleſſe thou take away the blind and the lame, ſaying: Dauid shal not come in hither."
+        },
+        {
+          "verse": 7,
+          "text": "But <na>(b)</na> Dauid tooke the towre of Sion, this is the citie of Dauid.",
+          "notes": [
+            {
+              "label": "b",
+              "text": "King Dauid now atcheued that the tribe of Iuda could not in the time of Ioſue. <i>Ioſue. 15</i>.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 8,
+          "text": "For Dauid had propoſed in that day a reward to whoſoeuer ſhould ſtrike the Iebuſeite, and touch the gutters of the houſe toppes, and take away the blind and the lame that hated the ſoule of Dauid: therefore it is ſayd in the prouerbe <na>(c)</na> The blind and the lame shal not enter into the temple.",
+          "notes": [
+            {
+              "label": "c",
+              "text": "Idoles that haue eyes and can not ſee, feete and can not goe, shal not enter into the Church of Chriſt.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "text": "And Dauid dwelt in the towre, and called it, The citie of Dauid: & built round about from Mello and inwards."
+        },
+        {
+          "verse": 10,
+          "text": "And he went proſpering and growing vp, and our Lord the God of hoſtes was with him."
+        },
+        {
+          "verse": 11,
+          "text": "Hiram alſo the king of Tyre ſent meſſengers to Dauid, and ceder trees, and carpenters, and maſons for walles: and they built a houſe for Dauid."
+        },
+        {
+          "verse": 12,
+          "text": "And Dauid knew that our Lord had confirmed him king ouer Iſrael, and that he had exalted his kingdome ouer his people Iſrael."
+        },
+        {
+          "verse": 13,
+          "text": "Dauid therefore tooke yet concubines and wiues of Ieruſalem, after he was come from Hebron: and there were borne to Dauid other ſonnes alſo and daughters:"
+        },
+        {
+          "verse": 14,
+          "text": "And theſe be the names of them, that were borne to him in Ieruſalem, Samua, and Sobab, and Nathan, and Salomon,"
+        },
+        {
+          "verse": 15,
+          "text": "and Iebahar, and Eliſua, and Nepheg,"
+        },
+        {
+          "verse": 16,
+          "text": "and Iaphia, and Eliſama, and Elioda, and Eliphaleth."
+        },
+        {
+          "verse": 17,
+          "text": "The Philiſtijms therefore heard that they had annointed Dauid to be king ouer Iſrael: and they went vp al to ſeeke Dauid: which when Dauid had heard, he went downe into a hold."
+        },
+        {
+          "verse": 18,
+          "text": "And the Philiſtijms coming were ſpred in the Vale Raphaim."
+        },
+        {
+          "verse": 19,
+          "text": "And Dauid conſulted our Lord, ſaying: Shal I goe vp to the Philiſtijms? and wilt thou geue them into my hand? And our Lord ſayd to Dauid: Goe vp, becauſe deliuering I wil geue the Philiſtjims in thy hand."
+        },
+        {
+          "verse": 20,
+          "text": "Dauid therefore came into Baal Pharaſim: and ſtroke them there, and ſaid: Our Lord hath diuided mine enemies before me, as waters are diuided, therefore the name of the place was called Baal Pharaſim."
+        },
+        {
+          "verse": 21,
+          "text": "And they leift there their <na>[1]</na> grauen goddes: which Dauid, and his men tooke.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "<i>ſculptilia</i>.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 22,
+          "text": "And the Philiſtians added yet to go vp, and ſpred them ſelues in the Vale Raphaim."
+        },
+        {
+          "verse": 23,
+          "text": "And Dauid conſulted our Lord: Shal I goe vp againſt the Philiſtijms, and wilt thou deliuer them into my handes? Who anſwered: Goe not vp againſt them, but fetch a compaſſe behind their backe, and thou shalt come to them ouer againſt the peare trees."
+        },
+        {
+          "verse": 24,
+          "text": "And when thou ſhalt heare the ſound of one going in the toppe of the peare-trees, then shalt thou enter battel: becauſe then wil our Lord goe forth before thy face, to ſtrike the campe of the Philiſtijms."
+        },
+        {
+          "verse": 25,
+          "text": "Dauid therefore did as our Lord had commanded him, and he ſtroke the Philiſtijms from Gabaa, vntil thou come to Gezer."
+        }
+      ],
+      "summary": "With general conſent Dauid is annointed king of al Iſrael. 7. He taketh the towre of Sion in Ieruſalem, deſtroying the Iebuſeites. 9. buildeth there a new houſe: 13. marieth more wiues, and hath more children. 17. The Philiſtyms riſing againſt him are ouerthrowen: 22. alſo the ſecond time."
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "AND Dauid againe gathered together al the choſen of Iſrael, thirtie thouſand."
+        },
+        {
+          "verse": 2,
+          "text": "And Dauid aroſe, and went, and al the people that was with him of the men of Iuda, to bring the arke of God, vpon which was inuocated the name of the Lord of hoſtes, which ſitteth in the Cherubins vpon it."
+        },
+        {
+          "verse": 3,
+          "text": "And they layd the arke of God vpon a new wayne: and tooke it out of the houſe of Abinadab, who was in Gabaa: and Oza, and Ahio the ſonnes of Abinadab, did driue the new wayne."
+        },
+        {
+          "verse": 4,
+          "text": "And when they had taken it out of the houſe of Abinadab, who was in Gabaa, Ahio keeping the arke of God went before the arke."
+        },
+        {
+          "verse": 5,
+          "text": "But Dauid, and al Iſrael played before our Lord in al wrought wood, both on harpes, and lutes and timbrels and ſitterns and cymbals."
+        },
+        {
+          "verse": 6,
+          "text": "And after they came to the Floore of Nachon, Oza put forth his hand to the arke of God, and held it: becauſe the oxen ſpurned, and made it leane aſide."
+        },
+        {
+          "verse": 7,
+          "text": "And our Lord was wrath with indignation againſt Oza, and ſtroke him for the <na>(a)</na> raſhenes: who died there before the arke of God.",
+          "notes": [
+            {
+              "label": "a",
+              "text": "Either there was no probable danger, & ſo without cauſe Oza touched the arke, that he might ſeme to be very careful; or els he vſed not ſo much reuerence, as he ought to haue donne. <i>li. 2. c. 12. de mirabil. s. Scrip. apud S. Aug. tom. 3</i>.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 8,
+          "text": "And Dauid was ſtrooken ſad, for that our Lord had ſtrooken Oza, and the name of that place was called: The ſtriking of Oza vntil this day."
+        },
+        {
+          "verse": 9,
+          "text": "And Dauid feared our Lord in that day, ſaying: How ſhal the arke of our Lord come vnto me?"
+        },
+        {
+          "verse": 10,
+          "text": "And he would not haue the arke of our Lord turne in to himſelf into the citie of Dauid: but he cauſed it to turne in vnto the houſe of Obededom the Getheite."
+        },
+        {
+          "verse": 11,
+          "text": "And the arke of our Lord dwelt in the houſe of Obededom the Getheite three monethes: and our Lord bleſſed Obededom, and al his houſe."
+        },
+        {
+          "verse": 12,
+          "text": "And it was told king Dauid, that our Lord had bleſſed Obededom, and al that he had for the arke of God. Dauid therefore went, and brought away the arke of God out of the houſe of Obededom, into the citie of Dauid with ioy."
+        },
+        {
+          "verse": 13,
+          "text": "And when they had paſſed, that caried the arke of our Lord, ſix paſſes, he immolated an oxe and a ramme."
+        },
+        {
+          "verse": 14,
+          "text": "And Dauid danced with al his might before our Lord. moreouer Dauid was girded with a linnen ephod."
+        },
+        {
+          "verse": 15,
+          "text": "And Dauid, and al the houſe of Iſrael brought the arke of teſtament of our Lord in iubilation, and in ſounde of trumpet."
+        },
+        {
+          "verse": 16,
+          "text": "And when the arke of our Lord was entred into the citie of Dauid, Michol the daughter of Saul looking forth through a window, ſawe king Dauid leaping, and dancing <na>(b)</na> before our Lord: and she deſpiſed him in her hart.",
+          "notes": [
+            {
+              "label": "b",
+              "text": "To dance before the arke is to dance before our Lord.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 17,
+          "text": "And they brought in the arke of our Lord, and ſette it in his place in the middes of the tabernacle, which Dauid had pitched for it: and Dauid offered holocauſtes, and pacifiques before our Lord."
+        },
+        {
+          "verse": 18,
+          "text": "And when he had accomplished offering holocauſtes and pacifiques, he bleſſed the people in the name of the Lord of hoſtes."
+        },
+        {
+          "verse": 19,
+          "text": "And he diſtributed to al the multitude of Iſrael as wel man as woman, to euerie one, one cake of bread, and one roaſted peece of beefe, and flowre fryed with oyle: and al the people went, euerie man into his houſe."
+        },
+        {
+          "verse": 20,
+          "text": "And Dauid returned to bleſſe his owne houſe: and Michol the daughter of Saul coming forth to meete Dauid, ſayd: How glorious was the king of Iſrael to day vncouering himſelf before the handmaydes of his ſeruantes, and was naked as if one of the ribbaldes should be naked."
+        },
+        {
+          "verse": 21,
+          "text": "And Dauid ſayd vnto Michol: Before our Lord, which hath choſen me rather then thy father, and then al his houſe, and commanded me that I ſhould be duke ouer the people of our Lord in Iſrael,"
+        },
+        {
+          "verse": 22,
+          "text": "both wil I play, & wil become more vile then I haue beene: and I wil be humble in mine eies, and with the handmaydes, of whom thou ſpeakeſt, I wil appeare more glorious."
+        },
+        {
+          "verse": 23,
+          "text": "Therefore vnto Michol the daughter of Saul was there no child borne vnto the day of her death."
+        }
+      ],
+      "summary": "With great ſolemnitie Dauid bringeth the Arke of God from Abinadabs houſe. 6. Oza for touching it is ſodenly ſlaine. 9. whereupon Dauid fearing to bring it to his owne houſe, leaueth it in the houſe of Obededom three monethes, 12. then fetcheth it, dancing before it, though Michol ſcorne his deuotion. 17. He offereth ſacrifices, diſtributeth giftes, bleſſeth the people. 23. And Michol is barren."
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "AND it came to paſſe when the king ſate in his houſe, and our Lord had geuen him reſt on euery ſide from al his enemies,"
+        },
+        {
+          "verse": 2,
+          "text": "he ſayd to Nathan the prophet: Doeſt thou ſee that I dwel in a houſe of cedar, and the arke of God is ſette <na>(g)</na> in the middes skinnes?",
+          "notes": [
+            {
+              "label": "g",
+              "text": "The tabernacle made by Moyſes was a goodlie thing, but being couered with skinnes and in manie reſpectes inſufficient for Gods ſeruice, Dauid deſired to build a glorious Tempie. But was not permitted to do it, for myſterie ſake to ſignifie that Chriſt the true Salomon ſhould build his Church, that farre excelleth the Synagogue of the Iewes, and old Teſtament <i>S. Auguſtin. li. 17. c. 8. de ciuit</i>.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 3,
+          "text": "And Nathan ſayd to the king: Al that is in thy hart, goe doe, becauſe our Lord is with thee."
+        },
+        {
+          "verse": 4,
+          "text": "And it came to paſſe in that night: and behold the word of our Lord to Nathan, ſaying:"
+        },
+        {
+          "verse": 5,
+          "text": "Goe, and ſpeake to my ſeruant Dauid: Thus ſayth our Lord: Shalt thou build me a houſe to dwel in?"
+        },
+        {
+          "verse": 6,
+          "text": "For neither haue I dwelt in houſe from the day that I brought the children of Iſrael out of the Land of Ægypt, vntil this day: but I walked in tabernacle, and in tent."
+        },
+        {
+          "verse": 7,
+          "text": "Through out al the places, that I haue paſſed with al the children of Iſrael, ſpeaking did I ſpeake to one of the tribes of Iſrael, which I commanded to feede my people Iſrael, ſaying: Why did you not build me a houſe of cedar?"
+        },
+        {
+          "verse": 8,
+          "text": "And now theſe thinges ſhalt thou ſay to my ſeruant Dauid: Thus ſayth the Lord of hoſtes: I tooke thee out of the paſtures folowing the flockes, that thou shouldeſt be prince ouer my people Iſrael:"
+        },
+        {
+          "verse": 9,
+          "text": "and I haue beene with thee whereſoeuer thou haſt walked, and haue ſlayne al thine enemies from thy face: and haue made thee a great name, according to the name of the great ones, that are in the earth."
+        },
+        {
+          "verse": 10,
+          "text": "And I wil appoint a place for my people Iſrael, and wil plant it, and they shal dwel vnder it, and shal be trubled no more: neither shal the children of iniquitie adde to afflict them as before."
+        },
+        {
+          "verse": 11,
+          "text": "From the day that I appointed Iudges ouer my people Iſrael: and I wil geue thee reſt from al thine enemies. and our Lord foretelleth thee, that our Lord wil make thee a houſe."
+        },
+        {
+          "verse": 12,
+          "text": "And when thy daies shal be accomplished, and thou shalt ſleepe with thy fathers, I wil rayſe vp thy ſeede after thee, which shal come forth of thy wombe, and <na>(a)</na> I wil eſtablish his kingdom.",
+          "notes": [
+            {
+              "label": "a",
+              "text": "He that ſuppoſeth this great promiſe to be fulfilled in Salomon, erreth much ſayeth S. Auguſtin. <i>ibidem</i>.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 13,
+          "text": "He ſhal build a houſe to my name, and I wil eſtablish the throne of his kingedome for euer."
+        },
+        {
+          "verse": 14,
+          "text": "<na>(b)</na> I wil be to him for a father, and he ſhal be to me for a ſonne: who if <na>(c)</na> he shal do any thing vniuſtly, I wil rebuke him in the rod of men, and in the plagues of the ſonnes of men.",
+          "notes": [
+            {
+              "label": "b",
+              "text": "S. Paul expoundeth this of Chriſt. <i>Heb. 1. v. 5.</i>",
+              "kind": "gloss"
+            },
+            {
+              "label": "c",
+              "text": "This can not be ſaied of Chriſt, but of Salomon, and of anie chriſtian. ſo this place hath manie literal ſenſes.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 15,
+          "text": "But my mercie I wil not take away from him, as I tooke from Saul, whom I remoued from thy face."
+        },
+        {
+          "verse": 16,
+          "text": "And thy houſe shal be faithful, and <na>(d)</na> thy kingdom for euer before thy face, and thy throne shal be firme continually.",
+          "notes": [
+            {
+              "label": "d",
+              "text": "The Sea Apoſtolique, & prieſtly powre in the church of chriſt, is this perpetual kingdom. <i>S. Epiphanius. Hereſi. 29</i>.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 17,
+          "text": "According to al theſe wordes, and according to al this viſion, ſo did Nathan ſpeake to Dauid."
+        },
+        {
+          "verse": 18,
+          "text": "And Dauid went in, and ſate before our Lord, and ſaid: Who am I ô Lord God, and what is my houſe, that thou haſt brought me thus farre?"
+        },
+        {
+          "verse": 19,
+          "text": "But this alſo hath ſemed litle in thy ſight ô Lord God, vnles thou didſt ſpeake alſo of the houſe of thy ſeruant for a long time: for this is the law of Adam, Lord God."
+        },
+        {
+          "verse": 20,
+          "text": "What can Dauid therefore adde yet, to ſpeake vnto thee? for thou knoweſt thy ſeruant ô Lord God."
+        },
+        {
+          "verse": 21,
+          "text": "For thy word, and according to thy hart thou haſt done al theſe great thinges, ſo that thou wouldeſt notifie it to thy ſeruant."
+        },
+        {
+          "verse": 22,
+          "text": "Therefore art thou magnified ô lord God, becauſe there is none like to thee, neither is there a God beſides thee, in al thinges that we haue heard with out eares."
+        },
+        {
+          "verse": 23,
+          "text": "And what nation is there in the earth, as thy people Iſrael, for the which <na>(e)</na> God hath gone, that he might <na>(f)</na> redeme it to be his people, and might make him ſelfe a name, & doe for them great wonders, and horrible thinges vpon the earth, before the face of thy people, whom thou redemedſt to thy ſelf out of Ægypt, from the nations and from their goddes.",
+          "notes": [
+            {
+              "label": "e",
+              "text": "Here and in manie other places the Hebrew word is of the plural number, <i>Elohim, Goddes</i>, ſignifying more diuine Perſons.",
+              "kind": "gloss"
+            },
+            {
+              "label": "f",
+              "text": "The worke of mans Redemption is appropriated to God the Sonne.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 24,
+          "text": "For thou haſt confirmed thy people Iſrael to be an euerlaſting people: and thou Lord God art become their God."
+        },
+        {
+          "verse": 25,
+          "text": "Now therefore ô Lord God, raiſe vp for euer the word, that thou haſt ſpoken vpon thy ſeruant, and vpon his houſe: and doe as thou haſt ſpoken,"
+        },
+        {
+          "verse": 26,
+          "text": "that thy name may be magnified for euer, and it may be ſaid: The Lord of hoſtes is God ouer Iſrael. And the houſe of thy ſeruant Dauid shal be eſtablished before our Lord,"
+        },
+        {
+          "verse": 27,
+          "text": "becauſe thou ô Lord of hoſtes God of Iſrael haſt reueled the eare of thy ſeruant, ſaying: A houſe I build thee: therefore bath thy ſeruant found his hart to pray thee with this prayer."
+        },
+        {
+          "verse": 28,
+          "text": "Now therefore ô Lord God, thou art God, and thy wordes shal be true: for thou haſt ſpoken to thy ſeruant theſe good thinges."
+        },
+        {
+          "verse": 29,
+          "text": "Beginne therefore, and bleſſe the houſe of thy ſeruant, that it may be for euer before thee: becauſe thou Lord God haſt ſpoken, by thy bleſſing shal the houſe of thy ſeruant be bleſſed for euer."
+        }
+      ],
+      "summary": "Dauids good purpoſe to build a Temple is differred by Gods appointment, 12. VVith promiſe that his ſonne shal performe it, and be eſtablished in the kingdom. 18. For al which he rendereth thankes to God."
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "AND it came to paſſe after theſe thinges Dauid ſtroke the Philiſtijms, and humbled them, and Dauid tooke the Bridle of tribute out of the hand of the Philiſtijms."
+        },
+        {
+          "verse": 2,
+          "text": "And he ſtroke Moab, and meaſured them with <na>(a)</na> a corde, making them euen with the earth: and he meaſured two cordes, one to kil, and one to ſaue aliue: and Moab became ſeruing Dauid vnder tribute.",
+          "notes": [
+            {
+              "label": "a",
+              "text": "For more reproch Dauid compaſſing them with cordes, as cattel are enuironed, caſt them on the ground, and by lotte killed ſome, and ſpared ſome aliue.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 3,
+          "text": "And Dauid ſtroke Adarezer the ſonne of Rohob king of Soba, when he went forth to haue dominion ouer the riuer Euphrates."
+        },
+        {
+          "verse": 4,
+          "text": "And Dauid hauing taken of his part a thouſand ſeuen hundred horſemen, and twentie thouſand footemen, hoghſinewed al the chariot horſes: and he leift of them a hundred chariotes."
+        },
+        {
+          "verse": 5,
+          "text": "There came alſo Syria of Domaſcus, to bring ayde vnto Adar-ezer the king of Soba: and Dauid ſtroke of Syria two and twentie thouſand men."
+        },
+        {
+          "verse": 6,
+          "text": "And Dauid put a garriſon in Syria of Damaſcus: and Syria became ſeruing Dauid vnder tribute: and our Lord preſerued Dauid in al thinges to whatſoeuer he went forth."
+        },
+        {
+          "verse": 7,
+          "text": "And Dauid tooke the golden armour, which the ſeruantes of Adar-ezer had, and brought them into Ieruſalem."
+        },
+        {
+          "verse": 8,
+          "text": "And out of Bete, and out of Beroth the cities of Adar-ezer king Dauid tooke braſſe exceding much."
+        },
+        {
+          "verse": 9,
+          "text": "And Tou the king of Emath heard, that Dauid had ſtriken al the force of Adar-ezer,"
+        },
+        {
+          "verse": 10,
+          "text": "And Tou ſent Ioram his ſonne to king Dauid, to ſalute him congratulating, and to geue thankes: for that he had ouerthrowen Adarezer, and ſtriken him. For Tou was enemie to Adarezer, and in his hand were veſſels of gold, and veſſels of ſiluer, and veſſels of braſſe:"
+        },
+        {
+          "verse": 11,
+          "text": "which alſo king Dauid ſanctified to our Lord with the ſiluer and gold, that he had ſanctified of al the nations, which he had ſubdewed"
+        },
+        {
+          "verse": 12,
+          "text": "of Syria, and Moab, and the children of Ammon, and the Philiſtijms, and Amalec, and of the ſpoiles of Adarezer the ſonne of Rohob king of Soba."
+        },
+        {
+          "verse": 13,
+          "text": "Dauid alſo <na>(b)</na> made himſelfe a name, when he returned hauing taken Syria in the Vaile of Salt-pittes, eightene thouſand being ſlayne:",
+          "notes": [
+            {
+              "label": "b",
+              "text": "Sette vp an Arch in memorie of triumph.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 14,
+          "text": "and he put in ſouldiours in Idumea, and placed a garriſon: and al Idumea was made to ſerue Dauid: and our Lord preſerued Dauid in al thinges to whatſoeuer he proceeded."
+        },
+        {
+          "verse": 15,
+          "text": "And Dauid reigned ouer al Iſrael: Dauid alſo did iudgement and iuſtice to al his people."
+        },
+        {
+          "verse": 16,
+          "text": "And Ioab the ſonne of Seruia was ouer the armie: moreouer Ioſaphat the ſonne of Ahilud was <na>[1]</na> recorder:",
+          "notes": [
+            {
+              "label": "1",
+              "text": "<i>or chancelor</i>.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 17,
+          "text": "and Sadoc the ſonne of Achitob, and Achimelech the ſonne of Abiathar, were prieſtes: and Saraias, ſcribe:"
+        },
+        {
+          "verse": 18,
+          "text": "And Banaias the ſonne of Ioiada was ouer <na>(c)</na> the Cerethi and Phelethi: and the ſonnes of Dauid <na>(d)</na> princes.",
+          "notes": [
+            {
+              "label": "c",
+              "text": "Theſe were archers and ſling throwers of the guard. <i>Pharaphraſis chald</i>.",
+              "kind": "gloss"
+            },
+            {
+              "label": "d",
+              "text": "Or prieſtes, or chief rulers, See the annotation. <i>Gen. 47. v. 22. 1. Paral. 18. v. 17</i>.",
+              "kind": "gloss"
+            }
+          ]
+        }
+      ],
+      "summary": "Diuers nations and countries to which Iſrael payed tribute, are ſubdued by Dauid, and pay tribute to Iſrael. 16. Chief officers are mentioned."
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "AND Dauid ſayd: Is there any thinke you that is remaining of the houſe of Saul, that I may do mercie with him for Ionathas ſake?"
+        },
+        {
+          "verse": 2,
+          "text": "And there was of the houſe of Saul, a ſeruant named Siba: whom when the king had called vnto him, he ſaid to him: art thou Siba? And he anſwered: I am ſo thy ſeruant."
+        },
+        {
+          "verse": 3,
+          "text": "And the king ſaid: Is there anie remaining of the houſe of Saul, that I may doe with him the mercie of God? And Siba ſaid to the king: There is yet liuing a ſonne of Ionathas, lame of his feete."
+        },
+        {
+          "verse": 4,
+          "text": "Where is he? quoth he. And Siba ſayd to the king: Behold he is in the houſe of Machir the ſonne of Ammiel in Lodabar."
+        },
+        {
+          "verse": 5,
+          "text": "King Dauid therefore ſent, and tooke him out of the houſe of Machir the ſonne of Ammiel of Lodabar."
+        },
+        {
+          "verse": 6,
+          "text": "And when Miphiboſeth the ſonne of Ionathas the ſonne of Saul was come to Dauid, he fel on his face, and adored. And Dauid ſaid: Miphiboſeth? Who anſwered: Here I am thy ſeruant."
+        },
+        {
+          "verse": 7,
+          "text": "And Dauid ſaid to him: Feare not, becauſe doing I wil do mercie on thee for Ionathas thy father, & I wil reſtore <na>(a)</na> the landes of Saul thy father, and thou shalt eate bread vpon my table alwaies.",
+          "notes": [
+            {
+              "label": "a",
+              "text": "The particular inheretance that pertained to Sauls familie.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 8,
+          "text": "Who adoring him, ſaid: Who am I thy ſeruant, that thou haſt reſpect vpon a dead dogge like vnto me?"
+        },
+        {
+          "verse": 9,
+          "text": "The king therefore called Siba the ſeruant of Saul, and ſaid to him: Al thinges whatſoeuer were Sauls, and al his houſe, I haue geuen to thy maſters ſonne,"
+        },
+        {
+          "verse": 10,
+          "text": "Til for him therefore the land, thou and thy ſonnes, and thy ſeruants: and thou shalt bring in meates for thy maſters ſonne, that he may be maintained: and Miphiboſeth the ſonne of thy lord ſhal eate alwaies bread <na>(b)</na> vpon my table. And Siba had fiftene ſonnes, and twentie ſeruants.",
+          "notes": [
+            {
+              "label": "b",
+              "text": "Not ſitte at table with the king but haue his diet of the kinges prouiſion, beſides the forſaide inheritance.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 11,
+          "text": "and Siba ſaid to the king: As thou my lord king haſt commanded thy ſeruant, ſo wil thy ſeruant doe: and Miphiboſeth shal eate vpon my table, as one of the ſonnes of the king."
+        },
+        {
+          "verse": 12,
+          "text": "And Miphiboſeth had a little ſonne called Micha: and al the kinred of the houſe of Siba ſerued Miphiboſeth."
+        },
+        {
+          "verse": 13,
+          "text": "Moreouer Miphiboſeth dwelt in Ieruſalem: becauſe he did eate alwaies of the kings table: and he was lame on both feete."
+        }
+      ],
+      "summary": "Miphiboſeth a lame ſonne of Ionathas is piouſly releeued by Dauid: 9. geuing to his vſe the particular inheritance of Saul."
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "AND it came to paſſe after theſe thinges, that the king of the children of Ammon died, and Hanon his ſonne reigned for him."
+        },
+        {
+          "verse": 2,
+          "text": "And Dauid ſaid: I wil doe mercie with Hanon the ſonne of Naas, as <na>(a)</na> his father hath done mercie with me. Dauid therefore ſent, conforting him by his ſeruants vpon his fathers death. But when the ſeruantes of Dauid were come into the land of the children of Ammon,",
+          "notes": [
+            {
+              "label": "a",
+              "text": "This Naas king of Ammon curtouſly intertained Dauids freindes which eſcaped from the king of Moab, killing moſt of them that were commended to him, becauſe Dauid had leift his countrie, and was returned into Iuda. <i>1. Reg. 22. Hiſtor. Eccles</i>.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 3,
+          "text": "the princes of the children of Ammon ſaid to Hanon their lord: Thinkeſt thou that for the honour of thy father Dauid hath ſent comforters vnto thee, and not rather that he might ſearch, and ſpie into the citie, and ouerthrow it, hath Dauid ſent his ſeruants vnto thee?"
+        },
+        {
+          "verse": 4,
+          "text": "Hanon therefore tooke the ſeruants of Dauid, and shaued the one half of their breard, and cutte away halfe their garments vnto the buttockes, and ſent them away."
+        },
+        {
+          "verse": 5,
+          "text": "Which when it was told Dauid, he ſent to meete them: for the men were counfounded very fowly, and Dauid commanded them: Tary in Iericho, til your beard be growen, and then returne."
+        },
+        {
+          "verse": 6,
+          "text": "And the children of Ammon ſeing that they had done iniurie to Dauid, ſent, and hyred for wages the Syrian of Rohob, and the Syrian of Soba, twentie thouſand footemen, and of the king Maacha a thouſand men, and of Iſtob twelue thouſand men."
+        },
+        {
+          "verse": 7,
+          "text": "Which when Dauid had heard, he ſent Ioab and the whole armie of warryers."
+        },
+        {
+          "verse": 8,
+          "text": "The children therefore of Ammon iſſued forth, and ſette their men in aray before the verie entrance of the gate: but the Syrian of Soba, and Rohab, and Iſtob, and Maacha were by them ſelues in the fielde."
+        },
+        {
+          "verse": 9,
+          "text": "Ioab therefore ſeing, that there was battel prepared againſt him, both before him and behind him, he piked out of al the choſen of Iſrael, and directed his armie agaynſt the Syrian:"
+        },
+        {
+          "verse": 10,
+          "text": "and the reſt of the people he deliuered to Abiſai his brother, who directed his armie againſt the children of Ammon."
+        },
+        {
+          "verse": 11,
+          "text": "And Ioab ſayd: If the Syrian shal preuayle againſt me, thou shalt ayde me: and if the children of Ammon shal preuayle agaynſt thee, I wil ayde thee."
+        },
+        {
+          "verse": 12,
+          "text": "Play the man, and let vs fight for our people, and the citie of our God: and our Lord wil doe that which is good in his ſight."
+        },
+        {
+          "verse": 13,
+          "text": "Ioab therefore and the people that were with him, began to fight againſt the Syrians: Who immediatly fled from his face."
+        },
+        {
+          "verse": 14,
+          "text": "And the children of Ammon ſeing that the Syrians were fled, they alſo fled from the face of Abiſai, and entred into the citie: and Ioab returned from the children of Ammon, and came to Ieruſalem."
+        },
+        {
+          "verse": 15,
+          "text": "Therefore the Syrians ſeing that they were fallen before Iſrael, they gathered them ſelues together."
+        },
+        {
+          "verse": 16,
+          "text": "And Adar-ezer ſent, and fetched out the Syrians, that were beyond the riuer, and brought their armie: and Sobach the maiſter of Adar-ezers warre, was their chief captaine."
+        },
+        {
+          "verse": 17,
+          "text": "Which when it was told Dauid, he gathered together al Iſrael, and paſſed ouer Iordan, and came into Helam: & the Syrians put them ſelues in aray againſt Dauid, & fought againſt him."
+        },
+        {
+          "verse": 18,
+          "text": "And the Syrians fled from the face of Iſrael, and Dauid ſlewe of the Syrians ſeuen hundred chariotes, and fourtie thouſand horſemen: and Sobach the prince of the warre he ſtroke: who forthwith died."
+        },
+        {
+          "verse": 19,
+          "text": "And al the kinges, that were to ayde Adarezer, ſeing them ſelues ouercome of Iſrael, were afrayd and fled eight & fiftie thouſand before Iſrael. And they made peace with Iſrael: and ſerued them, and the Syrians were afrayd any more to ayde the children of Ammon."
+        }
+      ],
+      "summary": "Hanon king of Ammon for euil entreating Dauids men, ſent vnto him of curteſie, 7. is iuſtly plagued, with his confederates. 15. Alſo the ſecond time they are ouerthrowen by Dauid."
+    },
+    {
+      "chapter": 11,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "AND it came to paſſe the yeare turning about, at ſuch time when kinges are wont to procede to battels, Dauid ſent Ioab, and his ſeruantes with him, and al Iſrael, and they ſpoyled the children of Ammon, and beſieged Rabba: but Dauid remayned in Ieruſalem."
+        },
+        {
+          "verse": 2,
+          "text": "Whiles theſe thinges were in doing, it chanced that Dauid aroſe from his bed after noone, and walked in the toppe of the kinges houſe: and he ſaw a woman washing her ſelf, ouer againſt the roofe of his houſe: and the woman was very beautiful."
+        },
+        {
+          "verse": 3,
+          "text": "The king therefore ſent, and inquired what woman it was. And it was told him, that she was Bethſabee the daughtet of Eliam, the wife of Vrias the Hetheite."
+        },
+        {
+          "verse": 4,
+          "text": "Dauid therefore ſending meſſengers, <na>(a)</na> tooke her, who when she was entered in to him, he ſlept with her: and forthwith she was ſanctified from her vnclennes:",
+          "notes": [
+            {
+              "label": "a",
+              "text": "Theodoſius the Emperour pretending to be excuſed from punishment for his ſinnes, becauſe king Dauid alſo was an adulterer and a manſlayer, S. Ambroſe replied, ſaying: <i>Thou that haſt folovved king Dauid erring, folow him repenting</i>. After which admonition the Emperour moſt humbly did publique penance inioyned him by the Biſhop. <i>in vita Theodoſij</i>.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 5,
+          "text": "and she returned into her houſe hauing conceiued a childe. And ſending she told Dauid, and ſayd: I haue conceiued."
+        },
+        {
+          "verse": 6,
+          "text": "And Dauid ſent to Ioab, ſaying: Send me Vrias the Hetheite. And Ioab ſent Vrias to Dauid."
+        },
+        {
+          "verse": 7,
+          "text": "And Vrias came to Dauid. And Dauid asked how wel Ioab did, & the people, and how the warre was ordered."
+        },
+        {
+          "verse": 8,
+          "text": "And Dauid ſayd to Vrias: Goe into thy houſe, and wash thy feete. And Vrias went forth out of the kinges houſe, and the kinges meate folowed him."
+        },
+        {
+          "verse": 9,
+          "text": "But Vrias ſlept before the gate of the kinges houſe, with the other ſeruantes of his lord, and went not downe to his owne houſe."
+        },
+        {
+          "verse": 10,
+          "text": "And it was told Dauid of them that ſayd: Vrias went not into his houſe. And Dauid ſayd to Vrias: didſt thou not come from thy ioutney? Why didſt thou not goe downe into thy houſe?"
+        },
+        {
+          "verse": 11,
+          "text": "And Vrias ſayd to Dauid: The Arke of God and Iſrael and Iuda dwel in pauilions, & my lord Ioab and the ſeruantes of my lord abide vpon the face of the earth: and shal I enter into my houſe, to eate and to drinke, and ſleepe with my wife? by thy health, and by the health of thy ſoule I wil not do this thing."
+        },
+        {
+          "verse": 12,
+          "text": "Dauid therefore ſayd to Vrias: Tarie here alſo this day, and to morow I wil diſmiſſe thee. Vrias taried in Ieruſalem that day and the next:"
+        },
+        {
+          "verse": 13,
+          "text": "and Dauid called him to eate before him and to drinke, and he made him drunke: who going out at euen, ſlept on his couche with the ſeruantes of his lord, and went not downe into his houſe."
+        },
+        {
+          "verse": 14,
+          "text": "The morning therefore was come, and Dauid wrote a letter to Ioab: and ſent it by the hand of Vrias,"
+        },
+        {
+          "verse": 15,
+          "text": "writing in the letter: Sette ye Vrias in the front of the battel, where the fight is ſtrongeſt; and leaue him, that being ſtriken he may die."
+        },
+        {
+          "verse": 16,
+          "text": "Therefore when Ioab beſieged the citie, he put Vrias in the place where he knew the ſtrongeſt men were."
+        },
+        {
+          "verse": 17,
+          "text": "And the men iſſuing out of the citie, fought againſt Ioab, and there fel of the people of the ſeruantes of Dauid, and Vrias alſo the Hetheite died."
+        },
+        {
+          "verse": 18,
+          "text": "Ioab therefore ſent, and told Dauid al the ſtory of the battel:"
+        },
+        {
+          "verse": 19,
+          "text": "and he commanded the meſſenger, ſaying: When thou haſt told al the ſtory of the battel to the king,"
+        },
+        {
+          "verse": 20,
+          "text": "if thou ſee him to be angrie, and he ſay: Why approched you to the wal, to fight? Knew you not that manie weapons are throwen from aboue of the wal?"
+        },
+        {
+          "verse": 21,
+          "text": "Who ſtroke Abimelec the ſonne of Ierobaal? did not a woman caſt vpon him a peece of a milſtone from the wal, and ſlew him in Thebes? Why approched you nere the wal? Thou shalt ſay: Alſo thy ſeruant Vrias the Hetheite is ſlayne."
+        },
+        {
+          "verse": 22,
+          "text": "The meſſenger therefore departed, and came, and told Dauid al thinges that Ioab had commanded him."
+        },
+        {
+          "verse": 23,
+          "text": "And the meſſenger ſayd to Dauid: The men haue preuailed againſt vs, and they iſſued forth to vs into the field: and we violently purſewed them euen to the gate of the citie."
+        },
+        {
+          "verse": 24,
+          "text": "And the archers shot arrowes at thy ſeruantes from of the wal aboue: and there died of the kinges ſeruantes, yea and thy ſeruant Vrias the Hetheite is dead."
+        },
+        {
+          "verse": 25,
+          "text": "And Dauid ſayd to the meſſenger: Thus shalt thou ſay to Ioab: Let not this thing diſcomfort thee: for the euent of warre is diuerſe: now this man, and now that man the ſword conſumeth: encourage thy warryers againſt the citie, that thou mayſt deſtroy it, and exhort them."
+        },
+        {
+          "verse": 26,
+          "text": "Alſo the wife of Vrias heard, that Vrias her huſband was dead, & she mourned for him."
+        },
+        {
+          "verse": 27,
+          "text": "And the mourning being paſt Dauid ſent, and brought her in into his houſe, and she became his wife, and she bare him a ſonne: and this thing which Dauid had done, was diſpleaſant before our Lord."
+        }
+      ],
+      "summary": "Dauid ouercome with concupiſcence committeth adulterie with Bethſabee: 6. not finding other meanes to hide the crime, cauſeth her huſband Vrias to be ſlaine. 27. Then marieth her, she beareth a ſonne, and God is offended."
+    },
+    {
+      "chapter": 12,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "OVR Lord therfore ſent Nathan to Dauid: Who when he was come to him, he ſayd vnto him: There were two men in one citie, one riche, and the other poore."
+        },
+        {
+          "verse": 2,
+          "text": "The rich man had sheepe, and oxen axceding manie."
+        },
+        {
+          "verse": 3,
+          "text": "but the poore man had nothing at al, beſide one litle ewe, which he had bought and nourished, and which had growen in his houſe together with his children, eating of his bread, and drinking of his cuppe, and ſleping in his boſome: and it was to him as a daughter."
+        },
+        {
+          "verse": 4,
+          "text": "And when a certayne ſtranger was come to the riche man, he ſparing to take of his owne ſheepe and oxen, to make a feaſt for that ſtranger, which was come to him, tooke the poore mans ewe, and made meates therof for the man that was come to him."
+        },
+        {
+          "verse": 5,
+          "text": "And Dauid being excedingly wrath with indignation againſt that man, ſayd to Nathan: Our Lord liueth, the man that hath done this is the childe of death."
+        },
+        {
+          "verse": 6,
+          "text": "He shal render the ewe fourefold, becauſe he hath done this thing, and hath not ſpared."
+        },
+        {
+          "verse": 7,
+          "text": "And Nathan ſayd to Dauid: Thou art that man. Thus ſayth our Lord the God of Iſaael: I annointed thee to be king ouer Iſrael, and I deliuered thee from the hand of Saul,"
+        },
+        {
+          "verse": 8,
+          "text": "and gaue thee the houſe of thy lord, and the wiues of thy lord in thy boſome, and haue geuen thee the houſe of Iſrtel and Iuda: and if theſe thinges be litle, I wil adde farre greater thinges vnto thee."
+        },
+        {
+          "verse": 9,
+          "text": "Why therefore haſt thou contemned the word of the lord, that thou wouldeſt doe euil in my ſight? Vrias the Hetheite thou haſt ſmitten with the ſword, & his wife thou haſt taken to thy wife, and haſt ſlayne him with the ſword of the children of Ammon."
+        },
+        {
+          "verse": 10,
+          "text": "For which thing the ſword shal not depart from thy houſe <na>(a)</na> for euer, becauſe thou haſt deſpiſed me, and haſt taken the wife of Vrias the Hetheite, to be thy wife.",
+          "notes": [
+            {
+              "label": "a",
+              "text": "Now & then ſome of thy ſeede shal be violently ſlaine: ſo were ſlaine three of his owne ſonnes, Ammon, <i>chap. 13</i>. Abſalom <i>chap. 18</i>. Adonias, <i>3. Reg. 2</i>. ſix ſonnes of Ioſaphat, and al Iorams ſonnes ſaue one, <i>2. Paralip. 21</i>. alſo Ochozias, Amaſias, Ioſias. <i>2. Par. 24 25. 35</i>. and the ſonnes of Sedechias, himſelfe hauing his eyes put out and ſo brought into Babylon. <i>4. Reg. 25</i>.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 11,
+          "text": "Therfore thus ſayth our Lord: Behold, I wil rayſe vpon thee euil out of thine owne houſe, and wil take thy wiues before thine eies, and geue them to thy neighbour, and he shal ſlepe with thy wiues in the ſight of this Sunne."
+        },
+        {
+          "verse": 12,
+          "text": "For thou haſt done it ſecretly: but I wil doe this word in the ſight of al Iſrael, and in the ſight of the Sunne."
+        },
+        {
+          "verse": 13,
+          "text": "And Dauid ſayd to Nathan: I haue ſinned to our Lord. And Nathan ſayd to Dauid: Our Lord alſo hath taken away thy ſinne: thou shalt not die."
+        },
+        {
+          "verse": 14,
+          "text": "Neuertheles, becauſe thou haſt made the enemies of our Lord to blaſpheme, for this thing, the ſonne that is borne to thee, dying shal dye."
+        },
+        {
+          "verse": 15,
+          "text": "And Nathan returned into his houſe. Our Lord alſo ſtroke the child, which the wife of Vrias had borne to Dauid, and he was paſt hope."
+        },
+        {
+          "verse": 16,
+          "text": "And Dauid beſought our Lord for the child: and Dauid faſted a faſt, and going in aſide, lay vpon the ground."
+        },
+        {
+          "verse": 17,
+          "text": "And the ancientes of his houſe came, being earneſt with him, that he would riſe from the ground: who would not, neither did he eate meate with them."
+        },
+        {
+          "verse": 18,
+          "text": "And it chanced the ſeuenth day that the infant died: and the ſeruantes of Dauid feared to tel him, that the child was dead. For they ſayd: Behold when the child yet liued, we ſpake to him, and he heard not our voice: how much more if we shal ſay: The child is dead, wil he afflict him ſelf?"
+        },
+        {
+          "verse": 19,
+          "text": "When Dauid therfore ſawe his ſeruantes muttering, he vnderſtood that the infant was dead: and he ſayd to his ſeruantes: Is the child dead? Who anſwered him: He is dead."
+        },
+        {
+          "verse": 20,
+          "text": "Dauid therfore roſe from the ground; and was washed and annoynted: and when he had changed his garment, he entered into the houſe of our Lord: and adored, and came into his owne houſe, and he called for bread, and he did eate."
+        },
+        {
+          "verse": 21,
+          "text": "And his ſeruantes ſayd vnto him: What thing is this, that thou haſt done? for the infant, when he yet liued, thou didſt faſt and weepe: but the child being dead, thou didſt riſe vp, and haſt eaten bread."
+        },
+        {
+          "verse": 22,
+          "text": "Who ſayd: For the infant, whiles he yet liued, I faſted and wept: for I ſayd: Who knoweth if perhaps our Lord wil geue him to me, and the infant may liue?"
+        },
+        {
+          "verse": 23,
+          "text": "But now becauſe he is dead, why do I faſt? Shal I be able to cal him againe any more? I shal go to him rather: but he shal not returne to me."
+        },
+        {
+          "verse": 24,
+          "text": "And Dauid comforted Bethſabee his wife, and going in vnto her, ſlept with her: Who bare a ſonne, and he called his name Salomon, and our Lord loued him."
+        },
+        {
+          "verse": 25,
+          "text": "And he ſent by the hand of Nathan the prophete, and called his name, Amiable to our Lord, becauſe our Lord loued him."
+        },
+        {
+          "verse": 26,
+          "text": "Ioab therfore fought againſt Rabbath of the children of Ammon, and wonne the kinges citie."
+        },
+        {
+          "verse": 27,
+          "text": "And Ioab ſent meſſengers to Dauid, ſaying: I haue fought againſt Rabbath, and the Citie of waters is to be taken."
+        },
+        {
+          "verse": 28,
+          "text": "Now therfore gather the reſt of the people, and beſiege the citie, & take it: leſt when the citie shal be waſted of me, the victorie be aſcribed to my name."
+        },
+        {
+          "verse": 29,
+          "text": "Dauid therfore gathered al the people, and went forth againſt Rabbath: and when he had fought, he tooke it."
+        },
+        {
+          "verse": 30,
+          "text": "And he tooke the crowne of their king from his head, in weight a talent of gold, hauing moſt pretious ſtones, and it was put vpon Dauids head. Yea & the praye of the citie he caryed away exceding much:"
+        },
+        {
+          "verse": 31,
+          "text": "bringing forth alſo the people therof ſawed them, and drewe round about ouer them chariotes ſhod with yron: and he diuided them with kniues, and drew them through in forme of brikes: ſo did he to al the cities of the children of Ammon: and Dauid returned, and al the armie into Ieruſalem."
+        }
+      ],
+      "summary": "Nathan the prophet by a parable induceth Dauid to condemne him ſelf of great ſinne, 7. blameth and threatneth him for the ſame. 13. But vpon his confeſſion denounceth remiſſion of his ſinne, with reſeruation of temporal punishment, 15. the death of the childe. 24. Bethſabee beareth an other ſonne, who is called Salomon. 26. The citie of Rabbath is taken, and a rich crowne with other praye."
+    },
+    {
+      "chapter": 13,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "AND it came to paſſe after theſe thinges, that Amnon the ſonne of Dauid loued the ſiſter of Abſalom the ſonne of Dauid, being very beautiful, called Thamar,"
+        },
+        {
+          "verse": 2,
+          "text": "and was fond on her excedingly, ſo that for the loue of her he was ſicke: becauſe wheras she was a virgin, it ſemed vnto him had hard to doe any thing vnhoneſtly with her."
+        },
+        {
+          "verse": 3,
+          "text": "But Amnon a freind, named Ionadab the ſonne of Semmaa Dauids brother, a very wiſe man:"
+        },
+        {
+          "verse": 4,
+          "text": "Who ſayd to him: Why art thou ſo worne away with leanenes the kinges ſonne, day by day? Why doeſt thou not tel me? And Amnon ſayd to him: I loue Thamar the ſiſter of my brother Abſalom."
+        },
+        {
+          "verse": 5,
+          "text": "To whom Ionadab anſwered: Lye vpon thy bed, and fayne ſickenes: and when thy father shal come to viſite thee, ſay to him: Let my ſiſter Thamar, I pray, come to me, to geue me meate, and to make me broth, that I may eate of her hand."
+        },
+        {
+          "verse": 6,
+          "text": "Amnon therefore lay downe, and began as it were to be ſicke: and when the king came to viſite him, Amnon ſayd to the king: Let Thamar my ſiſter come, I beſech you, that she may make in my ſight two litle ſuppinges, and I may take meate of her hand."
+        },
+        {
+          "verse": 7,
+          "text": "Dauid therfore ſent home to Thamar, ſaying: Come into the houſe of Amnon thy brother, & make him broth."
+        },
+        {
+          "verse": 8,
+          "text": "And Thamar came into the houſe of Amnon her brother: and he lay, who taking meale tempered it: and reſoluing it in his ſight she made ſuppinges."
+        },
+        {
+          "verse": 9,
+          "text": "And taking that which she had boyled, she powred it out, and ſet it before him, and he would nor eate: and Amnon ſayd: Put forth al from me. And when they had put forth al,"
+        },
+        {
+          "verse": 10,
+          "text": "Amnon ſayd to Thamar: Bring in the meate into the parler, that I may eate of thy hand. Thamar therfore tooke the ſuppinges, which she had made, and caryed it in to Amnon her brother in the parler."
+        },
+        {
+          "verse": 11,
+          "text": "And when she had offered him the meate, he caught her, and ſayd: Come, lie with me my ſiſter."
+        },
+        {
+          "verse": 12,
+          "text": "Who anſwered him: Doe not ſo my brother, doe not rauish me: for this is not lawful in Iſrael. Doe not this folie."
+        },
+        {
+          "verse": 13,
+          "text": "For I shal not be able to beare my reproch, and thou shalt be as one of the foolish in Iſrael: but rather ſpeake to the king, and he wil not denie me to thee."
+        },
+        {
+          "verse": 14,
+          "text": "But he would not reſt at her petitions, but preuayling by force rauiſhed her, and lay with her."
+        },
+        {
+          "verse": 15,
+          "text": "And Amnon hated her with exceding great hatred: ſo that the hatred was greater, wherewith he hated her, then the loue with the which before he loued her. And Amnon ſaid to her: Ariſe; and goe."
+        },
+        {
+          "verse": 16,
+          "text": "Who anſwered him: This euil, which now thou doeſt againſt me expelling me, is greater then that which thou didſt before. And he would not heare her:"
+        },
+        {
+          "verse": 17,
+          "text": "but calling the ſeruant, that miniſtred to him, he ſaid: Thruſt this woman out from me: and ſhut the doore after her."
+        },
+        {
+          "verse": 18,
+          "text": "Who was clothed with a garment downe to the foote: for the kinges daughters that were virgins, vſed ſuch kinde of garmentes. His ſeruant therfore thruſt her out: and shut the doore after her."
+        },
+        {
+          "verse": 19,
+          "text": "Who ſprinkling ashes on her head, renting her long garment, and her handes vpon her head, went going on, and crying."
+        },
+        {
+          "verse": 20,
+          "text": "And Abſolon her brother ſayd to her: hath Amnon thy brother lyen with thee? but now ſiſter hold thy peace, he is thy brother: neithet afflict thou thy hart for this thing. Thamar therefore taryed pyning in the houſe of Abſalom her brother."
+        },
+        {
+          "verse": 21,
+          "text": "And when Dauid the king had heard theſe wordes, he was greeued excedingly."
+        },
+        {
+          "verse": 22,
+          "text": "Moreouer Abſalom ſpake not to Amnon neitheir good nor euil: for Abſalom hated Amnon becauſe he had rauished Thamar his ſiſter."
+        },
+        {
+          "verse": 23,
+          "text": "And it came to paſſe after the ſpace of two yeares, that the sheepe of Abſalom were shorne in Baalhaſor, which is beſide Ephraim: and Abſalom called al the kinges ſonnes,"
+        },
+        {
+          "verse": 24,
+          "text": "and he came to the king, and ſaid to him: Behold thy ſeruantes sheepe are to be shorne: Let the king, I pray, with his ſeruantes come to his ſeruant."
+        },
+        {
+          "verse": 25,
+          "text": "And the king ſaid to Abſalom: Doe not ſo my ſonne, requeſt not that we come al, & charge thee. And when he was earneſt with him, & he would not goe, he bleſſed him."
+        },
+        {
+          "verse": 26,
+          "text": "And Abſalom ſaid: If thou wilt not come, at the leaſt let Amnon my brother, I beſech thee, come with vs. And the king ſaid to him: It is not neceſſary that he goe with thee."
+        },
+        {
+          "verse": 27,
+          "text": "Abſalom therefore was earneſt with him, and he let Amnon and al the kinges ſonnes goe with him. And Abſalom made a feaſt as it were the feaſt of a king."
+        },
+        {
+          "verse": 28,
+          "text": "And Abſalom had commanded his ſeruantes, ſaying: Marke when Amnon shal be drunke with wine, and I shal ſay to you: Strike him, and kil him, feare not: for it is I that command you: take courage, and play the valiant men."
+        },
+        {
+          "verse": 29,
+          "text": "Therefore the ſeruantes of Abſalom did againſt Amnon, as Abſalom had commanded them. And al the kinges ſonnes ryſing gatte vp euery one vpon their mules, and fled."
+        },
+        {
+          "verse": 30,
+          "text": "And when they yet went on in their way, a rumour came to Dauid, ſaying: Abſalom hath ſtricken al the kinges ſonnes, and there is not leift of them ſo much as one."
+        },
+        {
+          "verse": 31,
+          "text": "The king therfore roſe vp, and rent his garmentes: and fel vpon the ground, and al his ſeruantes, that ſtood about him, rent their garmentes."
+        },
+        {
+          "verse": 32,
+          "text": "But Ionadab the ſonne of Semmaa Dauids brother anſwering, ſayd: Let not my lord the king thinke, that al the kinges ſonnes be ſlayne: Amnon only is dead, becauſe he was put in the mouth of Abſalom ſince the day that he rauished Thamar his ſiſter."
+        },
+        {
+          "verse": 33,
+          "text": "Now therefore let not my lord the king put this word vpon his hart, ſaying: Al the kinges ſonnes are ſlayne: becauſe Amnon only is dead."
+        },
+        {
+          "verse": 34,
+          "text": "And Abſalom fled: and the ſeruant that was the ſcoutewatch, lifted vp his eies, and looked: and behold much people came by a byway on the ſide of the mountayne."
+        },
+        {
+          "verse": 35,
+          "text": "And Ionadab ſayd to the king: Loe the kinges ſonnes be come: according to the wordes of thy ſeruant ſo, is it done."
+        },
+        {
+          "verse": 36,
+          "text": "And when he had ceaſed to ſpeake, the kinges ſonnes alſo appeared: & entring in they lifted vp their voice, and wept: yea the king alſo and al his ſeruantes bewailed with an exceding great weeping."
+        },
+        {
+          "verse": 37,
+          "text": "Moreouer Abſalom fleing, went to Tholomai the ſonne of Ammiud the king of Geſſur, Dauid therefore mourned for his ſonne al daies."
+        },
+        {
+          "verse": 38,
+          "text": "And Abſalom when he was fled, and come into Geſſur, was there three yeares."
+        },
+        {
+          "verse": 39,
+          "text": "And king Dauid ceaſed to purſew Abſalom, becauſe he was comforted vpon the death of Amnon."
+        }
+      ],
+      "summary": "Amnon rauisheth Thamar. 20. For which Abſalom killeth him. 37. and flyeth into Geſſur."
+    },
+    {
+      "chapter": 14,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "AND Ioab the ſonne of Saruia, vnderſtanding that the kinges hart was turned to Abſalom,"
+        },
+        {
+          "verse": 2,
+          "text": "he ſent to Thecua, and tooke thence a prudent woman: and he ſayd to her: Feyne that thou mourneſt, and put on a mourning garment, and be not annoynted with oyle, that thou mayſt be as a woman now a long tyme mourning for one dead."
+        },
+        {
+          "verse": 3,
+          "text": "And thou shalt goe in vnto the king, and shalt ſpeake to him theſe maner of wordes. And Ioab put the wordes in her mouth."
+        },
+        {
+          "verse": 4,
+          "text": "Therefore when the woman of Thecua was gone in to the king, ſhe fel before him vpon the ground, and adored, and ſaid: Saue me ô king."
+        },
+        {
+          "verse": 5,
+          "text": "And the king ſayd to her: What matter haſt thou? Who anſwered: Alas, I am a widow woman: for my huſband is dead."
+        },
+        {
+          "verse": 6,
+          "text": "And thy handmaide had two ſonnes: who fel at wordes againſt eche other in the field, and there was none to ſtay them: and the one ſtroke the other, and ſlew him."
+        },
+        {
+          "verse": 7,
+          "text": "And behold the whole kinred ryſing againſt thy handmaide, ſaith: Deliuer him that hath ſtriken his brother that we may kil him for the life of his brother, whom he hath ſlayne, and may cleane deſtroy the heire: and they ſeeke to extingniſh my ſparkle, which is leift, that there may no name remaine to my huſband, nor reliques vpon the earth."
+        },
+        {
+          "verse": 8,
+          "text": "And the king ſaid to the woman: Goe into thy houſe, and I wil geue commandement for thee."
+        },
+        {
+          "verse": 9,
+          "text": "And the woman of Thecua ſaid to the king: Vpon me, my lord, be the iniquitie, and vpon the houſe of my father: but be the king and his throne innocent."
+        },
+        {
+          "verse": 10,
+          "text": "And the king ſaid: He that ſhal gayneſay thee bring him to me, & he ſhal adde no more to touch thee."
+        },
+        {
+          "verse": 11,
+          "text": "Who ſayd: Let the king remember our Lord his God, that the next of bloud be not multiplied to reuenge, and that they kil not my ſonne. Who ſayd: Our Lord liueth, there ſhal not fal of the heares of thy ſonne vpon the earth."
+        },
+        {
+          "verse": 12,
+          "text": "The woman therefore ſayd: Let thy handmayde ſpeake to my lord the king a word. And he ſayd: Speake."
+        },
+        {
+          "verse": 13,
+          "text": "And the woman ſayd: Why haſt thou thought ſuch a thing agaynſt the people of God, and why hath the king ſpoken this word, that he would ſinne, and not bring againe his baniſhed one?"
+        },
+        {
+          "verse": 14,
+          "text": "We doe al dye, and as waters that returne not, we fal downe on the earth: neither wil God haue a ſoule to periſh, bur reuoketh, meaning that he perish not altogether that is caſt of."
+        },
+        {
+          "verse": 15,
+          "text": "Now therefore I come, that I may ſpeake to my lord the king this word, the people being preſent. And thy handmayd ſayd: I wil ſpeake to the king, if by any meanes the king may doe the word of his handmaide."
+        },
+        {
+          "verse": 16,
+          "text": "And the king hath heard, to deliuer his handmaide out of the hand of al, that would deſtroy me out of the inheritance of our Lord, and my ſonne together."
+        },
+        {
+          "verse": 17,
+          "text": "Let thy handmaide therefore ſay, that the word of my lord the king be made as a ſacrifice. For euen as an Angel of God, ſo is my lord the king, that he is moued neither with bleſſing nor curſing: Wherefore our Lord alſo thy God is with thee."
+        },
+        {
+          "verse": 18,
+          "text": "And the king anſwering, ſayd to the woman: Hide not from me the thing that I aske thee. And the woman ſayd to him: Speake my lord king."
+        },
+        {
+          "verse": 19,
+          "text": "And the king ſayd: Is the hand of Ioab with thee in al theſe thinges? The woman anſwered, and ſayd: By the health of thy ſoule, my lord king, it is neither on the left hand, nor on the right of al theſe thinges, which my lord the king hath ſpokeu: for thy ſeruant Ioab, he commanded me, and he put al theſe wordes into the mouth of thy handmayde."
+        },
+        {
+          "verse": 20,
+          "text": "That I should change the forme of this ſpeach, thy ſeruant Ioab commanded this: and thou my lord king, art wiſe, as an Angel of God hath wiſdom, that thou vnderſtandeſt al thinges vpon the earth."
+        },
+        {
+          "verse": 21,
+          "text": "And the king ſayd to Ioab: Behold I being pacified haue done thy word: Goe therefore, and cal agayne the boy Abſalom."
+        },
+        {
+          "verse": 22,
+          "text": "And Ioab falling vpon his face vnto the earth, adored, and <na>(a)</na> bleſſed the king: and Ioab ſayd: This day thy ſeruant hath vnderſtood, that I haue found grace in thy ſight my lord king: for thou haſt done the word of thy ſeruant.",
+          "notes": [
+            {
+              "label": "a",
+              "text": "Praiſed and thanked the king.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 23,
+          "text": "Ioab therefore aroſe and went into Geſſur, and brought Abſalom into Ieruſalem."
+        },
+        {
+          "verse": 24,
+          "text": "But the king ſayd: Let him returne into his houſe, and not ſee my face. Abſalom therefore returned into his houſe, and the kings face he ſaw not."
+        },
+        {
+          "verse": 25,
+          "text": "Moreouer like as Abſalom, there was not a man in al Iſrael ſo beautiful, and exceding comelie: from the ſole of the foote to the crowne there was no blemish in him."
+        },
+        {
+          "verse": 26,
+          "text": "And when he powled his heare (once a yeare he was powled, becauſe his bush did burden him) he weighed the heare of his head at two hundred ſicles, of the common weight."
+        },
+        {
+          "verse": 27,
+          "text": "And there were borne to Abſalom <na>(b)</na> three ſonnes: and one daughter, named Thamar, of a goodly beautie.",
+          "notes": [
+            {
+              "label": "b",
+              "text": "Theſe children died before him as appeareth, <i>cha. 18</i>.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 28,
+          "text": "And Abſalom abode in Ieruſalem two yeares, and ſaw not the kinges face."
+        },
+        {
+          "verse": 29,
+          "text": "He therefore ſent to Ioab, to ſend him to the king: who would not come to him. And when he had ſent the ſecond time, and he would not come to him,"
+        },
+        {
+          "verse": 30,
+          "text": "he ſayd to his ſeruantes: You know the filde of Ioab beſide my filde, that hath barley harueſt: goe therefore and burne it with fyre. The ſeruantes therefore of Abſalom burnt the corne with fyre. And Ioabs ſeruantes coming, renting their garmentes, ſayd: The ſeruantes of Abſalom haue burnt part of the filde with fyre."
+        },
+        {
+          "verse": 31,
+          "text": "And Ioab aroſe, & came to Abſalom in his houſe, & ſayd: Why haue thy ſeruantes burnt my corne with fire?"
+        },
+        {
+          "verse": 32,
+          "text": "And Abſalom anſwered Ioab: I ſent to thee beſeching thee that thou wouldeſt come vnto me, and I might ſend thee to the king, and thou ſhouldeſt ſay to him: Wherefore came I out of Geſſur? It was better for me to be there: I beſech thee therefore that I may ſee the face of the king: & if he be mindeful of mine iniquitie, let him kil me."
+        },
+        {
+          "verse": 33,
+          "text": "Ioab therefore entring in to the king, told him al thinges: and Abſalom was called, and he entered in to the king: and adored vpon the face of the earth before him: and the king kiſſed Abſalom."
+        }
+      ],
+      "summary": "Ioab ſuborning a woman first to propoſe the ſuite by a parable, 21. obtayneth pardon for Abſalom. 24. but ſo that he appeareth not in the kinges preſence. 25. He is exceding fayre, hath three ſonnes and one daughter. 19. Ioab refusing to deale further for his free releaſe, Abſalom burneth his corne. 31. Then Ioab procureth his acceſſe to the king."
+    },
+    {
+      "chapter": 15,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "THEREFORE after theſe thinges Abſalom made him ſelf chariotes, and horſemen, and fiftie men, that should goe before him."
+        },
+        {
+          "verse": 2,
+          "text": "And Abſalom riſing early, ſtoode beſide the entrance of the gate, and euerie man that had buſines to the kinges iudgement, did Abſalom cal to him, and ſayd: Of what citie art thou? Who anſwering ſayd: Of ſuch a tribe of Iſrael am I thy ſeruant."
+        },
+        {
+          "verse": 3,
+          "text": "And Abſalom anſwered him: Thy wordes ſeeme vnto me good and iuſt. But there is none to heare thee appointed of the king. And Abſalom ſayd:"
+        },
+        {
+          "verse": 4,
+          "text": "Oh who would appoint me iudge ouer the land, that al might come to me which haue buſines, and I might iudge iuſtly?"
+        },
+        {
+          "verse": 5,
+          "text": "Yea and when a man came vnto him to ſalute him, he put forth his hand, and taking him, kyſſed him."
+        },
+        {
+          "verse": 6,
+          "text": "And this did he to al Iſrael coming for iudgement, to be heard of the king, and he intiſed the hartes of the men of Iſrael."
+        },
+        {
+          "verse": 7,
+          "text": "And after fourtie yeares, Abſalom ſayd to king Dauid: Let me goe, and pay my vowes which I haue vowed to our Lord in Hebron."
+        },
+        {
+          "verse": 8,
+          "text": "For thy ſeruant vowing did vow, when he was in Geſſur of Syria, ſaying: If our Lord wil bring me againe into Ieruſalem, I wil ſacrifice to our Lord."
+        },
+        {
+          "verse": 9,
+          "text": "And king Dauid ſayd to him: Goe in peace. And he aroſe, and went into Hebron."
+        },
+        {
+          "verse": 10,
+          "text": "And Abſalom ſent ſpies into al the tribes of Iſrael, ſaying: forthwith as you shal heare the ſound of the trumpet, ſay ye: Abſalom reigneth in Hebron."
+        },
+        {
+          "verse": 11,
+          "text": "Moreouer with Abſalom there went two hundred men out of Ieruſalem being called, going with a ſimple hart, and vtterly ignorant of the cauſe."
+        },
+        {
+          "verse": 12,
+          "text": "Abſalom alſo ſent for Achitophel the Gilonite, Dauids counſeler, from his citie Gilo. And when he immolated victimes, there was made a ſtrong conſpiracie, and the people running together increaſed with Abſalom."
+        },
+        {
+          "verse": 13,
+          "text": "A meſſenger therefore came to Dauid, ſaying: Al Iſrael with al their hart followeth Abſalom."
+        },
+        {
+          "verse": 14,
+          "text": "And Dauid ſaid to his ſeruantes, that were with him in Ieruſalem: Ariſe let vs flee: for there wil be no eſcape for vs from the face of Abſolom: make haſt to goe out, leſt coming perhaps he ouertake vs, and force ruine vpon vs, and ſtrike the citie in the edge of the ſword."
+        },
+        {
+          "verse": 15,
+          "text": "And the kinges ſeruantes ſaid to him: al thinges whatſoeuer our lord the king shal command, we thy ſeruantes wil gladly execute."
+        },
+        {
+          "verse": 16,
+          "text": "The king therefore went forth, and al his houſe on foote: & the king leift ten wemen his <na>(a)</na> concubines to keepe the houſe.",
+          "notes": [
+            {
+              "label": "a",
+              "text": "Concubines were lawfully maried but had not al priuilegies as other wiues. <i>See Gen. 25. Iudic. 19</i>.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 17,
+          "text": "And the king going forth & al Iſrael on their feete, ſtoode farre from the houſe:"
+        },
+        {
+          "verse": 18,
+          "text": "and al his ſeruantes walked by him, and the legions Cerethi, and Phelethi and al the Getheites, valiant warriers, ſix hundred men which had folowed him from Geth footemen, went before the king."
+        },
+        {
+          "verse": 19,
+          "text": "And the king ſaid to Ethai the Getheite: Why comeſt thou with vs? returne and dwel with the king, becauſe thou art a ſtranger, and art come forth out of thy place."
+        },
+        {
+          "verse": 20,
+          "text": "Yeſterday thou cameſt, and to day shalt thou be forced to goe forth with vs? but I wil goe whither I shal goe: returne, and leade backe thy brethren with thee, and our Lord wil doe with thee mercie, and veritie, becauſe thou haſt shewed grace and fidelitie."
+        },
+        {
+          "verse": 21,
+          "text": "And Ethai anſwered the king, ſaying: The Lord liueth, and my lord the king liueth: for that in what place ſoeuer thou shalt be, my lord king, either in death, or in life, there wil thy ſeruant be."
+        },
+        {
+          "verse": 22,
+          "text": "And Dauid ſaid to Ethai: Come, and paſſe. And Ethai the Getheite paſſed, and al the men that were with him, and the reſt of the multitude."
+        },
+        {
+          "verse": 23,
+          "text": "And they al wept with a lowd voice, and al the people paſſed: the king alſo went ouer the Torrent Cedron, and al the people marched againſt the way, that looketh to the deſert."
+        },
+        {
+          "verse": 24,
+          "text": "And Sadoc alſo the prieſt came, and al the Leuites with him carying the arke of the couenant of God, and they ſette downe the arke of God: & Abiathar aſcended, til al the people was fully paſſed, which was come forth of the citie."
+        },
+        {
+          "verse": 25,
+          "text": "And the king ſayd to Sadoc: Cary backe the Arke of God into the citie: if I shal finde grace in the ſight of my Lord, he wil bring me agayne, and wil show me it, and his tabernacle."
+        },
+        {
+          "verse": 26,
+          "text": "But if he shal ſay to me: Thou pleaſeſt me not: I am readie, let him doe that which is good before him."
+        },
+        {
+          "verse": 27,
+          "text": "And the king ſayd to Sadoc the prieſt: O ſeer returne into the citie in peace: and Achimaas thy ſonne, and Ionathas the ſonne of Abiathar, your two ſonnes let them be with you."
+        },
+        {
+          "verse": 28,
+          "text": "Behold I wil be hid in the champayne of the deſert, til there come word from you aduertiſing me."
+        },
+        {
+          "verse": 29,
+          "text": "Sadoc therefore and Abiathar caryed backe the Arke of God into Ieruſalem: and they taried there."
+        },
+        {
+          "verse": 30,
+          "text": "Moreouer Dauid went vp mount Oliuet, climbing & weeping, going bare foote, and his head <na>(b)</na> couered, yea and al the people which was with him, their head couered went vp weeping.",
+          "notes": [
+            {
+              "label": "b",
+              "text": "He couered his head that he might not be ſeene to weepe, leſt he ſhould diſcorege the people. neuertheles the people alſo wept, and likewiſe couered their heades.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 31,
+          "text": "And it was told Dauid that Achitophel alſo was in the conſpiracie with Abſalom, and Dauid ſayd: Infatuate o Lord I beſech thee, the counſel of Achitophel."
+        },
+        {
+          "verse": 32,
+          "text": "And when Dauid went vp to the toppe of the mount, wherein he would adore our Lord, behold there mette him Chuſai the Arachite, his garment rent and his head ful of earth."
+        },
+        {
+          "verse": 33,
+          "text": "And Dauid ſayd to him: If thou come with me, thou shalt be a burden to me:"
+        },
+        {
+          "verse": 34,
+          "text": "but if thou returne into the citie, and wilt ſay to Abſalom: I am thy ſeruant, o king: as I haue beene thy fathers ſeruant, ſo I wil be thy ſeruant: thou shalt defeate the counſel of Achitophel."
+        },
+        {
+          "verse": 35,
+          "text": "And thou haſt with thee Sadoch, and Abiathar the prieſts: and euery word whatſoeuer thou shalt heare from out of the kinges houſe, thou shalt tel Sadoc, and Abiathar the prieſtes."
+        },
+        {
+          "verse": 36,
+          "text": "And there are with them their two ſonnes Achimaas the ſonne of Sadoc, and Ionathas the ſonne of Abiathar: and you shal ſend by them vnto me euery word whatſoeuer you shal heare."
+        },
+        {
+          "verse": 37,
+          "text": "Chuſai therefore the frend of Dauid coming into the citie, Abſalom alſo entred into Ieruſalem."
+        }
+      ],
+      "summary": "Abſalom getteth fauour of the people, 7. and conſpireth in Hebron agaynſt his father. 14. VVho fleeing, 19. with difficultie permitteth Ethai a ſtranger to goe with him: 24. but ſendeth Sadoc, and other prieſtes and leuites with the arke back into the citie. 31. Sendeth Chuſai to defeate Achitophels counſel."
+    },
+    {
+      "chapter": 16,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "AND when Dauid had paſſed a litle the toppe of the Mount, Siba the ſeruant of Miphiboſeth appeared coming to meete him, with two aſſes, which were loden with two hundred loaues, and a hundred bunches of rayſens, an hundred maſſes of figges, and a bottel of wine."
+        },
+        {
+          "verse": 2,
+          "text": "And the king ſaid to Siba: What meane theſe thinges? And Siba anſwered: The aſſes are for the kinges houshould to ſitte on: and the loaues and the figges to eate for thy ſeruantes, and the wine to drinke if any man shal fainte in the deſert."
+        },
+        {
+          "verse": 3,
+          "text": "And the king ſaid: Where is thy maſters ſonne? And Siba anſwered the king: He hath remained in Ieruſalem, ſaying: This day wil the houſe of Iſrael reſtore me the kingdom of my father."
+        },
+        {
+          "verse": 4,
+          "text": "And the king ſaid to Siba: <na>(a)</na> Let al thinges be thine that were Miphiboſeths. And Siba ſaid: I beſech thee let me find grace before thee, my lord king.",
+          "notes": [
+            {
+              "label": "a",
+              "text": "King Dauid was here abuſed by falſe information: to which he ought not ſo eaſely to haue geuen credite. <i>chap. 19. v. 24</i>.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 5,
+          "text": "King Dauid therefore came as farre as Bahurim: & behold there came forth thence a man of the kinred of the houſe of Saul named Semei, the ſonne of Sera, and he proceded going forth, & curſed."
+        },
+        {
+          "verse": 6,
+          "text": "And he threw ſtones againſt Dauid, & againſt al the ſeruantes of king Dauid & the whole people, & al the warriers went on the right, and the left ſide of the king."
+        },
+        {
+          "verse": 7,
+          "text": "And thus ſpake Semei when he curſed the king: Come forth, come forth thou man of bloud, and man of Belial."
+        },
+        {
+          "verse": 8,
+          "text": "Our Lord hath repayed thee al the bloud of the houſe of Saul: becauſe thou haſt inuaded the kingdom for him, and our Lord hath geuen the kingdom into the hand of Abſalom thy ſonne: and behold thyne euiles preſſe thee, becauſe thou art a man of bloud."
+        },
+        {
+          "verse": 9,
+          "text": "And Abiſai the ſonne of Seruia ſaid to the king: Why curſeth this dead dogge my lord the king? I wil goe, and ſtrike of his head."
+        },
+        {
+          "verse": 10,
+          "text": "And the king ſaid: What is it to me and you, ye ſonnes of Saruia? Let him alone that he may curſe: for our Lord hath <na>(b)</na> commanded him to curſe Dauid: and who is he that dare ſay, why hath he ſo done?",
+          "notes": [
+            {
+              "label": "b",
+              "text": "God ſuffered Semei, being of his owne freewil malicious for punishment of Dauids ſinnes to curſe him but was not the author of his malice, for ſo Semei had committed no fault therein, and then he could not lawfully haue benne punished for it, as he was. <i>3. Reg. 2</i>.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 11,
+          "text": "And the king ſaid to Abiſai, and to al his ſeruantes: Behold my ſonne, that came out of my wombe, ſeeketh my life: how much more the ſonne of Iemini? let him alone that he may curſe according to the precept of our Lord:"
+        },
+        {
+          "verse": 12,
+          "text": "if perhaps our Lord may reſpect mine affliction, and our Lord may render me good for this dayes curſing."
+        },
+        {
+          "verse": 13,
+          "text": "Dauid therefore walked and his companie in the way with him. And Semei by the banke on the hils ſide, went ouer againſt him, curſing, and caſting ſtones againſt him, and ſprinkling earth."
+        },
+        {
+          "verse": 14,
+          "text": "The king therefore came, and al the people with him wearie, and they were refreſhed there."
+        },
+        {
+          "verse": 15,
+          "text": "But Abſalom and al his people entered into Ieruſalem, yea and Achitophel with him."
+        },
+        {
+          "verse": 16,
+          "text": "And when Chuſai the Arachite Dauids frend was come to Abſalom, he ſaid to him: God ſaue thee ô king, God ſaue thee ô king."
+        },
+        {
+          "verse": 17,
+          "text": "To whom Abſalom, is this, quoth he, thy kindenes toward thy frend? why wenteſt thou not with thy frend?"
+        },
+        {
+          "verse": 18,
+          "text": "And Chuſai anſwered Abſalom: Not ſo: becauſe I wil be his, whom our Lord hath choſen, and al this people, and al Iſrael, and with him wil I tarie."
+        },
+        {
+          "verse": 19,
+          "text": "Yea that I may adde this alſo, whom ſhal I ſerue? not the kinges ſonne? as I haue ſerued thy father, ſo wil I ſerue thee alſo."
+        },
+        {
+          "verse": 20,
+          "text": "And Abſalom ſaid to Achitophel: Conſult what we ought to doe."
+        },
+        {
+          "verse": 21,
+          "text": "And Achitophel ſaid to Abſalom: Goe in to the concubines of thy father, which he hath left to keepe the houſe: <na>(c)</na> that when al Iſrael shal heare that thou haſt defiled thy father, their handes may be ſtrengthened with thee.",
+          "notes": [
+            {
+              "label": "c",
+              "text": "The people doubting leſt Abſalom might be reconciled to his father; were not aſſured vnto him til they ſaw ſuch a crime committed as ſemed to make reconciliation impoſſible. So al rebelles and vſurpers of others right, ſeeke by ſome enormious fact to make their adherentes and folowers ſure vnto them: but God plagueth them in the end, as he did both Achitophel and Abſalom.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 22,
+          "text": "They pitched therefore a tent for Abſalom in the houſe toppe, and he went in to his fathers concubines before al Iſrael."
+        },
+        {
+          "verse": 23,
+          "text": "And the counſel of Achitophel, which he gaue in thoſe dayes, as if a man ſhould conſult God: ſo was al the counſel of Achitophel, both when he was with Dauid, and when he was with Abſalom."
+        }
+      ],
+      "summary": "Siba bringing victuals obtaineth (by falſe ſuggeſtion) his maiſter Miphiboſeths enheritance. 5. Semei curſeth, and throweth ſtones at the king, who neuertheles forbiddeth to kil him. 15. Abſalom entreth into Hieruſalem, 16. intertayneth Chuſai, 20. and by Achitophels aduiſe lieth with his fathers concubines."
+    },
+    {
+      "chapter": 17,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "ACHITOPHEL therefore ſaid to Abſolom: I wil chooſe me twelue thouſand men, and ryſing I wil purſew Dauid this night."
+        },
+        {
+          "verse": 2,
+          "text": "And falling vpon him (for as much as he is weary, and of weakened handes) I wil ſtrike him: and when al the people is fled, that is with him, I ſhal ſtrike the king"
+        },
+        {
+          "verse": 3,
+          "text": "being deſolate. And I shal reduce al the people, as one man is wont to returne: for thou ſeekeſt one man: and al the people shal be in peace."
+        },
+        {
+          "verse": 4,
+          "text": "And his ſaying pleaſed Abſalom, and al the ancientes of Iſrael."
+        },
+        {
+          "verse": 5,
+          "text": "But Abſalom ſayd: Cal Chuſai the Arachite, and let vs heare what he alſo ſayeth."
+        },
+        {
+          "verse": 6,
+          "text": "And when Chuſai was come to Abſalom, Abſalom ſayd to him: This maner of ſpeache ſpake Achitophel: shal we doe it or no? What counſel geueſt thou?"
+        },
+        {
+          "verse": 7,
+          "text": "And Chuſai ſayd to Abſalom: It is not good counſel, that Achitophel hath geuen this time."
+        },
+        {
+          "verse": 8,
+          "text": "And agayne Chuſai inferred: Thou knoweſt thy father, and the men that are with him, to be verie valiant, and of fel courage, as if a beare in the wood her whelpes being taken away should rage: yea and thy father is a man of warre, neither wil he abyde with the people."
+        },
+        {
+          "verse": 9,
+          "text": "Perhaps he lyeth now hid ſecretely in caues, or in ſome one place where he liſt: and when any one shal fal in the beginning, there shal one heare whoſoeuer shal heare it, & ſay: There is made a ſlaughter in the people that folowed Abſalom."
+        },
+        {
+          "verse": 10,
+          "text": "And euerie one of the moſt valiant whoſe hart is as it were a lyons, shal fainte for feare: for al the people of Iſrael knowe thy father to be a valiant man, and that al be ſtrong which are with him."
+        },
+        {
+          "verse": 11,
+          "text": "But this ſemeth vnto me to be good counſel: Let al Iſrael be gathered to thee, from Dan to Berſabee, as the ſand of the ſea innumerable: and thou shalt be in the middes of them."
+        },
+        {
+          "verse": 12,
+          "text": "And we shal ſette vpon them in what place ſoeuer they shal be found: and we shal couer them, as dew is wont to fal vpon the earth: and we shal not leaue of the men, that are with him, not ſo much as one."
+        },
+        {
+          "verse": 13,
+          "text": "And if he shal enter into any citie, al Iſrael shal caſt ropes vpon that citie round about, and we wil drawe it into the torrent, that there be not found therof not ſo much as a litle ſtone."
+        },
+        {
+          "verse": 14,
+          "text": "And Abſalom ſayd, and al the children of Iſrael: The counſel of Chuſai the Arachite is better then the counſel of Achitophel: and by the wil of our Lord was the profitable counſel of Achitophel defeated, that our Lord might bring in euil vpon Abſalom."
+        },
+        {
+          "verse": 15,
+          "text": "And Chuſai ſayd to Sadoc and Abiathar the prieſtes: In this and this maner gaue Achitophel counſel to Abſalom, and to the Ancientes of Iſrael: and I gaue ſuch and ſuch counſel."
+        },
+        {
+          "verse": 16,
+          "text": "Now therfore ſend quickly, and tel Dauid, ſaying: Tarie not this night in the champayne of the deſert, but without delay paſſe ouer: leſt perhaps the king be ſwalowed vp, and al the people that is with him."
+        },
+        {
+          "verse": 17,
+          "text": "And Ionathas & Achimaas ſtood by the Fountayne rogel: there went a maide and told them: and they went forward, to report the meſſage to king Dauid: for they could not be ſeene, nor enter into the citie."
+        },
+        {
+          "verse": 18,
+          "text": "And a certayne boy ſaw them, and told Abſalom: but they making haſt entered into the houſe of a certayne man in Bahurim, who had a wel in his court, and they went downe into it."
+        },
+        {
+          "verse": 19,
+          "text": "And a woman tooke, and ſpred a couering ouer the mouth of the wel, as it were drying ſodde barley: and ſo the thing was not knowen."
+        },
+        {
+          "verse": 20,
+          "text": "And when Abſaloms ſeruantes were come into the houſe, they ſayd to the woman: Where is Achimaas, and Ionathas? And the woman anſwered them: They paſſed in haſt, hauing taſted a litle water. But they that ſought, when they had not found, returned to Ieruſalem."
+        },
+        {
+          "verse": 21,
+          "text": "And when theſe were gone, they went vp out of the wel, and going on told king Dauid, and ſayd: Aryſe ye, and paſſe quickly the riuer: becauſe this maner of counſel hath Achitophel geuen againſt you."
+        },
+        {
+          "verse": 22,
+          "text": "Dauid therfore aroſe, and al the people that was with him, and they paſſed ouer Iordan, vntil it waxed light, and not one at al was remayning, which did not paſſe the riuer."
+        },
+        {
+          "verse": 23,
+          "text": "Moreouer Achitophel ſeing that his counſel was not executed, ſadled his aſſe, and roſe and went into his houſe and into his citie: and taking order with his houſe, <na>(a)</na> hanged him ſelf, and was buried in the ſepulchre of his father.",
+          "notes": [
+            {
+              "label": "a",
+              "text": "Bad counſail often falleth worſt to the counſeller.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 24,
+          "text": "But Dauid came into the Campe, and Abſalom paſſed ouer Iordan, he and al the men of Iſrael with him."
+        },
+        {
+          "verse": 25,
+          "text": "But Abſalom appoynted Amaſa for Ioab ouer the armie: and Amaſa was the ſonne of a man, which was called Iethra of Iezrael, who went in to Abigail the daughter of Naas, the ſiſter of Saruia which was the mother of Ioab."
+        },
+        {
+          "verse": 26,
+          "text": "And Iſrael camped with Abſalom in the Land of Galaad."
+        },
+        {
+          "verse": 27,
+          "text": "And when Dauid was come into the Campe, Sobi the ſonne of Naas of Rabbath the ſonnes of Ammon, and Machir the ſonne of Amihel of Lodabar, & Berzellai the Galaadite of Rogelim,"
+        },
+        {
+          "verse": 28,
+          "text": "preſented vnto him hanginges, and tapeſtrie, and earthen veſſels, wheate, and barley, and meale, and polent, and beanes, and rishe, and fryed peaſe,"
+        },
+        {
+          "verse": 29,
+          "text": "and honie, and butter, sheepe, & fatte calues. and they gaue to Dauid and the people, that was with him, to eate: for they ſuſpected that the people with hunger and thyrſt was faynte in the deſert."
+        }
+      ],
+      "summary": "Achitophel counſelleth Abſolom: preſenly to aſſault his father with forces, 7. Chuſai perſwadeth the contrarie, 15. and ſecretly aduertiſeth the king therof. 23. Achitophel hangeth him ſelf. 25. Abſolom appointeth Amaſa general of his armie. 27. Other freindes bring victuals to the kinges campe."
+    },
+    {
+      "chapter": 18,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "DAVID therfore hauing viewed his people, appointed ouer them tribunes & centurions,"
+        },
+        {
+          "verse": 2,
+          "text": "and gaue the third part of the people vnder the hand of Ioab, and the third part vnder the hand of Abiſai the ſonne of Seruia the brother of Ioab, and the third part vnder the hand of Ethai, who was of Geth: and the king ſaid to the people: I alſo wil goe forth with you."
+        },
+        {
+          "verse": 3,
+          "text": "And the people anſwered: Thou shalt not goe forth: for whether we shal flee, it wil be no great importance to them of vs: or whether the halfe part of vs shal fal, they wil not greatly care: becauſe thou alone art accounted for ten thouſandes: it is better therefore that thou be in the citie to ayde vs."
+        },
+        {
+          "verse": 4,
+          "text": "To whom the king ſaid: What ſeemeth good to you, that wil I doe. The king therfore ſtoode beſide the gate: and al the people went forth by their troupes, by hundredes and by thouſandes."
+        },
+        {
+          "verse": 5,
+          "text": "And the King commanded Ioab, and Abiſai, and Ethai, ſaying: <na>(b)</na> Saue me the child Abſalom. And al the people heard the King commanding al the princes for Abſalom.",
+          "notes": [
+            {
+              "label": "b",
+              "text": "Dauid moued with compaſſion towardes his ſonne Abſalom, being in actual rebellion againſt him prefigured Chriſts compaſſion, towards his perſecuters, being his creatures, praying for them in his paſſion. <i>s. Ambroſe in Pſal. 118. v. 108</i>.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 6,
+          "text": "The people therfore went out into the filde againſt Iſrael, & the battel was fought in the foreſt of Ephraim."
+        },
+        {
+          "verse": 7,
+          "text": "And the people of Iſrael was ſlayne there of Dauids armie, and there was made a great ſlaughter in that day, of twentie thouſand."
+        },
+        {
+          "verse": 8,
+          "text": "And the battel there was diſperſed vpon the face of al the earth, and there were manie moe, whom the foreſt had conſumed of the people, then they whom the ſword deuoured in that day."
+        },
+        {
+          "verse": 9,
+          "text": "And it chanced that Abſalom mette the ſeruantes of Dauid, ſitting on a mule: and when the mule was gone in vnder a thicke oke and a great, his head ſtucke to the oke: and he hanging betwen heauen and earth, the mule that he rode vpon paſſed through."
+        },
+        {
+          "verse": 10,
+          "text": "And one ſawe this & told Ioab: ſaying: I ſaw Abſolom hang vpon an oke."
+        },
+        {
+          "verse": 11,
+          "text": "And Ioab ſayd to the man that told him: If thou ſaweſt him, why didſt thou not nayle him to the earth, and I had geuen thee ten ſicles of ſiluer, and one belt?"
+        },
+        {
+          "verse": 12,
+          "text": "Who ſayd to Ioab: If thou wouldeſt pay downe in my handes a thouſand peeces of ſiluer, I would not lay my handes vpon the kinges ſonne: for in our hearing the king commanded thee, and Abiſai, and Ethai, ſaying: Keepe me the child Abſalom."
+        },
+        {
+          "verse": 13,
+          "text": "Yea and if I had done agaynſt my life boldly, this could not haue beene hid from the king, and thou wouldeſt haue ſtand agaynſt it?"
+        },
+        {
+          "verse": 14,
+          "text": "And Ioab ſayd: Not as thou wilt, but I wil ſet vpon him before thee. He tooke therefore three lances in his hand, and thruſt them in the hart of Abſalom: and when as yet he panted, for life ſticking on the oke,"
+        },
+        {
+          "verse": 15,
+          "text": "there ranne ten yong men the ſquyers of Ioab, and ſtriking they killed him."
+        },
+        {
+          "verse": 16,
+          "text": "And Ioab ſounded the trumpet, and ſtayed the people, that they should not purſew Iſrael fleeing, willing to ſpare the multitude."
+        },
+        {
+          "verse": 17,
+          "text": "And they tooke Abſalom, and caſt him in the forreſt; into a great pitte, and they heaped vpon him an exceding great heape of ſtones: but al Iſrael fled into their tabernacles."
+        },
+        {
+          "verse": 18,
+          "text": "Moreouer Abſalom had erected to himſelf, whiles he yet liued, a title which is in the kinges Valley: for he ſaid: I haue <na>(c)</na> no ſonne, and this shal be a monument of my name. And he called the title by his name, and it is called The hand of Abſalom, vntil this preſent day.",
+          "notes": [
+            {
+              "label": "c",
+              "text": "Al his ſonnes being dead, for he had once three ſonnes & a daughter. <i>chap. 14. v. 27</i>.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 19,
+          "text": "And Achimaas the ſonne of Sadoc ſaid: I wil runne, and tel the king, that our Lord hath done him iudgement of the hand of his enemies."
+        },
+        {
+          "verse": 20,
+          "text": "To whom Ioab ſaid: Thou shalt not be meſſenger this day, but thou shalt carie the meſſage an other day: to day I wil not haue thee carie the meſſage, for the kinges ſonne is dead."
+        },
+        {
+          "verse": 21,
+          "text": "And Ioab ſaid to Chuſai: Goe, and tel the king what thou haſt ſeene. Chuſai adored Ioab, and ranne."
+        },
+        {
+          "verse": 22,
+          "text": "And againe Achimaas the ſonne of Sadoc ſaid to Ioab: What letteth if I alſo runne after Chuſai? And Ioab ſayd to him: Why wilt thou runne my ſonne? thou shalt not be caryer of good tydinges."
+        },
+        {
+          "verse": 23,
+          "text": "Who anſwered: But what if I runne? And he ſaid to him: Runne. Achimaas therfore running a nere way out went Chuſai."
+        },
+        {
+          "verse": 24,
+          "text": "And Dauid ſate betwen the two gates: and the watchman that was in the toppe of the gate vpon the wal, lifting vp his eies, ſaw a man running alone."
+        },
+        {
+          "verse": 25,
+          "text": "And crying out he told the king: and the king ſaid: If he be alone, there are good tydinges in his mouth. And he making haſt, and coming neerer,"
+        },
+        {
+          "verse": 26,
+          "text": "the watchman ſaw an other man running, and crying alowde in the toppe, he ſaid: There appeareth vnto me an other man running alone. And the king ſaid: And this is a good meſſenger."
+        },
+        {
+          "verse": 27,
+          "text": "And the watchman, I behold, ſaid he, the running of the former, as it were the running of Achimaas the ſonne of Sadoc. And the king ſaid: He is a good man: and cometh bringing good newes."
+        },
+        {
+          "verse": 28,
+          "text": "And Achimaas crying, ſayd to the king: God ſaue thee ô king. And adoring the king before him flatte to the earth, he ſaid: Bleſſed be our Lord thy God, who hath shut vp the men that haue lifted vp their handes againſt my lord the king."
+        },
+        {
+          "verse": 29,
+          "text": "And the king ſayd: Is the child Abſalom ſafe? And Achimaas ſayd? I ſaw a great tumult, when thy ſeruant Ioab ſent, ô king, me thy ſeruant: other thing I know not."
+        },
+        {
+          "verse": 30,
+          "text": "To whom the king, Paſſe, ſayd he, and ſtand here. And when he had paſſed, and ſtood,"
+        },
+        {
+          "verse": 31,
+          "text": "Chuſai appeared: and coming he ſayd: I bring good tydinges my lord king: for our Lord hath iudged for thee this day of the hand of al that haue ryſen againſt thee."
+        },
+        {
+          "verse": 32,
+          "text": "And the king ſayd to Chuſai: Is the child Abſalom ſafe? To whom Chuſai anſwering, ſayd: Let the enemies of my lord the king become, as the child, and al that ryſe againſt him vnto euil."
+        },
+        {
+          "verse": 33,
+          "text": "The king therfore being made ſorie, went vp into the high chamber of the gate, and wept. And thus he ſpake, going: My ſonne Abſalom, Abſalom my ſonne: who would graunt me that I might die for thee, Abſalom my ſonne, my ſonne Abſalom."
+        }
+      ],
+      "summary": "King Dauid diſpoſeth his armie in three partes, geuing ſpecial charge to ſaue Abſalom aliue. 9. VVhom neuertheles (hanging by the heares of his head in an oke) Ioab killeth: 16. and ſaueth the common people. 19. VVhich Dauid vnderſtanding greatly bewayleth Abſalom."
+    },
+    {
+      "chapter": 19,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "AND it was told Ioab, that the king wept, and mourned for his ſonne:"
+        },
+        {
+          "verse": 2,
+          "text": "And the victorie was turned into mourning that day to al the people: for the people heard it ſayd in that day: The king ſoroweth vpon his ſonne."
+        },
+        {
+          "verse": 3,
+          "text": "And the people shunned that day to enter into the citie, as a people turned, & fleing out of battel is wont to shrinke aſide."
+        },
+        {
+          "verse": 4,
+          "text": "Moreouer the king couered his head, and cried with a lowd voice: O my ſonne Abſalom, o Abſalô my ſonne, o my ſonne."
+        },
+        {
+          "verse": 5,
+          "text": "Ioab therfore entring in to the king, into his houſe, ſayd: Thou haſt cõfounded this day the countenances of al thy ſeruantes, that haue ſaued thy life, and the life of thy ſonnes, and thy daughters, and the life of thy wiues, and the life of thy concubines."
+        },
+        {
+          "verse": 6,
+          "text": "Thou loueſt them that hate thee, and thou hateſt them that loue thee: and thou haſt shewed this day that thou careſt not for thy nobles, and for thy ſeruantes: and in deede I knowe now, that if Abſalom liued, and al we had beene ſlayne, then it would pleaſe thee."
+        },
+        {
+          "verse": 7,
+          "text": "Now therfore ariſe, and come forth, and ſpeaking vnto them ſatisfie thy ſeruantes: for I ſweare to thee by our Lord, that if thou wilt not goe forth, not one verely wil remayne with thee this night: and this shal be worſe for thee, then al the euils, which haue come vpon thee from thy youth vntil this preſent."
+        },
+        {
+          "verse": 8,
+          "text": "The king therfore aroſe and ſate in the gate: and it was told al the people that the king ſate in the gate: and al the multitude came forth before the king, but Iſrael fled into their tabernacles."
+        },
+        {
+          "verse": 9,
+          "text": "Al the people alſo ſtroue in al the tribes of Iſrael, ſaying: The king hath deliuered vs out of the hand of our enemies, he hath ſaued vs from the head of the Philiſtianes: and now he fled out of the land for Abſalom."
+        },
+        {
+          "verse": 10,
+          "text": "But Abſalom whom we annoynted ouer vs, is dead in the battel: how long are you ſtil, and reduce not the king?"
+        },
+        {
+          "verse": 11,
+          "text": "But king Dauid ſent to Sadoc, and Abiathar the prieſtes, ſaying: Speake to the Ancientes of Iuda, ſaying: Why come you laſt to bring backe the king into his houſe? (And the ſaying of al Iſrael was come to the king in his houſe.)"
+        },
+        {
+          "verse": 12,
+          "text": "You are my brethren, you my bone, and my flesh, why do you laſt bring backe the king?"
+        },
+        {
+          "verse": 13,
+          "text": "And ſay ye to Amaſa: Art not thou my bone, and my flesh? Theſe thinges do God to me, and theſe adde he, if thou be not the chiefe captayne of warfare before me alwayes for Ioab."
+        },
+        {
+          "verse": 14,
+          "text": "And he inclined the hart of al the men of Iuda, as it were of one man: and they ſent to the king, ſaying: Returne thou, and al thy ſeruantes."
+        },
+        {
+          "verse": 15,
+          "text": "And the king returned, and came as far as Iordan, and al Iuda came as far as Galgal to meete the king, and to bring him ouer Iordan."
+        },
+        {
+          "verse": 16,
+          "text": "And Semei the ſonne of Gera the ſonne of Iemini of Bahurim made haſt, and went downe with the men of Iuda to meete king Dauid"
+        },
+        {
+          "verse": 17,
+          "text": "with a thouſand men of Benjamin, and Siba the ſeruant of the houſe of Saul: and his fiftene ſonnes, and twentie ſeruantes were with him: and rushing into Iordan,"
+        },
+        {
+          "verse": 18,
+          "text": "paſſed the fordes before the king, that they might helpe ouer the kinges houshould, and doe according to his commandement. And Semei the ſonne of Gera proſtrate before the king, when he had now paſſed Iordan,"
+        },
+        {
+          "verse": 19,
+          "text": "ſayd to him: Impute not to me my lord the iniquitie, nor remember the iniuries of thy ſeruant in the day that thou my lord king wenteſt out of Ieruſalem, nor put it in thy hart o king."
+        },
+        {
+          "verse": 20,
+          "text": "For I thy ſeruant acknowledge my ſinne: and therefore this day I am firſt come of al <na>(a)</na> the houſe of Ioſeph, and am deſcended to meete my lord the king.",
+          "notes": [
+            {
+              "label": "a",
+              "text": "Al the eleuen tribes are called by the name of Ioſeph, being chiefe after Iuda. So Semei not of the proper tribe of Ioſeph but of Beniamin, pleading for pardon of his former fault, alleageth that he came firſt of the eleuen tribes, to ſubmitte him ſelf and ſerue the king.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 21,
+          "text": "But Abiſai the ſonne of Saruia anſwering, ſayd: What shal Semei for theſe wordes not be ſlayne, because he reuiled the annoynted of our Lord?"
+        },
+        {
+          "verse": 22,
+          "text": "And Dauid ſayd: What is to me and you ye ſonnes of Saruia? Why are you made this day as ſatan to me? Shal there a man be killed in Iſrael to day? Doe I not know that this day I am made king ouer Iſrael?"
+        },
+        {
+          "verse": 23,
+          "text": "And the king ſayd to Semei: Thou shalt not die. And he ſware to him."
+        },
+        {
+          "verse": 24,
+          "text": "Miphiboſeth alſo the ſonne of Saul came downe to meete the king, his feete vnwashed, and his beard not pouled: and he had not washed his garmentes from the day that the king went forth, vntil the day of his returne in peace."
+        },
+        {
+          "verse": 25,
+          "text": "And when he had mette the king at Ieruſalem, the king ſayd to him: Why cameſt thou not with me Miphiboſeth?"
+        },
+        {
+          "verse": 26,
+          "text": "And he anſwering, ſayd: My lord king, my ſeruant contemned me: and I thy ſeruant ſpake to him that he should ſadle me an aſſe, that getting on I might goe with the king: for I thy ſeruant am lame."
+        },
+        {
+          "verse": 27,
+          "text": "Moreouer he hath alſo accuſed me thy ſeruant to thee my lord king: but thou my lord king art as an Angel of God, doe what pleaſeth thee."
+        },
+        {
+          "verse": 28,
+          "text": "For neither was my fathers houſe ought els, but guiltie of death to my lord king: and thou haſt put me thy ſeruant among the gueſtes of thy table? What iuſt complaynt therfore haue I? or what can I further crie out to the king?"
+        },
+        {
+          "verse": 29,
+          "text": "The king therfore ſayd to him: What ſpeakeſt thou any more? That is determined which I haue ſpoken: Thou, and Siba diuide the poſſeſſions."
+        },
+        {
+          "verse": 30,
+          "text": "And Miphiboſeth anſwered the the king: Yea let him take al, for ſo much as my lord king is returned peaceably into his houſe."
+        },
+        {
+          "verse": 31,
+          "text": "Berzellai alſo the Galaadite, coming downe from Rogelim, brought the king ouer Iordan, being readie alſo to attend on him beyond the riuer."
+        },
+        {
+          "verse": 32,
+          "text": "And Berzellai the Galaadite was verie old, that is to ſay, of foure ſcore yeares, and he gaue the king victuals, when he abode in the Fild: for he was an exceding rich man."
+        },
+        {
+          "verse": 33,
+          "text": "The king therfore ſayd to Berzellai: Come with me, that thou mayſt reſt ſecure with me in Ieruſalem."
+        },
+        {
+          "verse": 34,
+          "text": "And Berzellai ſayd to the king: How manie are the daies of the yeares of my life, that I should goe vp with the king into Ieruſalem?"
+        },
+        {
+          "verse": 35,
+          "text": "I am this day foure ſcore yeares old, are my ſenſes quicke to diſcerne ſweete, or ſowre? or can meate or drinke delight thy ſeruant? or can I heare more the voyce of ſinging men and ſinging wemen? Why should thy ſeruant be a burden to my lord the king?"
+        },
+        {
+          "verse": 36,
+          "text": "I thy ſeruant wil goe forward a litle from Iordan with thee: I neede not this recompenſe,"
+        },
+        {
+          "verse": 37,
+          "text": "but I beſech thee that I thy ſeruant may returne, and die in my citie, and be buried by the ſepulchre of my father, and my mother. But there is thy ſeruant Chamaam, let him goe with thee, my lord king, and doe to him whatſoeuer ſemeth good to thee."
+        },
+        {
+          "verse": 38,
+          "text": "The king therfore ſayd to him: Let Charnaam paſſe on with me, and I wil doe for him whatſoeuer shal pleaſe thee, and al, that thou shalt aske of me, thou ſhalt obtayne."
+        },
+        {
+          "verse": 39,
+          "text": "And when al the people and the king had paſſed Iordan, the king kiſſed Berzellai, and bleſſed him: and he returned into his place."
+        },
+        {
+          "verse": 40,
+          "text": "The king therfore paſſed into Galgal, and Chamaam with him, and al the people of Iuda had brought ouer the king, and the halfe part onlie of the people of Iſrael were preſent."
+        },
+        {
+          "verse": 41,
+          "text": "Therfore al the men of Iſrael concurring to the king, ſayd to him: Why haue our brethren the men of Iuda ſtolen thee, and brought the king and his houshould ouer Iordan, and al the men of Dauid with him?"
+        },
+        {
+          "verse": 42,
+          "text": "And euerie man of Iuda anſwered the men of Iſrael. Becauſe the king is neerer to me: why art thou angrie for this matter? haue we eaten any thing of the kinges, or were there giftes geuen vs?"
+        },
+        {
+          "verse": 43,
+          "text": "And a certayne man of Iſrael anſwered the men of Iuda, and ſayd: I am greater by ten partes with the king, & to me pertayneth Dauid more then to thee: why haſt thou done me wrong, and it was not told me firſt, that I might bring backe my king? And the men of Iuda anſwered more sharply then the men of Iſrael."
+        }
+      ],
+      "summary": "Dauid moued by Ioabs admonition, 8. ceaſeth mourning for Abſalom, and reconcileth the rebels: 19. Semei is pardoned. 24. Miphiboſeth clereth him ſelf of his ſeruantes falſe accuſation, yet recouereth not his whole right. 32. Berzellai is courteouſly intreated. 40. The other tribes contend with Iuda for their affection to the king."
+    },
+    {
+      "chapter": 20,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "IT chanced alſo that there was there a man of Belial, named Seba, the ſonne of Bochri, a man of Iemini: and he ſounded the trumpet, and ſayd: We haue no part in Dauid, nor inheritance in the ſonne of Iſai: Returne into thy tabernacles Iſrael."
+        },
+        {
+          "verse": 2,
+          "text": "And al Iſrael was ſeparated from Dauid, and folowed Seba the ſonne of Bochri: but the men of Iuda ſtucke to their king from Iordan vnto Ieruſalem."
+        },
+        {
+          "verse": 3,
+          "text": "And when the king was come into his houſe to Ieruſalem, he tooke the ten wemen his concubines, which he had leift to keepe the houſe, and he deliuered them into cuſtodie, allowing them victuals: and he went not in vnto them, but they were shut vp vntil the day of their death liuing in widowhood. And the king ſayd to Amaſa:"
+        },
+        {
+          "verse": 4,
+          "text": "Cal me together al the men of Iuda agaynſt the third day, and be thou preſent."
+        },
+        {
+          "verse": 5,
+          "text": "Amaſa therfote went to cal together Iuda, and taryed beyond the time appoynted which the king had aſſigned him."
+        },
+        {
+          "verse": 6,
+          "text": "And Dauid ſayd to Abiſai: Now wil Seba the ſonne of Bochri more afflict vs, then Abſalom: take therefore the ſeruantes of thy Lord, and purſew him, leſt perhaps he finde fenſed cities, & eſcape vs."
+        },
+        {
+          "verse": 7,
+          "text": "There went forth therfore with him Ioabs men, Cerethi alſo and Phelethi: and al the ſtrong men yſſued forth of Ieruſalem to purſew Seba the ſonne of Bochri."
+        },
+        {
+          "verse": 8,
+          "text": "And when they were beſide the great ſtone, which is in Gabaon, Amaſa coming mette them. Moreouer Ioab was clothed with a ſtrayte cote according to the meaſure of his ſtature, and vpon it girded with a ſword hanging downe to the flanke, in a ſcabbarde, which being made for the purpoſe could with light mouing come forth and ſtrike."
+        },
+        {
+          "verse": 9,
+          "text": "Ioab therfore ſayd to Amaſa: God ſaue thee my brother. And he held with his right hand the chinne of Amaſa, as it were kiſſing him."
+        },
+        {
+          "verse": 10,
+          "text": "But Amaſa marked not the ſword, which Ioab had, who ſtrick him in the ſide, and powred out his bowels on the ground, neither added he the ſecond wound, and he dyed. And Ioab, and Abiſai his brother purſewed Seba the ſonne of Bochri."
+        },
+        {
+          "verse": 11,
+          "text": "In the meane time certayne men, when they ſtoode by the carcaſſe of Amala, Ioabs company, ſayd: Loe he that would haue beene for Ioab the companion of Dauid."
+        },
+        {
+          "verse": 12,
+          "text": "And Amaſa embrewed with bloud, lay in the middes of the way. A certayne man ſaw this that al the people ſtayed to ſee him, and he remoued Amaſa out of the way into the filde, and couered him with a garment, that they which paſſed might not ſtay becauſe of him."
+        },
+        {
+          "verse": 13,
+          "text": "He therefore being remoued out of the way, euery man paſſed folowing Ioab to purſew Seba the ſonne of Bochri."
+        },
+        {
+          "verse": 14,
+          "text": "Moreouer he had paſſed through al the tribes of Iſrael vnto Abela, and Bethmaaca: and al the choſen men were gathered together vnto him."
+        },
+        {
+          "verse": 15,
+          "text": "They therfore came, and aſſaulted him in Abela, and in Bethmaaca, and they compaſſed the citie with munitions, and the citie was beſieged: and al the multitude, that was with Ioab, laboured to deſtroy the walles."
+        },
+        {
+          "verse": 16,
+          "text": "And a wiſe woman cryed out from the citie: Heare ye, heare ye, tel Ioab: Approche hither, and I wil ſpeake with thee."
+        },
+        {
+          "verse": 17,
+          "text": "Who when he was come to her, she ſayd to him: Art thou Ioab? And he anſwered, I am. To whom she ſpake thus: Heare the wordes of thy handmayd. Who anſwered: I doe heare."
+        },
+        {
+          "verse": 18,
+          "text": "And she agayne ſayd: A ſaying was vſed in the old prouerbe: They that aske, let them aske in Abela: and ſo they proſpered."
+        },
+        {
+          "verse": 19,
+          "text": "Am not I she that anſwer truth in Iſrael, and thou ſeekeſt to ſubuert the citie, & to ouerthrowe a mother citie in Iſrael? Why throweſt thou downe hedlong the inheritance of our Lord?"
+        },
+        {
+          "verse": 20,
+          "text": "And Ioab anſwering, ſayd: God forbid, God forbid that I should, I do not throw downe, nor deſtroy."
+        },
+        {
+          "verse": 21,
+          "text": "The matter is not ſo, but a man of mount Ephraim, Seba the ſonne of Bochri by name, hath lifted vp his hand agaynſt king Dauid: Deliuer him onlie, and we wil depart from the citie. And the woman ſayd to Ioab: Behold his head shal be throwen to thee of the wal."
+        },
+        {
+          "verse": 22,
+          "text": "She therfore went to al the people, and ſpake to them wiſely: who threw the head of Seba the ſonne of Bochri being cut of, to Ioab. And he ſounded the trumpet, and they departed from the citie, euery one into their tabernacles: and Ioab returned to Ieruſalem vnto the king."
+        },
+        {
+          "verse": 23,
+          "text": "Ioab therfore was ouer al the armie of Iſrael: and Banaias the ſonne of Ioiada ouer the Cheretheites and Pheletheites."
+        },
+        {
+          "verse": 24,
+          "text": "But Aduram ouer the tributes: moreouer Ioſaphat the ſonne of Ahilud, was regiſter."
+        },
+        {
+          "verse": 25,
+          "text": "And Siua, a ſcribe: and Sadoc and Abiathar, prieſtes."
+        },
+        {
+          "verse": 26,
+          "text": "And Ira the Iairite was the <na>(a)</na> prieſt of Dauid.",
+          "notes": [
+            {
+              "label": "a",
+              "text": "Chiefe or great in familiaritie.",
+              "kind": "gloss"
+            }
+          ]
+        }
+      ],
+      "summary": "Seba raiſeth rebellion, is purſued by Ioab, (10. VVho in the way trecherouſly killeth Amaſa,) 13. Abela is beſieged, becauſe Seba ſaueth him ſelf there. 20. but his head being cut of and caſt ouer the wal to Ioab, the armie departeth. 23. Chief men in office are mentioned."
+    },
+    {
+      "chapter": 21,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "AND there came a famine in the daies of Dauid three yeares continually: and Dauid conſulted the oracle of our Lord. And our Lord ſayd: For Saul, and his bloudy houſe, becauſe he ſlewe the Gabaonites."
+        },
+        {
+          "verse": 2,
+          "text": "The king therfore calling the Gabaonites, ſayd to them. (Moreouer the Gabaonites were not of the children of Iſrael, but the reliques of the Amorrheites: For the children of Iſrael had ſworne to them, and Saul would ſtrike them of zeale, as it were for the children of Iſrael and Iuda.) <cr>[1]</cr>",
+          "cross_refs": [
+            {
+              "text": "Ioſue 9."
+            }
+          ]
+        },
+        {
+          "verse": 3,
+          "text": "Dauid therfore ſayd to the Gabaonites: What shal I do for you? And what shal be the expiation for you, that you may bleſſe the inheritance of our Lord?"
+        },
+        {
+          "verse": 4,
+          "text": "And the Gabaonites ſayd to him: We haue no queſtion vpon ſiluer and gold, but agaynſt Saul, and agaynſt his houſe: neither wil we that a man be ſlayne of Iſrael. To whom the king ſayd: What wil you then that I do for you?"
+        },
+        {
+          "verse": 5,
+          "text": "Who ſayd to the king? The man, that hath waſted vs and oppreſſed vs vniuſtly, we muſt ſo deſtroy, that there be not ſo much as one leift of his ſtocke in al the coaſtes of Iſrael."
+        },
+        {
+          "verse": 6,
+          "text": "Let there be geuen vs ſeuen men of his children, that we may crucifie them to our Lord in Gabaa of Saul, once the choſen of our Lord. And the king ſayd: I wil geue them."
+        },
+        {
+          "verse": 7,
+          "text": "And the king ſpared Miphiboſeth the ſonne of Ionathas the ſonne of Saul, for the oth of our Lord, that had beene betwen Dauid, and betwen Ionathas the ſonne of Saul."
+        },
+        {
+          "verse": 8,
+          "text": "The king therfore tooke the two ſonnes of Reſpha the daughter of Aia, whom she bare to Saul, Armoni, and Miphiboſeth: and the fiue ſonnes of Michol the daughter of Saul, which she bare to Hadriel the ſonne of Berzellai, that was of Molathi,"
+        },
+        {
+          "verse": 9,
+          "text": "and gaue them into the handes of the Gabaonites: who crucified them on a hil before our Lord: and theſe ſeuen dyed together in the firſt dayes of harueſt, when the reaping of barley began. And Reſpha the daughter of"
+        },
+        {
+          "verse": 10,
+          "text": "Aia taking a heare cloth, ſpred it vnder her vpon the rocke from the beginning of harueſt, til water dropped vpon them from heauen: and she ſuffered not the birdes to teare them by day, nor the beaſtes by night."
+        },
+        {
+          "verse": 11,
+          "text": "And the thinges were told Dauid, which Reſpha had done, the daughter of Aia, the concubine of Saul."
+        },
+        {
+          "verse": 12,
+          "text": "And Dauid went, and tooke the bones of Saul, and the bones of Ionathas his ſonne from the men of Iabes Galaad, who had ſtolen them out of the ſtreate of Bethſan, in the which the Philiſtijms hanged them when they had killed Saul in Gelboe."
+        },
+        {
+          "verse": 13,
+          "text": "And he caried thence the bones of Saul, and the bones of Ionathas his ſonne: and gathering the bones of them, that were crucified,"
+        },
+        {
+          "verse": 14,
+          "text": "they buried them with the bones of Saul, and of Ionathas his ſonne in the Land of Beniamin, in the ſide, in the ſepulchre of Cis his father: and they did al thinges that the king had commanded, and God was made propitious agayne to the land after theſe thinges."
+        },
+        {
+          "verse": 15,
+          "text": "And there was a battel made agayne of the Philiſtianes againſt Iſrael, and Dauid went downe, and his ſeruantes with him, and fought agaynſt the Philiſthijms. And Dauid faynting,"
+        },
+        {
+          "verse": 16,
+          "text": "Ieſbibenob, which was of the kinred of Arapha, the yron of whoſe ſpeare weyed three hundred ounces, and he was girded with a new ſword, aſſayed to ſtrike Dauid."
+        },
+        {
+          "verse": 17,
+          "text": "And Abiſai the ſonne of Saruia reskewed him, and ſtriking the Philiſtian killed him. Then ſware Dauids men, ſaying: Thou shalt no more goe forth with vs into battel, leſt thou put out the lampe of Iſrael."
+        },
+        {
+          "verse": 18,
+          "text": "There was alſo a ſecond battel in Gob againſt the Philiſtians: then ſtroke Sobochai of Huſathi, Saph of the ſtocke of Arapha of the kindred of the gyantes."
+        },
+        {
+          "verse": 19,
+          "text": "There was alſo a third battel in Gob agaynſt the Philiſtians, in the which Adeodatus the ſonne of the Foreſt a broderer the Bethlehemite ſtroke Goliath the Getheite, the shaft of whoſe ſpeare was as it were a weauers beame."
+        },
+        {
+          "verse": 20,
+          "text": "The fourth battel was in Geth: in the which was a tal man, that had ſix fingers and ſix toes on eche hand and foote, that is fowre and twentie, and he was of the race of Arapha."
+        },
+        {
+          "verse": 21,
+          "text": "And he blaſphemed Iſrael: and Ionathan the ſonne of Samaa the brother of Dauid ſtroke him."
+        },
+        {
+          "verse": 22,
+          "text": "Theſe foure were borne of Arapha in Geth, and they fel by the hand of Dauid, and of his ſeruantes."
+        }
+      ],
+      "summary": "Famine oppreſſing Iſrael three yeares, for the ſinne of Saul agaynſt the Gabaonites, 6. ſeuen of Sauls race (7. Miphiboſeth ſaued) are crucified. 12. Their bones with Sauls and Ionathas are buried in the Land of Beniamin. 15. Dauid hath foure great battels and victories againſt the Philiſtians."
+    },
+    {
+      "chapter": 22,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "AND Dauid ſpake to our Lord the wordes of this ſong, in the day that our Lord deliuered him out of the hand of al his enemies, and out of the hand of <na>(a)</na> Saul.",
+          "notes": [
+            {
+              "label": "a",
+              "text": "After that Dauid was deliuered from the handes of Saul (who firſt and longeſt & moſt dangerouſly of al men perſecuted him, and therfore is here ſpecially named) and from al his enimies, corporal & ſpiritual, when he had good repoſe of mind, his viſible enimies being ſubuerted, and his ſinnes remitted, acknowledging Gods infinite goodnes, by inſpiration of the Holie Ghoſt, made this Canticle of thankſgeuing, and praiſe of God. It is inſerted amongſt the Pſalmes the 17. in order, al one in ſenſe, ſo differing in ſome wordes that the one explicateth the other.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "And he ſayd: Our Lord is my rocke, and my ſtrength, and my ſauiour."
+        },
+        {
+          "verse": 3,
+          "text": "God is my ſtrong one, I wil hope in him: my shilde, and the horne of my ſaluation: my lifter vp, and my refuge: my ſauiour, from iniquitie thou wilt deliuer me."
+        },
+        {
+          "verse": 4,
+          "text": "Our Lord prayſe worthie wil I inuocate: and from mine enemies I shal be ſaued."
+        },
+        {
+          "verse": 5,
+          "text": "Becauſe the pangues of death haue compaſſed me: the ſtreames of Belial haue terrified me."
+        },
+        {
+          "verse": 6,
+          "text": "The ropes of hel haue compaſſed me: the ſnares of death haue preuented me."
+        },
+        {
+          "verse": 7,
+          "text": "In my tribulation I wil inuocate our Lord, and I wil crie my God: and he wil heare my voice out of his holie temple, and my crie shal come to his eares."
+        },
+        {
+          "verse": 8,
+          "text": "The earth quaked and trembled, the fundations of the mountaynes were ſtrycken, and shaken, becauſe he was angrie with them."
+        },
+        {
+          "verse": 9,
+          "text": "A ſmoke aroſe out of his noſethrels, and a fyre from his mouth shal deuoure: coles were kindled from him."
+        },
+        {
+          "verse": 10,
+          "text": "And he bowed the heauens, and deſcended: and miſte vnder his feete."
+        },
+        {
+          "verse": 11,
+          "text": "And he aſcended vpon the Cherubins, and flew: and ſlidde ouer the winges of the winde."
+        },
+        {
+          "verse": 12,
+          "text": "He put darkenes round about him a couer: ſtilling waters out of the clowdes of heauen."
+        },
+        {
+          "verse": 13,
+          "text": "By the shyning in his preſence: the coles of fire were kindled."
+        },
+        {
+          "verse": 14,
+          "text": "Our Lord wil thunder from heauen: and the high one wil geue his voice."
+        },
+        {
+          "verse": 15,
+          "text": "He shot his arrowes and diſperſed them: lightning, and conſumed them."
+        },
+        {
+          "verse": 16,
+          "text": "And the ouerflowinges of the ſea appeared, and the fundations of the world were diſcouered at the rebuking of our Lord, at the breathing of the ſpirit of his furie."
+        },
+        {
+          "verse": 17,
+          "text": "He ſent from hygh heauen, and tooke me, and drewe me out of manie waters."
+        },
+        {
+          "verse": 18,
+          "text": "He deliuered me from my moſt mightie enemie, and from them that hated me: becauſe they were ſtronger then I."
+        },
+        {
+          "verse": 19,
+          "text": "He preuented me in the day of my affliction, and our Lord became my ſtay."
+        },
+        {
+          "verse": 20,
+          "text": "And he brought me forth into latitude, he deliuered me, becauſe I wel pleaſed him."
+        },
+        {
+          "verse": 21,
+          "text": "Our Lord wil reward me according to my iuſtice: and according to the cleannes of my handes wil he render to me."
+        },
+        {
+          "verse": 22,
+          "text": "Becauſe I haue kept the wayes of our Lord, and haue not done impiouſly, from my God."
+        },
+        {
+          "verse": 23,
+          "text": "For al his iudgementes are in my ſight: and his preceptes I haue not remoued from me."
+        },
+        {
+          "verse": 24,
+          "text": "And I shal be perfect with him: and shal keepe my ſelf from myne iniquitie."
+        },
+        {
+          "verse": 25,
+          "text": "And our Lord wil reſtore vnto me according to my iuſtice: and according to the cleannes of my handes in the ſight of his eyes."
+        },
+        {
+          "verse": 26,
+          "text": "With the holie one thou shalt be holie: and with the ſtrong perfect."
+        },
+        {
+          "verse": 27,
+          "text": "With the elect thou shalt be elect: and with the peruerſe thou shalt be peruerted."
+        },
+        {
+          "verse": 28,
+          "text": "And the poore people thou wilt ſaue: and the hautie in thyne eies thou wilt humble."
+        },
+        {
+          "verse": 29,
+          "text": "Becauſe thou art my lampe o Lord: and thou wilt illuminate my darkenes."
+        },
+        {
+          "verse": 30,
+          "text": "For in thee I wil runne girded: in my God I wil leape ouer the wal."
+        },
+        {
+          "verse": 31,
+          "text": "God, his way immaculate, the word of our Lord is examined by fyre: he is the ſhield of al that truſt in him."
+        },
+        {
+          "verse": 32,
+          "text": "Who is God beſide our Lord: and who is ſtrong beſide our God?"
+        },
+        {
+          "verse": 33,
+          "text": "God who hath girded me with ſtrength: and made euen my perfect way."
+        },
+        {
+          "verse": 34,
+          "text": "Making my feete equal with the hartes, and ſetting me vpon my high places."
+        },
+        {
+          "verse": 35,
+          "text": "Teaching my handes vnto battel: and framing myne armes as it were a braſen bow."
+        },
+        {
+          "verse": 36,
+          "text": "Thou haſt geuen me the shield of thy ſaluation: and thy mildenes hath multiplied me."
+        },
+        {
+          "verse": 37,
+          "text": "Thou shalt enlarge my ſteppes vnder me: and myne ankles shal not fayle."
+        },
+        {
+          "verse": 38,
+          "text": "I wil purſew myne enemies, and bruiſe them: and wil not returne til I conſume them."
+        },
+        {
+          "verse": 39,
+          "text": "I wil conſume and breake them, that they riſe not: they shal fal vnder my feete."
+        },
+        {
+          "verse": 40,
+          "text": "Thou haſt girded me with ſtrength to battel: thou haſt bowed vnder me them that reſiſt me."
+        },
+        {
+          "verse": 41,
+          "text": "Myne enemies thou haſt made to turne to me the backe: them that hated me, and I shal deſtroy them."
+        },
+        {
+          "verse": 42,
+          "text": "They shal crie, and there shal not be to ſaue, to our Lord, and he wil not heare them."
+        },
+        {
+          "verse": 43,
+          "text": "I wil deſtroy them as the duſt of the earth: as the myre of the ſtreates wil I bruiſe and breake them."
+        },
+        {
+          "verse": 44,
+          "text": "Thou wilt ſaue me from the contredictions of my people: thou wilt keepe me to be <na>(b)</na> the head of the Gentiles: the people which I knowe not, wil ſerue me.",
+          "notes": [
+            {
+              "label": "b",
+              "text": "Though ſome few Gentiles were ſubdued by Dauid, and ſome were conuerted to true religion in the old Teſtament: yet the ful conuerſion of Gentiles perteineth to the Church of Chriſt. which is here forshewed and deſcribed to haue perpetual ſeede for euer.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 45,
+          "text": "The children alienes wil reſiſt me, with the hearing of the eare they wil obey me."
+        },
+        {
+          "verse": 46,
+          "text": "The children alienes are fallen away, and shal be ſtraytened in their diſtreſſes."
+        },
+        {
+          "verse": 47,
+          "text": "Our lord liueth, and my God is bleſſed: and the ſtrong God of my ſaluation shal be exalted."
+        },
+        {
+          "verse": 48,
+          "text": "God which geueſt me reuenges, and throweſt downe peoples vnder me."
+        },
+        {
+          "verse": 49,
+          "text": "Which bringeſt me out from myne enemies, and from them that reſiſt me doſt lift me vp: from the wicked man thou shalt deliuer me."
+        },
+        {
+          "verse": 50,
+          "text": "Therfore wil I confeſſe vnto thee o Lord among the Gentiles, and wil ſing to thy name."
+        },
+        {
+          "verse": 51,
+          "text": "Magnifying the ſaluations of his king, and doing mercie to his Chriſt Dauid, and to his ſeede for euer."
+        }
+      ],
+      "summary": "King Dauids Canticle of thankeſgeuing, for his deliuerie from al enemies: 44. VVith a prophecie of the reiection of the Iewes, and vocation of the Gentiles."
+    },
+    {
+      "chapter": 23,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "AND theſe are Dauides laſt wordes. Dauid the ſonne of Iſai ſayd: The man ſayd, to whom it was appointed concerning the Chriſt of the God of Iacob, the excellent Pſalmiſt of Iſrael:"
+        },
+        {
+          "verse": 2,
+          "text": "The Spirit of our Lord hath ſpoken by me, and his wordes by my tongue."
+        },
+        {
+          "verse": 3,
+          "text": "The God of Iſrael ſayd to me, the Strong one of Iſrael hath ſpoken, the Dominatour of men, the iuſt ruler in the feare of God."
+        },
+        {
+          "verse": 4,
+          "text": "As the light of the mourning when the ſunne ryſeth, early without cloudes, gliſtereth, and as by rayne graſſe ſpringeth out of the earth."
+        },
+        {
+          "verse": 5,
+          "text": "<na>(a)</na> Neither is my houſe ſo great with God, that he should enter with me an eternal couenant firme in al thinges & aſſured. For al my ſaluation, and al my wil: neither is there ought therof that ſpringeth not.",
+          "notes": [
+            {
+              "label": "a",
+              "text": "King Dauid in this laſt prophecie plainly diſtinguisheth betwen the couenant & promiſe made to him touching his earthlie kingdom and the kingdom of <i>Chriſt</i>. who ſhould be borne of his ſeede. In both which he foretelleth the reward of the good and punishment of the bad.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 6,
+          "text": "And tranſgreſſors shal be plucked vp as thornes euery one: which are not taken with handes."
+        },
+        {
+          "verse": 7,
+          "text": "And if a man wil touch them, he shal be armed with yron and a lance ſtaffe, and kindled with fyre they shal be burnt vnto nothing."
+        },
+        {
+          "verse": 8,
+          "text": "Theſe be the names of the valiantes of Dauid. Sitting in his chaire the wiſeſt prince amongeſt three, he is as it were the moſt tender litle worme of the wood, which killed eight hundred at one brunt."
+        },
+        {
+          "verse": 9,
+          "text": "After him, Eleazar the ſonne of his vncle the Ahohite among the three valiantes, that were with Dauid when they defyed the Philiſthijms, and were gathered thither into battel."
+        },
+        {
+          "verse": 10,
+          "text": "And when the men of Iſrael were gone vp, he ſtood and ſtroke the Philiſtians til his hand faynted, and waxed ſtiffe with the ſword: and our Lord made a great victorie that day: and the people, that was fled, returned to take away of the ſpoyles of them that were ſlayne."
+        },
+        {
+          "verse": 11,
+          "text": "And after him Semma the ſonne of Age of Arari. And the Philiſthijms were gathered togehter in their ward: for there was there a filde ful of rice. And when the people was fled from the face of the Philiſthijms,"
+        },
+        {
+          "verse": 12,
+          "text": "he ſtood in the middes of the filde, and defended it, and ſtroke the Philiſthians: and our Lord gaue great ſaluation."
+        },
+        {
+          "verse": 13,
+          "text": "Moreouer alſo before there went downe three which were princes among thirtie, and came to Dauid in the harueſt time into the caue of Odollam: and the campe of the Philiſtianes was placed in the Vale of the giantes."
+        },
+        {
+          "verse": 14,
+          "text": "And Dauid was in a hold: moreouer the ward of the Philiſthianes was then in Bethlehem."
+        },
+        {
+          "verse": 15,
+          "text": "Dauid <na>(b)</na> therfore deſyred, & ſayd: O that ſome man would geue me drinke of the water out of the ceſterne, that is in Bethlehem beſide the gate.",
+          "notes": [
+            {
+              "label": "b",
+              "text": "The king propoſed not this for deſire of that water, but to trie and exerciſe his mens fortitude.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 16,
+          "text": "Three valiantes therfore brake into the campe of the Philiſtianes, and drew water out of the ceſterne of Bethlehem, that was beſide the gate, and brought it to Dauid: but he would not drinke, but <na>(c)</na> offered it to our Lord,",
+          "notes": [
+            {
+              "label": "c",
+              "text": "Precious thinges are moſt mete to be offered to God.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 17,
+          "text": "ſaying: Our Lord be merciful to me, that I doe not this thing: shal I drinke the bloud of theſe men that went, & the peril of their liues? Therfore he would not drinke. Theſe thinges did the three ſtrongeſt."
+        },
+        {
+          "verse": 18,
+          "text": "Abiſai alſo the brother of Ioab the ſonne of Saruia, was prince of three, it is he that lifted vp his ſpeare agaynſt three hundred, whom he ſlewe, renowmed among three,"
+        },
+        {
+          "verse": 19,
+          "text": "and the nobleſt of three, and he was the chiefe of them, but to the three firſt he raught not."
+        },
+        {
+          "verse": 20,
+          "text": "And Banaias the ſonne of Ioiada the moſt valiant man of great workes, of Cabſeel: he ſtroke the two lions of Moab, and he went downe, and ſtroke the lyon in the middes of the ceſterne in the dayes of ſnow."
+        },
+        {
+          "verse": 21,
+          "text": "He alſo ſtroke the AEgyptian, a man worthie to be a ſpectacle, hauing in his hand a ſpeare: therfore when he came downe to him with a rod, by force he wreſted the ſpeare out of the hand of the AEgyptian, and ſlewe him with his owne ſpeare."
+        },
+        {
+          "verse": 22,
+          "text": "Theſe thinges did Banaias the ſonne of Ioiada."
+        },
+        {
+          "verse": 23,
+          "text": "And he renowmed among the three valiantes, which were the nobler among thirtie: but vnto the three he raught not: and Dauid made him of his ſecrete counſel."
+        },
+        {
+          "verse": 24,
+          "text": "Aſael the brother of Ioab among the thirtie, Elahanan the ſonne of his vncle of Bethlehem."
+        },
+        {
+          "verse": 25,
+          "text": "Semma of Harodi, Elica of Harori,"
+        },
+        {
+          "verse": 26,
+          "text": "Heles of Phalti, Hira the ſonne of Acces of Thecua,"
+        },
+        {
+          "verse": 27,
+          "text": "Abiezer of Anathoth, Mobonnai of Huſati,"
+        },
+        {
+          "verse": 28,
+          "text": "Selmon the Ahohite, Maharai the Netophathite,"
+        },
+        {
+          "verse": 29,
+          "text": "Heled the ſonne of Baana, he alſo Netophathite, Ithai the ſonne of Ribai of Gabaath of the children of Benjamin,"
+        },
+        {
+          "verse": 30,
+          "text": "Banaia the Pharathonite, Heddai of the Torrent Gaas,"
+        },
+        {
+          "verse": 31,
+          "text": "Abialbon the Arbathite, Azmaueth of Beromi,"
+        },
+        {
+          "verse": 32,
+          "text": "Eliaba of Salaboni: The ſonnes of Iaſſen, Ionathan,"
+        },
+        {
+          "verse": 33,
+          "text": "Semma of Orori, Ahiam the ſonne of Sarar the Ararite,"
+        },
+        {
+          "verse": 34,
+          "text": "Eliphelet the ſonne of Aaſbai the ſonne of Machati, Eliam the ſonne of Achitophel the Gelonite,"
+        },
+        {
+          "verse": 35,
+          "text": "Heſrai of Carmel, Pharai of Arbi,"
+        },
+        {
+          "verse": 36,
+          "text": "Igaal the ſonne of Nathan of Soba, Bonni of Gadi,"
+        },
+        {
+          "verse": 37,
+          "text": "Selec of Ammoni, Naharai the Berothite the ſquyer of Ioab the ſonne of Saruia,"
+        },
+        {
+          "verse": 38,
+          "text": "Ira the Iethrite, Gareb he alſo a Iethrite,"
+        },
+        {
+          "verse": 39,
+          "text": "Vrias the Hetheite. Al thirtie ſeuen."
+        }
+      ],
+      "summary": "The laſt wordes of Dauid concerning reward of the good, 6. and punishment of the bad. 8. A Catalogue of Dauids valiant men."
+    },
+    {
+      "chapter": 24,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "AND <na>(a)</na><na>(b)</na> the furie of our Lord added to be angrie agaynſt Iſrael, and ſtirred vp Dauid among them ſaying: Goe, number Iſrael and Iuda.",
+          "notes": [
+            {
+              "label": "a",
+              "text": "This ſinne & punishment happened before, when Dauid had health and ſtreingth of bodie.",
+              "kind": "gloss"
+            },
+            {
+              "label": "b",
+              "text": "The furie of our Lord, that is, Satan (a furious ſpirite, yet Gods creature) not our Lord him ſelfe, but by permiſſion only. <i>1.Par.2.1. Satan aroſe againſt Iſrael, & moued Dauid</i>.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "And the king ſayd to Ioab the General of his armie: Walke through al the tribes of Iſrael from Dan to Berſabee, and number ye the people, that I may know the number therof."
+        },
+        {
+          "verse": 3,
+          "text": "And Ioab ſayd to the king: Our Lord thy God increaſe thy people, as much more as now it is, and agayne multiplie it an hundred fold in the ſight of my lord the king: but what meaneth my lord the king by this kind of thing?"
+        },
+        {
+          "verse": 4,
+          "text": "Howbeit the kinges word more preuailed then the wordes of Ioab, and of the chiefe of the armie: and Ioab went forth, and the captaynes of the ſouldiars from the face of the king, to number the people of Iſrael."
+        },
+        {
+          "verse": 5,
+          "text": "And when they had paſſed Iordan, they came into Aroer to the right hand of the citie, which is in the Vale of Gad."
+        },
+        {
+          "verse": 6,
+          "text": "And by Iazer they paſſed into Galaad, and into the lower countrie of Hodſi, and they came into the wooddie countrie of Dan. And going about neere Sidon,"
+        },
+        {
+          "verse": 7,
+          "text": "they paſſed nigh to the walles of Tyre, and al the land of the Heueite, and the Chananeite, and they came to the ſouth of Iuda into Berſabee:"
+        },
+        {
+          "verse": 8,
+          "text": "and hauing viewed the whole land, after nine monethes and twentie dayes, they were come to Ietuſalem."
+        },
+        {
+          "verse": 9,
+          "text": "Ioab therfore gaue the number of the deſcription of the people to the king, and there were found of Iſrael eight hundred thouſand ſtrong men, that could drawe ſword: and of Iuda fiue hundred thouſand fighting men."
+        },
+        {
+          "verse": 10,
+          "text": "But Dauids <na>(b)</na> hart ſtrooke him, after the people was numbred: and Dauid ſayd to our Lord: <na>(c)</na> I haue ſinned very much in this fact: but I pray thee Lord to transferre the iniquitie of thy ſeruant, becauſe I haue done exceding foliſhly.",
+          "notes": [
+            {
+              "label": "b",
+              "text": "Contrition.",
+              "kind": "gloss"
+            },
+            {
+              "label": "c",
+              "text": "Confeſſion.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 11,
+          "text": "Dauid therfore aroſe in the morning, and the word of our Lord was made to Gad the prophete and Seer of Dauid, ſaying:"
+        },
+        {
+          "verse": 12,
+          "text": "Goe, and ſpeake to Dauid: Thus ſayth our Lord: <na>(d)</na> Choyſe is geuen thee of three thinges, chooſe one of them which thou wilt, that I may do it to thee.",
+          "notes": [
+            {
+              "label": "d",
+              "text": "Satisfaction.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 13,
+          "text": "And when Gad was come to Dauid, he told him, ſaying: Either famine ſhal come to thee ſeuen yeares in thy land: or three monethes thou shalt flee thy aduerſaries, and they shal purſew thee: or certes three dayes the peſtilence shal be in thy land. Now therfore deliberate, and ſee what word I shal anſwer to him that ſent me."
+        },
+        {
+          "verse": 14,
+          "text": "And Dauid ſayd to Gad: I am diſtreſſed excedingly: but it is better that I fal into the handes of our Lord (for his mercies be manie) then into the handes of men."
+        },
+        {
+          "verse": 15,
+          "text": "<na>[1]</na> And our Lord ſent the peſtilence in Iſrael, from morning vnto the time appoynted, and there died of the people from Dan to Berſabee ſeuentie thouſand men.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "The Epiſtle in a votiue Maſſe in tyme of plague or mortalitie.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 16,
+          "text": "And when the Angel of Our Lord had ſtretched fotth his hand ouer Ieruſalem to deſtroy it, our Lord had pitie vpon the affliction, and ſayd to the Angel that ſtroke the people: <na>(e)</na> It is ſufficient: now hold thy hand: and the Angel of our Lord was beſide the floore of Areuna the Iebuſeite.",
+          "notes": [
+            {
+              "label": "e",
+              "text": "Temporal puniſhment inflicted after the guilt of ſinne was remitted.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 17,
+          "text": "And Dauid ſayd to our Lord when he ſaw the Angel ſtriking the people: I am he that haue ſinned, I haue done wickedly: theſe that are the ſheepe, what haue they done? let thy hand, I beſeche thee, be turned agaynſt me, and agaynſt my fathers houſe."
+        },
+        {
+          "verse": 18,
+          "text": "And Gad came to Dauid in that day, and ſayd to him: Goe vp, and build an altar to our Lord in the floore of Areuna the Iebuſeite."
+        },
+        {
+          "verse": 19,
+          "text": "And Dauid went vp according to the word of Gad, which our Lord had cõmanded him."
+        },
+        {
+          "verse": 20,
+          "text": "And Areuna looking, perceiued the king and his ſeruantes to come towards him"
+        },
+        {
+          "verse": 21,
+          "text": "And going forth he adored the king with his face bowing to the earth, and ſayd: What is the cauſe that my lord the king cometh to his ſeruant? To whom Dauid ſayd: That I may bye of thee the floore, and build an altar to our Lord, and the ſlaughter may ceaſe which rageth among the people."
+        },
+        {
+          "verse": 22,
+          "text": "And Areuna ſayd to Dauid: Let my lord the king take, and offer, as it pleaſeth him: thou haſt the oxen for holocauſte, and the wayne, and the yokes of the oxen for prouiſion of wood."
+        },
+        {
+          "verse": 23,
+          "text": "Areuna gaue al thinges to the king: and Areuna ſayd to the king: The Lord thy God receiue thy vowe."
+        },
+        {
+          "verse": 24,
+          "text": "To whom the king anſwering, ſayd: Not ſo as thou wilt, but I wil bye it of thee at a price, and I wil not offer to our Lord my God holocauſtes <na>(f)</na> geuen gratis. Dauid therfore bought the floore, and the oxen, for fiftie ſicles of ſiluer:",
+          "notes": [
+            {
+              "label": "f",
+              "text": "If ſubiectes had not proprietie in their goodes, but that the right and dominion of al perteyned to the prince, then could nothing at al, in anie caſe be geuen gratis by the ſubiect, but only yelded as due, to his ſoueraigne.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 25,
+          "text": "and Dauid built there an altar to our Lord, & offered holocauſtes and pacifiques: and our Lord became merciful to the land, and the plague was ſtayed from Iſrael."
+        }
+      ],
+      "summary": "For Dauids ſinne in numbring the people, 11. three ſortes of punishments are propoſed to his election: 14. of Which he chooſeth the plague, and ſeuentie thouſand die in three dayes. 16. God sheweth mercie. 17. Dauid prayeth. 18. buildeth an altar, 25. and the plague ceaſeth."
+    }
+  ],
+  "spelling": "original"
+}

@@ -1,0 +1,565 @@
+{
+  "book": "2-timothy",
+  "book_title": "The Second Epistle of Paul\nto Timothee.",
+  "short_title": "2 Timothy",
+  "hebrew_title": null,
+  "intros": [
+    {
+      "title": "THE ARGUMENT OF THE SECOND EPISTLE OF S. PAUL TO TIMOTHEE.",
+      "text": "THE cheefe ſcope of this ſecond to Timothee, is, to open vnto him that his martyrdom is at hand. Which yet he doth not plainely before the end: preparing firſt his minde with much circumſtance, becauſe he knew it would grieve him ſore, and alſo might be a tentation vnto him. Therfore he talketh of the cauſe of his trouble, & of the reward: that the one is honorable, and the other moſt glorious: and exhorteth him to be conſtant in the faith, to be ready alwaies to ſuffer for it, to fulfil his miniſterie to the end, as himſelf now had done his.<br>Whereby it is certaine, that it was written at Rome, in his laſt apprehenſion and empriſonment there: as he ſignifieth by theſe wordes Cap. 1: <i>Oneſiphorus was not aſhamed of my chaine, but when he was come to Rome, carefully ſought me, &c.</i> And of his martyrdom, thus: <i>For I am now ready to be offered, and the time of my reſolution</i> (or death) <i>is at hand.</i> cap. 4.",
+      "default": true
+    }
+  ],
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "<sc>PAVL</sc> an Apoſtle of <sc>IESVS</sc> Chriſt by the vvil of God, according to the promiſſe of the life which is in Chriſt <sc>IESVS</sc>:"
+        },
+        {
+          "verse": 2,
+          "text": "to Timothee my deereſt ſonne, grace, mercie, peace from God the father, and Chriſt <sc>IESVS</sc> our Lord."
+        },
+        {
+          "verse": 3,
+          "text": "I giue thankes to God, vvhom I ſerue from my progenitours in a pure conſcience, that vvithout intermiſſion I haue a memorie of thee in my praiers, night and day"
+        },
+        {
+          "verse": 4,
+          "text": "deſiring to ſee thee, mindeful of thy teares, that I may be filled vvith ioy,"
+        },
+        {
+          "verse": 5,
+          "text": "calling to minde that faith vvhich is in thee not feined, vvhich alſo dvvelt firſt in thy grandmother Lois, and thy mother Eunice, and I am ſure that in thee alſo.",
+          "has_annotation": true
+        },
+        {
+          "verse": 6,
+          "text": "For the vvhich cauſe I admoniſh thee that thou reſuſcitate the <na>[1]</na> grace of God, vvhich is in thee by the impoſition of my handes.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "Here againe it is plaine that holy Orders giue grace, & that euen by and in the external ceremonie of impoſing the Biſhops hands. And it is a maner of ſpeach ſpecially vſed in this Apoſtle and S. Luke, that Orders giue grace to the ordered, & that to take orders or authoritie to miniſter Sacramēts or preach, is, to be giuen or deliuered to Gods grace. <i>Act. 14, 25</i>.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 7,
+          "text": "For God hath not giuen vs the ſpirit of feare: but of povver, and loue, and ſobrietie."
+        },
+        {
+          "verse": 8,
+          "text": "Be not therfore aſhamed of the teſtimonie of our Lord, nor of me his priſoner: but trauail vvith the Goſpel according to the povver of God,"
+        },
+        {
+          "verse": 9,
+          "text": "vvho hath deliuered and called vs by his holy calling, <cr>[1]</cr> not according to our vvorkes, but according to his purpoſe and grace, vvhich vvas giuen to vs in Chriſt <sc>IESVS</sc> <cr>[2]</cr> before the ſecular times.",
+          "cross_refs": [
+            {
+              "text": "Tit. 3, 5."
+            },
+            {
+              "text": "Tit. 1, 3."
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "text": "But it is manifeſted novv by the illumination of our Sauiour <sc>IESVS</sc> Chriſt, vvho hath deſtroied death, & illuminated life and incorruption by the Goſpel:"
+        },
+        {
+          "verse": 11,
+          "text": "vvherein <cr>[1]</cr> I am appointed a preacher and Apoſtle and Maiſter of the Gentiles.",
+          "cross_refs": [
+            {
+              "text": "1. Timo. 2, 7."
+            }
+          ]
+        },
+        {
+          "verse": 12,
+          "text": "For the vvhich cauſe alſo I ſuffer theſe things: but I am not cõfounded. For I know whom I haue beleeued, & I am ſure that he is able to keepe my <i>depoſitum</i> vnto that day.",
+          "has_annotation": true
+        },
+        {
+          "verse": 13,
+          "text": "Haue thou a forme of ſound vvordes, vvhich thou haſt heard of me in faith & <na>[1]</na><na>[2]</na> in the loue in Chriſt <sc>IESVS</sc>.",
+          "has_annotation": true,
+          "notes": [
+            {
+              "label": "1",
+              "text": "c Faith and loue coupled commonly together in this Apoſtle's vvritings.",
+              "kind": "gloss"
+            },
+            {
+              "label": "2",
+              "text": "<i>c ἀγάπῃ τῇ ἐν Χριςῷ</i>",
+              "kind": "word"
+            }
+          ]
+        },
+        {
+          "verse": 14,
+          "text": "Keepe the good <i>depoſitum</i> by the holy Ghoſt, vvhich dvvelleth in vs."
+        },
+        {
+          "verse": 15,
+          "text": "Thou knovveſt this, that al vvhich are in Aſia, be auerted from me: of vvhom is Phigelus and Hermogenes."
+        },
+        {
+          "verse": 16,
+          "text": "Our Lord giue mercie to <cr>[1]</cr> the houſe of Oneſiphorus: becauſe he hath often refreſhed me, and hath <na>[2]</na> not been aſhamed of my chaine.",
+          "cross_refs": [
+            {
+              "text": "2. Tim. 4, 19."
+            }
+          ],
+          "notes": [
+            {
+              "label": "2",
+              "text": "What a happy and meritorious thing it is to relieve the afflicted for religion, and not to be aſhamed of their diſgrace, irons or vvhat miſeries ſoever. · 2 Timothy 4:19.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 17,
+          "text": "but vvhen he vvas come to Rome: he ſought me carefully, and found me."
+        },
+        {
+          "verse": 18,
+          "text": "Our Lord graunt him to finde mercie of our Lord in that day. And how many things he miniſtred to me at Epheſus, thou knovveſt better.",
+          "has_annotation": true
+        }
+      ],
+      "summary": "Vvith his praiſes he couertly exhorteth him not to be diſmaied for his trouble, 6 (hauing grace giuen in Orders to helpe him, 8 and knovving for vvhat cauſe he is perſecuted) and namely vvith the example of Oneſiphorus."
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "<sc>THOV</sc> therfore my ſonne, be ſtrong in the grace vvhich is in Chriſt <sc>IESVS</sc>:"
+        },
+        {
+          "verse": 2,
+          "text": "& the things vvhich thou haſt heard of me by many vvitneſſes, theſe cōmend to faithful men, vvhich ſhal be fit to teach others alſo."
+        },
+        {
+          "verse": 3,
+          "text": "Labour thou as a good ſouldiar of Chriſt <sc>IESVS</sc>."
+        },
+        {
+          "verse": 4,
+          "text": "No man being a ſouldiar to God, intãgleth him ſelf vvith ſecular buſineſſes: that he may pleaſe him to vvhom he hath approued him ſelf.",
+          "has_annotation": true
+        },
+        {
+          "verse": 5,
+          "text": "For he alſo that ſtriueth for the maiſterie, is not crovvned vnleſſe he ſtriue lavvfully."
+        },
+        {
+          "verse": 6,
+          "text": "The huſbandman that laboureth, muſt firſt take of the fruites."
+        },
+        {
+          "verse": 7,
+          "text": "Vnderſtand vvhat I ſay: for our Lord vvil giue thee in al things vnderſtanding."
+        },
+        {
+          "verse": 8,
+          "text": "<na>[1]</na> Be mindeful that our Lord <sc>IESVS</sc> Chriſt is riſen againe from the dead, of the ſeede of Dauid, according to my Goſpel,",
+          "notes": [
+            {
+              "label": "1",
+              "text": "b Part of the Epiſtle upon S. George's day. April. 25. The reſt is pa. 541.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "text": "vvherein I labour euen vnto bandes, as a malefactour: but the vvord of God is not tied."
+        },
+        {
+          "verse": 10,
+          "text": "Therfore <na>[1]</na> I ſuſtaine al things for the elect, that they alſo may obtaine the ſaluation, vvhich is in Chriſt <sc>IESVS</sc>, vvith heauenly glorie.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "Marke here that the elect (though ſure of ſaluation) yet are ſaued by meanes of their preachers & teachers, as alſo by their ovvne endeuours.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 11,
+          "text": "A faithful ſaying. For if vve be dead vvith him, vve ſhal liue alſo together."
+        },
+        {
+          "verse": 12,
+          "text": "If vve ſhal ſuſtaine, vve ſhal alſo reigne together. <cr>[1]</cr> If vve ſhal deny, he alſo vvil denie vs.",
+          "cross_refs": [
+            {
+              "text": "Mat. 10."
+            }
+          ]
+        },
+        {
+          "verse": 13,
+          "text": "<cr>[1]</cr> If vve beleeue not: he continueth faithful, he can not denie him ſelf.",
+          "cross_refs": [
+            {
+              "text": "Ro. 3, 3."
+            }
+          ],
+          "xrefs": [
+            "Ro. 3, 3."
+          ]
+        },
+        {
+          "verse": 14,
+          "text": "Theſe things admoniſh: teſtifying before our Lord. Contend not in vvordes, for it is profitable for nothing, but for the ſubuerſion of them that heare."
+        },
+        {
+          "verse": 15,
+          "text": "Carefully prouide to preſent thy ſelf approued to God, a vvorkeman not to be confounded, rightly handling the vvord of truth.",
+          "has_annotation": true
+        },
+        {
+          "verse": 16,
+          "text": "But <na>[1]</na> cprofane and vaine ſpeaches auoid: for they doe much grovv to impietie:",
+          "notes": [
+            {
+              "label": "1",
+              "text": "c See the Annotations before <i>1. Tim. 6. v. 20.</i>",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 17,
+          "text": "& their ſpeache ſpreadeth as a canker: of vvhom is Hymenæus and Philetus:",
+          "has_annotation": true
+        },
+        {
+          "verse": 18,
+          "text": "vvho haue erred from the truth, ſaying that the reſurrection is done already, and haue ſubuerted the faith of ſome."
+        },
+        {
+          "verse": 19,
+          "text": "But the ſure foundation of God ſtandeth, hauing this ſeale, Our Lord knovveth, vvho be his, and let euery one depart from iniquitie that nameth the name of our Lord."
+        },
+        {
+          "verse": 20,
+          "text": "But in a great houſe there are not only veſſels of gold and of ſiluer, but alſo of vvood and of earth: and certaine in deede vnto honour, but certaine vnto contumelie.",
+          "has_annotation": true
+        },
+        {
+          "verse": 21,
+          "text": "If any man therfore ſhal cleanſe him ſelf from theſe, he ſhal be a veſſel vnto honour, ſanctified & profitable to our Lord, prepared to euery good vvorke.",
+          "has_annotation": true
+        },
+        {
+          "verse": 22,
+          "text": "But youthful deſires flee: and purſue iuſtice, faith, charitie, & peace vvith them that inuocate our Lord from a pure hart."
+        },
+        {
+          "verse": 23,
+          "text": "And <cr>[1]</cr> fooliſh and vnlearned queſtiõs auoid, knovving that they ingender braules.",
+          "cross_refs": [
+            {
+              "text": "Tit. 3, 9."
+            }
+          ],
+          "xrefs": [
+            "Tit. 3, 9."
+          ]
+        },
+        {
+          "verse": 24,
+          "text": "But the ſeruant of our Lord muſt not vvrangle: but be milde tovvard al men, apt to teache, patient,"
+        },
+        {
+          "verse": 25,
+          "text": "vvith modeſtie admoniſhing them that reſiſt the truth: leſt ſometime <na>[1]</na> God giue them repentance to knovv the truth:",
+          "notes": [
+            {
+              "label": "1",
+              "text": "Conuerſion from ſinne and hereſie is the gift of God and of his ſpecial grace: yet here vve ſee, good exhortations and praier and ſuch other helpes of man be profitable therevnto. Vvhich could not be, if vve had not free vvill.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 26,
+          "text": "and they recouer them ſelues from the ſnares of the deuil, of vvhom they are held captiue at his vvil."
+        }
+      ],
+      "summary": "He exhorteth him to labour diligently in his office, conſidering the revvard in Chriſt, and his denial of them that deny him. 14 Not to contend, but to ſhunne heretikes: neither to be moued to ſee ſome ſubuerted, conſidering that the elect continue Catholikes, and that in the Church be of al ſortes. 24 Yet vvith al ſvveetenes to reclaime the deceiued."
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "<sc>AND</sc> this knovv thou, that <cr>[1]</cr> in the laſt daies ſhal approche perilous times.",
+          "cross_refs": [
+            {
+              "text": "1. Tim. 4, 1."
+            }
+          ],
+          "xrefs": [
+            "1. Timoth. 4, 1."
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "and men ſhal be louers of them ſelues, couetous, hautie, proud, blaſphemous, not obedient to their parents, vnkinde, vvicked,",
+          "has_annotation": true
+        },
+        {
+          "verse": 3,
+          "text": "vvithout affection, vvithout peace, accuſers, incontinent, vnmerciful, vvithout benignitie,"
+        },
+        {
+          "verse": 4,
+          "text": "traitours, ſtubburne, puffed vp, and louers of voluptuouſnes more then of God:"
+        },
+        {
+          "verse": 5,
+          "text": "hauing an appearance in deede of pietie, but denying the vertue thereof. And theſe auoid."
+        },
+        {
+          "verse": 6,
+          "text": "For of theſe be they that craftely enter into houſes: and leade captiue ſeely vvomen loden vvith ſinnes, vvhich are ledde vvith diuers deſires:",
+          "has_annotation": true
+        },
+        {
+          "verse": 7,
+          "text": "alvvaies learning, and neuer attaining to the knovvledge of the truth."
+        },
+        {
+          "verse": 8,
+          "text": "But as <cr>[1]</cr> Iannes & Mambres <na>[2]</na> reſiſted Moyſes, ſo theſe alſo reſiſt the truth, men corrupted in minde, reprobate cõcerning the faith.",
+          "cross_refs": [
+            {
+              "text": "Exo. 7."
+            }
+          ],
+          "notes": [
+            {
+              "label": "2",
+              "text": "Exo. 7. · ∷That thoſe Magicians vvhich reſiſted Moyſes, vvere thus called, it is not written in al the old Teſtament. therfore it came to the Apoſtles knowledge by tradition, as the Church novv hath the names of the 3 kings, of the penitent theefe, of the ſouldiar that pearced Chriſtes ſide on the Croſſe, and of the like.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "text": "But they ſhal proſper no further: for their folly ſhal be manifeſt to al, as theirs alſo vvas.",
+          "has_annotation": true
+        },
+        {
+          "verse": 10,
+          "text": "<na>[1]</na> But thou haſt attained to my doctrine, inſtitution, purpoſe, faith, longanimitie, loue, patience,",
+          "notes": [
+            {
+              "label": "1",
+              "text": "b The reſt of the Epiſt. for S. George's day.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 11,
+          "text": "perſecutions, paſſions: vvhat maner of things vvere done to me at Antioche, at Iconium, at Lyſtra: vvhat maner of perſecutiõs I ſuſtained. and out of al our Lord deliuered me."
+        },
+        {
+          "verse": 12,
+          "text": "And al that vvil liue godly in Chriſt <sc>IESVS</sc>, ſhal ſuffer perſecution.",
+          "has_annotation": true
+        },
+        {
+          "verse": 13,
+          "text": "But euil men and ſeducers ſhal proſper to the vvorſe: erring, and driuing into errour.",
+          "has_annotation": true
+        },
+        {
+          "verse": 14,
+          "text": "But thou, <na>[1]</na> continue in thoſe things vvhich thou haſt learned, and are committed to thee: knovving of vvhom thou haſt learned:",
+          "notes": [
+            {
+              "label": "1",
+              "text": "∷In al danger and diuerſitie of falſe ſectes, S. Paules admonition is, euer to abide in that vvas firſt taught & deliuered, neuer to giue ouer our old faith for a new fanſie. This is it which before he calleth <i>depoſitum. 1. Tim. 6. and 2. Tim. 1</i>.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 15,
+          "text": "and becauſe from thine infancie thou haſt knovven the holy Scriptures, vvhich can inſtruct thee to ſaluation, by the faith that is in Chriſt <sc>IESVS</sc>."
+        },
+        {
+          "verse": 16,
+          "text": "<cr>[1]</cr> All Scripture inſpired of God, is profitable to teach, to argue, to correct, to inſtruct in iuſtice:",
+          "has_annotation": true,
+          "cross_refs": [
+            {
+              "text": "2. Pet. 1, 21."
+            }
+          ]
+        },
+        {
+          "verse": 17,
+          "text": "that the man of God may be perfect, inſtructed to euery good vvorke."
+        }
+      ],
+      "summary": "He prophecieth of Heretikes to come, 6 and noteth certaine then alſo for ſuch, bidding him to auoid them, 10 and (vvhat ſo euer perſecution befall for it) to cõtinue conſtant in the Catholike doctrine, both becauſe of his Maiſter (S. Paul him ſelf) 15 and alſo becauſe of his ovvne knovvledge in the Scriptures."
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "I <na>[1]</na> Teſtifie before God and <sc>IESVS</sc> Chriſt vvho ſhal iudge the liuing and the dead, and by his aduent, and his kingdom:",
+          "notes": [
+            {
+              "label": "1",
+              "text": "The Epiſtle for holy Doctors, and for S. Silveſter. Decemb. <i>31.</i> & for S. Hilary, Ian. <i>14.</i> and S. Dominic <i>Auguſt 4.</i>",
+              "kind": "lectionary"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "Preach the vvord. vrge in ſeaſon, out of ſeaſon, reproue, beſeeche, rebuke in al patience and doctrine."
+        },
+        {
+          "verse": 3,
+          "text": "For there ſhal be a time vvhen they vvil not beare ſound doctrine: but according to their ovvne deſires they vvil heape to them ſelues maiſters, hauing itching eares,",
+          "has_annotation": true
+        },
+        {
+          "verse": 4,
+          "text": "and from the truth certes they vvil auert their hearing, and to fables they vvil be conuerted."
+        },
+        {
+          "verse": 5,
+          "text": "But be thou vigilant, labour in al things, doe the vvorke of an Euangeliſt, fulfil thy miniſterie. Be ſober."
+        },
+        {
+          "verse": 6,
+          "text": "For I am euen novv <na>[1]</na> to be ſacrificed: & the time of my reſolutiõ is at hand.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "The martyrdom of ſaincts is ſo acceptable to God, that it is counted as it vvere a ſacrifice in his ſight, and therfore hath many effectes both in the partie that ſuffereth it, and in others that are partakers of the merite as of a ſacrifice: vvhich name it hath by a Metaphore.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 7,
+          "text": "I haue fought a good fight, I haue conſummate my courſe, I haue kept the faith."
+        },
+        {
+          "verse": 8,
+          "text": "Concerning the reſt, there is laid vp for me a crovvne of iuſtice, vvhich our Lord vvil render to me in that day, a iuſt iudge: and not only to me, but to them alſo that loue his comming. ⊢",
+          "has_annotation": true
+        },
+        {
+          "verse": 9,
+          "text": "Make haſt to come to me quickly."
+        },
+        {
+          "verse": 10,
+          "text": "For Demas hath left me, louing this vvorld, and is gone to Theſſalonica: Creſcens into Galatia, Titus into Dalmatia."
+        },
+        {
+          "verse": 11,
+          "text": "<cr>[1]</cr> Luke only is vvith me. Take Marke, and bring him vvith thee: for he is profitable to me for the miniſterie.",
+          "cross_refs": [
+            {
+              "text": "Col. 4, 14."
+            }
+          ],
+          "xrefs": [
+            "Col. 4, 14."
+          ]
+        },
+        {
+          "verse": 12,
+          "text": "But Tychicus I haue ſent to Epheſus."
+        },
+        {
+          "verse": 13,
+          "text": "The cloke that I left at Troas vvith Carpus, cõming bring vvith thee, and the bookes, eſpecially the parchement."
+        },
+        {
+          "verse": 14,
+          "text": "Alexander the Copperſmith hath ſhevved me much euil, our Lord vvil revvard him according to his vvorkes:"
+        },
+        {
+          "verse": 15,
+          "text": "vvhom doe thou alſo auoid, for he hath greatly reſiſted our vvordes."
+        },
+        {
+          "verse": 16,
+          "text": "In my firſt anſvver no man vvas with me, but al did forſake me: be it not imputed to them."
+        },
+        {
+          "verse": 17,
+          "text": "But our Lord ſtoode to me, and ſtrengthened me, that by me the preaching may be accompliſhed, and al Gentiles may heare: and I was deliuered from the mouth of the lion."
+        },
+        {
+          "verse": 18,
+          "text": "Our Lord <na>[1]</na> <alt>‘hath deliuered</alt>’ me from al euil vvorke: and vvil ſaue me vnto his heauenly kingdom. to vvhom be glorie for euer & euer. Amen.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "<i>‘vvil deliuer</i>",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 19,
+          "text": "Salute Priſca and Aquila, and <cr>[1]</cr> the houſe of Oneſiphorus.",
+          "cross_refs": [
+            {
+              "text": "2. Timo. 1, 16."
+            }
+          ],
+          "xrefs": [
+            "2 Timo. 1, 16."
+          ]
+        },
+        {
+          "verse": 20,
+          "text": "Eraſtus remained at Corinth. And Trophimus I left ſicke at Miletum."
+        },
+        {
+          "verse": 21,
+          "text": "Make haſt to come before vvinter. Eubulus and Pudens and <na>[1]</na> Linus and Claudia, and al the brethren, ſalute thee.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "ᶜThis Linus vvas coadiutor vvith & vnder S. Peter, & ſo counted ſecõd in the number of Popes.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 22,
+          "text": "Our Lord <sc>IESVS</sc> Chriſt be vvith thy ſpirit. Grace be vvith you. Amen."
+        }
+      ],
+      "summary": "He requireth him to be earneſt vvhile he may, becauſe the time vvil come vvhen they vvil not abide Catholike preaching, 5 and to fulfil his courſe, as him ſelf novv hath done. 9 and to come vnto him vvith ſpeede, becauſe the reſt of his traine are diſperſed, and he dravveth novv to heauen."
+    }
+  ],
+  "spelling": "original"
+}

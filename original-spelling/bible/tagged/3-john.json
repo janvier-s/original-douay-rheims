@@ -1,0 +1,104 @@
+{
+  "book": "3-john",
+  "book_title": "The Third Epistle of John the Apostle.",
+  "short_title": "3 John",
+  "hebrew_title": null,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "<sc>THE</sc> Seniour to Gaius the deereſt, whom I loue in truth."
+        },
+        {
+          "verse": 2,
+          "text": "My deereſt, concerning al thinges I make my praier that thou proceede proſperouſly, and fare vvel, as thy ſoule doth proſperouſly."
+        },
+        {
+          "verse": 3,
+          "text": "I vvas exceding glad vvhen the brethren came, and gaue teſtimonie to thy truth, euen as thou vvalkeſt in truth."
+        },
+        {
+          "verse": 4,
+          "text": "Greater <na>[1]</na> <alt>'thanke</alt>' haue I not of them, then that I may heare my children do vvalke in truth.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "<i>pleaſure. χαρὰν, χαριν.</i>",
+              "kind": "word"
+            }
+          ]
+        },
+        {
+          "verse": 5,
+          "text": "My deereſt, thou doeſt faithfully vvhatſoeuer thou vvorkeſt on the brethren, <na>[1]</na> and that vpon ſtrangers.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "A great grace to be beneficial to ſtrangers, ſpecially to them that be of our Catholike faith and ſuffer for the ſame.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 6,
+          "text": "they haue rendred teſtimonie to thy charitie in the ſight of the Church: whom, thou ſhalt doe vvel, bringing on their vvay in maner vvorthie of God."
+        },
+        {
+          "verse": 7,
+          "text": "For, for his name did they depart, taking nothing of the Gentiles."
+        },
+        {
+          "verse": 8,
+          "text": "Vve therfore ought to receiue ſuch: that vve may be coadiutors of the truth."
+        },
+        {
+          "verse": 9,
+          "text": "I had vvritten perhaps to the Church: but he that loueth to beare <na>[1]</na> bprimacie among them, Diótrepes, doth not receiue vs.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "It ſeemeth (ſaith S. Bede) he vvas an Arch-heretike or proud Sect-maiſter.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "text": "For this cauſe, if I come, <na>[1]</na><na>[2]</na> I vvil aduertiſe his vvorkes vvhich he doeth: vvith malicious vvordes chatting againſt vs. and as though theſe thinges ſuffiſe him not: neither him ſelf doth receiue the brethren, and them that do receiue, he prohibiteth, and caſteth out of the Church.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "That is, <i>I wil rebuke them and make them knovven to be vvicked</i>. Bede.",
+              "kind": "gloss"
+            },
+            {
+              "label": "2",
+              "text": "<i>commonebo. ὑπομνήσω</i>",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 11,
+          "text": "My deereſt, do not imitate euil, but that vvhich is good. He that doeth vvel, is of God: he that doeth il, hath not ſeen God."
+        },
+        {
+          "verse": 12,
+          "text": "To Demetrius teſtimonie is giuen of al, and of the truth it ſelf, yea and vve giue teſtimonie: and thou knovveſt that our teſtimonie is true."
+        },
+        {
+          "verse": 13,
+          "text": "I had many thinges to vvrite vnto thee: but I vvould not by inke and penne vvrite to thee."
+        },
+        {
+          "verse": 14,
+          "text": "But I hope forthvvith to ſee thee, and vve vvil ſpeake mouth to mouth. Peace be to thee. The freendes ſalute thee. Salute the freendes by name."
+        }
+      ],
+      "summary": "He commendeth Gaius, for continuing in the truth, and for ſuſteining or ſuccouring true preachers, 9 noting Diótrepes for the contrarie, and praiſing Demétrius."
+    }
+  ],
+  "spelling": "original"
+}

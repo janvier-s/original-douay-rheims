@@ -1,0 +1,237 @@
+{
+  "book": "jude",
+  "book_title": "The Catholic Epistle of S. Jude the Apostle.",
+  "short_title": "Jude",
+  "hebrew_title": null,
+  "intros": [
+    {
+      "title": "THE ARGUMENT OF THE EPISTLE OF S. JUDE.",
+      "text": "IN the Goſpel theſe are called Fratres Ieſu, the brethren of Ieſus: Iames and Ioſeph, and Simon, and Iude, Their father is called Alphæus, where Iames is termed, Iames of Alphæus: and their mother, Maria Iacobi minoris. Marie the mother of Iames the yonger and of Ioſeph. Which Marie in another place being called Maria Cleophæ, we perceiue their father was named both Alphæus and alſo Cleophas. And that this Cleophas was brother to Ioſeph our Lady's huſband, Hegeſippus telleth vs. Therfore becauſe Ioſeph was called the father of Chriſt, his brothers children, were called the brethren, that is (according to the cuſtom of the ſcripture alſo.) the kinſmen of our Lord: and not becauſe they were the children of Ioſeph himſelf by another wife, much leſſe (as Heluidius the heretike did blaſpheme) by our B. Ladie the perpetual Virgin MARIE. Howbeit ſome good authors ſay, that their mother Marie was the natural ſiſter of our Ladie, and that therfore they are called, Fratres Domini, the brethren of our Lord.\n\nHowſoeuer that be, three of them are reckened among the 12. Apoſtles, Iames, and Simon Cananæus and Iude. Yea and that they were ſomewhat more then Apoſtles, though leſſe then Peter, S. Paul ſignifieth, where he ſaith ſpeaking of himſelf and Barnabas: As alſo the other Apoſtles, and the brethren of our Lord, and Cephas. 1. Cor. 9.\n\nAnd as S. Luke calleth this Iude, Iude of Iames, ſo he calleth himſelf in this Epiſtle of his, Iude the ſeruant of Ieſus Chriſt, and the brother of Iames. S. Mathew and S. Marke do call him Thaddæus, as Lebbæus alſo in the Greeke. His feaſt and his brother Simons together, the Church keepeth Octob. 28. called Simon and Iudes day.\n\nHis Epiſtle is an Inuectiue againſt al heretikes (as it were a Commentarie of 2. Pet. 2.) and namely (as S. Aug. hath told vs) againſt thoſe, which miſconſtred S. Paules Epiſtles and held Only faith, whom he calleth therfore, Men that transferre or peruert the grace of God into riotouſnes, v. 4. exhorting Catholikes to be conſtant and vnmoueable from their old faith, and to contend for the keeping thereof, v. 3. and v. 20. For, heretikes (ſaith he) ſegregate themſelves from the Church and from her faith. v. 19.",
+      "default": true,
+      "notes": [
+        {
+          "marker": 1,
+          "text": "Mat. 13."
+        },
+        {
+          "marker": 2,
+          "text": "Mat. 10."
+        },
+        {
+          "marker": 3,
+          "text": "Mat. 13."
+        },
+        {
+          "marker": 4,
+          "text": "Ioh. 19."
+        },
+        {
+          "marker": 5,
+          "text": "* Euſeb. hiſt. li. 3. c. 10."
+        },
+        {
+          "marker": "◦",
+          "text": "Luc. 6. Mat. 10."
+        },
+        {
+          "marker": "◦",
+          "text": "Mat. 10. Mar. 3."
+        },
+        {
+          "marker": "◦",
+          "text": "pag. 379. 646."
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "IVDE the ſeruant of IESVS Chriſt, and brother of Iames: to them that are in God the Father beloued, and in IESVS Chriſt preſerued, and called."
+        },
+        {
+          "verse": 2,
+          "text": "Mercie to you, and peace and charitie be accompliſhed."
+        },
+        {
+          "verse": 3,
+          "text": "My deereſt, taking al care to vvrite vnto you of your common ſaluation, I thought it neceſſarie to vvrite vnto you: beſeeching you to contend for the faith once deliuered to the ſainctes."
+        },
+        {
+          "verse": 4,
+          "text": "For there are certaine men ſecretely entred in (vvhich vvere long ago preſcribed vnto this iudgement) impious, transferring the grace of our God into riotouſnes, and denying the onely Dominator, and our Lord IESVS Chriſt.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "Diuers heretikes abuſe the libertie of Chriſtes grace and Goſpel, to the fulfilling of their carnal luſtes and concupiſcences,",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 5,
+          "text": "But I vvil admoniſh you, that once knovv al things, that cIESVS, ſauing the people out of the land of Ægipt, ſecondly deſtroied them vvhich beleeued not.",
+          "cross_refs": [
+            {
+              "text": "2. Pet. 2."
+            },
+            {
+              "text": "Nu. 14, 37."
+            }
+          ],
+          "notes": [
+            {
+              "label": "3",
+              "text": "c This is our Sauiour, not Ioſue, as S. Hierom noteth ep. 17. ſee Abac. c. 3. v. 18.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 6,
+          "text": "But the Angels vvhich kept not their principalitie, but forſooke their owne habitation, he hath reſerued vnder darkeneſſe in eternal bondes vnto the iudgment of the great day."
+        },
+        {
+          "verse": 7,
+          "text": "As Sodom and Gomorrhe, and the cities adioyning in like maner hauing fornicated, and going after other fleſh, vvere made an example, ſuſtaining the paine of eternal fire.",
+          "cross_refs": [
+            {
+              "text": "Gen. 19."
+            }
+          ],
+          "notes": [
+            {
+              "label": "2",
+              "text": "c exfornicatæ,",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 8,
+          "text": "In like maner theſe alſo defile the fleſh, and deſpiſe dominion, & blaſpheme maieſtie.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "Such be heretikes, that wil not be ſubiect to any ſuperior, or that refuſe to obey the lawes either of Spiritual or Temporal rulers. in which kinde (ſpecially in blaſpheming the ſupreme Spiritual Magiſtrate) the Proteſtants do paſſe.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "text": "VVhen Michael the Archangel, diſputing vvith the Diuel, made altercation for the body of Moyſes: he durſt not inferre iudgment of blaſphemie, but ſaid, Our Lord commaund thee.",
+          "has_annotation": true,
+          "notes": [
+            {
+              "label": "1",
+              "text": "rebuke",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "text": "But theſe, vvhat things ſo euer certes they are ignorant of, they blaſpheme: and vvhat things ſo euer naturally, as dumme beaſtes, they knovv, in thoſe they are corrupted.",
+          "has_annotation": true
+        },
+        {
+          "verse": 11,
+          "text": "VVo vnto them, vvhich haue gone in the way of Cain: and vvith the errour of Balaam, haue for revvard povvred out them ſelues, and haue periſhed in the contradiction of Corè.",
+          "has_annotation": true,
+          "cross_refs": [
+            {
+              "text": "Gen. 4, 8."
+            }
+          ],
+          "notes": [
+            {
+              "label": "2",
+              "text": "becauſe they",
+              "kind": "gloss"
+            },
+            {
+              "label": "3",
+              "text": "The Epiſt. upon S. Silverius' day. Iunii. 20.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 12,
+          "text": "Theſe are in their bankets, ſpottes, feaſting together vvithout feare, feeding them ſelues, cloudes vvithout vvater vvhich are caried about of vvindes, trees of autumne, vnfruiteful, tvviſe dead, plucked vp by the rootes,"
+        },
+        {
+          "verse": 13,
+          "text": "raging vvaues of the ſea, foming out their ovvne confuſions, vvandering ſtarres: to vvhom the ſtorme of darkeneſſe is reſerued for euer."
+        },
+        {
+          "verse": 14,
+          "text": "And of theſe prophecied Enoch, the ſeuenth from Adam, ſaying, Behold our Lord is come in his holy thouſandes,"
+        },
+        {
+          "verse": 15,
+          "text": "to doe iudgement againſt al, and to reproue al the impious, of al the vvorkes of their impietie vvherby they haue done impiouſly, and of al the hard thinges vvhich impious ſinners haue ſpoken againſt him."
+        },
+        {
+          "verse": 16,
+          "text": "Theſe are murmurers, ful of complaintes, vvalking according to their ovvne deſires, and their mouth ſpeaketh pride, admiring perſons for gaine ſake."
+        },
+        {
+          "verse": 17,
+          "text": "But you my deereſt, be mindeful of the vvordes vvhich haue been ſpoken before by the Apoſtles of our Lord IESVS Chriſt,"
+        },
+        {
+          "verse": 18,
+          "text": "vvho told you, that in the laſt time ſhal come mockers, according to their ovvne deſires vvalking in impieties.",
+          "cross_refs": [
+            {
+              "text": "1. Tim. 4. 2. Tim. 3. 2. Pet. 3."
+            }
+          ]
+        },
+        {
+          "verse": 19,
+          "text": "Theſe are they vvhich ſegregate them ſelues, ſenſual, hauing not the Spirit.",
+          "has_annotation": true
+        },
+        {
+          "verse": 20,
+          "text": "But you my deereſt, building your ſelues vpon our moſt holy faith, in the holy Ghoſt, praying,",
+          "notes": [
+            {
+              "label": "1",
+              "text": "your",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 21,
+          "text": "keepe your ſelues in the loue of God, expecting the mercie of our Lord IESVS Chriſt vnto life euerlaſting."
+        },
+        {
+          "verse": 22,
+          "text": "And theſe certes reproue being iudged:"
+        },
+        {
+          "verse": 23,
+          "text": "but them ſaue, pulling out of the fire. And on other haue mercie in feare: hating alſo that vvhich is carnal, the ſpotted cote."
+        },
+        {
+          "verse": 24,
+          "text": "And to him that is able to preſerue you vvithout ſinne, and to ſette you immaculate before the ſight of his glorie in exultation in the comming of our Lord IESVS Chriſt,"
+        },
+        {
+          "verse": 25,
+          "text": "to the onely God our Sauiour by IESVS Chriſt our Lord be glorie and magnificence, empire and power before al worldes, and now and for al vvorldes euermore. Amen."
+        }
+      ],
+      "summary": "He exhorteth them to ſtand to their old faith, ſhewing them by examples, that it is damnable not to continue and be conſtant: 8 inueighing againſt the lecherie, blaſphemie, apoſtaſie, banketing of the heretikes, 14 and that their damnation vvas long foretold. 17 Catholikes therfore to be vnmoueable, to reproue the obſtinate, to recouer al not deſperate, to confirme the weake, and to liue them ſelues vertuouſly and vvithout mortal ſinne, which by Gods grace they may doe."
+    }
+  ],
+  "spelling": "original"
+}

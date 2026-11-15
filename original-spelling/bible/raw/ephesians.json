@@ -1,0 +1,1074 @@
+{
+  "book": "ephesians",
+  "book_title": "The Epistle of S. Paul\nto the Ephesians.",
+  "short_title": "Ephesians",
+  "hebrew_title": null,
+  "intros": [
+    {
+      "title": "THE ARGUMENT OF THE EPISTLE OF S. PAUL TO THE EPHESIANS.",
+      "text": "OF S. Paules firſt comming to Epheſus, and ſhort abode there, we reade Act. 18. And immediatly Act. 19. of his returning thither according to his promiſe, what time he abode there three moneths, ſpeaking to the Jews in the Synagogue. Act. 19. v. 8. and afterward apart from them (becauſe they were obſtinate) two yeres in a certaine ſchoole, ſo that al that dwelt in Aſia, heard the word of our Lord, Jews and Gentiles. Act. 19. v. 10. The whole time himſelf calleth three yeres, in his exhortation at Milétum to the Cleargie of Epheſus. Act. 20. v. 31.\nAfter all this he writeth this Epiſtle vnto them from Rome (as it is ſaid) being then priſoner and in chaines: and that as it ſeemeth, not the firſt time of his being in bonds there, whereof we reade Act. 28: but the ſecond time, whereof we reade in the Eccleſiaſticall Stories afterward: becauſe he ſaith in this Epiſtle c. 6. v. 21. Tychicus wil certifie you of al things, whom I haue ſent to you. Of whom againe in the 2. to Tim. c. 4. v. 12. he ſaith: Tychicus I haue ſent to Epheſus. And the ſaid 2. Epiſtle to Timothee (no doubt) was written very litle before his death: for in it thus he ſaith: I am euen now to be ſacrificed, & the time of my reſolution is at hand. 2. Tim. 4, 6.\n\nIn the three firſt chapters, he commendeth vnto them the grace of God, in calling of the Gentiles no leſſe then the Jews, and making one bleſſed Church of both. Wherein his intention is to moue them to perſeuere (for otherwiſe they ſhould be paſſing vngratefull) and ſpecially not to be moued with his trouble, who was their Apoſtle: knowing (belike) that it would be a great tentation vnto them, if they ſhould heare ſoone after, that he were executed: therfore alſo arming them in the end of the Epiſtle, as it were in complete harneſſe.\n\nIn the other three chapters he exhorteth them to good life, in all pointes, and all ſtates, as it becommeth Chriſtians: and afore all other things, that they be moſt ſtudious to continue in the vnitie of the Church, and obedience of the paſtors thereof, whom Chriſt hath giuen to continue and to be our ſtay againſt all Heretikes, from his Aſcenſion, euen to the full building vp of his Church in the end of the world.",
+      "default": true,
+      "notes": [
+        {
+          "marker": "◦",
+          "text": "Eph. 3. v. 1. & 4. v. 1. Eph. 6. v. 20."
+        },
+        {
+          "marker": "◦",
+          "text": "* See Act. 20. v. 25. 32."
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "PAVL an Apoſtle of IESVS Chriſt by the vvil of God: to al the ſaincts that are at Epheſus: and to the faithful in Chriſt IESVS."
+        },
+        {
+          "verse": 2,
+          "text": "Grace to you and peace from God our father, and our Lord IESVS Chriſt."
+        },
+        {
+          "verse": 3,
+          "text": "Bleſſed be God and the Father of our Lord IESVS Chriſt, vvhich hath bleſſed vs in al ſpiritual bleſſing, in coeleſtials, in Chriſt:"
+        },
+        {
+          "verse": 4,
+          "text": "as he choſe vs in him before the conſtitution of the vvorld, that vve ſhould be holy and immaculate in his ſight in charitie.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "Vve learne here that by Gods grace men be holy and immaculate, not onely in the ſight of men, nor by imputation, but truely and before God: contrarie to the Doctrine of the Caluiniſtes.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 5,
+          "text": "VVho hath predeſtinated vs vnto the adoption of ſonnes, by IESVS Chriſt, vnto him ſelf: according to the purpoſe of his vvil:"
+        },
+        {
+          "verse": 6,
+          "text": "vnto the praiſe of the glorie of his grace, vvherein he hath cgratified vs in his beloued ſonne.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "c ἐχαρίτωσεν.",
+              "kind": "word"
+            }
+          ]
+        },
+        {
+          "verse": 7,
+          "text": "In vvhom vve haue redemption by his bloud (the remiſſion of ſinnes) according to the riches of his grace."
+        },
+        {
+          "verse": 8,
+          "text": "Vvhich hath ſuperabounded in vs in al vviſedom and prudence,"
+        },
+        {
+          "verse": 9,
+          "text": "that he might make knovven vnto vs the ſacrament of his vvil, according to his good pleaſure, vvhich he purpoſed in him ſelf,"
+        },
+        {
+          "verse": 10,
+          "text": "in the diſpenſation of the fulnes of times, to cperfit al things in Chriſt, that are in heauen and in earth, in him.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "c ἀνακεφαλαιώσασθαι.",
+              "kind": "word"
+            }
+          ]
+        },
+        {
+          "verse": 11,
+          "text": "In vvhom vve alſo are called by lot: predeſtinate according to the purpoſe of him that vvorketh al things, according to the counſel of his vvil:"
+        },
+        {
+          "verse": 12,
+          "text": "that vve may be vnto the praiſe of his glorie, vvhich before haue hoped in Chriſt:"
+        },
+        {
+          "verse": 13,
+          "text": "in vvhom you alſo, vvhen you had heard the vvord of truth (the Goſpel of your ſaluation:) in vvhich alſo beleeuing you vvere ſigned vvith the holy Spirit of promis,",
+          "notes": [
+            {
+              "label": "1",
+              "text": "Some referre this to the grace of Baptiſme: but to many learned it ſeemeth that the Apoſtle alludeth to the giuing of the Holy Ghoſt in the Sacrament of Confirmation, by ſigning the baptized vvith the ſigne of the Croſſe & holy Chriſme. For that vvas the vſe in the Apoſtles time, as els vvhere vve haue prooued. Annot. Act. 8.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 14,
+          "text": "vvhich is the pledge of our inheritance, to the redemption of acquiſition, vnto the praiſe of his glorie."
+        },
+        {
+          "verse": 15,
+          "text": "Therfore I alſo hearing your faith that is in our Lord IESVS, and loue tovvard al the ſainctes:"
+        },
+        {
+          "verse": 16,
+          "text": "ceaſe not to giue thankes for you, making a memorie of you in my praiers,"
+        },
+        {
+          "verse": 17,
+          "text": "that God of our Lord IESVS Chriſt, the father of glorie, giue you the ſpirit of vviſedom and of reuelation, in the knovvledge of him,"
+        },
+        {
+          "verse": 18,
+          "text": "the eies of your hart illuminated, that you may knovv vvhat the hope is of his vocation, and vvhat are the riches of the glorie of his inheritance in the ſainctes,"
+        },
+        {
+          "verse": 19,
+          "text": "and vvhat is the paſſing greatnes of his povver tovvard vs that beleeue: according to the operation of the might of his povver,"
+        },
+        {
+          "verse": 20,
+          "text": "vvhich he vvrought in Chriſt, raiſing him vp from the dead, and ſetting him on his right hand in celeſtials,"
+        },
+        {
+          "verse": 21,
+          "text": "aboue al Principalitie & Poteſtate & Power, and Domination, and euery name that is named not only in this vvorld, but alſo in that to come.",
+          "has_annotation": true
+        },
+        {
+          "verse": 22,
+          "text": "And he hath ſubdued al things vnder his feete: and hath made him head ouer al the CHVRCH,",
+          "has_annotation": true,
+          "cross_refs": [
+            {
+              "text": "Ps. 8, 8."
+            }
+          ]
+        },
+        {
+          "verse": 23,
+          "text": "vvhich is his body, the fulnes of him vvhich is filled al in al.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "Chriſt is not ful, vvhole, and perfect vvithout the church no more then the head vvithout the body,",
+              "kind": "gloss"
+            }
+          ]
+        }
+      ],
+      "summary": "He magnifieth the grace of Gods eternal predeſtination and temporal vocation, 11 both of the Iewes, 13 and alſo of the Ephesians being Gentils. 13 for whoſe excellent faith and charitie he reioyceth, and continually praieth for their increaſe, that they may ſee more cleerely the greatnes both of the inheritance in heauen, and alſo of Gods might which helpeth them therevnto: 20 an example of which might they may behold in the ſupereminent exalting of Chriſt."
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "AND you vvhen you vvere dead by your offenſes & ſinnes,"
+        },
+        {
+          "verse": 2,
+          "text": "vvherein ſometime you vvalked according to the courſe of this vvorld, according to the prince of the povver of this aire, of the ſpirit that novv vvorketh on the children of diffidence,",
+          "cross_refs": [
+            {
+              "text": "Eph. 6, 12."
+            }
+          ]
+        },
+        {
+          "verse": 3,
+          "text": "in vvhom alſo vve al conuerſed ſometime in the deſires of our fleſh, doing the vvil of the fleſh and of thoughtes, and vvere by nature the children of vvrath as alſo the reſt:"
+        },
+        {
+          "verse": 4,
+          "text": "but God (vvhich is riche in mercie) for his exceding charitie vvhervvith he loued vs,"
+        },
+        {
+          "verse": 5,
+          "text": "euen vvhen vve vvere dead by ſinnes, quickened vs together in Chriſt, (by vvhoſe grace you are ſaued,)"
+        },
+        {
+          "verse": 6,
+          "text": "and raiſed vs vp vvith him, and hath made vs ſit vvith him in the celeſtials in Chriſt IESVS,"
+        },
+        {
+          "verse": 7,
+          "text": "that he might ſhevv in the vvorldes ſucceding, the aboundant riches of his grace, in bountie vpon vs in Chriſt IESVS."
+        },
+        {
+          "verse": 8,
+          "text": "For by grace you are ſaued through faith (and that not of your ſelues, for it is the gift of God)",
+          "has_annotation": true
+        },
+        {
+          "verse": 9,
+          "text": "not of vvorkes, that no man glorie",
+          "notes": [
+            {
+              "label": "1",
+              "text": "It is ſaid, not of vvorkes as thine, of thy ſelf being vnto thee, but as thoſe in vvhich God hath made, formed, and created thee. Aug. de gr. & lib. arbit. c. 8. & ſeq.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "text": "For vve are his vvorke, created in Chriſt IESVS in good vvorkes, vvhich God hath prepared that vve ſhould vvalke in them."
+        },
+        {
+          "verse": 11,
+          "text": "For the vvhich cauſe be mindeful that ſometime you vvere Gentils in the fleſh, vvho vvere called prepuce, of that vvhich is called circumciſion in the fleſh, made vvith hand:",
+          "cross_refs": [
+            {
+              "text": "1. Reg. 17, 26. Ezec. 44, 7."
+            }
+          ]
+        },
+        {
+          "verse": 12,
+          "text": "vvho vvere at that time vvithout Chriſt, alienated from the conuerſation of Iſrael, and ſtrangers of the teſtaments, hauing no hope of the promis, and vvithout God in this vvorld.",
+          "cross_refs": [
+            {
+              "text": "Ro. 9, 4."
+            }
+          ]
+        },
+        {
+          "verse": 13,
+          "text": "But novv in Chriſt IESVS, you that ſometime vvere farre of, are made nigh in the bloud of Chriſt."
+        },
+        {
+          "verse": 14,
+          "text": "For he is our peace, vvho hath made both one, and diſſoluing the middle vvall of the partition, the enmities in his fleſh:"
+        },
+        {
+          "verse": 15,
+          "text": "euacuating the lavv of commaundements in decrees: that he may create the tvvo in him ſelf into one new man, making peace,",
+          "notes": [
+            {
+              "label": "1",
+              "text": "ἐν δόγμασι",
+              "kind": "word"
+            }
+          ]
+        },
+        {
+          "verse": 16,
+          "text": "and may reconcile both in one body to God by the croſſe, killing the enmities in him ſelf."
+        },
+        {
+          "verse": 17,
+          "text": "And comming he euangelized peace to you that vvere farre of, and peace to them that vvere nigh."
+        },
+        {
+          "verse": 18,
+          "text": "For by him vve haue acceſſe both in one Spirit to the Father.",
+          "cross_refs": [
+            {
+              "text": "Ro. 5, 2."
+            }
+          ],
+          "notes": [
+            {
+              "label": "2",
+              "text": "The Epiſtle for S. Thomas the Apoſtle, Decemb. 21.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 19,
+          "text": "Novv then you are not ſtrangers and forreiners: but you are citizens of the ſainctes, and the domeſticals of God,",
+          "notes": [
+            {
+              "label": "1",
+              "text": "c συμπολῖται.",
+              "kind": "word"
+            }
+          ]
+        },
+        {
+          "verse": 20,
+          "text": "built vpon the foundation of the Apoſtles and Prophets, IESVS Chriſt him ſelf being the higheſt corner ſtone:",
+          "has_annotation": true
+        },
+        {
+          "verse": 21,
+          "text": "in vvhom al building framed together, grovveth into an holy temple in our Lord,"
+        },
+        {
+          "verse": 22,
+          "text": "in vvhom you alſo are built together into an habitation of God in the holy Ghoſt. ⊢"
+        }
+      ],
+      "summary": "He putteth them in minde of their vnvvorthines before they vvere Chriſtians: that al the praiſe may be giuen to the grace of God: 11 and of the enmitie that vvas then betvvene the Ievv and the Gentil: 13 vntil novv that Chriſt by his Croſſe hath made both one, taking avvay the ceremonies of the Lavv, and making one body, and building one holy Temple of al, in his Catholike Church."
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "FOR this cauſe, I Paul the priſoner of IESVS Chriſt, for you Gentiles:"
+        },
+        {
+          "verse": 2,
+          "text": "if yet you haue heard the diſpenſation of the grace of God, vvhich is giuen me tovvard you,"
+        },
+        {
+          "verse": 3,
+          "text": "becauſe according to reuelation the ſacrament vvas made knovven to me, as I haue vvritten before in breife:"
+        },
+        {
+          "verse": 4,
+          "text": "according as you reading may vnderſtand my vviſedom in the myſterie of Chriſt,"
+        },
+        {
+          "verse": 5,
+          "text": "vvhich vnto other generations vvas not knovven to the ſonnes of men, as novv it is reuealed to his holy Apoſtles & Prophets in the Spirit."
+        },
+        {
+          "verse": 6,
+          "text": "The Gentils to be coheires & concorporat and comparticipant of his promis in Chriſt IESVS by the Goſpel:"
+        },
+        {
+          "verse": 7,
+          "text": "vvhereof I am made a miniſter according to the gift of the grace of God, vvhich is giuen me according to the operation of his povver."
+        },
+        {
+          "verse": 8,
+          "text": "To me the leaſt of al the ſainctes is giuen this grace, among the Gentils to euangelize the vnſearcheable riches of Chriſt,",
+          "cross_refs": [
+            {
+              "text": "1. Cor. 15, 9."
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "text": "and to illuminate al men vvhat is the diſpenſation of the ſacrament hidden from vvorldes in God, vvho created al things:",
+          "notes": [
+            {
+              "label": "1",
+              "text": "c This is, for euer before.",
+              "kind": "gloss"
+            },
+            {
+              "label": "2",
+              "text": "ἀπὸ τῶν αἰώνων",
+              "kind": "word"
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "text": "that the manifold vviſedom of God, may be notified to the Princes and Poteſtats in the celeſtials by the Church,"
+        },
+        {
+          "verse": 11,
+          "text": "according to the cprefinitiō of worldes, vvhich he made in Chriſt IESVS our Lord.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "c that is, the eternal præfinition",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 12,
+          "text": "In vvhom vve haue affiance and acceſſe in confidence, by the faith of him."
+        },
+        {
+          "verse": 13,
+          "text": "For the vvhich cauſe I deſire that you faint not in my tribulations for you, vvhich is your glorie.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "The Epiſtle vpon the 16 Sunday after Pentecoſt.",
+              "kind": "lectionary"
+            }
+          ]
+        },
+        {
+          "verse": 14,
+          "text": "For this cauſe I bovve my knees to the Father of our Lord IESVS Chriſt,"
+        },
+        {
+          "verse": 15,
+          "text": "of vvhom al paternitie in the heauens and in earth is named,"
+        },
+        {
+          "verse": 16,
+          "text": "that he giue you according to the riches of his glorie, povver to be fortified by his Spirit in the inner man."
+        },
+        {
+          "verse": 17,
+          "text": "Chriſt to dvvel by faith in your hartes, rooted and founded in charitie,",
+          "notes": [
+            {
+              "label": "1",
+              "text": "Chriſt dvvelleth in vs by his giftes, and vve be iuſt by thoſe his giftes remaining and reſident in vs, & not by Chriſtes proper iuſtice onely, as the Heretikes affirme.",
+              "kind": "gloss"
+            },
+            {
+              "label": "2",
+              "text": "Not faith only muſt be in vs, but charitie vvhich accōpliſheth al vertues.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 18,
+          "text": "that you may be able to comprehend vvith al the ſainctes, vvhat is the bredth, and length, and height, and depth,"
+        },
+        {
+          "verse": 19,
+          "text": "to knovv alſo the charitie of Chriſt, ſurpaſſing knovvledge, that you may be filled vnto al the fulnes of God."
+        },
+        {
+          "verse": 20,
+          "text": "And to him that is able to doe al things more aboundantly then vve deſire or vnderſtand, according to the povver that vvorketh in vs:",
+          "cross_refs": [
+            {
+              "text": "Ro. 16, 25."
+            }
+          ]
+        },
+        {
+          "verse": 21,
+          "text": "to him be glorie in the Church, and in Chriſt IESVS, vnto al generations vvorld vvithout end. Amen."
+        }
+      ],
+      "summary": "For vvitneſſing the vocation of the Gentils, as being the Apoſtle of the Gentils, he is in priſon: 13 Wherein the Gentils therfore haue cause to reioyce, rather then to ſhrinke. So he ſaith, 14 and alſo praieth to God (vvho is almightie) to confirme their invvard man, though the outvvard be infirmed by perſecutions."
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "I Therfore priſoner in our Lord, beſeeche you, that you vvalke vvorthy of the vocation in vvhich you are called,",
+          "notes": [
+            {
+              "label": "1",
+              "text": "The Epiſtle vpon the 17 Sunday after Pentecoſt. And in a Votiue Maſſe againſt Schiſme.",
+              "kind": "lectionary"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "vvith al humilitie & mildenes, vvith patience, ſupporting one an other in charitie,"
+        },
+        {
+          "verse": 3,
+          "text": "careful to keepe the vnitie of the ſpirit in the bond of peace."
+        },
+        {
+          "verse": 4,
+          "text": "One body and one ſpirit: as you are called in one hope of your vocation.",
+          "cross_refs": [
+            {
+              "text": "Ro. 12, 4. 1. Cor. 12, 4.",
+              "source": "sancta"
+            }
+          ]
+        },
+        {
+          "verse": 5,
+          "text": "One Lord, one faith, one baptiſme.",
+          "has_annotation": true
+        },
+        {
+          "verse": 6,
+          "text": "One God and Father of al, vvhich is ouer al, and by al, and in al vs. ⊢",
+          "cross_refs": [
+            {
+              "text": "Malac. 2, 10."
+            }
+          ]
+        },
+        {
+          "verse": 7,
+          "text": "But to euery one of vs is giuen grace according to the meaſure of the donation of Chriſt.",
+          "cross_refs": [
+            {
+              "text": "Ro. 12, 4. 1. Cor. 12, 4."
+            }
+          ],
+          "notes": [
+            {
+              "label": "2",
+              "text": "The Epiſtle vpō Aſcenſion eue. And vpon SS. Simon and Iudes day.",
+              "kind": "lectionary"
+            }
+          ]
+        },
+        {
+          "verse": 8,
+          "text": "For the vvhich he ſaith, Aſcending on high, he ledde captiuitie captiue: he gaue giftes to men.",
+          "cross_refs": [
+            {
+              "text": "Pſ. 67. 19."
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "text": "(And that he aſcended, vvhat is it, but becauſe he deſcended alſo firſt into the cinferiour partes of the earth?",
+          "notes": [
+            {
+              "label": "1",
+              "text": "He meaneth ſpecially of his deſcending to Hel.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "text": "He that deſcended, the ſame is alſo he that is aſcended aboue al the heauens, that he might fill al things.)"
+        },
+        {
+          "verse": 11,
+          "text": "And he gaue, ſome Apoſtles, and ſome Prophets, and otherſome Euangeliſts, and otherſome paſtors and doctors,",
+          "has_annotation": true,
+          "cross_refs": [
+            {
+              "text": "1. Cor. 12, 28."
+            }
+          ]
+        },
+        {
+          "verse": 12,
+          "text": "to the conſummation of the ſainctes, vnto the vvorke of the miniſterie, vnto the edifying of the body of Chriſt:"
+        },
+        {
+          "verse": 13,
+          "text": "vntil we meete al into the vnitie of faith, and knovvledge of the ſonne of God, into a perfect man, into the meaſure of the age of the fulnes of Chriſt: ⊢",
+          "has_annotation": true
+        },
+        {
+          "verse": 14,
+          "text": "that novv vve be not children vvauering, and caried about vvith euery vvinde of doctrine in the vvickednes of men, in craftines to the circumuention of errour.",
+          "has_annotation": true
+        },
+        {
+          "verse": 15,
+          "text": "But doing the truth in charitie, let vs in al things grow in him, vvhich is the head, Chriſt:"
+        },
+        {
+          "verse": 16,
+          "text": "of vvhom the vvhole body being compacte and knit together by al iuncture of ſubminiſtration, according to the operation in the meaſure of euery member, maketh the increaſe of the body vnto the edifying of it ſelf in charitie."
+        },
+        {
+          "verse": 17,
+          "text": "This therfore I ſay and teſtifie in our Lord: that novv you vvalke not as alſo the Gentiles vvalke in the vanitie of their ſenſe,",
+          "cross_refs": [
+            {
+              "text": "1. Pet. 4, 3. Ro. 1, 21."
+            }
+          ]
+        },
+        {
+          "verse": 18,
+          "text": "hauing their vnderſtanding obſcured vvith darkenes, alienated from the life of God by the ignorance that is in them, becauſe of the blindenes of their hart,"
+        },
+        {
+          "verse": 19,
+          "text": "vvho deſpairing, haue giuen vp them ſelues to impudicitie, vnto the operation of al vncleannes, vnto auarice.",
+          "cross_refs": [
+            {
+              "text": "Ro. 1, 24."
+            }
+          ]
+        },
+        {
+          "verse": 20,
+          "text": "But you haue not ſo learned Chriſt:"
+        },
+        {
+          "verse": 21,
+          "text": "if yet you haue heard him, and haue been taught in him, (as the truth is in IESVS.) ⊢"
+        },
+        {
+          "verse": 22,
+          "text": "Lay you avvay, according to the old conuerſation the old man, vvhich is corrupted according to the deſires of errour.",
+          "cross_refs": [
+            {
+              "text": "Colos. 3, 8. Heb. 12, 1."
+            }
+          ],
+          "notes": [
+            {
+              "label": "2",
+              "text": "The Epiſtle upon the 19. Sunday after Pentecoſt.",
+              "kind": "lectionary"
+            }
+          ]
+        },
+        {
+          "verse": 23,
+          "text": "And be renevved in the ſpirit of your minde:",
+          "notes": [
+            {
+              "label": "1",
+              "text": "The Apoſtle teacheth vs not to apprehēd Chriſts iuſtice by faith only, but to be renevved in our ſelues truly, & to put on vs the nevv mā formed & created in iuſtice and holines of truth. By the vvhich, free vvil alſo is proued to be in vs, to vvorke vvith God, or to conſent vnto him in our ſanctification.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 24,
+          "text": "and put on the nevv man vvhich according to God is created in iuſtice, and holineſſe of the truth."
+        },
+        {
+          "verse": 25,
+          "text": "For the vvhich cauſe laying avvay lying, ſpeake ye truth euery one vvith his neighbour, becauſe vve are members one of an other.",
+          "cross_refs": [
+            {
+              "text": "Zach. 8, 16."
+            }
+          ]
+        },
+        {
+          "verse": 26,
+          "text": "Be angrie and ſinne not. let not the ſonne goe dovvne vpon your anger.",
+          "cross_refs": [
+            {
+              "text": "Pſ. 4, 5."
+            }
+          ]
+        },
+        {
+          "verse": 27,
+          "text": "Giue not place to the Deuil."
+        },
+        {
+          "verse": 28,
+          "text": "He that ſtole, let him novv not ſteale: but rather let him labour in vvorking vvith his handes that vvhich is good, that he may haue vvhence to giue vnto him that ſuffereth neceſſitie."
+        },
+        {
+          "verse": 29,
+          "text": "Al naughtie ſpeache let it not proceede out of your mouth: but if there be any good to the edifying of the faith, that it may giue grace to the hearers."
+        },
+        {
+          "verse": 30,
+          "text": "And contriſtate not the holy Spirit of God: in vvhich you are ſigned vnto the day of redemption."
+        },
+        {
+          "verse": 31,
+          "text": "Let al bitternes, and anger, and indignation, and clamour, and blaſphemie be taken avvay from you vvith al malice."
+        },
+        {
+          "verse": 32,
+          "text": "And be gentle one to an other, merciful, pardoning one an other, as alſo God in Chriſt hath pardoned you."
+        }
+      ],
+      "summary": "He exhorteth them to keepe the vnitie of the Church moſt carefully vvith al humilitie, bringing them many motiues therevnto: 7 and anſvvering that euen the diuerſitie it ſelf of offices is not for diuiſion, as being the gift of Chriſt him ſelf, but to build vp the Church, and to hold al in the vnitie thereof againſt the ſuttle circumuentions of Heretikes: that vnder Chriſt the head, in the Church being the body, euery member may proſper. 17 Neither (as touching life) muſt vve liue like the Heathen, but as it becommeth Chriſtians, laying of al our old corrupt maners, and increaſing daily in al goodnes."
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "BE ye therfore folovvers of God, as moſt deere children:",
+          "notes": [
+            {
+              "label": "1",
+              "text": "The epiſtle vpon the 3 Sunday in Lent.",
+              "kind": "lectionary"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "and walke in loue, as Chriſt alſo loued vs, and deliuered him ſelf for vs an oblation and hoſt to God in an odour of ſvvetenes.",
+          "cross_refs": [
+            {
+              "text": "Io. 13, 34."
+            }
+          ],
+          "xrefs": [
+            "Io. 13, 34."
+          ]
+        },
+        {
+          "verse": 3,
+          "text": "But fornication and al vncleannes, or auarice, let it not ſo much as be named among you, as it becommeth ſainctes:",
+          "cross_refs": [
+            {
+              "text": "Col. 3, 5."
+            }
+          ]
+        },
+        {
+          "verse": 4,
+          "text": "or filthines, or fooliſh talke, or ſcurrilitie, being to no purpoſe: but rather giuing of thankes."
+        },
+        {
+          "verse": 5,
+          "text": "For vnderſtanding knovv you this, that no fornicatour, or vncleane, or couetous perſon (vvhich is the ſeruice of Idols) hath inheritance in the kingdom of Chriſt and of God.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "See the heretical corruption of this place in the Annotation Col. 3. v. 5.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 6,
+          "text": "Let no man ſeduce you vvith vaine vvordes. For, for theſe things commeth the anger of God vpon the children of diffidence."
+        },
+        {
+          "verse": 7,
+          "text": "Become not therfore partakers vvith them."
+        },
+        {
+          "verse": 8,
+          "text": "For you vvere ſometime darkenes, but novv light in our Lord. Vvalke as children of the light,"
+        },
+        {
+          "verse": 9,
+          "text": "(for the fruite of the light is in al goodnes, and iuſtice, and veritie) ⊢"
+        },
+        {
+          "verse": 10,
+          "text": "prouing vvhat is vvel pleaſing to God:"
+        },
+        {
+          "verse": 11,
+          "text": "and communicate not vvith the vnfruitful vvorkes of darkenes, but rather reproue them."
+        },
+        {
+          "verse": 12,
+          "text": "For the things that are done of them in ſecrete, it is ſhame euen to ſpeake."
+        },
+        {
+          "verse": 13,
+          "text": "But al things that are reproued, are manifeſted by the light. for al that is manifeſted, is light."
+        },
+        {
+          "verse": 14,
+          "text": "for the vvhich cauſe he ſaith: Riſe thou that ſleepeſt, and ariſe from the dead: and Chriſt vvil illuminate thee.",
+          "cross_refs": [
+            {
+              "text": "Eſa. 9, 60."
+            }
+          ],
+          "xrefs": [
+            "Es. 9, 60."
+          ]
+        },
+        {
+          "verse": 15,
+          "text": "See therfore, brethren, how you vvalke vvarily. not as vnvviſe, but as vviſe:",
+          "cross_refs": [
+            {
+              "text": "Col. 4, 5."
+            }
+          ],
+          "notes": [
+            {
+              "label": "2",
+              "text": "The Epiſtle vpon the 20 Sunday after Pentecoſt.",
+              "kind": "lectionary"
+            }
+          ]
+        },
+        {
+          "verse": 16,
+          "text": "redeeming the time, becauſe the daies are euil."
+        },
+        {
+          "verse": 17,
+          "text": "Therfore become not vnvviſe, but vnderſtanding vvhat is the vvil of God.",
+          "cross_refs": [
+            {
+              "text": "Ro. 12, 2."
+            }
+          ]
+        },
+        {
+          "verse": 18,
+          "text": "And be not drunke vvith vvine vvherein is rioteouſnes, but be filled vvith the Spirit,"
+        },
+        {
+          "verse": 19,
+          "text": "ſpeaking to your ſelues in pſalmes & hymnes, and ſpiritual canticles, chaunting and ſinging in your hartes to our Lord:"
+        },
+        {
+          "verse": 20,
+          "text": "giuing thankes alvvaies for al things, in the name of our Lord IESVS Chriſt to God & the Father."
+        },
+        {
+          "verse": 21,
+          "text": "Subiect one to an other in the feare of Chriſt."
+        },
+        {
+          "verse": 22,
+          "text": "Let vvomen be ſubiect to their huſbandes, as to our Lord:",
+          "cross_refs": [
+            {
+              "text": "Col. 3, 18. Tit. 2, 5. 1. Pet. 3, 1."
+            }
+          ],
+          "notes": [
+            {
+              "label": "2",
+              "text": "The Epiſtle in a votive Maſs for mariage.",
+              "kind": "gloss"
+            }
+          ],
+          "xrefs": [
+            "Col. 3, 18. · Tit. 2, 5. · 1 Per. 3, 1."
+          ]
+        },
+        {
+          "verse": 23,
+          "text": "becauſe the man is the head of the woman: as Chriſt is the head of the CHVRCH. Him ſelf, the ſauiour of his body.",
+          "has_annotation": true,
+          "cross_refs": [
+            {
+              "text": "Gen. 3, 16. 1. Cor. 11, 3."
+            }
+          ],
+          "notes": [
+            {
+              "label": "2",
+              "text": "It is much to be noted, that in the firſt Engliſh Bibles there is not once the name of CHVRCH in al the Bible, but in ſteede thereof, Congregatiō. vvhich is ſo notorious a corruption, that thē ſelues in the later bibles correct it for ſhame, but yet ſuffer the other to be read and vſed ſtill. See the Bible printed in the yere 1562.",
+              "kind": "gloss"
+            }
+          ],
+          "xrefs": [
+            "Ge. 3, 16. · 1 Cor. 11, 3."
+          ]
+        },
+        {
+          "verse": 24,
+          "text": "But as the CHVRCH is ſubiect to Chriſt, ſo alſo the vvomen to their huſbands in al things.",
+          "has_annotation": true
+        },
+        {
+          "verse": 25,
+          "text": "Huſbands, loue your vviues, as Chriſt alſo loued the CHVRCH, and deliuered him ſelf for it:",
+          "has_annotation": true
+        },
+        {
+          "verse": 26,
+          "text": "that he might ſanctifie it, cleanſing it by the lauer of vvater in the vvord,"
+        },
+        {
+          "verse": 27,
+          "text": "that he might preſent to him ſelf a glorious CHVRCH, not hauing ſpot, or wrinkle, or any ſuch thing, but that it may be holy and vnſpotted."
+        },
+        {
+          "verse": 28,
+          "text": "So alſo men ought to loue their vviues as their ovvne bodies. He that loueth his vvife, loueth him ſelf."
+        },
+        {
+          "verse": 29,
+          "text": "For no man euer hated his ovvne fleſh: but he nouriſheth & cheriſheth it, as alſo Chriſt the CHVRCH:",
+          "has_annotation": true
+        },
+        {
+          "verse": 30,
+          "text": "becauſe vve be the members of his body, of his fleſh & of his bones."
+        },
+        {
+          "verse": 31,
+          "text": "For this cauſe ſhal man leaue his father & mother: and ſhal cleaue to his vvife, and they ſhal be tvvo in one fleſh.",
+          "cross_refs": [
+            {
+              "text": "Gen. 2, 24. Mat. 19, 5."
+            }
+          ]
+        },
+        {
+          "verse": 32,
+          "text": "This is a great ſacrament. but I ſpeake in Chriſt and in the CHVRCH",
+          "has_annotation": true
+        },
+        {
+          "verse": 33,
+          "text": "Neuertheles you alſo euery one, let eche loue his vvife as him ſelf: and let the vvife feare her huſband. ⊢"
+        }
+      ],
+      "summary": "He continueth his exhortation to good life, 5 aſſuring them againſt al deceiuers, that no committer of mortal ſinne ſhal be ſaued: conſidering that for ſuch ſinnes it is that the Heathen ſhal be damned: 8 & that Chriſtians muſt rather be the light of al others. 22 Then he commeth in particular and exhorteth huſbands and vviues to do their duety one tovvardes the other, by the example of Chriſt and his obedient and beloued ſpouſe the Church."
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "CHILDREN, obey your parents in our Lord. for this is iuſt."
+        },
+        {
+          "verse": 2,
+          "text": "Honour thy father and thy mother (vvhich is the firſt commaundement in the promis,)",
+          "cross_refs": [
+            {
+              "text": "Col. 3, 20. Exo. 20, 12. Deu. 5, 16."
+            }
+          ]
+        },
+        {
+          "verse": 3,
+          "text": "that it may be vvel vvith thee, and thou maieſt be long-liued vpon the earth."
+        },
+        {
+          "verse": 4,
+          "text": "And you fathers, prouoke not your children to anger: but bring them vp in the diſcipline and correption of our Lord."
+        },
+        {
+          "verse": 5,
+          "text": "Seruants, be obedient to your lordes according to the fleſh, with feare and trembling, in the ſimplicitie of your hart, as to Chriſt:",
+          "cross_refs": [
+            {
+              "text": "Col. 3, 22. Tit. 2, 9. 1. Pet. 2, 8."
+            }
+          ]
+        },
+        {
+          "verse": 6,
+          "text": "not ſeruing to the eie, as it vvere pleaſing men, but as the ſeruants of Chriſt, doing the vvil of God from the hart,"
+        },
+        {
+          "verse": 7,
+          "text": "vvith a good vvil ſeruing, as to our Lord and not to men."
+        },
+        {
+          "verse": 8,
+          "text": "Knovving that euery one vvhat good ſoeuer he ſhal doe, that ſhal he receiue of our Lord, vvhether he be bond, or free.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "God leaueth no good worke vnrewarded.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "text": "And you maiſters, doe the ſame things to them, bremitting threatenings: knovving that both their Lord and yours, is in heauen: and acception of perſons is not vvith him.",
+          "cross_refs": [
+            {
+              "text": "Deu. 10, 17."
+            }
+          ],
+          "notes": [
+            {
+              "label": "2",
+              "text": "b ἀνιέντες",
+              "kind": "word"
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "text": "Hence forth brethren, be ſtrengthened in our Lord, & in the might of his povver.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "The Epiſtle vpon the 21 Sunday after Pentecoſt.",
+              "kind": "lectionary"
+            }
+          ]
+        },
+        {
+          "verse": 11,
+          "text": "Put you on the armour of God, that you may ſtand againſt the deceites of the Deuil.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "c πανοπλίαν.",
+              "kind": "word"
+            }
+          ]
+        },
+        {
+          "verse": 12,
+          "text": "For our vvreſtling is not againſt fleſh and bloud: but againſt Princes and Poteſtats, againſt the rectors of the vvorld of this darkenes, againſt the ſpirituals of vvickednes in the celeſtials.",
+          "cross_refs": [
+            {
+              "text": "Eph. 2, 2."
+            }
+          ]
+        },
+        {
+          "verse": 13,
+          "text": "Therfore take the armour of God, that you may reſiſt in the euil day, and ſtand in al things perfect."
+        },
+        {
+          "verse": 14,
+          "text": "Stand therfore hauing your loines girded in truth, and clothed with the breaſt-plate of iuſtice,",
+          "notes": [
+            {
+              "label": "1",
+              "text": "If mā could not be truely iuſt or haue iuſtice in him ſelf, hovv could he be clothed vvith iuſtice?",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 15,
+          "text": "& hauing your feete ſhod to the preparation of the Goſpel of peace:"
+        },
+        {
+          "verse": 16,
+          "text": "in al things taking the ſhield of faith, vvherevvith you may extinguiſh al the firie dartes of the moſt vvicked one."
+        },
+        {
+          "verse": 17,
+          "text": "and take vnto you the helmet of ſaluation: and the ſvvord of the ſpirit ( vvhich is the vvord of God ) ⊢",
+          "cross_refs": [
+            {
+              "text": "Eſa. 59, 17. 1. Thes. 5, 8."
+            }
+          ],
+          "xrefs": [
+            "Es. 59, 17. · 1. Thes. 5, 8."
+          ]
+        },
+        {
+          "verse": 18,
+          "text": "in al praier and ſupplication praying at al time in ſpirit: and in the ſame vvatching in al inſtance and ſupplication for al the ſaincts:"
+        },
+        {
+          "verse": 19,
+          "text": "and for me, that ſpeache may be giuen me in the opening of my mouth vvith confidence, to make knowen the myſterie of the Goſpel,"
+        },
+        {
+          "verse": 20,
+          "text": "for the vvhich I am a legate in this chaine, ſo that in it I may be bold according as I ought, to ſpeake."
+        },
+        {
+          "verse": 21,
+          "text": "And that you alſo may knovv the things about me, vvhat I doe: Tychicus my deereſt brother and faithful miniſter in our Lord, vvil make you vnderſtand al things:"
+        },
+        {
+          "verse": 22,
+          "text": "vvhom I haue ſent to you for this ſame purpoſe, that you may know the things about vs, and he may comfort your hartes."
+        },
+        {
+          "verse": 23,
+          "text": "Peace to the brethren and charitie vvith faith from God the Father, and our Lord IESVS Chriſt.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "S. Auguſtine noteth in ſundrie places vpon this ſame text, that faith vvithout charitie ſerueth not to ſaluation. li. 50. ho. 7.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 24,
+          "text": "Grace vvith al that loue our Lord IESVS Chriſt in incorruption. Amen."
+        }
+      ],
+      "summary": "Likevviſe children and parents he exhorteth, 5 item ſeruants and maiſters. 10 Then, thas al take courage in the might of God, but ſo, that vvithal they arme them ſelue (conſidering vvhat mightie enemies they haue) vvith al peeces of ſpiritual armour, 18 praying alvvaies feruently, and for him alſo."
+    }
+  ],
+  "spelling": "original"
+}

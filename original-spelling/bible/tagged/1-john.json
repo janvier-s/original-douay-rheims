@@ -1,0 +1,800 @@
+{
+  "book": "1-john",
+  "book_title": "The First Epistle of John the Apostle.",
+  "short_title": "1 John",
+  "hebrew_title": null,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "<sc>THAT</sc> vvhich vvas from the beginning, vvhich vve haue heard, vvhich vve haue ſeen vvith our eies, vvhich vve haue looked vpon, and our handes haue handled of the vvord of life:"
+        },
+        {
+          "verse": 2,
+          "text": "( and the life vvas manifeſted: and vve haue ſeen, and do teſtifie, and declare vnto you the life eternal vvhich vvas vvith the Father, and hath appeared to vs)"
+        },
+        {
+          "verse": 3,
+          "text": "that vvhich vve haue ſeen and haue heard, vve declare vnto you, that you alſo may haue ſocietie vvith vs, and our ſocietie may be vvith the Father and vvith his Sonne <sc>IESVS</sc> Chriſt.",
+          "has_annotation": true
+        },
+        {
+          "verse": 4,
+          "text": "And theſe things vve vvrite to you, that you may reioyce, and your ioy may be ful."
+        },
+        {
+          "verse": 5,
+          "text": "And this is the annuntiation vvhich vve haue heard of him, and declare vnto you, That <cr>[1]</cr> God is light, and in him there is no darkeneſſe.",
+          "cross_refs": [
+            {
+              "text": "Io. 8, 12."
+            }
+          ]
+        },
+        {
+          "verse": 6,
+          "text": "If vve ſhal ſay that we haue ſocietie vvith him, and vvalke in darkeneſſe: vve lie, and do not the truth."
+        },
+        {
+          "verse": 7,
+          "text": "But if we vvalke in the light, as he alſo is in the light: vve haue ſocietie one tovvard an other, and <cr>[1]</cr> the bloud of <sc>IESVS</sc> Chriſt his ſonne cleanſeth vs from al ſinne.",
+          "has_annotation": true,
+          "cross_refs": [
+            {
+              "text": "Heb. 9. 1. Pet. 1. Apo. 1."
+            }
+          ]
+        },
+        {
+          "verse": 8,
+          "text": "<cr>[1]</cr> If vve ſhal ſay that vve haue no ſinne, vve ſeduce our ſelues, and the truth is not in vs.",
+          "has_annotation": true,
+          "cross_refs": [
+            {
+              "text": "3. Reg. 8, 46. 2. Par. 6, 36."
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "text": "If vve confeſſe our ſinnes: he is faithful & iuſt, for to forgiue vs our ſinnes, and to cleanſe vs from al iniquitie."
+        },
+        {
+          "verse": 10,
+          "text": "If we ſhal ſay that vve haue not ſinned: vve make him a lier, and his word is not in vs."
+        }
+      ],
+      "summary": "Good cauſe there is to beleeue the Apoſtles preaching. 5 And this is one point of their preaching, that to haue participation with God, we muſt not onely beleeue, but alſo abſtaine from al mortal ſinne, 8 though we al ſinne venially."
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "MY litle children, theſe things I vvrite to you, that you ſinne not. But & if any man ſhal ſinne, vve haue an <na>[1]</na> caduocate vvith the Father, <sc>IESVS</sc> Chriſt the iuſt:",
+          "has_annotation": true,
+          "notes": [
+            {
+              "label": "1",
+              "text": "<i>c παράκλητον.</i>",
+              "kind": "word"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "and he is the propitiation for our ſinnes: and not for ours only, but alſo for the vvhole vvorldes.",
+          "has_annotation": true
+        },
+        {
+          "verse": 3,
+          "text": "And in this vve know that vve haue knovven him, if vve obſerue his commaundements."
+        },
+        {
+          "verse": 4,
+          "text": "He that ſaith he knovveth him, and keepeth not his commaundements: is a lier and the truth is not in him:",
+          "has_annotation": true
+        },
+        {
+          "verse": 5,
+          "text": "But he that keepeth his vvord, in him in very deede the charitie of God is perfited: in this vve know that vve be in him."
+        },
+        {
+          "verse": 6,
+          "text": "He that ſaith he abideth in him: ought euen as he walked, him ſelf alſo to vvalke."
+        },
+        {
+          "verse": 7,
+          "text": "My deereſt, I vvrite not a nevv commaundement to you, but an old commaundement which you had from the beginning. The old commaundement is the vvord vvhich you haue heard."
+        },
+        {
+          "verse": 8,
+          "text": "Againe <cr>[1]</cr> a nevv commaundement vvrite I to you, vvhich thing is true both in him and in you: becauſe the darkeneſſe is paſſed, and the true light novv ſhineth.",
+          "cross_refs": [
+            {
+              "text": "Io. 13, 34. 15, 12."
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "text": "He that ſaith he is in the light, and hateth his brother: is in the darkeneſſe euen vntil novv."
+        },
+        {
+          "verse": 10,
+          "text": "<cr>[1]</cr> He that loueth his brother, abideth in the light, and ſcandal is not in him.",
+          "cross_refs": [
+            {
+              "text": "1. Io. 3, 14."
+            }
+          ]
+        },
+        {
+          "verse": 11,
+          "text": "But he that hateth his brother: is in the darkeneſſe, and vvalketh in the darkeneſſe, and knovveth not vvhither he goeth, becauſe the darkenes hath blinded his eies."
+        },
+        {
+          "verse": 12,
+          "text": "I write vnto you litle children, becauſe your ſinnes are forgiuen you for his name."
+        },
+        {
+          "verse": 13,
+          "text": "I vvrite vnto you fathers, becauſe you haue knovven him vvhich is from the beginning. I vvrite vnto you yong men, becauſe you haue ouercome the vvicked one."
+        },
+        {
+          "verse": 14,
+          "text": "I vvrite to you infantes, becauſe you haue knovven the Father. I write vnto you yong men, becauſe you are ſtrong, and the vvord of God abideth in you, & you haue ouercome the vvicked one."
+        },
+        {
+          "verse": 15,
+          "text": "Loue not the vvorld, nor thoſe things vvhich are in the vvorld. If any man loue the vvorld, the charitie of the Father is not in him."
+        },
+        {
+          "verse": 16,
+          "text": "becauſe <na>[1]</na> al that is in the vvorld, is the concupiſcence of the fleſh, & the concupiſcence of the eies, and the pride of life, vvhich is not of the Father, but is of the vvorld.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "all. How all ſin and temptation proceed of theſe three, ſee S. Thomas Sum. 1. 2. <i>quæſt. 77. art. 5</i>.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 17,
+          "text": "And the vvorld paſſeth and the concupiſcence thereof. But he that doeth the vvil of God, abideth for euer."
+        },
+        {
+          "verse": 18,
+          "text": "Litle children, it is the laſt houre, & as you haue heard, that <na>[1]</na> Antichriſt commeth: now there are become many antichriſtes: vvhereby vve knovv, that it is the laſt houre.",
+          "has_annotation": true,
+          "notes": [
+            {
+              "label": "1",
+              "text": "<i>c ὁ ἀντίχριςος.</i>",
+              "kind": "word"
+            }
+          ]
+        },
+        {
+          "verse": 19,
+          "text": "They vvent out from vs: but <na>[1]</na> they vvere not of vs. for if they had been of vs, they vvould ſurely haue remained with vs: but that they may be manifeſt that they are not al of vs.",
+          "has_annotation": true,
+          "notes": [
+            {
+              "label": "1",
+              "text": "They were of vs for the time, that is, of and in the Church: otherwiſe they could not haue gone out. but they vvere not of the cōſtāt ſort, or of the elect & prędeſtinat: for then they had taried within, or returned before their death.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 20,
+          "text": "But you haue <na>[1]</na> the cvnction from the Holy one, and knovv al things.",
+          "has_annotation": true,
+          "notes": [
+            {
+              "label": "1",
+              "text": "<i>χρῖσμα Chriſma. whereof Chriſt & Chriſtians</i>.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 21,
+          "text": "I haue not written to you as to them that knovv not the truth, but as to them that knovv it: and that no lie is of the truth."
+        },
+        {
+          "verse": 22,
+          "text": "VVho is a lier, but he vvhich denieth that <sc>IESVS</sc> is not Chriſt? This is Antichriſt vvhich denieth the Father and the Sonne."
+        },
+        {
+          "verse": 23,
+          "text": "Euery one that denieth the Sonne, neither hath he the Father. He that confeſſeth the Sonne, hath the Father alſo."
+        },
+        {
+          "verse": 24,
+          "text": "You, that vvhich you haue <na>[1]</na> heard from the beginning, let it abide in you. If that abide in you vvhich you haue heard from the beginning, you alſo ſhal abide in the Sonne & the Father.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "Keepe that firmely & conſtantly vvhich you haue heard euen from the beginning, by the mouth of the Apoſtles: & not that only vvhich you haue receiued by writing.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 25,
+          "text": "And this is the promis vvhich he promiſed vs, life euerlaſting."
+        },
+        {
+          "verse": 26,
+          "text": "Theſe things haue I vvritten to you concerning them that ſeduce you."
+        },
+        {
+          "verse": 27,
+          "text": "And you, the vnction vvhich you haue receiued from him, let it abide in you. And you haue no neede that any man teache you: but as his vnction teacheth you of al things, and it is true, and it is no lie. And as it hath taught you, abide <na>[1]</na> in him.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "or, <i>in it</i>.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 28,
+          "text": "And now litle children abide in him: that vvhen he ſhal appeare, vve may haue confidence, and not be confounded of him in his comming."
+        },
+        {
+          "verse": 29,
+          "text": "If you know that he is iuſt, knovv ye that euery one alſo <na>[1]</na> vvhich doeth iuſtice, is borne of him.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "We ſee it is Apoſtolical doctrine, that men may do or worke iuſtice, and that ſo doing they be iuſt by their workes, proceding of Gods grace, & not by faith or imputation onely.",
+              "kind": "gloss"
+            }
+          ]
+        }
+      ],
+      "summary": "If any ſinne mortally, he muſt not deſpaire. 3 To know God rightly, is not to beleeue onley, but to keepe his commaundements: 7 and that this is no new doctrine, but the very primitiue, though a new life it is. 9 Therfore he that beleeueth muſt alſo loue his brethren: 12 and that men muſt not loue the world, but doe that which God willeth. 18 Many are gone out of the Church and become Seducers, al the miniſters of Antichriſt: but true Chriſtians muſt continue in their old faith, conſidering the reward, and that they neede not goe to ſchole to any Heretike, the Holy Ghoſt himſelf being the ſcholemaſter of the Church. 29 he doth earneſtly inculcate iuſtice and good workes."
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "<sc>SEE</sc> vvhat maner of charitie the Father hath giuen vs, that vve ſhould be named and be <na>[1]</na> the ſonnes of God. For this cauſe the world doth not knovv vs, becauſe it hath not knovven him.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "Not by nature, as Chriſt is: but by grace and adoption.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "My deereſt, novv we are the ſonnes of God: & it hath not yet appeared vvhat we ſhal be. VVe know that when he ſhal appeare, we ſhal be like to him: becauſe vve ſhal <na>[1]</na> ſee him as he is.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "How we ſhal ſee God, & be like vnto him in the next life, ſee S. Auguſtine <i>ep. 111. 112. & li. 12. de ciuit. Dei c. 29</i>.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 3,
+          "text": "And euery one that hath this hope in him, <na>[1]</na> ſanctifieth him ſelf, as he alſo is holy.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "This teacheth vs that man ſanctifieth him ſelf by his free wil working together with Gods grace. S. Auguſtine <i>vpon this place</i>.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 4,
+          "text": "Euery one that committeth ſinne, committeth alſo iniquitie: and ſinne is iniquitie.",
+          "has_annotation": true
+        },
+        {
+          "verse": 5,
+          "text": "And <cr>[1]</cr> you knovv that he appeared to take away our ſinnes: <cr>[2]</cr> and ſinne in him there is none.",
+          "cross_refs": [
+            {
+              "text": "Es. 53, 4."
+            },
+            {
+              "text": "1. Pet. 2, 24."
+            }
+          ]
+        },
+        {
+          "verse": 6,
+          "text": "Euery one that abideth in him, ſinneth not: and euery one that ſinneth, hath not ſeen him, nor knowen him.",
+          "has_annotation": true
+        },
+        {
+          "verse": 7,
+          "text": "Litle children, let no man ſeduce you. He that doeth iuſtice, is iuſt: euen as he alſo is iuſt.",
+          "has_annotation": true
+        },
+        {
+          "verse": 8,
+          "text": "<cr>[1]</cr> He that committeth ſinne, is of the deuil: becauſe the deuil ſinneth from the beginning. For this, appeared the Sonne of God, that he might diſſolue the vvorkes of the deuil.",
+          "has_annotation": true,
+          "cross_refs": [
+            {
+              "text": "Io. 8, 44."
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "text": "Euery one that is borne of God, committeth not ſinne: becauſe his ſeede abideth in him, and he can not ſinne becauſe he is borne of God."
+        },
+        {
+          "verse": 10,
+          "text": "In this are the children of God manifeſt, and the children of the deuil. Euery one that is not iuſt, is not of God, and he that loueth not his brother."
+        },
+        {
+          "verse": 11,
+          "text": "<cr>[1]</cr> becauſe this is the annuntiation, vvhich you haue heard from the beginning, <na>[2]</na> That you loue one an other.",
+          "cross_refs": [
+            {
+              "text": "Io. 13. 15."
+            }
+          ],
+          "notes": [
+            {
+              "label": "2",
+              "text": "The Epiſtle for S. Polycarpus, <i>Ian. 26.</i>",
+              "kind": "lectionary"
+            }
+          ],
+          "xrefs": [
+            "*Io. 13, 15.*"
+          ]
+        },
+        {
+          "verse": 12,
+          "text": "Not as <cr>[1]</cr> Cain, vvho was of the vvicked, and killed his brother. And for vvhat cauſe killed he him? Becauſe his vvorkes vvere vvicked: but his brothers, iuſt.",
+          "cross_refs": [
+            {
+              "text": "Gen. 4, 8."
+            }
+          ]
+        },
+        {
+          "verse": 13,
+          "text": "<na>[1]</na> Maruel not brethren, if the vvorld hate you.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "The Epiſtle vpon the 2. Sunday after Pentecoſt.",
+              "kind": "lectionary"
+            }
+          ]
+        },
+        {
+          "verse": 14,
+          "text": "Vve knovv that we are tranſlated from death to life, becauſe vve loue the brethren. He that loueth not, abideth in death."
+        },
+        {
+          "verse": 15,
+          "text": "VVhoſoeuer hateth his brother: is a murderer. And you knovv that no murderer hath life euerlaſting abiding in him ſelf."
+        },
+        {
+          "verse": 16,
+          "text": "<cr>[1]</cr> In this vve haue knovven the charitie of God, becauſe he hath yelded his life for vs: and vve ought to yeld our liues for the brethren. ⊢",
+          "cross_refs": [
+            {
+              "text": "Io. 15, 13."
+            }
+          ]
+        },
+        {
+          "verse": 17,
+          "text": "<cr>[1]</cr> He that ſhal haue the ſubſtance of the vvorld, and ſhal <na>[2]</na> ſee his brother haue neede, and ſhal ſhut his bovvels from him: hovv doth the charitie of God abide in him?",
+          "cross_refs": [
+            {
+              "text": "Ia. 2, 15."
+            }
+          ],
+          "notes": [
+            {
+              "label": "2",
+              "text": "Ia. 2, 15. · Euery man is bound to giue almes according to his abilitie, when he ſeeth his brother in great neceſſitie.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 18,
+          "text": "My litle children, let vs not loue in word, nor in tongue, but in deede and truth. ⊢"
+        },
+        {
+          "verse": 19,
+          "text": "In this vve knovv that vve are of the truth: and in his ſight vve ſhal perſuade our hartes."
+        },
+        {
+          "verse": 20,
+          "text": "For if our hart do reprehend vs: God is greater then our hart, and knovveth al thinges."
+        },
+        {
+          "verse": 21,
+          "text": "My deereſt, if our hart do not reprehend vs, vve haue confidence tovvard God."
+        },
+        {
+          "verse": 22,
+          "text": "And <cr>[1]</cr> vvhatſoeuer vve ſhal aſke, vve ſhal receiue of him: becauſe vve keepe his commaundementes, and doe thoſe thinges vvhich are pleaſing before him.",
+          "has_annotation": true,
+          "cross_refs": [
+            {
+              "text": "Mat. 21. Io. 14. 1. Io. 5."
+            }
+          ]
+        },
+        {
+          "verse": 23,
+          "text": "And <cr>[1]</cr> this is his commaundement, that vve beleeue in the name of his Sonne <sc>IESVS</sc> Chriſt: and <na>[2]</na> loue one an other, as he hath giuen commaundement vnto vs.",
+          "cross_refs": [
+            {
+              "text": "Io. 17, 3. 13, 34."
+            }
+          ],
+          "notes": [
+            {
+              "label": "2",
+              "text": "Leſt any man ſhould thinke by the wordes next before, onely faith in Chriſt to be commaunded or to pleaſe God, he addeth to faith the commaundement of charitie or loue of our neighbour.",
+              "kind": "gloss"
+            }
+          ],
+          "xrefs": [
+            "*Io. 17, 3. 13, 34.*"
+          ]
+        },
+        {
+          "verse": 24,
+          "text": "And <cr>[1]</cr> he that keepeth his commaundementes, abideth in him, and he in him. And in this vve knovv that he abideth in vs, by the Spirit vvhich he hath giuen vs.",
+          "cross_refs": [
+            {
+              "text": "Io. 14, 23."
+            }
+          ]
+        }
+      ],
+      "summary": "It is not for the ſonnes of God, to ſinne mortally, but for the ſonnes of the Diuel, wherby they are knovven one from an other, & not by onely faith. 11 True faith it is, that we alſo loue our brethren, giuing both our life and ſubſtance for them. 19 Such vnfeined loue may haue great confidence before God. 23 becauſe the keeping of his commaundements doth much pleaſe him, which conſiſt in faith and charitie."
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "MY deereſt, beleeue not euery ſpirit, but proue the ſpirites if they be of God: becauſe many falſe prophetes are gone out into the vvorld.",
+          "has_annotation": true
+        },
+        {
+          "verse": 2,
+          "text": "In this is the ſpirit of God knovven. euery ſpirit that confeſſeth <sc>IESVS</sc> Chriſt to haue come in fleſh, is of God:",
+          "has_annotation": true
+        },
+        {
+          "verse": 3,
+          "text": "and euery ſpirit that diſſolueth <sc>IESVS</sc>, is not of God: and this is <na>[1]</na> cantichriſt, of vvhom you haue heard that he commeth, and novv he is in the vvorld.",
+          "has_annotation": true,
+          "notes": [
+            {
+              "label": "1",
+              "text": "<i>c τὸ τοῦ ἀντίχριςτου.</i>",
+              "kind": "word"
+            }
+          ]
+        },
+        {
+          "verse": 4,
+          "text": "You are of God, litle children, and haue ouercome him. becauſe greater is he that is in you, then he that is in the world."
+        },
+        {
+          "verse": 5,
+          "text": "They are of the vvorld: therfore of the vvorld they ſpeake, and the vvorld heareth them."
+        },
+        {
+          "verse": 6,
+          "text": "VVe are of God. <cr>[1]</cr> He that knovveth God, heareth vs. he that is not of God, heareth vs not. in this vve know the ſpirit of truth, and the ſpirit of errour.",
+          "has_annotation": true,
+          "cross_refs": [
+            {
+              "text": "Io. 8. 47. 10, 27."
+            }
+          ]
+        },
+        {
+          "verse": 7,
+          "text": "My deereſt, let vs loue one an other: becauſe charitie is of God. And euery one that loueth, is borne of God, & knovveth God."
+        },
+        {
+          "verse": 8,
+          "text": "<na>[1]</na> He that loueth not, knovveth not God: becauſe God is charitie.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "The Epiſtle vpon the firſt Sunday after Pentecoſt.",
+              "kind": "lectionary"
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "text": "<cr>[1]</cr> In this hath the charitie of God appeared in vs, becauſe God hath ſent his only-begotten ſonne into the vvorld, that vve may liue by him.",
+          "cross_refs": [
+            {
+              "text": "Io. 3, 16."
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "text": "In this is charitie: not as though vve haue loued him, but becauſe he hath loued vs, and ſent his ſonne a propitiation for our ſinnes."
+        },
+        {
+          "verse": 11,
+          "text": "My deereſt, if God hath ſo loued vs: vve alſo ought to loue one an other."
+        },
+        {
+          "verse": 12,
+          "text": "<cr>[1]</cr> God <na>[2]</na> no man hath ſeen at any time. If vve loue one an other, God abideth in vs, and his charitie in vs is perfited.",
+          "cross_refs": [
+            {
+              "text": "Io. 1, 18. 1. Tim. 6, 16."
+            }
+          ],
+          "notes": [
+            {
+              "label": "2",
+              "text": "No man in this life, nor with corporal eies, can ſee the proper eſſence or ſubſtance of the Deitie. See S. Auguſt. ad Paulin. de videndo Deo. cp. 112.",
+              "kind": "gloss"
+            }
+          ],
+          "xrefs": [
+            "*Io. 1, 18. 1 Tim. 6, 16.*"
+          ]
+        },
+        {
+          "verse": 13,
+          "text": "In this vve knovv that vve abide in him, and he in vs: becauſe he of his Spirit hath giuen to vs."
+        },
+        {
+          "verse": 14,
+          "text": "And vve haue ſeen, and doe teſtifie, that the Father hath ſent his Sonne the Sauiour of the vvorld."
+        },
+        {
+          "verse": 15,
+          "text": "VVhoſoeuer ſhal confeſſe that <sc>IESVS</sc> is the Sonne of God, God abideth in him, and he in God."
+        },
+        {
+          "verse": 16,
+          "text": "And vve haue knovven and haue beleeued the charitie, vvhich God hath in vs. God is charitie: and he that abideth in charitie, abideth in God, and God in him."
+        },
+        {
+          "verse": 17,
+          "text": "In this is charitie perfited vvith vs, that vve may haue confidence in the day of iudgement: becauſe as he is, vve alſo are in the vvorld.",
+          "has_annotation": true
+        },
+        {
+          "verse": 18,
+          "text": "Feare is not in charitie: but perfect charitie caſteth out feare, becauſe feare hath painefulnes. and he that feareth, is not perfect in charitie.",
+          "has_annotation": true
+        },
+        {
+          "verse": 19,
+          "text": "Let vs therfore loue God, becauſe God firſt hath loued vs."
+        },
+        {
+          "verse": 20,
+          "text": "If any man ſhal ſay, that I loue God: and hateth his brother, he is a lier. For he that loueth not his brother vvhom he ſeeth: God vvhom he ſeeth not, hovv can he loue?"
+        },
+        {
+          "verse": 21,
+          "text": "<cr>[1]</cr> And this commaundement vve haue from God: that he vvhich loueth God, loue alſo his brother. ⊢",
+          "cross_refs": [
+            {
+              "text": "Io. 13, 34. 15, 12."
+            }
+          ],
+          "notes": [
+            {
+              "label": "1",
+              "text": "The Church only, not every private man, hath to prove and diſcern ſpirits.",
+              "kind": "gloss"
+            }
+          ]
+        }
+      ],
+      "summary": "vve may not beleeue al that boaſt of the ſpirit, but trie them. Whether they teach Catholike articles of the faith (namely the incarnation of Chriſt:) whether their doctrine be not vvorldly, and them ſelues diſobedient hearers of the Apoſtles. 7 We muſt loue one an other, conſidering the exceding loue of God in ſending his ſonne to ſaue vs. 17 An argument of perfect charitie iſ, if we haue nothing in our conſcience to feare in the day of Iudgement. 19 And an argument that we loue God is, if we loue our brethren."
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "<sc>WHOSOEVER</sc> beleeueth that <sc>IESVS</sc> is Chriſt, is borne of God. And euery one that loueth him vvhich begat: loueth him alſo vvhich vvas borne of him."
+        },
+        {
+          "verse": 2,
+          "text": "In this vve knovv that vve loue the children of God: vvhen as we loue God, and keepe his commaundementes."
+        },
+        {
+          "verse": 3,
+          "text": "For this is the charitie of God, that vve keepe his commaundementes: <cr>[1]</cr> and his commaundementes are not heauy.",
+          "has_annotation": true,
+          "cross_refs": [
+            {
+              "text": "Mat. 11, 30."
+            }
+          ]
+        },
+        {
+          "verse": 4,
+          "text": "<na>[1]</na> Becauſe al that is borne of God, ouercommeth the vvorld. and this is the victorie vvhich ouercommeth the vvorld, our faith.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "The Epiſtle <i>vpon Dominica in albis</i> or Low Sunday.",
+              "kind": "lectionary"
+            }
+          ]
+        },
+        {
+          "verse": 5,
+          "text": "VVho is he <cr>[1]</cr> that ouercommeth the vvorld, but he that beleeueth that <sc>IESVS</sc> is the ſonne of God?",
+          "cross_refs": [
+            {
+              "text": "1. Cor. 15, 57."
+            }
+          ]
+        },
+        {
+          "verse": 6,
+          "text": "This is he that came by vvater and bloud <sc>IESVS</sc> Chriſt: not in vvater only, but in vvater and bloud. And it is the Spirit vvhich teſtifieth, that Chriſt is the truth."
+        },
+        {
+          "verse": 7,
+          "text": "For there be three vvhich giue teſtimonie in heauen, the Father, the VVord, and the Holy Ghoſt. and theſe three be one.",
+          "has_annotation": true
+        },
+        {
+          "verse": 8,
+          "text": "And there be three vvhich giue teſtimonie in earth: the ſpirit, vvater, and bloud. `and theſe three be one'."
+        },
+        {
+          "verse": 9,
+          "text": "If vve receiue the teſtimonie of men, the teſtimonie of God is greater. becauſe this is the teſtimonie of God vvhich is greater, that he hath teſtified of his ſonne."
+        },
+        {
+          "verse": 10,
+          "text": "<cr>[1]</cr> He that beleeueth in the ſonne of God, hath the teſtimonie of God in him ſelf. ⊢ He that beleeueth not the Sonne, maketh him a lier: becauſe he beleeueth not in the teſtimonie vvhich God hath teſtified of his ſonne.",
+          "cross_refs": [
+            {
+              "text": "Io. 3, 36."
+            }
+          ]
+        },
+        {
+          "verse": 11,
+          "text": "And this is the teſtimonie, that God hath giuen vs life euerlaſting. And this life is in his ſonne."
+        },
+        {
+          "verse": 12,
+          "text": "He that hath the Sonne, hath life. he that hath not the ſonne of God, hath not life."
+        },
+        {
+          "verse": 13,
+          "text": "Theſe thinges I vvrite to you, that you may knovv that you haue eternal life which beleeue in the name of the ſonne of God."
+        },
+        {
+          "verse": 14,
+          "text": "And this is the confidence which vve haue toward him: that, <cr>[1]</cr> vvhatſoeuer vve ſhal aſke according to his vvill, he heareth vs.",
+          "cross_refs": [
+            {
+              "text": "Mt. 7, 7. 21, 22. 1. Io. 3, 22."
+            }
+          ]
+        },
+        {
+          "verse": 15,
+          "text": "And <na>[1]</na> vve knovv that he heareth vs whatſoeuer vve ſhal aſke: vve knovv that vve haue the petitions vvhich vve requeſt of him.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "c or, <i>if vve knovv</i>",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 16,
+          "text": "He that knoweth his brother to ſinne a ſinne not to death, let him aſke, and life ſhal be giuen him, ſinning not to death. There is a ſinne to death: for that I ſay not that any man aſke.",
+          "has_annotation": true
+        },
+        {
+          "verse": 17,
+          "text": "Al <na>[1]</na> iniquitie, is ſinne. And there is a ſinne <na>[2]</na> <alt>`to death</alt>'.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "<i>c ἀδικία</i>",
+              "kind": "word"
+            },
+            {
+              "label": "2",
+              "text": "<i>`not to death</i>.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 18,
+          "text": "VVe know that euery one vvhich is borne of God, ſinneth not: But the generation of God preſerueth him, and the vvicked one toucheth him not."
+        },
+        {
+          "verse": 19,
+          "text": "VVe knovv that vve are of God, and the vvhole vvorld is ſet in vvickedneſſe."
+        },
+        {
+          "verse": 20,
+          "text": "And vve know that the ſonne of God commeth: and he <cr>[1]</cr> hath giuen vs vnderſtanding, that vve may knovv the true God, & may be in his true ſonne. This is the true God, & life euerlaſting.",
+          "cross_refs": [
+            {
+              "text": "Luc. 24, 45."
+            }
+          ]
+        },
+        {
+          "verse": 21,
+          "text": "My litle children, keepe your ſelues from Idols. <na>[1]</na>Amen.",
+          "has_annotation": true,
+          "notes": [
+            {
+              "label": "1",
+              "text": "<i>ἀπὸ τῶν ἐιδώλων.</i>",
+              "kind": "word"
+            }
+          ]
+        }
+      ],
+      "summary": "They that loue God, muſt loue his natural ſonne IESVS, and his ſonnes by adoption, and keepe his commaundements, which to the regenerate are light. 4 But not, vnles they continue in the Catholike faith, namely of this article, that IESVS is the ſonne of God, and therfore able to giue vs life euerlaſting, 14 and al our petitions, 16 and our praiers for al our brethren that ſinne not vnto death, dying in their mortal ſinnes by impenitence. Laſt of al, he warneth them not to communicate with Idols."
+    }
+  ],
+  "intros": [
+    {
+      "title": "THE ARGUMENT OF S. JOHN'S THREE EPISTLES.",
+      "text": "OF S. Iohn was ſaid in the Argument before his Goſpel. Now here folow his three Epiſtles: one to al Catholikes (though <mn>[1]</mn> ſome auncients do cal it, <i>Ad Parthos</i> :) the other two being very ſhort, vnto a certaine Ladie, & to one Gaius. The effect of al is, to witnes vnto them the certaintie of the Catholike faith, and to exhort them to continue ſtill in it: alſo to loue the Catholike Church, and ſo, neither to become heretikes, nor Schiſmatikes: but rather to auoid al ſuch, as the forerunners of Antichriſt, and to remember, that Catholikes neede not to goe to ſchole to any ſuch Maſters, hauing at home in the Catholike Church, the doctrine of the Holy Ghoſt himſelf, who was giuen to the Church viſibly in the beginning, to leade her into al truth, and to continue with her for euer. Therfore he ſaith: <mn>[2]</mn> <i>That which you haue heard from the beginning, let it abide in you.</i> Likewiſe a litle after. v. 27. and ep. 2. v. 6. <i>This is the commaundement, that as you haue heard from the beginning, you walke in the ſame, becauſe many ſeducers are gone out into the world.</i> and v. 8. & 9.\n\nAnd not only thus in general, but alſo in particular he expreſſeth the pointes which the heretikes did then call in queſtion. Some were about Chriſt himſelf. For they denied that IESVS is Chriſt, that he is the very Sonne of God, that he is incarnate. Ep. 1. c. 2. v. 22. and Ep. 2. v. 7. And againſt ſuch it was that he wrote his Goſpel alſo, as he there ſignifieth. Ioh. 20. v. 31. Other pointes are about our iuſtification, againſt onely faith, and for good workes, as alſo S. Aug. noted <mn>[3]</mn> , whoſe wordes were cited before. Hereupon he ſaith: <i>If we ſay we haue ſocietie with God, and walke in darkenes, we lie.</i> Ep. 1. c. 1. Againe, <mn>[4]</mn> <i>He that ſaith he knoweth God, and keepeth not his commaundements, is a liar.</i> Againe, <i>This is the charitie of God, that we keepe his commandments, and his commaundements are not heauie.</i> Finally, <i>Children let no man ſeduce you, he that doth iuſtice, is iuſt, euen as he is iuſt.</i> Ep. 1. c. 3. v. 7. 8. 9. likewiſe c. 2. v. 29. and indeed in all the three Epiſtles throughout, he doth inculcate good workes and keeping the commaundements, againſt the hereſie of only faith.",
+      "notes": [
+        {
+          "marker": 1,
+          "text": "<i>* Higinus ep. 1. to. 1. Concil. Auguſt. li. 2. Euang. quæſt. q. 39.</i>"
+        },
+        {
+          "marker": 2,
+          "text": "<i>1. Ioh. 2. v. 24.</i>"
+        },
+        {
+          "marker": 3,
+          "text": "<i>De fid. & op. c. 14.</i>"
+        },
+        {
+          "marker": 4,
+          "text": "<i>1. Ioh. 2. & 5.</i>"
+        }
+      ]
+    }
+  ],
+  "spelling": "original"
+}

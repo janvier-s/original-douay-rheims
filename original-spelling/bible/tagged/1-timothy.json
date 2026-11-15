@@ -1,0 +1,842 @@
+{
+  "book": "1-timothy",
+  "book_title": "The First Epistle of S. Paul\nto Timothee.",
+  "short_title": "1 Timothy",
+  "hebrew_title": null,
+  "intros": [
+    {
+      "title": "THE ARGUMENT OF THE FIRST EPISTLE OF S. PAUL TO TIMOTHEE.",
+      "text": "AFTER the Epiſtles to the Churches, now folow his Epiſtles to particular perſons, as to Timothee, to Titus, who were Biſhops; and to Philemon.<br>Of Timothee we reade Act. 16. how S. Paul in his viſitation tooke him in his traine at Lyſtra, circumciding him before, becauſe of the Jews. He was then a Diſciple, that is to ſay, a Chriſtian man. Afterward the Apoſtle gaue him holy Orders, and conſecrated him Biſhop, as he teſtifieth in both theſe Epiſtles vnto him. 1. Tim. 4. v. 14. and 2. Tim. 1. v. 6.<br>He writeth therfore vnto him as to a Biſhop, and himſelf expreſſeth the ſcope of his firſt Epiſtle, ſaying: <i>Theſe things I write to thee, that thou maieſt know how thou oughteſt to conuerſe in the</i> <mn>◦</mn> <i>Houſe of God, which is the Church.</i> And ſo he inſtructeth him (and in him, al Biſhops) how to gouerne both himſelf, & others. And touching himſelf, to be an example & a ſpectacle to al ſortes, in al vertue. As touching others, to prohibit al ſuch as goe about to preach otherwiſe then the Catholike Church hath receiued, and to inculcate to the people the Catholike faith: to preach vnto yong and old, men and women: to ſeruants, to the riche, to euery ſort conueniently. With what circumſpection to giue orders, & to what perſons: for whom to pray: whom to admit to the vow of widowhod &c.\n\nThis Epiſtle was written, as it ſeemeth, after his firſt impriſonment in Rome, when he was diſmiſſed and ſet at libertie. And therevpon it is, that he might ſay here, <i>I hope to come to thee</i> <mn>[1]</mn> <i>quickly.</i> to wit vnto Epheſus, where he had deſired him to remaine. Although in his voiage to <mn>[2]</mn> Hieruſalem, before his being at Rome, he ſaid at Milétum to the Clergie of Epheſus, vpon probable feare: <i>And now behold I know, that you ſhal no more ſee my face.</i>\n\nWhere it was written, it is vncertaine: though it be commonly ſaid, at Laodicia. Which ſeemeth not, becauſe it is like he was neuer there, as may be gathered by the Epiſtle to the Coloſſians , written <mn>◦</mn> at Rome in his laſt trouble, when he was put to death.",
+      "default": true,
+      "notes": [
+        {
+          "marker": "◦",
+          "text": "<i>1. Timoth. 3.</i>"
+        },
+        {
+          "marker": 1,
+          "text": "<i>1. Timoth. 3.</i>"
+        },
+        {
+          "marker": 2,
+          "text": "<i>* 1. Tim. 1. Act. 20. v. 25. 38.</i>"
+        },
+        {
+          "marker": "◦",
+          "text": "<i>Col. 2. v. 1.</i>"
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "<sc>PAVL</sc> an Apoſtle of <sc>IESVS</sc> Chriſt according to the commandement of God our ſauiour, and of Chriſt <sc>IESVS</sc> our hope:"
+        },
+        {
+          "verse": 2,
+          "text": "to Timothee his beloued ſonne in the faith. Grace, mercie, and peace from God the father, and from Chriſt <sc>IESVS</sc> our Lord."
+        },
+        {
+          "verse": 3,
+          "text": "As I deſired thee to remaine at Epheſus vvhen I vvent into Macedonia, that thou ſhouldeſt denounce to certaine not to teache othervviſe,",
+          "has_annotation": true
+        },
+        {
+          "verse": 4,
+          "text": "nor to attend to fables and genealogies hauing no ende: vvhich miniſter queſtions rather then the edifying of God vvhich is in faith.",
+          "has_annotation": true
+        },
+        {
+          "verse": 5,
+          "text": "But the ende of the precept is charitie from a pure hart, and <na>[1]</na> a good conſcience, and a faith not feined.",
+          "has_annotation": true,
+          "notes": [
+            {
+              "label": "1",
+              "text": "∷ S. Auguſtine ſaith, He that liſt to haue the hope of heauē let him looke that he haue a good cōſciēce. to haue a good conſcience, let him beleeue & vvorke vvel. for that he beleueth, he hath of faith: that he vvorketh, he hath of charitie. Præfat. <i>in Pſa. 31</i>.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 6,
+          "text": "From the vvhich things certaine ſtraying, are turned into <na>[1]</na> vaine talke,",
+          "notes": [
+            {
+              "label": "1",
+              "text": "<i>c ματαιολογίαν</i>,",
+              "kind": "word"
+            }
+          ]
+        },
+        {
+          "verse": 7,
+          "text": "deſirous to be doctors of the Lavv, not vnderſtanding neither vvhat things they ſpeake, nor of vvhat they affirme.",
+          "has_annotation": true
+        },
+        {
+          "verse": 8,
+          "text": "But vve know that <cr>[1]</cr> the Lavv is good, if a man vſe it lavvfully:",
+          "cross_refs": [
+            {
+              "text": "Ro. 7, 12."
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "text": "knovving this that the Lavv is not made to the iuſt man, but to the vniuſt and diſobedient, to the impious and ſinners, to the vvicked and contaminate, to killers of fathers and killers of mothers, to murderers,",
+          "has_annotation": true
+        },
+        {
+          "verse": 10,
+          "text": "to fornicatours, to lyers vvith man-kinde, to man-ſtealers, to liers, to periured perſons, and vvhat other thing ſoeuer is contrarie to ſound doctrine,"
+        },
+        {
+          "verse": 11,
+          "text": "vvhich is according to the Goſpel of the glorie of the bleſſed God, vvhich is committed to me."
+        },
+        {
+          "verse": 12,
+          "text": "I giue him thankes vvhich hath ſtrengthened me, Chriſt <sc>IESVS</sc> our Lord, becauſe he hath eſteemed me faithful, putting me in the miniſterie."
+        },
+        {
+          "verse": 13,
+          "text": "vvho before vvas blaſphemous and a perſecutor & contumelious. but I obteined the mercie of God, becauſe I did it being ignorant in incredulitie."
+        },
+        {
+          "verse": 14,
+          "text": "And the grace of our Lord ouer-abounded vvith faith and loue, vvhich is in Chriſt <sc>IESVS</sc>."
+        },
+        {
+          "verse": 15,
+          "text": "A faithful ſaying, & vvorthie of al acceptatiō, that Chriſt <sc>IESVS</sc> came into this vvorld <cr>[1]</cr> to ſaue ſinners, of vvhom I am the cheefe.",
+          "cross_refs": [
+            {
+              "text": "Mt. 9, 13. Mr. 2, 17."
+            }
+          ]
+        },
+        {
+          "verse": 16,
+          "text": "But therfore haue I obtained mercie: that in me firſt of al Chriſt <sc>IESVS</sc> might ſhevv al patience, <na>[1]</na> to the information of them that ſhal beleeue on him vnto life euerlaſting.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "<i>c πρὸς ὑποτύπωσιν</i>",
+              "kind": "word"
+            }
+          ]
+        },
+        {
+          "verse": 17,
+          "text": "And to the king of the vvorldes, immortal, inuiſible, onely God, honour & glorie for euer and euer. Amen."
+        },
+        {
+          "verse": 18,
+          "text": "This precept I commend to thee ô Timothee: according to the prophecies going before <na>[1]</na> on thee, that thou warre in them a good vvarfare,",
+          "notes": [
+            {
+              "label": "1",
+              "text": "<i>c ἐπί σε</i>",
+              "kind": "word"
+            }
+          ]
+        },
+        {
+          "verse": 19,
+          "text": "hauing faith and a good conſcience, <na>[1]</na> vvhich certaine repelling, haue made ſhipvvracke about the faith.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "Evil life and no good conſcience is often the cauſe that men fall to Hereſy from the faith of the Catholic Church. Again, this plainly reproveth the heretics' falſe doctrine, ſaying, that no man can fall from the faith that he once truly had.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 20,
+          "text": "Of vvhom is Hymenæus & Alexander: vvhom I haue deliuered to Satan, that they may learne not to blaſpheme.",
+          "has_annotation": true
+        }
+      ],
+      "summary": "He recommendeth vnto him, to inhibite certaine Ievves vvho iangled of the Lavv as though it vvere contrarie to his preaching. 11 Againſt vvhom he auoucheth his miniſterie, though he acknovvledge his vnvvorthines."
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "I Deſire therfore firſt of al things that obſecrations, praiers, poſtulations, thankeſgeuings be made for al men,",
+          "has_annotation": true
+        },
+        {
+          "verse": 2,
+          "text": "<na>[1]</na> for kings and al that are in preeminence: that vve may leade a quiet and a peaceable life in al pietie and chaſtitie.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "Euen for heathen kings & Emperours by vvhom the Church ſuffereth perſecution: much more for al faithful Princes & powers, and people both ſpiritual and temporal, for vvhom as members of Chriſtes body, and therfore ioyning in praier & oblation vvith the miniſters of the Church, the Prieſtes more properly and particularly offer the holy Sacrifice. See S. Auguſtine <i>de orig. animæ li. 1. c. 9</i>.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 3,
+          "text": "For this is good and acceptable before our Sauiour God,"
+        },
+        {
+          "verse": 4,
+          "text": "vvho vvill al men to be ſaued, and to come to the knovvledge of the truth,",
+          "has_annotation": true
+        },
+        {
+          "verse": 5,
+          "text": "For there is one God, one alſo mediatour of God and men, man Chriſt <sc>IESVS</sc>:",
+          "has_annotation": true
+        },
+        {
+          "verse": 6,
+          "text": "vvho gaue himſelf a redemption for al, <na>[1]</na> <alt>vvhoſe teſtimonie</alt> in due times is confirmed: <na>[1]</na>",
+          "notes": [
+            {
+              "label": "1",
+              "text": "The prayers & petitions in the Maſs,",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 7,
+          "text": "<cr>[1]</cr> vvherein I am appointed a preacher & an Apoſtle (I ſay the truth, I lie not) doctor of the Gentiles in faith and truth.",
+          "cross_refs": [
+            {
+              "text": "2. Tim. 1, 11."
+            }
+          ]
+        },
+        {
+          "verse": 8,
+          "text": "I vvil therfore that men pray in euery place: lifting vp pure handes, vvithout anger and altercation."
+        },
+        {
+          "verse": 9,
+          "text": "In like maner <cr>[1]</cr> vvomen alſo in comely attire: vvith demureneſſe and ſobrietie adorning them ſelues, not in plaited heare, or gold, or pretious ſtones, or gorgeous apparel,",
+          "cross_refs": [
+            {
+              "text": "1. Pet. 3, 3."
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "text": "but that vvhich becommeth vvomen profeſſing pietie by good vvorkes."
+        },
+        {
+          "verse": 11,
+          "text": "Let a vvoman learne in ſilence, vvith al ſubiection."
+        },
+        {
+          "verse": 12,
+          "text": "But <cr>[1]</cr> to teach I permit not vnto a vvoman, nor to haue dominion ouer the man: but to be in ſilence.",
+          "has_annotation": true,
+          "cross_refs": [
+            {
+              "text": "1. Cor. 14, 34."
+            }
+          ]
+        },
+        {
+          "verse": 13,
+          "text": "For <cr>[1]</cr> Adam vvas formed firſt: then Eue.",
+          "cross_refs": [
+            {
+              "text": "Gen. 1, 27. 3, 6."
+            }
+          ]
+        },
+        {
+          "verse": 14,
+          "text": "and Adam vvas not ſeduced: but the vvoman being ſeduced, vvas in preuarication."
+        },
+        {
+          "verse": 15,
+          "text": "Yet ſhe ſhal be ſaued by generation of children: if <na>[1]</na> <alt>'they</alt>' continue in faith & loue and ſanctification vvith ſobrietie.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "<i>'ſhe</i>",
+              "kind": "gloss"
+            }
+          ]
+        }
+      ],
+      "summary": "By his Apoſtolike authoritie he appointeth publike praiers to be made for al mē vvithout exception. 8 alſo men to pray in al places: 9 and vvomen alſo in ſemely attire, 11 to learne of men, and not to be teachers in any vviſe, but to ſeeke ſaluation, by that vvhich to them belongeth."
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "A Faithful ſaying. If a man deſire a Biſhops office, he deſireth a good worke.",
+          "has_annotation": true
+        },
+        {
+          "verse": 2,
+          "text": "<cr>[1]</cr> It behoueth therfore a Biſhop to be irreprehenſible, the huſband of one vvife, ſobre, vviſe, comely, chaſt, a man of hoſpitalitie, a teacher,",
+          "has_annotation": true,
+          "cross_refs": [
+            {
+              "text": "Tit. 1, 6."
+            }
+          ],
+          "xrefs": [
+            "Tit. 1, 6."
+          ]
+        },
+        {
+          "verse": 3,
+          "text": "not giuen to vvine, no fighter, but modeſt, no quareler, not couetous,"
+        },
+        {
+          "verse": 4,
+          "text": "vvel ruling his ovvne houſe, <na>[1]</na> hauing his children ſubiect vvith al chaſtitie.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "c He ſaith, <i>hauing children,</i> not, <i>getting children. S. Ambr. Ep. 82.</i>",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 5,
+          "text": "But if a man knovv not to rule his ovvne houſe: hovv ſhal he haue care of the Church of God?"
+        },
+        {
+          "verse": 6,
+          "text": "Not <na>[1]</na> <na>[2]</na> a neophyte: leſt puffed into pride, he fall into the iudgment of the Deuil.",
+          "has_annotation": true,
+          "notes": [
+            {
+              "label": "1",
+              "text": "b <i>Neophytus</i> is he that vvas lately chriſtened or nevvely planted in the myſtical body of Chriſt.",
+              "kind": "gloss"
+            },
+            {
+              "label": "2",
+              "text": "<i>b νεόφυτον</i>",
+              "kind": "word"
+            }
+          ]
+        },
+        {
+          "verse": 7,
+          "text": "And he muſt haue alſo good teſtimonie of them that are vvithout: that he fall not into reproch and the ſnare of the Deuil."
+        },
+        {
+          "verse": 8,
+          "text": "Deacons in like maner <na>[1]</na> cchaſt, not double-tonged, not giuen to much vvine, not folovvers of filthie lucre:",
+          "has_annotation": true,
+          "notes": [
+            {
+              "label": "1",
+              "text": "<i>c σεμνοὺς</i>",
+              "kind": "word"
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "text": "hauing the myſterie of faith in a pure conſcience."
+        },
+        {
+          "verse": 10,
+          "text": "And let theſe alſo be proued firſt: & ſo let them miniſter, hauing no crime."
+        },
+        {
+          "verse": 11,
+          "text": "The vvomen in like maner chaſt, not detracting, ſober, faithful in al things."
+        },
+        {
+          "verse": 12,
+          "text": "Let deacons be the huſbandes of one vvife: vvhich rule vvel their children, & their houſes."
+        },
+        {
+          "verse": 13,
+          "text": "For they that haue miniſtred vvel, ſhal purchaſe to them ſelues a good degree, and much confidence in the faith vvhich is in Chriſt <sc>IESVS</sc>."
+        },
+        {
+          "verse": 14,
+          "text": "Theſe things I vvrite to thee, hoping that I ſhal come to thee quickly."
+        },
+        {
+          "verse": 15,
+          "text": "but if I tary long, that thou maieſt knovv how thou oughteſt to conuerſe in the houſe of God, which is the <sc>CHVRCH</sc> of the liuing God, the piller and ground of truth.",
+          "has_annotation": true
+        },
+        {
+          "verse": 16,
+          "text": "And manifeſtly it is a great ſacrament of pietie, vvhich vvas manifeſted in fleſh, vvas iuſtified in ſpirit, appeared to Angels, hath beene preached to gentils, is beleeued in the world, is aſſumpted in glorie."
+        }
+      ],
+      "summary": "Of vvhat qualitie they muſt be, vvhom he ordaineth Biſhops, 8 and Deacons. 14 and the cauſe of his vvriting to be, the excellencie of the Catholike Church, and of Chriſt, vvho is the obiect of our religion."
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "<sc>AND</sc> <cr>[1]</cr> the Spirit manifeſtly ſaith that in the laſt times certain ſhal depart from the faith attending to ſpirites of errour, and doctrines of diuels,",
+          "has_annotation": true,
+          "cross_refs": [
+            {
+              "text": "2. Tim. 3 2. Pet. 3. Jude v. 18."
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "ſpeaking lies in hypocriſie, and hauing their conſcience ſeared,"
+        },
+        {
+          "verse": 3,
+          "text": "forbidding to marie, to abſtaine from meates vvhich God created to receaue vvith thankes-giuing for the faithful, and them that haue knovven the truth.",
+          "has_annotation": true
+        },
+        {
+          "verse": 4,
+          "text": "For <na>[1]</na> euery creature of God is good, and nothing to be reiected that is receiued vvith thankes-giuing.",
+          "has_annotation": true,
+          "notes": [
+            {
+              "label": "1",
+              "text": "vve ſee plainely by theſe vvordes ſuch abſtinence only to be diſalovved as condemneth the creatures of God to be naught by nature & creation.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 5,
+          "text": "For it is ſanctified by the vvord of God and praier.",
+          "has_annotation": true
+        },
+        {
+          "verse": 6,
+          "text": "Theſe things propoſing to the brethren, thou ſhalt <na>[1]</na> <na>[2]</na> be a good miniſter of Chriſt IESVS, nouriſhed in the vvordes of the faith and the good doctrine vvhich thou haſt attained vnto.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "All Heretics are apoſtates from the faith.",
+              "kind": "gloss"
+            },
+            {
+              "label": "2",
+              "text": "<i>ἀποστήσονται</i>",
+              "kind": "word"
+            }
+          ]
+        },
+        {
+          "verse": 7,
+          "text": "But foliſh and old vviues fables auoid: and exerciſe thy ſelf to pietie."
+        },
+        {
+          "verse": 8,
+          "text": "<cr>[1]</cr> For <na>[2]</na> corporal exerciſe is profitable to litle: but pietie is profitable to al things: hauing promiſſe of the life that novv is, and of that to come.",
+          "cross_refs": [
+            {
+              "text": "1. Tim. 1, 4. Tit. 3, 9."
+            }
+          ],
+          "notes": [
+            {
+              "label": "2",
+              "text": "Some (ſaith S. Chryſoſt.) expound this of faſting, but they are deceiued. for faſting is a ſpiritual exerciſe. See a goodly commentarie of theſe vvordes in S. Auguſt. <i>li. de mor. Eccl. Cath. c. 33</i>. · 1. Tim. 1, 4. Tit. 3, 9.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "text": "A faithful ſaying and vvorthie of al acceptation."
+        },
+        {
+          "verse": 10,
+          "text": "For to this purpoſe vve labour and are reuiled, becauſe vve hope in the liuing God vvhich is the Sauiour of al men, eſpecially of the faithful."
+        },
+        {
+          "verse": 11,
+          "text": "Commaund theſe things and teach."
+        },
+        {
+          "verse": 12,
+          "text": "Let no man contemne thy youth: but be an example of the faithful, in vvord, in conuerſation, in charitie, in faith, in chaſtitie."
+        },
+        {
+          "verse": 13,
+          "text": "Til I come, attend vnto reading, exhortation, <na>[1]</na> doctrine.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "<i>and</i>",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 14,
+          "text": "Neglect not the grace that is in thee: vvhich is giuen thee by prophecie, vvith impoſition of the handes of prieſthod.",
+          "has_annotation": true
+        },
+        {
+          "verse": 15,
+          "text": "Theſe things doe thou meditate, be in theſe things: that thy profiting may be manifeſt to al."
+        },
+        {
+          "verse": 16,
+          "text": "Attend to thy ſelf, and to doctrine: be earneſt in them. For, this doing, thou ſhalt ſaue both thy ſelf and them that heare thee.",
+          "has_annotation": true
+        }
+      ],
+      "summary": "He prophecieth that certaine ſhould depart from the Catholike faith, vvilling Timothee therfore to inculcate to the people thoſe articles of the ſaid faith. 7 Item to exerciſe him ſelf in ſpiritual exerciſe, 12 to gette authoritie by example of good life, 13 to ſtudie, to teach, to increaſe in the grace giuen him by holy orders."
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "A Seniour rebuke not: but beſeeche as a father: yong men, as brethren:"
+        },
+        {
+          "verse": 2,
+          "text": "old vvomen, as mothers: yong vvomen, as ſiſters, in al chaſtitie."
+        },
+        {
+          "verse": 3,
+          "text": "<na>[1]</na> Honour vvidovves: vvhich are vvidovves in deede.",
+          "has_annotation": true,
+          "notes": [
+            {
+              "label": "1",
+              "text": "The Epiſtle upon S. Monica'ſ day. May. 4. And for holy widows.",
+              "kind": "lectionary"
+            }
+          ]
+        },
+        {
+          "verse": 4,
+          "text": "But if any vvidovv haue children or nephevves: let her learne firſt to rule her ovvne houſe, and to render mutual dutie to her parents. for this is acceptable before God."
+        },
+        {
+          "verse": 5,
+          "text": "But ſhe that iſ a vvidovv in deede and deſolate: let her hope in God, and continue in obſecrations & <na>[1]</na> praiers night and day.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "Becauſe of this continual praier vvhich ſtandeth not vvith coniugal & carnal actes of matrimonie ( as the Apoſtle ſignifieth <i>1 Cor. 7, 5</i> ) therfore vvere theſe vvidovves to liue in the ſtate of perpetual continencie.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 6,
+          "text": "For ſhe that is in deliciouſenes, liuing is dead."
+        },
+        {
+          "verse": 7,
+          "text": "And this commaund that they be blamleſſe."
+        },
+        {
+          "verse": 8,
+          "text": "But if any man haue not care of his ovvne, and eſpecially of his domeſticals, he hath denied the faith, and is vvorſe then an infidel.",
+          "has_annotation": true
+        },
+        {
+          "verse": 9,
+          "text": "Let a vvidovv be choſen of no leſſe thē three ſcore yeres, vvhich hath been the vvife of one huſband,",
+          "has_annotation": true
+        },
+        {
+          "verse": 10,
+          "text": "hauing teſtimonie in good vvorkes, if ſhe haue brought vp her children, if ſhe haue receiued to harbour, if ſhe haue vvaſhed the Saincts feete, if ſhe haue miniſtred to them that ſuffer tribulation, if ſhe haue folovved euery good vvorke. ⊢"
+        },
+        {
+          "verse": 11,
+          "text": "But the yonger vvidovves auoid. For vvhen they ſhal be vvanton in Chriſt, they vvil marie:",
+          "has_annotation": true
+        },
+        {
+          "verse": 12,
+          "text": "hauing damnation, becauſe they haue made void their firſt faith.",
+          "has_annotation": true
+        },
+        {
+          "verse": 13,
+          "text": "and vvithal idle alſo they learne to goe about from houſe to houſe: not only idle, but alſo ful of vvordes and curious, ſpeaking things vvhich they ought not."
+        },
+        {
+          "verse": 14,
+          "text": "I vvil therfore the yonger to marie, to bring forth children, to be houſevviues: to giue no occaſion to the aduerſarie for to ſpeake euil.",
+          "has_annotation": true
+        },
+        {
+          "verse": 15,
+          "text": "For novv certaine are turned backe after Satan.",
+          "has_annotation": true
+        },
+        {
+          "verse": 16,
+          "text": "If any faithful man haue vvidovves, let him miniſter to them, and let not the Church be burdened: that there may be ſufficient for them that are vvidovves in deede."
+        },
+        {
+          "verse": 17,
+          "text": "The prieſtes that rule vvel, let them be eſteemed <na>[1]</na> vvorthie of double honour: eſpecially they that labour in the vvord and doctrine.",
+          "has_annotation": true,
+          "notes": [
+            {
+              "label": "1",
+              "text": "c Double honour and liuelihod due to good Prieſtes.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 18,
+          "text": "For the Scripture ſaith: <cr>[1]</cr> <i>Thou ſhalt not mooſel the mouth to the oxe that treadeth out the corne</i> and, <i>The vvorke man is vvorthie of his hire</i>.",
+          "cross_refs": [
+            {
+              "text": "Deu. 25. 1. cor. 9. Mat. 10, 10."
+            }
+          ]
+        },
+        {
+          "verse": 19,
+          "text": "<na>[1]</na> Againſt a prieſt receiue not accuſation: but vnder tvvo or three vvitneſſes.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "Here the Apoſtle vvil not haue euery light felovv to be heard againſt a prieſt. So S. Auguſtin for the like reuerence of prieſthod, admoniſheth Pācarius that in no vviſe he admitte any teſtimonies or accuſations of Heretikes againſt a Catholike prieſt. <i>ep. 212</i>.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 20,
+          "text": "Them that ſinne, reproue before al: that the reſt alſo may haue feare."
+        },
+        {
+          "verse": 21,
+          "text": "I teſtifie before God and Chriſt <sc>IESVS</sc>, and the elect Angels, that thou keepe theſe things vvithout preiudice, doing nothing by declining to the one part."
+        },
+        {
+          "verse": 22,
+          "text": "Impoſe hādes on no man <na>[1]</na> lightly, neither do thou communicate vvith other mens ſinnes. Keepe thy ſelf chaſt.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "Biſhops muſt haue great care that they giue not orders to any that is not vvel tried for his faith, learning, and good behauiour.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 23,
+          "text": "Drinke not yet vvater: but vſe a litle vvine for thy ſtomake, and thy often infirmities.",
+          "has_annotation": true
+        },
+        {
+          "verse": 24,
+          "text": "Certaine mens ſinnes be manifeſt, going before to iudgement: and <na>[1]</na> certaine men they folovv.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "<i>alſo</i>",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 25,
+          "text": "In like maner alſo good deedes be manifeſt, & they that are othervviſe, can not be hidde."
+        }
+      ],
+      "summary": "How to behaue him ſelf tovvardes yong and old. 3 to beſtovv the Churches oblations vpon the needy vvidovves. 9 and not to admitte the ſaid Churches vvidovves vnder threeſcore yeres old. 17 In diſtribution to reſpect vvel the Prieſts that are painful. 19 and hovv in his Conſiſtorie to heare accuſations againſt Prieſts. 22 to be ſtraite in examining before he giue Orders. to be chaſt, and to remitte ſomevvhat of his drinking vvater."
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "<sc>WHOSOEVER</sc> are ſeruantes vnder yoke, let them counte their maiſters vvorthie of al honour: leſt the name of our Lord and his doctrine be blaſphemed."
+        },
+        {
+          "verse": 2,
+          "text": "But they that haue faithful maiſters, let them not contemne them becauſe they are brethren, but ſerue the rather, becauſe they be faithful and beloued, vvhich are partakers of the benefite. Theſe things teache and exhort."
+        },
+        {
+          "verse": 3,
+          "text": "If any man <na>[1]</na><na>[2]</na> teach othervviſe, and conſent not to the ſound vvordes of our Lord <sc>IESVS</sc> Chriſt, and to that doctrine vvhich is according to pietie:",
+          "notes": [
+            {
+              "label": "1",
+              "text": "See the annotation before <i>cap. 1, 3. 4</i>.",
+              "kind": "gloss"
+            },
+            {
+              "label": "2",
+              "text": "<i>ἑτεροδιδασκαλεῖ</i>",
+              "kind": "word"
+            }
+          ]
+        },
+        {
+          "verse": 4,
+          "text": "he is proude, knovving nothing, but languiſhing about queſtions and ſtrife of vvordes: of vvhich riſe enuies, contentions, blaſphemies, euil ſuſpicions,",
+          "has_annotation": true
+        },
+        {
+          "verse": 5,
+          "text": "conflictes of men corrupted in their minde, and that are depriued of the truth, that eſteeme gaine to be pietie."
+        },
+        {
+          "verse": 6,
+          "text": "But <na>[1]</na> bpietie vvith ſufficiencie is great gaine.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "b The Epiſtle for S. Alexius, <i>Iul. 17.</i>",
+              "kind": "lectionary"
+            }
+          ]
+        },
+        {
+          "verse": 7,
+          "text": "For vve <cr>[1]</cr> brought nothing into this vvorld: doubtleſſe, neither can vve take avvay any thing.",
+          "cross_refs": [
+            {
+              "text": "Iob. 1, 21."
+            }
+          ]
+        },
+        {
+          "verse": 8,
+          "text": "But <cr>[1]</cr> hauing foode, and vvhervvith to be couered, vvith theſe vve are content.",
+          "cross_refs": [
+            {
+              "text": "Mat. 6, 25."
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "text": "For they that vvil be made riche, fall into tentation & the ſnare of the deuil, & many deſires vnprofitable and hurteful, vvhich drovvne men into deſtruction and perdition."
+        },
+        {
+          "verse": 10,
+          "text": "For the roote of al euils is couetouſenes: <na>[1]</na> vvhich certaine deſiring haue erred from the faith, and haue intangled them ſelues in many ſorovves.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "As in the 1. chap. lacke of faith and good conſcience, ſo here couetouſnes or deſire of theſe temporal things, & in the end of this chap. preſumption and boaſting of knovvledge, are cauſes of falling from the faith: hereſie often being the puniſhmēt of former ſinnes.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 11,
+          "text": "But thou, ô man of God, flee theſe things: and <na>[1]</na> purſue iuſtice, pietie, faith, charitie, patience, mildenes.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "b The Epiſtle for S. Timothee, <i>Ian. 24.</i>",
+              "kind": "lectionary"
+            }
+          ]
+        },
+        {
+          "verse": 12,
+          "text": "Fight the good fight of faith: apprehend eternal life, ⊢ vvherein thou art called and haſt confeſſed a good confeſſion before many vvitneſſes."
+        },
+        {
+          "verse": 13,
+          "text": "I commaund thee before God vvho quickeneth al things, and Chirſt <sc>IESVS</sc> vvho <cr>[1]</cr> gaue teſtimonie vnder Pontius Pilate a good confeſſion:",
+          "cross_refs": [
+            {
+              "text": "Io. 18, 37."
+            }
+          ],
+          "xrefs": [
+            "Io. 18, 37."
+          ]
+        },
+        {
+          "verse": 14,
+          "text": "that thou keepe the commaundement vvithout ſpotte, blameleſſe vnto the comming of our Lord <sc>IESVS</sc> Chriſt."
+        },
+        {
+          "verse": 15,
+          "text": "vvhich in due times the Bleſſed & onely Mightie vvil ſhevv, the <cr>[1]</cr> King of kings and Lord of lordes,",
+          "cross_refs": [
+            {
+              "text": "Apoc. 17, 14. 19, 16."
+            }
+          ]
+        },
+        {
+          "verse": 16,
+          "text": "vvho only hath immortalitie, and inhabiteth light not acceſſible, <cr>[1]</cr> vvhom no man hath ſeen, yea neither can ſee, to vvhom be honour and empire euerlaſting. Amen. ⊢",
+          "cross_refs": [
+            {
+              "text": "Io. 1, 18."
+            }
+          ],
+          "xrefs": [
+            "Io. 1, 18."
+          ]
+        },
+        {
+          "verse": 17,
+          "text": "Commaund the riche of this vvorld not to be high minded, nor to truſt in the vncertaintie of riches, but in the liuing God (vvho giueth vs al things aboundantly to enioy)"
+        },
+        {
+          "verse": 18,
+          "text": "to doe wel, to become riche in good workes, to giue eaſily, to communicate,"
+        },
+        {
+          "verse": 19,
+          "text": "to heape vnto them ſelues a good <na>[1]</na> foūdation for the time to come, that they may apprehend the true life.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "Almes deedes and good vvorkes laide for a foundatiō and ground to attaine euerlaſting life. So ſay the doctors vpō this place.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 20,
+          "text": "O Timothee, keepe the <i>depoſitum</i>, auoiding the profane <na>[1]</na> cnouelties of voices, & oppoſitions of falſely called knovvledge.",
+          "has_annotation": true,
+          "notes": [
+            {
+              "label": "1",
+              "text": "<i>c καινοφωνίας. S. Chryſoſtom.</i>",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 21,
+          "text": "Vvhich certaine promiſing, haue erred about the faith. Grace be vvith thee. Amen."
+        }
+      ],
+      "summary": "Vvhat to teach ſeruants. 3 If any teach againſt the doctrine of the Church obſtinately, he doth it of pride and for lucre. 11 But the Catholike Biſhop muſt follovv vertue, hauing his eie alvvaies to life euerlaſting and to the comming of Chriſt. 17 Vvhat to commaund the riche. 20 Finally, to keepe moſt carefully the Catholike Churches doctrine, vvithout mutation."
+    }
+  ],
+  "spelling": "original"
+}

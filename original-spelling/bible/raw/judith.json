@@ -1,0 +1,1948 @@
+{
+  "book": "judith",
+  "book_title": "The Book of Judith.",
+  "short_title": "Judith",
+  "hebrew_title": null,
+  "intros": [
+    {
+      "title": "THE ARGUMENT OF THE BOOKE OF IUDITH.",
+      "text": "SAINT Ierom ſometime ſuppoſed this booke not to be canonical, but afterwarde finding that the Councel of Nice accounted it in the number of holie Scriptures, he ſo eſtemed it, and thervpon not only tranſlated it into Latin, out of the Chaldee tongue, wherin it was firſt written, but alſo as occaſion required alleaged the ſame as diuine Scripture, and ſufficient to conuince matters of faith in controuerſie. For otherwiſe his oppoſing the authoritie of the Nicen Councel, should proue nothing at al againſt the Jews, ſeing alſo they acknowledge this booke amongſt Agiographa (or holie writtes) but leſſe fitte (ſay they) to ſtreingthen thoſe thinges which come into contention. Wherby is clere that S. Ierom thenceforth held it for diuine Scripture. As further appeareth in his commentaries in Iſai 14. more expreſly Epiſt. ad Principiam, he counted it in ranke with other Scriptures, wherof none doubteth, ſaying: Ruth, Eſther, Iudith were of ſo great renown, that they gaue the names to ſacred volumes. And in this Preface doubted not to ſay: that the rewarder of Iudithes chaſtitie (God himſelf) gaue her for imitation not only to wemen, but alſo to men: gaue her ſuch vertue that she ouerthrew him, whom none could ouercome, and conquered the inuincible. Alſo Before the Councel, Origen in c. 14. Iudith, Tertullian de Monogamia. c. vlt. And diuers whom S. Hilarie citeth, and diſſenteth not from them, Prologo in Pſalmos, held this booke for Canonical. Manie more writers likewiſe about the time of the ſame Councel, and after ſo account it. Prudentius in Pſychomachia pudicitiae & libidinis: Chromatius in c. 6. Mat. Paulinus in Natali. 10. S. Chryſoſtom hom. 10. in Math. S. Ambroſe li. 3. Offic. c. 13. Epiſt. 82. & li. de viduis. S. Auguſtin (or ſome other good author) writte two ſermons of Iudith, 228. 229. Caſſiodorus diuini lect. c. 6. Fulgentius Epiſt. 2. de ſtatu viduarum. Ferrandus Carthaginenſis ad Regium de re militari. Iunilius Africanus li. 1. de partibus diuine legis. Sulpitius in hiſtoria. S. Beda de ſex ætatibus. Alredus writing the life of S. Edward our King. More are not neceſſarie to reaſonable men. Concerning the time, and author, it ſemeth moſt probable that theſe thinges happened when Manaſſes King of Iuda was either in priſon in Babylon, or newly reſtored to his Kingdom, who as it ſemeth permitted the gouerment to the high Prieſt Eliachim (Ch. 4.) otherwiſe called Ioachim (ch. 15.) who alſo writte this Booke, as Philos Chronologie, li. 2. reporteth. From which time they had no warres til the reigne of Ioachaz, about 80. yeares, conformable to the long peace mentioned chap. 16. v. 30. In ſumme We haue her, not a poetical Comedie (as Martin Luther shameth not to cal it, in Simpoſiacis, c. 29. and in his German Preface of Iudith) but a ſacred Hiſtorie (as al aforementioned eſtemed it, & the Jews confeſſe) of a moſt valiant Matrons fact, deliuering the people of God from perſecution of a cruel Tyranne. The firſt three chapters shew the occaſion of this danger: the next foure deſcribe the difficulties & diſtreſſes thereof: other ſeuen with part of the 15. how Iudith deliuered them from it. In the reſt Iudith is much prayſed, and she with the whole people prayſe God.",
+      "default": true,
+      "notes": [
+        {
+          "marker": 1,
+          "text": "S. Ierom for the authoritie of the Councel of Nice, held this Booke to be canonical, which before he did not."
+        },
+        {
+          "marker": 2,
+          "text": "Epiſt. 111. 115. Prefa. in Iudith."
+        },
+        {
+          "marker": 3,
+          "text": "Other Doctors both before and after the councel of Nice accounted this Booke canonical."
+        },
+        {
+          "marker": 4,
+          "text": "VVhen this hiſtorie happened."
+        },
+        {
+          "marker": 5,
+          "text": "2. Para. 33."
+        },
+        {
+          "marker": 6,
+          "text": "And by whom it was written."
+        },
+        {
+          "marker": 7,
+          "text": "The contentes."
+        },
+        {
+          "marker": 8,
+          "text": "Diuided into foure parts."
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "ARPHAXAD therfore king of the Medes had ſubdued manie nations to his empire, & he built a moſt mightie citie, which he called Ecbatanis,",
+          "notes": [
+            {
+              "label": "a",
+              "text": "The author being reſolued to write this hiſtorie, ioyneth his narration to his internal purpoſe, ſaying: Arphaxad therfore &c. S. Greg. ho. 2. in Ezech.",
+              "kind": "gloss"
+            },
+            {
+              "label": "1",
+              "text": "The firſt part. The occaſion of the Jews' perſecution at this time.",
+              "kind": "head"
+            },
+            {
+              "label": "2",
+              "text": "This booke is read at Mattins the fourth weeke of September.",
+              "kind": "lectionary"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "Of ſtone ſquared and hewed: he made walles therof in height ſeuentie cubites, and in breadth thirtie cubites, and the towers therof he made in height an hundred cubites."
+        },
+        {
+          "verse": 3,
+          "text": "But each ſide of them was in foure ſquare twentie foote long, and he made the gates therof according to the height of the towers:"
+        },
+        {
+          "verse": 4,
+          "text": "and he gloried as mightie in the force of his armie, and in the glorie of his chariotes.",
+          "notes": [
+            {
+              "label": "b",
+              "text": "Thou foole this night they ſhal take thy life from thee, & theſe things whoſe shal they be? Luc. 12. v. 20.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 5,
+          "text": "In the twelfth yeare of his reigne: Nabuchodonoſor the king of the Aſſyrians, who reigned in Niniue the greate citie, fought againſt Arphaxad, and ouercame him"
+        },
+        {
+          "verse": 6,
+          "text": "in the great field, which is called Ragau, about Euphrates, and Tigris, and Iadaſon in the field of Erioch the king of the Elicians."
+        },
+        {
+          "verse": 7,
+          "text": "Then was the kingdom of Nabuchodonoſor exalted, and his hart was eleuated: and he ſent to al, that dwelt in Cilicia and Damaſcus, and Libanus,"
+        },
+        {
+          "verse": 8,
+          "text": "and to the nations, that are in Carmelus, and Cedar, and the inhabitantes of Galilee in the great field of Eſdrelon,"
+        },
+        {
+          "verse": 9,
+          "text": "and to al that were in Samaria, and beyond the riuer Iordan euen to Ieruſalem, and al the land of Ieſſe til you come to the borders of Æthiophia."
+        },
+        {
+          "verse": 10,
+          "text": "To al theſe Nabuchodoſor king of the Aſſyrians ſent meſſengers:"
+        },
+        {
+          "verse": 11,
+          "text": "Who al with one minde ſaid nay, & ſent them backe emptie, and reiected them without honour."
+        },
+        {
+          "verse": 12,
+          "text": "Then Nabuchodonoſor the king taking indignation againſt al that land, ſwore by his throne and kingdom that he would reuenge him ſelfe of al thoſe countries.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "defenderet ſe.",
+              "kind": "gloss"
+            }
+          ]
+        }
+      ],
+      "summary": "Nabuchodoneſor king of Aſſyrians ouercometh Arphaxad king of the Medes: 7. ſummoneth manie other nations to ſubmitte themſelues to his Empyre: 11. which they refuſing he threatneth reuenge."
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "IN the thirtenth yeare of king Nabuchodonoſor, the two and twenteth day of the firſt moneth, the word was geuen out in the houſe of Nabuchodonoſor the king of the Aſſyrians, that he would reuenge him ſelfe."
+        },
+        {
+          "verse": 2,
+          "text": "And he called al the ancientes, and al the captaynes, and his men of warre, and communicated with them the ſecrete of his counſel:"
+        },
+        {
+          "verse": 3,
+          "text": "and he ſaid that his cogitation was vpon that, to ſubdew al the earth to his empire."
+        },
+        {
+          "verse": 4,
+          "text": "which ſaying when it had pleaſed them al, Nabuchodonoſor the king called Holofernes the General of his warres,"
+        },
+        {
+          "verse": 5,
+          "text": "and ſaid to him: Goe forth againſt euerie kingdom of the weſt, & againſt them eſpecially, that contemned my commandment."
+        },
+        {
+          "verse": 6,
+          "text": "Thyne eie shal ſpare no kingdom, and euerie fenſed citie thou shalt ſubdew to me.",
+          "notes": [
+            {
+              "label": "a",
+              "text": "This cruel commandment was as cruelly put in execution by Holofernes, ch. 3. v. 11.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 7,
+          "text": "Then Holofernes called the captaynes, & magiſtrates of the powre of the Aſſyrians: and he muſtered men for the expedition, as the king commanded him, an hundred twentie thouſand fighting men on foote, and twelue thouſand archers horſemen."
+        },
+        {
+          "verse": 8,
+          "text": "And he made al his expedition to goe before in a multitude of inumerable camels, with thoſe thinges that might ſuffice the armies abundantly, heardes of oxen alſo, and flockes of sheepe, which had no number."
+        },
+        {
+          "verse": 9,
+          "text": "He appoynted corne to be prepared out of al Syria in his paſſage."
+        },
+        {
+          "verse": 10,
+          "text": "But gold and ſiluer he tooke out of the kings houſe exceding much."
+        },
+        {
+          "verse": 11,
+          "text": "And he went forth and al the armie with the chariotes, & horſemen, and the archers, which couered the face of the earth, as locuſtes."
+        },
+        {
+          "verse": 12,
+          "text": "And when he had paſſed through the coaſtes of the Aſſyrians, he came to the great mountaines of Ange, which are on the left hand of Cilicia: and he went vp into al theit caſteles, and wonne euerie fortreſſe."
+        },
+        {
+          "verse": 13,
+          "text": "And he brake downe the renowmed citie of Melothus, and ſpoyled al the children of Therſis, and the childten of Iſmael, which wete againſt the face of the deſert, and on the ſouth of the land of Cellon."
+        },
+        {
+          "verse": 14,
+          "text": "And he paſſed ouer Euphrates, and came into Meſopotamia: and he brake al the high cities, that were there, from the torrent of Membre, til ye come to the ſea:"
+        },
+        {
+          "verse": 15,
+          "text": "and he tooke the borders therof, from Cilicia vnto the coaſtes of Iapheth, which are toward the ſouth."
+        },
+        {
+          "verse": 16,
+          "text": "And he caried away al the children of Madian, and ſpoyled al their riches, and al that reſiſted him he ſlew in the edge of the ſword."
+        },
+        {
+          "verse": 17,
+          "text": "And after theſe thinges he went downe into the fieldes of Damaſcus in the daies of harueſt, and he ſet al the corne on fire, and he made al the trees and vineyardes to be cut downe;"
+        },
+        {
+          "verse": 18,
+          "text": "and the feare of him fel vpon al the inhabitantes of the land."
+        }
+      ],
+      "summary": "Nabuchodonoſor ſendeth Holofernes his General to waiſt al countries of the Weſt. 7. with a great armie, and aboundant munition. 11. They ſubdue manie places, and others are ſtrooken with great feare."
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "THEN the kinges and princes of al cities and prouinces; namely of Syria and Meſopotamia, and Syria Sobal, and Libya, and Cilicia ſent their embaſſadours, which coming to"
+        },
+        {
+          "verse": 2,
+          "text": "Holofernes, ſaid: Let thy indignation towarde vs ceaſe: For it is better that liuing we feare Nabuchodonoſor the great king, and be ſubiect to thee, then dying, we should with our deſtruction ſuffer the damages of our ſeruitude."
+        },
+        {
+          "verse": 3,
+          "text": "Euerie citie of ours, and al our poſſeſſion, al mountaynes, and hilles, and fieldes, and heardes of oxen, and flockes of sheepe, and goates, and of horſes, and camels, and al our goodes, and families are in thy ſight:"
+        },
+        {
+          "verse": 4,
+          "text": "let al our thinges be vnder thy law."
+        },
+        {
+          "verse": 5,
+          "text": "We alſo, and our children are thy ſeruantes."
+        },
+        {
+          "verse": 6,
+          "text": "Come to vs a peaceable Lord, and vſe our ſeruice, as it shal pleaſe thee."
+        },
+        {
+          "verse": 7,
+          "text": "Then went he downe from the mountaynes with horſemen in a great powre, and tooke euerie citie, and euerie inhabiter of the land."
+        },
+        {
+          "verse": 8,
+          "text": "And of al the cities he tooke to helpe him valiant men, and choſen for battel."
+        },
+        {
+          "verse": 9,
+          "text": "And ſo great feare lay vpon al thoſe prouinces, that the inhabitantes of al cities, princes and honorable perſons, together with the people went out to meete him coming,"
+        },
+        {
+          "verse": 10,
+          "text": "receyuing him with garlandes, and torches, dauncing with timbrels, & shaulmes."
+        },
+        {
+          "verse": 11,
+          "text": "Neither doing theſe thinges, could they for al that mitigate the firceneſſe of his ſtomacke:"
+        },
+        {
+          "verse": 12,
+          "text": "for he did both deſtroy their cities, and cut downe their groues."
+        },
+        {
+          "verse": 13,
+          "text": "For Nabuchodonoſor the king had commanded him, that he should deſtroy al the goddes of the earth, that he only might be called God of thoſe nations, which could be ſubdewed with the might of Holofernes.",
+          "notes": [
+            {
+              "label": "a",
+              "text": "An expreſſe figure of Antichriſt 2. Thes. 2. for whom al heretikes make way as precurſers, for the ſingular man of ſinne wil confeſſe no God but himſelf.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 14,
+          "text": "And paſſing through al Syria Sobal, and al Apamea, & al Meſopotamia he came to the Idumeians into the land of Gabaa,"
+        },
+        {
+          "verse": 15,
+          "text": "and tooke their cities, and ſate there for thirtie dayes, in which daies he commanded al the armie of his powre to be vnited."
+        }
+      ],
+      "summary": "Manie kinges and other princes ſubmitte them ſelues to Holofernes. 8. He receiueth them, and taketh of their chief men to reinforce his armie, 11. neuertheles deſtroyeth their cities, and their goddes, that Nabuchodonoſor only might be called God."
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "THEN the children of Iſrael, which dwelt in the Land of Iuda, hearing theſe thinges, were ſore afrayd of his preſence.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "The ſecond part. God's people are in great fear and diſtreſs.",
+              "kind": "head"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "Trembling alſo, and horrour inuaded their ſenſes, leſt he would doe that to Ieruſalem and to the temple of our Lord, which he had done to other cities, and their temples."
+        },
+        {
+          "verse": 3,
+          "text": "And they ſent into al Samaria round about, as for as Iericho, and preoccupated al the toppes of mountaynes:"
+        },
+        {
+          "verse": 4,
+          "text": "and they compaſſed their townes with walles, and gathered together corne for prouiſion of battel."
+        },
+        {
+          "verse": 5,
+          "text": "Eliachim the prieſt wrote to al, that were againſt Eſdrelon, which is againſt the face of the great fielde beſide Dothain, and to al, by whom there might be paſſage of way,",
+          "notes": [
+            {
+              "label": "a",
+              "text": "The high prieſt managed alſo the temporal affayres of the common welth, at this time, by conſent & commiſſion of king Manaſſes, as is moſt probable theſe thinges happening ſhortly after his repentance. 2. Paral. 33.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 6,
+          "text": "that they should take the aſcentes of the mountaynes, by which there might be way to Ieruſalem, and should keepe watch, where the way was narrow betwen the mountaynes."
+        },
+        {
+          "verse": 7,
+          "text": "And the children of Iſrael did according as the Prieſt of our Lord, Eliachim had appointed them."
+        },
+        {
+          "verse": 8,
+          "text": "And al the people cried to our Lord with great inſtance, and they humbled their ſoules in faſtings, and prayers they & their wiues."
+        },
+        {
+          "verse": 9,
+          "text": "And the Prieſtes put on heareclothes, and they laide the infantes proſtrate againſt the face of the temple of our Lord, and the altar of our Lord they couered with hearecloth:"
+        },
+        {
+          "verse": 10,
+          "text": "and they cried to our Lord the God of Iſrael With one accord, that their infantes might not be geuē into praye, & their wiues into ſpoile, and their cities into deſtruction, and their holie thinges into pollution, and they be made a reproch to the Gentiles."
+        },
+        {
+          "verse": 11,
+          "text": "Then Eliachim the high Prieſt of our Lord went about al Iſrael and ſpake to them,"
+        },
+        {
+          "verse": 12,
+          "text": "ſaying: Know ye, that our Lord wil heare your prayers, if continewing you continew in faſtinges and ptayers in the ſight of our Lord."
+        },
+        {
+          "verse": 13,
+          "text": "Be mindful of Moyſes the ſeruant of our Lord, who ouerthrew Amalec truſting in his power, and in his might, and in his armie, & in his shieldes, & in his chariotes, & in his horſemen, not by fighting, but with holie prayers:",
+          "cross_refs": [
+            {
+              "text": "Exod. 17."
+            }
+          ]
+        },
+        {
+          "verse": 14,
+          "text": "ſo shal al the enemies of Iſrael be; if you perſeuere in this worke, which you haue begunne."
+        },
+        {
+          "verse": 15,
+          "text": "They therfore at this exhortation of his, beſeching our Lord, continewed in the ſight of our Lord,"
+        },
+        {
+          "verse": 16,
+          "text": "ſo that they alſo, which offered the holocauſtes to our Lod, did offer the ſacrifices to our Lord girded with heareclothes, and there were ashes vpon their head."
+        },
+        {
+          "verse": 17,
+          "text": "And they al prayed God with al their hart, that he would viſite his people Iſrael."
+        }
+      ],
+      "summary": "The children of Iſrael excedingly fearing Holofernes forces, 3. prouide to reſiſt him, by the exhortation of the High prieſt, vſing both humaine, 8. and diuine meanes."
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "AND it was told Holofernes the General of the warres of the Aſſyrians, that the children of Iſrael prepared them ſelues to reſiſt, and had shut vp the wayes of the mountaynes,"
+        },
+        {
+          "verse": 2,
+          "text": "and with exceding furie he chafed in great anger, and called al the princes of Noab and dukes of Ammon,"
+        },
+        {
+          "verse": 3,
+          "text": "and he ſayd to them: Tel me what is this people which beſetteth the mountaynes: or what, and of what ſorte, and how great their cities are: alſo what their power is, or what is their multitude: or who is the king of their warfare:",
+          "notes": [
+            {
+              "label": "a",
+              "text": "Holofernes could not be altogether ignorant of ſo famous a people as the Iewes, but in his rage marueling at their attempt demandeth more particularly of their habilitie to reſiſt him. See, v. 27.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 4,
+          "text": "and why aboue al that dwel in the Eaſt, haue theſe contemned vs, and haue not come forth to meete vs, that they might receiue vs with peace?"
+        },
+        {
+          "verse": 5,
+          "text": "Then Achior captaine of al the children of Ammon anſwering, ſaid: If thou woutſafe my Lord to heare, I wil tel the truth in thy ſight of this people, which dwelleth in the mountaynes, and there shal not a falſe word come forth of my mouth."
+        },
+        {
+          "verse": 6,
+          "text": "This people is of the progenie of the Chaldees."
+        },
+        {
+          "verse": 7,
+          "text": "The ſame dwelt firſt in Meſopotamia, becauſe they would not folow the goddes of their fathets, which were in the land of the Chaldees.",
+          "cross_refs": [
+            {
+              "text": "Gen. 11."
+            }
+          ]
+        },
+        {
+          "verse": 8,
+          "text": "Forſaking therfore the ceremonies of their fathers, which were in multitude of goddes,"
+        },
+        {
+          "verse": 9,
+          "text": "they worshipped one God of heauen, who alſo commanded them that they should depart from thence, and should dwel in Charan. And when there was famine ouer al the land, they went downe into Ægypt, and there for foure hundred yeares were ſo multiplied, that the hoſt of them could not be numbred.",
+          "cross_refs": [
+            {
+              "text": "Gen. 12."
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "text": "And when the king of Ægypt oppreſſed them, and in the buildinges of his cities had ſubdewed them in brick and claye, they cried to their Lord, and he ſtroke the whole Land of Ægypt with diuers plagues.",
+          "cross_refs": [
+            {
+              "text": "Exod. 1."
+            },
+            {
+              "text": "Exod. 7. &c."
+            }
+          ]
+        },
+        {
+          "verse": 11,
+          "text": "And when the Ægyptians had caſt them out from them, and the plague had ceaſed from them, and they would take them againe, and cal them backe to their ſeruice,"
+        },
+        {
+          "verse": 12,
+          "text": "theſe fleeing away, the God of heauen opened the ſea, ſo that the waters were conſolidated as a wal, on either ſide, and they walking through the botome of the ſea paſſed drie foote.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "made ſolide or firme. Exo. 14.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 13,
+          "text": "In which place whiles an innumerable armie of the Ægyptians purſewed them, they were ſo ouerwhelmed with the waters, that there was not one remayning, to tel the fact to poſteritie."
+        },
+        {
+          "verse": 14,
+          "text": "Alſo being paſt the read ſea, they poſſeſſed the deſertes of Mount Sinai, in which neuer man could dwel, or ſonne of man reſted."
+        },
+        {
+          "verse": 15,
+          "text": "There bitter fountaynes were made ſweete for them to drinke, and for fourtie yeares they receiued meate from heauen.",
+          "cross_refs": [
+            {
+              "text": "Exod. 15. 16. 17."
+            }
+          ]
+        },
+        {
+          "verse": 16,
+          "text": "Whereſoeuer they entered without bow and arrow, and without shielde and ſword, their God fought for them, and ouercame."
+        },
+        {
+          "verse": 17,
+          "text": "And there was not that did inſult againſt this people, but when they departed from the worſhip of the Lord their God.",
+          "cross_refs": [
+            {
+              "text": "Iudic. 2. 3. 4. &c."
+            }
+          ]
+        },
+        {
+          "verse": 18,
+          "text": "But as often as beſide their owne God, they worshiped an other, they were geuen to praye, and into the ſword, and to reproch."
+        },
+        {
+          "verse": 19,
+          "text": "And as often as they were penitent for that they reuolted from the worship of their God, the God of heauen gaue them power to reſiſt.",
+          "cross_refs": [
+            {
+              "text": "Nu. 21."
+            }
+          ]
+        },
+        {
+          "verse": 20,
+          "text": "Finally the king of the Chananeites, and of Iebuſeites, and of the Pherezeites, and of the Hetheites, and of the Heueites, and of the Amorrheites, and al the mightie in Heſebon they ouerthrew, and they poſſeſſed their landes, & their cities:",
+          "cross_refs": [
+            {
+              "text": "Ios. 21."
+            },
+            {
+              "text": "Ios. 12.",
+              "source": "sancta"
+            }
+          ]
+        },
+        {
+          "verse": 21,
+          "text": "and as long as they ſinned not in the ſight of their God, it was wel with them, for their God hateth iniquitie."
+        },
+        {
+          "verse": 22,
+          "text": "For theſe yeares alſo paſt when they had reuolted from the way, which God had geuen them, that they ſhould walke in it, they were deſtroyed in battels by manie nations, and verie manie of them were led captiue into a ſtrange land.",
+          "cross_refs": [
+            {
+              "text": "4. Reg. 21."
+            }
+          ],
+          "notes": [
+            {
+              "label": "b",
+              "text": "He ſemeth to ſpeake of the captiuitie of king Manaſſes 2. Paral. 33. See the argument of this booke pag. 1011. · 4. Reg. 21.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 23,
+          "text": "But of late returning to the Lord their God, from the diſperſion wherein they were diſperſed, they are vnited & are come vp into al theſe mountaynes, and poſſeſſe Ieruſalem againe where their Holies are."
+        },
+        {
+          "verse": 24,
+          "text": "Now therfore my Lord, ſearch if there be any iniquitie of theirs in the ſight of their God: and let vs goe vp to them, becauſe their God deliuering wil deliuer them to thee, and they shal be ſubdewed vnder the yoke of thy power:"
+        },
+        {
+          "verse": 25,
+          "text": "but if there be no offence of this people before their God, we can not reſiſt them, becauſe their God wil defend them: and we shal be a reproche to the whole earth."
+        },
+        {
+          "verse": 26,
+          "text": "And it came to paſſe, when Achior had ceaſed to ſpeake theſe wordes, al the great men of Holofernes were angrie, and they thought to kil him, ſaying to each other:"
+        },
+        {
+          "verse": 27,
+          "text": "who is this, that ſayth the children of Iſrael can reſiſt king Nabuchodonoſor, and his armies, men vnarmed, and without force, and without skil of the feates of warre?",
+          "notes": [
+            {
+              "label": "c",
+              "text": "As Holofernes v. 3. demanded that which he in great part knew, ſo his men (knowing Achior wel ynough) in rage demand, who he is that dare ſay ſuch thinges!",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 28,
+          "text": "That Achior therfore may know that he deceiueth vs, let vs goe vp into the mountaynes: and when their mightie ones shal be taken, then shal he with them be ſtrooken through with the ſword:"
+        },
+        {
+          "verse": 29,
+          "text": "that euerie nation may know that Nabuchodonoſor is God of the earth, and beſides him there is none other."
+        }
+      ],
+      "summary": "Holofernes hearing that the Iſraelites prepare to reſiſt him, in great rage demandeth diuers particulars concerning that people, 5. Achior an Ammonite telleth the meruelous workes of God towards them. 22. aduiſeth him not to fight againſt them. 26 the chief capitanies are offended, & threaten Achior."
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "AND it came to paſſe when they had ceaſed to ſpeake, Holofernes being ſore offended, ſaid to Achior:"
+        },
+        {
+          "verse": 2,
+          "text": "Becauſe thou haſt prophecied vnto vs ſaying, that the nation of Iſrael is defended of their God, that I may ſheu thee that there is no God, but Nabuchodonoſor:",
+          "notes": [
+            {
+              "label": "a",
+              "text": "Nabucodonoſors vaſſals would haue no other God but him. And God almightie is alſo ielous and wil haue no God but him ſelfe.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 3,
+          "text": "when we shal haue ſtrookē them al as one man, then thy ſelf with them shalt die by the ſword of the Aſſyrians, and al Iſrael with thee shal perish by deſtruction:"
+        },
+        {
+          "verse": 4,
+          "text": "and thou shalt proue that Nabuchodonoſor is lord of the whole earth: and then the ſword of my warfare shal paſſe through thy ſides, & pearſed thou shalt fal among the wounded of Iſrael, and thou shalt no more fetch breath, til thou be deſtroyed with them."
+        },
+        {
+          "verse": 5,
+          "text": "But if thou thinke thy prophecie true, let not thy countenance quaile, and the paleneſſe that is in thy face, let it depart from thee, if thou thinke theſe my wordes can not be accompliſhed."
+        },
+        {
+          "verse": 6,
+          "text": "And that thou mayſt know that thou shalt ptoue theſe thinges together with them, behold from this houre thou shalt be aſſociate to their people, that whiles they shal receiue worthie punishment of my ſword, thou withal may be ſubiect to the vengeance."
+        },
+        {
+          "verse": 7,
+          "text": "Then Holofernes commanded his ſeruantes that they should take Achior, and lead him into Bethula, and should deliuer him into the handes of the children of Iſrael."
+        },
+        {
+          "verse": 8,
+          "text": "And the ſeruantes of Holofernes taking him, went through the champaine: but when they came neere the mountaynes, the ſlingers came forth againſt them."
+        },
+        {
+          "verse": 9,
+          "text": "And they turning out of the way by the ſide of the mountayne, tyed Achior to a tree hand and foote, and ſo left him bound with withes, and returned to their lord."
+        },
+        {
+          "verse": 10,
+          "text": "Moreouer the children of Iſrael deſcending from Bethulia, came to him. Whom looſnig they brought to Bethulia, and ſetting him in the middes of the people, demanded what was the matter, that the Aſſyrians had left him bound."
+        },
+        {
+          "verse": 11,
+          "text": "In thoſe dayes the princes there, were Ozias the ſonne of Micha of the tribe of Simeon, and Charmi, who alſo is Gothoniel."
+        },
+        {
+          "verse": 12,
+          "text": "In the middes therefore of the ancientes, and in the ſight of al, Achior told al thinges that he had ſpoken being asked of Holofernes: and how the people of Holofernes would haue killed him for this word,"
+        },
+        {
+          "verse": 13,
+          "text": "and how Holofernes him ſelfe being angrie commanded him to be deliuered for this cauſe to the Iſraelites: that when he should ouercome the children of Iſrael, then he might command Achior alſo himſelf to die by diuerſe tormentes, for this that he had ſaid: The God of heauen is their defender."
+        },
+        {
+          "verse": 14,
+          "text": "And when Achior had declared al theſe thinges, al the people fel on their face, adoring our Lord, and with common lamentation and weeping they powred out their prayers with one accord to our Lord,"
+        },
+        {
+          "verse": 15,
+          "text": "ſaying: Lord God of heauen and earth, behold their pride, and haue regard to our humilitie, and attend the face of thy ſainctes, and shew that thou forſakeſt not them that preſume of thee and, that thow humbleſt them that preſume of them ſelues, and glorie of their power.",
+          "notes": [
+            {
+              "label": "b",
+              "text": "God regardeth the pride of ſinners;",
+              "kind": "gloss"
+            },
+            {
+              "label": "c",
+              "text": "the humiliation of penitentes,",
+              "kind": "gloss"
+            },
+            {
+              "label": "d",
+              "text": "the ſanctitie of his Church in general, as wel holie perſons, as holie thinges.",
+              "kind": "gloss"
+            },
+            {
+              "label": "e",
+              "text": "and true confidence in him, without preſuming of mens poure.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 16,
+          "text": "Their weeping therfore being ended, & the peoples prayer by the whole day being finished, they comforted Achior,"
+        },
+        {
+          "verse": 17,
+          "text": "ſaying: The God of our fathers, whoſe power thou haſt ſet forth, he wil geue thee this recompence, that thou rather shalt ſee their deſtruction."
+        },
+        {
+          "verse": 18,
+          "text": "And when the Lord our God shal geue this libertie to his ſeruantes, be God with thee alſo in the middes of vs: that as it shal pleaſe thee, ſo thou with al thine mayſt conuerſe with vs."
+        },
+        {
+          "verse": 19,
+          "text": "Then Ozias, the counſel being ended, receiued him into his houſe, and made him a greate ſupper."
+        },
+        {
+          "verse": 20,
+          "text": "And al the ancientes being called, they refreshed them ſelues together after the faſting was ended."
+        },
+        {
+          "verse": 21,
+          "text": "But afterwarde al the people was called together, and al the night long within the church, they prayed deſiring helpe of the God of Iſrael."
+        }
+      ],
+      "summary": "Holofernes in great rage ſendeth Achior to Bethulia, that he may there be ſlaine with the Iſraelites. 8. He is leift bound to a tree, 10. from whence the Iſraelites taking him, he telleth them the cauſe. 14. They entertaine him courteouſly and earneſtly pray to God for helpe."
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "BVT Holofernes the next day commanded his armies, that they should goe vp againſt Bethulia."
+        },
+        {
+          "verse": 2,
+          "text": "And there were of warre foote men an hundred twentie thouſand, and horſe men two and twentie thouſand, beſides the preparations of thoſe men, whom the captiuitie had taken, and had beene led away out of the prouinces and cities, of al youth."
+        },
+        {
+          "verse": 3,
+          "text": "Al prepared them ſelues together to the fight agaynſt the children of Iſrael, and they came by the hil ſide vnto the toppe, which looketh toward Dorhaim, from the place which is called Belma vnto Chelmon, which is againſt Eſdrelon."
+        },
+        {
+          "verse": 4,
+          "text": "But the children of Iſrael, as they ſaw the multitude of them, laid them ſelues proſtrate vpon the earth, caſting ashes vpon their heades, praying with one accord, that the God of Iſrael would shew his mercie vpon his people.",
+          "notes": [
+            {
+              "label": "a",
+              "text": "Gods ſeruantes firſt of al before they fight, do workes of penance, commend their cauſe to God, then take weapons in hand, & expect opportunitie to encounter with the enimies.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 5,
+          "text": "And taking their weapons of warre, they ſate at the places, which by a narrow path way lead directly betwen the mountaynes, and they were keping them al day and night."
+        },
+        {
+          "verse": 6,
+          "text": "Moreouer Holofernes, whiles he compaſſeth round about, found that the foūtayne, which ranne in, went directly to their conduite on the ſouth ſide without the citie: and he commanded their conduite to be cut aſunder."
+        },
+        {
+          "verse": 7,
+          "text": "Neuertheleſſe there were fountaynes not far from the walles, out of which ſecretly they ſemed to draw water to refresh them ſelues, rather then to drinke."
+        },
+        {
+          "verse": 8,
+          "text": "But the children of Ammon, & Moab came to Holofernes, ſaying: The children of Iſrael truſt not in ſpeare, nor in arrow, but the mountaynes defend them, & the hilles ſtanding meruelous ſtipe gard them."
+        },
+        {
+          "verse": 9,
+          "text": "Therfore that thou mayſt ouercome them without ioyning battel, ſet kepers of the fountaynes, that they may not draw water of them, and without ſword thou shalt kil them, or at the leaſt being wearied they wil yeld their citie, which they thinck being ſet in the mountaynes, can not be ouercome."
+        },
+        {
+          "verse": 10,
+          "text": "And theſe wordes pleaſed Holofernes, and his ſouldiars, and he placed round about an hundred men at euerie fountayne."
+        },
+        {
+          "verse": 11,
+          "text": "And when that watch had beene fully kept for twentie dayes, the ceſternes fayled, and the collections of waters to al the inhabitantes of Bethulia, ſo that there was not within the citie, wherof they might be ſatisfied no not for one day, becauſe water was dayly geuen to the people by meaſure."
+        },
+        {
+          "verse": 12,
+          "text": "Then al the men, and wemen, yong men, and children, being gathered together to Ozias, al together with one voice,",
+          "notes": [
+            {
+              "label": "b",
+              "text": "A common frailtie of people in diſtreſſe to impute error to their Superiour: though in deede Ozias erred rather in yelding at laſt to their ſuggeſtion v. 25. then in withſtanding thus long.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 13,
+          "text": "ſaid: God iudge betwen vs and thee, becauſe thou haſt done euil agaynſt vs, in that thou wouldeſt not speake peaceably with the Aſſyrians, and for this cauſe God hath ſold vs into their handes."
+        },
+        {
+          "verse": 14,
+          "text": "And there is none to helpe, wheras we lye proſtrate before their eies in thirſt, & great deſtruction."
+        },
+        {
+          "verse": 15,
+          "text": "And now aſſemble ye al, that are in the citie, that we may of our owne accord yeld vs al to the people of Holofernes."
+        },
+        {
+          "verse": 16,
+          "text": "For it is better, that captiues we bleſſe our Lord liuing, then we should die, and be a reproch to al flesh, when we shal ſee our wiues, and our infantes die before our eies."
+        },
+        {
+          "verse": 17,
+          "text": "We cal to witnes this day heauen and earth, and the God of our fathers, which taketh vengeance of vs according to our ſinnes, that now you deliuer the citie into the hand of Holofernes armie, that our end may be short in the edge of the ſword, which is made longer in the drught of thirſt."
+        },
+        {
+          "verse": 18,
+          "text": "And when they had ſaid theſe thinges, there was made great weeping and howling of al in the aſſemble, and for manie houres with one voice they cried to God, ſaying:"
+        },
+        {
+          "verse": 19,
+          "text": "We haue ſinned with our fathers, we haue done vniuſtly, we haue committed iniquitie."
+        },
+        {
+          "verse": 20,
+          "text": "Thou becauſe thou art gracious, haue mercie vpon vs, or in thy ſcourge reuenge our iniquities, and deliuer not them that truſt in thee to a people, that knoweth not thee,"
+        },
+        {
+          "verse": 21,
+          "text": "that they ſay not among the Gentiles: Where is their God?"
+        },
+        {
+          "verse": 22,
+          "text": "And when they wearied with theſe cries, and tyred with theſe weepings, had held their peace,"
+        },
+        {
+          "verse": 23,
+          "text": "Ozias ryſing vp embrued with teares, ſaid: Be of good chere bretheren, and theſe fiue daies let vs expect mercie of our Lord."
+        },
+        {
+          "verse": 24,
+          "text": "For peraduenture he wil cut of his indignation, and wil geue glorie to his name."
+        },
+        {
+          "verse": 25,
+          "text": "But if after fiue daies be paſt there come no aide, we wil doe theſe wordes, which you haue spoken."
+        }
+      ],
+      "summary": "Holofernes beſiegeth Bethulia, 6. cutteth their conduite of water, 9. kepeth their fountaines. 12. the people murmure, and mutenie, 18. yet they pray to God, 23. and the high prieſt determineth, if aide come not within fiue dayes, to deliuer the citie to the Aſſyrians."
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "AND it came to paſſe, when Iudith a widow had heard theſe wordes, which was the daughter of Merari, the ſonne of Idox, the ſonne of Ioſeph, the ſonne of Ozias, the ſonne of Elai, the ſonne of Iamnor, the ſonne of Gedeon, the ſonne of Raphaim, the ſonne of Achitob, the ſonne of Melchias, the ſonne of Enan, the ſonne of Narhanias, the ſonne of Salathiel, the ſonne of Simeon, the ſonne of Iſrael:"
+        },
+        {
+          "verse": 2,
+          "text": "and her huſband was Manaſſes, who died in the daies of barley harueſt:"
+        },
+        {
+          "verse": 3,
+          "text": "for he was occupied with them that bound sheues in the field, and the heate came vpon his head, and he died in Bethulia his citie, and was buried there with his father."
+        },
+        {
+          "verse": 4,
+          "text": "And Iudith was leaft his widow now three yeares and ſix monethes."
+        },
+        {
+          "verse": 5,
+          "text": "And in the higher partes of her houſe she made her ſelf a ſecrete chamber, in which she abode shut vp with her maides,",
+          "notes": [
+            {
+              "label": "a",
+              "text": "In three ſpecial obſeruances this holie widow led a moſt religious life · In much priuate prayer",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 6,
+          "text": "and hauing cloth of heare vpon her loynes, she faſted al the daies of her life but Sabbathes, and new-moones, and the feaſtes of the houſe of Iſrael.",
+          "notes": [
+            {
+              "label": "b",
+              "text": "in wearing hearecloth;",
+              "kind": "gloss"
+            },
+            {
+              "label": "c",
+              "text": "and in much faſting: as it were a perpetual lent, al dayes but Sabbathes, & feaſtes excepted.",
+              "kind": "gloss"
+            },
+            {
+              "label": "1",
+              "text": "the firſt day of the moneth.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 7,
+          "text": "And she was of an exceding beautiful countenance, to whom her husband had leaft much richeſſe, and a great familie, and poſſeſſions ful of heardes of oxen, and flockes of sheepe."
+        },
+        {
+          "verse": 8,
+          "text": "And she was among al moſt famous, becauſe she feared our Lord very much, neither was there that spake an il word of her."
+        },
+        {
+          "verse": 9,
+          "text": "When she therfore had heard that Ozias had promiſed, that after the fifth day were paſt he would yeld the citie, she ſent to the ancientes Chabri and Charmi."
+        },
+        {
+          "verse": 10,
+          "text": "And they came to her, and she ſaid to them: What is this word, wherein Ozias hath conſented, to yeld the citie to the Aſſyrians, if within fiue daies there come no ayde to vs?"
+        },
+        {
+          "verse": 11,
+          "text": "And what are you, that tempt our Lord?"
+        },
+        {
+          "verse": 12,
+          "text": "This is no word that may prouoke mercie, but rather that may rayſe vp wrath, and inflame furie."
+        },
+        {
+          "verse": 13,
+          "text": "You haue ſet a time for the mercie of our Lord, and according to your pleaſure, you haue appointed him a day.",
+          "notes": [
+            {
+              "label": "d",
+              "text": "In this eſpecially they offended, that they prefixed a time, meaning then to yeld the citie, for they shold rather haue fought againſt the enemie, then deliuer Gods people to a tyranne, holie thinges into prophane handes, & by their example put Ieruſalem and the temple in like danger. Rabanus.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 14,
+          "text": "But becauſe our Lord is patient, let vs be penitent for this ſame thing, and sheding teares let vs deſire his pardon:"
+        },
+        {
+          "verse": 15,
+          "text": "for not as man, ſo wil God threaten, neither as the ſonne of man wil he be inflamed to anger."
+        },
+        {
+          "verse": 16,
+          "text": "And therfore let vs humble our ſoules to him, and being ſetled in an humble ſpirit, ſeruing him:"
+        },
+        {
+          "verse": 17,
+          "text": "let vs ſay weeping to our Lord, that according to his wil ſo he doe his mercie with vs: that as our hart is trubled in their pride, ſo alſo we may glorie in our humilitie:"
+        },
+        {
+          "verse": 18,
+          "text": "becauſe we haue not folowed the ſinnes of our fathers, which forſooke their God, and adored ſtrange goddes,"
+        },
+        {
+          "verse": 19,
+          "text": "for which abomination they were geuen into the ſword, and into confuſion to their enemies: but we know no other God but him."
+        },
+        {
+          "verse": 20,
+          "text": "Let vs humbly expect his conſolation, and he wil require our bloud of the afflictions of our enemies, and he wil humble al Nations, what ſoeuer shal riſe vp againſt vs, and the Lord our God wil make them without honour."
+        },
+        {
+          "verse": 21,
+          "text": "And now bretheren, becauſe you are ancientes in the people of God, and their ſoules depende of you: by your ſpeach comforte their hartes, that they be mindful, that our fathers were tempted to be proued, whether they did worſhippe their God truly."
+        },
+        {
+          "verse": 22,
+          "text": "They muſt be mindful how our father Abraham was tempted, and by many tribulations proued, was made the freind of God."
+        },
+        {
+          "verse": 23,
+          "text": "So Iſaac, ſo Iacob, ſo Moyſes, & al that haue pleaſed God, through manie tribulations haue paſſed faithful."
+        },
+        {
+          "verse": 24,
+          "text": "But they that did not receiue the tentations with the feare of our Lord, and vttered their impatience and reproch of their murmuring againſt our Lord,"
+        },
+        {
+          "verse": 25,
+          "text": "were deſtroyed of the deſtroyer, and perished by ſerpents.",
+          "notes": [
+            {
+              "label": "e",
+              "text": "S. Paul 1. Cor. 10. v. 10. alleaging that happened to the people of Iſrael in the deſert, addeth this word deſtroyer, which is only in this place, and not Num. 11. nor 14 nor els in the old Teſtament. which is an other argument that this boke is Canonical.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 26,
+          "text": "And we therfore let vs not reuenge ourſelues for theſe thinges, which we ſuffer,"
+        },
+        {
+          "verse": 27,
+          "text": "but reputing theſe verie puniſhments to be the ſcourges of our Lord leſſe then our ſinnes, wherwith as ſeruantes we are chaſtiſed, let vs thinke them to haue chanced to our amendement, and not to our deſtruction."
+        },
+        {
+          "verse": 28,
+          "text": "And Ozias and the ancientes ſayd to her: Al thinges which thou haſt spoken, be true, and there is no reprehenſion in thy wordes."
+        },
+        {
+          "verse": 29,
+          "text": "Now therfore pray for vs, becauſe thou art a holie woman, and fearing God."
+        },
+        {
+          "verse": 30,
+          "text": "And Iudith ſaid to them: As you know, that which I could ſpeake to be of God:"
+        },
+        {
+          "verse": 31,
+          "text": "ſo that which I haue diſpoſed to doe, proue if it be of God, and pray that God eſtablish my counſel."
+        },
+        {
+          "verse": 32,
+          "text": "You shal ſtand at the gate this night, and I wil goe out with myne abra: and pray ye, that as you haue ſaid, in fiue dayes our Lord reſpect his people Iſrael.",
+          "notes": [
+            {
+              "label": "f",
+              "text": "Some thinke Abra was a proper name, but whether it was or no, it ſignifieth an handmaide of more honour as we ſpeake: A maide of honour.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 33,
+          "text": "But I wil not that you ſearch my doing, and til I bring you word, let nothing els be done, but pray for me to our Lord God."
+        },
+        {
+          "verse": 34,
+          "text": "And Ozias the prince of Iuda ſaid to her: Goe in peace, and our Lord be with thee to the reuenge of our enemies. And returning they departed."
+        }
+      ],
+      "summary": "Iudith a moſt vertuous, rich, fayre, & renowmed widow, 9. rebuketh the high prieſt and ancientes, for their determination to deliuer the citie, if ayde come not in fiue dayes, 14. exhorteth al to penance. 28. They al agree to her godlie aduiſe, 30. praying for good ſuceſſe of her intention, which they yet know not.",
+      "summary_notes": [
+        {
+          "marker": 1,
+          "text": "The third part. Judith delivereth her whole nation from perſecution."
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "WHO going away, Iudith went into her oratorie: and clothing her ſelf with hearecloth, put ashes vpon her head: and falling proſtrate to our Lord, she cried to our Lord, ſaying:",
+          "notes": [
+            {
+              "label": "a",
+              "text": "Of ſuch priuate oratories as this our Sauiour ſemeth to ſpeake Mat. 6. ſaying: Enter into thy chamber. &c. Of like oratories among Chriſtians read Card Baronius An. D 293 S. Cyp.ep. 56.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "Lord God of may father Simeon, who gaueſt him a ſword for defenee againſt ſtrangers, which were rauishers in their coinquination, and diſcouered the virgine vnto confuſion:"
+        },
+        {
+          "verse": 3,
+          "text": "and gaueſt their wemen into praye, and their daughters into captiuitie: and al the praye to be diuided to thy ſeruantes, which were zelous in thy zele: helpe I beſeech thee ô lord God me a widow.",
+          "notes": [
+            {
+              "label": "b",
+              "text": "The zele of ſimeon and Leui was commendable, but for diuers euil circumſtances the fact was reproued by Iacob. Gen.34. & 49.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 4,
+          "text": "For thou haſt done the thinges heretofore, and haſt purpoſed one thing after another: and that hath bene done which thou wouldeſt."
+        },
+        {
+          "verse": 5,
+          "text": "For al thy wayes are readie, and thy iudgementes thou haſt put in thy prouidence."
+        },
+        {
+          "verse": 6,
+          "text": "Looke vpon the campe of the Aſſyrians now, as thou didſt voutſafe to ſee the campe of the Ægyptians, when they ran armed after thy ſeruantes, truſting in chariotes, and in their horſemen, and in a multitude of men of warre.",
+          "cross_refs": [
+            {
+              "text": "Exo.14",
+              "source": "sancta"
+            }
+          ]
+        },
+        {
+          "verse": 7,
+          "text": "But thou didſt looke ouer their campe. and darkeneſſe wearied them."
+        },
+        {
+          "verse": 8,
+          "text": "The depth held their feete, and the waters ouerwhelmed them."
+        },
+        {
+          "verse": 9,
+          "text": "So let theſe alſo be made ô Lord, which truſt in their multitude, and in their chariotes, and in pikes, and in shieldes, and in their arrowes, and glorie in their ſpeares,"
+        },
+        {
+          "verse": 10,
+          "text": "and know not thy ſelf art our God, which deſtroyeſt warres from the beginning, and Lord is thy name."
+        },
+        {
+          "verse": 11,
+          "text": "Lift vp thyne arme as from the beginning, and dash their power in thy power: let their power fal in thy wrath, which promiſe that they wil violate thy holie thinges, and pollute the tabernacle of thy holie name, & with their ſword throw downe the horne of thyne altar."
+        },
+        {
+          "verse": 12,
+          "text": "Bring to paſſe Lord, that his pride be cut of with his owne ſword,"
+        },
+        {
+          "verse": 13,
+          "text": "let him be caught with the ſnares of his eies in me, and thou shalt ſtrike him from the lippes of my charitie.",
+          "notes": [
+            {
+              "label": "c",
+              "text": "She prayed, that Holofernes ſhould be moued with her beautie, & ſwete ſpeach: which he might be and not ſinne, but he by his free wil ſinning God turned his ſinne to the good of others. See Annot. Exod. 7. pag.173. S. Aug. Ser. 228.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 14,
+          "text": "Geue me conſtancie in mind, that I may contemne him: and powre that I may ouerthrow him."
+        },
+        {
+          "verse": 15,
+          "text": "For this shal be a memorial of thy name, when the hand of a woman shal ouerthrow him."
+        },
+        {
+          "verse": 16,
+          "text": "For not in multitude is thy power ô Lord, neither in ſtrength of horſes is thy wil, neither haue the proud pleaſed thee from the beginninge: but the prayer of the humble and meeke hath alwayes pleaſed thee."
+        },
+        {
+          "verse": 17,
+          "text": "God of the heauens, creatour of the waters, and Lord of euerie creature, heare me wretch, praying and preſuming of thy mercie."
+        },
+        {
+          "verse": 18,
+          "text": "Remember Lord thy teſtament, and geue a word in my mouth, and ſtrengthen counſel in my hart, that thy houſe may continew in thy ſanctification:"
+        },
+        {
+          "verse": 19,
+          "text": "and al Nations may acknowledge, that thou art God, and there is no other beſides thee."
+        }
+      ],
+      "summary": "Iudith in hearecloth & ashes prayeth for the deliuerie of the people, remembering like benefites of God. 12. craueth powre to ouerthrow Holofernes."
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "AND it came to paſſe, when she had ceaſed to crie to our Lord, she roſe from the place, wherein she lay proſtrate to our Lord."
+        },
+        {
+          "verse": 2,
+          "text": "And she called her abra, and going downe into her houſe she tooke from her the hearecloth, and put of the garmentes of her widowhood,",
+          "notes": [
+            {
+              "label": "a",
+              "text": "See ch. 8. v.32.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 3,
+          "text": "and washed her bodie, and anoynted her ſelf with ointement, and plaited the heare of her head, and put a crowne vpon her head, and clothed her ſelf with the garmentes of her ioyfulnes, and put pantofles on her feete, and tooke braceletes, and Lilies, and eareletes, and ringes, and with al her ornamentes she adorned her ſelf.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "Sandalia.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 4,
+          "text": "To whom alſo our Lord gaue beautie: becauſe al this trimming did not depend of ſenſualitie, but of vertue: & therfore our Lord amplified this beautie on her, that she might appeare to al mens eies of incomparable comlines.",
+          "notes": [
+            {
+              "label": "b",
+              "text": "God by this teſtified her holie intention in adorning herſelfe.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 5,
+          "text": "She therfore layd vpon her abra a bottel of wyne, and a veſſel of oyle, and polent, and drie figges, and bread, and cheeſe, and went foreward.",
+          "notes": [
+            {
+              "label": "c",
+              "text": "Not only certaine meates were forbid by the law Levit.11. but in maner al the meates of the Gentiles were vnlawful being offered to idoles, for which cauſe Daniel and the three children would not eate of the kings meates in Babylon. Dan.1.",
+              "kind": "gloss"
+            },
+            {
+              "label": "1",
+              "text": "Polentam.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 6,
+          "text": "And when they were come to the gate of the citie, they found Ozias expecting, and the ancientes of the citie."
+        },
+        {
+          "verse": 7,
+          "text": "Who when they ſaw her, being aſtonished maruailed at her beautie exceedingly,"
+        },
+        {
+          "verse": 8,
+          "text": "Yet asking her no queſtion, they let her paſſe, ſaying: The God of our fathers geue thee grace, and ſtrengthen al the counſel of thy hart, with his powre, that Ieruſalem may glorie vpon thee, and thy name may be in the number of the holie and iuſt."
+        },
+        {
+          "verse": 9,
+          "text": "And they that were there ſaid, al with one voyce: So be it, ſo be it."
+        },
+        {
+          "verse": 10,
+          "text": "But Iudith praying our Lord, paſſed through the gates she and her Abra."
+        },
+        {
+          "verse": 11,
+          "text": "And it came to paſſe, when she went downe the hil, about breake of day the watchmen of the Aſſyrians mette her, and held her, ſaying: whence comeſt thou? or whither goeſt thou?"
+        },
+        {
+          "verse": 12,
+          "text": "Who anſwered, I am a daughter of the Hebrews, therfore am I fled from their face, becauſe I knew it should come to paſſe, that they should be geuen you vnto spoyle, becauſe that contemning you, they would not of their owne accord yeld themſelues, that they might find mercie in your ſight.",
+          "notes": [
+            {
+              "label": "d",
+              "text": "She told manie things euidently true, other things conditionally, as it was like to come to paſſe, if God ſent not better meanes.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 13,
+          "text": "For this cauſe I thought with my ſelf, ſaying: I wil goe to the preſence of the prince Holofernes, that I may tel him their ſecretes, and shew him by what entrance he may winne them, ſo that there shal not fal one man of his armie."
+        },
+        {
+          "verse": 14,
+          "text": "And when thoſe men had heard her wordes, they conſidered her face, and she was a wonder in their eies, for they marueiled at her beautie excedingly."
+        },
+        {
+          "verse": 15,
+          "text": "And they ſaid to her: Thou haſt ſaued thy life, in that thou haſt found ſuch counſel, that thou wouldeſt come downe to our lord."
+        },
+        {
+          "verse": 16,
+          "text": "And this know thou, that when thou shalt ſtand in his ſight, he wil deale wel with thee, and thou shalt be moſt gratious in his hart. And they brought her to the tabernacle of Holofernes, telling him of her."
+        },
+        {
+          "verse": 17,
+          "text": "And when she was entered before his face, forthwith Holofernes was caught in his eies."
+        },
+        {
+          "verse": 18,
+          "text": "And his guard ſaid to him: Who can contemne the people of the Hebrewes, which haue ſo beautiful wemẽ, that we should not worthely fight againſt them for theſe?",
+          "notes": [
+            {
+              "label": "e",
+              "text": "S. Fulgentius probably iudgeth that Iudith was now about fourtie yeares old. Epiſt.2.cap.6.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 19,
+          "text": "Iudith therfore ſeeing Holofernes ſitting in a canopie, which was wouen of purple, and gold, and emerauld, and pretious ſtones:"
+        },
+        {
+          "verse": 20,
+          "text": "and when she had looked in his face, she adored him, falling proſtrate vpon the ground. And the ſeruantes of Holofernes lifted her vp, their lord commanding it."
+        }
+      ],
+      "summary": "Iudith excellently adorned, and very beautiful goeth with her handmaide towards the campe, 11. is taken by the watch, 16. and brought to Holofernes."
+    },
+    {
+      "chapter": 11,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "THEN Holofernes ſaid to her: Be of good chere, and feare not in thy hart: becauſe I haue neuer hurt man, that would ſerue Nabuchodonoſor the king."
+        },
+        {
+          "verse": 2,
+          "text": "And thy people, if they had not contemned me, I would neuer haue lifted vp my ſpeare ouer them."
+        },
+        {
+          "verse": 3,
+          "text": "But now tel me, for what cauſe haſt thou departed from them, and it hath pleaſed thee to come to vs?"
+        },
+        {
+          "verse": 4,
+          "text": "And Iudith ſaid to him: Take the wordes of thy handmayde, for if thou wilt folow the wordes of thy handmayde, our Lord wil do with thee a perfect thing.",
+          "notes": [
+            {
+              "label": "a",
+              "text": "Al that Iudith ſayth iſ true in her ſenſe as she meant it, but not in the vnderſtanding of Holofernes and his ſouldiars, yet was no leſſe lawful then that Ioſue did in deceuing the citezenes of Hay. Ioſue 8. S. Aug. q. 10. in Ioſue.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 5,
+          "text": "For Nabuchodonoſor the king of the earth liueth, and his power liueth which is in thee to the chaſtiſing of al ſtraying ſoules: that not onlie men ſerue him by thee, but alſo the beaſtes of the field obey him."
+        },
+        {
+          "verse": 6,
+          "text": "For the induſtrie of thy mind is reported to al nations, and it is declared to al the world, that thou onlie art good, and mightie in al his kingdom, and thy diſcipline is bruted to al prouinces."
+        },
+        {
+          "verse": 7,
+          "text": "Neither is that vnknowne, which Achior ſpake, neither are we ignorant of that thou haſt commanded to come vpon him."
+        },
+        {
+          "verse": 8,
+          "text": "For it is certaine that our God is ſo offended with ſinnes, that he hath ſent word by his prophetes to the people, that he wil deliuer them for their ſinnes."
+        },
+        {
+          "verse": 9,
+          "text": "And becauſe the children of Iſrael know they offended their God, thy dread is vpon them."
+        },
+        {
+          "verse": 10,
+          "text": "Moreouer alſo famine hath inuaded them, and for drought of water they are now eſtemed among the dead."
+        },
+        {
+          "verse": 11,
+          "text": "Finally they ordayne this, to kil their cattel, and to drinke the bloud of them,"
+        },
+        {
+          "verse": 12,
+          "text": "and the holie thinges of our Lord their God which God commanded not to be touched, in corne, wine, and oile, theſe haue they purpoſed to beſtow, and they wil conſume the thinges which they ought not to touch with their handes: therfore becauſe they do theſe thinges, it is ſure that they ſhal be geuen into perdition."
+        },
+        {
+          "verse": 13,
+          "text": "Which I thy handmayde knowing, am fled from them, and our Lord hath ſent me to tel thee theſe verie thinges."
+        },
+        {
+          "verse": 14,
+          "text": "For I thy handmayde worſhippe God, euen now being with thee, and thy handmayde wil goe forth, and I wil pray God,"
+        },
+        {
+          "verse": 15,
+          "text": "and he wil tel me when he wil repay them their ſinnes, and I coming wil tel thee, ſo that I may bring thee through the middes of Ieruſalem, and thou shalt haue al the people of Iſrael, as ſheepe, that haue no paſtor, and there ſhal not ſo much as one dog barke againſt thee:"
+        },
+        {
+          "verse": 16,
+          "text": "becauſe theſe thinges are told me by the prouidence of God."
+        },
+        {
+          "verse": 17,
+          "text": "And becauſe God is angrie with them, I am ſent to tel theſe vetie thinges to thee."
+        },
+        {
+          "verse": 18,
+          "text": "And al theſe wordes pleaſed Holofernes, and his ſeruantes, and they maruailed at her wiſedom, and one ſaid to an other:"
+        },
+        {
+          "verse": 19,
+          "text": "There is not ſuch a woman vpon the earth in looke, in beautie, and in ſenſe of wordes."
+        },
+        {
+          "verse": 20,
+          "text": "And Holofernes ſayd to her: God hath done wel, which ſent thee before the people, that thou mighteſt geue them into our handes:"
+        },
+        {
+          "verse": 21,
+          "text": "and becauſe thy promiſe is good, if thy God shal doe this for me, he shal alſo be my God, and thou shalt be great in the houſe of Nabuchodonoſor, and thy name shal be renowmed in al the earth."
+        }
+      ],
+      "summary": "Holofernes demanding Iudith the cauſe of her coming: 4, she deceiueth him with a probable narration."
+    },
+    {
+      "chapter": 12,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "THEN he bad her goe in where his treaſures were layd vp, and bad her tarie there, and he appoynted what should be geuen her of his owne banket."
+        },
+        {
+          "verse": 2,
+          "text": "To whom Iudith anſwered, and ſaid: Now I can not eate of theſe thinges, which thou commandeſt to be geuen me, leſt there come diſpleaſure vpon me: but I wil eate of theſe thinges, which I haue brought.",
+          "notes": [
+            {
+              "label": "a",
+              "text": "See chap. 10. v. 5.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 3,
+          "text": "To whom Holofernes ſaid: If theſe thinges which thou haſt brought with thee shal fayle thee, what shal we doe to thee."
+        },
+        {
+          "verse": 4,
+          "text": "And Iudith ſaid: Thy ſoule liueth my lord, that thy handmayde shal not ſpend al theſe thinges, til God doe by my hand theſe thinges, which I haue purpoſed. And his ſeruantes brought her into the tabernacle, which he had commanded."
+        },
+        {
+          "verse": 5,
+          "text": "And whiles she went in, she deſired that she might haue licence to goe forth, in the night and before day to prayer, and to beſech our Lord."
+        },
+        {
+          "verse": 6,
+          "text": "And he commanded his chamberlaynes, that as it pleaſed her, she should goe out & come in to adore her God for three dayes."
+        },
+        {
+          "verse": 7,
+          "text": "And she went forth in the nightes into the vale of Bethulia, and washed her ſelf in a fountaine of water."
+        },
+        {
+          "verse": 8,
+          "text": "And as she came vp, she prayed our Lord the God of Iſrael, that he would direct her way to the deliuerie of his people."
+        },
+        {
+          "verse": 9,
+          "text": "And going in, she remayned pure in the tabernacle, vntil she tooke her owne meate in the euening.",
+          "notes": [
+            {
+              "label": "b",
+              "text": "This puritie conſiſted in abſtaining from meates forbid by the Law, or offered to Idoles.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "text": "And it came to paſſe in the fourth day, Holofernes made a ſupper to his ſeruantes, and ſayd to Vagao his eunuch: Goe, and perſwade that Hebrew woman, that ſhe conſent of her owne accord to dwel with me."
+        },
+        {
+          "verse": 11,
+          "text": "For it is a foule thing with the Aſſyrians, if a woman mocke a man in doing, that she paſſe free from him."
+        },
+        {
+          "verse": 12,
+          "text": "Then Vagao went in to Iudith, & ſaid: Let not the good yong maide feare to goe in to my Lord, that she may be honoured before his face, that she may eate with him and drinke wine in ioyfulnes.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "Puella.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 13,
+          "text": "To whom Iudith anſwered: Who am I, that I should gayneſay my lord?"
+        },
+        {
+          "verse": 14,
+          "text": "Al that shal be good and beſt before his eies, wil I doe. And whatſoeuer shal pleaſe him, that shal be beſt to me al the dayes of my life."
+        },
+        {
+          "verse": 15,
+          "text": "And she aroſe, and decked herſelf with her garmentes, and going in she ſtood before his face."
+        },
+        {
+          "verse": 16,
+          "text": "And the hart of Holofernes was ſtrooken: for he burnt in the concupiſcence of her."
+        },
+        {
+          "verse": 17,
+          "text": "And Holofernes ſaid to her: Drinke now, and ſit downe in ioyfulnes, becauſe thou haſt found grace before me."
+        },
+        {
+          "verse": 18,
+          "text": "And Iudith ſaid: I wil drinke my lord, becauſe my ſoule is magnified this day aboue al my dayes."
+        },
+        {
+          "verse": 19,
+          "text": "And she tooke, and did eate, and dranke before him thoſe thinges, which her handmayde had prepared her."
+        },
+        {
+          "verse": 20,
+          "text": "And Holofernes was made pleaſant toward her, and dranke wine exceeding much, ſo much as he had neuer drunke in his life?"
+        }
+      ],
+      "summary": "Iudith is brought into Holofernes treaſurehouſe, 2. hath leaue to abſtaine from the Gentils meates, 5. and to goe forth in the night to pray. 10. The fourth day she cometh to Holofernes banket; 16, he is taken with concupiſcence, and drinketh very much wine."
+    },
+    {
+      "chapter": 13,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "AND when it was waxen late, his ſeruantes made haſt to their lodgings, and Vagao shut the chamber doores, and went his way."
+        },
+        {
+          "verse": 2,
+          "text": "And they were al ouerladen with wine."
+        },
+        {
+          "verse": 3,
+          "text": "And Iudith was alone in the chamber."
+        },
+        {
+          "verse": 4,
+          "text": "Moreouer Holofernes lay in his bed, faſt a ſlepe with very much drunkennes.",
+          "notes": [
+            {
+              "label": "a",
+              "text": "The faſting of one woman ouerthrew an innumerable hoſt of drunkards, s. Amb. li. de ieiunio & Elia c. 9.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 5,
+          "text": "And Iudith ſaid to her mayd that ſhe should ſtand without before the chamber, and watch."
+        },
+        {
+          "verse": 6,
+          "text": "And Iudith ſtood before the bed, praying with teares, and with mouing of her lippes in ſilence,"
+        },
+        {
+          "verse": 7,
+          "text": "ſaying: Confirme me o Lord God of Iſrael, and in this houre haue reſpect to the workes of my handes, that as thou haſt promiſed, thou mayſt aduance Ieruſalem thy citie: and I may bring to paſſe that which I beleuing that it may be done by thee, haue purpoſed.",
+          "notes": [
+            {
+              "label": "b",
+              "text": "If Bethulia had benne taken Ieruſalem alſo had bene in extreme danger: for ſaftie wherof God had made more ſpecial promiſe to Dauid and others. Iſaia. 37. 38. &c",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 8,
+          "text": "And when she had ſayd theſe thinges, she went to the piller, that was at his beds head, and his ſword that hong tyed on it, she looſed."
+        },
+        {
+          "verse": 9,
+          "text": "And when she had drawen it out, she tooke him by the heare of his head, and ſayd: Confirme me ô Lord God in this houre,"
+        },
+        {
+          "verse": 10,
+          "text": "and she ſtroke twiſe vpon his necke, and cut of his head, and tooke his canopie from the pillers, and rolled aſide his bodie a truncke."
+        },
+        {
+          "verse": 11,
+          "text": "And after a while she went out, and deliuered the head of Holofernes to her mayde, and bad her put it into her wallet."
+        },
+        {
+          "verse": 12,
+          "text": "And they two went forth, according to their cuſtome, as it were to prayer, and they paſſed the campe, and compaſſing the valley, they came to the gate of the citie."
+        },
+        {
+          "verse": 13,
+          "text": "And Iudith a far of ſaid to the keepers of the walles: Open the gates, becauſe God is with vs, which hath wrought power in Iſrael."
+        },
+        {
+          "verse": 14,
+          "text": "And it came to paſſe, when the men had heard her voyce, they called the ancientes of the citie."
+        },
+        {
+          "verse": 15,
+          "text": "And they ran al to meete her, from the leaſt to the greateſt: becauſe they hoped not that now she would come."
+        },
+        {
+          "verse": 16,
+          "text": "And they lighting lightes gathered round about her euerie one: and she going vp into a higher place, commanded ſilence to be made. And when al had held their peace,"
+        },
+        {
+          "verse": 17,
+          "text": "Iudith ſaid: Prayſe yee the Lord our God, who hath not forſaken them that hope in him:"
+        },
+        {
+          "verse": 18,
+          "text": "and in me his handmayde he hath fulfilled his mercie, which he promiſed to the houſe of Iſrael: and he hath killed by my hand the enemie of his people this night."
+        },
+        {
+          "verse": 19,
+          "text": "And bringing forth the head of Holofernes out of the wallet, she shewed it them, ſaying: Loe the head of Holofernes the general of the armie of the Aſſyrians, and behold his canopie, wherein he lay in his drunkennes, where the Lord our God ſtroke him by the hand of a woman."
+        },
+        {
+          "verse": 20,
+          "text": "But the ſame our Lord liueth, that his Angel hath kept me, both going hence, and abyding there, and from thence returning hither: and our Lord hath not ſuffered me his handmayde to be defyled, but without pollution of ſinne he hath called me backe to you, reioyſing in this victorie, in my eſcape, and in your deliuerie.",
+          "notes": [
+            {
+              "label": "c",
+              "text": "Iudiths proper Angel ſo defended her, as Iacobs Angel deliuered him from all exiles. Gen. 48.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 21,
+          "text": "Confeſſe ye al to him, becauſe he is good, becauſe his mercie is for euer."
+        },
+        {
+          "verse": 22,
+          "text": "And they al adoring our Lord, ſaid to her: Our Lord hath bleſſed thee in his power, becauſe by thee he hath brought our enemies to nothing."
+        },
+        {
+          "verse": 23,
+          "text": "Moreouer Ozias the prince of the people of Iſrael, ſaid to her: Bleſſed art thou daughter of our Lord the high God aboue al wemen vpon the earth."
+        },
+        {
+          "verse": 24,
+          "text": "Bleſſed be our Lord, which made heauen and earth, which hath directed thee vnto the woundes of the head of the prince of our enemies."
+        },
+        {
+          "verse": 25,
+          "text": "Becauſe this day he hath ſo magnified thy name, that thy prayſe shal not depart out of the mouth of men, which shal be mindeful of the power of our Lord for euer, for that thou haſt not spared thy life for the diſtreſſes and tribulation of thy kinred, but haſt holpen the ruine before the preſence of our God."
+        },
+        {
+          "verse": 26,
+          "text": "And al the people ſayd: So be it, ſo be it."
+        },
+        {
+          "verse": 27,
+          "text": "Moreouer Achior being called came, and Iudith ſaid to him: The God of Iſrael, to whom thou gaueſt teſtimonie, that he reuengeth him ſelf of his enemies, he hath cut of the head of al the vnfaithful this night by my hand."
+        },
+        {
+          "verse": 28,
+          "text": "And that thou mayſt proue that it is ſo, loe the head of Holofernes, who in the contempt of his pride contemned the God of Iſrael: and threatened thee death, ſaying: When the people of Iſrael shal be taken, I wil command thy ſides to be pearſed with a ſword."
+        },
+        {
+          "verse": 29,
+          "text": "But Achior ſeing the head of Holofernes, being in anguish for feare, fel on his face vpon the earth, and his ſoule was ſore trubled."
+        },
+        {
+          "verse": 30,
+          "text": "But after taking ſpirit agayne he was refreshed, & fel downe at her feete, and adored her, and ſayd:"
+        },
+        {
+          "verse": 31,
+          "text": "Bleſſed art thou of thy God in euerie tabernacle of Iacob, becauſe in euerie nation, which shal heare thy name, the God of Iſrael shal be magnified in thee."
+        }
+      ],
+      "summary": "Holofernes lying in a druncken ſleepe, Iudith cutteth of his head, 12. ſo returneth with her maide through the gard, as it were to pray, cometh to Bethulia, 16. exhorteth al to thanke God, and sheweth them the head. 22. She is bleſſed of al. 27. Achior alſo praiſeth God and Iudith."
+    },
+    {
+      "chapter": 14,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "AND Iudith ſaid to al the people: Heare me brethren, hang ye this head vpon our walles:"
+        },
+        {
+          "verse": 2,
+          "text": "and it shal be, when the ſunne shal riſe, let euerie man take his armour, and yſſue ye forth with violence, not that you goe downe beneath, but as it were inuading violently."
+        },
+        {
+          "verse": 3,
+          "text": "Then the watchmen muſt of neceſſitie runne to rayſe vp their prince to battel."
+        },
+        {
+          "verse": 4,
+          "text": "And when the captaynes of them shal runne to the tabernacle of Holofernes, and shal finde him headles rowled in bloud, feare wil fal vpon them."
+        },
+        {
+          "verse": 5,
+          "text": "And when you shal know that they flee, goe after them ſecurely, becauſe our Lord wil deſtroy them vnder your feete."
+        },
+        {
+          "verse": 6,
+          "text": "Then Achior ſeeing the power, that God of Iſrael wrought, forſaking the rite of gentilitie, beleued God, and circuncided the flesh of his prepuce, and was ioyned to the people of Iſrael, and al the ſucceſſion of his kinred vntil this preſent day.",
+          "notes": [
+            {
+              "label": "a",
+              "text": "Achior an Ammonite. (ch.5.v.5.) being truly conuerted and beleeuing in God, was admitted into the Church, notwithſtanding that Ammonites and Moabites were excluded by name. Deut.23 v.3. which is therefore ment only of thoſe that perſiſt impenitent and obſtinate.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 7,
+          "text": "And immediatly as day brake, they hong the head of Holofernes vpon the walles, and euerie man tooke his armour, and they went forth with great noyſe and shouting."
+        },
+        {
+          "verse": 8,
+          "text": "Which the watchmen ſeing, ranne to the tabernacle of Holofernes."
+        },
+        {
+          "verse": 9,
+          "text": "Moreouer they that were in the tabernacle, coming, and before the dore of the tabernacle making a noyſe, to rayſe him, they endeuored by art to diſquiet him, that Holofernes might awake not by them rayſing him, but by them making a noyſe."
+        },
+        {
+          "verse": 10,
+          "text": "For no man durſt by knocking, or entring, to open the chamber of the chiefe of the Aſſyrians."
+        },
+        {
+          "verse": 11,
+          "text": "But when his dukes and tribunes were come, and al the chiefe of the armie of the king of the Aſſyrians, they ſaid to the chamberlayns:"
+        },
+        {
+          "verse": 12,
+          "text": "Goe in, and awake him, becauſe the mice yſſuing out of their holes, haue preſumed to prouoke vs to battel."
+        },
+        {
+          "verse": 13,
+          "text": "Then Vagao entring into his chamber, ſtoode before the cortine, and made a clapping with his handes: for he thought that he ſlept with Iudith."
+        },
+        {
+          "verse": 14,
+          "text": "But when with the ſenſe of his eares he percieued no motion of perſon lying, he came neere to the cortine, and lifting it vp, and ſeing the bodie without the head of Holofernes weltred in his bloud lye vpon the ground, cried out in a lowd voyce with weeping, and rent his garmentes."
+        },
+        {
+          "verse": 15,
+          "text": "And going into the tabernacle of Iudith, he found her not, and he lept forth to the people,"
+        },
+        {
+          "verse": 16,
+          "text": "and ſayd: One Hebrewe woman hath made confuſion in the houſe of king Nabuchodonoſor: for behold Holofernes lyeth vpon the ground, and his head is not vpon him."
+        },
+        {
+          "verse": 17,
+          "text": "Which when the princes of the power of the Aſſyrians had heard, they al rent their garmentes, and intollerable feare and dread fel vpon them, and theit mindes were trubled excedingly."
+        },
+        {
+          "verse": 18,
+          "text": "And there was made an incomparable crie in the middes of their campe."
+        }
+      ],
+      "summary": "Holofernes head is hanged on the wall: 6. Achior is circumciſed, 7. The Iſraelites aſſault the Aſſyrians, 8. who going to awake their General, 14. finde him ſlaine, 17, and are al confounded with feare."
+    },
+    {
+      "chapter": 15,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "AND when al the armie heard that Holofernes was beheaded, courage and counſel fel from them, and being shaken with trembling onlie and feare, they helpe them ſelues by flight,"
+        },
+        {
+          "verse": 2,
+          "text": "ſo that none ſpake with his neighbour, but hanging the head, al thinges leaft behind, they made haſt to eſcape the Hebrewes, whom they heard to come armed vpon them, fleing by the waies of the fieldes, and the pathes of the hilles."
+        },
+        {
+          "verse": 3,
+          "text": "The children of Iſrael therfore ſeing them fleing, folowed them. And they went downe ſounding with trumpettes, and shouting after them."
+        },
+        {
+          "verse": 4,
+          "text": "And becauſe the Aſſyrians were not vnited together, they went headlong into flight: but the children of Iſrael purſewing in one companie, diſcomfited al that they could find."
+        },
+        {
+          "verse": 5,
+          "text": "Ozias therfore ſent meſſengers through al the cities and countries of Iſrael."
+        },
+        {
+          "verse": 6,
+          "text": "Euerie countrie therfore, and euerie citie ſent choſen youth armed after them, and they purſewed them in the edge of the ſword, vntil they came to the extremetie of their borders."
+        },
+        {
+          "verse": 7,
+          "text": "And the reſt that were in Bethulia, entered into the campe of the Aſſyrians, and tooke away the praye, which the Aſſyrians fleing had leaft, and were loden excedingly."
+        },
+        {
+          "verse": 8,
+          "text": "But they that were returned conquerers to Bethulia, tooke away with them al thinges that were theirs, ſo that there was no number in cattel, and beaſtes, and al their moueables, that from the leaſt vnto the greateſt al were made rich of their prayes."
+        },
+        {
+          "verse": 9,
+          "text": "And Ioachim the high Prieſt came from Ieruſalem into Bethulia with al his ancientes to ſee Iudith.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "The fourt part The prayſes of Iudith, who with al the people praiſe God.",
+              "kind": "head"
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "text": "Who when she was come out to him, they al bleſſed her with one voyce, ſaying: Thou art the glorie of Ieruſalem, thou the ioy of Iſrael, thou the honour of our people:",
+          "notes": [
+            {
+              "label": "a",
+              "text": "Iudith was a ſpecial figure of the B. Virgine Marie, to whom theſe praiſes perteyne in more eminent ſorte, then to anie other creature. S. Albertus Carnotenſis.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 11,
+          "text": "becauſe thou haſt done manfully, and thy hart was ſtrengthened, for that thou haſt loued chaſtitie, and after thy husband not knowne any other: therfore alſo the hand of our Lord hath ſtrengthened thee, and therfore shalt thou be bleſſed for euer."
+        },
+        {
+          "verse": 12,
+          "text": "And al the people ſayd: So be it, ſo be it."
+        },
+        {
+          "verse": 13,
+          "text": "And for thirtie daies, ſcarſe were the ſpoyles of the Aſſyrians gathered of the people of Iſrael."
+        },
+        {
+          "verse": 14,
+          "text": "Moreouer al thinges, that were proued to be the peculiar goodes of Holofernes, they gaue to Iudith in gold, and ſiluer, and garmentes, and pretious ſtones, and al ſtuffe, and al the thinges were deliuered her of the people."
+        },
+        {
+          "verse": 15,
+          "text": "And al the people reioyſed with wemen, and virgins, and yongmen, on inſtrumentes and harpes."
+        }
+      ],
+      "summary": "The Aſſyrians flee for feare, 3. the Hebrewes purſue them, 7. and are enriched by the spoyles. 9. The high prieſt with others come from Ieruſalem and prayſe Iudith. 14. The goodes of Holofernes are geuen to her."
+    },
+    {
+      "chapter": 16,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "THEN ſang Iudith this ſong to our Lord, ſaying:"
+        },
+        {
+          "verse": 2,
+          "text": "Beginne ye to our Lord in timbrels, ſing ye to our Lord in cymbals, tune to him a new pſalme, reioyſe, and inuocate his name."
+        },
+        {
+          "verse": 3,
+          "text": "Our Lord confoundeth battels, Lord is his name.",
+          "notes": [
+            {
+              "label": "a",
+              "text": "S. Ephrem ſer. de 2. Aduentu, citeth this place as holie ſcripture ſo teſtifying this booke to be canonical,",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 4,
+          "text": "Who hath ſet his campe in the middes of his people, that he might deliuer vs from the hand of al our enemies."
+        },
+        {
+          "verse": 5,
+          "text": "Aſſur came out of the mountaynes from the North in the multitude of his ſtrength: whoſe multitude ſtopped vp the torrentes, and their horſes couered the valles."
+        },
+        {
+          "verse": 6,
+          "text": "He ſaid that he would ſet my borders on fyre, and kil my yongmen with the ſword, to geue my infantes into praye, and virgins into captiuitie."
+        },
+        {
+          "verse": 7,
+          "text": "But our Lord omnipotent hath hurt him, and hath deliuered him into the hands of a woman, and hath pearſed him."
+        },
+        {
+          "verse": 8,
+          "text": "For, not by yongmen is their mightie one fallen, neither haue the ſonnes of Titan ſtrooken him, neither did the high giantes ſet them ſelues vpon him, but Iudith the daughter of Merari in the beautie of her face diſſolued him.",
+          "notes": [
+            {
+              "label": "b",
+              "text": "Such giantes as were before Noes floud, Gen. 6.",
+              "kind": "gloss"
+            },
+            {
+              "label": "c",
+              "text": "Nor ſuch as were after, Num. 13. Deut. 3.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "text": "For she put from her the garmentes of widowhood, and put on her the garmentes of ioy, in the reioyſing of the children of Iſrael."
+        },
+        {
+          "verse": 10,
+          "text": "She anoynted her face with oyntment, and tyed together her lockes with a crowne, ſhe tooke a new ſtole to deceiue him."
+        },
+        {
+          "verse": 11,
+          "text": "Her ſandals rauished his eies, her beautie made his ſoule captiue, she with a ſword cut of his head."
+        },
+        {
+          "verse": 12,
+          "text": "The Perſians did quake at her conſtancie, and the Medes at her boldneſſe."
+        },
+        {
+          "verse": 13,
+          "text": "Then did the campe of the Aſſyrians howle, when my humble ones appeared, withering in thirſt."
+        },
+        {
+          "verse": 14,
+          "text": "The ſonnes of yongwemen haue pearſed them, and they haue killed them as boyes fleing away: they haue periſhed in battel before the face of the Lord my God."
+        },
+        {
+          "verse": 15,
+          "text": "Let vs ſing an hymne to our Lord, let vs ſing a new hymne to our God."
+        },
+        {
+          "verse": 16,
+          "text": "Adonai ô Lord great art thou, and noble in thy power, and whom no man can ouercome."
+        },
+        {
+          "verse": 17,
+          "text": "Let euerie creature of thyne ſerue thee: becauſe thou ſaydſt, and they were made: thou didſt ſend thy spirit, and they were created, and there is none that can reſiſt thy voyce."
+        },
+        {
+          "verse": 18,
+          "text": "The mountaynes with the waters shal be moued with the foundations: the rockes shal melt as waxe before thy face."
+        },
+        {
+          "verse": 19,
+          "text": "But they that feare thee, shal be great with thee in al thinges."
+        },
+        {
+          "verse": 20,
+          "text": "Wo be to the nation, that ryſeth vp vpon my kinred: for our Lord omnipotent wil be reuenged on them, in the day of iudgement he wil viſite them."
+        },
+        {
+          "verse": 21,
+          "text": "For he wil geue fyre, and wormes into their flesh, that they may be burnt, and may feele for euer.",
+          "notes": [
+            {
+              "label": "d",
+              "text": "Euerlaſting torments of fire & wormes perteyne to the damned bodies. s. Aug li. 21. c. 4. et 5. ciuit. and greater paines to the damned ſoules, eſpecially the loſſe of Gods viſion",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 22,
+          "text": "And it came to paſſe after theſe thinges, al the people after the victorie came into Ieruſalem to adore our Lord: and forthwith as they were purified, they al offered holocauſtes, and vowes, and their promiſes."
+        },
+        {
+          "verse": 23,
+          "text": "Moreouer Iudith offered for an anathema of obliuion al the inſtrumentes of warre of Holofernes, which the people gaue her, and the canopie that her ſelf had taken away out of his chamber."
+        },
+        {
+          "verse": 24,
+          "text": "And the people was pleaſant according to the face of ſainctes, and for three monethes the ioy of this victorie was celebrated with Iudith."
+        },
+        {
+          "verse": 25,
+          "text": "And after thoſe daies euerie man returned into his houſe, and Iudith was made great in Bethulia, and she was more glorious to al the land of Iſrael."
+        },
+        {
+          "verse": 26,
+          "text": "There was alſo chaſtitie ioyned to her vertue, ſo that she knew not man al the daies of her life, after that Manaſſes her huſband was dead.",
+          "has_annotation": true,
+          "notes": [
+            {
+              "label": "e",
+              "text": "In the Greke v. 22. Manie deſired her to mariage.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 27,
+          "text": "And on feſtiual daies she came forth with great glorie."
+        },
+        {
+          "verse": 28,
+          "text": "And she abode in her husbands houſe, an hundred fiue yeares, and diſmiſt her abra free, and she died and was buried with her huſband in Bethulia.",
+          "notes": [
+            {
+              "label": "f",
+              "text": "Liuing in al 105. yeares she was widow about ſixtie nine: for when she ſlew Holofernes she was about fourtie yeares old. ch. 10. v. 18. and her huſband was then dead three yeares and a halfe before. ch. 8. v. 4.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 29,
+          "text": "And al the people mourned for her ſeuen dayes."
+        },
+        {
+          "verse": 30,
+          "text": "And in al the space of her life there was not that trubled Iſrael, and after her death manie yeares."
+        },
+        {
+          "verse": 31,
+          "text": "But the day of the feſtiuitie of this victorie is receiued of the Hebrewes in the number of holie daies, and is worshiped of the Iewes from that time vntil this preſent day."
+        }
+      ],
+      "summary": "Iudith ſingeth a canticle of thanks geuing to our Lord. 22. The people goe to Ieruſalem and offer ſacrifices. 25. She in great honour liueth a widow til her death in good old age. 30. the people haue long peace, and a feaſtiual-day is inſtituted in perpetual memorie of her fact."
+    }
+  ],
+  "spelling": "original"
+}

@@ -1,0 +1,3288 @@
+{
+  "book": "josue",
+  "book_title": "The Book of Iosue,\nin Hebrew Iehosua. יהושע",
+  "short_title": "Josue",
+  "hebrew_title": null,
+  "intros": [
+    {
+      "title": "THE ARGUMENT OF THE BOOKE OF IOSUE.",
+      "text": "VVHETHER Ioſue himſelf writ this booke (which is the common opinion) or ſome other, it was euer held vndoubtedly by al for Canonical Scripture: and according to the diſtribution of the whole Bible into Legal, Hiſtorical, Sapiential, and Prophetical Bookes, this is the firſt of the hiſtorical ſorte. But as the fiue procedent called Legal, beſides the Law, comprehend alſo the hiſtorie of the Church, from the beginning of the world nere 2500. yeares, and withal conteine much diuine Wiſdome, & Prediction of thinges to come: ſo theſe bookes now folowing, called Hiſtorical, and likewiſe the Sapiential and Prophetical enſuing after, participate each with others in their ſeueral argumentes: euerie one more or leſſe inducing Gods ſeruantes to keepe his Law; recording thinges donne; teaching what is moſt meete to be donne; and foreshewing beforehand things donne afterward, or which yet shal come to paſſe. So this booke doth not only ſet forth the Actes of Ioſue, who ſucceded Moyſes in temporal gouernment of Gods people, commanding and directing them by lawe and wiſedome; but alſo the ſame thinges donne by him, and his verie name (as S. Hierom & other Fathers teach) prefigure our Lord IESVS Chriſt. For in Hebrew IEHOSVA is the name both of this Capitaine General, the leader of the Iſraelites ouer Iordan into the Land of promiſe, and of our Lord and SAVIOVR, who by his Baptiſme and other Sacramentes bringeth his people of al Nations into the true Land of the liuing, where is life and felicitie euerlaſting. Touching therfore the hiſtorie, theſe foure ſpecial thinges are here deſcribed. Firſt, the paſſage of the Iſraelites ouer Iordan, in the firſt chapters. Secondly, their conqueſt of the promiſed Land, in the ſeuen chapters folowing. Thirdly, the partition of the ſame Land among nine Tribes and a half, from the 13. chap. to the 22. Fourthly, in the three laſt chapters, the returne of the other two Tribes and a half to their poſſeſſions, on the eaſt ſide of Iordan; with Ioſues laſt admonition to them al, to ſerue God ſincerly, and his and Eleazars death.",
+      "default": true,
+      "notes": [
+        {
+          "marker": 1,
+          "text": "VVhoſoeuer was Author, the authoritie of this booke is certaine."
+        },
+        {
+          "marker": 2,
+          "text": "Hiſtor. Scholaſt."
+        },
+        {
+          "marker": 3,
+          "text": "Books of holy Scripture principally treating of ſeveral arguments, yet in the ſame participate each ſort with others."
+        },
+        {
+          "marker": 4,
+          "text": "The contents of this book."
+        },
+        {
+          "marker": 5,
+          "text": "S. Hiero. Epiſt. ad Paulin. S. Amb. in Pſal. 47. S. Aug. li. 12. c. 31. & li. 16. c. 19. contra. Fauſt. Manich."
+        },
+        {
+          "marker": 6,
+          "text": "Divided into four parts."
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "AND it came to paſſe after the death of Moyſes the ſeruant of our Lord, that our Lord ſpake to Ioſue the ſonne of Nun, the miniſter of Moyſes, and ſaid to him:",
+          "notes": [
+            {
+              "label": "1",
+              "text": "The firſt part. Of the paſſage of Iſrael over Jordan.",
+              "kind": "head"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "Moyſes my ſeruant is deade: ariſe, and paſſe ouer this Iordan thou and al the people with thee, into the Land, which I wil geue to the children of Iſrael."
+        },
+        {
+          "verse": 3,
+          "text": "Euerie place, the ſteppe of your foote shal treade, wil I deliuer to you, as I haue ſpoken to Moyſes."
+        },
+        {
+          "verse": 4,
+          "text": "From the deſert and Libanus vnto the great riuer Euphrates, al the land of the Hetheites vnto the great ſea againſt the going downe of the ſunne, shal be your border."
+        },
+        {
+          "verse": 5,
+          "text": "No man shal be able to reſiſt you al the daies of thy life: as I haue beene with Moyſes, ſo wil I be with thee: I wil not leaue, nor forſake thee,"
+        },
+        {
+          "verse": 6,
+          "text": "Take courage, and be ſtrong: for thou shalt by lotte diuide to this people the Land, for the which I ſware to their fathers, that I would deliuer it to them."
+        },
+        {
+          "verse": 7,
+          "text": "Take courage therfore, and be very ſtrong: that thou keepe and doe al the Law, which Moyſes my ſeruant hath commanded thee: decline not from it to the right hand or to the left, that thou mayeſt vnderſtand al thinges which thou doeſt."
+        },
+        {
+          "verse": 8,
+          "text": "Let not the volume of this law depart from thy mouth: but thou shalt meditate in it daies and nightes, that thou maieſt keepe and doe al thinges that be written in it: then shalt thou direct thy way, and vnderſtand it."
+        },
+        {
+          "verse": 9,
+          "text": "Behold I command thee, take courage, and be ſtrong. Feare not, and dreade not: becauſe the Lord thy God is with thee in al the thinges to whatſoeuer thou shalt goe."
+        },
+        {
+          "verse": 10,
+          "text": "And Ioſue commanded the princes of the people, ſaying: Paſſe through the middes of the campe, and command the people, and ſay:"
+        },
+        {
+          "verse": 11,
+          "text": "Prepare for your ſelues victuals: for after the third day you shal paſſe ouer Iordan, and shal enter to poſſeſſe the Land, which our Lord your God wil geue you.",
+          "notes": [
+            {
+              "label": "a",
+              "text": "Beſides Manna, which yet ceaſſed not, they might if they would, prouide other meate: prefiguring that in the primitiue Church, it ſhould be lawful to vſe legal ceremonies, with euangelical rites for a time, til the old law were buried with honour.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 12,
+          "text": "To the Rubenites alſo and Gaddites, and halfe tribe of Manaſſes he ſaid:"
+        },
+        {
+          "verse": 13,
+          "text": "Remember the word, which Moyſes the ſeruant of our Lord commanded you, ſaying: Our Lord your God hath geuen you reſt, and al this Land."
+        },
+        {
+          "verse": 14,
+          "text": "Your wiues, and children, and cattel shal tarie in the Land, which Moyſes deliuered to you beyond Iordan: but paſſe you ouer armed before your brethren, al that are ſtrong of hand, & fight for them,"
+        },
+        {
+          "verse": 15,
+          "text": "vntil our Lord geue reſt to your brethren as to you alſo he hath geuen, and they alſo poſſeſſe the Land which our Lord your God wil geue them: and ſo returne into the Land of your poſſeſſion, and you shal dwel in it, which Moyſes the ſeruant of our Lord gaue you beyond Iordan, againſt the ryſing of the ſunne."
+        },
+        {
+          "verse": 16,
+          "text": "And they made anſwer to Ioſue, and ſaid: Al thinges, that thou haſt commanded vs we wil doe: and whither ſoeuer thou shalt ſend vs, we wil goe."
+        },
+        {
+          "verse": 17,
+          "text": "As we obeyed Moyſes in al thinges, ſo wil we obey thee alſo: only be our Lord thy God with thee, as he was with Moyſes."
+        },
+        {
+          "verse": 18,
+          "text": "He that shal gaineſay thy mouth, and not obey al thy wordes, that thou shalt command him, let him die. thou only take courage, and doe manfully."
+        }
+      ],
+      "summary": "Ioſue encoreged by our Lord, 10. admonisheth the people to prepare themſelues to paſſe ouer Iordan; 12. and al the able men of the tribes of Ruben, Gad, and halfe Manaſſes to march armed before the reſt. 16. Al promiſe to doe whatſoeuer he commandeth."
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "THERFORE Ioſue the ſonne of Nun ſent from Setim two men, to ſpie in ſecrete: and ſaid to them: Goe, and view the Land, and the citie of Iericho. Who going entred into the houſe of a woman a harlot, named Rahab, and reſted with her."
+        },
+        {
+          "verse": 2,
+          "text": "And it was told the king of Iericho, and ſaid: Behold there are men come in hither by night of the children of Iſrael, to ſpie the Land."
+        },
+        {
+          "verse": 3,
+          "text": "And the king of Iericho ſent to Rahab, ſaying: Bring forth the men, that came to thee, and are entred into thy houſe: for they be ſpies, and are come to view al the Land."
+        },
+        {
+          "verse": 4,
+          "text": "And the woman taking the men, hid them, and ſaid: I confeſſe they came to me, but I knew not whence they were:",
+          "notes": [
+            {
+              "label": "b",
+              "text": "Notwithſtanding this officious lie, (which is a venial ſinne) S. Paul, Heb. 11. and S. Iames (c. 2.) teſtifie, that she was iuſtified by her faith in God, and by good workes towards theſe men. S. Aug. cont. Mendac. c. 17. ſee Annot. Iac: 2. v. 25.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 5,
+          "text": "and when the gate was a shutting in the darke, and they withal went out, I know not whither they be gone: purſew quickly, and you shal ouertake them."
+        },
+        {
+          "verse": 6,
+          "text": "But she made the men to goe vp into the roofe of her houſe, and couered them with the ſtalke of flaxe, which was there."
+        },
+        {
+          "verse": 7,
+          "text": "And they that were ſent, folowed them, the way that leadeth to the ford of Iordan: and they being gone out the gate forwith was shutte."
+        },
+        {
+          "verse": 8,
+          "text": "Neither were they yer a ſleepe that lay hidde, and behold the woman went vp to them, and ſaid:"
+        },
+        {
+          "verse": 9,
+          "text": "I know that the Lord hath geuen this Land to you: for your terrour is fallen vpon vs, and al the inhabitantes of the Land are become fainte."
+        },
+        {
+          "verse": 10,
+          "text": "We haue heard that the Lord dried vp the water of the Redſea at your entring, when you came out of Ægypt: and what thinges you did to the two kinges of the Amorrheites, that were beyond Iordan: Sehon and Og, whom you ſlew."
+        },
+        {
+          "verse": 11,
+          "text": "And hearing theſe thinges we greatly feared, and our hart fainted, neither did there remaine ſpirite in vs at your entring in: for the Lord your God he is God in heauen aboue, & in the earth beneth."
+        },
+        {
+          "verse": 12,
+          "text": "Now therfore ſweare to me by the Lord, that as I haue done mercie with you, ſo you alſo doe with my fathers houſe: and you geue me a true ſigne,"
+        },
+        {
+          "verse": 13,
+          "text": "that you ſaue my father and mother, my brethren and ſiſters, and al thinges that he theirs, and deliuer our ſoules from death."
+        },
+        {
+          "verse": 14,
+          "text": "Who anſwered her: Be our liues for you vnto death, only if thou betray vs not. And when our Lord shal haue deliuered vs the land, we wil doe in thee mercie and truth"
+        },
+        {
+          "verse": 15,
+          "text": "She therfore did let them downe by a corde out of a window: for her houſe ioyned faſt to the wall."
+        },
+        {
+          "verse": 16,
+          "text": "And she ſaid to them: Goe vp to the mountaines, leſt perhaps they meete you returning: and there lie hid three daies, til they returne, and ſo you shal goe on your way."
+        },
+        {
+          "verse": 17,
+          "text": "Who ſaid to her: We shal be quitte from this oath, wherwith thou haſt ſworne vs:"
+        },
+        {
+          "verse": 18,
+          "text": "if we entring the Land, there be this purple corde a ſigne, and thou tie it in the window, by the which thou haſt let vs downe: and gather thy father and mother, and brethren and al thy kindred into thy houſe."
+        },
+        {
+          "verse": 19,
+          "text": "He that shal goe forth of the doore of thy houſe, his bloud ſhal be vpon his head, and we shal be quitte. But the bloud of al, that shal be with thee in the houſe, shal redound vpon our head, if any man touch them."
+        },
+        {
+          "verse": 20,
+          "text": "But if thou wilt betray vs, and vtter this talke abroade, we shal be quitte from this oath, wherwith thou haſt adiured vs."
+        },
+        {
+          "verse": 21,
+          "text": "And she anſwered: As you haue ſpoken, ſo be it done, and diſmiſſing them to goe, she hong the purple corde in the window."
+        },
+        {
+          "verse": 22,
+          "text": "But they walking came to the mountaines, and taried there three dayes, til they returned that purſewed them: for ſeeking euerie way, they found them not."
+        },
+        {
+          "verse": 23,
+          "text": "Who being entred into the citie, the diſcouerers returned, and came downe from the mountaine: and paſſing ouer Iordan, they came to Ioſue the ſonne of Nun, and told him al thinges that had chanced to them,"
+        },
+        {
+          "verse": 24,
+          "text": "and ſaid: Our Lord hath deliuered al this land into our handes, and al the inhabitantes therof are ouerthrowen with feare."
+        }
+      ],
+      "summary": "Two diſcoueres ſent into Hiericho are hid, and concealed by Rahab: 8. and vpon promiſe of like ſafetie to her whole ſamilie, 21. she helpeth them ſecretly away."
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "IOSVE therfore ryſing vp in the night, remoued the campe: and departing from Setim, they came to Iordan, he, and al the children of Iſrael, and abode there for three dayes."
+        },
+        {
+          "verse": 2,
+          "text": "Which being paſſed, the herauldes went through the middes of the campe,"
+        },
+        {
+          "verse": 3,
+          "text": "and beganne to proclaime: When you shal ſee the arke of couenant of our Lord your God, and the prieſtes of the Leuitical ſtocke carying it, ryſe you alſo, and folow them going before:",
+          "notes": [
+            {
+              "label": "a",
+              "text": "In place of the cloud, and piller of fire, the arke is now caried for their guid and direction.",
+              "kind": "gloss"
+            },
+            {
+              "label": "b",
+              "text": "It perteined to the Leuites office to carie the arke. Num. 4. but in this ſpecial ſeruice & miraculous paſſage the Prieſtes did carie it : ſo the greater may do the office of the leſſe, not contrariwiſe.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 4,
+          "text": "and let there be betwen you and the arke the ſpace of two thouſand cubites: that you may ſee it a farre of, and know which way you may goe: becauſe you haue not walked by it before: and beware you approch not to the arke."
+        },
+        {
+          "verse": 5,
+          "text": "And Ioſue ſaid to the people: Be ſanctified: for to morrow our Lord wil doe among you merueilous thinges."
+        },
+        {
+          "verse": 6,
+          "text": "And he ſaid to the prieſtes: Take vp the arke of the couenant, & goe before the people. Who fulfilling his commandementes, tooke it, and walked before them."
+        },
+        {
+          "verse": 7,
+          "text": "And our Lord ſaid to Ioſue: This day wil I beginne to exalt thee before al Iſrael: that they may know as I was with Moyſes, ſo am I with thee alſo.",
+          "notes": [
+            {
+              "label": "c",
+              "text": "God ſhewed by this miracle, that Ioſue had ſpecial commiſſion from him, and that vnder his gouernment the people ſhould proſper.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 8,
+          "text": "And doe thou command the prieſtes, that carie the arke of the teſtament, and ſay to them: When you shal be entred into part of the water of Iordan, ſtand in it.",
+          "has_annotation": true
+        },
+        {
+          "verse": 9,
+          "text": "And Ioſue ſaid to the children of Iſrael: Come hither, and heare the word of our Lord your God."
+        },
+        {
+          "verse": 10,
+          "text": "And againe he ſaid: In this you shal know that our Lord the liuing God is in the middes of you, and shal deſtroy in your ſight the Chananeite and Hetheite, the Heueite and Pherezeite, the Gergeſeite alſo and the Iebuſeite, and the Amorrheite."
+        },
+        {
+          "verse": 11,
+          "text": "Behold the arke of the couenant of the Lord of al the earth shal goe before you into Iordan."
+        },
+        {
+          "verse": 12,
+          "text": "Prepare twelue men of the tribes of Iſrael, one of euerie tribe."
+        },
+        {
+          "verse": 13,
+          "text": "And when the prieſtes that carie the arke of the Lord of the whole earth shal ſette the ſteppes of their feete in the waters of Iordan, the waters, that are beneath, shal runne downe and decay: and thoſe that come from aboue, shal ſtand together in one heape."
+        },
+        {
+          "verse": 14,
+          "text": "Therfore the people went out of their tabernacles, to paſſe ouer Iordan: and the prieſtes, that caried the arke of the couenant, went on before them."
+        },
+        {
+          "verse": 15,
+          "text": "And they being entered into Iordan, and their feete dipped in part of the water (and Iordan in the harueſt time had filled the bankes of his chanel)"
+        },
+        {
+          "verse": 16,
+          "text": "the waters that came downeward ſtoode in one place, and like a mountaine ſwelling vp appeared farre from the citie, that is called Adom to the place of Sarthan: but thoſe that were beneth, ranne downe into the Sea of the wildernes (which now is called the dead ſea) vntil they wholy dacayed."
+        },
+        {
+          "verse": 17,
+          "text": "And the people went againſt Iericho: and the prieſtes that caried the arke of the couenant of our Lord, ſtoode girded vpon the drie ground in the middes of Iordan, and al the people paſſed ouer through the drie chanel."
+        }
+      ],
+      "summary": "After three days abode by the banks of Jordan, 3. the Prieſts with the Arke of God entering firſt into the riuer, 15. the vpper part miraculouſly ſtandeth and ſwelleth, the lower running away, they goe into the midde chanel, and there ſtay, whiles al the people paſſe ouer drie foote.",
+      "summary_continuation": {
+        "text": "15. the vpper part miraculouſly ſtandeth and ſwelleth, the lower running away, they goe into the midde chanel, and there ſtay, whiles al the people paſſe ouer drie foote."
+      }
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "VVHo being paſſed ouer, our Lord ſaid to Ioſue:"
+        },
+        {
+          "verse": 2,
+          "text": "Chooſe twelue men one in euerie tribe:"
+        },
+        {
+          "verse": 3,
+          "text": "and command them that they take vp out of the middes of the chanel of Iordā, where the feete of the prieſtes ſtoode, twelue moſt hard ſtones, which you shal put in the place of the campe, where you shal pitch tentes this night."
+        },
+        {
+          "verse": 4,
+          "text": "And Ioſue called twelue men, whom he had choſen out of the children of Iſrael, one of euerie tribe,"
+        },
+        {
+          "verse": 5,
+          "text": "and he ſaid to them: Goe before the arke of our Lord your God to the middes of Iordan, and carrie from thence euerie man a ſtone on your ſhoulders, according to the number of the children of Iſrael,"
+        },
+        {
+          "verse": 6,
+          "text": "that it may be a ſigne among you: and when your children shal aske you to morrow, ſaying: What meane theſe ſtones?",
+          "notes": [
+            {
+              "label": "a",
+              "text": "Is not the forme of a croſſe as conuenient a ſigne, to put chriſtians in mind, how our Sauiour redemed vs, as theſe ſtones were to the Iewes, how God brought their fathers ouer Iordan?",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 7,
+          "text": "You shal anſwer them: The waters of Iordan decayed before the arke of the couenant of our Lord, when it paſſed ouer the ſame: therfore were theſe ſtones ſette for a monument of the children of Iſrael for euer."
+        },
+        {
+          "verse": 8,
+          "text": "The children of Iſrael therfore did as Ioſue commanded them, carying out of the chanel of Iordan twelue ſtones, as our Lord had commanded him, according to the number of the children of Iſrael, vnto the place, wherein they camped, and there they ſette them."
+        },
+        {
+          "verse": 9,
+          "text": "Other twelue ſtones alſo Ioſue put in the middes of the chanel of Iordan, where the prieſtes ſtoode, that caried the arke of the couenant: and they be there vntil this preſent day."
+        },
+        {
+          "verse": 10,
+          "text": "But the prieſtes that caried the arke, ſtoode in the middes of Iordan, til al thinges were accomplished, which our Lord had commanded Ioſue, to ſpeake to the people, and Moyſes had ſaid to him. And the people made haſt, and paſſed ouer."
+        },
+        {
+          "verse": 11,
+          "text": "And when they had al paſſed ouer, the arke alſo of our Lord paſſed ouer, the prieſtes alſo went before the people."
+        },
+        {
+          "verse": 12,
+          "text": "The children of Ruben alſo and Gad, and the half tribe of Manaſſes, went armed before the children of Iſrael, as Moyſes had commanded them:"
+        },
+        {
+          "verse": 13,
+          "text": "and fourtie thouſand fighting men by troupes, and bandes, marched through the plaine and champion countrie of the citie of Iericho."
+        },
+        {
+          "verse": 14,
+          "text": "In that day our Lord magnified Ioſue before al Iſrael, that they should feare him, as they had feared Moyſes, whiles he yet liued."
+        },
+        {
+          "verse": 15,
+          "text": "And he ſaid to him:"
+        },
+        {
+          "verse": 16,
+          "text": "Command the prieſtes, that carie the arke of the couenant, that they comme vp out of Iordan."
+        },
+        {
+          "verse": 17,
+          "text": "Who commanded them, ſaying: Come ye vp out of Iordan."
+        },
+        {
+          "verse": 18,
+          "text": "And when they that caried the arke of the couenant of our Lord, were come vp, and began to treade on the drie ground, the waters returned into their chanel, and ranne as they were wont before."
+        },
+        {
+          "verse": 19,
+          "text": "And the people came vp out of Iordan, the tenth day of the firſt moneth, and camped in Galgal againſt the Eaſt ſide of the citie of Iericho."
+        },
+        {
+          "verse": 20,
+          "text": "The twelue ſtones alſo, which they had taken out of the chanel of Iordan, Ioſue ſette in Galgal,"
+        },
+        {
+          "verse": 21,
+          "text": "and ſaid to the children of Iſrael: When your children shal aske their fathers to morrow, and shal ſay to them: What meane theſe ſtones:"
+        },
+        {
+          "verse": 22,
+          "text": "You shal teach them, and ſay: By the drie chanel did Iſrael paſſe ouer this Iordan,"
+        },
+        {
+          "verse": 23,
+          "text": "your Lord God drying the waters therof in your ſight, vntil you paſſed ouer:"
+        },
+        {
+          "verse": 24,
+          "text": "as he had done before in the readſea, which he dried til we paſſed throuh:"
+        },
+        {
+          "verse": 25,
+          "text": "that al the people of the earth may learne the moſt ſtrong hand of our Lord, that you alſo may feare our Lord your God."
+        }
+      ],
+      "summary": "In memorie of their miraculous paſſage, twelue chief men, of the twelue tribes, take ſo manie great ſtones from the middes of Iordan, 9. and put other twelue, where the prieſtes ſtood with the arke. 18. The waters returne to their former courſe. And the twelue ſtones are erected for a monument."
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "THERFORE after that al the kinges of the Ammorrheites, which dwelt beyond Iordan at the weſt ſide, and al the kinges of Chanaan, which poſſeſſed the places nigh to the great ſea, had heard that our Lord had dried the ſtreames of Iordan before the children of Iſrael, til they paſſed ouer, their hart failed, and there remained no ſpirit in them, fearing the entring of the children of Iſrael."
+        },
+        {
+          "verse": 2,
+          "text": "At that time our Lord ſaid to Ioſue: Make thee kniues of ſtone, and circumciſe the ſecond time the children of Iſrael.",
+          "notes": [
+            {
+              "label": "a",
+              "text": "See annotations. c. 3. v. 8.",
+              "kind": "gloss"
+            },
+            {
+              "label": "b",
+              "text": "Circumciſion had bene omitted fourtie yeares, whiles they were in the deſerte, alwayes vncertaine when to march, & ſo it is now commanded the ſecond time.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 3,
+          "text": "He did that which our Lord had commanded, and he circumciſed the children of Iſrael in the hil of the prepuces."
+        },
+        {
+          "verse": 4,
+          "text": "And this is the cauſe of the ſecond circumciſion: Al the people, that came out of Ægypt of the malekinde, al the fighting men, died in the deſert by the long circuites of the way,"
+        },
+        {
+          "verse": 5,
+          "text": "who were al circumciſed. But the people that was borne in the deſert,"
+        },
+        {
+          "verse": 6,
+          "text": "during the fourtie yeares of the iourney in the wide wildernes was incircumciſed: til they were conſumed that had not heard the voice of our Lord, and to whom he had ſworne before, that he would not shew them a land flowing with milke and honie."
+        },
+        {
+          "verse": 7,
+          "text": "The children of theſe ſucceded in the place of the fathers, and were circumciſed of Ioſue: for they were in the prepuce euen as they were borne, neither had any circumciſed them in the way."
+        },
+        {
+          "verse": 8,
+          "text": "And after that they were al circumciſed, they abode in the ſame place of the campe, vntil they were whole."
+        },
+        {
+          "verse": 9,
+          "text": "And our Lord ſaid to Ioſue: This day haue I taken away the reproch of Ægypt from you. And the name of that place was called Galgal, vntil this preſent day."
+        },
+        {
+          "verse": 10,
+          "text": "And the children of Iſrael abode in Galgal, & they made the Phaſe, the fourteenth day of the moneth at euen, in the champion of Iericho:"
+        },
+        {
+          "verse": 11,
+          "text": "and they did eate of the corne of the Land the next day, azyme loaues and polēt of the ſame yeare.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "Furmentie.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 12,
+          "text": "And Manna failed after they did eate of the corne of the Land, neither did the children of Iſrael vſe that meate any more, but they did eate of the corne of the preſent Land of Chanaan."
+        },
+        {
+          "verse": 13,
+          "text": "And when Ioſue was in the field of the citie of Iericho, he lifted vp his eies, and ſaw a man ſtanding againſt him, holding a drawen ſword, and he went to him, and ſaid: Art thou ours, or our aduerſaries?"
+        },
+        {
+          "verse": 14,
+          "text": "Who anſwered: No: but I am a prince of the hoſt of our Lord, and now I come.",
+          "notes": [
+            {
+              "label": "c",
+              "text": "Not God, but of Gods hoſte.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 15,
+          "text": "Ioſue fel flatte on the ground. And adoring he ſaid: What ſpeaketh my Lord to his ſeruant?",
+          "has_annotation": true
+        },
+        {
+          "verse": 16,
+          "text": "Looſe, ſayth he, thy ſhoe from thy feete: for the place wherein thou doſt ſtand, is holie. And Ioſue did as it was commanded him.",
+          "has_annotation": true
+        }
+      ],
+      "summary": "The kinges of Chanaan are ſore frighted with the newes of Iſraels paſſage ouer Iordan. 2. Circumciſion is againe commanded, and obſerued, which had bene ommitted in the deſert fourtie yeares. 10. They make their Paſch. 12. Manna ceaſeth. 13. And an Angel appeareth to Ioſue."
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "AND Iericho was shut and fenſed, for feare of the children of Iſrael, and no man durſt goe out or come in."
+        },
+        {
+          "verse": 2,
+          "text": "And our Lord ſaid to Ioſue: Behold I haue geuen into thy handes Iericho, and the king therof, and al the valiant men."
+        },
+        {
+          "verse": 3,
+          "text": "Goe round about the citie al you that be men of warre once a day: ſo shal you doe ſix daies.",
+          "notes": [
+            {
+              "label": "a",
+              "text": "God appointed this long and ſolemne proceſſion to the end it might appeare, that the walles of Iericho fel not by chance, nor by force of mans induſtrie, but by the mightie hand of God.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 4,
+          "text": "And the ſeuenth day the prieſtes shal take vp the ſeuen trumpettes, which are vſed in the Iubilee, and shal goe before the arke of the couenant: and you shal goe about the citie ſeuen times, and the prieſtes shal ſound with trumpetes."
+        },
+        {
+          "verse": 5,
+          "text": "And when the voice of the trumpet shal ſound in length and with a broken tune, and shal ſound in your eares, al the people shal crie together with a verie greate shoote, and the walles of the citie shal fall to the ground, and they shal enter in euerie one at the place againſt which they shal ſtād."
+        },
+        {
+          "verse": 6,
+          "text": "Ioſue therfore the ſonne of Nun called the prieſtes, and ſaid to them: Take vp the arke of the couenant: and let ſeuen other prieſtes take vp the ſeuen trūpettes of the iubilees, and march before the arke of our Lord."
+        },
+        {
+          "verse": 7,
+          "text": "To the people alſo he ſaid: Goe, and cōpaſſe the citie, the armed going before the arke of our Lord."
+        },
+        {
+          "verse": 8,
+          "text": "And when Ioſue had ended his wordes, and the ſeuen prieſtes ſounded with ſeuen trumpettes before the arke of the couenant of our Lord,"
+        },
+        {
+          "verse": 9,
+          "text": "and al the armed hoſte went before, the reſt of the commō people folowed the arke, and al places ſounded with the trumpettes."
+        },
+        {
+          "verse": 10,
+          "text": "But Ioſue had commanded the people, ſaying: You shal not crie, neither shal your voice be heard, nor any word goe out of your mouth: vntil the day come wherin I shal ſay to you: Crie, and shoote."
+        },
+        {
+          "verse": 11,
+          "text": "Therfore the arke of our Lord went about the citie once a day, and returning into the campe, abode there."
+        },
+        {
+          "verse": 12,
+          "text": "Ioſue therfore ryſing in the night, the prieſtes tooke the arke of our Lord,"
+        },
+        {
+          "verse": 13,
+          "text": "and ſeuen of them ſeuen trumpettes, which are vſed in the iubilee: and they went before the arke of our Lord walking and ſounding: and the armed people went before them, and the reſt of the common people folowed the arke, and they ſounded with trumpettes."
+        },
+        {
+          "verse": 14,
+          "text": "And they went round about the citie the ſecond day once, and returned into the campe. So did they ſix daies."
+        },
+        {
+          "verse": 15,
+          "text": "But the ſeuenth day, ryſing vp early, they went about the citie, as it was ordained, ſeuen times."
+        },
+        {
+          "verse": 16,
+          "text": "And when in the ſeuenth going about the prieſtes ſounded with the trumpettes, Ioſue ſaid to al Iſrael: Make a shoote: for our Lord hath deliuered to you the citie:"
+        },
+        {
+          "verse": 17,
+          "text": "and let this citie be anathema: and al thinges that are in it, to our Lord. onlie Rahab the harlot let her liue, with al that be with her in the houſe: for she hidde the meſſengers whom we ſent."
+        },
+        {
+          "verse": 18,
+          "text": "But you beware you touch not ought of thoſe rhinges, that are commanded, and be guiltie of preuarication, and al the campe of Iſrael be vnder ſinne, and be trubled.",
+          "notes": [
+            {
+              "label": "b",
+              "text": "Manie are held guiltie of ſinne, and are iuſtly punished for the fact of one or few, either becauſe they conſented, or concealed, or neglected to punish the offenders: or els they ſuffer temporal affliction for their warning to abhorre ſinne, & for increaſe of their merite. S. Aug. q. 8. & q. 9. in Ioſue.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 19,
+          "text": "But whatſoeuer gold or ſiluer there shal be, and of braſen veſſels and yron, let it be conſecrated to our Lord, layd vp in his treaſures."
+        },
+        {
+          "verse": 20,
+          "text": "Therfore al the people making a shoote, and the trumpettes ſounding, after that the voice and the ſound thundred in the eares of the multitude, the walles forthwith fell: and euerie man went vp by the place, that was againſt him: and they tooke the citie,"
+        },
+        {
+          "verse": 21,
+          "text": "and killed al thinges that were in it, from man to woman, from the infant to the old man. The oxen alſo and sheepe, and the aſſes they ſtroke in the edge of the ſword."
+        },
+        {
+          "verse": 22,
+          "text": "But to the two men that had bene ſent for ſpies, Ioſue ſaid: Goe into the houſe of the woman the harlotte, and bring her forth, and al thinges that be hers, as you aſſured her by oath."
+        },
+        {
+          "verse": 23,
+          "text": "And the young men going in, brought out Rahab, and her parentes, her brethren alſo and al her ſtuffe and kinred, and made them to tarie without the campe."
+        },
+        {
+          "verse": 24,
+          "text": "But the citie, and al thinges, that were found therein they burnt; except the gold and ſiluer, and braſen veſſels, and yron, which they conſecrated vnto the treaſurie of our Lord."
+        },
+        {
+          "verse": 25,
+          "text": "But Rahab the harlotte and the houſe of her father, and al that she had, Ioſue cauſed to liue, and they dwelt in the middes of Iſrael vntil this preſent day: for that she hidde the meſſengers, which he had ſent to view Iericho. At that time, Ioſue pronounced a curſe, ſaying:"
+        },
+        {
+          "verse": 26,
+          "text": "Curſed be the man before our Lord, that shal rayſe vp and build the citie of Iericho. In his firſt borne lay he the fundations therof, and in the laſt of his children ſette he vp the gates therof.",
+          "notes": [
+            {
+              "label": "c",
+              "text": "Hiel fel into this curſe for reparing Iericho. 3. Reg. 16. v. 34.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 27,
+          "text": "Our Lord therfore was with Ioſue, and his name was bruited in al the earth."
+        }
+      ],
+      "summary": "Some prieſtes carying the arke, others ſounding Iubilee trumpetes, armed men going before, and the reſt of the people folowing, goe euerie day once, ſix dayes together, and the ſeuenth day, ſeuen times, round about Iericho. 16. at laſt al making a great shoote, the walles fal downe, and they entering in kil and deſtroy al (22. ſauing Rahab and her kinred.) The gold, ſiluer, braſſe, and iron are brought into the treaſurie. 26. And he is curſed that shal build the citie againe.",
+      "summary_notes": [
+        {
+          "marker": 1,
+          "text": "The ſecond part. Of conquering the Land of promiſe."
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "BVT the children of Iſrael tranſgreſſed the commandment, & vſurped of the anathema. For Achan the ſonne of Charmi, the ſonne of Zabdi, the ſonne of Zare of the tribe of Iuda, tooke ſomewhat of the anathema: and our Lord was angrie againſt the children of Iſrael."
+        },
+        {
+          "verse": 2,
+          "text": "And when Ioſue ſent from Iericho men againſt Hai, which is beſide Bethauen, at the Eaſt ſide of the towne of Bethel, he ſaid to them: Goe vp, and view the Land: who accomplishing his commandmentes, viewed Hai."
+        },
+        {
+          "verse": 3,
+          "text": "And returning they ſaid to him: Let not al the people goe vp, but let two or three thouſand men goe, and deſtroy the citie: why shal al the people be vexed in vaine againſt verie few enemies?"
+        },
+        {
+          "verse": 4,
+          "text": "There went vp therfore three thouſand fighting men. Who immediatly turning their backes,"
+        },
+        {
+          "verse": 5,
+          "text": "were ſtrooken of the men of the citie of Hai, and there fel of them ſix and thirtie men: and the aduerſaries purſewed them from the gate as farre as Sabarim, and they ſtricke them flying away by the deſcent: and the hart of the people was much afrayd, and melted like vnto water.",
+          "notes": [
+            {
+              "label": "a",
+              "text": "So God tempered his punishment that but few were ſlaine, and afterwards gaue the towne to the Iſraelites without loſſe of any of their men.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 6,
+          "text": "But Ioſue rent his garmentes, and fel flatte on the ground before the arke of our Lord vntil euening, as wel he as al the ancientes of Iſrael: and they caſt duſt vpon their heades,"
+        },
+        {
+          "verse": 7,
+          "text": "and Ioſue ſaid: Alas ô Lord God, why wouldeſt thou bring this people ouer the riuer of Iordan, to deliuer vs into the handes of the Amorrheite, and to deſtroy vs, would God as we beganne, we had taried beyond Iordan."
+        },
+        {
+          "verse": 8,
+          "text": "My Lord God what shal I ſay, ſeeing Iſrael turning their backes to their enemies?"
+        },
+        {
+          "verse": 9,
+          "text": "The Chananeites shal heare of it, and al the inhabitantes of the Land, and being gathered together in a plumpe shal compaſſe vs about, & shal deſtroy our name from the earth: and what wilt thou doe to thy greate name?"
+        },
+        {
+          "verse": 10,
+          "text": "And our Lord ſaid to Ioſue: Ariſe, why lieſt thou flatte on the ground?",
+          "notes": [
+            {
+              "label": "b",
+              "text": "Prayer wil not auaile til iuſtice be firſt donne.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 11,
+          "text": "Iſrael hath ſinned, and tranſgreſſed my couenant: and they haue taken of the anathema, and haue ſtolen and lyed, and haue hid it among their veſſel."
+        },
+        {
+          "verse": 12,
+          "text": "Neither can Iſrael ſtand before his enemies, and he shal flee them: becauſe he is polluted with the anathema. I wil be no more with you, til you diſpatch him, that is guiltie of this wicked fact."
+        },
+        {
+          "verse": 13,
+          "text": "Ariſe, ſanctifie the people, and ſay to them: Be ſanctified againſt to morrow: for thus ſaith our Lord God of Iſrael: There is anathema in the middes of thee ô Iſrael: thou canſt not ſtand before thyne enemies, til he be deſtroyed out of thee that is contaminated with this wicked fact."
+        },
+        {
+          "verse": 14,
+          "text": "And you shal come in the morning euerie one by your tribes: and what tribe ſoeuer the lote shal finde, it shal come by the kindredes therof, the kinred by the houſes, and the houſe by the men."
+        },
+        {
+          "verse": 15,
+          "text": "And whoſoeuer he be that shal be taken in this fact, he ſhal be burnt in the fyre with al his ſubſtance, becauſe he hath tranſgreſſed the couenāt of our Lord, and hath done abomination in Iſrael."
+        },
+        {
+          "verse": 16,
+          "text": "Ioſue therfore ryſing in the morning, made Iſrael to come by their tribes, and it was found the tribe of Iuda."
+        },
+        {
+          "verse": 17,
+          "text": "Which being preſented by the families therof, it was found the familie of Zare. Preſenting that alſo by the houſes, he found it Zabdi:"
+        },
+        {
+          "verse": 18,
+          "text": "whoſe houſe diuiding into euerie man, he found Achan the ſonne of Charmi, the ſonne of Zabdi: the ſonne of Zare of the tribe of Iuda."
+        },
+        {
+          "verse": 19,
+          "text": "And Ioſue ſaid to Achan: My ſonne, geue glorie to our Lord God of Iſrael, and confeſſe, and tel me what thou haſt done, hide it not."
+        },
+        {
+          "verse": 20,
+          "text": "And Achan anſwered Ioſue, and ſaid to him: In deede I haue ſinned to our Lord the God of Iſrael, and thus and thus haue I done."
+        },
+        {
+          "verse": 21,
+          "text": "For I ſaw among the ſpoiles a cloke of ſcarlet verie good, and two hundred ſicles of ſiluer, and a golden rule of fiftie ſicles: and coueting I tooke it away, and hid it in the ground againſt the middes of my tabernacle, and the ſiluer I couered with the earth digged vp."
+        },
+        {
+          "verse": 22,
+          "text": "Ioſue therfore ſent miniſters: who running to his tabernacle, found al thinges hid in the ſame place, and the ſiluer withal."
+        },
+        {
+          "verse": 23,
+          "text": "And taking it away out of the tent, brought it to Ioſue, and to al the children of Iſrael, and threw it before our Lord."
+        },
+        {
+          "verse": 24,
+          "text": "Ioſue therfore taking Achan the ſonne of Zare, and the ſiluer and the cloke, and the golden rule, his ſonnes alſo and daughters, his oxen, and aſſes, and sheepe, and the tabernacle it ſelf, and al the ſtuffe: (and al Iſrael with him) they brought them to the valley of Achor:"
+        },
+        {
+          "verse": 25,
+          "text": "where Ioſue ſaid: Becauſe thou haſt diſturbed vs, our Lord diſturbe thee in this day. And al Iſrael ſtoned him: and al thinges that were his, were conſumed with fyre."
+        },
+        {
+          "verse": 26,
+          "text": "And gathered together vpon him a greate heape of ſtones, which remaineth vntil this preſent day. And the furie of our Lord was auerted from them. And the name of that place was called, The valley of Achor, vntil this day."
+        }
+      ],
+      "summary": "For the ſinne of Achan, reſeruing ſecretly to himſelf certaine money, and other precious thinges, the Iſraelites are beaten in battel. 13. But the offender being found out, and ſtoned to death, Gods Wrath is turned from them."
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "AND our Lord ſaid to Ioſue: Feare not, neither doe thou dread: take with thee al the multitude of fighting men, and ryſing goe vp vnto the towne of Hai. behold I haue deliuered into thy hand the King therof, & the people, and the citie and the land."
+        },
+        {
+          "verse": 2,
+          "text": "And thou shalt do to the citie of Hai, and to the King therof, as thou haſt done to Iericho, and to the King therof: but the praye and al the cattel you shal ſpoyle for your ſelues: lay ambushmentes to the citie behind it.",
+          "notes": [
+            {
+              "label": "a",
+              "text": "Deceiptes & ſtratagemes are lawful in iuſt warre; but not falſhood, nor breach of promiſe. S. Aug. q. 10. in Ioſue.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 3,
+          "text": "And Ioſue aroſe, and al the hoſte of the men of warre with him, to goe vp into Hai: and thirtie thouſand choſen valiant men he ſent in the night,"
+        },
+        {
+          "verse": 4,
+          "text": "and commanded them, ſaying: Lay ambushmentes behinde the citie: neither retyre you farre of: and you shal al be readie."
+        },
+        {
+          "verse": 5,
+          "text": "But I and the reſt of the multitude, which is with me, wil goe vp on the contrarie ſide againſt the citie. And when they shal iſſue out againſt vs, as we did before, we wil flee, and turne our backes:"
+        },
+        {
+          "verse": 6,
+          "text": "til purſewing they be drawen forward farre from the citie: for they wil thinck that we flee as before."
+        },
+        {
+          "verse": 7,
+          "text": "We therfore fleeing, and they purſewing, you shal riſe out of the ambushmentes, and shal waiſt the citie: and our Lord your God wil deliuer it into your handes."
+        },
+        {
+          "verse": 8,
+          "text": "And when you shal take it, burne it, and you shal doe al thinges ſo, as I haue commanded."
+        },
+        {
+          "verse": 9,
+          "text": "And he diſmiſſed them away, and they went on to the place of the ambushment, and ſate betwen Bethel and Hai, at the Weſt ſide of the citie of Hai. But Ioſue that night ſtayed in the middes of the people,"
+        },
+        {
+          "verse": 10,
+          "text": "and ryſing early he muſtered his ſoldiars, and went vp with the ancientes in the fronte of the hoſte, enuironed with the ayde of the fighting men."
+        },
+        {
+          "verse": 11,
+          "text": "And when they were come, and were gone vp directly againſt the citie, they ſtoode on the North ſide of the citie, betwen which and them was a valley in the middes."
+        },
+        {
+          "verse": 12,
+          "text": "And fiue thouſand men had he choſen, and ſette in the embushmentes betwen Bethel and Hai on the Weſt ſide of the ſame citie:",
+          "notes": [
+            {
+              "label": "b",
+              "text": "Theſe fiue thouſand were of the thirtie thouſand, which were firſt ſent. v. 3. The other 25000. ioyned with Ioſues troupe, & entered into the citie.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 13,
+          "text": "but al the reſt of the hoſte went in battel aray on the North ſide, ſo that the laſt of the multitude did reach to the Weſt ſide of the citie. Ioſue therfore went that night, and ſtoode in the middes of the valley."
+        },
+        {
+          "verse": 14,
+          "text": "Which when the King of Hai had ſeene, he made haſt in the mourning, and iſſued forth with al the hoſt of the citie, and bent his armie toward the deſert, being ignorant that there lay embushmentes ſecretly behind his backe."
+        },
+        {
+          "verse": 15,
+          "text": "And Ioſue, and al Iſrael gaue backe, feyning feare, and fleeing by the way of the wildernes."
+        },
+        {
+          "verse": 16,
+          "text": "But they cried alowde together, and encouraging one an other, purſewed them. And when they were gone from the citie,"
+        },
+        {
+          "verse": 17,
+          "text": "and not one remained in the citie of Hai and Bethel, that purſewed not Iſrael (euen as they had rushed out leauing the townes open,)",
+          "notes": [
+            {
+              "label": "c",
+              "text": "Not one fitte to beare armes was left.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 18,
+          "text": "our Lord ſaid to Ioſue: Lift vp the shield, that is in thy hand, againſt the citie of Hai, for I wil deliuer it to thee.",
+          "notes": [
+            {
+              "label": "d",
+              "text": "He lift his ſhield vpon a long pike or lance, that it might be ſene farre of.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 19,
+          "text": "And when he had lifted vp his shield againſt the citie, the embushementes, that lay hidde, roſe vp immediatly: and going to the citie, tooke and burnt it."
+        },
+        {
+          "verse": 20,
+          "text": "And the men of the citie, that purſewed Ioſue, looking backe and ſeeing the ſmoke of the citie riſe vp euen to heauen, they could no more flee hither and thither: eſpecially whereas they, that had feyned running away, and went toward the wildernes, moſt valiantly reſiſted againſt the purſewers."
+        },
+        {
+          "verse": 21,
+          "text": "And Ioſue and al Iſrael ſeeing that the citie was taken, and the ſmoke of the citie roſe vp, returning he ſtroke the men of Hai."
+        },
+        {
+          "verse": 22,
+          "text": "For they alſo that had taken and burnt the citie, iſſuing out of the citie againſt their owne men, beganne to ſtrike the enemies in the middes of them. When the aduerſaries therfore were ſlaine on both ſides, ſo that none of ſo great a multitude was ſaued,"
+        },
+        {
+          "verse": 23,
+          "text": "they tooke the King of the citie of Hai aliue, and preſented him to Ioſue."
+        },
+        {
+          "verse": 24,
+          "text": "Therfore al being ſlaine, that had purſewed Iſrael fleeing to the deſertes, and falling by the ſword in the ſame place, the children of Iſrael returning ſtoke the citie."
+        },
+        {
+          "verse": 25,
+          "text": "And there were that fel that ſame day from man vnto woman, twelue thouſand men, al of the citie of Hai."
+        },
+        {
+          "verse": 26,
+          "text": "But Ioſue plucked not in his hand, which he had ſtrethched forth on high, holding the shield til al the inhabitantes of Hai were ſlaine."
+        },
+        {
+          "verse": 27,
+          "text": "And the cattel and the praye of the citie the children of Iſrael diuided among them, as our Lord had commanded Ioſue."
+        },
+        {
+          "verse": 28,
+          "text": "Who burnt the citie, and made it a heape for euer:"
+        },
+        {
+          "verse": 29,
+          "text": "the king alſo therof he hong on a gibbet vntil euening and the going downe of the ſunne. And he commanded, and they tooke downe his corps from the gibbet: and threw it in the verie entring of the citie, heaping vpon it a great heape of ſtones, which remaineth vntil this preſent day."
+        },
+        {
+          "verse": 30,
+          "text": "Then Ioſue built an altar to our Lord the God of Iſrael in mount Hebal,"
+        },
+        {
+          "verse": 31,
+          "text": "as Moyſes the ſeruant of our Lord had commanded the children of Iſrael, and it is written in the volume of the law of Moyſes: an Altar of vnhewed ſtones which yron hath not touched; and he offered vpon it holocauſtes to our Lord, and immolated pacifique victimes."
+        },
+        {
+          "verse": 32,
+          "text": "And he wrote vpon ſtones the Deuterenomie of the law of Moyſes, which he had ordered before the children of Iſrael."
+        },
+        {
+          "verse": 33,
+          "text": "And al the people, and the ancientes, and the princes and iudges ſtoode on both ſides of the arke, in the ſight of the prieſtes that caried the arke of the couenant of our Lord, as wel the ſtranger as alſo the man of the ſame countrie. the half part of them beſide mount Garizim, and halfe beſide mount Hebal, as Moyſes the ſeruant of our Lord had commanded. And firſt in deede he bleſſed the people of Iſrael.",
+          "cross_refs": [
+            {
+              "text": "Deut. 27."
+            }
+          ],
+          "notes": [
+            {
+              "label": "e",
+              "text": "Al ſuperiors may bleſſe their ſubiectes, Princes their people; and parentes their children.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 34,
+          "text": "After this he reade al the wordes of the bleſſing & the curſing, and al thinges that were written in the volume of the law."
+        },
+        {
+          "verse": 35,
+          "text": "Nothing of thoſe thinges, which Moyſes had commanded, did he leaue vntouched, but he repeated al thinges before al the multitude of Iſrael, the wemen and children and ſtrangers, that dwelt among them."
+        }
+      ],
+      "summary": "By ſtratageme of an ambushment the citie of Hai is taken and burned, and al the inhabitantes ſlaine. 29. the king hanged. 30. An Altar built, sacrifice offered, 32. the law written in ſtones, the people bleſſed, and the bleſſinges and curſinges read before them al."
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "VVHICH thinges being heard, al the kinges beyond Iordan, that dwelt in the mountaines and champion countries, in the places by the ſea ſide and the shore of the great ſea, they alſo that dwelt beſide Libanus, the Hetheite and Amorreite, the Chananeite, the Pherezeite, and the Heueite, and the Iebuſeite,"
+        },
+        {
+          "verse": 2,
+          "text": "were gathered, to fight againſt Ioſue and Iſrael with one minde, and one ſentence."
+        },
+        {
+          "verse": 3,
+          "text": "But they that dwelt in Gabaon, hearing al thinges that Ioſue had done to Iericho and Hai:"
+        },
+        {
+          "verse": 4,
+          "text": "ſubtelly deuiſing tooke prouiſion for them ſelues, laying old ſackes vpon their aſſes, and bottels of wine rent and ſowed againe,"
+        },
+        {
+          "verse": 5,
+          "text": "and shoes very old which for a shew of oldeneſſe were clouted with ſpeckes, putting on them old garmentes: the loaues alſo, which they caried for prouiſion by the way, were heard, and broken into peeces:"
+        },
+        {
+          "verse": 6,
+          "text": "and they went on to Ioſue, who then abode in the campe at Galgal, and ſaid to him, and withal to al Iſrael: We are come from a farre countrie, deſirous to make peace with you. And the children of Iſrael anſwered them, and ſaid:"
+        },
+        {
+          "verse": 7,
+          "text": "Leſt perhaps you dwel in the Land which is dew to vs by lotte, and we can not enter a league with you."
+        },
+        {
+          "verse": 8,
+          "text": "But they ſaid to Ioſue: We are thy ſeruantes. To whom Ioſue ſaid: Who are you? and whence came you?"
+        },
+        {
+          "verse": 9,
+          "text": "they anſwered: From a very farre countrie are thy ſeruantes come in the name of the Lord thy God. For we haue heard the fame of his might, al thinges that he did in Ægypt,"
+        },
+        {
+          "verse": 10,
+          "text": "and to the two kinges of the Amorrheites that were beyond Iordan, Sehon the king of Heſebon, and Og the king of Baſan, that were in Aſtaroth:"
+        },
+        {
+          "verse": 11,
+          "text": "and our ancientes, and al the inhabitantes of our Land ſaid to vs: Take in your handes victuals for a very long way, and goe meete them, and ſay: We are your ſeruantes, enter a league with vs."
+        },
+        {
+          "verse": 12,
+          "text": "Behold, theſe loaues we tooke hotte, when we departed from our houſes to come to you, now they are become drie, and broken for ouer-much oldeneſſe."
+        },
+        {
+          "verse": 13,
+          "text": "the bottels of wine we filled being new, now they are burſt & diſſolued. The garmentes and ſhoes that we haue vpon vs, and which we haue on our feete, for the length of the long way are worne, and almoſt conſumed."
+        },
+        {
+          "verse": 14,
+          "text": "They tooke therfore of their victuals, and asked not the mouth of our Lord.",
+          "notes": [
+            {
+              "label": "a",
+              "text": "In ſuch a caſe they ought to haue conſulted God, to witte, the high Prieſt putting on the Ephod & Rationale, ſhould haue prayed at the dore of the tabernacle, where our Lord appointed to ſpeake vnto him, Exo. 29 v. 42 It was alſo ordained. Num. 17. v. 21. that Eleazar should conſult our Lord, when anie thing was to be donne by Ioſue, which omitting to do they were deceiued by theſe Gabaonites.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 15,
+          "text": "And Ioſue made peace with them, and entring a league promiſed that they should not be ſlaine: the princes alſo of the multitude ſware to them."
+        },
+        {
+          "verse": 16,
+          "text": "But three daies after that the league was made, they heard that they dwelt nigh, and they should be among them."
+        },
+        {
+          "verse": 17,
+          "text": "And the children of Iſrael remoued the campe, and came into their cities the third day, whoſe names are theſe, Gabaon, and Chaphira, and Beroth, and Chariathiarim."
+        },
+        {
+          "verse": 18,
+          "text": "And they ſtroke them not, becauſe the princes of the multitude had ſworne in the name of our Lord the God of Iſrael. Therfore al the common people murmured againſt the princes."
+        },
+        {
+          "verse": 19,
+          "text": "Who anſwered them: We haue ſworne to them in the name of our Lord the God of Iſrael, and therfore we may not touch them."
+        },
+        {
+          "verse": 20,
+          "text": "But this we wil doe to them: Let them be reſerued in dede aliue, leſt the wrath of God be ſtirred againſt vs, if we shal be forſworne:"
+        },
+        {
+          "verse": 21,
+          "text": "but ſo let them liue, that for the vſes of the whole multitude they hew wood, and carie in water. Who ſpeaking theſe thinges,"
+        },
+        {
+          "verse": 22,
+          "text": "Ioſue called the Gabaonites, and ſaid to them: Why would you deceiue vs by fraude to ſay: We dwel very farre of from you, wheras you are in the middes of vs?"
+        },
+        {
+          "verse": 23,
+          "text": "Therfore you shal be vnder a curſe, and there shal not faile of your ſtocke a hewer of wood, and a carier of water into the houſe of my God."
+        },
+        {
+          "verse": 24,
+          "text": "Who anſwered: It was told vs thy ſeruantes, that the Lord thy God had promiſed Moyſes his ſeruant, that he would deliuer you al the Land, and would deſtroy al the inhabitantes therof. Therfore we feared excedingly and prouided for our liues, cōpelled by your terrour, and we tooke this counſel."
+        },
+        {
+          "verse": 25,
+          "text": "And now we are in thy hand: that which ſeemeth vnto thee good and right, doe to vs."
+        },
+        {
+          "verse": 26,
+          "text": "Ioſue therfore did as he had ſaid, and deliuered them from the hand of the children of Iſrael, that they should not be ſlaine."
+        },
+        {
+          "verse": 27,
+          "text": "And he decreed in that day, that they should be in the miniſterie of al the people, and of the altar of our Lord, hewing wood, and carying water, vntil this preſent time, in the place which our Lord hath choſen.",
+          "notes": [
+            {
+              "label": "b",
+              "text": "In theſe Gabaonites of Chanaans race was fulfilled Noes prophecie. Gen. 9. that Chanaan should be a ſeruant to his brethren.",
+              "kind": "gloss"
+            }
+          ]
+        }
+      ],
+      "summary": "Other nations fearing Iſrael ioyne their forces to fight againſt them, 3. but the Gabaonites ſend embaſſadors, feyning craftily to come farre of, 14. with whom Ioſue and the ancientes of Iſrael make league binding it by oath. 16. within three dayes they are detected to be nere inhabitantes. VVherupon the people murmur againſt their princes. VVho yet for their oath, let the Gabaonites liue. 20. only making them and their progenie perpetual ſeruantes, to cutte wood, and carie water."
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "VVHICH thinges when Adoniſedec king of Ieruſalem had heard, to witte, that Ioſue had taken Hai, and had ſubuerted it (for as he had done to Iericho & the king therof, ſo did he to Hai, & their king) and that the Gabaonites were fled to Iſrael, and were their confederates,"
+        },
+        {
+          "verse": 2,
+          "text": "he was ſore afrayd. For Gabaon was a great cititie, and one of the kinglie cities, and greater then the towne of Hai, and al their men of warre moſt valiant."
+        },
+        {
+          "verse": 3,
+          "text": "Therfore Adoniſedec king of Ieruſalem ſent to Oham king of Hebron, and to Pharam king of Ierimoth, to Iaphia alſo king of Lachis, and to Dabir king of Eglon, ſaying:"
+        },
+        {
+          "verse": 4,
+          "text": "Come vp to me, and bring ayde, that we may ouercome Gabaon, becauſe it reuolted to Ioſue, & to the children of Iſrael."
+        },
+        {
+          "verse": 5,
+          "text": "Therfore the fiue kinges of the Amorrheites being aſſembled went vp: the king of Ieruſulem, the king of Hebron, the king of Ierimoth, the king of Lachis, the king of Eglon, together with their hoſtes, & camped about Gabaon, aſſaulting it."
+        },
+        {
+          "verse": 6,
+          "text": "But the inhabitantes of the citie Gabaon which was beſieged, ſent to Ioſue, who then abode in the campe at Galgal, & ſaid to him: withdraw not thy handes from the helpe of thy ſeruantes: come vp quickly and deliuer vs, and bring ayde: for there are aſſembled againſt vs al the kinges of the Ammorrheites, which dwel in the mountaines."
+        },
+        {
+          "verse": 7,
+          "text": "And Ioſue went vp from Galgal, and al the hoſte of the men of warre with him moſt valiant men."
+        },
+        {
+          "verse": 8,
+          "text": "And our Lord ſaid to Ioſue: Feare them not: for I haue deliuered them into thy handes: none of them shal be able to reſiſt thee."
+        },
+        {
+          "verse": 9,
+          "text": "Ioſue therfore came in vpon them ſodenly, going vp al the night from Galgal."
+        },
+        {
+          "verse": 10,
+          "text": "And our Lord trubled them at the ſight of Iſrael: and deſtroyed them with a greate ſlaugher in Gabaon, and purſewed them by the way of the aſcent to Bethoron, and ſtroke them vnto Azeca and Maceda"
+        },
+        {
+          "verse": 11,
+          "text": "And when they fled the children of Iſrael, and were in the deſcent of Bethhoron, our Lord ſent vpon them greate ſtones from heauen as farre as Azeca: and there died farre more with the ſtones of haile, then they whom the children of Iſrael had ſtrooken with the ſword."
+        },
+        {
+          "verse": 12,
+          "text": "Then ſpake Ioſue to our Lord in the day, that he deliuered the Amorreite in the ſight of Iſrael, and ſaid before them: Thou Sunne againſt Gabaon moue not, and thou Moone againſt the valley of Aialon.",
+          "notes": [
+            {
+              "label": "a",
+              "text": "Ioſue did thinke if the moone moued the ſunne alſo muſt neceſſarily moue ſo he obtained the ſtay of both.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 13,
+          "text": "And the Sunne and Moone ſtoode ſtil, til the people reuenged themſelues of their enemies. Is not this written in the booke of the iuſt? The Sunne therfore ſtood ſtil in the middes of heauen, and haſtened not to goe downe the ſpace of one day."
+        },
+        {
+          "verse": 14,
+          "text": "There was not before nor after ſo long a day, our Lord obeying the voice of a man, and fighting for Iſrael.",
+          "notes": [
+            {
+              "label": "b",
+              "text": "Til after the time this booke was written.",
+              "kind": "gloss"
+            },
+            {
+              "label": "c",
+              "text": "God condeſcending to worke ſo great a miracle at the inſtance of his ſeruant.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 15,
+          "text": "And Ioſue returned with al Iſrael into the campe of Galgal."
+        },
+        {
+          "verse": 16,
+          "text": "For the fiue kinges were fled, and had hid themſelues in a caue of the citie of Maceda."
+        },
+        {
+          "verse": 17,
+          "text": "And it was told Ioſue that the fiue kinges were found lying hid in a caue of the citie of Maceda."
+        },
+        {
+          "verse": 18,
+          "text": "Who commanded them ſaying: Rowle great ſtones into the mouth of the caue, and ſette induſtrious men, which may keepe them shut in:"
+        },
+        {
+          "verse": 19,
+          "text": "and ſtand not you ſtil, but purſew the enemies, and kil al the hindermoſt of them that flee, neither let them enter into the fortes of their cities, whom our Lord God hath deliuered into your handes."
+        },
+        {
+          "verse": 20,
+          "text": "The aduerſaries therfore being ſlaine with a great ſlaughter, and almoſt conſumed to vtter deſtruction, they that could eſcape from Iſrael, entered into fenſed cities.",
+          "notes": [
+            {
+              "label": "d",
+              "text": "God ſo diſpoſed, that they ſhould not conquer al in one yeare: leſt the land had benne brought into a vvildernes, and beaſtes increaſed againſt them Exod. 23. v. 29. Morally it ſignifieth, that the children of God muſt be exerciſed in tribulations and mortification leſt vices grow in them. Procop. in Exod.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 21,
+          "text": "And al the hoſte returned to Ioſue in Maceda, where then the campe was, ſafe and the ful number: and no man durſt once mutter againſt the children of Iſrael?"
+        },
+        {
+          "verse": 22,
+          "text": "And Ioſue commanded, ſaying: Open the mouth of the caue, & bring forth to me the fiue kinges, that lie hid therin."
+        },
+        {
+          "verse": 23,
+          "text": "And the miniſters did as it was commanded them: and they brought to him the fiue kinges out of the caue, the king of Ieruſalem, the king of Hebron, the king of Ierimoth, the king of Lachis, the king of Eglon."
+        },
+        {
+          "verse": 24,
+          "text": "And when they were brought forth to him, he called al the men of Iſrael, and ſaid to the princes of the hoſte that were with him: Goe, and ſette your feete vpon the neckes of theſe kinges. Who when they had gone, and troden with their feete the neckes of them lying vnder,"
+        },
+        {
+          "verse": 25,
+          "text": "againe he ſaid to them: Feare ye not, neither dread, take courage and be ſtrong: for ſo wil our Lord doe to al your enemies, againſt whom you fight."
+        },
+        {
+          "verse": 26,
+          "text": "And Ioſue ſtroke, and ſlew them, and hanged them vpon fiue gibbettes: & they hung vntil euening."
+        },
+        {
+          "verse": 27,
+          "text": "And when the ſunne was downe, he commanded the ſoldiars to take them downe from the gibbettes. Who caſt them being taken downe into the caue, wherin they had lyen hid, & put on the mouth therof great ſtones, which continew vntil this preſent."
+        },
+        {
+          "verse": 28,
+          "text": "The ſame day Ioſue tooke Maceda and ſtroke it in the edge of the ſword, & killed the king & al the inhabitantes therof: he left not in it ſo much as ſmale reliques. And he did to the king of Maceda, as he had done to the king of Iericho."
+        },
+        {
+          "verse": 29,
+          "text": "and he paſſed with al Iſrael from Maceda vnto Lebna, and fought againſt it:"
+        },
+        {
+          "verse": 30,
+          "text": "which our Lord deliuered with the king therof into the handes of Iſrael: and they ſtroke the citie in the edge of the ſword, and al the inhabitantes therof. they left not in it anie remaines. And they did to the king of Lebna, as they had done to the king of Iericho."
+        },
+        {
+          "verse": 31,
+          "text": "From Lebna he paſſed vnto Lachis with al Iſrael: and placing the hoſte round about aſſaulted it."
+        },
+        {
+          "verse": 32,
+          "text": "And our Lord deliuered Lachis into the handes of Iſrael, and he tooke it the day folowing, and ſtroke it in the edge of the ſword, and euerie ſoule, that was in it, as he had done to Lebna."
+        },
+        {
+          "verse": 33,
+          "text": "At that time went vp Horam the king of Gazer, to ayde Lachis: whom Ioſue ſtroke with al his people to vtter deſtruction."
+        },
+        {
+          "verse": 34,
+          "text": "And he paſſed from Lachis vnto Eglon, and compaſſed it,"
+        },
+        {
+          "verse": 35,
+          "text": "and wonne it the ſame day: & ſtroke in the edge of the ſword al the ſoules, that were in it according to al thinges that he had done to Lachis"
+        },
+        {
+          "verse": 36,
+          "text": "He went vp alſo with al Iſrael from Eglon vnto Hebron, and fought againſt it:"
+        },
+        {
+          "verse": 37,
+          "text": "tooke it, and ſtroke it in the edge of the ſword, the king alſo therof, and al townes of that countrie, & al the ſoules, that remained in it: he left not therein anie remaynes: as he had done to Eglon, ſo did he alſo to Hebron, al thinges that he found in it conſumning with the ſword."
+        },
+        {
+          "verse": 38,
+          "text": "Thence returning vnto Dabir,"
+        },
+        {
+          "verse": 39,
+          "text": "he tooke it, and waſted it: the king alſo therof and al the townes round about he ſtroke in the edge of the ſword: he left not in it anie remaines: as he had done to Hebron and Lebna and to their kinges, ſo did he to Dabir and the king therof."
+        },
+        {
+          "verse": 40,
+          "text": "Ioſue therfore ſtroke al the hillie countrie and ſouth and champaine, and Aſedoth with their kinges: he left not in it anie reliques, but euerie thing that could breath he ſlew, as our Lord the God of Iſrael had commanded him,"
+        },
+        {
+          "verse": 41,
+          "text": "from Cadesbarne vnto Gaza. Al the Land of Goſen vnto Gabaon,"
+        },
+        {
+          "verse": 42,
+          "text": "and al their kinges, and countries he tooke and waſted at one aſſault: for our Lord the God of Iſrael fought for him."
+        },
+        {
+          "verse": 43,
+          "text": "And he returned with al Iſrael to the place of the campe in Galgal."
+        }
+      ],
+      "summary": "Fiue kinges of the Amorrheites beſieging Gabaon, becauſe it is confederate with Iſrael, 6. Ioſue with his armie defeateth theirs, killing and purſewing them. 11. manie alſo are ſlaine with haile ſtones. 12, At the prayer of Ioſue the ſunne and moone ſtand ſtil the ſpace of one day. 22. The fiue kinges are hanged on gibbetes. 28. He taketh alſo and ſubdueth diuers cities. 40. and countries."
+    },
+    {
+      "chapter": 11,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "VVHICH thinges when Iabin the king of Aſor had heard, he ſent to Iobab the king of Madon, and to the king of Semeron, and to the king of Achſaph:"
+        },
+        {
+          "verse": 2,
+          "text": "to the kinges alſo of the North, that dwelt in the mountaines and in the plaine againſt the ſouth ſide of Ceneroth, in the champaine alſo and countries of Dor by the ſea ſide:"
+        },
+        {
+          "verse": 3,
+          "text": "the Chananeite alſo on the Eaſt and Weſt, and the Amorrheite and Hetheite and Pherezeite & Iebuſeite in the mountaines: the Heueite alſo which dwelt at the foote of Hermon in the Land of Maſpha."
+        },
+        {
+          "verse": 4,
+          "text": "And they iſſued forth al with their troupes, a people exceeding manie as the ſand, that is in the ſhore of the ſea, their horſes alſo and chariottes of paſſing great multitude."
+        },
+        {
+          "verse": 5,
+          "text": "And al theſe kinges aſſembled together in one at the Waters of Merom, to fight againſt Iſrael."
+        },
+        {
+          "verse": 6,
+          "text": "And our Lord ſaid to Ioſue: Feare them not: for to morrow this ſelfe ſame houre wil I deliuer al theſe to be wounded in the ſight of Iſrael: their horſes thou shalt hoghſinew, and their chariottes thou shalt burne with fire."
+        },
+        {
+          "verse": 7,
+          "text": "And Ioſue came, and al the hoſte with him againſt them to the Waters of Merom ſodenly, and ranne in vpon them,"
+        },
+        {
+          "verse": 8,
+          "text": "and our Lord deliuered them into the handes of Iſrael. Who ſtroke them, and purſewed them as farre as great Sidon, and the Waters of Maſerephoth, and the field of Maſphe, which is on the Eaſt ſide therof. Therfore he ſtroke al, ſo that he left no reliques"
+        },
+        {
+          "verse": 9,
+          "text": "of them: and he did as our Lord had commanded him, their horſes he hoghſinewed, and their chariottes he burnt."
+        },
+        {
+          "verse": 10,
+          "text": "And returning immediatly he tooke Aſor: and the king therof he ſtroke with the ſword. For Aſor in old time among al theſe kingdomes held the principalitie."
+        },
+        {
+          "verse": 11,
+          "text": "And he ſtroke al the ſoules, that abode there: he left not in it anie remaines, but to vtter deſtruction he waſted al thinges, and the citie it ſelfe he deſtroyed with fyre."
+        },
+        {
+          "verse": 12,
+          "text": "And al the cities round about, their kinges alſo he tooke, ſtroke & deſtroyed, as Moyſes the ſeruant of God had commanded him."
+        },
+        {
+          "verse": 13,
+          "text": "Except the cities, that were ſituated on hilles and higher ground, the reſt Iſrael burnt: one onlie Aſor verie wel fenſed he conſumed with fyre."
+        },
+        {
+          "verse": 14,
+          "text": "And al the praye of theſe cities and the cattel the children of Iſrael diuided among them ſelues, al the men being ſlaine."
+        },
+        {
+          "verse": 15,
+          "text": "As our Lord had commanded Moyſes his ſeruant, ſo did Moyſes command Ioſue, and he accomplished al thinges: he ommitted not of al the commandementes, not ſo much as one word, which our Lord had commanded Moyſes."
+        },
+        {
+          "verse": 16,
+          "text": "Ioſue therfore tooke al the hillie countrie, and ſouth, and the land of Goſen, and plaine, and the Weſt quarter, and the mountaine of Iſrael, and the champaine countrie therof:"
+        },
+        {
+          "verse": 17,
+          "text": "and the part of the mountaine, that goeth vp to Seir as farre as Baalgad by the plaine of Libanus vnder mount Hermon: al their kinges he tooke, ſtroke, and ſlew."
+        },
+        {
+          "verse": 18,
+          "text": "A great time did Ioſue fight againſt theſe kinges.",
+          "notes": [
+            {
+              "label": "a",
+              "text": "Theſe warres continued nere ſeuen yeares. as appeareth. chap. 14. v. 10.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 19,
+          "text": "There was not a citie that did deliuer it ſelfe to the children of Iſrael, except the Heueite, which dwelt in Gabaon: for he tooke al by fight."
+        },
+        {
+          "verse": 20,
+          "text": "For it was the ſentence of our Lord, that their hartes should be indurate, and they should fight againſt Iſrael, and fall, and should not deſerue anie clemencie, and should perish, as our Lord had commanded Moyſes.",
+          "notes": [
+            {
+              "label": "b",
+              "text": "For their enormious ſinnes God left them in their owne reprobate ſenſe, not impoſing neceſſitie of ſinning, but permitting them to indurate their owne hartes. See Annot. Exod. 7.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 21,
+          "text": "At that time Ioſue came, and ſlew the Enacimes of the mountaines, of Hebron, and Dabir, and Anab, and from al the mountaine of Iuda and Iſrael, and deſtroyed their cities."
+        },
+        {
+          "verse": 22,
+          "text": "He leift not any of the ſtocke of Enacimes, in the Land of the children of Iſrael: ſauing the cities of Gaza, and Geth, and Azotus, in the which onlie they were leift."
+        },
+        {
+          "verse": 23,
+          "text": "Ioſue therfore tooke al the Land, as our Lord ſpake to Moyſes, and deliuered it in poſſeſſion to the children of Iſrael, according to their partes and tribes. and the Land reſted from battels.",
+          "notes": [
+            {
+              "label": "c",
+              "text": "Hence forth they had not general warres but diuers tribes had particular. as appeareth chap. 15. &c.",
+              "kind": "gloss"
+            }
+          ]
+        }
+      ],
+      "summary": "Iabin a more principal king ſomoneth other kinges to ioyne with him againſt Iſrael. 6. Ioſue animated with Gods promiſe of victorie, 7. ouerthroweth them al. 16. Subdueth their countries: 12. killeth alſo manie of the giantes ſtocke."
+    },
+    {
+      "chapter": 12,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "THESE are the kinges, which the children of Iſrael ſtroke, and poſſeſſed, their Land beyond Iordan toward the ryſing of the ſunne, from the torrent Arnon vnto mount Hermon, and al the Eaſt part, that looketh toward the wildernes."
+        },
+        {
+          "verse": 2,
+          "text": "Sehon the king of the Amorrheites, which dwelt in Heſebon, had dominion from Aroer, which is ſituated vpon the banke of the torrent Arnon, and of the middel part in the valley, and of halfe Galaad, as farre as the torrent Iaboc, which is the border of the children of Ammon."
+        },
+        {
+          "verse": 3,
+          "text": "and from the wildernes vnto the ſea of Ceneroth againſt the Eaſt, and vnto the Sea of the wildernes, which is the moſt ſalt ſea, on the Eaſt ſide by the way that leadeth to Beſimoth: and on the South ſide, which lyeth vnder Aſedoth, as farre as Phaſga."
+        },
+        {
+          "verse": 4,
+          "text": "The border of Og the king of Baſan, of the remnant of the Raphaims who dwelt in Aſtaroth, and in Edrai, and had dominion in mount Hermon, and in Salecha, and in al Baſan, vnto the borders",
+          "cross_refs": [
+            {
+              "text": "Num. 21. Deut. 3."
+            }
+          ]
+        },
+        {
+          "verse": 5,
+          "text": "of Geſſuri, and Machati, and of the halfe part of Galaad: the borders of Sehon the king of Heſebon."
+        },
+        {
+          "verse": 6,
+          "text": "Moyſes the ſeruant of our Lord, and the children of Iſrael ſtroke them, and Moyſes deliuered their Land in poſſeſſion to the Rubenites, and Gadites, and the half tribe of Manaſſes."
+        },
+        {
+          "verse": 7,
+          "text": "Theſe are the Kinges of the Land, whom Ioſue ſtroke and the children of Iſrael beyond Iordan on the Weſt ſide, from Balaalgad in the field of Libanus, vnto the mount, part wherof goeth vp into Seir: and Ioſue deliuered it in poſſeſſion to the tribes of Iſrael, to euerie one their portions,"
+        },
+        {
+          "verse": 8,
+          "text": "as wel in the mountaines as in the plaine and champaine countries. In Aſedoth, and in the wildernes, and in the ſouth was the Hetheite and the Amorrheite, the Chananeite, and the Pherezeite, the Heueite, and the Iebuſeite."
+        },
+        {
+          "verse": 9,
+          "text": "The king of Iericho one: the king of Hai, which is on the ſide of Bethel, one:"
+        },
+        {
+          "verse": 10,
+          "text": "the king of Ieruſalem one, the king of Hebron one,"
+        },
+        {
+          "verse": 11,
+          "text": "the King of Ierimoth one, the King of Lachis one,"
+        },
+        {
+          "verse": 12,
+          "text": "the King of Eglon one, the King of Gazer one,"
+        },
+        {
+          "verse": 13,
+          "text": "the King of Dabir one, the King of Gader one,"
+        },
+        {
+          "verse": 14,
+          "text": "the King of Herma one, the King of Hered one,"
+        },
+        {
+          "verse": 15,
+          "text": "the King of Lebna one, the King of Adullam one,"
+        },
+        {
+          "verse": 16,
+          "text": "the King of Maceda one, the King of Bethel one,"
+        },
+        {
+          "verse": 17,
+          "text": "the King of Taphua one, the King of Opher one,"
+        },
+        {
+          "verse": 18,
+          "text": "the King of Aphec one, the King of Saron one,"
+        },
+        {
+          "verse": 19,
+          "text": "the King of Madon one, the King of Aſor one"
+        },
+        {
+          "verse": 20,
+          "text": "the King of Semeron one, the King of Acſaph one,"
+        },
+        {
+          "verse": 21,
+          "text": "the King of Thenac one, the King of Mageddo one,"
+        },
+        {
+          "verse": 22,
+          "text": "the King of Cades one, the King of Iachanan one,"
+        },
+        {
+          "verse": 23,
+          "text": "the King of Carmel one, the King of Dor, and of the prouince of Dor one, the King of the nations of Galgal one,"
+        },
+        {
+          "verse": 24,
+          "text": "the King of Therſa one: al the Kinges thirtie one.",
+          "notes": [
+            {
+              "label": "a",
+              "text": "Moyſes ſlew two kinges, & Ioſue thirtie one.",
+              "kind": "gloss"
+            }
+          ]
+        }
+      ],
+      "summary": "Beſides Sehon and Og kinges of Heſebon and Baſan ſlaine by Moyſes, 7. are reckened thirtie one kinges ſlaine by Ioſue."
+    },
+    {
+      "chapter": 13,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "IOSVE was old, and ſtriken in age, and our Lord ſaid to him: Thou art old, and of a great age, and there is a verie large countrie left, which is not yet diuided by lotte:",
+          "notes": [
+            {
+              "label": "1",
+              "text": "The third part. Partition of the land among nine tribes and a half.",
+              "kind": "head"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "to witte, al Galilee, Philiſthijm, and al Geſſuri."
+        },
+        {
+          "verse": 3,
+          "text": "From the trubled riuer, that watereth Ægypt, vnto the borders of Accaron againſt the North: the Land of Chanaan, which is diuided vnto fiue Lordes of the Philiſthiimes, the Gazeites, the Azotians, the Aſcalonites, the Getheites, and the Accaronites."
+        },
+        {
+          "verse": 4,
+          "text": "But on the South ſide are the Heueites, al the Land of Chanaan, and Maara of the Sidonians as farre as Apheca, and the borders of the Amorrheite,"
+        },
+        {
+          "verse": 5,
+          "text": "and his confines. The countrie alſo of Libanus againſt the Eaſt from Baalgad vnder mount Hermon, til thou enter into Emath."
+        },
+        {
+          "verse": 6,
+          "text": "Of al that dwel in the mountaine from Libanus, vnto the Waters Maſerephoth, and al the Sidonians. I am he that wil deſtroy them from the face of the children of Iſrael. Let it come therfore into a portion of the inheritance of Iſrael, as I haue commanded thee.",
+          "notes": [
+            {
+              "label": "a",
+              "text": "Theſe partes are deſigned though not yet conquered.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 7,
+          "text": "And now diuide the Land in poſſeſſion to the nine tribes, and to the half tribe of Manaſſes,"
+        },
+        {
+          "verse": 8,
+          "text": "with the which Ruben & Gad haue poſſeſſed the Land, which Moyſes the ſeruant of our Lord deliuered to them beyond the ſtreames of Iordan, on the eaſt ſide."
+        },
+        {
+          "verse": 9,
+          "text": "From Aroer, which is ſituate on the banke of the torrent Arnon, and in the middes of the valley, and al the champayne of Medaba, as farre as Dibon:"
+        },
+        {
+          "verse": 10,
+          "text": "and al the cities of Cehon, the King of the Amorrheite, which reigned in Heſebon vnto the borders of the children of Ammon."
+        },
+        {
+          "verse": 11,
+          "text": "And Galaad, and the border of Geſſuri and Maccati, and al mount Hermon, and al Baſan, as farre as Salecha,"
+        },
+        {
+          "verse": 12,
+          "text": "al the Kingdome of Og in Baſan, which reigned in Aſtaroth and Edrai, he was of the reliques of the Raphaims: and Moyſes ſtroke, and deſtroyed them."
+        },
+        {
+          "verse": 13,
+          "text": "And the children of Iſrael would not deſtroy Geſſuri and Machati: and they haue dwelt in the middes of Iſrael vntil this preſent day."
+        },
+        {
+          "verse": 14,
+          "text": "But to the tribe of Leui he gaue no poſſeſſion: but the ſacrifices and victimes of our Lord the God of Iſrael, that is his inheritance, as he ſpake to him."
+        },
+        {
+          "verse": 15,
+          "text": "Moyſes therfore gaue poſſeſſion to the children of Ruben according to their kinredes."
+        },
+        {
+          "verse": 16,
+          "text": "And their border was from Aroer, which is ſituate on the banke of the torrent Arnon, and in the middes of the valley of the ſame torrent: al the plaine, that leadeth to Medaba,"
+        },
+        {
+          "verse": 17,
+          "text": "and Heſebon, and al their villages, which are in the champayne. Dibon alſo, and Bamothbaal, and the towne"
+        },
+        {
+          "verse": 18,
+          "text": "Baalmaon, and Iaſſa, and Cedimoth, and Mephaath,"
+        },
+        {
+          "verse": 19,
+          "text": "and Cariathaim, and Sabama, and Sarathaſar in the mountaine of the Valley."
+        },
+        {
+          "verse": 20,
+          "text": "Bethfogor and Aſedoth, Phaſga and Bethieſimoth,"
+        },
+        {
+          "verse": 21,
+          "text": "and al the champayne cities, and al the Kingdomes of Sehon the King of the Amorrheite, that reigned in Heſebon, whom Moyſes ſtroke with the princes of Madian: the Heueite, & Recem, and Sur, and Hur, and Rebe Dukes of Sehon inhabitantes of the Land."
+        },
+        {
+          "verse": 22,
+          "text": "And Balaam the ſonne of Beor the ſoothſayer, did the children of Iſrael kil by the ſword with the reſt that were ſlayne."
+        },
+        {
+          "verse": 23,
+          "text": "And the riuer of Iordan was made the border of the children of Ruben. This is the poſſeſſion of the Rubenites by their kinredes of cities and villages."
+        },
+        {
+          "verse": 24,
+          "text": "And Moyſes gaue to the tribe of Gad and to his children poſſeſſion by their kinredes, the diuiſion wherof is this."
+        },
+        {
+          "verse": 25,
+          "text": "The border of Iaſer, and al the cities of Galaad, and the half part of the Land of the children of Ammon as farre as Aroer, which is againſt Rabba:",
+          "notes": [
+            {
+              "label": "b",
+              "text": "This part the Amorreites had taken and poſſeſſed: otherwiſe the Iſraelits were prohibited to take anie thing from the Ammonites. Deut 2.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 26,
+          "text": "and from Heſebon vnto Ramoth, Maſphe and Betonim: and from Manaim vnto the borders of Dabir."
+        },
+        {
+          "verse": 27,
+          "text": "In the valley alo Bethhara, and Bethnemra, and Socoth, and Saphon the other part of the Kingdom of Sehon the King of Heſebon: the end of this alſo is Iordan, vnto the vttermoſt part of the ſea Cenereth beyond Iordan on the eaſt ſide."
+        },
+        {
+          "verse": 28,
+          "text": "This is the poſſeſſion of the children of Gad by their families, their cities, and villages."
+        },
+        {
+          "verse": 29,
+          "text": "He gaue alſo to the half tribe of Manaſſes, and their children poſſeſſion according to their kinredes,"
+        },
+        {
+          "verse": 30,
+          "text": "the beginning wherof is this: from Manaim al Baſan, and al the kingdoms of Og the King of Baſan, and al the villages of Iair, which are in Baſan, threeſcore townes."
+        },
+        {
+          "verse": 31,
+          "text": "And the half part of Galaad, and Aſtaroth, and Edrai, cities of the kingdom of Og in Baſan: to the children of Machir, the ſonne of Manaſſes to the half patt of the children of Machir according to their kinredes."
+        },
+        {
+          "verse": 32,
+          "text": "This poſſeſſiō diuided Moyſes in the champayne countries of Moab, beyond Iordan, againſt Iericho on the Eaſt ſide."
+        },
+        {
+          "verse": 33,
+          "text": "But to the tribe of Leui he gaue no poſſeſſion: becauſe our Lord the God of Iſrael him ſelf is their poſſeſſion, as he ſpake to them."
+        }
+      ],
+      "summary": "God commandeth Ioſue to diuide the land (deſcribing the limites therof) amongſt nine tribes and a half. 8. With a recapitulation of the partes already geuen, on the other ſide Iordan, to the other two tribes and a half. The tribe of Leui (v. 14. & .33.) hath their prouiſion in other maner."
+    },
+    {
+      "chapter": 14,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "THIS is it, which the children of Iſrael poſſeſſed in the Land of Chanaan, which Eleazar the prieſt, and Ioſue the ſonne of Nun, & the princes of the families by the tribes of Iſrael gaue to them:"
+        },
+        {
+          "verse": 2,
+          "text": "diuiding al thinges by lotte, as our Lord had commanded in the hand of Moyſes, to the nine tribes, and the half tribe."
+        },
+        {
+          "verse": 3,
+          "text": "For to two tribes and a half Moyſes had geuen poſſeſſion beyond Iordan: beſides the Leuites, which receiued no land among their brethren:"
+        },
+        {
+          "verse": 4,
+          "text": "but into their place ſucceeded the children of Ioſeph diuided into two tribes, of Manaſſes and Ephraim: neither did the Leuites receiue other portion in the Land, but cities to inhabite, and their ſuburbes to feede their beaſtes and cattel.",
+          "notes": [
+            {
+              "label": "c",
+              "text": "The Leuites hauing their portion in other maner, yet there were twelue tribes to receiue portions, by reaſon that Iacob adopted Ioſephs two ſonnes. Gen. 48.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 5,
+          "text": "As our Lord had commanded Moyſes, ſo did the children of Iſrael, and they diuided the Land."
+        },
+        {
+          "verse": 6,
+          "text": "Therfore the children of Iuda came to Ioſue in Galgal, and Caleb the ſonne of Iephone the Cenezeite ſpake to him: Thou knoweſt what our Lord ſpake to Moyſes the man of God concerning me & thee in Cadesbarne."
+        },
+        {
+          "verse": 7,
+          "text": "Fourtie yeares old was I when Moyſes the ſeruant of our Lord ſent me from Cadesbarne, to view the Land, and I reported to him that which to me ſemed true."
+        },
+        {
+          "verse": 8,
+          "text": "But my brethren, that had gone vp with me, diſcouraged the hart of the people: and I neuertheles folowed our Lord my God."
+        },
+        {
+          "verse": 9,
+          "text": "And Moyſes ſware in that day, ſaying: The Land, which thy foote hath troden, shal be thy poſſeſſion, and thy childrens for euer, becauſe thou haſt folowed our Lord my God."
+        },
+        {
+          "verse": 10,
+          "text": "Our Lord therfore hath granted me life, as he promiſed vntil this preſent day. It is fourtie and fiue yeares, ſince our Lord ſpake this worde to Moyſes, when Iſrael walked through the wildernes: this day am I eightie and fiue yeares old",
+          "notes": [
+            {
+              "label": "d",
+              "text": "After the viewing of the land. Num. 13. the Iſraelites remained in the deſert. 38. yeares: ſo they were nere ſeuen yeares in warres.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 11,
+          "text": "ſo luſtie, as I was at that time when I was ſent to view: the ſtrength of that time contineweth in me vntil this day, as wel to fight as to goe."
+        },
+        {
+          "verse": 12,
+          "text": "Geue me therfore this mountaine, which our Lord promiſed, thy ſelfe alſo hearing it, wherein are the Enacims, and great cities and fenſed: if perhaps our Lord be with me, and I shal be able to deſtroy them, as he promiſed me.",
+          "notes": [
+            {
+              "label": "e",
+              "text": "Gods promiſe is euer ſure on his part, but becauſe it is conditional, if we ſerue him ſincerly, our wil being free, he ſaith: If perhaps our Lord be vvith me.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 13,
+          "text": "And Ioſue bleſſed him, and deliuered to him Hebron in poſſeſſion"
+        },
+        {
+          "verse": 14,
+          "text": "And from thence forth Hebron belonged to Caleb the ſonne of Iephone the Cenezeite, vntil this preſent day: becauſe he folowed our Lord the God of Iſrael.",
+          "notes": [
+            {
+              "label": "f",
+              "text": "Onlie the countrie of Hebron was geuen to Caleb, for the citie it ſelf and ſuburbes belonged to the Prieſtes. chap. 21. v. 11.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 15,
+          "text": "The name of Hebron before was called Cariath Arbe: Adam the greateſt among the Enacims was layd there: and the Land ceaſed from battels.",
+          "notes": [
+            {
+              "label": "g",
+              "text": "See before. chap. 11. v. 23.",
+              "kind": "gloss"
+            }
+          ]
+        }
+      ],
+      "summary": "Caleb of the tribe of Iuda (ſeing ſome knew their lottes already, and that the whole land was now to be diuided) 6. demandeth, according to Gods promiſe made by Moyſes (for his true and good report of the ſame land, when he with others viewed it) that Hebron be geuen him, and his ſeede to inherite, 13. Which Ioſue confirmeth vnto him."
+    },
+    {
+      "chapter": 15,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "THERFORE the lotte of the children of Iudas by their kinredes was this: From the border of Edom, vnto the deſert of Sin againſt the South, and vnto the vttermoſt part of the ſouth coaſte."
+        },
+        {
+          "verse": 2,
+          "text": "the beginning therof was from the toppe of the moſt ſalt ſea, and from the brinke therof, that looketh to the South."
+        },
+        {
+          "verse": 3,
+          "text": "And it goeth forth againſt the Aſcent of the Scorpion, and paſſeth through into Sina: and ryſeth vp into Cadesbarne, & reacheth into Eſron, aſcending to Addar, and cōpaſſing Carcaa,"
+        },
+        {
+          "verse": 4,
+          "text": "and thence paſſing through into Aſemona, and reaching to the Torrent of Ægypt: and the borders therof shal be the great ſea. this ſhal be the end of the ſouth coaſt."
+        },
+        {
+          "verse": 5,
+          "text": "But on the Eaſt ſide the beginning shal be the moſt ſalt ſea vnto the vtmoſt partes of Iordan: and thoſe places that looke to the North from the brinke of the ſea vnto the ſame riuer of Iordan."
+        },
+        {
+          "verse": 6,
+          "text": "And the border goeth vp into Beth hagla, and paſſeth from the north into Beth Araba: aſcending to the ſtone of Bohen the ſonne of Ruben."
+        },
+        {
+          "verse": 7,
+          "text": "And reaching as farre as the borders of Debera from the Valley of Achor, againſt the North looking toward Galgal, which is oppoſite to the Aſcent of Adommim, on the ſouth ſide of the torrent: and paſſeth the waters, that are called The Fountayne of the ſunne: and the endes therof shal be to the Fountayne rogel."
+        },
+        {
+          "verse": 8,
+          "text": "And it aſcendeth by the valley of the ſunne of Ennom on the ſide of the Iebuſeite toward the South, this is Ieruſalem: and thence rearing it ſelf to the toppe of the mountayne, which is againſt Geennom toward the Weſt in the toppe of the Valley of Raphaim againſt the North."
+        },
+        {
+          "verse": 9,
+          "text": "And it paſſeth through from the toppe of the mountaine to the fountaine of the water Nephtoa: and reacheth to the townes of mount Ephron: and bendeth into Baala, which is Cariathiarim, that is to ſay, a citie of wooddes."
+        },
+        {
+          "verse": 10,
+          "text": "And it compaſſeth from Baala againſt the Weſt, vnto mount Seir: and paſſeth by the ſide of mount Iarim toward the North into Cheſlon: and goeth downe into Bethſames, and paſſeth into Thamna."
+        },
+        {
+          "verse": 11,
+          "text": "And it reacheth toward the North coaſt of a part of Accaron at the ſide: and bendeth to Sechrona, and paſſeth mount Baala: and cometh into Iebneel, and is shut vp with the end of the great ſea toward the Weſt."
+        },
+        {
+          "verse": 12,
+          "text": "Theſe are the borders of the children of Iudas in circuite in their kinredes."
+        },
+        {
+          "verse": 13,
+          "text": "But to Caleb the ſonne of Iephone he gaue a portion in the middes of the children of Iudas, as our Lord had commanded him: Cariath Arbe the father of Enac, that is Hebron."
+        },
+        {
+          "verse": 14,
+          "text": "And Caleb deſtroyed out of it the three ſonnes of Enac, Seſai and Ahiman & Tholmai of the ſtocke of Enac."
+        },
+        {
+          "verse": 15,
+          "text": "And from thence going vp he came to the inhabitantes of Dabir, which before was called Cariath ſepher, that is to ſay, a citie of letters."
+        },
+        {
+          "verse": 16,
+          "text": "And Caleb ſaid: He that shal ſtrike Cariath-ſepher, and take it, I wil geue him Axa my daughter to wife."
+        },
+        {
+          "verse": 17,
+          "text": "And Othoniel the ſonne of Cenez, the yonger brother of Caleb tooke it: and he gaue him Axa his daughter to wife",
+          "notes": [
+            {
+              "label": "a",
+              "text": "Though it was prohibited that the nephew ſhould marie his aunt, yet the vncle was not expreſly forbid to marie his neece by Moyſes law. Leuit. 18. And albeit there is the ſame degree of conſanguinitie, yet not the ſame incōuenience, by reaſon the ſame perſon remaineth ſubiect, that was inferior before mariage.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 18,
+          "text": "Who going together, she was moued by her husband to aske a field of her father, and ſhe ſighed as she ſate on her aſſe. To whom Calcb ſaid: What aileth thee?"
+        },
+        {
+          "verse": 19,
+          "text": "But she anſwered: Geue me a bleſſing: a South and drie Land thou haſt geuen me, ioyne alſo a waterie. Caleb therfore gaue her a waterie ground aboue & beneath.",
+          "notes": [
+            {
+              "label": "b",
+              "text": "Becauſe ordinarily the ſouth part of the world is more drie and barren then other partes, a barren place is called a ſouth land, in reſpect of more fertile ground.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 20,
+          "text": "This is the poſſeſſion of the tribe of the children of Iudas by their kinredes."
+        },
+        {
+          "verse": 21,
+          "text": "And the cities from the vttermoſt partes of the children of Iudas by the borders of Edom on the South: were Gabſeel and Eder and Iagur,"
+        },
+        {
+          "verse": 22,
+          "text": "and Cina and Dimona and Adada,"
+        },
+        {
+          "verse": 23,
+          "text": "and Cades, and Aſor, and Iethnan,"
+        },
+        {
+          "verse": 24,
+          "text": "Ziph and Telem and Baloth,"
+        },
+        {
+          "verse": 25,
+          "text": "Aſor the new and Carioth, Heſron, this is Aſor."
+        },
+        {
+          "verse": 26,
+          "text": "Amam, Sama, and Molada,"
+        },
+        {
+          "verse": 27,
+          "text": "and Aſergadda and Haſſemon and Bethphelet,"
+        },
+        {
+          "verse": 28,
+          "text": "and Haſerſual and Berſabee and Baziothia"
+        },
+        {
+          "verse": 29,
+          "text": "and Baala and Iim an Eſem,"
+        },
+        {
+          "verse": 30,
+          "text": "and Eltholad and Ceſil and Harma"
+        },
+        {
+          "verse": 31,
+          "text": "and Siceleg, and Medemena and Senſenna,"
+        },
+        {
+          "verse": 32,
+          "text": "Labaoth and Selim and Aen and Remon. al the cities twentie nine, and their villages."
+        },
+        {
+          "verse": 33,
+          "text": "But in the champayne countries: Eſtaol and Sarea and Aſena,"
+        },
+        {
+          "verse": 34,
+          "text": "and Sanoe & Engannim and Taphua and Enaim,"
+        },
+        {
+          "verse": 35,
+          "text": "and Ierimoth, and Adullam, Socho and Azeca,"
+        },
+        {
+          "verse": 36,
+          "text": "and Saraim and Adithaim and Gedera and Gederothaim: fourteene cities, and their villages."
+        },
+        {
+          "verse": 37,
+          "text": "Sanan and Hadaſta and Magdalgad,"
+        },
+        {
+          "verse": 38,
+          "text": "Delean and Maſepha and Iecthel,"
+        },
+        {
+          "verse": 39,
+          "text": "Lachis and Baſcath and Eglon,"
+        },
+        {
+          "verse": 40,
+          "text": "Chebbon and Leheman and Cethlis"
+        },
+        {
+          "verse": 41,
+          "text": "and Gideroth and Bethdagon and Naama and Maceda: ſixtene cities, and their villages."
+        },
+        {
+          "verse": 42,
+          "text": "Labana and Ether and Aſan,"
+        },
+        {
+          "verse": 43,
+          "text": "Iephtha and Eſna and Neſib,"
+        },
+        {
+          "verse": 44,
+          "text": "and Ceila and Achzib and Mareza: nine cities, and their villages."
+        },
+        {
+          "verse": 45,
+          "text": "Accaron with the townes and villages therof."
+        },
+        {
+          "verse": 46,
+          "text": "From Accaron vnto the ſea: al places that bend toward Azotus and the villages therof."
+        },
+        {
+          "verse": 47,
+          "text": "Azotus with the townes and villages therof. Gaza with the townes and villages therof, vnto the torrent of Ægypt, and the great ſea is the border therof."
+        },
+        {
+          "verse": 48,
+          "text": "And in the mountayne: Samir and Iether and Socoth"
+        },
+        {
+          "verse": 49,
+          "text": "and Danna and Cariath ſenna, this is Dabir:"
+        },
+        {
+          "verse": 50,
+          "text": "Anab and Iſtemo and Anim,"
+        },
+        {
+          "verse": 51,
+          "text": "Goſen and Olon and Gilo: eleuen cities and their villages."
+        },
+        {
+          "verse": 52,
+          "text": "Arab and Ruma and Eſaan,"
+        },
+        {
+          "verse": 53,
+          "text": "and Ianum and Beth thaphua and Apheca,"
+        },
+        {
+          "verse": 54,
+          "text": "Athmatha and Cariath-arbe, this is Hebron, and Sior: nine cities and their villages."
+        },
+        {
+          "verse": 55,
+          "text": "Maon and Carmel and Ziph and Iota,"
+        },
+        {
+          "verse": 56,
+          "text": "Iezrael and Iucadam and Zanoe,"
+        },
+        {
+          "verse": 57,
+          "text": "Accain, Gabaa and Thamna: ten cities and their villages."
+        },
+        {
+          "verse": 58,
+          "text": "Halhul, and Bethſur, and Gedor,"
+        },
+        {
+          "verse": 59,
+          "text": "Mareth, and Beth-anoth, & Eltecon: ſix cities and their villages."
+        },
+        {
+          "verse": 60,
+          "text": "Cariathbaal, this is Cariathiarim the citie of wooddes, and Arebba: two cities and their villages."
+        },
+        {
+          "verse": 61,
+          "text": "In the deſert Beth-araba, meddin, and Sachacha,"
+        },
+        {
+          "verse": 62,
+          "text": "and Nebſan, and the citie of ſalt, and Engaddi: ſix cities, and their villages."
+        },
+        {
+          "verse": 63,
+          "text": "But the Iebuſeite the inhabitant of Ieruſalem the children of Iudas could not deſtroy: and the Iebuſeite dwelt with the children of Iudas in Ieruſalem vntil this preſent day.",
+          "notes": [
+            {
+              "label": "c",
+              "text": "The Iebuſeites kept a ſtrong caſtle in Ieruſalem, til king Dauid tooke it from them. 2. Reg. 5.",
+              "kind": "gloss"
+            }
+          ]
+        }
+      ],
+      "summary": "The borders of the lotte of Iuda, 13. including Calebs particular inheritance (16. out of which he geueth Cariath Sepher, and his daughter to Othoniel, for winning it:) 21. with the names of the cities therof. 63. the Iebuſeite yet dwelling with Iuda in Hieruſalem."
+    },
+    {
+      "chapter": 16,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "THE lotte alſo of the children of Ioſeph fel from Iordan againſt Iericho and the Waters therof, on the eaſt: the wildernes which goeth vp from Iericho to the mountaine of Bethel:",
+          "notes": [
+            {
+              "label": "a",
+              "text": "Rnben for the ſinne of inceſt loſing the priuelegies of birthright (Gen. 49.) Prieſthood was geuen to Leui, the kingdome to Iuda, and duble portion to Ioſeph. Paraphr. Chald.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "and goeth out from Bethel to Luza: and paſſeth the border of Archia, to Atharoth."
+        },
+        {
+          "verse": 3,
+          "text": "And deſcendeth Weſtward, by the border of Iephleti, vnto the borders of Beth horon the lower, and to Gazer: and their countries are ended by the great ſea:"
+        },
+        {
+          "verse": 4,
+          "text": "and Manaſſes and Ephraim the children of Ioſeph poſſeſſed it."
+        },
+        {
+          "verse": 5,
+          "text": "And the border of the children of Ephraim was made according to their kinredes: and their poſſeſſion toward the Eaſt was Ataroth addar vnto Beth-horon the higher."
+        },
+        {
+          "verse": 6,
+          "text": "And the confines goe out vnto the ſea: but Machmethath looketh to the North, and it compaſſeth the borders againſt the Eaſt into Thanath-ſelo: and paſſeth through on the Eaſt ſide to Ianoe."
+        },
+        {
+          "verse": 7,
+          "text": "and it goeth downe from Ianoe into Ataroth & Naaratha: and it cometh into Iericho, and goeth out to Iordan."
+        },
+        {
+          "verse": 8,
+          "text": "From Taphua it paſſeth through againſt the ſea into the Valley of reedes, and the iſſues therof are into the moſt ſalt ſea. this is the poſſeſſion of the tribe of the children of Ephraim by their families."
+        },
+        {
+          "verse": 9,
+          "text": "And cities with their villages were ſeparated to the children of Ephraim in the middes of the poſſeſſion of the children of Manaſſes,"
+        },
+        {
+          "verse": 10,
+          "text": "and the children of Ephraim ſlew not the Chananeite, which dwelt in Gazer: and the Chananeite dwelt in the middes of Ephraim vntil this day tributarie."
+        }
+      ],
+      "summary": "The tribe of Ephraim, (younger ſonne of Ioſeph) receiue their lotte. 10. The Chananeite yet dwelleth with them paying tribute."
+    },
+    {
+      "chapter": 17,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "AND this lotte fel to the tribe of Manaſſes (for he is the firſt borne of Ioſeph) to Machir the firſt borne of Manaſſes the father of Galaad, who was a warlike man, and had for poſſeſſion Galaad and Baſan:"
+        },
+        {
+          "verse": 2,
+          "text": "and to the reſt of the children of Manaſſes according to their families, to the children of Abiezer, and to the children of Helec, and to the children of Eſriel, and to the children of Sechem, and to the children of Hepher, and to the children of Semida. theſe are the children of Manaſſes the ſonne of Ioſeph, males by their kinredes."
+        },
+        {
+          "verse": 3,
+          "text": "But Salphaad the ſonne of Hepher the ſonne of Galaad the ſonne of Machir the ſonne of Manaſſes had no ſonnes, but onlie daughters: whoſe names be theſe, Maala, and Noa and Hegla and Melcha and Therſa."
+        },
+        {
+          "verse": 4,
+          "text": "And they came in the preſence of Eleazar the prieſt, and of Ioſue the ſonne of Nun, and of the princes, ſaying: Our Lord commanded by the hand of Moyſes, that a poſſeſſion should be geuen vs in the middes of our brethren. And he gaue them according to the commandement of our Lord a poſſeſſion in the middes of their fathers brethren."
+        },
+        {
+          "verse": 5,
+          "text": "And the cordes fel to Manaſſes ten, beſide the Land of Galaad and Baſan beyond Iordan."
+        },
+        {
+          "verse": 6,
+          "text": "For the daughters of Manaſſes poſſeſſed inheritance in the middes of his ſonnes. And the Land of Galaad fel to the lotte of the children of Manaſſes that remayned."
+        },
+        {
+          "verse": 7,
+          "text": "And the border of Manaſſes from Aſer, was Machmathath which looketh to Sichem: and goeth out on the right hand beſide the inhabitantes of the Fountaine of Taphua."
+        },
+        {
+          "verse": 8,
+          "text": "For in the lotte of Manaſſes was fallen the Land of Taphua, which is beſide the borders of Manaſſes, the childrens of Ephraim.",
+          "notes": [
+            {
+              "label": "a",
+              "text": "The land or territorie of Taphua falling to the lotte of Manaſſes, yet Taphua (that is the citie it ſelfe) was the childrens of Ephraim.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "text": "And the border of the Reede valley went downe into the ſouth of the torrent of the cities of Ephraim, which are in the middes of the cities of Manaſſes: the border of Manaſſes on the North of the torrent, and the iſſue therof goeth to the ſea:"
+        },
+        {
+          "verse": 10,
+          "text": "ſo that the poſſeſſion of Ephraim is on the South, and on the North of Manaſſes, and the ſea incloſeth both, and they be ioyned one to an other in the tribe of Aſer on the Noth, and in the tribe of Iſſachar on the Eaſt."
+        },
+        {
+          "verse": 11,
+          "text": "And the inheritance of Manaſſes in Iſſachar and in Aſer was Bethſan and the villages therof, and Ieblaam with the villages therof, and the inhabitantes of Dor, with the townes therof, the inhabitantes alſo of Endor with the townes therof. and in like maner the inhabitantes of Thenac with the townes therof, and the inhabitantes of Mageddo with the townes therof, and the third part of the citie of Nopheth."
+        },
+        {
+          "verse": 12,
+          "text": "Neither could the children of Manaſſes ouerthrow the cities, but the Chananeite began to dwel in his Land.",
+          "notes": [
+            {
+              "label": "b",
+              "text": "The Chananeite remained in the Land of Manaſſes, for a time.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 13,
+          "text": "But after that the children of Iſrael grew to be ſtrong, they ſubdewed the Chananeites, and made them their tributaries, neither did they kil them."
+        },
+        {
+          "verse": 14,
+          "text": "And the children of Ioſeph ſpake to Ioſue, and ſaid: Why haſt thou geuen me the poſſeſſion of one lotte and corde, wheras I am of ſo great a multitude, and our Lord hath bleſſed me?"
+        },
+        {
+          "verse": 15,
+          "text": "To whom Ioſue ſaid: If thou be a great people, goe vp into the wood, and cutte thee roome in the Land of the Pherezeite and Raphaims: becauſe the poſſeſſion of mount Ephraim is narrow for thee."
+        },
+        {
+          "verse": 16,
+          "text": "To whom the children of Ioſeph anſwered: We can not goe vp to the mountaines, wheras the Chananeite that dwel in the champayne countrie, wherein are ſituated Bethſan with the townes therof, and Iezrael poſſeſſing the middes of the valley, vſe yron chariottes."
+        },
+        {
+          "verse": 17,
+          "text": "And Ioſue ſaid to the houſe of Ioſeph, of Ephraim and Manaſſes: Thou art a great people, and of great ſtrength, thou shalt not haue one lotte,"
+        },
+        {
+          "verse": 18,
+          "text": "but thou shalt paſſe to the mountaine, and shalt cutte and make glades for thee to inhabite: and mayeſt procede farder, when thou haſt ſubuerted the Chananeite, whom thou ſayeſt to haue yron chariotes, and to be very ſtrong."
+        }
+      ],
+      "summary": "The half tribe of Manaſſes (eldeſt ſonne of Ioſeph) receiue their lotte. 3. including the daughters of Salphaad. 14. With an enlargement of inheritance to the ſame tribes of Ephraim and Manaſſes."
+    },
+    {
+      "chapter": 18,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "AND al the children of Iſrael were aſſembled in Silo, and there they pitched the tabernacle of the teſtimony, and the Land was ſubdewed to them."
+        },
+        {
+          "verse": 2,
+          "text": "But there remained ſeuen tribes of the children of Iſrael, which as yet had not receiued their poſſeſſions."
+        },
+        {
+          "verse": 3,
+          "text": "To whom Ioſue ſaid: How long are you ſlack with cowardenes, and enter not to poſſeſſe the Land, which our Lord the God of your fathers hath geuen you?"
+        },
+        {
+          "verse": 4,
+          "text": "Chooſe of euerie tribe three men, that I may ſend them, and they may goe and circuite the Land, and marke it out according to the number of euerie multitude: and report vnto me that which they haue marked out.",
+          "notes": [
+            {
+              "label": "a",
+              "text": "Not equal but proportionable partes were aſſigned, for ſo it was commanded. Num. 26. v. 54. To the greater number to geue a greater portion, and to the fewer a leſſe.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 5,
+          "text": "Diuide vnto you the Land into ſeuen partes: let Iudas be in his boundes on the ſouth quarter, and the houſe of Ioſeph on the North."
+        },
+        {
+          "verse": 6,
+          "text": "the Land in the middes betwen theſe marke out into ſeuen partes: and you shal come hither to me, that before our Lord your God I may caſt the lotte for you:",
+          "notes": [
+            {
+              "label": "b",
+              "text": "After the portions were appointed by mens induſtrie & diſcretion, God confirmed the ſame by lotte, to take away al occaſion of diſcontentment.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 7,
+          "text": "for the Leuites part is not among you, but the prieſthood of our Lord is their inheritance. And Gad and Ruben, and the half tribe of Manaſſes had now receiued their poſſeſſions beyond Iordan at the Eaſt ſide: which Moyſes the ſeruant of our Lord gaue them."
+        },
+        {
+          "verse": 8,
+          "text": "And when the men were ryſen vp, that they might goe to marke out the land, Ioſue commanded them, ſaying: Circuite the Land and marke it out, and returne to me: that here before our Lord, in Silo I may caſt the lotte for you"
+        },
+        {
+          "verse": 9,
+          "text": "They therfore went on: and going ouer it, diuided it into ſeuen partes, writing it in a volume. And they returned to Ioſue into the campe in Silo."
+        },
+        {
+          "verse": 10,
+          "text": "Who did caſt lottes before our Lord in Silo, and diuided the Land to the children of Iſrael into ſeuen partes."
+        },
+        {
+          "verse": 11,
+          "text": "And firſt came vp the lotte of the children of Beniamin by their families, to poſſeſſe the Land betwen the children of Iudas and the children of Ioſeph."
+        },
+        {
+          "verse": 12,
+          "text": "And their border was againſt the North from Iordan: going forward by the ſide of Iericho on the north quarter, and thence Weſtward ryſing vp vnto the mountaines, and reaching to the wildernes of Bethauen,"
+        },
+        {
+          "verse": 13,
+          "text": "& paſſing through by Luza to the South, the ſame is Bethel: and goeth downe into Ataroth addar vnto the mountaine, that is on the South of Bethhoron the lower."
+        },
+        {
+          "verse": 14,
+          "text": "And it bendeth compaſſing againſt the ſea, Southward of the mountaine that looketh to Bethhoron againſt the South: and the iſſues therof are into Cariathbaal, which is called alſo Cariathbaal which is called alſo Cariathiarim, a citie of the children of Iudas. This is their coaſt againſt the ſea, toward the Weſt."
+        },
+        {
+          "verse": 15,
+          "text": "But on the South from part of Cariathiarim the border iſſueth forth againſt the ſea, and cometh to the fountaine of the waters of Nephtoa."
+        },
+        {
+          "verse": 16,
+          "text": "And it goeth downe into part of the mountaine that looketh toward the Valley of the children of Ennom: and is againſt the north quarter in the vttermoſt part of the Valley raphaim, And it goeth downe into Gehennom (that is, the valley of Ennom) by the ſide of the Iebuſeite to the South: and cometh to the Fountaine of Rogel,"
+        },
+        {
+          "verse": 17,
+          "text": "paſſing to the north, and going forth to Enſemes, that is to ſay, the fountaine of the ſunne:"
+        },
+        {
+          "verse": 18,
+          "text": "and it paſſeth vnto the litle hilles, that are againſt the aſcent of Adommim: and goeth downe to Abenboen, that is, the ſtone of Boen the ſonne of Ruben: and it paſſeth on the north ſide to the champaine countries: and goeth downe into the playne,"
+        },
+        {
+          "verse": 19,
+          "text": "and paſſeth by againſt the North of Bethagla: and the iſſues therof are againſt the brincke of the moſt ſalt ſea on the North in the end of Iordan to the ſouth quarter:"
+        },
+        {
+          "verse": 20,
+          "text": "which is the border therof on the Eaſt. This is the poſſeſſion of the children of Beniamin by their borders round about, and their families."
+        },
+        {
+          "verse": 21,
+          "text": "And their cities were, Iericho and Bethhagla and Vallis Caſis,"
+        },
+        {
+          "verse": 22,
+          "text": "Beth Araba and Samaraim and Bethel,"
+        },
+        {
+          "verse": 23,
+          "text": "and Auim and Aphara and Ophera,"
+        },
+        {
+          "verse": 24,
+          "text": "Towne Emona and Ophni and Gabee: twelue cities, & their townes."
+        },
+        {
+          "verse": 25,
+          "text": "Gabaon and Rama and Beroth,"
+        },
+        {
+          "verse": 26,
+          "text": "and Meſphe, and Caphara, and Amoſa,"
+        },
+        {
+          "verse": 27,
+          "text": "and Recem, Iarephel and Tharela,"
+        },
+        {
+          "verse": 28,
+          "text": "and Sela, Eleph, and Iebus, which is Ieruſalem, Gabaath and Cariath: fourteenne cities, and their townes. This is the poſſeſſion of the children of Beniamin by their families."
+        }
+      ],
+      "summary": "From the campe of Iſrael in Silo ſurueyers are ſent to diuide the reſt of the Land into ſeuen partes, for the ſeuen tribes yet without portions. 10. VVhich being donne, Ioſue caſteth lottes for them, 11. and the firſt lotte falleth to Beniamim, 12. whoſe part is deſcribed by the limites, 21. with the names of the principal cities."
+    },
+    {
+      "chapter": 19,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "AND the ſecond lotte came forth of the children of Simeon by their kinreddes: and their inheritance was,"
+        },
+        {
+          "verse": 2,
+          "text": "in the middes of the poſſeſſion of the children of Iudas: Berſabee and Sabee and Molada,"
+        },
+        {
+          "verse": 3,
+          "text": "and Haſerſual, Bala and Aſem,"
+        },
+        {
+          "verse": 4,
+          "text": "and Eltholad, Bethul and Harma,"
+        },
+        {
+          "verse": 5,
+          "text": "and Siceleg and Bethmarchaboth and Haſerſuſa,"
+        },
+        {
+          "verse": 6,
+          "text": "and Bethlebaoth and Sarohen: thirtene cities, and their townes."
+        },
+        {
+          "verse": 7,
+          "text": "Ain and Remmon and Athor and Aſan: foure cities, and their townes:"
+        },
+        {
+          "verse": 8,
+          "text": "al the litle townes round about theſe cities vnto Baalath Beer Ramath againſt the ſouth quarter. This is the inheritance of the children of Simeon according to their kinredes,"
+        },
+        {
+          "verse": 9,
+          "text": "in the poſſeſſion and corde of the children of Iudas: becauſe it was greater. and therfore the children of Simeon poſſeſſed in the middes of their inheritance."
+        },
+        {
+          "verse": 10,
+          "text": "And the third lotte fel of the children of Zabulon by their kinredes: and the border of their poſſeſſion was made as farre as Sarid."
+        },
+        {
+          "verse": 11,
+          "text": "And it went vp from the ſea and Merala, and came into Debbaſeth: as farre as the torrent, which is againſt Ieconam."
+        },
+        {
+          "verse": 12,
+          "text": "And it returneth from Sared againſt the Eaſt into the endes of Ceſeleth thabor: and it goeth out to Dabereth, and ryſeth vp againſt Iaphie."
+        },
+        {
+          "verse": 13,
+          "text": "And thence it paſſeth along to the eaſt ſide of Geth hepher and Thacaſim: and goeth out into Remmon, Amthar and Noa."
+        },
+        {
+          "verse": 14,
+          "text": "And it compaſſeth to the North of Hanathon: and the iſſues therof are the valley Iephtahel,"
+        },
+        {
+          "verse": 15,
+          "text": "and Cateth and Naalol and Semeron and Ierala and Bethlehem: twelue cities, and their townes."
+        },
+        {
+          "verse": 16,
+          "text": "This is the inheritance of the tribe of the children of Zabulon by their kinredes, the cities and their litle townes."
+        },
+        {
+          "verse": 17,
+          "text": "The fourth lotte came forth to Iſſachar by their kinredes."
+        },
+        {
+          "verse": 18,
+          "text": "and his inheritance was Iezrael and Caſaloth and Sunem,"
+        },
+        {
+          "verse": 19,
+          "text": "and Hapharaim and Sehon, and Anaharath"
+        },
+        {
+          "verse": 20,
+          "text": "and Rabboth and Ceſion, Abes,"
+        },
+        {
+          "verse": 21,
+          "text": "and Rameth, and Engannim, and Enhadda and Bethpheſes."
+        },
+        {
+          "verse": 22,
+          "text": "And the border therof cometh to Thabor and Scheſema and Bethſames: and their iſſues were Iordan: ſixtene cities, and their townes."
+        },
+        {
+          "verse": 23,
+          "text": "This is the poſſeſſion of Iſſachar by their kinredes, the cities, and their litle townes."
+        },
+        {
+          "verse": 24,
+          "text": "And the fifth lotte fel to the tribe of the children of Aſer by their kinredes:"
+        },
+        {
+          "verse": 25,
+          "text": "and their border was Halcath and Chali and Beten and Axaph,"
+        },
+        {
+          "verse": 26,
+          "text": "and Elmelec and Amaad and Meſſal: and it reacheth to Carmel of the ſea and Sihor and Labanath."
+        },
+        {
+          "verse": 27,
+          "text": "And it returneth againſt the eaſt of Bethdagon: and paſſeth along to Zabulon and the Valley Iephthael againſt the North into Bethemec and Nehiel. And it goeth out to the left ſide of Cabul,"
+        },
+        {
+          "verse": 28,
+          "text": "and Abran and Rohob and Hamon and Cana, as farre as great Sidon."
+        },
+        {
+          "verse": 29,
+          "text": "And it returneth into Horma vnto the verie wel fenſed citie Tyre, and vnto Hoſa: and the iſſues therof shal be into the ſea from the corde of Achziba:"
+        },
+        {
+          "verse": 30,
+          "text": "and Amma and Aphec and Rohob. cities twentie two, and their townes."
+        },
+        {
+          "verse": 31,
+          "text": "This is the poſſeſſion of the children of Aſer by their kinredes, and the cities and their townes."
+        },
+        {
+          "verse": 32,
+          "text": "Of the ſonnes of Nepthali fel the ſixt lotte by their families:"
+        },
+        {
+          "verse": 33,
+          "text": "and the border beganne from Heleph and Elon into Saanaim, and Adami, which is Neceb, and Iebnael vnto Lecum: and their iſſues vnto Iordan:"
+        },
+        {
+          "verse": 34,
+          "text": "and the border returneth againſt the Weſt into Azanoththabor, and thence goeth out into Hucuca, and paſſeth along into Zabulon againſt the South, and into Azer againſt the Weſt, and into Iuda vnto Iordan againſt the riſing of the ſunne."
+        },
+        {
+          "verse": 35,
+          "text": "cities very wel fenſed, Aſſedim, Ser, and Emath, and Reccath and Cenereth,"
+        },
+        {
+          "verse": 36,
+          "text": "and Edema and Arama, Aſor"
+        },
+        {
+          "verse": 37,
+          "text": "and Cedes and Edrai, Enhaſor"
+        },
+        {
+          "verse": 38,
+          "text": "and Ieron and Magdalel, Horem and Bethanath and Bethſames: ninetene cities, and their townes."
+        },
+        {
+          "verse": 39,
+          "text": "This is the poſſeſſion of the tribe of the children of Nephthali by their kinredes, the cities and their townes."
+        },
+        {
+          "verse": 40,
+          "text": "To the tribe of the children of Dan by their families came forth the ſeuenth lotte:"
+        },
+        {
+          "verse": 41,
+          "text": "and the border of their poſſeſſion was Sara and Eſthaol, and Hiriſemes, that is the ſunne."
+        },
+        {
+          "verse": 42,
+          "text": "Selebin and Aialon and Iethela,"
+        },
+        {
+          "verse": 43,
+          "text": "Elon and Themna and Acron,"
+        },
+        {
+          "verse": 44,
+          "text": "Elthece, Gebbethon and Balaath,"
+        },
+        {
+          "verse": 45,
+          "text": "and Iud and Bane and Barac and Gethremmon:"
+        },
+        {
+          "verse": 46,
+          "text": "and Meiarcon & Arecon, with the border that looketh toward Ioppe,"
+        },
+        {
+          "verse": 47,
+          "text": "and is shut vp with the ſame end. And the children of Dan went vp, and fought againſt Leſem, and they tooke it: and they ſtroke it in the edge of the ſword, and poſſeſſed, and dwelt in it, calling the name of it Leſem Dan, by the name of Dan the father therof."
+        },
+        {
+          "verse": 48,
+          "text": "This is the poſſeſſion of the tribe of the ſonnes of Dan, by their kinredes, the cities and their townes."
+        },
+        {
+          "verse": 49,
+          "text": "And when he had made an end of diuiding the Land by lotte to euerie one by their tribes, the children of Iſrael gaue poſſeſſion to Ioſue the ſonne of Nun in the middes of them,",
+          "notes": [
+            {
+              "label": "a",
+              "text": "Of modeſtie Ioſue would not aſſigne to him ſelf anie place, but the whole people freely granted his requeſt.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 50,
+          "text": "according to the commandement of our Lord, the citie which he requeſted, Thamnath Saraa in mount Ephraim: and he built the citie, and dwelt in it."
+        },
+        {
+          "verse": 51,
+          "text": "Theſe are the poſſeſſions, which Eleazar the prieſt, and Ioſue the ſonne of Nun, and the princes of the families, and of the tribes of the children of Iſrael, diuided by lotte in Silo, before our Lord at the doore of the tabernacle of teſtimonie, and they parted the Land."
+        }
+      ],
+      "summary": "The ſecond lotte falleth to the tribe of Simeon, the ſituation of whoſe inheritance is deſcribed, with the names of their principal cities. 10. The third in like ſorte, to Zabulon. 17. The fourth to Iſſachar. 24. The fifth to Aſer. 32. The ſixt to Nepthali. 40. And the ſeuenth to Dan. 49. Al the Land being diſtributed among the tribes, with common conſent they geue a ſpecial citie to Ioſue, in the middes of them."
+    },
+    {
+      "chapter": 20,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "AND our Lord ſpake to Ioſue, ſaying: Speake to the children of Iſrael, and ſay to them:"
+        },
+        {
+          "verse": 2,
+          "text": "Separate the cities of the fugitiues, of the which I ſpake to you by the hand of Moyſes;"
+        },
+        {
+          "verse": 3,
+          "text": "that he may flee to them whoſoeuer shal ſtrike a ſoule vnwitting: and may eſcape the wrath of the nigh kinſeman, which is the reuenger of bloud:"
+        },
+        {
+          "verse": 4,
+          "text": "when he shal be fled to one of theſe cities: he shal ſtand before the gate of the citie, and shal ſpeake to the ancientes of that citie thoſe thinges, that may proue him ſelfe innocent: and ſo they shal receiue him, and geue him place to inhabite.",
+          "notes": [
+            {
+              "label": "a",
+              "text": "At firſt entering it ſufficed to allege in general his innocencie, but after he muſt be tried in particular.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 5,
+          "text": "And when the reuenger of the bloud shal purſew him, they shal not deliuer him into his handes: becauſe he ſtroke his neighbour by ignorance, neitheir is he proued to be his enemie two or three dayes before."
+        },
+        {
+          "verse": 6,
+          "text": "And he shal dwel in that citie, til he ſtand before iudgement rendring a cauſe of his fact, and the high prieſt die, which shal be at that time: then shal the manſlaer returne, and enter into the citie and his houſe out of the which he had fled."
+        },
+        {
+          "verse": 7,
+          "text": "And they appointed Cedes in Galilee of the mount of Nepthali, and Sichem in the mount of Ephraim, and Cariatharbee, the ſame is Hebron in the mount of Iuda."
+        },
+        {
+          "verse": 8,
+          "text": "And beyond Iordan againſt the Eaſt quarter of Iericho, they appointed Boſor, which is ſituated in the champaine wildernes of the tribe of Ruben, and Ramoth in Galaad of the tribe of Gad, and Gaulon in Baſan of the tribe of Manaſſes."
+        },
+        {
+          "verse": 9,
+          "text": "Theſe cities were appointed to al the children of Iſrael, and to the ſtrangeſrs, that dwelt among them: that he might flee to them which vnwittingly had ſtriken a ſoule, and might not die in the hand of the kinſeman, coueting to reuenge the bloud shed, vntil he might ſtand before the people to declare his cauſe."
+        }
+      ],
+      "summary": "Six cities of refuge for ſuch as commit caſual manſlaughter are named, 6 in which remayning til the death of the high prieſt, they may then returne to their proper dwelling place, and be ſafe."
+    },
+    {
+      "chapter": 21,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "AND the princes of the families of the Leui came to Eleazar the prieſt, and Ioſue the ſonne of Nun, and to the chief of the kinredes in euerie tribe of the children of Iſrael:"
+        },
+        {
+          "verse": 2,
+          "text": "and they ſpake to them in Silo of the Land of Chanaan, and ſaid: Our Lord commanded by the hand of Moyſes, that cities should be geuen vs to inhabite, and their ſuburbes to feede cattel."
+        },
+        {
+          "verse": 3,
+          "text": "And the children of Iſrael gaue of their poſſeſſions according to the commandement of our Lord, cities and their ſuburbes."
+        },
+        {
+          "verse": 4,
+          "text": "And the lotte came forth vnto the familie of Caath of the children of Aaron the prieſt out of the tribe of Iudas, and Simeon, and Beniamin, thirtene cities."
+        },
+        {
+          "verse": 5,
+          "text": "And to the reſt of the children of Caath, that is to the Leuites, which remayned, out of the tribes of Ephraim, and Dan, and the halfe tribe of Manaſſes, ten cities."
+        },
+        {
+          "verse": 6,
+          "text": "Moreouer to the children of Gerſon came forth a lotte, that they should take of the tribes of Iſſachar and Aſer and Nephthali, and the halfe tribe of Manaſſes in Baſan, cities in number thirtene."
+        },
+        {
+          "verse": 7,
+          "text": "And to the ſonnes of Merari by their kinredes, of the tribe of Ruben and Gad and Zabulon, twelue cities."
+        },
+        {
+          "verse": 8,
+          "text": "and the children of Iſrael gaue to the Leuites cities and their ſuburbes, as our Lord commanded by the hand of Moyſes, geuing to euerie one by lotte."
+        },
+        {
+          "verse": 9,
+          "text": "Of the tribes of the children of Iudas and Simeon Ioſue gaue cities: whoſe names be theſe,"
+        },
+        {
+          "verse": 10,
+          "text": "to the children of Aaron by the families of Caath of the Leuitical ſtocke (for the firſt lotte came forth to them)"
+        },
+        {
+          "verse": 11,
+          "text": "Cariatharbe the father of Enac, which is called Hebron, in the mountaine of Iudas, and the ſuburbes therof round about."
+        },
+        {
+          "verse": 12,
+          "text": "But the fieldes and the townes therof he had geuen to Caleb the ſonne of Iephone to poſſeſſe."
+        },
+        {
+          "verse": 13,
+          "text": "He gaue therfore to the children of Aaron the prieſt Hebron a citie of refuge, and the ſuburbes therof: & Lobna with the ſuburbes therof:"
+        },
+        {
+          "verse": 14,
+          "text": "and Iether and Eſtemo,"
+        },
+        {
+          "verse": 15,
+          "text": "and Holon, and Dabir,"
+        },
+        {
+          "verse": 16,
+          "text": "and Ain, and Ieta, and Bethſames, with the ſuburbes therof: nine cities of two tribes, as hath bene ſaid."
+        },
+        {
+          "verse": 17,
+          "text": "And of the tribe of the children of Beniamin, Gabaon, and Gabae,"
+        },
+        {
+          "verse": 18,
+          "text": "and Anathoth and Almon, with their ſuburbes: foure cities."
+        },
+        {
+          "verse": 19,
+          "text": "Al the cities together of the children of Aaron the prieſt, thirtene, with their ſuburbes."
+        },
+        {
+          "verse": 20,
+          "text": "But to the reſt by the families of the children of Caath of the Leuitical ſtocke was geuen this poſſeſſion."
+        },
+        {
+          "verse": 21,
+          "text": "Of the tribe of Ephraim, the cities of refuge, Sichem with the ſuburbes therof in the mountayne of Ephraim, and Gazer"
+        },
+        {
+          "verse": 22,
+          "text": "and Cibſaim, and Beth horon, with the ſuburbes therof, foure cities."
+        },
+        {
+          "verse": 23,
+          "text": "Of the tribe of Dan alſo, Eltheco and Gabathon,"
+        },
+        {
+          "verse": 24,
+          "text": "and Aialon and Gethremmon, with the ſuburbes therof, foure cities."
+        },
+        {
+          "verse": 25,
+          "text": "Moreouer of the half tribe of Manaſſes, Thanac and Gethremmon, with their ſuburbes two cities."
+        },
+        {
+          "verse": 26,
+          "text": "Al the cities ten, and their ſuburbes, were geuen to the children of Caath of the inferiour degree."
+        },
+        {
+          "verse": 27,
+          "text": "To the children of Gerſon alſo of the Leuitical ſtocke he gaue of the half tribe of Manaſſes the cities of refuge, Gaulon in Baſan, and Boſram, with their ſuburbes, two cities."
+        },
+        {
+          "verse": 28,
+          "text": "Moreouer of the tribe of Iſſachar, Ceſion, and Dabereth,"
+        },
+        {
+          "verse": 29,
+          "text": "and Iaramoth, and Engannim, with their ſuburbes, foure cities."
+        },
+        {
+          "verse": 30,
+          "text": "And of the tribe of Aſer, Maſal and Abdon,"
+        },
+        {
+          "verse": 31,
+          "text": "and Helcath, and Rohob, with their ſuburbes, foure cities."
+        },
+        {
+          "verse": 32,
+          "text": "Of the tribe alſo of Nephthali the cities of refuge, Cedes in Galilee: and Hammoth Dor, and Carthan, with their ſuburbes, three cities."
+        },
+        {
+          "verse": 33,
+          "text": "Al the cities of the families of Gerſon, thirtene, with their ſuburbes."
+        },
+        {
+          "verse": 34,
+          "text": "And to the children of Merari Leuites of the inferiour degree by their families was geuen of the tribe of Zabulon, Iecnam and Cartha"
+        },
+        {
+          "verse": 35,
+          "text": "and Damna and Naalol, foure cities with their ſuburbes."
+        },
+        {
+          "verse": 36,
+          "text": "Of the tribe of Ruben beyond Iordan againſt Iericho the cities of refuge, Boſor in the wildernes, Miſor and Iaſer and Iethſon and Mephaath, foure cities with their ſuburbes."
+        },
+        {
+          "verse": 37,
+          "text": "Of the tribe of Gad the cities of refuge, Ramoth in Galaad, and Manaim and Heſebon and Iaſer, foure cities with their ſuburbes."
+        },
+        {
+          "verse": 38,
+          "text": "Al the cities of the children of Merari by their families and kinredes, twelue."
+        },
+        {
+          "verse": 39,
+          "text": "Therfore al the cities of the Leuites in the middes of the poſſeſſion of the children of Iſrael were fourtie eight"
+        },
+        {
+          "verse": 40,
+          "text": "with their ſuburbes, euerie one diſtributed by the families."
+        },
+        {
+          "verse": 41,
+          "text": "And our Lord God gaue to Iſrael al the Land, that he had ſworne he would geue to their fathers: and they poſſeſſed it, and dwelt in it.",
+          "notes": [
+            {
+              "label": "a",
+              "text": "God gaue al the Land in due time, but not al at once, for the cauſes expreſſed Exo. 23. v. 29. Deut. 7. v. 22.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 42,
+          "text": "And peace was geuen by him on al nations round about: and none of their enemies durſt reſiſt them, but al were brought into their dominion."
+        },
+        {
+          "verse": 43,
+          "text": "Not ſo much certes as one word, which he had promiſed, that he would performe vnto them, was fruſtrate, but al thinges were accomplished in deedes."
+        }
+      ],
+      "summary": "Cities with ſuburbes are aſſigned to the tribe of Leui. 4. To the ſonnes of Caath by the line of Aaron being prieſtes, thirtenne, 5. to the reſt of Caaths progenie, being Leuites, tenne. 6 To the ſonnes of Gerſon Leuites thirtenne 7. To the ſonnes of Merari Leuites (34. of a lower degree) twelue. 9. With the names of al the cities: 39. in al fourtie eight. 41. So Gods promiſe is fully performed hauing geuen the whole Land to Iſrael in peaceable poſſeſſion."
+    },
+    {
+      "chapter": 22,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "THE ſame time Ioſue called the Rubenites, and Gadites, and the halfe tribe of Manaſſes,"
+        },
+        {
+          "verse": 2,
+          "text": "and ſaid to them: You haue done al thinges that Moyſes the ſeruant of our Lord cōmanded you: me alſo haue you obeyed in al thinges,"
+        },
+        {
+          "verse": 3,
+          "text": "neither haue you left your brethren a long time, vntil this preſent day, keeping the commandement of our Lord your God."
+        },
+        {
+          "verse": 4,
+          "text": "Therfore becauſe our Lord your God hath geuen your brethren quietnes and peace, as he promiſed: returne, and goe into your tabernacles, and to the land of your poſſeſſion, which Moyſes the ſeruant of our Lord deliuered to you beyond Iordan:"
+        },
+        {
+          "verse": 5,
+          "text": "alwayes ſo that you keepe attentiuely, and in worke fulfil the commandement, and the law which Moyſes the ſeruant of our Lord commanded you, that you loue our Lord your God, and walke in al his wayes, and obſerue al his commandementes, & cleaue to him, and ſerue him in al your hart, and in al your ſoule.",
+          "notes": [
+            {
+              "label": "a",
+              "text": "It perteineth to al magiſtrates, and other ſuperiors to admonish their ſubiectes of their dutie towardes God, before al other thinges.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 6,
+          "text": "And Ioſue bleſſed them, and diſmiſſed them. Who returned into their tabernacles.",
+          "notes": [
+            {
+              "label": "b",
+              "text": "Al ſuperiors may impert bleſſing to their ſubiectes.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 7,
+          "text": "And to the halfe tribe of Manaſſes Moyſes had geuen poſſeſſion in Baſan: and therfore to the halfe that remayned, Ioſue gaue a lotte among the reſt of their brethren beyond Iordan at the Weſt ſide. And when he diſmiſſed them into their tabernacles, & had bleſſed them,"
+        },
+        {
+          "verse": 8,
+          "text": "he ſaid to them: In much ſubſtance and riches returne to your ſeates, with ſiluer and gold, braſſe and yron, and varietie of rayment: diuide the praye of your enemies with your brethren."
+        },
+        {
+          "verse": 9,
+          "text": "And the children of Ruben, and the children of Gad, and the halfe tribe of Manaſſes returned, and went from the children of Iſrael in Silo, which is ſituated in Chanaan, to enter into Galaad the Land of their poſſeſſion, which they had obteyned according to the commandement of our Lord in the hand of Moyſes."
+        },
+        {
+          "verse": 10,
+          "text": "And when they were come to the litle banckes of Iordan, into the Land of Chanaan, they built beſide Iordan an altar of an infinite greatnes."
+        },
+        {
+          "verse": 11,
+          "text": "Which thing when the children of Iſrael had heard, and certaine meſſengers had reported to them that the children of Ruben, and Gad, and the halfe tribe of Manaſſes had builded an altar in the Land of Chanaan, vpon the litle banckes of Iordan, againſt the children of Iſrael:",
+          "notes": [
+            {
+              "label": "a",
+              "text": "So it behoueth al the ſeruantes of God to ſee in time, that no ſchiſme be made. and therfore orderly to inquire of euerie show of euil. 1. Thes. 5.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 12,
+          "text": "they aſſembled al in Silo, that they might goe vp, and fight againſt them."
+        },
+        {
+          "verse": 13,
+          "text": "And in the meane time they ſent to them into the Land of Galaad, Phinees the ſonne of Eleazar the prieſt,"
+        },
+        {
+          "verse": 14,
+          "text": "and ten princes with him, one of euerie tribe."
+        },
+        {
+          "verse": 15,
+          "text": "Who came to the children of Ruben, and Gad, and the halfe tribe of Manaſſes into the Land of Galaad, and ſaid to them:"
+        },
+        {
+          "verse": 16,
+          "text": "This meſſage doth al the people of our Lord ſend to you: What is this tranſgreſſion? Why haue you forſaken our Lord the God of Iſrael, building a ſacrilegious altar, and reuolting from the worshippe of him?"
+        },
+        {
+          "verse": 17,
+          "text": "Is it a ſmale thing to you that you ſinned in Beelphegor, and vntil this preſent day the ſporte of this abomination abideth in vs? and many of the people fel dead.",
+          "notes": [
+            {
+              "label": "b",
+              "text": "Sinnes paſt are imputed to ſuch as fal againe as agrauating their new ſinnes by reaſon of more ingratitude.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 18,
+          "text": "And you to day haue forſaken our Lord, and to morow his wrath wil rage againſt al Iſrael.",
+          "notes": [
+            {
+              "label": "c",
+              "text": "As before chap. 7. ſo if theſe had bene culpable al Iſrael might feare to be punished, except iuſtice were donne vpon the offenders.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 19,
+          "text": "But if you thinke the land of your poſſeſſion to be vncleane, paſſe to the Land, wherein is the tabernacle of our Lord, and dwel among vs: only that you depart not from our Lord, and from our companie, an altar being built beſide the altar of our Lord God."
+        },
+        {
+          "verse": 20,
+          "text": "Did not Achan the ſonne of Zare tranſgreſs the commandement of our Lord, and his wrath lay vpon al the people of Iſrael? And he was one man, and I would he alone had perished in his wicked fact."
+        },
+        {
+          "verse": 21,
+          "text": "And the children of Ruben, and Gad, and of the halfe tribe of Manaſſes anſwered the princes of the legacie of Iſrael:"
+        },
+        {
+          "verse": 22,
+          "text": "The moſt mightie God our Lord, The moſt mightie God our Lord, him ſelfe knoweth, and Iſrael together shal vnderſtand: If with the mind of preuarication we haue erected this altar, let him not keepe vs, but punish vs preſently:"
+        },
+        {
+          "verse": 23,
+          "text": "and if we did it with that minde, that we might lay vpon it holocauſtes, and ſacrifice, and pacifique victimes, let him ſelfe examine it and iudge:"
+        },
+        {
+          "verse": 24,
+          "text": "and not rather with that meaning and deliberation, that we ſaid: To morrow your children wil ſay to our children: What haue you to doe with our Lord the God of Iſrael?"
+        },
+        {
+          "verse": 25,
+          "text": "Our Lord hath put a border betwen vs and you, O ye children of Ruben, and children of Gad, the riuer Iordan: and therfore you haue no part in our Lord. And by this occaſion your children ſhal auert our children from the feare of our Lord. We therfore thought it better,"
+        },
+        {
+          "verse": 26,
+          "text": "and ſaid: Let vs build vs an altar, not for holocauſtes, nor to offer victimes,",
+          "notes": [
+            {
+              "label": "d",
+              "text": "In the law of Moyſes was one onlie altar for ſacrifice, for the whole people of God, to auoide ſchiſme and idolatrie. Now in the Church (being in al nations) are manie altares, & but one onlie Sacrifice prefigured by al the former. as S. Auguſtin teacheth li. 17. c. 20. de ciuit. S. Leo. Ser. 8. de Paſſione.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 27,
+          "text": "but for a teſtimonie betwen vs and you, and our iſſue and your progenie, that we may ſerue our Lord, and it may be our right to offer both holocauſtes, and victimes, and pacifique hoſtes: and that your children to morrow ſay not to our children: You haue no part in our Lord."
+        },
+        {
+          "verse": 28,
+          "text": "And if they wil ſay ſo, they shal anſwer them: Behold the altar of our Lord, which our fathers made, not for holocauſtes, nor for ſacrifice, but for our teſtimonie and yours."
+        },
+        {
+          "verse": 29,
+          "text": "God ſaue vs from this abomination that we should reuolt from our Lord, and leaue his ſteppes, erecting an altar to offer holocauſtes, and ſacrifices, and victimes, beſide the altar of our Lord God, which is erected before his tabernacle."
+        },
+        {
+          "verse": 30,
+          "text": "Which thinges being heard, Phinees the prieſt, and the princes of the legacie, which were with him, were pacified: and they admitted moſt willingly the wordes of the children of Ruben, & Gad, and of the halfe tribe of Manaſſes."
+        },
+        {
+          "verse": 31,
+          "text": "And Phinees the prieſt the ſonne of Eleazar ſaid to them: Now we know that our Lord is with vs, becauſe you are not culpable of this preuarication, and haue deliuered the children of Iſrael from the hand of our Lord."
+        },
+        {
+          "verse": 32,
+          "text": "And he returned with the princes from the children of Ruben and Gad, out of the Land of Galaad, into the Land of Chanaan, to the children of Iſrael, and reported to them."
+        },
+        {
+          "verse": 33,
+          "text": "And the ſaying pleaſed al that heard it. And the children of Iſrael prayſed God, and they did no more ſay, that they would goe vp againſt them, and fight, and deſtroy the Land of their poſſeſſion."
+        },
+        {
+          "verse": 34,
+          "text": "And the children of Ruben, & the children of Gad called the altar, which they had built, Our teſtimonie, that our Lord he is God."
+        }
+      ],
+      "summary": "The tribes of Ruben and Gad, and half Manaſſes returne to their poſſeſſions. 10. VVho building an altar by the ſide of Iordan, the other tribes ſuſpect that they wil make a ſchiſme, and therfore purpoſe to fight againſt them. 13. But firſt ſending an ambaſſage to admonish them, 21. they anſwer that they made not an altar, for ſacrifice, but only for a monument, that notwithſtanding they dwel on the other ſide of Iordan, yet they are of the ſame people of God, 30. wherwith al Iſrael is ſatisfied.",
+      "summary_notes": [
+        {
+          "marker": 1,
+          "text": "The fourth part."
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "AND when much time was paſſed, after that our Lord had geuen peace to Iſrael, al the nations being ſubdewed round about, and Ioſue now verie ancient, and of a great age:"
+        },
+        {
+          "verse": 2,
+          "text": "Ioſue called al Iſrael, and the elders, and the princes and the iudges, and the maiſters, and ſaid to them: I am old, and farre gone in age:"
+        },
+        {
+          "verse": 3,
+          "text": "and you ſee al thinges, that our Lord your God hath done to al the nations round about, how him ſelfe hath fought for you:",
+          "notes": [
+            {
+              "label": "a",
+              "text": "God fought for the Iſraelites three maof wayes: ſometimes alone, they not fighting at al; as when the AEgyptians were drowned in the read ſea: ſometimes they doing his cōmandmentes he apparently aſſiſted them, as in the ſiege of Iericho, the walles miraculouſly fel downe (c.6) & haile ſtones killed their enimies (chap. 10.) but moſt times inuiſibly, as wel by geuing them courege, as by ſtriking their enimies with terrour. And al theſe wayes God alſo fighteth for his ſeruantes in ſpiritual warres againſt the diuel, the flesh, & the world.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 4,
+          "text": "and now becauſe he hath by lotte diuided to you al the Land, from the Eaſt part of Iordan vnto the great ſea, and manie nations yet remaine:"
+        },
+        {
+          "verse": 5,
+          "text": "Our Lord your God wil deſtroy them, and take them away from your face, and you shal poſſeſſe the Land, as he hath promiſed you."
+        },
+        {
+          "verse": 6,
+          "text": "Onlie take courage, and be careful, that you keepe al thinges which be written in the volume of the law of Moyſes: and decline not from them neither to the right hand nor to the left:"
+        },
+        {
+          "verse": 7,
+          "text": "leſt after that you are entred in to the Gentiles, which shal be among you, you ſweare in the name of their goddes, and ſerue them, and adore them:"
+        },
+        {
+          "verse": 8,
+          "text": "but cleaue to our Lord your God: which you haue done vntil this day."
+        },
+        {
+          "verse": 9,
+          "text": "And then our Lord God wil take away in your ſight the great nations and very ſtrong, and no man shal be able to reſiſt you."
+        },
+        {
+          "verse": 10,
+          "text": "One of you shal purſew a thouſand men of the enemies: becauſe our Lord your God him ſelf wil fight for you, as he hath promiſed."
+        },
+        {
+          "verse": 11,
+          "text": "This onlie beware very diligently before hand, that you loue our Lord your God."
+        },
+        {
+          "verse": 12,
+          "text": "But if you wil cleaue to the errour of theſe nations, that dwel among you, and make mariages with them, and ioyne amitie:"
+        },
+        {
+          "verse": 13,
+          "text": "euen now know ye that our Lord your God wil not deſtroy them before your face, but they shal be a pitte and a ſnare for you, and a ſtumbling blocke at your ſide, and ſtakes in your eies, til he take you away and deſtroy you from this excellent Land, which he hath deliuered to you."
+        },
+        {
+          "verse": 14,
+          "text": "Behold I this day enter into the way of al flesh, and you shal know with al your minde that al the wordes, which our Lord promiſed that he would performe to you, one is not eſcaped without effect."
+        },
+        {
+          "verse": 15,
+          "text": "Therfore as he hath fulfilled in deede that which he promiſed, and al thinges proſperous haue come: ſo wil he bring vpon you what euils ſoeuer he hath threatened, til he take you away and deſtroy you from this excellent Land, which he hath deliuered to you,"
+        },
+        {
+          "verse": 16,
+          "text": "becauſe you haue tranſgreſſed the couenant of our Lord your God, which he hath made with you, and haue ſerued ſtrange goddes, and adored them: quickly and in haſt shal the furie of our Lord ryſe againſt you, and you shal be taken away from this excellent Land, which he hath deliuered to you."
+        }
+      ],
+      "summary": "Ioſue being old admonisheth the people to keepe Gods commandementes. 12. and to auoide mariages, and al ſocietie with gentiles, leſt falling to idolatrie God as certainly punish them, as he hath benne benificial, and bountiful to them."
+    },
+    {
+      "chapter": 24,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "AND Ioſue gathered together al the tribes of Iſrael into Sichem, and called the ancientes, and princes, and iudges, and maiſters: and they ſtoode in the ſight of our Lord:"
+        },
+        {
+          "verse": 2,
+          "text": "and to the people he ſpake in this maner: Thus ſaith our Lord the God of Iſrael: Beyond the riuer did your fathers dwel from the beginning, Thare the father of Abraham, and of Nachor: and they ſerued ſtrange goddes.",
+          "has_annotation": true,
+          "notes": [
+            {
+              "label": "a",
+              "text": "The Iſraelites deſcended alſo of Nachor, by Rebecca, his ſonnes daughter, the wife of Iſaac. Gen. 24.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 3,
+          "text": "I tooke therfore your father Abraham from the coaſtes of Meſopotamia: and brought him into the Land of Chanaan: and multiplied his ſeede,"
+        },
+        {
+          "verse": 4,
+          "text": "and gaue him Iſaac: and againe to him I gaue Iacob and Eſau. Of whom, to Eſau I gaue mount Seir to poſſeſſe: but Iacob, and his children went downe into Ægypt."
+        },
+        {
+          "verse": 5,
+          "text": "And I ſent Moyſes and Aaron, and ſtroke Ægypt with many ſignes and wonders."
+        },
+        {
+          "verse": 6,
+          "text": "And I brought you and your fathers out of Ægypt, and you came to the ſea: and the Ægyptians purſewed your fathers with chariotes and horſemen, as farre as the Read ſea."
+        },
+        {
+          "verse": 7,
+          "text": "And the children of Iſrael cried to the Lord: who did put darkenes betwen you and the Ægyptians, and brought the ſea vpon them, & ouerwhelmed them. Your eies ſaw al thinges that I did in Ægypt, and you dwelt in the wildernes a great time:"
+        },
+        {
+          "verse": 8,
+          "text": "and I brought you into the Land of the Amorrheite, which dwelt beyond Iordan. And when they fought againſt you, I deliuered them into your handes, and you poſſeſſed their Land, and ſlew them."
+        },
+        {
+          "verse": 9,
+          "text": "And there roſe Balac the ſonne of Sephor king of Moab, and fought againſt Iſrael. And he ſent and called Balaam the ſonne of Beor, that he might curſe you:"
+        },
+        {
+          "verse": 10,
+          "text": "and I would not heare him, but contrariwiſe by him I bleſſed you, and deliuered you out of his hand."
+        },
+        {
+          "verse": 11,
+          "text": "And you paſſed Iordan, and came to Iericho. And the men of that citie fought againſt you, the Amorrheite, and Pherezeite and Chananeite, and the Hetheite, and Gergeſeite, and the Heueite, and Iebuſeite: and I deliuered them into your handes."
+        },
+        {
+          "verse": 12,
+          "text": "And I ſent before you hornettes: and I caſt them forth out of their places, the two Kinges of the Amorrheites, not in thy ſword and bow."
+        },
+        {
+          "verse": 13,
+          "text": "And I gaue you the Land, wherein you laboured not, and the cities which you built not, to dwel in them: vineyardes and oliue trees, which you planted not."
+        },
+        {
+          "verse": 14,
+          "text": "Now therfore feare our Lord and ſerue him with a perfect and verie true hart: and take away the goddes, which your fathers ſerued in Meſopotamia and in Ægypt, and ſerue our Lord.",
+          "notes": [
+            {
+              "label": "a",
+              "text": "Ioſue being a prophet ſaw ſome of their hartes inclined to idoles, though exteriorly they then had none among them. S. Aug. q. 29. in Ioſue.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 15,
+          "text": "But if it like you not to ſerue our Lord, choiſe is geuen you: chooſe this day that which pleaſeth you, whom you ought. eſpecially to ſerue, whether the goddes, which your fathers ſerued in Meſopotamia, or the goddes of the Amorrheites, in whoſe Land you dwel: but I and my houſe wil ſerue our Lord."
+        },
+        {
+          "verse": 16,
+          "text": "And the people anſwered, and ſaid: God forbid we should leaue our Lord, and ſerue ſtrange goddes."
+        },
+        {
+          "verse": 17,
+          "text": "Our Lord God he brought vs, and our fathers out of the Land of Ægypt, out of the houſe of ſeruitude: and did in our ſight great ſignes, and kept vs in al the way, by the which we walked, and among al the peoples, through which we paſſed."
+        },
+        {
+          "verse": 18,
+          "text": "And he hath caſt out al the nations, the Amorrheite inhabiter of the Land, which we haue entred. We therfore wil ſerue our Lord, becauſe he is our God."
+        },
+        {
+          "verse": 19,
+          "text": "And Ioſue ſaid to the people: You can not ſerue our Lord: for God is holie, and a mightie æmulator, neither wil he pardon your wickednes and ſinnes."
+        },
+        {
+          "verse": 20,
+          "text": "If you leaue our Lord, and ſerue ſtrange goddes, he wil turne him ſelf, and wil afflict you, and ouerthrow you after he hath geuen you good thinges."
+        },
+        {
+          "verse": 21,
+          "text": "And the people ſaid to Ioſue: No, it shal not be ſo as thou ſpeakeſt, but we wil ſerue our Lord."
+        },
+        {
+          "verse": 22,
+          "text": "And Ioſue ſaid to the people: You are witneſſes, that your ſelues haue choſen to you our Lord for to ſerue him. And they anſwered: Witneſſes."
+        },
+        {
+          "verse": 23,
+          "text": "Now therfore, quoth he, take away ſtrange goddes out of the middes of you, and incline your hartes to our Lord the God of Iſrael."
+        },
+        {
+          "verse": 24,
+          "text": "And the people ſaid to Ioſue: We wil ſerue our Lord God, and wil be obedient to his preceptes."
+        },
+        {
+          "verse": 25,
+          "text": "Ioſue therfore in that day made a couenant, and propoſed to the people preceptes and iudgementes in Sichem.",
+          "notes": [
+            {
+              "label": "b",
+              "text": "This renouation of the ſame couenant prefigured the law of the new Teſtament. S. Aug. q. 30. in Ioſue.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 26,
+          "text": "He wrote alſo al theſe wordes in the volume of the law of our Lord: and he tooke a very great ſtone, and put it vnder the oke, that was in the Sanctuarie of our Lord:"
+        },
+        {
+          "verse": 27,
+          "text": "and ſaid to al the people: Behold this ſtone shal be a teſtimonie for you, that it hath heard al the wordes of our Lord, which he hath ſpoken to you: leſt perhaps hereafter you wil denie, and lye to our Lord your God.",
+          "notes": [
+            {
+              "label": "c",
+              "text": "To the more confuſion of reaſonable creatures wilfully offending, vnſenſible things are made witneſſes, becauſe they euer obey Gods wil, which is the beſt maner of hearing. Theod. q. 19. in Ioſue.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 28,
+          "text": "And he diſmiſt the people, euerie one into their poſſeſſion."
+        },
+        {
+          "verse": 29,
+          "text": "And after theſe thinges Ioſue the ſonne of Nun the ſeruant of our Lord died, being a hundred and ten yeares old:",
+          "notes": [
+            {
+              "label": "d",
+              "text": "If Ioſue writ the reſt of this booke, then Samuel added theſe laſt verſes. Hiſt. ſchol.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 30,
+          "text": "and they buried him in the coaſtes of his poſſeſſion in Thamnathſare, which is ſituated in the mountaine of Ephraim, on the North part of mount Gaas.",
+          "has_annotation": true
+        },
+        {
+          "verse": 31,
+          "text": "And Iſrael ſerued our Lord al the daies of Ioſue, and of the ancientes, that liued a long time after Ioſue, and that had knowen al the workes of our Lord which he had done in Iſrael."
+        },
+        {
+          "verse": 32,
+          "text": "The bones alſo of Ioſeph which the children of Iſrael had taken out of Ægypt, they buried in Sichem, in part of the field, which Iacob had bought of the ſonnes of Hemor the father of Sichem, for a hundred yong ewes, and it was in the poſſeſſion of the ſonnes of Ioſeph.",
+          "notes": [
+            {
+              "label": "e",
+              "text": "Ioſephs Mauſoleum (or famous ſepulchre) remained in Sichem in S. Hieroms time. as he witneſſeth. Tradit. Hebra. in Gen. prope finem. · Gen. 50. Exo. 13.",
+              "kind": "gloss"
+            },
+            {
+              "label": "1",
+              "text": "Gen. 50. Exo. 13.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 33,
+          "text": "Eleazar alſo the ſonne of Aaron died: and they buried him in Gabaath of Phinees his ſonne, which was geuen him in mount Ephraim."
+        }
+      ],
+      "summary": "In conſideration of diuers principal benefites here recited, 14. Ioſue exorteth the people to ſerue God ſincerely, ſeing it is in their choiſe to do wel or euil. 16. they promiſe al true ſeruice and obedience to God. 25. Wherupon he reneweth the pact betwen God and them, writing it in the volume of the law, and erecting a great ſtone in teſtimonie. 29. He dieth and is buried in mount Ephraim. 32. Ioſephs bones are buried in Sichem. 33. Eleazar the high prieſt alſo dieth and is buried in Ephraim."
+    }
+  ],
+  "spelling": "original"
+}

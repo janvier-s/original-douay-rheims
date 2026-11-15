@@ -1,0 +1,481 @@
+{
+  "book": "joel",
+  "book_title": "The Prophecy of Joel.",
+  "short_title": "Joel",
+  "hebrew_title": null,
+  "intros": [
+    {
+      "title": "THE PROPHECIE OF IOEL",
+      "text": "<i>IOEL</i> the ſonne of Phatuel, <i>borne in Bethoron, of the tribe of Iſſachar</i>, prophecied <i>the ſame time</i> <mn>[1]</mn> <mn>[2]</mn>, or part therof, <i>with Oſee</i>, according to S. Ieromes rule, approued by moſt expoſiters, that when anie of theſe twelue Prophetes expreſſeth not what time he writte, the ſame time is vnderſtood which the precedent Prophet noteth. He prophecied to the Kingdom of Iuda, as appeareth by expreſſe <mn>[3]</mn> mention of ſacrifice, Prieſtes, houſe of God, Ieruſalem, and Sion; but <i>deſcribeth</i> alſo <i>the whole land of twelue tribes, conſumed by the Eruke, Locuſt, Bruke, and Blaſt. And after the euerſion of</i> <mn>[4]</mn> <mn>[5]</mn> <i>the former people, the coming of the Holie Ghoſt vpon the ſeruants of God men and wemen: the 120. faithful gathered in the chamber in Sion</i>. Finally foreshewing the general Iudgement, and future eternal world.",
+      "default": true,
+      "notes": [
+        {
+          "marker": 1,
+          "text": "Ioel prophecied the ſame time vvith Oſee."
+        },
+        {
+          "marker": 2,
+          "text": "<i>S. Epip. de vita Patriar.</i>"
+        },
+        {
+          "marker": 3,
+          "text": "Eſpecially to the two tribes."
+        },
+        {
+          "marker": 4,
+          "text": "The contents."
+        },
+        {
+          "marker": 5,
+          "text": "<i>S. Iero. Epiſt. ad. Paulin.</i> 7"
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "THE word of our Lord, that was made to Ioel the ſonne of Phatuel."
+        },
+        {
+          "verse": 2,
+          "text": "Heare this ye ancients, and harken with your eares al ye inhabitants of the land: if this hath bene done in your dayes, or in the dayes of your fathers?"
+        },
+        {
+          "verse": 3,
+          "text": "Vpon this <na>(a)</na> tel you to your children, and your children to their children, and their childred to an other generation.",
+          "notes": [
+            {
+              "label": "a",
+              "text": "Prophecies perteyne not only to thoſe that then liue, when they are vttered, but alſo to al poſteritie, euen to the end of the world, that it may appeare what is fulfilled, and what yet reſteth to come in due time.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 4,
+          "text": "The reſidue of the eruke hath the locuſt eaten, & the reſidue of the locuſt hath the bruke eaten, and the reſidue of the bruke hath the blaſt eaten.",
+          "has_annotation": true
+        },
+        {
+          "verse": 5,
+          "text": "Awake you that be drunke, and weepe, and howle al ye, that drinke wine in ſweetnes: becauſe it is perished from your mouth."
+        },
+        {
+          "verse": 6,
+          "text": "For a nation is aſcended vpon my land, ſtrong & innumerable: his teeth as the teeth of a lion: and his cheekteeth as of a lions whelpe."
+        },
+        {
+          "verse": 7,
+          "text": "He hath layd my vineyard into a deſert, and hath pilled of the barke of my figtree: ſtripping he hath ſpoiled it, and caſt it forth: the boughes therof are made white."
+        },
+        {
+          "verse": 8,
+          "text": "Mourne as a virgin girded with ſackcloth vpon the huſband of her youth."
+        },
+        {
+          "verse": 9,
+          "text": "<na>(b)</na> Sacrifice and libation is perished out of the houſe of our Lord: the prieſts our Lords miniſters mourned.",
+          "notes": [
+            {
+              "label": "b",
+              "text": "When Ieruſalem was taken and the Temple deſtroyed by the Babylonians, the ſacrifice neceſſarily ceaſed according to this and other prophecies.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "text": "The region is deſtroyed, the ground hath mourned: becauſe the wheate is waſted, the wine is confounded, the oyle hath languished."
+        },
+        {
+          "verse": 11,
+          "text": "The husbandmen are confounded, the dreſſers of vines haue howled vpon the wheate, and the barley, becauſe the harueſt of the filde is perished."
+        },
+        {
+          "verse": 12,
+          "text": "The vineyard is confounded, and the figtree hath languished: the pomegranet, & the palmetree, and the appletree, and al the trees of the filde are withered: becauſe ioy is confounded from the children of men."
+        },
+        {
+          "verse": 13,
+          "text": "Gird yourſelues, and mourne ye prieſts, howle ye miniſters of the altar: goe in, lie in ſackeclothe ye miniſters of my God: becauſe ſacrifice & libation is perished out of the houſe of your God."
+        },
+        {
+          "verse": 14,
+          "text": "<na>(c)</na> Sanctifie ye a faſt, cal an aſſemblie, gather together the ancients, al the inhabitants of the land into the houſe of your God: and crie ye to our Lord:",
+          "notes": [
+            {
+              "label": "c",
+              "text": "Faſting, praying and other good vvorkes of manie aſſembling together, are an eſpecial meanes to appeaze Gods wrath, prouoked by former ſinnes.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 15,
+          "text": "A a a, for the day: becauſe the day of our Lord is at hand, and as deſtruction from the mightie it shal come."
+        },
+        {
+          "verse": 16,
+          "text": "Why, are not the victuals perished before your eyes, ioy and exultation out of the houſe of our God?"
+        },
+        {
+          "verse": 17,
+          "text": "The beaſtes are rotted in their dung, the barnes are deſtroyed, the ſtorehouſes are diſſipated: becauſe the wheate is confounded."
+        },
+        {
+          "verse": 18,
+          "text": "Why groned the beaſt, why lowed the flockes of the heard? becauſe there is no paſture for them: yea and the flockes of the cattel are perished."
+        },
+        {
+          "verse": 19,
+          "text": "To thee ô Lord wil I crie: becauſe fire hath eaten the beautiful thinges of the deſert, and the flame hath burnt al the trees of the region."
+        },
+        {
+          "verse": 20,
+          "text": "Yea and the beaſtes of the filde, as a garden bed thirſting for a shower, haue looked vp to thee, becauſe the fountaines of waters are dried vp, & fire hath deuoured the beautiful thinges of the deſert."
+        }
+      ],
+      "summary": "The Chaldees shal miſerably waſte the kingdom of Iuda: 9. take away ſacrifice by deſtroying the temple: 10. and ſo make the land barren ſpiritually, and temporally."
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "SOVND ye <na>(a)</na> with the trumpet in Sion, howle in my holie mount, let al the inhabitants of the land be trubled: Becauſe <na>(b)</na> the day of our Lord cometh,",
+          "notes": [
+            {
+              "label": "a",
+              "text": "Prophets do often ſpeake in ſuch phraſe as if they admonished the people vvhat to doe, vvhen in dede they foreshevv what they wil do in their diſtreſſes:",
+              "kind": "gloss"
+            },
+            {
+              "label": "b",
+              "text": "In the time when God wil ſuffer affliction to fal vpon them for their ſinnes.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "becauſe the day of darkenes, and of miſt is neere, the day of clowde, and whirlewind: as the morning ſpred vpon the montaines much people & ſtrong: the like to it hath not bene from the beginning, and after it ſhal not be euen vnto the yeares of generation & generation."
+        },
+        {
+          "verse": 3,
+          "text": "Before the face therof a deuouring fyre, and after it a burning flame: the land before it as it were a garden of pleaſure, and after it the wildernes of a deſert, neither is there that can eſcape it."
+        },
+        {
+          "verse": 4,
+          "text": "As the appearance of horſes, their appearance. & as horſemen ſo shal they runne."
+        },
+        {
+          "verse": 5,
+          "text": "As the ſound of chariots vpon the toppes of mountaines shal they leape, as the ſound of a flame of fire deuouring ſtubble, as a ſtrong people prepared to battel."
+        },
+        {
+          "verse": 6,
+          "text": "At his preſence the people shal be vexed: al viſages shal be made like a potte."
+        },
+        {
+          "verse": 7,
+          "text": "They shal runne as valients: as men of warre they shal ſcale the wal: the men shal march in their wayes, & shal not decline from their pathes."
+        },
+        {
+          "verse": 8,
+          "text": "None shal preſſe his brother; they shal walke euerie one in his owne pathe: yea & through the windowes they shal fal, & shal <na>[1]</na> not demolish.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "<i>take no harme</i>.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "text": "They shal enter the city: they shal runne on the wal, they shal climbe the houſes, by the windowes they shal enter as a theefe."
+        },
+        {
+          "verse": 10,
+          "text": "At his preſence the earth hath trembled, the heauens are moued: the ſunne and moone are darkened, and the ſtarres haue withdrawne their shining. <cr>[1]</cr>",
+          "cross_refs": [
+            {
+              "text": "Iſa. 13. Ezec. 32. Mat. 24. Iere. 30. Amos. 5. Sopho. 1."
+            }
+          ],
+          "xrefs": [
+            "Isa. 13. Ezec. 32. Mat. 24. Iere. 30. Amos. 5. Sopho. 1."
+          ]
+        },
+        {
+          "verse": 11,
+          "text": "And our Lord hath geuen his voice before the face of his hoſt: becauſe his campes are exceding manie, becauſe ſtrong & doing his word: for great is the day of our Lord, & terrible excedingly: and who shal ſuſteyne it?"
+        },
+        {
+          "verse": 12,
+          "text": "Now therfore ſayth our Lord: <na>(c)</na> Conuert to me in al your hart, <na>(d)</na> in faſting, and in weeping, and in mourning.",
+          "notes": [
+            {
+              "label": "c",
+              "text": "For better mouing the harte to true repentance:",
+              "kind": "gloss"
+            },
+            {
+              "label": "d",
+              "text": "God requireth theſe external workes of penance. And where the ſame are wanting, at leaſt in vvil, it is a manifeſt ſigne that the hart is not truly penitent. <i>S. Ierom</i>.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 13,
+          "text": "And rent your hartes, and not your garments, and turne to the Lord your God: becauſe he is benigne and merciful, patient and of much mercie, & readie to be gracious vpon the malice. <cr>[1]</cr>",
+          "cross_refs": [
+            {
+              "text": "Pſal. 85."
+            }
+          ]
+        },
+        {
+          "verse": 14,
+          "text": "Who knoweth if he wil conuert, and forgeue, and leaue after him benediction, ſacrifice and libament to the Lord your God?"
+        },
+        {
+          "verse": 15,
+          "text": "Sound ye with the trumpet in Sion, ſanctifie a faſt, cal an aſſemblie,"
+        },
+        {
+          "verse": 16,
+          "text": "gather together the people, ſanctifie the Church, aſſemble the ancients, gather together the litle ones, and them that ſucke the breaſtes: let the bridegrome goe forth of his chamber, and the bride out of her bride chamber."
+        },
+        {
+          "verse": 17,
+          "text": "Betwen the porch and the altar the prieſts our Lords miniſters shal weepe, and shal ſay: Spare ô Lord, ſpare thy people: and geue not thine inheritance into reproch, that the nations haue dominion ouer them. Why ſay they in the peoples: Where is their God?"
+        },
+        {
+          "verse": 18,
+          "text": "Our Lord hath bene <na>(e)</na> zelous to his land, and hath ſpared his people.",
+          "notes": [
+            {
+              "label": "e",
+              "text": "Zele is an indignation riſing of loue : vvhen one ſeeth anie perſon, or thing, vvhich he loueth contemned, or vvronged. So God hath zele for his people ; when they are vniuſtly afflicted, more of the malice of their afflicters then for iuſtice. Yet God ſuffereth often times his people to be puniſhed for their ful correction and for their more merite.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 19,
+          "text": "And our Lord anſwered, and ſayd to his people: Behold <na>(f)</na> I wil ſend you corne, and wine, and oyle, and you shal be replenished with them: and I wil geue you no more to be a reproch in the Gentils.",
+          "notes": [
+            {
+              "label": "f",
+              "text": "So that which God here promiſeth by his prophet, touching his protection and deliuerie of his people, was not fulfilled til after the ſeuentie yeares of their captiuitie, nor then fully, but is verified in thoſe that beleue in Chriſt. And eſpecially after this life, vvhen his glorious Sainct shal liue in eternal ioy.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 20,
+          "text": "And him that is from the North, I wil make far from you: and I wil expel him into a land vnpaſſable, & deſert, his face againſt the eaſt ſea, and his extreme part to the laſt ſea: & his ſtinke shal aſcend, & his rotennes shal aſcend, becauſe he hath done proudly."
+        },
+        {
+          "verse": 21,
+          "text": "Feare not ô land, reioyce & be glad: becauſe our Lord hath magnified to doe."
+        },
+        {
+          "verse": 22,
+          "text": "Feare not ye beaſtes of the region: becauſe the beautiful thinges of the deſert are ſprung, becauſe the tree hath brought his fruite, the figtree, and the vine haue geuen their vigour."
+        },
+        {
+          "verse": 23,
+          "text": "And ye children of Sion reioyce, and be ioyful in the Lord your God: becauſe he hath geuen you a doctor of iuſtice, and he wil make the early and the late showre to deſcend to you as in the beginning."
+        },
+        {
+          "verse": 24,
+          "text": "And the floores shal be filled with wheate, and the preſſes shal ouerflow with wine, and oyle."
+        },
+        {
+          "verse": 25,
+          "text": "And I wil render you the yeares, which the locuſt, the bruke, and the blaſt, and the eruke hath eaten: my great ſtrength, which I haue ſent vpon you."
+        },
+        {
+          "verse": 26,
+          "text": "And you shal eate eating, and shal be filled: and you shal praiſe the name of the Lord your God, that hath done meruels with you, and my people shal not be confounded for euer."
+        },
+        {
+          "verse": 27,
+          "text": "And you shal know that I am in the middes of Iſrael: & I the Lord your God, and there is none beſides: and my people shal not be confounded for euer."
+        },
+        {
+          "verse": 28,
+          "text": "And it shal be after this: <na>(g)</na> I wil powre out my ſpirit vpon al flesh: and your ſonnes, & your daughters shal prophecie: your ancients shal dreame dreames, and your yong men shal ſee viſions. <cr>[1]</cr>",
+          "cross_refs": [
+            {
+              "text": "Iſa. 44. Act. 2."
+            }
+          ],
+          "notes": [
+            {
+              "label": "g",
+              "text": "That this is a plaine prophecie of the miſſion of the Holie Ghoſt performed on VVhitſunday, the fiftith day after Chriſts Reſurrection, and the tenth after his Aſcenſion, S. Peter teacheth. <i>Act. 2</i>. · Iſa. 44. Act. 2.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 29,
+          "text": "Yea and vpon my ſeruants, and handmayds in thoſe dayes I wil powre out my ſpirit."
+        },
+        {
+          "verse": 30,
+          "text": "And I wil geue wonders in heauen, and in earth, bloud, and fire, and vapour of ſmoke."
+        },
+        {
+          "verse": 31,
+          "text": "The ſunne shal be turned into darkenes, and the moone into bloud: before the great and horrible day of the Lord doth come."
+        },
+        {
+          "verse": 32,
+          "text": "<cr>[1]</cr> And it shal be, euerie one that shal inuocate the name of the Lord, shal be ſaued: becauſe in mount Sion, and in Ieruſalem shal be ſaluation, as our Lord hath ſayd, and in the reſidew whom our Lord shal cal.",
+          "cross_refs": [
+            {
+              "text": "Rom. 10."
+            }
+          ]
+        }
+      ],
+      "summary": "The Chaldees wil aſſault & afflict the Iewes with great violence. 12. After humble repentance in captiuitie, 18. Gods benignitie wil comfort them. 23. with abundance of ſpiritual grace by Chriſt : 28. ſending alſo the Holie Ghoſt. 30. And terrible ſignes before the day of Iudgement."
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "BECAVSE loe <na>(a)</na> in thoſe dayes, and in that time when I shal conuert the captiuitie of Iuda, and Ieruſalem.",
+          "notes": [
+            {
+              "label": "a",
+              "text": "S Ierom and moſt other expoſiters vnderſtand this chapter of the general Iudgement, though ſome expound it of the relaxation of the Iewes from captiuitie, and of the punishment of their enimies.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "I wil gather together al Nations, & wil lead them into the valley of <na>(b)</na> Ioſaphat: and I wil plead with them there vpon my people, and myne inheritance Iſrael, whom they haue diſperſed in the nations, and haue diuided my land.",
+          "notes": [
+            {
+              "label": "b",
+              "text": "And ſo <i>Ioſaphat</i> is literally vnderſtood the place on the eaſt ſide of Ieruſalem betwen the Temple and mount Oliuet whence our Sauiour aſcended into heauen. Neither is there anie reaſon why the Iudgement ſhould rather be in an other place, ſeing this is expreſſed by name, ſignifying : The Iudgement of our Lord.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 3,
+          "text": "And vpon my people they haue caſt lot: and boy they haue geuen to be a ſtrumpet, and wench they haue ſould for wine that they might drinke."
+        },
+        {
+          "verse": 4,
+          "text": "But what is to me and to you ô Tyre, and Sidon, and al the border of the Paleſthines? what, wil you render me reuenge? and if you doe reuenge againſt me, I wil ſoone render you quickly recompence vpon your head."
+        },
+        {
+          "verse": 5,
+          "text": "For my ſiluer, and my gold you haue taken: and my deſiderable thinges, and moſt beautiful you haue caried into your temples."
+        },
+        {
+          "verse": 6,
+          "text": "And the children of Ieruſalem you haue ſold to the children of the Greekes that you might make them far of from their coaſts."
+        },
+        {
+          "verse": 7,
+          "text": "Behold I wil rayſe them vp out of the place, wherin you haue ſold them: and I wil turne your retribution vpon your owne head."
+        },
+        {
+          "verse": 8,
+          "text": "And I wil ſel your ſonnes, & your daughters into the handes of the children of Iuda, and they shal ſel them to the Sabæans, a nation far of, becauſe our Lord hath ſpoken."
+        },
+        {
+          "verse": 9,
+          "text": "Proclaime ye this in the Gentils: ſanctifie battel, rayſe vp the ſtrong: let them come, let al the men of warre come vp."
+        },
+        {
+          "verse": 10,
+          "text": "Cut your ploughes into ſwordes, and your ſpades into ſpeares. Let the weake ſay: That I am ſtrong."
+        },
+        {
+          "verse": 11,
+          "text": "Breake out, and come al ye nations from round about, and be gathered together: there wil our Lord make al thy ſtrong ones to be ſlaine."
+        },
+        {
+          "verse": 12,
+          "text": "Let them ariſe, and let the Gentils aſcend into the valley of Ioſaphat: becauſe there I wil ſit, to iudge al nations round about."
+        },
+        {
+          "verse": 13,
+          "text": "Put in the ſithes, <cr>[1]</cr> becauſe the harueſt is ripe: come, and deſcend, becauſe the preſſe is ful, the preſſes runne ouer: becauſe their malice is multiplied.",
+          "cross_refs": [
+            {
+              "text": "Apoc. 14."
+            }
+          ]
+        },
+        {
+          "verse": 14,
+          "text": "<na>(c)</na> Peoples peoples in the valley of dconciſion, becauſe the day of our Lord is nigh in the valley of conciſion. <cr>[1]</cr>",
+          "cross_refs": [
+            {
+              "text": "Iere. 21. Amos. 1."
+            }
+          ],
+          "notes": [
+            {
+              "label": "c",
+              "text": "This duplication of the vvord <i>peoples</i> importeth an innumerable multitude in that valley of <i>conciſion</i> (alſo repeted) to ſignifie, that there al Gods enimies shal be vtterly damned to eternal deſtruction, as it vvere cut in peeces, as fuel to the fire of hel <i>Pſal. 118. v. 4. Our iuſt Lord vvil cut the neckes of ſinners</i>.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 15,
+          "text": "The ſunne and the moone are darkened, and the ſtarres haue withdrawen their shining."
+        },
+        {
+          "verse": 16,
+          "text": "And our Lord wil roare out of Sion, and out of Ieruſalem he wil geue his voice: and the heauens, & the earth shal be moued, and our Lord the hope of his people, and the ſtrength of the children of Iſrael."
+        },
+        {
+          "verse": 17,
+          "text": "And you shal know that I am the Lord your God dwelling in Sion my holy mount: and Ieruſalem shal be holie, & ſtrangers shal paſſe through it no more."
+        },
+        {
+          "verse": 18,
+          "text": "<cr>[1]</cr> And it shal be in that day: the mountaines shal diſtil ſweetnes, and the hilles shal flow with milke: and through al the riuers of Iuda shal runne waters: & a fountaine shal iſſue out of the houſe of the Lord, and shal water the torrent of thornes.",
+          "cross_refs": [
+            {
+              "text": "Amos. 9."
+            }
+          ]
+        },
+        {
+          "verse": 19,
+          "text": "Ægypt shal be into deſolation, & Idumea into a deſert of perdition, for that they haue done vniuſtly againſt the children of Iuda, and haue shed innocent bloud in their land."
+        },
+        {
+          "verse": 20,
+          "text": "And Iewrie shal be inhabited for euer, and Ieruſalem vnto generation and generation."
+        },
+        {
+          "verse": 21,
+          "text": "And I wil clenſe their bloud, which I had not clenſed: and the Lord wil dwel in Sion."
+        }
+      ],
+      "summary": "After the conuerſion of the Iewes to Chriſt, 2. shortly foloweth the general Iudgement. 3. where euerie one according to their deſertes, shal receiue (expreſſed here in parabolical ſpeach) 7. & 19. the wicked euerlaſting paine : 18. & 20. and the bleſſed eternal ioy."
+    }
+  ],
+  "spelling": "original"
+}

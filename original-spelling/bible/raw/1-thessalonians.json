@@ -1,0 +1,575 @@
+{
+  "book": "1-thessalonians",
+  "book_title": "The First Epistle of Paul\nto the Thessalonians.",
+  "short_title": "1 Thessalonians",
+  "hebrew_title": null,
+  "intros": [
+    {
+      "title": "THE ARGUMENT OF THE FIRST EPISTLE OF S. PAUL TO THE THESSALONIANS.",
+      "text": "HOW S. Paul with Silas (or Siluanus) and Timothee according to a viſion calling him out of Aſia into Macedonia, came to Philippi being the firſt citie thereof, we reade Act. 16. And againe from Philippi, after ſcourging and impriſoning there, he came to Theſſalonica being the head citie of that countrie, we reade Act. 17. where after 3 weekes preaching, the Jews ſtirred the citie againſt them, and purſued them alſo to Beræa: ſo that Paul was conueied from thence to Athens, where he expected the comming of Silas & Timothee from the foreſaid Beræa in Macedonia, but receiued them (as we haue Act. 18.) at Corinth in Achaia.\nHauing therefore left the Theſſalonians in ſuch perſecution, and being careful to know how they did in it, he was deſirous to returne vnto them, as he ſignifieth in the 2. chapter of this Epiſtle v. 17. But (as he there addeth) Satan hindered vs. Therefore tarying himſelf at Athens, he ſendeth Timothee vnto them. At whoſe returne vnderſtanding their conſtancie, he is much comforted, as he declareth c. 3. So then they are all three together at the writing of this Epiſtle, as alſo we haue in the title of it: Paul and Siluanus and Timothee to the Church of the Theſſalonians. And therefore it ſeemeth to haue bene written at Corinth, not at Athens: becauſe after the ſending of Timothee to Theſſalonica, they mette not at Athens againe, but at Corinth.\nThe firſt three chapters of it are, to confirme and comfort them againſt the tentations of thoſe perſecutions. The other two are of exhortation, to liue according to his preceptes, namely in ſanctification of their bodies, and not in fornication: to loue one another: to comfort one another about their frendes departed, with the doctrine of the Reſurrection, and with continuall preparation to die: the laity to obey, and the Cleargie to be diligent in euery point of their office.",
+      "default": true
+    }
+  ],
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "PAVL and Siluanus and Timothee to the Church of the Theſſalonians in God the Father, & our Lord IESVS Chriſt. Grace to you and peace."
+        },
+        {
+          "verse": 2,
+          "text": "Vve giue thankes to God alvvaies for al you: making a memorie of you in our praiers without intermiſſion,",
+          "notes": [
+            {
+              "label": "1",
+              "text": "The Epiſtle vpon the 6 Sunday after the Epiphanie.",
+              "kind": "lectionary"
+            }
+          ]
+        },
+        {
+          "verse": 3,
+          "text": "mindeful of the vvorke of your faith and labour, and of the charitie, & of the enduring of the hope of our Lord IESVS Chriſt, before God and our father:"
+        },
+        {
+          "verse": 4,
+          "text": "knovving brethren beloued of God, your election:"
+        },
+        {
+          "verse": 5,
+          "text": "that our Goſpel hath not been to you in word only, but in povver and the holy Ghoſt, and in much fulneſſe, as you knovv vvhat maner of men vve haue been among you for your ſakes."
+        },
+        {
+          "verse": 6,
+          "text": "And you became folovvers of vs, & of our Lord: receiuing the vvord in much tribulation, vvith ioy of the holy Ghoſt:",
+          "has_annotation": true
+        },
+        {
+          "verse": 7,
+          "text": "ſo that you were made a paterne to al that beleeue in Macedonia & in Achaia."
+        },
+        {
+          "verse": 8,
+          "text": "For from you vvas bruited the vvord of our Lord: not only in Macedonia and in Achaia, but in euery place, your faith vvhich is to God vvard, is proceded, ſo that it is not neceſſarie for vs to ſpeake any thing."
+        },
+        {
+          "verse": 9,
+          "text": "For they them ſelues report of vs vvhat maner of entring vve had to you: and how you are turned to God from Idols, to ſerue the liuing and true God,",
+          "notes": [
+            {
+              "label": "1",
+              "text": "In this and the like places the Heretikes malitiouſly & moſt falſely tranſlate, conſtrue, & apply al things meāt of the Heathē idols, to the memories and images of Chriſt and his ſaincts, namely the Engliſh Bibles of the yeres 1562. 1577. See the Annotatiō 1 Io. 5, 21.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "text": "and to expect his Sonne from heauen ( vvhom he raiſed vp from the dead) IESVS, vvho hath deliuered vs from the vvrath to come. ⊢"
+        }
+      ],
+      "summary": "He thanketh God for them, 4 and gathereth that they are elect. becauſe his preaching at their firſt conuerſion vvas vvith diuine povver, and they on the other ſide receiued it vvith al ioy, notvvithſtanding the great perſecution that vvas raiſed againſt them."
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "FOR your ſelues knovv, brethren, our entrance vnto you, that it vvas not vaine:"
+        },
+        {
+          "verse": 2,
+          "text": "but hauing ſuffered before and been abuſed vvith contumelies (as you knovv) at Philippi, vve had confidence in our God, to ſpeake vnto you the Goſpel of God in much carefulnes.",
+          "cross_refs": [
+            {
+              "text": "Act. 16, 12. 23."
+            }
+          ],
+          "notes": [
+            {
+              "label": "2",
+              "text": "Act. 16, 12. 23. · A notable example for Catholike preachers, and paſſing comfortable, vvhē in the middes of perſecutiōs and reproches they preache ſincerely, to pleaſe God & not men.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 3,
+          "text": "For our exhortation vvas not of errour, nor of vncleanneſſe, nor in deceite:"
+        },
+        {
+          "verse": 4,
+          "text": "but as vve vvere approued of God that the Goſpel ſhould be committed to vs, ſo vve ſpeake: not as pleaſing men, but God, vvho proueth our hartes."
+        },
+        {
+          "verse": 5,
+          "text": "For neither haue we been at any time in the vvord of adulation, as you knovv: nor in occaſion of auarice, God is vvitnes:"
+        },
+        {
+          "verse": 6,
+          "text": "nor ſeeking glorie of men, neither of you, nor of others."
+        },
+        {
+          "verse": 7,
+          "text": "Vvhereas vve might haue been a burden to you, as the Apoſtles of Chriſt: but vve became children in the middes of you, as if a nource ſhould cheriſh her children:",
+          "notes": [
+            {
+              "label": "1",
+              "text": "milde",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 8,
+          "text": "ſo hauing a deſire to you, vve would gladly deliuer vnto you not only the Goſpel of God, but alſo our ovvne ſoules: becauſe you are become moſt deere vnto vs."
+        },
+        {
+          "verse": 9,
+          "text": "For you are mindeful, brethren, of our labour and toile. day & night vvorking, leſt vve ſhould charge any of you, vve preached among you the Goſpel of God.",
+          "cross_refs": [
+            {
+              "text": "Act. 20, 34. 1. Cor. 4, 12. 2. Thes. 3."
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "text": "You are vvitneſſes and God, hovv holily and iuſtly and vvithout blame, vve haue been to you that did beleeue."
+        },
+        {
+          "verse": 11,
+          "text": "as you knovv in vvhat maner we deſiring and comforting you, haue adiured euery one of you (as a father his children)"
+        },
+        {
+          "verse": 12,
+          "text": "that you vvould vvalke vvorthie of God, vvho hath called you into his kingdom and glorie."
+        },
+        {
+          "verse": 13,
+          "text": "Therfore vve alſo giue thankes to God vvithout intermiſſion: becauſe that vvhen you had receiued of vs the vvord of the hearing of God, you receiued it not as the vvord of men, but (as it is in deede) the vvord of God, who vvorketh in you that haue beleeued.",
+          "has_annotation": true,
+          "notes": [
+            {
+              "label": "1",
+              "text": "The Epiſtle for many Martyrs. Aug. 8.",
+              "kind": "lectionary"
+            }
+          ]
+        },
+        {
+          "verse": 14,
+          "text": "For you, brethren, are become folovvers of the churches of God that be in Ievvrie, in Chriſt IESVS: for you alſo haue ſuffered the ſame things of your ovvne lineage, as they alſo of the Ievves,"
+        },
+        {
+          "verse": 15,
+          "text": "vvho both killed our Lord IESVS, and the Prophets, and haue perſecuted vs, and pleaſe not God, and are aduerſaries to al men,"
+        },
+        {
+          "verse": 16,
+          "text": "prohibiting vs to ſpeake to the Gentiles that they may be ſaued, to make vp their ſinnes alvvaies. for the vvrath of God is come vpon them euen to the end."
+        },
+        {
+          "verse": 17,
+          "text": "But vve, brethren, cdepriued of you for a ſhort time, in ſight, not in hart: haue haſtened the more aboundantly to ſee your face vvith much deſire.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "c ἀπορφανισθέντες",
+              "kind": "word"
+            }
+          ]
+        },
+        {
+          "verse": 18,
+          "text": "For vve vvould haue come to you, I Paul certes, once and againe: but Satan hath hindered vs."
+        },
+        {
+          "verse": 19,
+          "text": "For vvhat is our hope, or ioy, or crovvne of glorie? Are not you before our Lord IESVS Chriſt in his comming?",
+          "notes": [
+            {
+              "label": "1",
+              "text": "If the Apoſtle vvithout iniurie to god, in right good ſenſe call his ſcholers the Theſſaloniās, his hope, ioy, glorie : vvhy blaſpheme the Proteſtāts the Cath. Church & her childrē for terming our B. Ladie or other Sainctes, their hope, for the ſpecial confidēce they haue in their praiers?",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 20,
+          "text": "For you are our glorie and ioy."
+        }
+      ],
+      "summary": "He calleth euen them ſelues to vvitnes, that his preaching vnto them vvas as he ſaid, in moſt commendable maner. 13 And againe on the other ſide he thanketh God for their maner of receiuing it: that is, vvith al ioy, notvvithſtanding the perſecution of their ovvne citizens."
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "FOR the vvhich cauſe forbearing no longer, it pleaſed vs to remaine at Athens, alone."
+        },
+        {
+          "verse": 2,
+          "text": "And vve ſent Timothee our brother, & the miniſter of God in the Goſpel of Chriſt, to confirme you and exhort you for your faith,"
+        },
+        {
+          "verse": 3,
+          "text": "that no man be moued in theſe tribulations, for your ſelues knovv, that vve are appointed to this."
+        },
+        {
+          "verse": 4,
+          "text": "For euen vvhen vve vvere vvith you, vve foretold you that vve ſhould ſuffer tribulations, as alſo it is come to paſſe, & you knovv."
+        },
+        {
+          "verse": 5,
+          "text": "Therfore I alſo forbearing no longer, ſent to knovv your faith: leſt perhaps he that tempteth, hath tempted you, & our labour be made vaine."
+        },
+        {
+          "verse": 6,
+          "text": "But now Timothee comming vnto vs from you, & reporting to vs your faith & charitie, and that you haue a good remembrance of vs alvvaies, deſiring to ſee vs, as vve alſo you:",
+          "cross_refs": [
+            {
+              "text": "Act. 18, 5."
+            }
+          ]
+        },
+        {
+          "verse": 7,
+          "text": "therfore vve are comforted, brethren, in you, in al our neceſſitie & tribulation, by your faith,"
+        },
+        {
+          "verse": 8,
+          "text": "becauſe novv vve liue, if you ſtand in our Lord."
+        },
+        {
+          "verse": 9,
+          "text": "For vvhat thankes-giuing can vve render to God for you, in al ioy vvherevvith vve reioyce for you before our God,"
+        },
+        {
+          "verse": 10,
+          "text": "night and day more aboundantly praying that vve may ſee your face, and may accompliſh thoſe things that vvant of your faith.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "Though letters or epiſtles in absēce giue great comfort and confirmation in faith, yet it is preaching in preſence by vvhich the faith of Chriſt and true religion is alvvais both begunne and accompliſhed.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 11,
+          "text": "And God him ſelf and our Father, and our Lord IESVS Chriſt direct our vvay to you."
+        },
+        {
+          "verse": 12,
+          "text": "And our Lord multiplie you, and make your charitie abound one to an other, & tovvard al men: as vve alſo in you,"
+        },
+        {
+          "verse": 13,
+          "text": "to confirme your hartes vvithout blame, in holineſſe, before God and our Father, in the comming of our Lord IESVS Chriſt vvith al his Sainctes. Amen."
+        }
+      ],
+      "summary": "Becauſe he could not come him ſelf, as he deſired, he ſent Timothee. 6 At vvhoſe returne novv vnderſtanding that they ſtand ſtil ſtedfaſt, notvvithſtāding al thoſe perſecutions, he reioyceth excedingly: 10 praying that he may ſee them againe, 12 and for their increaſe in charitie."
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "FOR the reſt therfore, brethren, vve deſire & beſeeche you in our Lord IESVS, that as you haue receiued of vs hovv you ought to vvalke, and to pleaſe God, as alſo you doe vvalke, that you abounde more.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "The Epiſtle vpon the 2 Sunday in Lent.",
+              "kind": "lectionary"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "For you knovv vvhat precepts I haue giuen to you by our Lord IESVS."
+        },
+        {
+          "verse": 3,
+          "text": "For this is the vvil of God, your ſanctification: that you abſtaine from fornication,"
+        },
+        {
+          "verse": 4,
+          "text": "that euery one may knovv to poſſeſſe his veſſel in ſanctification and honour:"
+        },
+        {
+          "verse": 5,
+          "text": "not in the paſſion of luſt, as alſo the Gentiles that knovv not God,"
+        },
+        {
+          "verse": 6,
+          "text": "and that no man ouergoe, nor circumuent his brother in buſineſſe: becauſe our Lord is reuenger of al theſe things, as vve haue foretold you,& haue teſtified."
+        },
+        {
+          "verse": 7,
+          "text": "For God hath not called vs into vncleanneſſe: but into ſanctification. ⊢"
+        },
+        {
+          "verse": 8,
+          "text": "Therfore he that deſpiſeth theſe things, deſpiſeth not man but God, vvho alſo hath giuen his holy Spirit in vs.",
+          "has_annotation": true
+        },
+        {
+          "verse": 9,
+          "text": "But concerning the charitie of the cfraternitie, vve haue no neede to vvrite to you: for your ſelues haue learned of God to loue one an other.",
+          "cross_refs": [
+            {
+              "text": "Io. 13, 34. 15, 17. Heb. 13, 1."
+            }
+          ],
+          "notes": [
+            {
+              "label": "2",
+              "text": "c All Catholic Chriſtians make one fraternitie or brotherhod.",
+              "kind": "gloss"
+            }
+          ],
+          "xrefs": [
+            "Io. 13, 34. 15, 17. Heb. 13, 1."
+          ]
+        },
+        {
+          "verse": 10,
+          "text": "Yea and you do it tovvard al the brethren in al Macedonia. But vve deſire you brethren, that you abound more:",
+          "notes": [
+            {
+              "label": "1",
+              "text": "Chriſtian men ought to procede and profite continually in good vvorkes and iuſtification.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 11,
+          "text": "& that you employ your indeuour to be quiet, & that you doe your ovvne buſineſſe, & vvorke vvith your ovvne handes, as we haue commaunded you:"
+        },
+        {
+          "verse": 12,
+          "text": "and that you vvalke honeſtly tovvard them that are vvithout: and neede nothing of any mans."
+        },
+        {
+          "verse": 13,
+          "text": "And vve vvil not haue you ignorant, brethren, concerning them that ſleepe, that you be not ſorovvful, as alſo others that haue no hope.",
+          "has_annotation": true,
+          "notes": [
+            {
+              "label": "1",
+              "text": "The Epiſtle in a Maſſe for the dead vpon the day of the burial or depoſition.",
+              "kind": "lectionary"
+            }
+          ]
+        },
+        {
+          "verse": 14,
+          "text": "For if vve beleeue that IESVS died and roſe againe, ſo alſo God them that haue ſlept by IESVS vvil bring vvith him."
+        },
+        {
+          "verse": 15,
+          "text": "For this vve ſay to you in the vvord of our Lord, that vve vvhich liue, vvhich are remaining in the aduent of our Lord, ſhal not preuent them that haue ſlept.",
+          "cross_refs": [
+            {
+              "text": "1. Cor. 15, 23."
+            }
+          ],
+          "notes": [
+            {
+              "label": "2",
+              "text": "1. Cor. 15, 23. · He ſpeaketh in the perſon of thoſe that ſhal be aliue vvhen our Sauiour returneth to iudgement.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 16,
+          "text": "For our Lord him ſelf in commaundement and in the voice of an Archangel and in the trompet of God vvil deſcend from heauen: and the dead that are in Chriſt, ſhal riſe againe firſt.",
+          "cross_refs": [
+            {
+              "text": "Mt. 24, 31. 1. Cor. 13, 52."
+            }
+          ]
+        },
+        {
+          "verse": 17,
+          "text": "Then vve that liue, that are left, vvithal ſhal be taken vp vvith them in the cloudes to meete Chriſt, into the aire, and ſo alvvaies vve ſhal be vvith our Lord."
+        },
+        {
+          "verse": 18,
+          "text": "Therfore comfort ye one an other in theſe vvordes. ⊢"
+        }
+      ],
+      "summary": "He exhorteth them to liue as he taught them: and namely to abſteine from al fornicatiō, 9 to loue one an other, 11 to meddle onely vvith their ovvne matters, 12 to behaue them ſelues vvel tovvard the Infidels. 13 Touching their frendes departed, he comforteth them, ſhevving that they ſhal meete againe at the Reſurrection, and be vvith Chriſt for euer."
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "AND of the times and momentes, brethren, you neede not that vve vvrite to you."
+        },
+        {
+          "verse": 2,
+          "text": "For your ſelues knovv perfectly that the day of our Lord ſhal ſo come, as a theefe in the night.",
+          "cross_refs": [
+            {
+              "text": "Mt. 24, 44. 2. Pet. 3, 10. Apoc. 3, 3. 16, 15."
+            }
+          ]
+        },
+        {
+          "verse": 3,
+          "text": "For vvhen they ſhal ſay, peace & ſecuritie: then ſhal ſodaine deſtruction come vpon them, as the paines to her that is vvith childe, and they ſhal not eſcape."
+        },
+        {
+          "verse": 4,
+          "text": "But you brethren are not in darkneſſe: that the ſame day may, as a theefe ouertake you."
+        },
+        {
+          "verse": 5,
+          "text": "For al you are the children of light, and children of the day: vve are not of the night nor of darkneſſe."
+        },
+        {
+          "verse": 6,
+          "text": "Therfore let vs not ſleepe as alſo others: but let vs vvatch and be ſober."
+        },
+        {
+          "verse": 7,
+          "text": "For they that ſleepe, ſleepe in the night: & they that be drunke, be drunke in the night."
+        },
+        {
+          "verse": 8,
+          "text": "But vve that are of the day, are ſober, hauing on the breaſt-plate of faith and charitie, and a helmet, the hope of ſaluation.",
+          "cross_refs": [
+            {
+              "text": "Eſa. 59, 17. Eph. 6, 17."
+            }
+          ],
+          "notes": [
+            {
+              "label": "2",
+              "text": "Eſa. 59, 17. Eph. 6, 17. · A chriſtian mans vvhole armour is not faith only, but al the three vertues here named.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "text": "For God hath not appointed vs vnto vvrath, but vnto the purchaſing of ſaluation by our Lord IESVS Chriſt,"
+        },
+        {
+          "verse": 10,
+          "text": "vvho died for vs: that vvhether vve vvatch, or ſleepe, vve may liue together vvith him."
+        },
+        {
+          "verse": 11,
+          "text": "For the vvhich cauſe comfort one an other: & edifie one an other, as alſo you doe."
+        },
+        {
+          "verse": 12,
+          "text": "And vve beſeeche you brethren, that you vvil knovv them that labour among you, and that gouerne you in our Lord, and admoniſh you:"
+        },
+        {
+          "verse": 13,
+          "text": "that you haue them more aboundantly in charitie for their vvorke. haue peace vvith them."
+        },
+        {
+          "verse": 14,
+          "text": "And vve beſeeche you brethren, admoniſh the vnquiet, comfort the vveake-minded, beare vp the vveake, be patient to al.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "The Epiſtle vpon the Imber Saturday in Lent.",
+              "kind": "lectionary"
+            }
+          ]
+        },
+        {
+          "verse": 15,
+          "text": "See that none render euil for euil to any man: but alvvaies that vvhich is good purſue tovvards eche other, and tovvards al.",
+          "cross_refs": [
+            {
+              "text": "Pro. 17, 13. Ro. 12, 1. Pet. 3, 9."
+            }
+          ],
+          "xrefs": [
+            "Pro. 17, 13. Ro. 12. 1. Pet. 3, 9."
+          ]
+        },
+        {
+          "verse": 16,
+          "text": "Alvvaies reioyce."
+        },
+        {
+          "verse": 17,
+          "text": "Pray vvithout intermiſſion.",
+          "cross_refs": [
+            {
+              "text": "Luc. 18, 1."
+            }
+          ],
+          "notes": [
+            {
+              "label": "2",
+              "text": "Luc. 18, 1. · To deſire eternal life of him that onely can giue it, is to pray vvithout intermiſſion: but becauſe that deſire is often by Worldly cares cooled, certaine houres and times of vocal praier vvere appointed. See S. Aug. ep. 121 ad Probam.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 18,
+          "text": "In al things giue thankes. for this is the vvil of God in Chriſt IESVS in al you."
+        },
+        {
+          "verse": 19,
+          "text": "The Spirit extinguiſh not."
+        },
+        {
+          "verse": 20,
+          "text": "Prophecies deſpiſe not."
+        },
+        {
+          "verse": 21,
+          "text": "But prooue al things: hold that vvhich is good.",
+          "has_annotation": true
+        },
+        {
+          "verse": 22,
+          "text": "From al appearance of euil refraine your ſelues."
+        },
+        {
+          "verse": 23,
+          "text": "And the God of peace him ſelf ſanctifie you in al things: that your vvhole ſpirit, and ſoule and body vvithout blame may be preſerued in the comming of our Lord IESVS Chriſt. ⊢"
+        },
+        {
+          "verse": 24,
+          "text": "He is faithful, that hath called you, vvho alſo vvil doe it."
+        },
+        {
+          "verse": 25,
+          "text": "Brethren pray for vs."
+        },
+        {
+          "verse": 26,
+          "text": "Salute al the brethren in a holy kiſſe."
+        },
+        {
+          "verse": 27,
+          "text": "I adiure you by our Lord that this epiſtle be read to al the holy brethren."
+        },
+        {
+          "verse": 28,
+          "text": "The grace of our Lord IESVS Chriſt be vvith you. Amen."
+        }
+      ],
+      "summary": "To talke of the time of the Reſurrection is not neceſſarie, but to prepare our ſelues againſt that time ſo ſodaine and ſo terrible to the vnprepared. 12 He beſeecheth the laitie to be obedient, 14 and the Clergie to be vigilant, vvith many ſhort precepts moe."
+    }
+  ],
+  "spelling": "original"
+}

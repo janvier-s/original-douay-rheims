@@ -1,0 +1,93 @@
+{
+  "book": "2-john",
+  "book_title": "The Second Epistle of John the Apostle.",
+  "short_title": "2 John",
+  "hebrew_title": null,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "<sc>THE</sc> Senior to the lady Elect and her children, vvhom I loue in truth, and not I onely, but alſo al that haue knowen the truth,"
+        },
+        {
+          "verse": 2,
+          "text": "for the truth vvhich abideth in vs, and ſhal be vvith vs for euer."
+        },
+        {
+          "verse": 3,
+          "text": "Grace be vvith you, mercie, peace from God the Father, and from Chriſt <sc>IESVS</sc> the ſonne of the Father in truth, and charitie."
+        },
+        {
+          "verse": 4,
+          "text": "I vvas exceding glad, becauſe I haue found of thy children vvalking in truth, as vve haue receiued commaundement of the Father."
+        },
+        {
+          "verse": 5,
+          "text": "And novv I beſeeche thee Lady, not as vvriting a nevv commaundement to thee, but that vvhich vve haue had from the beginning, <cr>[1]</cr> that vve loue one an other.",
+          "cross_refs": [
+            {
+              "text": "Io. 15, 12. 1. Io. 3, 11."
+            }
+          ]
+        },
+        {
+          "verse": 6,
+          "text": "And this is charitie, that vve vvalke according to his commaundements. For this is the commaundement, that as you haue heard from the beginning, you walke in the ſame:",
+          "has_annotation": true
+        },
+        {
+          "verse": 7,
+          "text": "becauſe many ſeducers are gone out into the vvorld, vvhich do not confeſſe <sc>IESVS</sc> Chriſt to haue come into fleſh: this is a ſeducer and an antichriſt."
+        },
+        {
+          "verse": 8,
+          "text": "Looke to your ſelues, that you loſe not the thinges vvhich you haue vvrought: but that you may receiue a ful <na>[1]</na> revvard.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "Reward for keeping faſt the Catholic faith.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "text": "Euery one that <na>[1]</na> c reuolteth, and perſiſteth not in in the doctrine of Chriſt: hath not God. He that perſiſteth in the doctrine: the ſame hath both the Father, and the Sonne.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "To goe backe or reuolt from the receiued truth and doctrine Apoſtolical, is damnable.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "text": "If <cr>[1]</cr> any man come to you, and bring not this doctrine: receiue him not into the houſe, nor ſay, <i>God ſaue you</i>, vnto him.",
+          "has_annotation": true,
+          "cross_refs": [
+            {
+              "text": "Ro. 16, 17."
+            }
+          ]
+        },
+        {
+          "verse": 11,
+          "text": "For he that ſaith vnto him, <i>God ſaue you</i>, communicateth vvith his vvicked vvorkes."
+        },
+        {
+          "verse": 12,
+          "text": "Hauing moe thinges to vvrite vnto you: I vvould not by paper and inke: for I hope that I ſhal be vvith you, and ſpeake mouth to mouth: that your ioy may be ful."
+        },
+        {
+          "verse": 13,
+          "text": "The children of thy ſiſter electe ſalute thee."
+        }
+      ],
+      "summary": "He commendeth the lady and her ſonnes for continuing in the old faith, bidding them ſo to doe hereafter alſo, leſt they loſe the revvard of their vvorkes in the day of iudgement: and to loue the true beleeuers, but vvith Heretikes to haue no ſocietie: expreſſing alſo the points then in controuerſie."
+    }
+  ],
+  "spelling": "original"
+}

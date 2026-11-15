@@ -1,0 +1,947 @@
+{
+  "book": "galatians",
+  "book_title": "The Epistle of S. Paul\nto the Galatians.",
+  "short_title": "Galatians",
+  "hebrew_title": null,
+  "intros": [
+    {
+      "title": "THE ARGUMENT OF THE EPISTLE OF S. PAUL TO THE GALATIANS.",
+      "text": "THAT this Epiſtle may ſeeme to be the firſt that S. Paul wrote, was declared in the Argument of the Epiſtle to the Romanes, notwithſtanding that in the ſecond chapter it is euident to haue bene written 14 yeres at the leaſt after his Conuerſion, and (as it is ſaid) from Epheſus, belike at that time of his being there, which is mentioned Act. 18.<br>The occaſion of it were ſuch Falſe apoſtles, as we reade of, Act. 15. Et quidam deſcendentes, &c. <i>And certaine comming downe from Iewrie, taught the brethren</i> (that is the Chriſtian Gentiles at Antioche) <i>that vnles you be circumciſed according to the manner of Moyſes, you cannot be ſaued.</i> Such commers alſo to the Galatians (whom S. Paul had conuerted Act. 16, as himſelf mentioneth Gal. 1. and 4.) did ſeduce them, ſaying, that al the other Apoſtles to whom they ſhould rather harken then to Paul (who came they knew not from whence) did vſe Circumciſion: yea and that Paul himſelf, when he came among them, durſt do none other. And to winne them more eaſily, they did not lay on them the burden of the whole Law, but of Circumciſion only.<br>Againſt theſe deceiuers, S. Paul declareth, that he receiued his Apoſtleſhip and learned the Goſpel that he preacheth, of Chriſt himſelf after his Reſurrection: and that the other Apoſtles (although he learned nothing of them) receiued him into their ſocietie, and allowed wel of his preaching to the Gentiles, though themſelues being Jews, and liuing among the Jews, had not yet left the ceremonies of the Law: howbeit they did not put in them any hope of iuſtification, but in Chriſt alone without them. He declareth moreouer, that the ſaid Falſe apoſtles belyed him, in ſaying that he alſo preached Circumciſion ſometimes. Againe, that they themſelues in preaching no more but Circumciſion, did againſt the nature of Circumciſion, becauſe it is a profeſſion to obſerue the whole Law: finally, whatſoeuer they pretended, that indeed they did it onely to pleaſe the Jews, of whom otherwiſe they ſhould be perſecuted.<br>So that in this Epiſtle he handleth the ſame matter, which in the Epiſtle to the Romanes: but here leſſe exactly and more briefly, becauſe the Galatians were very rude, and the Romanes contrariwiſe, repleti omni ſcientia (Rom. 15) <i>repleniſhed with al knowledge.</i>",
+      "default": true
+    }
+  ],
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "<sc>PAVL</sc> an Apoſtle not of men, neither by man, but by <sc>IESVS</sc> Chriſt, and God the Father that raiſed him from the dead,",
+          "has_annotation": true
+        },
+        {
+          "verse": 2,
+          "text": "and al the brethren that are vvith me: to the churches of Galatia."
+        },
+        {
+          "verse": 3,
+          "text": "Grace to you and peace from God the Father and our Lord <sc>IESVS</sc> Chriſt,"
+        },
+        {
+          "verse": 4,
+          "text": "vvho gaue him ſelf for our ſinnes, that he might deliuer vs from this preſent vvicked vvorld, according to the vvil of our God and father:"
+        },
+        {
+          "verse": 5,
+          "text": "to vvhom is glorie for euer and euer. Amen."
+        },
+        {
+          "verse": 6,
+          "text": "I maruel that thus ſo ſoone you are transferred from him that called you into the grace of Chriſt, vnto an other Goſpel:"
+        },
+        {
+          "verse": 7,
+          "text": "which is not an other, vnles there be ſome that trouble you, and vvil <na>[1]</na> inuert the Goſpel of Chriſt.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "New Goſpellers that peruert, corrupt, or alter the one onely true and firſt deliuered Goſpel, are to be auoided. See S. Auguſtine <i>Cont. Fauſtum li. 32. c. 27</i>.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 8,
+          "text": "But although we, or an Angel from heauen, euangelize to you beſide that vvhich vve haue euangelized to you, be he anáthema.",
+          "has_annotation": true
+        },
+        {
+          "verse": 9,
+          "text": "As we haue ſaid before, ſo novv I ſay againe, If any euangelize to you, beſide that vvhich you haue receiued, be he anáthema."
+        },
+        {
+          "verse": 10,
+          "text": "For do I novv vſe perſuaſion to men, or to God? Or do I ſeeke to pleaſe men? If I yet did pleaſe men, I ſhould not be the ſeruant of Chriſt."
+        },
+        {
+          "verse": 11,
+          "text": "<na>[1]</na> For I doe you to vnderſtand, brethren, the Goſpel that vvas euangelized of me, that it is not according to man.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "The Epiſtle vpon the Commemoration of S. Paul, <i>Iun. 30</i>.",
+              "kind": "lectionary"
+            }
+          ]
+        },
+        {
+          "verse": 12,
+          "text": "For neither did I receiue it of man, nor learne it: but by the reuelation of <sc>IESVS</sc> Chriſt."
+        },
+        {
+          "verse": 13,
+          "text": "For you haue heard my conuerſation ſometime in Iudaiſme, that aboue meaſure I perſecuted the Church of God, and expugned it, <cr>[1]</cr>",
+          "cross_refs": [
+            {
+              "text": "Act. 9, 1."
+            }
+          ]
+        },
+        {
+          "verse": 14,
+          "text": "and profited in Iudaiſme aboue many of mine equales in my nation, being more aboundantly an emulator of the traditions of my fathers."
+        },
+        {
+          "verse": 15,
+          "text": "But vvhen it pleaſed him that ſeparated me from my mothers vvombe, and called me by his grace, to reueale his ſonne in me,"
+        },
+        {
+          "verse": 16,
+          "text": "that I ſhould euangelize him among the Gentils, incontinent I condeſcended not to fleſh and bloud,"
+        },
+        {
+          "verse": 17,
+          "text": "neither came I to Hieruſalem to the Apoſtles my anteceſſors: but I vvent into Arabia, and againe I returned to Damaſcus."
+        },
+        {
+          "verse": 18,
+          "text": "Then, after three yeres I came to Hieruſalem to ſee Peter: and taried with him fiftene daies.",
+          "has_annotation": true
+        },
+        {
+          "verse": 19,
+          "text": "But other of the Apoſtles ſavv I none: ſauing Iames <na>[1]</na> the brother of our Lord.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "S. Iames was called our Lordes brother after the hebrew phraſe of the Iewes, by which neere kinſmen are called brethren, for they were not brethren in deede, but rather ſiſters children.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 20,
+          "text": "And the things that I vvrite to you: behold before God, that I lie not. ⊢"
+        },
+        {
+          "verse": 21,
+          "text": "After that, I came into the partes of Syria and Cilicia."
+        },
+        {
+          "verse": 22,
+          "text": "And I vvas vnknowen by ſight to the churches of Ievvrie, that vvere in Chriſt:"
+        },
+        {
+          "verse": 23,
+          "text": "but they had heard only, That he vvhich perſecuted vs ſometime, doth novv euangelize the faith vvhich ſometime he expugned:"
+        },
+        {
+          "verse": 24,
+          "text": "and in me they glorified God."
+        }
+      ],
+      "summary": "After the foundation laide in the ſalutation, 6 he exclaimeth againſt the Galatians, and their falſe apoſtles, 11 conſidering that the Goſpel which he preached to them, he had it immediatly of Chriſt him ſelf. 13 Which to ſhew he beginneth to tel the ſtorie of his conuerſion and preaching ſince then, that as he learned nothing of the other Apoſtles, ſo yet he had their approbation."
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "<sc>THEN</sc> after fourtene yeres I vvent vp againe to Hieruſalem vvith Barnabas, taking Titus alſo vvith me."
+        },
+        {
+          "verse": 2,
+          "text": "And I vvent vp according to reuelation: and cóferred with them the Goſpel which I preach among the Gentiles, but apart with them that ſeemed to be ſomething, leſt perhaps in vaine I ſhould runne or had runne.",
+          "has_annotation": true
+        },
+        {
+          "verse": 3,
+          "text": "But neither Titus which vvas with me, vvhereas he vvas a Gentil, vvas compelled to be circumciſed:"
+        },
+        {
+          "verse": 4,
+          "text": "but becauſe of the falſe brethren craftely brought in, vvhich craftely came in to eſpie our libertie that vve haue in Chriſt <sc>IESVS</sc>, that they might bring vs into ſeruitude."
+        },
+        {
+          "verse": 5,
+          "text": "To vvhom vve yelded not ſubiection no not for an houre, that the truth of the Goſpel may remaine vvith you."
+        },
+        {
+          "verse": 6,
+          "text": "But of them that ſeemed to be ſomething, (vvhat they vvere ſometime, it is nothing to me. <cr>[1]</cr> God accepteth not the perſon of man) for to me, they that ſeemed to be ſomething, added nothing.",
+          "has_annotation": true,
+          "cross_refs": [
+            {
+              "text": "Deu. 10, 17."
+            }
+          ]
+        },
+        {
+          "verse": 7,
+          "text": "But contrarievviſe vvhen they had ſeen, that to me vvas committed the Goſpel of the <na>[1]</na> prepuce, as to Peter of the circumciſion (",
+          "has_annotation": true,
+          "notes": [
+            {
+              "label": "1",
+              "text": "See the marginal Annotation <i>Rom. 2. v. 25</i>.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 8,
+          "text": "for he that vvrought in Peter to the Apoſtleſhip of the circumciſion, vvrought in me alſo among the Gentils)"
+        },
+        {
+          "verse": 9,
+          "text": "and vvhen they had knovven the grace that vvas giuen me, Iames and Cephas and Iohn, vvhich ſeemed to be pillers, gaue to me and Barnabas the right handes of ſocietie: that vve vnto the Gentiles, & they vnto the circumciſion:",
+          "has_annotation": true
+        },
+        {
+          "verse": 10,
+          "text": "only that vve ſhould be mindeful of the poore: the vvhich ſame thing alſo I vvas careful to doe."
+        },
+        {
+          "verse": 11,
+          "text": "And vvhen Cephas vvas come to Antioche, I reſiſted him <na>[1]</na><na>[2]</na> in face, becauſe he vvas reprehenſible.",
+          "has_annotation": true,
+          "notes": [
+            {
+              "label": "1",
+              "text": "That is, <i>in preſence, before them al</i>, as Beza him ſelf expoundeth it. Yet the Engliſh Bezites to the more diſgracing of S. Peter, tranſlate, <i>to his face</i>, No. Teſt. an. 1580.",
+              "kind": "gloss"
+            },
+            {
+              "label": "2",
+              "text": "<i>κατὰ πρόσωπον</i>",
+              "kind": "word"
+            }
+          ]
+        },
+        {
+          "verse": 12,
+          "text": "For before that certaine came from Iames, he did eate with the Gentiles: but vvhen they vvere come, he vvithdrevv and ſeparated him ſelf, fearing them that vvere of the circumciſion."
+        },
+        {
+          "verse": 13,
+          "text": "And to his ſimulation conſented the reſt of the Ievves, ſo that Barnabas alſo vvas ledde of them into that ſimulation."
+        },
+        {
+          "verse": 14,
+          "text": "But vvhen I ſavv that they vvalked not rightly to the veritie of the Goſpel, I ſaid to Cephas before them al: If thou being a Ievve, liueſt Gentile-like & not Iudaically: hovv doeſt thou compel the Gentils to Iudaize."
+        },
+        {
+          "verse": 15,
+          "text": "We are by nature Ievves, and not of the Gentils, ſinners."
+        },
+        {
+          "verse": 16,
+          "text": "But knovving that <cr>[1]</cr> man is not iuſtified by the vvorkes <na>[2]</na> of the Lavv, but by the faith of <sc>IESVS</sc> Chriſt: we alſo beleeue in Chriſt <sc>IESVS</sc>, that we may be iuſtified by the faith of Chriſt, and not by the vvorkes of the Lavv: for the vvhich cauſe, by the workes of the Law no fleſh ſhal be iuſtified.",
+          "cross_refs": [
+            {
+              "text": "Ro. 3, 19. 20."
+            }
+          ],
+          "notes": [
+            {
+              "label": "2",
+              "text": "Ro. 3, 19. 20. · By this and by the diſcourſe of this whole epiſtle, you may perceiue, that when iuſtification is attributed to faith, the vvorkes of Charitie, be not excluded, but the workes of Moyſes law: that is, the ceremonies, ſacrifices and ſacraments thereof principally, and conſequently al workes done merely by nature and free wil, without the faith, grace, ſpirit, & aide of Chriſt.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 17,
+          "text": "But if ſeeking to be iuſtified in Chriſt, our ſelues alſo be found ſinners: is Chriſt then a miniſter of ſinne? God forbid."
+        },
+        {
+          "verse": 18,
+          "text": "For if I build the ſame things againe vvhich I haue deſtroied, I make my ſelf a preuaricatour."
+        },
+        {
+          "verse": 19,
+          "text": "For I by the Lavv, am dead to the Law, that I may liue to God: vvith Chriſt I am nailed to the croſſe."
+        },
+        {
+          "verse": 20,
+          "text": "And I liue, novv not I: but Chriſt liueth in me. And that that I liue novv in the fleſh, I liue in the faith of the ſonne of God, who loued me, & deliuered him ſelf for me."
+        },
+        {
+          "verse": 21,
+          "text": "I caſt not avvay the grace of God. For if iuſtice be by the Lavv, then Chriſt died in vaine."
+        }
+      ],
+      "summary": "He telleth furth the ſtorie begonne in the laſt chapter, and how he reprehended Peter, 15 and then ſpecially vrgeth the enſample of the Chriſtian Iewes, who ſought vnto Chriſt for iuſtification, and that by warrant alſo of their Law it ſelf, as alſo becauſe othervviſe Chriſts death had been needles."
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "O Senſles Galatians, vvho hath <na>[1]</na> bevvitched you, not to obey the truth, before vvhoſe eies <sc>IESVS</sc> Chriſt vvas proſcribed, being crucified among you?",
+          "notes": [
+            {
+              "label": "1",
+              "text": "For any people or perſon to forſake the faith of their firſt Apoſtles & Conuerſion, at the voice of a few nouellaries, ſeemeth to wiſe men a very bewitching & ſenſeles brutiſhnes. Such is the caſe of our poore countrie, Germanie, and others.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "This only I vvould learne of you, By the vvorkes of the Lavv, did you receiue the Spirit, or by the hearing of the faith?"
+        },
+        {
+          "verse": 3,
+          "text": "Are you ſo fooliſh, that vvhereas you began vvith the ſpirit, now you vvil be conſummate vvith the fleſh?"
+        },
+        {
+          "verse": 4,
+          "text": "Haue you ſuffered ſo great things vvithout cauſe? if yet vvithout cauſe."
+        },
+        {
+          "verse": 5,
+          "text": "He therfore that giueth you the Spirit, and vvorketh miracles among you: by the vvorkes of the Lavv, or by the hearing of the faith doeth he it?"
+        },
+        {
+          "verse": 6,
+          "text": "As, <cr>[1]</cr> <i>Abraham beleeued God, and it vvas reputed to him vnto iuſtice</i>.",
+          "cross_refs": [
+            {
+              "text": "Gen. 15, 6. Ro. 4, 3."
+            }
+          ]
+        },
+        {
+          "verse": 7,
+          "text": "Know ye therfore that they that are <na>[1]</na> of faith, the ſame are the children of Abraham.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "This faith whereby Abraham vvas iuſtified, and his children the Gentils beleeuing in Chriſt, implieth al Chriſtian vertues, of which the firſt is faith, the ground & foundation of al the reſt, and therfore here and els where often named of the Apoſtle.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 8,
+          "text": "And the Scripture foreſeing that God iuſtifieth the Gentils by faith, ſhewed vnto Abraham before, <cr>[1]</cr> <i>That in thee ſhal al nations be bleſſed</i>.",
+          "cross_refs": [
+            {
+              "text": "Gen. 12, 3."
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "text": "Therfore they that are of faith, ſhal be bleſſed vvith the faithful Abraham."
+        },
+        {
+          "verse": 10,
+          "text": "For vvhoſoeuer are of the vvorkes of the Lavv, are vnder curſe. For it is vvritten: Curſed be euery one that abideth not in al things that be written in the booke of the Lavv, to doe them.",
+          "has_annotation": true,
+          "cross_refs": [
+            {
+              "text": "Deut. 27, 26",
+              "source": "sancta"
+            }
+          ]
+        },
+        {
+          "verse": 11,
+          "text": "But that in the Law no man is iuſtified vvith God, it is manifeſt, becauſe <cr>[1]</cr> <i>The iuſt liueth by faith</i>.",
+          "has_annotation": true,
+          "cross_refs": [
+            {
+              "text": "Abac. 2. Ro. 1."
+            }
+          ],
+          "xrefs": [
+            "Abac. 2."
+          ]
+        },
+        {
+          "verse": 12,
+          "text": "But the Lavv is not by faith: but, <cr>[1]</cr> <i>He that doeth thoſe things, ſhal liue in them</i>.",
+          "cross_refs": [
+            {
+              "text": "Lev. 18."
+            }
+          ]
+        },
+        {
+          "verse": 13,
+          "text": "Chriſt hath redeemed vs from the curſe of the Lavv, being made a curſe for vs (becauſe it is vvritten, <cr>[1]</cr> <i>Curſed is euery one that hangeth on a tree</i>)",
+          "cross_refs": [
+            {
+              "text": "Deu. 21."
+            }
+          ]
+        },
+        {
+          "verse": 14,
+          "text": "that on the Gentiles the bleſſing of Abraham might be made in Chriſt <sc>IESVS</sc>: that vve may receiue the promiſſe of the Spirit by faith."
+        },
+        {
+          "verse": 15,
+          "text": "<na>[1]</na> Brethren (I ſpeake according to man) yet a mans teſtament being confirmed no man deſpiſeth, or further diſpoſeth.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "The Epiſtle vpon the 13 Sunday after Pentecoſt.",
+              "kind": "lectionary"
+            }
+          ]
+        },
+        {
+          "verse": 16,
+          "text": "To Abraham vvere the promiſes ſaid, and to his ſeede. He ſaith not, <i>And to ſeedes</i>, as in many: but as in one, <cr>[1]</cr> <i>And to thy ſeede</i>, vvhich is Chriſt.",
+          "cross_refs": [
+            {
+              "text": "Gen. 22, 18."
+            }
+          ]
+        },
+        {
+          "verse": 17,
+          "text": "And this I ſay, the teſtament being confirmed of God, the Lavv vvhich vvas made after foure hundred and thirtie yeres, maketh not void to fruſtrate the promiſe."
+        },
+        {
+          "verse": 18,
+          "text": "For if the inheritance be of the Lavv, novv not of promiſe. But God gaue it to Abraham by promiſe."
+        },
+        {
+          "verse": 19,
+          "text": "VVhy vvas the Lavv then? It vvas put for tranſgreſſions, vntil the ſeede came to vvhom he had promiſed: ordeined by Angels in the hand of a mediatour."
+        },
+        {
+          "verse": 20,
+          "text": "And a mediatour is not of one: but God is one."
+        },
+        {
+          "verse": 21,
+          "text": "VVas the Lavv then againſt the promiſes of God? God forbid. For if there had been a Lavv giuen that could iuſtifie, vndoubtedly iuſtice ſhould be of the Lavv."
+        },
+        {
+          "verse": 22,
+          "text": "But the Scripture <cr>[1]</cr> hath concluded al things vnder ſinne: that the promiſe by the faith of <sc>IESVS</sc> Chriſt might be giuen to them that beleeue. ⊢",
+          "cross_refs": [
+            {
+              "text": "Ro. 3, 9. 11, 32."
+            }
+          ]
+        },
+        {
+          "verse": 23,
+          "text": "But before the faith came, vnder the Lavv we vvere kept ſhut vp, vnto that faith which vvas to be reuealed."
+        },
+        {
+          "verse": 24,
+          "text": "Therfore the Lavv vvas our Pedagogue in Chriſt: that vve may be iuſtified by faith."
+        },
+        {
+          "verse": 25,
+          "text": "But when the faith came, novv vve are not vnder a pædagogue."
+        },
+        {
+          "verse": 26,
+          "text": "For you are al the children of God by faith in Chriſt <sc>IESVS</sc>."
+        },
+        {
+          "verse": 27,
+          "text": "For as many of you as are baptized in Chriſt, haue put on Chriſt.",
+          "has_annotation": true
+        },
+        {
+          "verse": 28,
+          "text": "There is not Ievve nor Greeke, there is not bond nor free, there is not male nor femal. For al you are one in Chriſt <sc>IESVS</sc>."
+        },
+        {
+          "verse": 29,
+          "text": "And if you be Chriſts, then are you the ſeede of Abraham, heires according to promiſe."
+        }
+      ],
+      "summary": "By their owne conuerſion at the firſt, 6 and by the example of Abraham, and promiſe made to him, he ſheweth that the vvay to obtaine the benediction, is to ſeeke vnto God by faith in Chriſt. 10 Seing alſo that the Lavv curſeth euery one that hath not euermore kept the Law. 15 And, that the Law was not giuen to alter Gods teſtament, 19 but to conuince the Iewes of ſinne, 23 and ſo to be their pædagogue or leader vnto Chriſt, 25 and then to ceaſe."
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "<sc>AND</sc> <na>[1]</na> I ſay, as long as the heire is a litle one, he differeth nothing from a ſeruant, although he be lord of al,",
+          "notes": [
+            {
+              "label": "1",
+              "text": "The Epiſtle vpon Twelfth eue.",
+              "kind": "lectionary"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "but is vnder tutors and gouernours vntil the time limited of the father:"
+        },
+        {
+          "verse": 3,
+          "text": "ſo vve alſo, vvhen vve vvere litle ones, vvere ſeruing vnder the <na>[1]</na> elemétes of the vvorld.",
+          "has_annotation": true,
+          "notes": [
+            {
+              "label": "1",
+              "text": "That is, the rudiments of religió, wherin the carnal Iewes were trained vp: or the corporal creatures, wherein their manifold ſacrifices, ſacraments, and rites did conſiſt.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 4,
+          "text": "But vvhen the fulnes of time came, God ſent his ſonne made of a vvoman, made vnder the Lavv:"
+        },
+        {
+          "verse": 5,
+          "text": "that he might redeeme them that vvere vnder the Lavv, that vve might receiue the adoption of ſonnes."
+        },
+        {
+          "verse": 6,
+          "text": "And becauſe you are ſonnes, <cr>[1]</cr> God hath ſent the Spirit of his ſonne into your hartes crying: Abba, Father.",
+          "cross_refs": [
+            {
+              "text": "Ro. 8, 15."
+            }
+          ]
+        },
+        {
+          "verse": 7,
+          "text": "Therfore now he is not a ſeruant, but a ſonne. And if a ſonne, an heire alſo by God. ⊢"
+        },
+        {
+          "verse": 8,
+          "text": "But then in deede not knowing God, you ſerued them that by nature are not Gods."
+        },
+        {
+          "verse": 9,
+          "text": "But novv vvhen you haue knovven God, or rather are knovven of God: hovv turne you againe to the vveake & poore elements, vvhich you vvil ſerue againe?",
+          "has_annotation": true
+        },
+        {
+          "verse": 10,
+          "text": "You obſerue daies, and moneths, and times, and yeres.",
+          "has_annotation": true
+        },
+        {
+          "verse": 11,
+          "text": "I feare you, leſt perhaps I haue laboured in vaine among you."
+        },
+        {
+          "verse": 12,
+          "text": "Be ye as I, becauſe I alſo am as you: brethren, I beſeeche you, you haue hurt me nothing."
+        },
+        {
+          "verse": 13,
+          "text": "And you knovv that by infirmitie of the fleſh I euangelized to you heretofore:"
+        },
+        {
+          "verse": 14,
+          "text": "and your tentation in my fleſh you deſpiſed not, neither reiected, but <na>[1]</na> as an Angel of God you receiued me, as Chriſt <sc>IESVS</sc>.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "So ought al Catholike people receiue their teachers in religion, vvith al duetie, loue, & reuerence.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 15,
+          "text": "VVhere is then your bleſſednes? for I giue you teſtimonie that if it could be done, you vvould haue plucked out your eies and haue giuen them to me."
+        },
+        {
+          "verse": 16,
+          "text": "Am I then become your enemie, telling you the truth?"
+        },
+        {
+          "verse": 17,
+          "text": "They emulate you not vvel: but they vvould exclude you, that you might emulate them."
+        },
+        {
+          "verse": 18,
+          "text": "But do you emulate the good in good alvvaies: and not only vvhen I am preſent vvith you."
+        },
+        {
+          "verse": 19,
+          "text": "My litle children, vvhom I trauail vvithal againe, vntil Chriſt be formed in you."
+        },
+        {
+          "verse": 20,
+          "text": "And I vvould be vvith you now and chaunge my voice: becauſe I am confounded in you."
+        },
+        {
+          "verse": 21,
+          "text": "Tel me you that vvil be vnder the Lavv, haue you not read the Law?"
+        },
+        {
+          "verse": 22,
+          "text": "<cr>[1]</cr> For it is vvritten that <na>[2]</na> Abraham had tvvo ſonnes: one of the bond-vvoman, and one of the free-vvoman.",
+          "cross_refs": [
+            {
+              "text": "Gen. 16, 15. 21, 2."
+            }
+          ],
+          "notes": [
+            {
+              "label": "2",
+              "text": "The Epiſtle vpon the 4 Sunday in Lent.",
+              "kind": "lectionary"
+            }
+          ]
+        },
+        {
+          "verse": 23,
+          "text": "But he that of the bond-vvoman, vvas borne according to the fleſh: and he that of the free-vvoman, by the promiſſe."
+        },
+        {
+          "verse": 24,
+          "text": "vvhich things are ſaid by an allegorie. For theſe are the two teſtaments. The one from mount Sina, gendring vnto bondage: vvhich is Agar,",
+          "has_annotation": true
+        },
+        {
+          "verse": 25,
+          "text": "(for Sina is a mountaine in Arabia, <na>[1]</na> vvhich hath affinitie to that vvhich novv is Hieruſalem) and ſerueth vvith her children.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "<i>c συστοιχεῖ</i>",
+              "kind": "word"
+            }
+          ]
+        },
+        {
+          "verse": 26,
+          "text": "But that Hieruſalem vvhich is aboue, is free: vvhich is our mother."
+        },
+        {
+          "verse": 27,
+          "text": "For it is vvritten: <cr>[1]</cr> <i>Reioyce thou barren, that beareſt not: breake forth and crie, that trauaileſt not: becauſe many are the children of the deſolate, more then of her that hath a huſband</i>.",
+          "cross_refs": [
+            {
+              "text": "Eſa. 54, 1."
+            }
+          ],
+          "xrefs": [
+            "Es. 54, 1."
+          ]
+        },
+        {
+          "verse": 28,
+          "text": "But <cr>[1]</cr> we brethren, according to Iſaac, are the children of promis.",
+          "cross_refs": [
+            {
+              "text": "Ro. 9, 8."
+            }
+          ]
+        },
+        {
+          "verse": 29,
+          "text": "But <na>[1]</na> as then he that vvas borne according to the fleſh, perſecuted him that vvas after the ſpirit: ſo now alſo.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "This mutual perſecution, is a figure alſo of the Church iuſtly perſecuting Heretikes, & contrariwiſe of Heretikes (vvhich be the childré of the bondwoman) vniuſtly perſecuting the Catholike Church. <i>Aug. ep. 48</i>.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 30,
+          "text": "But vvhat ſaith the Scripture? <cr>[1]</cr> <i>Caſt out the bond-woman and her ſonne. for the ſonne of the bond-vvoman ſhal not be heire vvith the ſonne of the free-woman</i>.",
+          "cross_refs": [
+            {
+              "text": "Gen. 21, 10."
+            }
+          ]
+        },
+        {
+          "verse": 31,
+          "text": "Therfore brethren we are not the children of the bond-vvoman, but of the free: by the freedom vvherevvith Chriſt hath made vs free. ⊢",
+          "has_annotation": true
+        }
+      ],
+      "summary": "That the Law vvas fit for the time of nonnage: but being now come to ful age, to deſire ſuch ſeruitude is abſurd, ſpecially for Gentils. 12 And that he writeth this not of any diſpleaſure, but to tel them the truth, remembring how paſsingly they honoured him when he vvas preſent, and exhorting them therfore not to harken to the falſe Apoſtles in his abſence. 21 By the allegorie alſo of Abrahams two ſonnes, ſhewing, that the children of the Iewes Synagogue ſhal not inherite, but we vvho are the children of the free woman: that is, of the Cath. Church of Chriſt."
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "<sc>STAND</sc>, and be not holden in againe vvith the yoke of ſeruitude."
+        },
+        {
+          "verse": 2,
+          "text": "Behold I Paul tel you that if you be circumciſed, Chriſt ſhal profite you nothing."
+        },
+        {
+          "verse": 3,
+          "text": "And I teſtifie againe to euery man circumciding him ſelf, that he is a detter to doe the vvhole Lavv."
+        },
+        {
+          "verse": 4,
+          "text": "You are euacuated from Chriſt, that are iuſtified in the Lavv: you are fallen from grace."
+        },
+        {
+          "verse": 5,
+          "text": "For vve in ſpirit, by faith, expect the hope of iuſtice."
+        },
+        {
+          "verse": 6,
+          "text": "For in Chriſt <sc>IESVS</sc> <cr>[1]</cr> neither circumciſion auaileth ought, nor prepuce: but faith that vvorketh by charitie.",
+          "has_annotation": true,
+          "cross_refs": [
+            {
+              "text": "Gal. 6, 15."
+            }
+          ]
+        },
+        {
+          "verse": 7,
+          "text": "You ranne vvel, vvho hath hindered you not to obey the truth?"
+        },
+        {
+          "verse": 8,
+          "text": "The perſuaſion is not of him that calleth you. <cr>[1]</cr>",
+          "cross_refs": [
+            {
+              "text": "1. Cor. 5, 6."
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "text": "A litle leauen corrupteth the vvhole paſte.",
+          "xrefs": [
+            "1 Cor. 5, 6."
+          ],
+          "cross_refs": [
+            {
+              "text": "1 Cor. 6",
+              "source": "sancta"
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "text": "I haue confidence in you in our Lord: that you vvil be of no other minde: but he that troubleth you, ſhal beare the iudgement, vvhoſoeuer he be."
+        },
+        {
+          "verse": 11,
+          "text": "And as for me, brethren, if as yet I preach circumciſion, vvhy doe I yet ſuffer perſecution? then is the ſcandal of the croſſe euacuated."
+        },
+        {
+          "verse": 12,
+          "text": "I would they vvere alſo cut of that trouble you."
+        },
+        {
+          "verse": 13,
+          "text": "For you, brethren, are called into libertie: only make not this libertie an occaſion to the fleſh, but by charitie ſerue one an other.",
+          "has_annotation": true
+        },
+        {
+          "verse": 14,
+          "text": "<cr>[1]</cr> For al the Lavv is fulfilled in one vvord: <na>[2]</na> <i>Thou ſhalt loue thy neighbour as thy ſelf</i>.",
+          "cross_refs": [
+            {
+              "text": "Lev. 19, 18."
+            }
+          ],
+          "notes": [
+            {
+              "label": "2",
+              "text": "The Epiſtle vpon the 14 Sunday after Pentecoſt.",
+              "kind": "lectionary"
+            }
+          ]
+        },
+        {
+          "verse": 15,
+          "text": "But if you bite and eate one an other: take heede you be not conſumed one of an other."
+        },
+        {
+          "verse": 16,
+          "text": "And I ſay, vvalke in the ſpirit, and the luſtes of the fleſh you ſhal not accompliſh."
+        },
+        {
+          "verse": 17,
+          "text": "For the fleſh luſteth againſt the ſpirit: and the ſpirit againſt the fleſh. for theſe are aduerſaries one to an other: <na>[1]</na> that not vvhat things ſoeuer you vvil, theſe you doe.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "Here men thinke <i>(ſaith S. Auguſtine</i>) the Apoſtle denieth that we haue free libertie of vvil: not vnderſtanding that this is ſaid to them, if they wil not hold faſt the grace of faith conceiued, by vvhich only they cã walke in the ſpirit, & not accópliſh the concupiſcences of the fleſh. <i>in c. 5. Gal</i>.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 18,
+          "text": "But if you be ledde by the ſpirit, you are not vnder the Lavv."
+        },
+        {
+          "verse": 19,
+          "text": "And the workes of the fleſh be manifeſt, vvhich are, fornication, vncleannes, impudicitie, lecherie,"
+        },
+        {
+          "verse": 20,
+          "text": "ſeruing of Idols, vvitch-craftes, enmities, contentions, emulations, angers, bravvles, diſſenſions, ſectes,"
+        },
+        {
+          "verse": 21,
+          "text": "enuies, murders, ebrieties, commeſſations, and ſuch like. vvhich I foretel you, as I haue foretold you, that they vvhich doe <na>[1]</na> ſuch things, ſhal not obteine the kingdom of God.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "c S. Auguſtine ſheweth hereby that not only infidelitie is a damnable ſinne.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 22,
+          "text": "But the fruite of the Spirit is, Charitie, ioy, peace, patience, benignitie, goodnes, longanimitie,"
+        },
+        {
+          "verse": 23,
+          "text": "mildnes, faith, modeſtie, cótinencie, chaſtitie. Againſt ſuch there is no lavv."
+        },
+        {
+          "verse": 24,
+          "text": "And they that be Chriſts, haue crucified their fleſh vvith the vices and concupiſcences. ⊢"
+        },
+        {
+          "verse": 25,
+          "text": "<na>[1]</na> If vve liue in the ſpirit, in the ſpirit alſo let vs vvalke.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "The Epiſtle vpon the 15 Sunday after Pentecoſt.",
+              "kind": "lectionary"
+            }
+          ]
+        },
+        {
+          "verse": 26,
+          "text": "Let vs not be made deſirous of vaine glorie, prouoking one an other, enuying one an other."
+        }
+      ],
+      "summary": "Againſt the lie of the falſe Apoſtles, he proteſteth his mind of Circumciſion. 13 and teſtifieth, that they are called to libertie. But yet leſt any miſconſter Chriſtian libertie, he telleth them that they ſhal not inherite the kingdom, vnles they abſtaine from the workes of the fleſh, which are al mortal ſinnes: and do the fruitful workes of the Spirit, fulfilling al the commaundements of the Law by Charitie."
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "<sc>BRETHREN</sc>, and if a man be preoccupated in any fault, you that are ſpiritual, inſtruct ſuch an one in the ſpirit of lenitie, conſidering thine owne ſelf, leſt thou alſo be tempted."
+        },
+        {
+          "verse": 2,
+          "text": "Beare ye one an others burdens: & ſo you ſhal fulfil the lavv of Chriſt."
+        },
+        {
+          "verse": 3,
+          "text": "For if any man eſteeme him ſelf to be ſomething, vvhereas he is nothing, he ſeduceth him ſelf."
+        },
+        {
+          "verse": 4,
+          "text": "But let euery one proue his ovvne vvorke, & ſo in him ſelf only ſhal he haue the glorie, and not in an other."
+        },
+        {
+          "verse": 5,
+          "text": "For euery one ſhal beare his ovvne burden."
+        },
+        {
+          "verse": 6,
+          "text": "And let <cr>[1]</cr> him that is catechized in the vvord, communicate to him that catechizeth him, in al his goods.",
+          "has_annotation": true,
+          "cross_refs": [
+            {
+              "text": "1. Cor. 9, 7."
+            }
+          ]
+        },
+        {
+          "verse": 7,
+          "text": "Be not deceiued, God is not mocked. For what things a man ſhal ſow, thoſe alſo ſhal he reape."
+        },
+        {
+          "verse": 8,
+          "text": "For he that ſovveth in his fleſh, of the fleſh alſo ſhal reape corruption. but he that ſoweth in the ſpirit, of the ſpirit ſhal reape life euerlaſting."
+        },
+        {
+          "verse": 9,
+          "text": "And <cr>[1]</cr> doing good, let vs not faile. For in due time vve ſhal <na>[2]</na> reape not failing.",
+          "cross_refs": [
+            {
+              "text": "2. Thes. 3, 13."
+            }
+          ],
+          "notes": [
+            {
+              "label": "2",
+              "text": "The workes of mercie be the ſeede of life euerlaſting, and the proper cauſe thereof, and not faith only.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "text": "Therfore vvhiles vve haue time, let vs vvorke good to al, but eſpecially to the domeſticals of the faith. ⊢",
+          "has_annotation": true
+        },
+        {
+          "verse": 11,
+          "text": "See vvith vvhat maner of letters I haue written to you vvith mine ovvne hand."
+        },
+        {
+          "verse": 12,
+          "text": "VVhoſoeuer vvil pleaſe in the fleſh, they force you to be circumciſed, only that they may not ſuffer the perſecution of the croſſe of Chriſt."
+        },
+        {
+          "verse": 13,
+          "text": "For neither they that are circumciſed, do keepe the Law: but they vvil haue you to be circumciſed, that they may glorie in your fleſh."
+        },
+        {
+          "verse": 14,
+          "text": "<na>[1]</na> But <na>[2]</na> God forbid that I ſhould glorie, ſauing in the croſſe of our Lord <sc>IESVS</sc> Chriſt: by vvhom the vvorld is crucified to me, and I to the vvorld.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "b The Epiſtle for S. Francis, Octob. 4.",
+              "kind": "lectionary"
+            },
+            {
+              "label": "2",
+              "text": "Chriſt <i>(ſaith S. Auguſtine</i>) choſe a kinde of death, to hang on the Croſſe and to fixe or faſten the ſame croſſe in the foreheads of the faithful, that the Chriſtian may ſay, God forbid that I ſhould glorie ſauing in the croſſe of our Lord IESVS CHRIST. Expos. in Euang. Io. tract. 45.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 15,
+          "text": "For in Chriſt <sc>IESVS</sc> neither circumciſion auaileth ought, nor prepuce, but a nevv creature.",
+          "has_annotation": true
+        },
+        {
+          "verse": 16,
+          "text": "And vvhoſoeuer ſhal folovv this rule, peace vpon them, and mercie, and vpon the Iſraël of God."
+        },
+        {
+          "verse": 17,
+          "text": "From hencefurth let no man be troubleſome to me. for I beare the markes of our Lord <sc>IESVS</sc> in my body."
+        },
+        {
+          "verse": 18,
+          "text": "The grace of our Lord <sc>IESVS</sc> Chriſt be vvith your ſpirit brethren. Amen. ⊢"
+        }
+      ],
+      "summary": "If any do ſinne, the reſt that do the workes of the Holy Ghoſt, muſt not therfore take pride in them ſelues, but rather make humilitie of it, partly by fearing their owne fall, partly by looking ſtraitly to their owne vvorkes. 6 He exhorteth earneſtly to good workes, aſſuring them that they ſhal reape none other then here they ſovv. 11 With his owne hand he writeth, telling them, the true cauſe why thoſe falſe Apoſtles preach circumciſion, to be only to pleaſe the Iewes: 17 and a plaine argument that he preacheth it not, to be this, that he is perſecuted of the Iewes."
+    }
+  ],
+  "spelling": "original"
+}

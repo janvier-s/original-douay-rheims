@@ -1,0 +1,372 @@
+{
+  "book": "jonas",
+  "book_title": "The Prophecy of Jonas.",
+  "short_title": "Jonas",
+  "hebrew_title": null,
+  "intros": [
+    {
+      "title": "THE PROPHECIE OF IONAS.",
+      "text": "IONAS the ſonne of Amathi in Geth, of the tribe of Zabulon, in the reigne of Ieroboam ſonne of Ioas King of Iſrael, not only in wordes, but alſo in his perſon prophecied, and prefigured Chriſt; as our Sauiour himſelf teſtifieth. And vnder the name of Niniue announceth ſaluation to al Gentiles that repent and returne to God as Niniue did.",
+      "default": true,
+      "notes": [
+        {
+          "marker": 1,
+          "text": "Mat. 12. Luc. 11."
+        },
+        {
+          "marker": 2,
+          "text": "Ionas a figure of Chriſt, prophecied ſaluation to al nations."
+        },
+        {
+          "marker": 3,
+          "text": "S. Ierom. Epiſt. ad Paulin."
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "AND the word of our Lord was made to Ionas the ſonne of Amathi, ſaying:"
+        },
+        {
+          "verse": 2,
+          "text": "Ariſe, and goe into Niniue the great citie, and preach in it: becauſe the malice therof is aſcended before me.",
+          "notes": [
+            {
+              "label": "a",
+              "text": "God creator and Lord of al the vvorld, hath alſo care of al. Rom. 1. v. 29. & therfore ſent this prophet to the great citie Niniue, as likewiſe others prophecied to the Babylonians, Ægyptians, Moabites, Ammonites, Idumeans, &c.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 3,
+          "text": "And Ionas aroſe, to flee into Tharſis from the face of our Lord, and he went downe into Ioppe, and found a shippe going into Tharſis: and he gaue the fare therof, & went downe into it, that he might goe with them into Tharſis from the face of our Lord.",
+          "notes": [
+            {
+              "label": "b",
+              "text": "Ionas sheweth the cauſe why he fled, ch. 4. v. 2. fearing to be counted a falſe prophet.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 4,
+          "text": "But our Lord ſent a great winde into the ſea: and a great tempeſt was made in the ſea, & the shippe was in danger to be broken."
+        },
+        {
+          "verse": 5,
+          "text": "And the mariners were afrayd, and the men cried to their god: & they threw the veſſels, that were in the shippe, into the ſea, that it might be lightned of them: and Ionas went downe into the inner part of the shippe, and ſlept a deepe ſleepe."
+        },
+        {
+          "verse": 6,
+          "text": "And the gouerner came to him, & ſayd to him: Why art thou oppreſſed with ſleepe? Riſe, inuocate thy God, if perhaps God wil thinke of vs, and we perish not."
+        },
+        {
+          "verse": 7,
+          "text": "And euerie one ſayd to his felow: Come, and let vs caſt lottes, and know why this euil is to vs. And they caſt lottes, and the lot fel vpon Ionas.",
+          "notes": [
+            {
+              "label": "c",
+              "text": "The mariners ſeing no natural cauſe of ſo ſudaine & great a tempeſt, ſought to knowe the reaſon therof by lotte, wherto the prophet agreed, by Gods inſpiration, & ſo was diſcouered.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 8,
+          "text": "And they ſayd to him: Tel vs for whoſe cauſe this euil is to vs, what is thy worke? what is thy countrie? and whither goeſt thou? or of what people art thou?"
+        },
+        {
+          "verse": 9,
+          "text": "And he ſayd to them: I am an Hebrew & the Lord God of heauen I feare, which made the ſea and the drie land."
+        },
+        {
+          "verse": 10,
+          "text": "And the men feared with great feare, and they ſayd to him: Why haſt thou done this? (For the men knew that he fled from the face of our Lord: becauſe he had told them.)"
+        },
+        {
+          "verse": 11,
+          "text": "And they ſayd to him: What shal we do to thee, and the ſea shal ceaſe from vs? becauſe the ſea went, and ſwelled."
+        },
+        {
+          "verse": 12,
+          "text": "And he ſayd to them: Take me vp, and caſt me into the ſea, and the ſea shal ceaſe from you: for I know that for me this great tempeſt is vpon you."
+        },
+        {
+          "verse": 13,
+          "text": "And the men rowed, to returne to the land, and they were not able: becauſe the ſea went and ſwelled vpon them."
+        },
+        {
+          "verse": 14,
+          "text": "And they cried to our Lord, and ſayd: We beſech thee ô Lord, let vs not perish in the life of this man, and geue not vpon vs innocent bloud: becauſe thou ô Lord, haſt done as thou wouldeſt."
+        },
+        {
+          "verse": 15,
+          "text": "And they tooke Ionas, and caſt him into the ſea: and the ſea ceaſed from his rage."
+        },
+        {
+          "verse": 16,
+          "text": "And the men feared our Lord with great feare, & immolated hoſtes to our Lord, and vowed vowes.",
+          "notes": [
+            {
+              "label": "d",
+              "text": "Sacrifice and vowes are knowne to al men by the light of nature to be gratful to God.",
+              "kind": "gloss"
+            }
+          ]
+        }
+      ],
+      "summary": "Ionas being ſent to preach in Niniue fleeth by ſea, 4. a tempeſt riſeth, 8. wherof he being found by lotte, to be the cauſe; 12. is caſt into the ſea, 15. and it is caulme."
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "AND our Lord prepared a great fish to ſwallow done Ionas: and Ionas was in the bellie of the fish three dayes and three nightes.",
+          "cross_refs": [
+            {
+              "text": "Mat. 12. Luc. 11."
+            }
+          ],
+          "notes": [
+            {
+              "label": "a",
+              "text": "That this great fiſh vvas a vvhale, our Sauiour plainly expreſſeth. Mat. 12 v. 40.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "And Ionas prayed to our Lord his God out of the bellie of the fish.",
+          "notes": [
+            {
+              "label": "b",
+              "text": "The prophet doubtles prayed before & when they caſt him out of the shippe, and continued the ſame prayer being in the whales bellie, with more confidence, that he should be ſafly caſt on the drie land v. 5. And therfore rendereth thankes, vowing ſacrifice of thankes geuing. v 10.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 3,
+          "text": "And he ſayd: I cryed out of my tribulation to our Lord, & he hath heard me: out of the bellie of hel cried I, and thou haſt heard my voice.",
+          "cross_refs": [
+            {
+              "text": "Pſal. 119. & 129."
+            }
+          ]
+        },
+        {
+          "verse": 4,
+          "text": "And thou haſt caſt me forth into the depth in the hart of the ſea, and a floud hath compaſſed me: al thy ſurges, & thy waues haue paſſed ouer me."
+        },
+        {
+          "verse": 5,
+          "text": "And I ſayd: I am caſt away from the ſight of thine eyes: but yet I shal ſee thy holie temple againe."
+        },
+        {
+          "verse": 6,
+          "text": "The waters haue compaſſed me euen to the ſoule: the depth hath incloſed me, the ſea hath couered my head."
+        },
+        {
+          "verse": 7,
+          "text": "I am deſcended to the extreme parts of the mountaines: the barres of the earth haue shut me vp for euer: and thou wilt lift vp my life from corruption, ô Lord my God.",
+          "notes": [
+            {
+              "label": "c",
+              "text": "Furtheſt that can be from mountaines, euen into the depth of the ſea, vvhich is lower then any other valleyes.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 8,
+          "text": "When my ſoule was in diſtreſſe within me, I remembred our Lord: that my prayer may come to thee vnto thy holie temple."
+        },
+        {
+          "verse": 9,
+          "text": "They that kepe vanities in vaine, forſake their mercie."
+        },
+        {
+          "verse": 10,
+          "text": "But I in the voice of prayſe wil immolate to thee: what thinges ſoeuer I haue vowed I wil render for ſaluation to our Lord."
+        },
+        {
+          "verse": 11,
+          "text": "And our Lord ſpake to the fish: and it vomited vp Ionas vpon the drie land.",
+          "notes": [
+            {
+              "label": "d",
+              "text": "Gods vvil is his vvord by which al creatures were made, and to which, as wel liuing, as ſenſeles thinges obey.",
+              "kind": "gloss"
+            }
+          ]
+        }
+      ],
+      "summary": "Ionas is ſwallowed by a great fish; 3. prayeth with confidence in God; 11. and the fish caſteth him on the drie land."
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "AND the word of our Lord was made to Ionas the ſecond time, ſaying:"
+        },
+        {
+          "verse": 2,
+          "text": "Ariſe, & goe into Niniue the great citie: and preach in it the preaching which I ſpeake to thee.",
+          "notes": [
+            {
+              "label": "a",
+              "text": "Diodorus ſiculus, li. 3. c 1. Writeth that Niniue was in length, 150. ſtadia or forlongs, in breadth. 90. ſo it was in circuite of the walles. 480. And euerie forlong hauing 125. paces of fiue foote the pace, the compaſſe was 60. Italian myles, about 50. or 48. English myles: a ſufficient trauel of three dayes, to paſſe through the principal ſtreates, and more publique places therof.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 3,
+          "text": "And Ionas aroſe, & went into Niniue according to the word of our Lord: & Niniue was a great citie of three dayes iorney."
+        },
+        {
+          "verse": 4,
+          "text": "And Ionas began to enter into the citie on dayes iorney:& he cried, and ſayd: As yet fourtie dayes, and Niniue shal be ſubuerted.",
+          "notes": [
+            {
+              "label": "b",
+              "text": "As vvel this, as manie other like prophecies, shew that Gods threates are conditional, if ſinners wil repent: for then God changeth his ſentence S. Chrys. ho. 5. ad popul. S. Iero. in hunc. locum. S. Greg. li. 16 c. 18. Moral. The ſame is alſo clere. Iere 18. v. 8.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 5,
+          "text": "And the men of Niniue beleued in God: and they proclamed a faſt, and were clothed with ſackcloths from the greater to the leſſer."
+        },
+        {
+          "verse": 6,
+          "text": "And the word came to the king of Niniue: and he roſe vp out of his throne, and caſt away his garment from him, and was clothed with ſackcloth, and ſate in ashes."
+        },
+        {
+          "verse": 7,
+          "text": "And he cried, and ſayd in Niniue from the mouth of the king & of his princes, ſaying: Men, and beaſts, and oxen, and cattel let them not taſte any thing: nor feede, and let them not drinke water.",
+          "notes": [
+            {
+              "label": "c",
+              "text": "Great remorſe & deteſtation of ſinne maketh penitents to excede in auſtere workes, which being wel meant is accepted at Gods handes, ſo it be not indiſcreete.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 8,
+          "text": "And let men, and beaſts be couered with ſackcloths, and crie to our Lord in ſtrength, and let euerie man conuert from his euil way & from the iniquitie, that is in their handes.",
+          "cross_refs": [
+            {
+              "text": "Iere. 18."
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "text": "Who knoweth if God wil conuert, and forgeue: and wil returne from the furie of his wrath, and we shal not perish?",
+          "cross_refs": [
+            {
+              "text": "Ioel. 2."
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "text": "And God ſaw their workes, that they were conuerted from their euil way: and God had mercie on the euil which he had ſpoken, that he would do to them, and he did it not."
+        }
+      ],
+      "summary": "Againe Ionas is commanded to preach in Niniue, that within fourtie dayes it shal be deſtroyed: 5. They al faſt, and repent: 10. and God recalleth his ſentence."
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "AND Ionas was afflicted with great affliction, and was angrie:",
+          "notes": [
+            {
+              "label": "a",
+              "text": "Ionas coniectured by their penance that God would for this time ſpare Niniue, and ſo vvas afflicted fearing that both this, and other prophecies should be reputed vncertaine. But this doubt is ſolued, vnderſtanding Gods threates to be conditional as before. ch 3 v. 4. and ſo it proued. For they falling againe into former ſinnes vvere afterwards deſtroyed Nahum. 1. 2, & 3.",
+              "kind": "gloss"
+            },
+            {
+              "label": "1",
+              "text": "greued.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "and he prayed to our Lord, and ſayd: I beſech thee ô Lord, Why, is not this my word, when I was yet in my countrie? for this did I preuent to flee into Tharſis. For I know that thou art a clement, and merciful God, patient, and of much compaſſion, and forgeuing vpon the euil.",
+          "cross_refs": [
+            {
+              "text": "Pſal. 58. Ioel. 2."
+            }
+          ]
+        },
+        {
+          "verse": 3,
+          "text": "And now Lord take I beſech thee my ſoule from me: becauſe better is death to me then life."
+        },
+        {
+          "verse": 4,
+          "text": "And our Lord ſayd: Art thou angrie wel thinkeſt thou?"
+        },
+        {
+          "verse": 5,
+          "text": "And Ionas went out of the citie, and ſate againſt the Eaſt part of the citie: and he made himſelf a bowre there, and he ſate vnder it in the shadow, til he might ſee what would befal to the citie."
+        },
+        {
+          "verse": 6,
+          "text": "And our Lord God prepared an iuie tree, & it came vp ouer the head of Ionas, to be a shadow ouer his head, and to couer him: for he had laboured: and Ionas reioyced vpon the iuie with great ioy."
+        },
+        {
+          "verse": 7,
+          "text": "And God prepared a worme in the ryſing of the morning againſt the morrow: and it ſtroke the iuie, and it withered."
+        },
+        {
+          "verse": 8,
+          "text": "And when the ſunne was riſen, our Lord commanded an hotte, and burning winde: and the ſunne beate vpon the head of Ionas, and he broyled for heate: and he deſired for his ſoule to dye, and ſayd: It is better for me to dye then to liue."
+        },
+        {
+          "verse": 9,
+          "text": "And our Lord ſayd to Ionas: Art thou angrie wel, thinkeſt thou, for the iuie? And he ſayd: I am angrie wel euen vnto death.",
+          "notes": [
+            {
+              "label": "b",
+              "text": "Ionas had iuſt cauſe to be greued; & ſo God had iuſt cauſe of compaſſion, that the citie should not perish. In this prophecie, vvhich is alſo an hiſtorie, vvho could haue thought that Ionas had bene a figure of our Sauiours death, and reſurrection, vnles himſelf had ſo expounded it? Mat. 12.",
+              "kind": "gloss"
+            },
+            {
+              "label": "1",
+              "text": "greued.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "text": "And our Lord ſayd: Thou art ſorie for the iuie, wherin thou haſt not laboured, nor made it to grow, which in one night came forth, and in one night is perished."
+        },
+        {
+          "verse": 11,
+          "text": "And shal not I ſpare Niniue the great citie, wherin are more then a hundred twentie thouſand men, that know not what is betwen their right hand and their left, and manie beaſtes?"
+        }
+      ],
+      "summary": "The prophet lamenteth for that he was commanded to preach otherwiſe then it came to paſſe. 5. Going forth he ſtayeth nere the citie to ſee the end; 6. an yuie growing couereth his head from the ſunne; 7. but withereth the next day; 8. & he lamenting deſireth to dye; 10. and God sheweth that it is more meete to ſaue Niniue then the yuie."
+    }
+  ],
+  "spelling": "original"
+}

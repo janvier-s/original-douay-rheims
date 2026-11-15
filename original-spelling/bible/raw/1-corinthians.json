@@ -1,0 +1,2936 @@
+{
+  "book": "1-corinthians",
+  "book_title": "The First Epistle of Paul\nto the Corinthians.",
+  "short_title": "1 Corinthians",
+  "hebrew_title": null,
+  "intros": [
+    {
+      "title": "THE ARGUMENT OF THE FIRST EPISTLE TO THE CORINTHIANS.",
+      "text": "How S. Paul planted the Church at Corinth, cõtinuing there a yere and an halfe together, we reade Act. 18. After that, when he was at Epheſus Act. 19. about the end of the three yeres that he abode there, he wrote this firſt Epiſtle to the Corinthians. For euen as S. Luke there writeth: When theſe things were ended, Paul purpoſed in the Spirit, when he had gone ouer Macedonia and Achaia, to goe to Hieruſalem: ſo likewiſe doth S. Paul himſelfe write here: I wil come to you in Achaia when I ſhal haue gone ouer Macedonia, for I will go ouer Macedonia: but I wil tarie at Epheſus vntil Pentecoſt.\n\nThe matter that he writeth of, is not one, as in the Epiſtle to the Romanes, but diuers. Partly ſuch faultes of theirs, as were ſignified vnto him by them that were of Chloe 1. Cor. 1, 11. partly ſuch queſtions as themſelues wrote to him of, And concerning the things that you wrote to me. 1. Cor. 7, 1. for ſo we may (as it ſeemeth) divide the Epiſtle into theſe two partes. Or, to put al together, he writeth of eight things: 1. Of certaine Schiſmes beginning among them, by occaſion of certaine preachers, whom in the Second Epiſtle he toucheth more plainely as being Falſe-apoſtles. chap. 1. 2. 3. 4. 2. Of an inceſtuous fornicator, and ſome that went to law before infidel iudges. chap. 5. 6. 3. Of Matrimonie and Continencie. chap. 7. 4. Of meates ſacrificed to Idols. chap. 8. 9. 10. 5. Of his Traditions. chap. 11. 6. Of the Giftes of the Holy Ghoſt. chap. 12. 13. 14. 7. Of the Reſurrection. chap. 15. 8. Of the Contributions that he gathered of the Gentiles, to ſuccour the Chriſtian Jews at Hieruſalem. chap. 16.",
+      "default": true,
+      "notes": [
+        {
+          "marker": 1,
+          "text": "Act. 19, 21."
+        },
+        {
+          "marker": 2,
+          "text": "1. Cor. 16, 5."
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "PAVL called to be an Apoſtle of IESVS Chriſt, by the vvil of God, and Sóſthenes a brother,",
+          "notes": [
+            {
+              "label": "1",
+              "text": "The Epiſtle upon the 10. Sunday after Pentecoſt.",
+              "kind": "lectionary"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "to the Church of God that is at Corinth, to the ſanctified in Chriſt IESVS, called to be ſaincts, with al that inuocate the name of our Lord IESVS Chriſt in euery place of theirs and ours."
+        },
+        {
+          "verse": 3,
+          "text": "Grace to you and peace from God our father and our Lord IESVS Chriſt."
+        },
+        {
+          "verse": 4,
+          "text": "I giue thankes to my God alvvaies for you for the grace of God that is giuen you in Chriſt IESVS,"
+        },
+        {
+          "verse": 5,
+          "text": "that in al things you be made riche in him, in al vtterance, and in al knovvledge,",
+          "has_annotation": true
+        },
+        {
+          "verse": 6,
+          "text": "( as the teſtimonie of Chriſt is confirmed in you,)"
+        },
+        {
+          "verse": 7,
+          "text": "ſo that nothing is vvanting to you in any grace, expecting the reuelation of our Lord IESVS Chriſt,"
+        },
+        {
+          "verse": 8,
+          "text": "vvho alſo vvil confirme you vnto the end vvithout crime, in the day of the comming of our Lord IESVS Chriſt."
+        },
+        {
+          "verse": 9,
+          "text": "God is faithful: by whom you are called into the ſocietie of his ſonne IESVS Chriſt our Lord."
+        },
+        {
+          "verse": 10,
+          "text": "And I beſeeche you brethren by the name of our Lord IESVS Chriſt, that you al ſay one thing, and that there be no ſchiſmes among you: but that you be perfect in one ſenſe, & in one knovvledge."
+        },
+        {
+          "verse": 11,
+          "text": "For it is ſignified vnto me (my brethren) of you, by them that are of Chloè, that there be contentions among you."
+        },
+        {
+          "verse": 12,
+          "text": "And I meane this, for that euery one of you ſaith, I certes am Paules, & I Apollos, but I Cephas, and I Chriſts.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "The beginning of al Schiſmes is ouer much admiring & addicting mens ſelues to their owne particular Maiſters.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 13,
+          "text": "Is Chriſt deuided? Vvhy, vvas Paul crucified for you? or in the name of Paul vvere you baptized?"
+        },
+        {
+          "verse": 14,
+          "text": "I giue God thankes, that I baptized none of you, but Criſpus and Caius:",
+          "cross_refs": [
+            {
+              "text": "Act. 18, 8."
+            }
+          ]
+        },
+        {
+          "verse": 15,
+          "text": "leſt any man ſay that in my name you were baptized."
+        },
+        {
+          "verse": 16,
+          "text": "And I baptized alſo the houſe of Stéphanas. But I know not if I haue baptized any other."
+        },
+        {
+          "verse": 17,
+          "text": "For Chriſt ſent me not to baptize, but to euangelize: not in vviſedom of ſpeache, that the croſſe of Chriſt be not made void."
+        },
+        {
+          "verse": 18,
+          "text": "For the vvord of the croſſe, to them in deede that periſh, is foliſhnes: but to them that are ſaued, that is, to vs, it is the povver of God."
+        },
+        {
+          "verse": 19,
+          "text": "For it is vvritten, I wil deſtroy the wiſedom of the vviſe: and the prudence of the prudent I wil reiecte.",
+          "cross_refs": [
+            {
+              "text": "Eſa. 33, 18."
+            }
+          ]
+        },
+        {
+          "verse": 20,
+          "text": "Where is the vviſe? where is the Scribe? where is the diſputer of this world? Hath not God made the vviſedom of this vvorld foliſh?"
+        },
+        {
+          "verse": 21,
+          "text": "For becauſe in the vviſedom of God the vvorld did not by vviſedom know God: it pleaſed God by the foliſhnes of the preaching to ſaue them that beleeue."
+        },
+        {
+          "verse": 22,
+          "text": "For both the Iewes aſke ſignes, and the Greekes ſeeke vviſedom:"
+        },
+        {
+          "verse": 23,
+          "text": "but vve preach Chriſt crucified, to the Iewes certes a ſcandal, and to the Gentiles, foliſhnes:"
+        },
+        {
+          "verse": 24,
+          "text": "but to the called Iewes & Greekes, Chriſt the povver of God and the wiſedom of God."
+        },
+        {
+          "verse": 25,
+          "text": "For that which is the foliſh of God, is vviſer then men: and that which is the infirme of God, is ſtronger then men.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "The Epiſtle for S. Agatha, Febr. 5.",
+              "kind": "lectionary"
+            }
+          ]
+        },
+        {
+          "verse": 26,
+          "text": "For ſee your vocation brethren, that not many vviſe according to the fleſh, not many mightie, not many noble:"
+        },
+        {
+          "verse": 27,
+          "text": "but the foliſh things of the vvorld hath God choſen, that he may confound the vviſe: and the vveake things of the vvorld hath God choſen, that he may confound the ſtrong:"
+        },
+        {
+          "verse": 28,
+          "text": "and the baſe things of the vvorld and the contemptible hath God choſen, and thoſe things vvhich are not, that he might deſtroy thoſe things which are:"
+        },
+        {
+          "verse": 29,
+          "text": "that no fleſh may glorie in his ſight."
+        },
+        {
+          "verse": 30,
+          "text": "And of him you are in Chriſt IESVS, vvho is made vnto vs vviſedom from God, & iuſtice, & ſanctification, and redemption:",
+          "has_annotation": true
+        },
+        {
+          "verse": 31,
+          "text": "that as it is written, He that doth glorie, may glorie in our Lord. ⊢",
+          "cross_refs": [
+            {
+              "text": "Ier. 9, 23."
+            }
+          ]
+        }
+      ],
+      "summary": "After ſalutation, 4 hauing acknowledged the graces of their Churche, 10 he dehorteth them from their Schiſmatical boaſting againſt one an other in their baptizers (telling them that they muſt boaſt onely in Chriſt for their Baptiſme) 17 and in their preachers, who had the vviſedom of vvordes: telling them that it is the preaching of the Croſſe, vvhereby God ſaueth the world, and wherein onely Chriſtians ſhould boaſt: 26 ſeing God of purpoſe choſe the contemptible, that ſo him ſelf might haue the glorie.",
+      "summary_notes": [
+        {
+          "marker": 1,
+          "text": "The 1. part. Of Schiſms that were about their baptizers & preachers."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "AND I (brethren) when I came to you, I came not in loftineſſe of ſpeache or of vviſedom, preaching to you the teſtimonie of Chriſt."
+        },
+        {
+          "verse": 2,
+          "text": "For I iudged not my ſelf to knovv any thing among you but IESVS Chriſt, and him crucified."
+        },
+        {
+          "verse": 3,
+          "text": "And I vvas vvith you in infirmitie, and feare and much trembling:",
+          "cross_refs": [
+            {
+              "text": "Act. 18, 1."
+            }
+          ]
+        },
+        {
+          "verse": 4,
+          "text": "and my ſpeache and my preaching vvas not in the perſuaſible vvordes of humane vviſedom, but in ſhevving of ſpirit and povver:"
+        },
+        {
+          "verse": 5,
+          "text": "that your faith might not be in the vviſedom of men, but in the povver of God. But vve ſpeake vviſedom among the perfect."
+        },
+        {
+          "verse": 6,
+          "text": "but the vviſedom not of this vvorld, neither of the princes of this vvorld that come to naught:"
+        },
+        {
+          "verse": 7,
+          "text": "but we ſpeake the wiſedom of God in a myſterie, which is hid, vvhich God did predeſtinate before the worlds, vnto our glorie:"
+        },
+        {
+          "verse": 8,
+          "text": "which none of the princes of this world did know: for if they had knovven, they vvould neuer haue crucified the Lord of glorie."
+        },
+        {
+          "verse": 9,
+          "text": "But as it is vvritten, That vvhich eie hath not ſeen, nor eare hath heard, neither hath it aſcended into the hart of man, vvhat things God hath prepared for them that loue him.",
+          "cross_refs": [
+            {
+              "text": "Eſa. 64, 4."
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "text": "but to vs God hath reuealed by his Spirit. For the Spirit ſearcheth al things, yea the profoundities of God."
+        },
+        {
+          "verse": 11,
+          "text": "For vvhat man knoweth the things of a man, but the ſpirit of a man that is in him? ſo the things alſo that are of God no man knovveth, but the ſpirit of God.",
+          "has_annotation": true
+        },
+        {
+          "verse": 12,
+          "text": "And we haue receiued not the ſpirit of this vvorld, but the ſpirit that is of God: that vve may know the things that of God are giuen to vs.",
+          "has_annotation": true
+        },
+        {
+          "verse": 13,
+          "text": "which alſo we ſpeake not in learned vvordes of humane vviſedom: but in the doctrine of the Spirit, comparing ſpiritual things to the ſpiritual."
+        },
+        {
+          "verse": 14,
+          "text": "But the ſenſual man perceiueth not thoſe things that are of the ſpirit of God. for it is foliſhnes to him, and he can not vnderſtand: becauſe he is ſpiritually examined.",
+          "has_annotation": true
+        },
+        {
+          "verse": 15,
+          "text": "But the ſpiritual man iudgeth al things: and him ſelf is iudged of no man."
+        },
+        {
+          "verse": 16,
+          "text": "For vvho hath knovven the ſenſe of our Lord that may inſtructe him? But vve haue the ſenſe of Chriſt.",
+          "cross_refs": [
+            {
+              "text": "Eſa. 40, 14."
+            },
+            {
+              "text": "Eſa. 40, 13",
+              "source": "sancta"
+            }
+          ]
+        }
+      ],
+      "summary": "That his owne preaching among them, was in humble maner in the ſight of man. 6 Howbeit it is moſt profound vviſedom (as they ſhould and vvould perceiue, if they were not carnal) which is taught in the Church of Chriſt."
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "AND I, brethren, could not ſpeake to you as to ſpiritual, but as to carnal. As it vvere to litle ones in Chriſt,"
+        },
+        {
+          "verse": 2,
+          "text": "I gaue you milke to drinke, not meate: for you could not as yet. but neither can you novv verely, for yet you are carnal.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "The Church onely hath truth both in her milke and in her bread : that is, vvhether ſhe inſtruct the perfect, or the imperfect who are called carnal. Aug. li. 15. c. 5. cont. Fauſt.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 3,
+          "text": "For vvhereas there is among you emulation and contention, are you not carnal, and vvalke according to man?"
+        },
+        {
+          "verse": 4,
+          "text": "For vvhen one ſaith, I certes am Paules, & an other, I Apollos: are you not men? Vvhat is Apollo then? and vvhat is Paul?",
+          "notes": [
+            {
+              "label": "1",
+              "text": "carnal",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 5,
+          "text": "The miniſters of him vvhom you haue beleeued, & to euery one as our Lord hath giuen."
+        },
+        {
+          "verse": 6,
+          "text": "I planted, Apollo vvatered: but God gaue the increaſe."
+        },
+        {
+          "verse": 7,
+          "text": "Therefore neither he that planteth is any thing, nor he that vvatereth: but he that giueth the increaſe, God."
+        },
+        {
+          "verse": 8,
+          "text": "And he that planteth and he that vvatereth are one. And euery one ſhal receiue his owne reward according to his ovvne labour.",
+          "has_annotation": true
+        },
+        {
+          "verse": 9,
+          "text": "For vve are Gods ccoadiutors: you are Gods huſbandrie, you are Gods building.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "c A maruelous dignitie of ſpiritual paſtors, that they be not only the inſtruments or miniſters of Chriſt (as Caſtal. noteth Beza falſely tranſlateth Adminiſtri, for Coadjutores ), but indeed God's coadiutors in the vvorke of our Saluation.",
+              "kind": "gloss"
+            },
+            {
+              "label": "2",
+              "text": "c συνεργοὶ",
+              "kind": "word"
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "text": "According to the grace that is giuen me, as a vviſe vvorkemaſter haue I laid the foundation: and an other buildeth therevpon. but let euery one looke hovv he buildeth thereon."
+        },
+        {
+          "verse": 11,
+          "text": "For other foundation no man can lay, beſide that vvhich is laid: vvhich is Chriſt IESVS."
+        },
+        {
+          "verse": 12,
+          "text": "And if any man build vpon this foundation, gold, ſiluer, pretious ſtones, vvood, hay, ſtubble,",
+          "has_annotation": true
+        },
+        {
+          "verse": 13,
+          "text": "the vvorke of euery one ſhal be manifeſt: for the day of our Lord vvil declare, becauſe it ſhal be reuealed in fire: and the vvorke of euery one of vvhat kinde it is, the fire ſhal trie.",
+          "has_annotation": true
+        },
+        {
+          "verse": 14,
+          "text": "If any mans vvorke abide, vvhich he built therevpon: he ſhal receiue revvard."
+        },
+        {
+          "verse": 15,
+          "text": "If any mans vvorke burne, he ſhal ſuffer detriment: but him ſelf ſhal be ſaued: yet ſo as by fire.",
+          "has_annotation": true
+        },
+        {
+          "verse": 16,
+          "text": "Knovv you not that you are the temple of God: and the Spirit of God dvvelleth in you?"
+        },
+        {
+          "verse": 17,
+          "text": "But if any violate the temple of God, God vvil deſtroy him. For the temple of God is holy: vvhich you are."
+        },
+        {
+          "verse": 18,
+          "text": "Let no man ſeduce him ſelf: if any man ſeeme to be vviſe among you in this world, let him become a foole that he may be vviſe."
+        },
+        {
+          "verse": 19,
+          "text": "For the vviſedom of this vvorld is foliſhnes vvith God. For it is vvritten, I vvil compaſſe the vviſe in their ſubteltie.",
+          "cross_refs": [
+            {
+              "text": "Iob. 5, 13."
+            }
+          ]
+        },
+        {
+          "verse": 20,
+          "text": "And againe, Our Lord knovveth the cogitations of the vviſe that they be vaine.",
+          "cross_refs": [
+            {
+              "text": "Ps. 93, 11."
+            }
+          ]
+        },
+        {
+          "verse": 21,
+          "text": "Let no man therfore glorie in men. For al things are yours:"
+        },
+        {
+          "verse": 22,
+          "text": "vvhether it be Paul, or Apollo, or Cephas, or the vvorld, or life, or death, or things preſent, or things to come, for al are yours:"
+        },
+        {
+          "verse": 23,
+          "text": "and you are Chriſts, and Chriſt iſ Gods."
+        }
+      ],
+      "summary": "If they vvil not be carnal ſtil, they muſt boaſt in God only, & not in their preachers, Which are but his miniſters, 10 and neede to looke vvel hovv they preach : 12 becauſe not al preaching, though it be Catholike, is meritorious : but rather it buildeth matter to be purged by fire, vvhen it is vaine and vnfruitful (as alſo any other like vvorkes of other Catholikes.) marie if it be heretical, deſtroying the temple of God, then it vvorketh damnation. 18 The remedie is, to humble them ſelues and referre al to God."
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "SO let a man eſteeme vs as the miniſters of Chriſt, and the diſpenſers of the myſteries of God.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "The Epiſtle vpon the 4 Sunday of Aduent.",
+              "kind": "lectionary"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "Here now is required among the diſpenſers that a man be found faithful."
+        },
+        {
+          "verse": 3,
+          "text": "But to me it is a thing of leſt account, to be iudged of you, or of mans day: but I iudge not my ſelf neither."
+        },
+        {
+          "verse": 4,
+          "text": "For I am not guilty in conſcience of any thing:but I am not iuſtified herein: but he that iudgeth me, is our Lord.",
+          "has_annotation": true
+        },
+        {
+          "verse": 5,
+          "text": "Therfore iudge not before the time: vntil our Lord do come, vvho alſo wil lighten the hidden things of darkenes, and vvil manifeſt the counſels of the hartes: & then the praiſe ſhal be to euery man of God. ⊢"
+        },
+        {
+          "verse": 6,
+          "text": "But theſe things, brethren, I haue tranſfigured into my ſelf and Apollo, for you: that in vs you may learne, one not to be puffed vp againſt an other, aboue that is vvritten.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "Loe vvhen he named him ſelf, and Apollo, & Cephas: he meāt other ſeditious and factious preachers vvhoſe names he ſpared.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 7,
+          "text": "For vvho diſcerneth thee? Or vvhat haſt thou that thou haſt not receiued? And if thou haſt receiued, what doeſt thou glorie as though thou haſt nor receiued?"
+        },
+        {
+          "verse": 8,
+          "text": "Now you are filled, now are you become riche: without vs you reigne: & I would to God you did reigne, that vve alſo might reigne vvith you."
+        },
+        {
+          "verse": 9,
+          "text": "For I thinke that God hath ſhevved vs Apoſtles the laſt, as it vvere deputed to death: becauſe vve are made a ſpectacle to the vvorld, and to Angels and men.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "a The Epiſtle vpon S. Iames day, Iul. 25.",
+              "kind": "lectionary"
+            },
+            {
+              "label": "2",
+              "text": "b The Epiſtle upon SS. Simon and Jude's eve, Octob. 27. And for ſome Confeſſors, not Biſhops.",
+              "kind": "lectionary"
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "text": "Vve are fooles for Chriſt: but you wiſe in Chriſt. vve vveake: but you ſtrong, you noble, but vve baſe."
+        },
+        {
+          "verse": 11,
+          "text": "Vntil this houre we doe both hunger, and thirſt, and are naked, and are beaten vvith buffets, and are vvanderers,"
+        },
+        {
+          "verse": 12,
+          "text": "and labour vvorking vvith our ovvne handes. vve are curſed: and do bleſſe. vve are perſecuted: and ſuſteine it."
+        },
+        {
+          "verse": 13,
+          "text": "vve are blaſphemed: and vve beſeeche. vve are made the refuſe of this vvorld, the droſſe of al euen vntil novv."
+        },
+        {
+          "verse": 14,
+          "text": "Not to confound you, do I write theſe things: but as my deereſt children I admoniſh you. ⊢"
+        },
+        {
+          "verse": 15,
+          "text": "For if you haue ten thouſand pædagoges in Chriſt: yet not many fathers. For in Chriſt IESVS by the Goſpel I begat you. ⊢",
+          "notes": [
+            {
+              "label": "1",
+              "text": "So may S. Auguſtine our Apoſtle ſay to vs Engliſh men.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 16,
+          "text": "I beſeeche you therfore be folovvers of me."
+        },
+        {
+          "verse": 17,
+          "text": "Therfore haue I ſent to you Timothee, vvho is my deereſt ſonne and faithful in our Lord: vvho vvil put you in minde of my vvaies that are in Chriſt IESVS, as euery where in euery Church I teach."
+        },
+        {
+          "verse": 18,
+          "text": "As though I vvould not come to you, ſo certaine are puffed vp."
+        },
+        {
+          "verse": 19,
+          "text": "But I vvil come to you quickly, if our Lord vvil: and vvil know not the vvordes of them that be puffed vp, but the povver."
+        },
+        {
+          "verse": 20,
+          "text": "For the kingdom of God is not in vvordes, but in povver."
+        },
+        {
+          "verse": 21,
+          "text": "Vvhat vvil you? in rodde that I come to you: or in charitie, and the ſpirit of mildnes?",
+          "has_annotation": true
+        }
+      ],
+      "summary": "He requireth to be eſteemed for his office, but regardeth not to be praiſed of man for his vertue: conſidering that neither his owne conſcience is a ſufficient iudge thereof, but onely God who ſeeth al. 8 He toucheth them for contemning in their pride, the Apoſtles them ſelues as miſerable: 18 threatening to come to thoſe proude Falſeapoſtles who were the authors of al theſe ſchiſmes."
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "THERE is plainely heard fornication among you, and ſuch fornication, as the like is not among the heathen, ſo that one hath his fathers vvife.",
+          "cross_refs": [
+            {
+              "text": "Lev. 18, 8. 20, 11."
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "And you are puffed vp: and haue not mourned rather, that he might be taken avvay from among you, that hath done this deede.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "Chriſtian men ſhould be ſorovvful to ſee greuous offences borne vvithal, and ought zelouſly to ſeeke the offenders puniſhment by excommunication.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 3,
+          "text": "I in deede abſent in body, but preſent in ſpirit, haue already iudged, as preſent, him that hath ſo done,",
+          "has_annotation": true
+        },
+        {
+          "verse": 4,
+          "text": "in the name of our Lord IESVS Chriſt, you being gathered together and my ſpirit, vvith the vertue of our Lord IESVS",
+          "has_annotation": true
+        },
+        {
+          "verse": 5,
+          "text": "to deliuer ſuch an one to Satan for the deſtruction of the fleſh, that the ſpirit may be ſaued in the day of our Lord IESVS Chriſt.",
+          "has_annotation": true
+        },
+        {
+          "verse": 6,
+          "text": "Your glorying is not good. Knovv you not that a litle leauen corrupteth the vvhole paſte?"
+        },
+        {
+          "verse": 7,
+          "text": "Purge the old leauen, that you may be a nevv paſte, as you are azymes. For our Paſche, Chriſt, is immolated.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "The Epiſtle vpon Eaſter day.",
+              "kind": "lectionary"
+            }
+          ]
+        },
+        {
+          "verse": 8,
+          "text": "Therfore let vs feaſt, not in the old leauen, nor in the leauen of malice and vvickednes, but in the azymes of ſinceritie and veritie. ⊢",
+          "has_annotation": true
+        },
+        {
+          "verse": 9,
+          "text": "I vvrote to you in can epiſtle, Not to keepe companie vvith fornicatours.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "Either this Epiſtle in the vvordes before, or ſome other.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "text": "I meane not the fornicatours of this vvorld, or the couetous, or the extorſioners, or ſeruers of Idols: othervviſe you ſhould haue gone out of this vvorld."
+        },
+        {
+          "verse": 11,
+          "text": "But novv I vvrote to you, not to keepe companie, if he that is named a brother, be a fornicatour, or a couetous perſon, or a ſeruer of Idols, or a railer, or a drunkarde, or an extorſioner: vvith ſuch an one not ſo much as to take meate.",
+          "has_annotation": true,
+          "notes": [
+            {
+              "label": "1",
+              "text": "A notorious wilful corruption in the bible 1562: tranſlating in the verſe before, Idolaters: and here, vvorſhipper of images: the Apoſtles word being one, εἰδωλολάτρης, Idolater.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 12,
+          "text": "For vvhat is it to me to iudge of them that are vvithout? Do not you iudge of them that are vvithin?"
+        },
+        {
+          "verse": 13,
+          "text": "for them that are vvithout, God vvil iudge. Take away the euil-one from among your ſelues.",
+          "has_annotation": true
+        }
+      ],
+      "summary": "Sharply rebuking their Clergies negligence, 3 him ſelf abſent excommunicateth that publike inceſtuous perſon: 6 commaunding that hereafter no Chriſtian be ſo tolerated in any open crime, but excommunicated.",
+      "summary_notes": [
+        {
+          "marker": 1,
+          "text": "The ſecond part of the Epiſtle: of the inceſtuous fornicator; & lawing before Infidels."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "DARE any of you hauing a matter againſt an other, to be iudged before the vniuſt, and not before the ſaincts?"
+        },
+        {
+          "verse": 2,
+          "text": "Or knovv you not that the ſaincts ſhal iudge of the vvorld? And if the vvorld ſhal be iudged by you: are you vnvvorthie to iudge of the leſt things?",
+          "notes": [
+            {
+              "label": "1",
+              "text": "The faithful iudge and giue ſentence vvith God at the later day, ſpecially the Apoſtles and the perfect Chriſtians that haue forſaken al for Chriſts ſake.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 3,
+          "text": "Knovv you not that vve ſhal iudge Angels? hovv much more ſecular things?"
+        },
+        {
+          "verse": 4,
+          "text": "If therfore you haue ſecular iudgements: the contemptible that are in the Church, ſet them to iudge."
+        },
+        {
+          "verse": 5,
+          "text": "I ſpeake to your ſhame. So is there not among you any vviſe man, that can iudge betvvene his brother?"
+        },
+        {
+          "verse": 6,
+          "text": "but brother vvith brother contendeth in iudgement: and that before infidels?",
+          "has_annotation": true
+        },
+        {
+          "verse": 7,
+          "text": "Novv certes there is plainely a fault in you, that you haue iudgements among you. Vvhy do you not rather take vvrong? vvhy do you not rather ſuffer fraude?",
+          "has_annotation": true
+        },
+        {
+          "verse": 8,
+          "text": "But your ſelues doe vvrong and defraude: and that to the brethren."
+        },
+        {
+          "verse": 9,
+          "text": "Knovv you not that the vniuſt ſhal not poſſeſſe the kingdom of God? Do not erre, Neither fornicatours, nor cſeruers of Idols, nor aduouterers, nor the effeminat, nor the liers vvith mankinde,",
+          "notes": [
+            {
+              "label": "1",
+              "text": "For this, the Engliſh bible 1562 falſely tranſlateth vvorſhippers of images.",
+              "kind": "gloss"
+            },
+            {
+              "label": "2",
+              "text": "c εἰδωλολάτραι",
+              "kind": "word"
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "text": "nor theeues, nor the couetous, nor drunkards, nor railers, nor extorſioners ſhal poſſeſſe the kingdom of God."
+        },
+        {
+          "verse": 11,
+          "text": "And theſe things certes you vvere: but you are vvaſhed, but you are ſanctified, but you are iuſtified in the name of our Lord IESVS Chriſt, and in the Spirit of our God."
+        },
+        {
+          "verse": 12,
+          "text": "Al things are lavvful for me, but al things are not expedient. Al things are lavvful for me, but I vvil be brought vnder the povver of none."
+        },
+        {
+          "verse": 13,
+          "text": "The meate to the belly, and the belly to the meates: but God vvil deſtroy both it and them: and the body not to fornication, but to our Lord, and our Lord to the body."
+        },
+        {
+          "verse": 14,
+          "text": "But God both hath raiſed vp our Lord, and vvil raiſe vp vs alſo by his povver."
+        },
+        {
+          "verse": 15,
+          "text": "Knovv you not that your bodies are the members of Chriſt? Taking therfore the members of Chriſt, ſhal I make them the members of an harlot? God forbid."
+        },
+        {
+          "verse": 16,
+          "text": "Or knovv you not, that he which cleaueth to an harlot, is made one body? For they ſhal be, ſaith he, tvvo in one fleſh.",
+          "cross_refs": [
+            {
+              "text": "Gen. 2, 24."
+            }
+          ]
+        },
+        {
+          "verse": 17,
+          "text": "But he that cleaueth to our Lord, is one ſpirit."
+        },
+        {
+          "verse": 18,
+          "text": "Flee fornication. Euery ſinne vvhatſoeuer a man doth, is vvithout the body: but he that doth fornicate, ſinneth againſt his ovvne body.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "Fornication is not onely enemy to the ſoule, but waſteth, vveakeneth, corrupteth and defileth the body, more properly and directly then any other ſinnes doe.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 19,
+          "text": "Or knovv you not that your members are the temple of the holy Ghoſt vvhich is in you, vvhom you haue of God, and you are not your ovvne?"
+        },
+        {
+          "verse": 20,
+          "text": "For you are bought vvith a great price. Glorifie and beare God in your body."
+        }
+      ],
+      "summary": "He rebuketh them for going to lavv before Iudges that vvere not Chriſtians, 9 telling that extorſion (as many other offenſes likevviſe) is a mortal ſinne. 12 And vvith diuers reaſons he inueigheth againſt fornication, bidding alſo to flee al occaſion thereof."
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "AND concerning the things vvhereof you vvrote to me: It is good for a man not to touch a vvoman."
+        },
+        {
+          "verse": 2,
+          "text": "But becauſe of fornication let euery man haue his ovvne vvife, and let euery vvoman haue her ovvne huſband.",
+          "has_annotation": true
+        },
+        {
+          "verse": 3,
+          "text": "Let the huſband render his dette to the vvife: and the vvife alſo in like maner to her huſband.",
+          "has_annotation": true,
+          "notes": [
+            {
+              "label": "1",
+              "text": "debitū reddat.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 4,
+          "text": "The vvoman hath not povver of her ovvne body: but her huſband. And in like maner the man alſo hath not povver of his ovvne body: but the vvoman."
+        },
+        {
+          "verse": 5,
+          "text": "Defraude not one an other, except perhaps by conſent for a time, that you may giue your ſelf to praier: and returne againe together, leſt Satan tempt you for your incontinencie.",
+          "has_annotation": true,
+          "notes": [
+            {
+              "label": "1",
+              "text": "If the lay man can not pray, vnles he abſtaine from his vvife: the Prieſt that alvvaies muſt offer ſacrifices, and alvvaies pray, muſt therfore alvvaies be free from matrimonie. Hiero. li. 1. c. 19. aduer. Iouin.",
+              "kind": "gloss"
+            },
+            {
+              "label": "2",
+              "text": "to faſting & praier:",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 6,
+          "text": "But I ſay this by indulgence, not by commaundement.",
+          "has_annotation": true
+        },
+        {
+          "verse": 7,
+          "text": "For I vvould al men to be as my ſelf: but euery one hath a proper gift of God: one ſo, and an other ſo.",
+          "has_annotation": true
+        },
+        {
+          "verse": 8,
+          "text": "But I ſay to the vnmaried and to vvidovves: it is good for them if they ſo abide euen as I alſo.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "Before he treated of the continencie of ſuch as vvere married, novv he giueth leſſons for the vnmarried alſo.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "text": "But if they doe not conteine them ſelues, let them marie. For it is better to marie then to be burnt.",
+          "has_annotation": true,
+          "notes": [
+            {
+              "label": "1",
+              "text": "c uri. πυροῦσθαι.",
+              "kind": "word"
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "text": "But to them that be ioyned in matrimonie, not I giue commaundement, but our Lord, that the vvife depart not from her huſband:",
+          "cross_refs": [
+            {
+              "text": "Mt. 5, 32. 19, 9. Mr. 10, 9. Lu. 16, 18."
+            }
+          ]
+        },
+        {
+          "verse": 11,
+          "text": "and if ſhe depart, to remaine vnmaried, or to be reconciled to her huſband. And let not the huſband put avvay his vvife.",
+          "has_annotation": true
+        },
+        {
+          "verse": 12,
+          "text": "For to the reſt, I ſay, not our Lord. If any brother haue a vvife an infidel, and ſhe conſent to dvvel with him: let him not put her avvay.",
+          "has_annotation": true
+        },
+        {
+          "verse": 13,
+          "text": "And if any vvoman haue a huſband an infidel, and he conſent to dvvel vvith her: let her not put avvay her huſband."
+        },
+        {
+          "verse": 14,
+          "text": "For the man an infidel is ſanctified by the faithful vvoman: and the vvoman an infidel is ſanctified by the faithful huſband: otherwiſe your children ſhould be vncleane: but novv they are holy.",
+          "has_annotation": true
+        },
+        {
+          "verse": 15,
+          "text": "But if the infidel depart, let him depart. for the brother or ſiſter is not ſubiect to ſeruitude in ſuch. but in peace hath God called vs."
+        },
+        {
+          "verse": 16,
+          "text": "For how knoweſt thou woman, if thou ſhalt ſaue thy huſband? or how knoweſt thou man, if thou ſhalt ſaue the vvoman?"
+        },
+        {
+          "verse": 17,
+          "text": "But to euery one as our Lord hath deuided, as God hath called euery one, ſo let him vvalke, and as in al Churches I teach."
+        },
+        {
+          "verse": 18,
+          "text": "Is any man called being circumciſed? let him not procure prepuce. Is any man called in prepuce? let him not be circumciſed."
+        },
+        {
+          "verse": 19,
+          "text": "Circumciſion is nothing, and prepuce is nothing: but the obſeruation of the commaundements of God.",
+          "has_annotation": true
+        },
+        {
+          "verse": 20,
+          "text": "Euery one in the vocation that he vvas called, in it let him abide."
+        },
+        {
+          "verse": 21,
+          "text": "VVaſt thou called being a bondman? care not for it: but and if thou canſt be made free, vſe it rather."
+        },
+        {
+          "verse": 22,
+          "text": "For he that in our Lord is called, being a bondman, is the cfranchiſed of our Lord. likevviſe he that is called, being free, is the bondman of Chriſt.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "c libertus",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 23,
+          "text": "You vvere bought vvith price, be not made the bondmen of men.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "You muſt not ſerue men ſo that you obey & pleaſe them more then God.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 24,
+          "text": "Euery brother vvherein he vvas called, in that let him abide before God.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "one, brethren,",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 25,
+          "text": "And as concerning virgins, a commaundement of our Lord I haue not: but counſel I giue, as hauing obteined mercie of our Lord to be faithful.",
+          "has_annotation": true,
+          "notes": [
+            {
+              "label": "1",
+              "text": "The Epiſtle for holy Virgins not Martyrs.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 26,
+          "text": "I thinke therfore that this is good for the preſent neceſſitie, becauſe it is good for a man ſo to be."
+        },
+        {
+          "verse": 27,
+          "text": "Art thou tied to a vvife? ſeeke not to be looſed. Art thou looſe from a vvife? ſeeke not a vvife."
+        },
+        {
+          "verse": 28,
+          "text": "But if thou take a vvife, thou haſt not ſinned. And if a virgin marie, ſhe hath not ſinned. neuertheleſſe tribulation of the fleſh ſhal ſuch haue. but I ſpare you.",
+          "has_annotation": true,
+          "notes": [
+            {
+              "label": "1",
+              "text": "Virginitie counſeled as the better: Mariage not forbidden, becauſe it is no ſinne.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 29,
+          "text": "This therfore I ſay brethren, the time is ſhort, it remaineth, that they alſo which haue vviues, be as though they had not:",
+          "has_annotation": true
+        },
+        {
+          "verse": 30,
+          "text": "and they that vveepe, as though they vvept not: and they that reioyce, as though they reioyced not: and they that bye, as though they poſſeſſed not:"
+        },
+        {
+          "verse": 31,
+          "text": "and they that vſe this vvorld, as though they vſed it not. for the figure of this vvorld paſſeth avvay."
+        },
+        {
+          "verse": 32,
+          "text": "But I vvould haue you to be vvithout carefulnes. He that is vvithout a vvife, is careful for the things that pertaine to our Lord, how he may pleaſe God.",
+          "has_annotation": true
+        },
+        {
+          "verse": 33,
+          "text": "But he that is vvith a vvife, is careful for the things that pertaine to the vvorld, hovv he may pleaſe his vvife: and he is deuided."
+        },
+        {
+          "verse": 34,
+          "text": "And the vvoman vnmaried & the virgin, thinketh on the things that pertaine to our Lord: that ſhe may be holy both in body and in ſpirit. ⊢ But ſhe that is maried, thinketh on the things that pertaine to the vvorld, hovv ſhe may pleaſe her huſband."
+        },
+        {
+          "verse": 35,
+          "text": "And this I ſpeake to your profit: not to caſt a ſnare vpon you, but to that vvhich is honeſt, & that may giue you povver vvithout impediment to attend vpon our Lord."
+        },
+        {
+          "verse": 36,
+          "text": "But if any man thinke that he ſeemeth diſhonoured vpon his virgin, for that ſhe is paſt age, and if it muſt ſo be, let him doe that he vvil. He ſinneth not if ſhe marie."
+        },
+        {
+          "verse": 37,
+          "text": "For he that hath determined in his hart being ſettled, not hauing neceſſitie, but hauing povver of his ovvne vvil, and hath iudged this in his hart, to keepe his virgin, doeth vvel."
+        },
+        {
+          "verse": 38,
+          "text": "Therfore both he that ioyneth his virgin in matrimonie, doeth vvel: & he that ioyneth not, doeth better."
+        },
+        {
+          "verse": 39,
+          "text": "A vvoman is bound to the lavv ſo long time as her huſband liueth: but if her huſband ſleepe, ſhe is at libertie: let her marie to vvhom ſhe vvil: only in our Lord.",
+          "cross_refs": [
+            {
+              "text": "Ro. 7, 2."
+            }
+          ]
+        },
+        {
+          "verse": 40,
+          "text": "But more bleſſed ſhal ſhe be if ſhe ſo remaine, according to my counſel. and I thinke that I alſo haue the Spirit of God.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "The ſtate of vvidovvhod more bleſſed, then the ſtate of matrimonie.",
+              "kind": "gloss"
+            }
+          ]
+        }
+      ],
+      "summary": "That maried folke may aſke their debt, and muſt pay it, though it be better for them to conteine, 8 as alſo for the vnmarried and vvidovves to continew ſingle, though they may marrie. 10 That the married may not depart from one an other (nor in any caſe marrie an other, during the life of the former) 12 vnles it be from one that is vnbaptized, vvhich yet he diſſuadeth: 17 counſeling alſo euery one to be content vvith his ſtate vvherein he vvas Chriſtened. 25 Virginitie is not commaunded, but counſeled as the better and more meritorious then Mariage, 39 as alſo vvidovvhod.",
+      "summary_notes": [
+        {
+          "marker": 1,
+          "text": "The 3. part. Of Marriage and continency."
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "AND concerning thoſe things that are ſacrificed to Idols, vve knovv that vve al haue knovvledge. Knovvledge puffeth vp: but charitie edifieth.",
+          "has_annotation": true,
+          "notes": [
+            {
+              "label": "1",
+              "text": "Knowledge vvithout charitie puffeth vp in pride, and profiteth nothing at al. vvhē it is ioyned vvith charitie, then it edifieth. Aug. li. 9 ciu. Dei c. 10.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "And if any man thinke that he knoweth ſomething, he hath not yet knovven, as he ought to knovv."
+        },
+        {
+          "verse": 3,
+          "text": "But if any man loue God, the ſame is knovven of him."
+        },
+        {
+          "verse": 4,
+          "text": "But as for the meates that are immolated to Idols, vve knovv that an Idol is nothing in the vvorld, and that there is no God, but one.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "No meats unclean.",
+              "kind": "gloss"
+            },
+            {
+              "label": "2",
+              "text": "Giving of ſcandal reprehended. 7. Some vvith a conſcience.] The perfecter men's fault vvas, that they gave offence by their eating, to the vveaker Chriſtians. Who ſeeing them vvhom they reputed vviſe and learned, to eat the meats offered to Idols, conceived that there vvas ſome virtue and ſanctification in thoſe meats, from the Idol to which they were offered: and thought that ſuch things were or might be eaten vvith the ſame conſcience and devotion as before their converſion.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 5,
+          "text": "For although there be that are called gods, either in heauen, or in earth (for there are many gods, and many lordes)"
+        },
+        {
+          "verse": 6,
+          "text": "yet to vs there is one God, the Father, of vvhom al things, and vve vnto him: and one Lord, IESVS Chriſt, by vvhom al things, and vve by him."
+        },
+        {
+          "verse": 7,
+          "text": "But there is not knovvledge in al. For ſome vntil this preſent vvith a conſcience of the Idol, eate as a thing ſacrificed to Idols: and their conſcience being vveake, is polluted.",
+          "has_annotation": true
+        },
+        {
+          "verse": 8,
+          "text": "But meate doth not commend vs to God. For neither if vve eate, ſhal vve abound: nor if vve eate not, ſhal vve lacke."
+        },
+        {
+          "verse": 9,
+          "text": "But take heede leſt perhaps this your libertie be an offenſe to the vveake."
+        },
+        {
+          "verse": 10,
+          "text": "For if a man ſee him that hath knovvledge, ſit at table in the Idols temple: ſhal not his conſcience, being vveake, be edified, to eate things ſacrificed to Idols?",
+          "has_annotation": true
+        },
+        {
+          "verse": 11,
+          "text": "And through thy knovvledge ſhal the vveake brother periſh, for whom Chriſt hath died?",
+          "cross_refs": [
+            {
+              "text": "Ro. 14, 15."
+            }
+          ]
+        },
+        {
+          "verse": 12,
+          "text": "But ſinning thus againſt the brethren, and ſtriking their vveake conſcience: you ſinne againſt Chriſt."
+        },
+        {
+          "verse": 13,
+          "text": "VVherfore if meate ſcandalize my brother: I vvil neuer eate fleſh, leſt I ſcandalize my brother.",
+          "cross_refs": [
+            {
+              "text": "Ro. 14, 21."
+            }
+          ]
+        }
+      ],
+      "summary": "He rebuketh the learned vvho in pride of their knovvledge did eate Idolothyta, that is things offered to Idols, vſing (as they ſaid) their libertie: but not conſidering that the ignorant tooke their doing as an example for them to frequent [ſuch] meates ſo, as they did before in their Paganiſme, vvith opinion that they did ſanctifie the eaters.",
+      "summary_notes": [
+        {
+          "marker": 1,
+          "text": "The 4. part. Of meats ſacrificed to Idols."
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "AM I not free? Am I not an Apoſtle? Haue I not ſeen Chriſt IESVS our Lord? Are not you my vvorke in our Lord?",
+          "has_annotation": true
+        },
+        {
+          "verse": 2,
+          "text": "And if to others I be not an Apoſtle, but yet to you I am. for you are the ſeale of my Apoſtleſhip in our Lord."
+        },
+        {
+          "verse": 3,
+          "text": "my defenſe to them that examine me is this:"
+        },
+        {
+          "verse": 4,
+          "text": "Haue not vve povver to eate and drinke?"
+        },
+        {
+          "verse": 5,
+          "text": "Haue vve not povver to lead about a vvoman a ſiſter, as alſo the reſt of the Apoſtles, and our Lordes brethren, and Cephas?",
+          "has_annotation": true,
+          "notes": [
+            {
+              "label": "1",
+              "text": "He nameth Cephas (that is Peter) to proue his purpoſe by the example of the cheefe and Prince of the Apoſtles. S. Ambros. S. Chryſoſt. vpon this place.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 6,
+          "text": "Or I only and Barnabas haue not vve povver to doe this?"
+        },
+        {
+          "verse": 7,
+          "text": "Vvho euer plaieth the ſouldiar at his ovvne charges? Vvho planteth a vine, and eateth not of the fruite thereof? Vvho feedeth a flocke, and eateth not of the milke of the flocke?",
+          "has_annotation": true
+        },
+        {
+          "verse": 8,
+          "text": "Speake I theſe things according to man? Or doth not the Lavv alſo ſay theſe things?"
+        },
+        {
+          "verse": 9,
+          "text": "For it is vvritten in the Lavv of Moyſes, Thou ſhalt not mooſel the mouth of the oxe that treadeth out the corne. Vvhy, hath God care of oxen?",
+          "cross_refs": [
+            {
+              "text": "Deu. 25, 4."
+            }
+          ],
+          "notes": [
+            {
+              "label": "2",
+              "text": "Deu. 25, 4. · In that coūtrie they did tread out their corne vvith oxen, as vve do threſh it out.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "text": "Or for vs certes doth he ſay it? For they are vvritten for vs, becauſe he that eateth, ought to eate in hope: and he that treadeth, in hope to receiue fruite."
+        },
+        {
+          "verse": 11,
+          "text": "If vve haue ſovven vnto you ſpiritual things, is it a great matter if vve reape your carnal things?"
+        },
+        {
+          "verse": 12,
+          "text": "If other be partakers of your povver: vvhy not vve rather? Hovvbeit vve haue not vſed this povver: but vve beare al things, leſt vve ſhould giue any offence to the Goſpel of Chriſt."
+        },
+        {
+          "verse": 13,
+          "text": "Knovv you not that they which vvorke in the holy place, eate the things that are of the holy place: and they that ſerue the altar, participat with the altar?",
+          "cross_refs": [
+            {
+              "text": "Deu. 18, 1."
+            }
+          ],
+          "notes": [
+            {
+              "label": "2",
+              "text": "Deu. 18, 1. · τῷ θυσιαστηρίῳ, · the Engliſh bible (1562) here and in the next chapter, ſaith thriſe for altar, temple: moſt falſely & heretically, againſt holy altars, vvhich about the time of that tranſlation vvere digged dovvne in England.",
+              "kind": "gloss"
+            },
+            {
+              "label": "3",
+              "text": "c τῷ θυσιαςηρίῳ,",
+              "kind": "word"
+            }
+          ]
+        },
+        {
+          "verse": 14,
+          "text": "So alſo our Lord ordained for them that preach the Goſpel, to liue of the Goſpel."
+        },
+        {
+          "verse": 15,
+          "text": "But I haue vſed none of theſe. Neither haue I vvritten theſe things, that they ſhould be ſo done in me: for it is good for me to die rather, then that any man ſhould make my glorie void."
+        },
+        {
+          "verse": 16,
+          "text": "For and if I euangelize, it is no glorie to me: for neceſſitie lieth vpon me: for vvoe is to me if I euangelize not.",
+          "has_annotation": true
+        },
+        {
+          "verse": 17,
+          "text": "For if I doe this vvillingly, I haue revvard: but if againſt my vvil, a charge is committed to me."
+        },
+        {
+          "verse": 18,
+          "text": "Vvhat is my revvard then? That preaching the Goſpel, I yeld the Goſpel vvithout coſt, that I abuſe not my povver in the Goſpel."
+        },
+        {
+          "verse": 19,
+          "text": "For vvhereas I vvas free of al, I made my ſelf the ſeruant of al: that I might gaine the moe."
+        },
+        {
+          "verse": 20,
+          "text": "And I became to the Ievves as a Ievv, that I might gaine the Ievves."
+        },
+        {
+          "verse": 21,
+          "text": "to them that are vnder the Lavv, as though I vvere vnder the Lavv (vvhereas my ſelf vvas not vnder the Lavv) that I might gaine them that vvere vnder the Lavv. to them that vvere vvithout the Lavv, as though I vvere vvithout the Lavv (vvhereas I vvas not vvithout the lavv of God, but vvas in the lavv of Chriſt) that I might gaine them that vvere vvithout the Lavv."
+        },
+        {
+          "verse": 22,
+          "text": "To the vveake I became weake, that I might gaine the weake. To al men I became al things, that I might ſaue al.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "Not by fiction or ſimulation, but by compaſſion of the infirmities of al ſortes. Aug. ep. 9.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 23,
+          "text": "And I doe al things for the Goſpel, that I may be made partaker thereof.",
+          "has_annotation": true
+        },
+        {
+          "verse": 24,
+          "text": "Knovv you not that they that runne in the race, al runne in deede, but one receiueth the price? So runne that you may obteine.",
+          "has_annotation": true,
+          "notes": [
+            {
+              "label": "1",
+              "text": "The Epiſtle vpon the Sunday of Septuageſime.",
+              "kind": "lectionary"
+            }
+          ]
+        },
+        {
+          "verse": 25,
+          "text": "And euery one that ſtriueth for the maiſtrie, refraineth him ſelf from al things: and they certes, that they may receiue a corruptible crovvne: but vve an incorruptible."
+        },
+        {
+          "verse": 26,
+          "text": "I therfore ſo runne, not as it vvere at an vncertaine thing: ſo I fight, not as it vvere beating the aire:"
+        },
+        {
+          "verse": 27,
+          "text": "but I chaſtiſe my body, and bring it into ſeruitude, leſt perhaps vvhen I haue preached to others, my ſelf become reprobate.",
+          "has_annotation": true
+        }
+      ],
+      "summary": "To them that ſo vaunted their libertie about Idolothyta, he bringeth his ovvne example, to vvit, that he alſo had libertie to liue by the Goſpel, but yet that he vſed it not, ſo to auoid ſcandal of the infirme, and becauſe it vvas more meritorious. 24 Declaiming againſt their ſecuritie, and ſhevving them by ſimilitudes and examples, 24 both of him ſelf, 1 And of the Iſraelites, that ſaluation is not ſo lightly come by: 14 and ſo concludeth againe againſt eating of Idolothyta. becauſe it is alſo to commit idolatrie, 22 and not onely to giue il example to the infirme."
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "FOR I vvil not haue you ignorant brethren, that our fathers vvere al vnder the cloude, & al paſſed through the ſea,",
+          "cross_refs": [
+            {
+              "text": "Exo. 13, 21."
+            },
+            {
+              "text": "Nu. 8, 18."
+            }
+          ],
+          "xrefs": [
+            "Exo. 13, 21. · Nu. 8, 18."
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "and al in Moyſes vvere baptized in the cloude and in the ſea:"
+        },
+        {
+          "verse": 3,
+          "text": "and al did eate the ſame ſpiritual foode,",
+          "has_annotation": true,
+          "cross_refs": [
+            {
+              "text": "Exo. 14, 22."
+            }
+          ]
+        },
+        {
+          "verse": 4,
+          "text": "and al drunke the ſame ſpiritual drinke (and they drunke of the ſpiritual rocke that folovved them, and the rocke vvas Chriſt,)",
+          "cross_refs": [
+            {
+              "text": "Exo. 16, 15."
+            },
+            {
+              "text": "Exo. 17, 6. Nu. 20, 10."
+            }
+          ],
+          "xrefs": [
+            "Exo. 17, 6. Nu. 20, 10."
+          ]
+        },
+        {
+          "verse": 5,
+          "text": "but in the more part of them God vvas not vvel pleaſed. ¶ for they vvere ouerthrovven in the deſert.",
+          "cross_refs": [
+            {
+              "text": "Nu. 26, 63."
+            }
+          ],
+          "xrefs": [
+            "Nu. 26, 63."
+          ]
+        },
+        {
+          "verse": 6,
+          "text": "And theſe things vvere done in a figure of vs, that vve be not coueting euil things, as they alſo coueted.",
+          "cross_refs": [
+            {
+              "text": "Nu. 11, 4."
+            }
+          ],
+          "notes": [
+            {
+              "label": "2",
+              "text": "Nu. 11, 4. · The Epiſtle vpon the 9. Sunday after Pentecoſt.",
+              "kind": "gloss"
+            }
+          ],
+          "xrefs": [
+            "Nu. 11, 4."
+          ]
+        },
+        {
+          "verse": 7,
+          "text": "Neither become ye Idolaters, as certaine of them: as is vvritten: The people ſate dovvne to eate and drinke, and roſe vp to play.",
+          "cross_refs": [
+            {
+              "text": "Exo. 32, 6."
+            }
+          ]
+        },
+        {
+          "verse": 8,
+          "text": "Neither let vs fornicate, as certaine of them did fornicate, and there fel in one day three and tvventie thouſand.",
+          "cross_refs": [
+            {
+              "text": "Nu. 25, 1."
+            }
+          ],
+          "xrefs": [
+            "Nu. 25, 1."
+          ]
+        },
+        {
+          "verse": 9,
+          "text": "Neither let vs tempt Chriſt: as certaine of them tempted, and periſhed by the ſerpents.",
+          "cross_refs": [
+            {
+              "text": "Nu. 21, 5."
+            }
+          ],
+          "xrefs": [
+            "Nu. 21, 5."
+          ]
+        },
+        {
+          "verse": 10,
+          "text": "Neither doe you murmure: as certaine of them murmured, and periſhed by the deſtroyer.",
+          "cross_refs": [
+            {
+              "text": "Nu. 11, 23. 14, 37."
+            }
+          ],
+          "xrefs": [
+            "Nu. 11, 23. 14, 37."
+          ]
+        },
+        {
+          "verse": 11,
+          "text": "And al theſe things chaunced to them in figure: but they are vvritten to our correption, vpon vvhom the endes of the vvorld are come."
+        },
+        {
+          "verse": 12,
+          "text": "Therefore he that thinketh him ſelf to ſtand, let him take heede leſt he fall.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "It is profitable to al, or in a maner to al, for to keepe them in humilitie, not to knovv vvhat they ſhal be: ſaith S. Auguſtine. Vvhich maketh againſt the vaine ſecuritie of the proteſtants.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 13,
+          "text": "`Let not tentation apprehend' you, but humane. and God is faithful, vvho vvil not ſuffer you to be tempted aboue that vvhich you are able: but vvil make alſo vvith tentation iſſue, that you may be able to ſuſteine.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "`Tentation hath not apprehended.",
+              "kind": "gloss"
+            },
+            {
+              "label": "2",
+              "text": "c ἔκβασιν",
+              "kind": "word"
+            }
+          ]
+        },
+        {
+          "verse": 14,
+          "text": "For the vvhich cauſe, my deereſt, flee from the ſeruing of Idols."
+        },
+        {
+          "verse": 15,
+          "text": "I ſpeake as to vviſe men: your ſelues iudge vvhat I ſay.",
+          "has_annotation": true
+        },
+        {
+          "verse": 16,
+          "text": "The chalice of benediction vvhich vve do bleſſe: is it not the cōmunication of the bloud of Chriſt? and the bread vvhich vve breake, is it not the participation of the body of our Lord?",
+          "has_annotation": true
+        },
+        {
+          "verse": 17,
+          "text": "For being many, vve are one bread, one body, al that participate of one bread.",
+          "has_annotation": true
+        },
+        {
+          "verse": 18,
+          "text": "Behold Iſraël according to the fleſh: they that eate the hoſtes, are they not partakers of the altar?",
+          "has_annotation": true
+        },
+        {
+          "verse": 19,
+          "text": "Vvhat then? do I ſay that that vvhich is immolated to Idols, is any thing? or that the Idol is any thing?"
+        },
+        {
+          "verse": 20,
+          "text": "But the things that the heathen do immolate, to deuils they do immolate, and not to God. And I vvil not haue you become felovves of deuils.",
+          "has_annotation": true
+        },
+        {
+          "verse": 21,
+          "text": "You can not drinke the chalice of our Lord, and the chalice of deuils: you can not be partakers of the table of our Lord, and of the table of deuils.",
+          "has_annotation": true
+        },
+        {
+          "verse": 22,
+          "text": "Or do vve emulate our Lord? Vvhy, are we ſtronger then he? Al things are lavvful for me, but al things are not expedient."
+        },
+        {
+          "verse": 23,
+          "text": "Al things are lavvful for me, but al things do not edifie.",
+          "has_annotation": true
+        },
+        {
+          "verse": 24,
+          "text": "Let no man ſeeke his ovvne, but an other mans."
+        },
+        {
+          "verse": 25,
+          "text": "Al that is ſold in the ſhambles, eate: aſking no queſtion for conſcience."
+        },
+        {
+          "verse": 26,
+          "text": "The earth is our Lordes, and the fulnes thereof.",
+          "cross_refs": [
+            {
+              "text": "Ps. 23, 1."
+            }
+          ]
+        },
+        {
+          "verse": 27,
+          "text": "If any inuite you of the infidels, and you vvil goe: eate of al that is ſet before you, aſking no queſtion for conſcience."
+        },
+        {
+          "verse": 28,
+          "text": "But if any man ſay, This is immolated to Idols: do not eate for his ſake that ſhevved it, and for conſcience:"
+        },
+        {
+          "verse": 29,
+          "text": "conſcience I ſay not thine but the others. For vvhy is my libertie iudged of an other mans conſcience?"
+        },
+        {
+          "verse": 30,
+          "text": "If I participate vvith thankes: vvhy am I blaſphemed for that vvhich I giue thankes for?"
+        },
+        {
+          "verse": 31,
+          "text": "Therfore vvhether you eate, or drinke, or do any other thing: doe al things vnto the glorie of God."
+        },
+        {
+          "verse": 32,
+          "text": "Be vvithout offenſe to the Ievves and to the Gentiles, and to the Church of God:"
+        },
+        {
+          "verse": 33,
+          "text": "as I alſo in al things doe pleaſe al men, not ſeeking that vvhich is profitable to my ſelf, but vvhich is to many: that they may be ſaued."
+        }
+      ],
+      "summary": "See the argument of the 9 Chapter, vvhich comprehendeth the contents of this alſo."
+    },
+    {
+      "chapter": 11,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "BE ye folovvers of me, as I alſo of Chriſt."
+        },
+        {
+          "verse": 2,
+          "text": "And I praiſe you brethren, that in al things you be mindeful of me: and as I haue deliuered vnto you, you keepe my precepts.",
+          "has_annotation": true,
+          "notes": [
+            {
+              "label": "1",
+              "text": "In the greeke, Traditions, παραδόσεις.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 3,
+          "text": "And I vvil haue you knovv, that the head of euery man, is Chriſt: and the head of the vvoman, is the man: and the head of Chriſt, is God."
+        },
+        {
+          "verse": 4,
+          "text": "Euery man praying or prophecying vvith his head couered: diſhoneſteth his head."
+        },
+        {
+          "verse": 5,
+          "text": "But euery vvoman praying or prophecying vvith her head not couered: diſhoneſteth her head: for it is al one as if ſhe vvere made balde.",
+          "has_annotation": true
+        },
+        {
+          "verse": 6,
+          "text": "For if a vvoman be not couered, let her be polled. but if it be a foule thing for a vvoman to be polled or made balde: let her couer her head."
+        },
+        {
+          "verse": 7,
+          "text": "The man truely ought not to couer his head, becauſe he is the image and glorie of God, but the vvoman is the glorie of the man."
+        },
+        {
+          "verse": 8,
+          "text": "For the man is not of the vvoman, but the vvoman of the man."
+        },
+        {
+          "verse": 9,
+          "text": "For the man vvas not created for the vvoman, but the vvoman for the man.",
+          "cross_refs": [
+            {
+              "text": "Gen. 2, 21."
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "text": "(Therfore ought the vvoman to haue povver vpon her head for the Angels.)"
+        },
+        {
+          "verse": 11,
+          "text": "But yet neither the man vvithout the vvoman: nor the vvoman vvithout the man, in our Lord."
+        },
+        {
+          "verse": 12,
+          "text": "For as the vvoman is of the man, ſo alſo the man by the vvoman: but al things of God."
+        },
+        {
+          "verse": 13,
+          "text": "Your ſelues iudge: doth it become a vvoman not couered to pray vnto God?"
+        },
+        {
+          "verse": 14,
+          "text": "Neither doth nature it ſelf teach you, that a man in deede if he nouriſh his heare, it is an ignominie for him:"
+        },
+        {
+          "verse": 15,
+          "text": "but if a vvoman nouriſh her heare, it is a glorie for her, becauſe heare is giuen her for a veile?"
+        },
+        {
+          "verse": 16,
+          "text": "But if any man ſeeme to be contentious, vve haue no ſuch cuſtome, nor the `CHVRCH' of God.",
+          "has_annotation": true,
+          "notes": [
+            {
+              "label": "1",
+              "text": "churches",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 17,
+          "text": "And this I commaund: not praiſing it that you come together not to better, but to vvorſe."
+        },
+        {
+          "verse": 18,
+          "text": "Firſt in deede vvhen you come together into the Church, I heare that there are ſchiſmes among you, and in part I beleeue it.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "The Epiſtle vpon Maundy Thurſday.",
+              "kind": "lectionary"
+            }
+          ]
+        },
+        {
+          "verse": 19,
+          "text": "For there muſt be hereſies alſo: that they alſo vvhich are approued, may be made manifeſt among you.",
+          "has_annotation": true
+        },
+        {
+          "verse": 20,
+          "text": "Vvhen you come therfore together in one, is it not novv to eate our Lordes ſupper.",
+          "has_annotation": true
+        },
+        {
+          "verse": 21,
+          "text": "For euery one taketh his ovvne ſupper before to eate. And one certes is an hungred, and an other is drunke."
+        },
+        {
+          "verse": 22,
+          "text": "Vvhy, haue you not houſes to eate and drinke in? or contemne ye the Church of God: and confound them that haue not? Vvhat ſhal I ſay to you? praiſe I you in this? I do not praiſe you."
+        },
+        {
+          "verse": 23,
+          "text": "For I receiued of our Lord that vvhich alſo I haue deliuered vnto you, that our Lord IESVS in the night that he vvas betraied, tooke bread:",
+          "has_annotation": true,
+          "cross_refs": [
+            {
+              "text": "Mat. 26, 26. Mr. 14, 22. Luc. 22, 19."
+            }
+          ],
+          "notes": [
+            {
+              "label": "3",
+              "text": "a The Epiſtle upon CORPUS Chriſti day.",
+              "kind": "gloss"
+            },
+            {
+              "label": "2",
+              "text": "The Apoſtles drift in al that he ſaith here of the Sacrament, is againſt vnvvorthy receiuing (as S. Auguſtine alſo noteth Ep. 118. c. 3.) and not to ſet out the vvhole order of miniſtration, as the heretikes do ignorantly imagine.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 24,
+          "text": "and giuing thankes brake, and ſaid: Take ye & eate, THIS IS MY BODY VVHICH SHAL BE DELIVERED FOR YOV: this doe ye for the commemoration of me.",
+          "has_annotation": true
+        },
+        {
+          "verse": 25,
+          "text": "In like maner alſo the chalice after he had ſupped, ſaying, THIS CHALICE IS THE NEVV TESTAMENT IN MY BLOVD. this doe ye, as often as you ſhal drinke, for the cōmemoration of me."
+        },
+        {
+          "verse": 26,
+          "text": "For as often as you ſhal eate this bread, and drinke the chalice, you ſhal ſhevv the death of our Lord, vntil he come.",
+          "has_annotation": true
+        },
+        {
+          "verse": 27,
+          "text": "Therfore vvhoſoeuer ſhal eate this bread, or drinke the chalice of our Lord vnvvorthily, he ſhal be guilty of the body and of the bloud of our Lord.",
+          "has_annotation": true
+        },
+        {
+          "verse": 28,
+          "text": "But let a man proue him ſelf: and ſo, let him eate of that bread, and drinke of the chalice.",
+          "has_annotation": true
+        },
+        {
+          "verse": 29,
+          "text": "For he that eateth and drinketh vnvvorthily: eateth and drinketh iudgement to him ſelf, not diſcerning the body of our Lord. ⊢",
+          "has_annotation": true
+        },
+        {
+          "verse": 30,
+          "text": "Therfore are there among you many weake and feble, and many ſleepe.",
+          "has_annotation": true
+        },
+        {
+          "verse": 31,
+          "text": "But if vve did iudge our ſelues: vve ſhould not be iudged.",
+          "has_annotation": true
+        },
+        {
+          "verse": 32,
+          "text": "But vvhiles vve are iudged, of our Lord vve are chaſtiſed: that vvith this world vve be not damned. ⊢"
+        },
+        {
+          "verse": 33,
+          "text": "Therfore my brethren, vvhen you come together to eate, expect one an other.",
+          "has_annotation": true
+        },
+        {
+          "verse": 34,
+          "text": "If any man be an hungred, let him eate at home: that you come not together vnto iudgement. And the reſt I vvil diſpoſe, vvhen I come.",
+          "has_annotation": true
+        }
+      ],
+      "summary": "He commendeth them for keeping his Traditions generally. 3. and in particular for this, that a man praied and prophecied bareheaded, a vvoman veiled, he bringeth many reaſons. 17 About another, he reprehendeth the riche that at the Charitable ſupper ſupped vncharitably, 23 telling them that they receiued therfore vnvvorthely the B. Sacrament, and ſhevving them vvhat an heinous ſinne that is, ſeeing it is our Lordes body and the repreſentation of his death, as he by tradition had taught them.",
+      "summary_notes": [
+        {
+          "marker": 1,
+          "text": "The 5. part. Of his Traditions."
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "ANd concerning ſpiritual things, I vvil not haue you ignorant, brethren.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "The Epiſtle vpon the 10 Sunday after Pentecoſt.",
+              "kind": "lectionary"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "You know that vvhen you vvere heathen, you vvent to dumme Idols according as you vvere ledde."
+        },
+        {
+          "verse": 3,
+          "text": "Therfore I doe you to vnderſtand that no man ſpeaking in the Spirit of God, ſaith anáthema to IESVS. And no man can ſay, Our Lord IESVS: but in the holy Ghoſt."
+        },
+        {
+          "verse": 4,
+          "text": "And there are diuiſions of graces, but one Spirit."
+        },
+        {
+          "verse": 5,
+          "text": "And there are diuiſions of miniſtrations: but one Lord."
+        },
+        {
+          "verse": 6,
+          "text": "And there are diuiſions of operations, but one God, vvhich vvorketh al in al."
+        },
+        {
+          "verse": 7,
+          "text": "And the manifeſtation of the Spirit is giuen vnto euery one to profit."
+        },
+        {
+          "verse": 8,
+          "text": "To one certes by the Spirit is giuen the vvord of vviſedom: and to an other, the vvord of knovvledge according to the ſame Spirit:",
+          "notes": [
+            {
+              "label": "1",
+              "text": "Al theſe Giftes be thoſe vvhich the learned call Gratias gratis datas : vvhich be beſtovved often euen vpon il liuers, vvhich haue not the other graces of god vvhereby their perſons ſhould be grateful, iuſt & holy in his ſight.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "text": "to an other, faith in the ſame Spirit: to an other, the grace of doing cures in one Spirit:",
+          "has_annotation": true
+        },
+        {
+          "verse": 10,
+          "text": "to an other, the vvorking of miracles: to an other, prophecie: to an other, diſcerning of ſpirites: to an other, kindes of tonges: to an other, interpretation of languages."
+        },
+        {
+          "verse": 11,
+          "text": "And al theſe things vvorketh one and the ſame Spirit, diuiding to euery one according as he vvil. ⊢"
+        },
+        {
+          "verse": 12,
+          "text": "For as the body is one, and hath many members, and al the members of the body vvhereas they be many, yet are one body: ſo alſo Chriſt.",
+          "cross_refs": [
+            {
+              "text": "Ro. 12, 4. Eph. 4, 7."
+            }
+          ],
+          "notes": [
+            {
+              "label": "2",
+              "text": "A maruelous vnion betvvixt chriſt & his Church & a great cõfort to al Catholikes being members therof, that the church and he, the head & the body, make & be called one Chriſt. Aug. de vnit. Ec.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 13,
+          "text": "For in one Spirit vvere vve al baptized into `one', vvhether Ievves, or Gentiles, or bondmen, or free: and in one Spirit vve vvere al made to drinke.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "`one body,",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 14,
+          "text": "For the body alſo is not one member, but many."
+        },
+        {
+          "verse": 15,
+          "text": "If the foote ſhould ſay, becauſe I am not the hand, I am not of the body: is it therfore not of the body?",
+          "has_annotation": true
+        },
+        {
+          "verse": 16,
+          "text": "And if the eare ſhould ſay, becauſe I am not the eie, I am not of the body: is he therfore not of the body?"
+        },
+        {
+          "verse": 17,
+          "text": "If the vvhole body vvere the eie: vvhere is the hearing? If the vvhole vvere the hearing: vvhere is the ſmelling?"
+        },
+        {
+          "verse": 18,
+          "text": "But novv God hath ſet the members, euery one of them in the body as he vvould."
+        },
+        {
+          "verse": 19,
+          "text": "And if al vvere one member, vvhere vvere the body?"
+        },
+        {
+          "verse": 20,
+          "text": "But novv there are many members in deede, yet one body."
+        },
+        {
+          "verse": 21,
+          "text": "And the eie can not ſay to the hand: I neede not thy helpe. or againe the head to the feete, You are not neceſſarie for me."
+        },
+        {
+          "verse": 22,
+          "text": "But much more thoſe that ſeeme to be the more vveake members of the body, are more neceſſarie:"
+        },
+        {
+          "verse": 23,
+          "text": "and ſuch as vve thinke to be the baſer members of the body, vpon them vve put more aboundant honour: and thoſe that are our vnhoneſt partes, haue more aboundant honeſtie."
+        },
+        {
+          "verse": 24,
+          "text": "And our honeſt partes neede nothing: but God hath tempered the body, giuing to it that vvanted, the more aboundant honour,"
+        },
+        {
+          "verse": 25,
+          "text": "that there might be no ſchiſme in the body, but the members together might be careful one for an other.",
+          "has_annotation": true
+        },
+        {
+          "verse": 26,
+          "text": "And if one member ſuffer any thing, al the members ſuffer vvith it. or if one member do glorie, al the members reioyce vvith it."
+        },
+        {
+          "verse": 27,
+          "text": "And you are the body of Chriſt, and members of member.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "b The Epiſtle upon S. Bartholomew's day. Augu. 24.",
+              "kind": "lectionary"
+            }
+          ]
+        },
+        {
+          "verse": 28,
+          "text": "And ſome verily God hath ſet in the Church firſt Apoſtles, ſecondly prophets, thirdly doctors, next miracles, thē the graces of doing cures, helpes, gouernements, kindes of tonges.",
+          "cross_refs": [
+            {
+              "text": "Eph. 4, 11."
+            }
+          ]
+        },
+        {
+          "verse": 29,
+          "text": "Are al Apoſtles? are al prophets? are al doctors?"
+        },
+        {
+          "verse": 30,
+          "text": "are al miracles? haue al the grace of doing cures? do al ſpeake vvith tonges? do al interpret?",
+          "notes": [
+            {
+              "label": "1",
+              "text": "S.Auguſtine ep. 137 giueth the ſame reaſon, vvhy miracles & cures be done at the memories or bodies of ſome Saincts more then at others : & by the ſame Saincts in one place of their memories rather then at other places.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 31,
+          "text": "But purſue the better giftes. And yet I ſhevv you a more excellent vvay."
+        }
+      ],
+      "summary": "They muſt not make their diuerſitie of Giftes an occaſion of Schiſme, conſidering that al are of one Holy Ghoſt, and for the profit of the one body of Chriſt vvhich is the Church : 12 Vvhich alſo vvould not be a body, vvithout ſuch varietie of members. 12 Therfore neither they that haue the inferiour giftes, muſt be diſcontent, ſeing it is Gods diſtribution : nor they that haue the greater, contemne the other, conſidering they are no leſſe neceſſarie : 25 but al in al ioyne together, 28 and euery one knovv his ovvne place.",
+      "summary_notes": [
+        {
+          "marker": 1,
+          "text": "The 6. part. As touching the Gifts of the Holy Ghoſt."
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "IF I ſpeake vvith the tonges of men and of Angels, and haue not charitie: I am become as ſounding braſſe, or a tinkling cymbal.",
+          "has_annotation": true,
+          "notes": [
+            {
+              "label": "1",
+              "text": "The Epiſtle vpon the Sunday of Quinquageſima, called Shrove-Sunday.",
+              "kind": "lectionary"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "And if I ſhould haue prophecie, and knevv al myſteries, and al knovvledge, and if I ſhould haue al faith ſo that I could remoue mountaines, and haue not charitie, I am nothing.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "This proueth that faith is nothing vvorth to ſaluation vvithout vvorkes, and that there may be true faith vvithout Charitie.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 3,
+          "text": "And if I ſhould diſtribute al my goods to be meate for the poore, and if I ſhould deliuer my body ſo that I burne, and haue not charitie, it doth profit me nothing.",
+          "has_annotation": true
+        },
+        {
+          "verse": 4,
+          "text": "Charitie is patient, is benigne: Charitie enuieth not, dealeth not peruerſly: is not puffed vp,"
+        },
+        {
+          "verse": 5,
+          "text": "is not ambitious, ſeeketh not her ovvne, is not prouoked to anger, thinketh not euil:"
+        },
+        {
+          "verse": 6,
+          "text": "reioyceth not vpon iniquitie, but reioyceth vvith the truth:"
+        },
+        {
+          "verse": 7,
+          "text": "ſuffereth al things, beleeueth al things, hopeth al things, beareth al things."
+        },
+        {
+          "verse": 8,
+          "text": "Charitie neuer falleth avvay: vvhether prophecies ſhal be made voide, or tonges ſhal ceaſe, or knovvledge ſhal be deſtroied."
+        },
+        {
+          "verse": 9,
+          "text": "For in part vve knovv, and in part vve prophecie."
+        },
+        {
+          "verse": 10,
+          "text": "But vvhen that ſhal come that is perfect, that ſhal be made voide that is in part.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "By this text S. Auguſtine li. 22. Ciu. c. 29 proueth that the Saints in heauen haue more perfect knovvledge of our affaires here, then they had vvhen they liued here.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 11,
+          "text": "Vvhen I vvas a litle one, I ſpake as a litle one, I vnderſtood as a litle one, I thought as a litle one. But vvhen I vvas made a man, I did avvay the things that belonged to a litle one."
+        },
+        {
+          "verse": 12,
+          "text": "Vve ſee novv by a glaſſe in a darke ſort: but then face to face. Novv I knovv in part: but then I ſhal knovv as alſo I am knovven."
+        },
+        {
+          "verse": 13,
+          "text": "And novv there remaine, faith, hope, charitie, theſe three. but the greater of theſe is charitie.",
+          "has_annotation": true,
+          "notes": [
+            {
+              "label": "1",
+              "text": "Charitie is of al the three the greateſt. Hovv then doth onely faith, being inferior to it, ſaue & iuſtifie, and not Charitie?",
+              "kind": "gloss"
+            }
+          ]
+        }
+      ],
+      "summary": "That aboue al other Giftes they ſhould ſeeke after Charitie : as that vvithout vvhich nothing profiteth, 4 and vvhich doth al as it is to be done, and remaineth alſo in heauen."
+    },
+    {
+      "chapter": 14,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "FOLOVV Charitie, earneſtly purſue ſpiritual things: but rather that you may prophecie.",
+          "has_annotation": true
+        },
+        {
+          "verse": 2,
+          "text": "For he that ſpeaketh vvith tongue, ſpeaketh not to men, but to God: for no man heareth. But in ſpirit he ſpeaketh myſteries.",
+          "has_annotation": true
+        },
+        {
+          "verse": 3,
+          "text": "For he that prophecieth, ſpeaketh to men vnto edification, and exhortation, and conſolation."
+        },
+        {
+          "verse": 4,
+          "text": "He that ſpeaketh vvith tongues, edifieth him ſelf: but he that prophecieth, edifieth the Church."
+        },
+        {
+          "verse": 5,
+          "text": "And I would haue you al to ſpeake vvith tongues, but rather to prophecie. For greater is he that prophecieth, then he that ſpeaketh vvith tongues: vnleſſe perhaps he interpret, that the Church may take edification."
+        },
+        {
+          "verse": 6,
+          "text": "But novv brethren if I come to you ſpeaking vvith tongues: vvhat ſhal I profit you, vnleſſe I ſpeake to you either in reuelation, or in knovvledge, or in prophecie, or in doctrine?",
+          "has_annotation": true
+        },
+        {
+          "verse": 7,
+          "text": "Yet the things vvithout life that giue a ſound, be it pipe or harpe, vnleſſe they giue a diſtinction of ſoundes, hovv ſhal that be knovven which is piped, or which is harped?"
+        },
+        {
+          "verse": 8,
+          "text": "For if the trumpet giue an vncertaine voice, vvho ſhal prepare him ſelf to battel?",
+          "has_annotation": true
+        },
+        {
+          "verse": 9,
+          "text": "So you alſo by a tongue vnleſſe you vtter manifeſt ſpeach, hovv ſhal that be knovven that is ſaid? for you ſhal be ſpeaking into the aire."
+        },
+        {
+          "verse": 10,
+          "text": "There are (for example) ſo many kindes of tongues in this vvorld, & none is vvithout voice."
+        },
+        {
+          "verse": 11,
+          "text": "If then I knovv not the vertue of the voice, I ſhal be to him to vvhom I ſpeake, barbarous: and he that ſpeaketh, barbarous to me."
+        },
+        {
+          "verse": 12,
+          "text": "So you alſo, becauſe you be emulators of ſpirites: ſeeke to abound vnto the edifying of the Church."
+        },
+        {
+          "verse": 13,
+          "text": "And therfore he that ſpeaketh vvith the tongue, let him pray that he may interpret.",
+          "has_annotation": true
+        },
+        {
+          "verse": 14,
+          "text": "For if I pray vvith the tongue, my ſpirit praieth, but my vnderſtanding is vvithout fruite.",
+          "has_annotation": true
+        },
+        {
+          "verse": 15,
+          "text": "Vvhat is it then? I vvil pray in the ſpirit, I vvil pray alſo in the vnderſtanding: I vvil ſing in the ſpirit, I vvil ſing alſo in the vnderſtanding."
+        },
+        {
+          "verse": 16,
+          "text": "But if thou bleſſe in the ſpirit: he that ſupplieth the place of the vulgar hovv ſhal he ſay, Amen, vpon thy bleſſing? becauſe he knovveth not vvhat thou ſaieſt.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "By this vvord are meant al rude vnlearned men, but ſpecially the ſimple vvhich vvere yet vnchriſtened, as the Catechumens, vvhich came in to thoſe ſpiritual exerciſes, as alſo infidels did at their pleaſures.",
+              "kind": "gloss"
+            },
+            {
+              "label": "2",
+              "text": "c idiotæ",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 17,
+          "text": "For thou in deede giueſt thankes vvel: but the other is not edified."
+        },
+        {
+          "verse": 18,
+          "text": "I giue my God thankes, that I ſpeake `vvith the tongue of you al'.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "`vvith tongues more thẽ you all.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 19,
+          "text": "But in the Church I vvil ſpeake fiue vvordes vvith my vnderſtanding that I may inſtruct others alſo: rather then ten thouſand vvordes in a tongue."
+        },
+        {
+          "verse": 20,
+          "text": "Brethren, be not made children in ſenſe, but in malice be children: and in ſenſe be perfect."
+        },
+        {
+          "verse": 21,
+          "text": "In the Lavv it is vvritten, That in other tongues and other lippes I vvil ſpeake to this people: and neither ſo vvil they heare me, ſaieth our Lord.",
+          "cross_refs": [
+            {
+              "text": "Eſa. 28, 11."
+            }
+          ],
+          "xrefs": [
+            "Es. 28, 11."
+          ]
+        },
+        {
+          "verse": 22,
+          "text": "Therfore languages are for a ſigne not to the faithful, but to infidels: but prophecies, not to infidels, but to the faithful.",
+          "has_annotation": true
+        },
+        {
+          "verse": 23,
+          "text": "If therfore the vvhole Church come together in one, and al ſpeake with tongues, and there enter in vulgar perſons or infidels, vvil they not ſay that you be madde?",
+          "has_annotation": true
+        },
+        {
+          "verse": 24,
+          "text": "But if al prophecie, and there enter in any infidel or vulgar perſon, he is conuinced of al, he is iudged of al."
+        },
+        {
+          "verse": 25,
+          "text": "the ſecrets of his hart are made manifeſt, and ſo falling on his face he vvil adore God, pronouncing that God is in you in deede."
+        },
+        {
+          "verse": 26,
+          "text": "Vvhat is it then brethren? vvhen you come together, euery one of you hath a pſalme, hath a doctrine, hath a reuelation, hath a tongue, hath an interpretation: let al things be done to edification.",
+          "has_annotation": true
+        },
+        {
+          "verse": 27,
+          "text": "Vvhether a man ſpeake with tongue, by tvvo, or at the moſt by three, and in courſe, and let one interpret.",
+          "has_annotation": true
+        },
+        {
+          "verse": 28,
+          "text": "But if there be not an interpreter, let him hold his peace in the Church, and ſpeake to him ſelf and to God."
+        },
+        {
+          "verse": 29,
+          "text": "And let prophets ſpeake tvvo or three, and let the reſt iudge."
+        },
+        {
+          "verse": 30,
+          "text": "But if it be reuealed to an other ſitting, let the firſt hold his peace."
+        },
+        {
+          "verse": 31,
+          "text": "For you may al prophecie one by one: that al may learne, and al may be exhorted,"
+        },
+        {
+          "verse": 32,
+          "text": "and the ſpirites of prophets are ſubiect to prophets."
+        },
+        {
+          "verse": 33,
+          "text": "For God is not the God of diſſenſion, but of peace: as alſo in all the Churches of the ſaincts I teache."
+        },
+        {
+          "verse": 34,
+          "text": "Let vvomen hold their peace in the Churches: for it is not permitted them to ſpeake, but to be ſubiect, as alſo the Law ſaith.",
+          "has_annotation": true,
+          "cross_refs": [
+            {
+              "text": "1. Tim. 2, 12."
+            },
+            {
+              "text": "Gen. 3, 16."
+            }
+          ]
+        },
+        {
+          "verse": 35,
+          "text": "But if they learne any thing, let them aſke their ovvne huſbands at home. For it is a foule thing for a vvoman to ſpeake in the Church."
+        },
+        {
+          "verse": 36,
+          "text": "Or did the vvord of God proceede from you? came it vnto you onely?"
+        },
+        {
+          "verse": 37,
+          "text": "If any man ſeeme to be a prophet, or ſpiritual, let him knovv the things that I vvrite to you, that they are the commaundements of our Lord."
+        },
+        {
+          "verse": 38,
+          "text": "But if any man knovv not, he ſhal not be knovven."
+        },
+        {
+          "verse": 39,
+          "text": "Therfore, brethren, be earneſt to prophecie: and to ſpeake vvith tongues prohibit not."
+        },
+        {
+          "verse": 40,
+          "text": "But let al things be done honeſtly and according to order among you."
+        }
+      ],
+      "summary": "Againſt their vaine childiſhnes, that thought it a goodly matter to be able to ſpeake (by miracle) ſtrange languages in the Church, \" preferring their languages before prophecying, that is, opening of Myſteries : he declareth that this Gift of languages is inferior to the Gift of prophecie. 26 Giuing order alſo hovv both giftes are to be vſed, to vvit, the Prophet to ſubmit him ſelf to other Prophets : and the Speaker of languages not to publiſh his inſpiration, vnles there be an interpreter. 34 Prouided alvvaies, that vvomen ſpeake not at al in the Church.",
+      "summary_notes": [
+        {
+          "marker": 1,
+          "text": "Much like to ſome fond Linguiſts of our time, who think themſelves better than a doctor of Divinity that is not a Linguiſt."
+        }
+      ],
+      "articles": [
+        {
+          "title": "A MORE AMPLE DECLARATION OF THE sense of this 14. Chapter.",
+          "text": "This then being the scope and direct drift of the Apostle, as is most clear by his whole discourse, and by the record of all antiquity: let the godly, grave, and discreet Reader take a taste in this one point, of the Protestants' deceitful dealing, abusing the simplicity of the popular, by perverse application of God's holy word, upon some small similitude and equivocation of certain terms, against the approved godly use and truth of the universal Church, for the service in the Latin or Greek tongue: which they ignorantly, or rather willfully, pretend to be against this discourse of S. Paul touching strange tongues. Know therefore, first, that here is no word written or meant of any other tongues but such as men spake in the Primitive Church by miracle, and that nothing is meant of those tongues which were the common languages of the world or of the Faithful, understood of the learned and civil people in every great city, and in which the Scriptures of the Old or new Testament were written, as, the Hebrew, Greek, and Latin. For though these also, might be given by miracles & without study, yet being known to the Jews, Romans, or Greeks in every place, they be not counted among the differences of barbarous and strange tongues here spoken of, which could not be interpreted commonly, but by the miraculous gift also of interpretation. And therefore this Apostle (as the Evangelists also and others did their books) wrote his Epistles in Greek to the Romans and to all other Churches. Which when he wrote, though he penned them not in the vulgar language peculiar to every people, yet he wrote them not in Tongue, that is, in any strange tongue not intelligible without the gift of interpretation, whereof he speaketh here: but in a notable known and learned speech interpretable of thousands in every country. No more did S. Augustine our Apostle , speaking in Latin, & bringing in the Scriptures and Service in Latin, preach and pray in Tongues according to the Apostle's meaning here. For the Latin was not, nor is not, in any part of the West, either miraculous or strange, though it be not the National tongue of any one country this day. And therefore S. Bede saith, (li. 1. hist. Angl. c. 1.) that being then four diverse vulgar languages in our country, the Latin was made common to them all. And indeed of the two (though in truth neither sort be forbidden by this passage of S. Paul) the barbarous languages of every several province in respect of the whole Church of Christ, are rather the strange Tongues here spoken of, than the common Latin tongue, which is universally of all the West Church more or less learned, and pertaineth much more to unity and orderly conjunction of all Nations in one faith, Service, and worship of God, than if it were in the sundry barbarous speeches of every Province. Wherein all Christians that travel about this part of the world or the Indies either, where soever they come, shall find the selfsame Mass, Matins, and Service, as they had at home. Where now, if we go to Germany, or the Germans or Genevians come to us, each others Service shall be thought strange and barbarous. Yea and the Service of our own language within a few hundreth years (or rather every age) shall wholly become barbarous and unknown to ourselves, our tongue (as all vulgar) doth so often change.\n\n And for edification, that is, for increase of faith, true knowledge, and good life, the experience of a few years hath given all the world a full demonstration whether our forefathers were not as wise, as faithful, as devout, as fearful to break God's laws, and as likely to be saved, as we are in all our tongues, translations, and English prayers. Much vanity, curiosity, contempt of Superiors, disputes, emulations, contentions, Schisms, horrible errors, profanation and divulgation of the secret Mysteries of the dreadful Sacraments, which of purpose were hidden from the vulgar (as S. Denys Eccl. Hier. c. 1. and S. Basil de Sp. Sanct. c. 27. testify) are fallen by the same; but virtue or sound knowledge none at all.\n\nWherein this also is a gross illusion and untruth, that the force and efficacy of the Sacraments, Sacrifice, and common prayer, dependeth upon the people's understanding, hearing, or knowledge: the principal efficacy of such things and of the whole ministry of the Church, consisting specially of the very virtue of the work, and the public office of the Priests, who be appointed in Christ's behalf to dispose these Mysteries to our most good: the infant, innocent, idiot and unlearned, taking no less fruit of Baptism and all other divine offices, meet for every one's condition, than the learnedst Clerk in the Realm: and more, if they be more humble, charitable, devout, and obedient, than the other, having less of these qualities and more learning.\n\n Which we say not, as though it were inconvenient for the people to be well instructed in the meaning of the Sacraments and holy ceremonies and Service of the Church (for, that to their comfort and necessary knowledge, both by preaching, Catechizing, and reading of good Catholic books, Christian people do learn in all Nations much more in those countries where the Service is in Latin, than in our Nation, God knoweth:) But we say that there be other ways to instruct them, and the same less subject to danger and disorder, than to turn it into vulgar tongues. We say, the simple people and many one that think themselves somebody, understand as little of the sense of diverse Psalms, Lessons, and Orations in the vulgar tongue, as if they were in Latin: yea and often take them in a wrong, perverse, and pernicious sense, which lightly they could not have done in Latin. We say, that such as would learn in devotion and humility, may and must rather with diligence learn the tongue that such Divine things be written in, or use other diligence in hearing sermons and instructions, than for a few men's not necessary knowledge, the holy universal order of God's Church should be altered. For if in the kingdom of England only, it be not convenient, necessary, nor almost possible, to accommodate their Service book to every province and people of diverse tongues: how much less should the whole Church so do, consisting of so many differences? Neither doth the Apostle in all this Chapter appoint any such thing to be done, but admonisheth them to pray and labour for the grace of understanding and interpretation, or to get others to interpret or expound unto them. And that much more may we do concerning the Service in Latin, which is no strange nor miraculously gotten or understood tongue, but common to the most and chief churches of the world, and hath been, since the Apostles' time, daily with all diligence throughout all these parts of Christendom, expounded in every house, school, church, and pulpit: and is so well known for every necessary part of the divine Service, that by the diligence of parents, Masters, and Curates, every Catholic of age almost, can tell the sense of every ceremony of the Mass, what to answer, when to say Amen at the Priest's benediction, when to confess, when to adore, when to stand, when to kneel, when to receive, what to receive, when to come, when to depart, and all other duties of praying and serving, sufficient to salvation. And thus is it evident that S. Paul speaketh not of the common tongues of the Church's Service.\n\nSecondly, it is as certain, that he meaneth not nor writeth any word in this place of the Church's public Service, prayer, or ministration of the holy Sacrament, wherein the Office of the Church specially consisteth: but only of a certain exercise of mutual conference, wherein one did open to another and to the assembly, miraculous gifts and graces of the Holy Ghost, and such Canticles, Psalms, secret Mysteries, sorts of Languages, and other Revelations, as it pleased God to give unto certain both men and women in that first beginning of his Church. In doing of this, the Corinthians committed many disorders, turning God's gifts to pride and vanity, and namely that gift of tongues: which being indeed the least of all gifts, yet most puffed up the havers, and now also doth commonly puff up the professors of such knowledge, according as S. Augustine writeth thereof. This exercise and the disorder thereof was not in the Church (for anything we can read in antiquity) these fourteen hundreth years: and therefore neither the use nor abuse, nor S. Paul's reprehension or redressing thereof, can concern any whit the Service of the Church. Furthermore this is evident, that the Corinthians had their Service in Greek at this same time, and it was not done in these miraculous tongues. Nothing is meant then of the Church Service. Again the public Service had but one language: in this exercise they spake in many tongues. In the public Service every man had not his own special tongue, his special Interpretation, special Revelation, proper Psalms: but in this they had. Again, the public Service had in it the ministration of the holy Sacrament principally: which was not done in this time of conference. For into this exercise were admitted Catechumens and Infidels and whosoever would: in this women, before S. Paul's order, did speak and prophesy: so did they never in the Ministration of the Sacrament. With many other plain differences, that by no means the Apostle's words can be rightly and truly applied to the Corinthians' Service then, or ours now. Therefore it is either great ignorance of the Protestants, or great guilefulness, so untruly and perversely to apply them.\n\n Neither is here any thing meant of the private prayers which devout persons of all sorts and sexes have ever used, specially in Latin, as well upon their Primers as Beads. For, the private prayers here spoken of, were psalms or hymns and sonnets newly inspired to them by God, and in this conference or prophesying, uttered to one another's comfort, or to themselves and God only. But the prayers, psalms, and holy words of the Christian people used privately, are not composed by them, nor diversly inspired to themselves, nor now to be approved or examined in the assemblies: but they are such as were given and written by the Holy Ghost, and prescribed by Christ and his Church for the faithful to use, namely the Pater noster, the Ave Maria , and the Creed , our Lady's Matins , the Litanies , and the like. Therefore the Apostle prescribeth nothing here thereof, condemneth nothing therein, toucheth the same nothing at all. But the devout people in their ancient right may and ought still use their Latin primers, beads, and prayers, as ever before. Which the wisdom of the Church for great causes hath better liked and allowed of, than that they should be in vulgar tongues, though she wholly forbiddeth not, but sometimes granteth to have them translated, and would gladly have all faithful people in order and humility learn, as they may, the contents of their prayers: and hath commanded also in some Councels, that such as cannot learn distinctly in Latin (specially the Pater noster & the Creed ) should be taught them in the vulgar tongue. And therefore as we doubt not but it is acceptable to God, & available in all necessities, & more agreeable to the use of all Christian people ever since their conversion, to pray in Latin, than in the vulgar, though every one in particular understand not what he saith: so it is plain that such pray with as great consolation of spirit, with as little tediousness, with as great devotion and affection, and oftentimes more, than the other: and always more than any Schismatic or Heretic in his known language. Such holy Orations be in manner consecrated and sanctified in and by the Holy Ghost that first inspired them; and there is a reverence and Majesty in the Church's tongue dedicated in our Saviour's Cross, and giveth more force and value to them said in the Church's obedience, than to others. The children cried Hosanna to our Saviour, and were allowed, though they knew not what they said. It is well near a thousand years that our people which could nothing else but barbarum frendere , did sing Alleluia , and not, Praise ye the Lord ; and longer ago since the poor husband-men sang the same at the plough in other Countries. Hiero. to. 1. ep. 58. And sursum corda , and Kyrie eleison , and the Psalms of David sung in Latin in the Service of the Primitive Church, have the ancient and flat testimonies of S. Cyprian, S. Augustine, S. Hierom and other Fathers. Grego. li. 7. ep. 63. Cypr. exp. orat. Do. nu. 13. August. c. 13. de dono persever. & de bono vid. c. 16. and ep. 178. Hiero. praefat. in Psal. ad Sophron. Aug. de Catechez. rud. c. 9. de Doct. Chr. li. 2. c. 13. See ep. 10. August. of S. Hierom's Latin translation read in the Churches of Africa. Prayers are not made to teach, make learned, or increase knowledge, though by occasion they sometimes instruct us: but their special use is, to offer our hearts, desires, and wants to God, and to shew that we hang of him in all things: and this every Catholic doth for his condition, whether he understand the words of his prayer or not. The simple sort cannot understand all Psalms, nor scarce the learned, no though they be translated or read in known tongues: men must not cease to use them for all that, when they are known to contain God's holy praises. The simple people when they desire anything specially at God's hand, are not bound to know, neither can they tell, to what petition or part of the pater noster their demand pertaineth, though it be in English never so much. They cannot tell no more what is, Thy kingdom come , than Adveniat regnum tuum , nor whether their petition for their sick children or any other necessity, pertain to this part, or to Fiat voluntas tua , or Ne nos inducas , or to what other part else. It is enough that they can tell, this holy Oration to be appointed to us, to call upon God in all our desires, more than this, is not necessary. And the translation of such holy things often breedeth manifold danger and irreverence in the vulgar (as to think God is author of sin, when they read, Lead us not into tentation ) and seldom any edification at all. For, though when the prayers be turned and read in English, the people knoweth the words, yet they are not edified to the instruction of their mind and understanding, except they knew the sense of the words also and meaning of the Holy Ghost. For if any man think that S. Paul speaking of edification of man's mind or understanding, meaneth the understanding of the words only, he is foully deceived. For, what is a child of five or six years old edified or increased in knowledge by his Pater noster in English? It is the sense therefore, which every man cannot have, neither in English nor Latin, the knowledge whereof properly and rightly edifieth to instruction. And the knowledge of the words only, often edifieth never a whit, and sometimes buildeth to error and destruction: as it is plain in all Heretics and many curious persons besides. Finally both the one and the other without charity and humility maketh the Heretics and Schismatics with all their English and what other tongues and intelligence so ever, to be as sonans & cymbalum tinniens , sounding brass and a tinkling cymbal.\n\nTo conclude, for praying either publicly or privately in Latin which is the common sacred tongue of the greatest part of the Christian world, this is thought by the wisest & godliest to be most expedient, and is certainly seen to be nothing repugnant to S. Paul. If any yet will be contentious in the matter, we must answer them with this same Apostle, The Church of God hath no such custom. and with this notable saying of S. Augustine , ep. 118. c. 5. Any thing that the whole Church doth practise and observe throughout the world, to dispute thereof as though it were not to be done, is most insolent madness.",
+          "notes": [
+            {
+              "marker": 1,
+              "text": "That S. Paul's place maketh nothing against the service in the Latin tongue."
+            },
+            {
+              "marker": 2,
+              "text": "By strange tongues the Apostle meaneth not the Latin, Greek, or Hebrew."
+            },
+            {
+              "marker": 3,
+              "text": "S. Augustine our Apostle brought in the Service in the Latin tongue."
+            },
+            {
+              "marker": 4,
+              "text": "The Latin service one and the same in all countries and strange to none."
+            },
+            {
+              "marker": 5,
+              "text": "The service in vulgar tongue strange and barbarous to every stranger."
+            },
+            {
+              "marker": 6,
+              "text": "Whether the service in vulgar tongues do more edify."
+            },
+            {
+              "marker": 7,
+              "text": "See Annot. 1. Cor. 10, 15."
+            },
+            {
+              "marker": 8,
+              "text": "The virtue of the Sacraments and Service consisteth not in the people's understanding."
+            },
+            {
+              "marker": 9,
+              "text": "The people is to be taught the meaning of Sacraments & ceremonies, and are taught in all Catholic countries."
+            },
+            {
+              "marker": 10,
+              "text": "Catholic people in every country understandeth every ceremony, and can behave themselves accordingly."
+            },
+            {
+              "marker": 11,
+              "text": "Aug. doct. Chr. li. 2. c. 13."
+            },
+            {
+              "marker": 12,
+              "text": "That he speaketh not of the Church's service, is proved by invincible arguments."
+            },
+            {
+              "marker": 13,
+              "text": "The Apostle speaketh not of the people's private prayers in Latin, as upon primers, beads, or otherwise."
+            },
+            {
+              "marker": 14,
+              "text": "Latin prayers translated, or the people taught the contents thereof."
+            },
+            {
+              "marker": 15,
+              "text": "The people's devotion nothing the less, for praying in Latin."
+            },
+            {
+              "marker": 16,
+              "text": "The service always in Latin throughout the west Church."
+            },
+            {
+              "marker": 17,
+              "text": "Mat. 24."
+            },
+            {
+              "marker": 18,
+              "text": "* Greg. li. 27. Moral. c. 6."
+            },
+            {
+              "marker": 19,
+              "text": "It is not necessary to understand our prayers."
+            },
+            {
+              "marker": 20,
+              "text": "How far is sufficient for the people to understand."
+            },
+            {
+              "marker": 21,
+              "text": "How the mind or understanding is edified."
+            },
+            {
+              "marker": 22,
+              "text": "1. Cor. 13."
+            },
+            {
+              "marker": 23,
+              "text": "A notable rule of S. Augustine."
+            },
+            {
+              "marker": 24,
+              "text": "1. Cor. 11, 16."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "AND I do you to vnderſtand, brethren, the Goſpel vvhich I preached to you, vvhich alſo you receiued, in the vvhich alſo you ſtand,",
+          "notes": [
+            {
+              "label": "1",
+              "text": "The Epiſtle vpon the 11 Sunday after Pentecoſt.",
+              "kind": "lectionary"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "by the vvhich alſo you are ſaued, after vvhat maner I preached vnto you if you keepe it, vnleſſe you haue beleeued in vaine."
+        },
+        {
+          "verse": 3,
+          "text": "For I deliuered vnto you firſt of al vvhich I alſo receiued: that Chriſt died for our ſinnes according to the Scriptures:",
+          "cross_refs": [
+            {
+              "text": "Eſa. 53, 8. Dan. 9, 26."
+            }
+          ],
+          "notes": [
+            {
+              "label": "3",
+              "text": "This deliuerie in the latin & greeke importeth tradition. ſo by Tradition did the Apoſtles plant the Church in al truth, before they vvrote any thing.",
+              "kind": "gloss"
+            },
+            {
+              "label": "2",
+              "text": "c tradidi παρέδωκα",
+              "kind": "gloss"
+            }
+          ],
+          "xrefs": [
+            "Es. 53, 8. Dan. 9, 26. Ps. 15, 10 Ion. 2, 2. Lu. 24."
+          ]
+        },
+        {
+          "verse": 4,
+          "text": "and that he vvas buried, and that he roſe againe the third day, according to the ſcriptures:",
+          "cross_refs": [
+            {
+              "text": "Ps. 15, 10. Ion. 2, 2."
+            }
+          ]
+        },
+        {
+          "verse": 5,
+          "text": "and that he vvas ſeen of Cephas: and after that of the eleuen.",
+          "cross_refs": [
+            {
+              "text": "Lu. 24."
+            }
+          ]
+        },
+        {
+          "verse": 6,
+          "text": "Then vvas he ſeen of moe then fiue hundred brethren together: of vvhich many remaine vntil this preſent, & ſome are a ſleepe."
+        },
+        {
+          "verse": 7,
+          "text": "Moreouer he vvas ſeen of Iames, then of al the Apoſtles."
+        },
+        {
+          "verse": 8,
+          "text": "And laſt of al, as it vvere of an abortiue he vvas ſeen alſo of me.",
+          "cross_refs": [
+            {
+              "text": "Act. 9, 3."
+            }
+          ],
+          "notes": [
+            {
+              "label": "2",
+              "text": "c one born out of time",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "text": "For I am the leaſt of the Apoſtles, vvho am not worthy to be called an Apoſtle, becauſe I perſecuted the Church of God."
+        },
+        {
+          "verse": 10,
+          "text": "But by the grace of God I am that vvhich I am: & his grace in me hath not been void, ⊢ but I haue laboured more aboundantly then al they: yet not I, but the grace of God vvith me.",
+          "has_annotation": true,
+          "notes": [
+            {
+              "label": "1",
+              "text": "In him Gods grace is not void, that vvorketh by his free vvil according to the motion and direction of the ſame grace.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 11,
+          "text": "For vvhether I, or they, ſo vve preach, and ſo you haue beleeued."
+        },
+        {
+          "verse": 12,
+          "text": "But if Chriſt be preached that he is riſen againe from the dead: hovv doe certaine among you ſay, that there is no reſurrection of the dead?"
+        },
+        {
+          "verse": 13,
+          "text": "And if there be no reſurrection of the dead, neither is Chriſt riſen againe."
+        },
+        {
+          "verse": 14,
+          "text": "And if Chriſt be not riſen againe, then vaine is our preaching, vaine alſo is your faith."
+        },
+        {
+          "verse": 15,
+          "text": "and vve are found alſo falſe vvitneſſes of God: becauſe vve haue giuen teſtimonie againſt God, that he hath raiſed vp Chriſt, vvhom he hath not raiſed vp, if the dead riſe not againe.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "So may vve ſay, If the Cath. faith in al pointes be not true, then our firſt Apoſtles vvere falſe vvitneſſes then hath our Countrie beleeued in vaine al this vvhile, then are al our forefathers dead in their ſinnes and periſhed. vvhich (preſuppoſing Chriſt to be God) vvere the greateſt abſurditie in the vvorld.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 16,
+          "text": "For if the dead riſe not againe, neither is Chriſt riſen againe."
+        },
+        {
+          "verse": 17,
+          "text": "And if Chriſt be not riſen againe, vaine is your faith, for yet you are in your ſinnes."
+        },
+        {
+          "verse": 18,
+          "text": "Then they alſo that are a ſleepe in Chriſt, are periſhed."
+        },
+        {
+          "verse": 19,
+          "text": "If in this life onely vve be hoping in Chriſt, vve are more miſerable then al men."
+        },
+        {
+          "verse": 20,
+          "text": "But novv Chriſt is riſen againe from the dead, the firſt fruites of them that ſleepe:",
+          "cross_refs": [
+            {
+              "text": "Col. 1, 18. Ap. 1, 5."
+            }
+          ],
+          "xrefs": [
+            "Col. 1, 18 · Ap. 1, 5."
+          ]
+        },
+        {
+          "verse": 21,
+          "text": "for by a man death: and by a man the reſurrection of the dead.",
+          "cross_refs": [
+            {
+              "text": "Ro. 5, 12."
+            }
+          ]
+        },
+        {
+          "verse": 22,
+          "text": "And as in Adam al die, ſo alſo in Chriſt al ſhal be made aliue."
+        },
+        {
+          "verse": 23,
+          "text": "But euery one in his ovvne order: the firſt fruites Chriſt, then they that are of Chriſt, that beleeued in his comming.",
+          "cross_refs": [
+            {
+              "text": "1. Thes. 4, 15."
+            }
+          ]
+        },
+        {
+          "verse": 24,
+          "text": "Then the ende, vvhen he ſhal haue deliuered the kingdom to God and the Father, vvhen he ſhal haue aboliſhed al principalitie and authoritie and povver."
+        },
+        {
+          "verse": 25,
+          "text": "And he muſt reigne, vntil he put al his enemies vnder his feete.",
+          "cross_refs": [
+            {
+              "text": "Ps. 109, 1."
+            }
+          ]
+        },
+        {
+          "verse": 26,
+          "text": "And the enemie death ſhal be deſtroied laſt. For he hath ſubdued al things vnder his feete. And vvhereas he ſaith,",
+          "cross_refs": [
+            {
+              "text": "Ps. 8, 8."
+            }
+          ]
+        },
+        {
+          "verse": 27,
+          "text": "Al things are ſubdued to him: Vndoubtedly, except him that ſubdued al things vnto him."
+        },
+        {
+          "verse": 28,
+          "text": "And vvhen al things ſhal be ſubdued to him: then the Sonne alſo him ſelf ſhal be ſubiect to him that ſubdued al things vnto him, that God may be al in al."
+        },
+        {
+          "verse": 29,
+          "text": "Otherwiſe what ſhal they do that are baptized for the dead, if the dead riſe not againe at al?"
+        },
+        {
+          "verse": 30,
+          "text": "vvhy alſo are they baptized for them? vvhy alſo are vve in danger euery houre?"
+        },
+        {
+          "verse": 31,
+          "text": "I die daily by your glorie brethren, vvhich I haue in Chriſt IESVS our Lord."
+        },
+        {
+          "verse": 32,
+          "text": "If (according to man) I fought vvith beaſtes at Epheſus, vvhat doth it profit me, if the dead riſe not againe? Let vs eate and drinke, for to morovv vve ſhal die.",
+          "has_annotation": true,
+          "cross_refs": [
+            {
+              "text": "Eſa. 22, 13."
+            }
+          ]
+        },
+        {
+          "verse": 33,
+          "text": "Be not ſeduced, Euil communications corrupt good maners.",
+          "cross_refs": [
+            {
+              "text": "Eſa. 22, 13. Menander.",
+              "source": "sancta"
+            }
+          ],
+          "notes": [
+            {
+              "label": "1",
+              "text": "Menander",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 34,
+          "text": "Avvake ye iuſt, and ſinne not. for ſome haue not the knovvledge of God, I ſpeake to your ſhame."
+        },
+        {
+          "verse": 35,
+          "text": "But ſome man ſaith, Hovv doe the dead riſe againe? and vvith vvhat maner of body ſhal they come?"
+        },
+        {
+          "verse": 36,
+          "text": "Foole, that vvhich thou ſovveſt is not quickened, vnleſſe it die firſt."
+        },
+        {
+          "verse": 37,
+          "text": "And that vvhich thou ſovveſt, not the body that ſhal be, doeſt thou ſovv: but bare graine, to vvit, of vvheate, or of ſome of the reſt."
+        },
+        {
+          "verse": 38,
+          "text": "And God giueth it a body as he vvil: and to euery ſeede his proper body."
+        },
+        {
+          "verse": 39,
+          "text": "Not al fleſh, is the ſame fleſh: but one of men, an other of beaſtes, an other of birdes, an other of fiſhes."
+        },
+        {
+          "verse": 40,
+          "text": "And bodies celeſtial, and bodies terreſtrial: but one glorie of the celeſtial, and an other of the terreſtrial."
+        },
+        {
+          "verse": 41,
+          "text": "One glorie of the ſunne, an other glorie of the moone, and an other glorie of the ſtarres. For ſtarre differeth from ſtarre in glorie:",
+          "notes": [
+            {
+              "label": "1",
+              "text": "The glorie of the bodies of Saincts ſhal not be al alike, but different in heauen according to mens merits.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 42,
+          "text": "ſo alſo the reſurrection of the dead. It is ſovven in corruption, it ſhal riſe in incorruption."
+        },
+        {
+          "verse": 43,
+          "text": "It is ſovven in diſhonour, it ſhal riſe in glorie. It is ſovven in infirmitie, it ſhal riſe in povver."
+        },
+        {
+          "verse": 44,
+          "text": "It is ſovven a natural body: it ſhal riſe a ſpiritual body. If there be a natural body, there is alſo a ſpiritual,",
+          "notes": [
+            {
+              "label": "1",
+              "text": "As to become ſpiritual doth not take away the ſubſtance of the body glorified: no more vvhen Chriſtes body is ſaid to be in ſpiritual ſort in the Sacrament, doth it import the abſence of his true body and ſubſtance.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 45,
+          "text": "as it is vvritten, The firſt man Adam vvas made into a liuing ſoul: the laſt Adam into a quickening ſpirit.",
+          "cross_refs": [
+            {
+              "text": "Gen. 2, 7."
+            }
+          ]
+        },
+        {
+          "verse": 46,
+          "text": "Yet that is not firſt vvhich is ſpiritual, but that vvhich is natural: aftervvard that vvhich is ſpiritual."
+        },
+        {
+          "verse": 47,
+          "text": "The firſt man of earth, earthly: the ſecond man from heauen, heauenly."
+        },
+        {
+          "verse": 48,
+          "text": "Such as is the earthly, ſuch alſo are the earthly. and ſuch as the heauenly, ſuch alſo are the heauenly."
+        },
+        {
+          "verse": 49,
+          "text": "Therfore as vve haue borne the image of the earthly, let vs beare alſo the image of the heauenly."
+        },
+        {
+          "verse": 50,
+          "text": "This I ſay brethren, that fleſh and bloud can not poſſeſſe the kingdom of God: neither ſhal corruption poſſeſſe incorruption.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "Fleſh and bloud ſignifie not here the ſubſtance of thoſe things, but the corrupt qualitie incident to them in this life by the fall of Adam.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 51,
+          "text": "Behold I tel you a myſterie. Vve ſhal al in deede riſe againe: but vve ſhal not al be changed.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "b The Epiſtle vpon Al-ſoules day.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 52,
+          "text": "In a moment, in the tvvinkling of an eie, at the laſt trompet (for the trompet ſhal ſound) and the dead ſhal riſe againe incorruptible: and vve ſhal be changed.",
+          "cross_refs": [
+            {
+              "text": "Ap. 8, 2."
+            },
+            {
+              "text": "11, 15."
+            },
+            {
+              "text": "Apoc. 8:2. 11:15",
+              "source": "sancta"
+            }
+          ],
+          "xrefs": [
+            "Ap. 8, 2. 11, 15."
+          ]
+        },
+        {
+          "verse": 53,
+          "text": "For this corruptible muſt doe on incorruption: & this mortal doe on immortalitie."
+        },
+        {
+          "verse": 54,
+          "text": "And vvhen this mortal hath done on immortalitie, then ſhal come to paſſe the ſaying that is vvritten, Death is ſvvallovved vp in victorie.",
+          "cross_refs": [
+            {
+              "text": "Oſ. 13, 14."
+            }
+          ]
+        },
+        {
+          "verse": 55,
+          "text": "Death vvhere is thy victorie? Death vvhere is thy ſting?",
+          "xrefs": [
+            "Os. 13, 14."
+          ]
+        },
+        {
+          "verse": 56,
+          "text": "And the ſting of death, is ſinne: and the povver of ſinne is the Lavv."
+        },
+        {
+          "verse": 57,
+          "text": "But thankes be to God that hath giuen vs the victorie by our Lord IESVS Chriſt. ⊢"
+        },
+        {
+          "verse": 58,
+          "text": "Therfore my beloued brethren, be ſtable & vnmoueable: abounding in the worke of our Lord alvvaies, knovving that your labour is not vaine in our Lord."
+        }
+      ],
+      "summary": "He proueth the Reſurrection of the dead by the Reſurrection of Chriſt, and vvith many other arguments: and 31 anſvvereth alſo obiections made againſt it. 49 And then exhorteth in reſpect of it, vnto good life.",
+      "summary_notes": [
+        {
+          "marker": 1,
+          "text": "The 7. part. Of the reſurrection of the dead."
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "AND concerning the collections that are made for the ſaincts, as I haue ordeined to the Churches of Galatia, ſo doe ye alſo."
+        },
+        {
+          "verse": 2,
+          "text": "In the firſt of the Sabboth let euery one of you put a part vvith him ſelf, laying vp vvhat ſhal vvel like him: that not vvhen I come, then collections be made.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "That is Sunday. Hiero. q. 4. Hedibiæ. So quickly did the Chriſtians keepe Sunday, holiday, and aſſembled to Diuine Seruice on the ſame.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 3,
+          "text": "And vvhen I ſhal be preſent: vvhom you ſhal approue by letters, them vvil I ſend to carie your grace into Hieruſalem."
+        },
+        {
+          "verse": 4,
+          "text": "And if it be vvorthie that I alſo goe, they ſhal goe vvith me."
+        },
+        {
+          "verse": 5,
+          "text": "And I vvil come to you, vvhen I ſhal haue paſſed through Macedonia. for I vvil paſſe through Macedonia."
+        },
+        {
+          "verse": 6,
+          "text": "And vvith you perhaps I vvil abide, or vvil vvinter alſo: that you may bring me on my vvay vvhitherſoeuer I goe."
+        },
+        {
+          "verse": 7,
+          "text": "For I vvil not novv ſee you by the vvay, for I hope that I ſhal abide vvith you ſome litle time, if our Lord wil permit."
+        },
+        {
+          "verse": 8,
+          "text": "But I vvil tarie at Epheſus vntil Pentecoſt.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "The Heretikes & other nevv fangled ſtriue among them ſelues, vvhether Pentecoſt ſignifie here the terme of fiftie daies, or els the Ievves holy day ſo called. But it cōmeth not to their mindes that it is moſt like to be the feaſt of vvhitſontide kept & inſtituted euē thē by the Apoſtles, as appeareth by the Fathers See S. Aug. ep. 119 c. 15 & 16. Ambr. in c. 17. Luca.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "text": "For a great doore and euident is opened vnto me: and many aduerſaries."
+        },
+        {
+          "verse": 10,
+          "text": "And if Timothee come, ſee that he be vvithout feare vvith you, for he vvorketh the vvorke of our Lord, as alſo I."
+        },
+        {
+          "verse": 11,
+          "text": "Let no man therfore deſpiſe him, but conduct ye him in peace: that he may come to me. for I expect him vvith the brethren."
+        },
+        {
+          "verse": 12,
+          "text": "And of brother Apollo I doe you to vnderſtand, that I much intreated him, to come vnto you vvith the brethren: & at all it vvas not his minde to come novv. but he vvil come vvhen he ſhal haue leiſure.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "c πάντως",
+              "kind": "word"
+            }
+          ]
+        },
+        {
+          "verse": 13,
+          "text": "VVatch ye, ſtand in the faith, doe manfully, & be ſtrengthened."
+        },
+        {
+          "verse": 14,
+          "text": "Let al your things be done in charitie."
+        },
+        {
+          "verse": 15,
+          "text": "And I beſeeche you brethren, you knovv the houſe of Stéphanas, and of Fortunátus, that they are the firſt fruites of Achaia, & haue ordeined them ſelues to the miniſterie of the ſaincts:"
+        },
+        {
+          "verse": 16,
+          "text": "that you alſo be ſubiect to ſuch, and to euery one that helpeth and laboureth with vs."
+        },
+        {
+          "verse": 17,
+          "text": "And I reioyce in the preſence of Stephanas and Fortunatus and Achaicus, becauſe that vvhich you vvanted, they haue ſupplied.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "c τὸ ὑμῶν ὑςέρημα.",
+              "kind": "word"
+            }
+          ]
+        },
+        {
+          "verse": 18,
+          "text": "For they haue refreſhed both my ſpirit and yours. Knovv them therfore that are ſuch."
+        },
+        {
+          "verse": 19,
+          "text": "The churches of Aſia ſalute you. Aquila and Priſcilla vvith their domeſtical church ſalute you much in our Lord."
+        },
+        {
+          "verse": 20,
+          "text": "Al the brethren ſalute you. Salute one an other in a holy kiſſe.",
+          "cross_refs": [
+            {
+              "text": "c See Ro. 16, 16."
+            }
+          ]
+        },
+        {
+          "verse": 21,
+          "text": "The ſalutation vvith mine ovvne hand Paules."
+        },
+        {
+          "verse": 22,
+          "text": "If any man loue not our Lord IESVS Chriſt, be he anáthema. Maran atha.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "That is, our Lord is come. Hiero. ep. 173. · Therfore anathema to al that loue him not, or beleue not. Theophyla. vpon this place. · מרן אתה",
+              "kind": "gloss"
+            },
+            {
+              "label": "2",
+              "text": "c אתא מרן",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 23,
+          "text": "The grace of our Lord IESVS Chriſt be vvith you."
+        },
+        {
+          "verse": 24,
+          "text": "My charitie be vvith you al in Chriſt IESVS. Amen."
+        }
+      ],
+      "summary": "He preſcribeth an order for their contributing to the Chriſtians at Hieruſalem, 3 promiſing to come vnto them. 10 Of Timothee, and of Apollos comming thither. 13 and ſo vvith exhortation, and diuers commendations, he endeth.",
+      "summary_notes": [
+        {
+          "marker": 1,
+          "text": "The 8. part. Of the contributions."
+        }
+      ]
+    }
+  ],
+  "spelling": "original"
+}

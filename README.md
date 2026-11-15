@@ -7,6 +7,14 @@ annotations, and reference documents.
 This is the unmodified historic translation, which predates the 18th-century
 Challoner revision, rendered faithfully from the original printed volumes.
 
+It comes in two spellings of the same text:
+
+- **Modern spelling** (top-level folders): the 1582/1609 wording with the
+  spelling modernised ("the Spirit of God moved over the waters").
+- **Original spelling** (`original-spelling/`): the spelling of the printed
+  volumes, with long s (ſ), u/v and i/j as printed, and vv where the print
+  has it ("the Spirite of God moued ouer the waters").
+
 **License:** [CC0 1.0 Universal](LICENSE). Public domain. Use freely, no
 attribution required.
 
@@ -21,12 +29,13 @@ attribution required.
 | `annotations/` | Chapter-level annotation sidecars (commentary, extended notes), 1,521 annotations |
 | `usfm/` | USFM 3 files, one per book, with footnotes and cross-references |
 | `usfm-study/` | The same, plus the annotations as `\ef` study notes |
-| *(release assets)* | Reading editions as EPUB, OSIS, DOCX and HTML, verse-only and study, in three layouts. See below |
-| *(release assets)* | Verse-only edition: scripture text alone, with no notes, markers, cross-references or summaries. JSON, USFM, Markdown, plain text, CSV and SQLite. See below |
+| *(release assets)* | Reading editions as EPUB, OSIS, DOCX and HTML, verse-only and study, in two layouts, in both spellings. See below |
+| *(release assets)* | Verse-only edition: scripture text alone, with no notes, markers, cross-references or summaries. JSON, USFM, Markdown, plain text, CSV and SQLite, in both spellings. See below |
 | `index/lemmas/` | Where each annotation's catchword sits in the verse it annotates |
 | `reference/ot/` | Old Testament front matter (preface, tables, glossary, etc.) |
 | `reference/nt/` | New Testament front matter (preface, tables, glossary, etc.) |
 | `manifest.json` | Schema version, source commit, and counts for every part of the bundle |
+| `original-spelling/` | The same `bible/`, `annotations/`, `usfm/`, `usfm-study/` and `index/` trees and `manifest.json` in the original spelling. See below |
 
 The JSON trees are canonical and lossless. The USFM trees are a projection into
 a format that cannot express the whole 1582/1610 apparatus; `SCHEMA.md` lists
@@ -162,13 +171,43 @@ and the reasoning.
 
 - [Original Douay-Rheims Bible](https://odr.app): web reader built on this data
 
+## Original spelling
+
+`original-spelling/` has the same layout and formats as the top level, with the
+text in the spelling of the 1582 New Testament and the 1609 Old Testament:
+
+- Long s (ſ) wherever the print has it: lowercase s that is not at the end of
+  a word. Final s is round.
+- u and v, and i and j, as printed ("vs", "ouer", "Iohn").
+- vv where the print has it, otherwise w. The two volumes do not follow one
+  rule for vv, so it is never applied by rule.
+
+The books, chapters, verse numbers, notes, cross-references and annotations
+are the same as in the modern spelling, so a reference such as `john 1:1` or a
+note label points at the same place in both. Each original-spelling book file
+has a top-level `"spelling": "original"` field.
+
+Two differences to know about:
+
+- The reference documents (prefaces, tables, glossary) exist only in modern
+  spelling, so they are not repeated under `original-spelling/`. The study
+  editions in original spelling use the modern-spelling reference documents
+  as their front and back matter.
+- Where a chapter summary runs past its chapter heading, the modern text keeps
+  the overflow as a verse 0 entry more often than the original-spelling text
+  does. This only affects verse 0, so the verse counts in the two
+  `manifest.json` files differ slightly. Numbered verses are identical.
+
+To search or compare across both spellings, NFKD normalisation folds ſ to s.
+
 ## Verse-only edition
 
 The scripture text with everything else removed: no footnotes, annotations,
 cross-references, marginal markers, chapter summaries, introductions or end
 matter. It is generated from the same data as the rest of the bundle and
 published as release assets rather than committed, so the repository stays
-small.
+small. Every asset below also comes in original spelling, with
+`original-douay-rheims-original-spelling-` in place of `original-douay-rheims-`.
 
 | Release asset | Contents |
 |---------------|----------|
@@ -176,29 +215,35 @@ small.
 | `original-douay-rheims-verse-only-usfm.zip` | USFM 3, one file per book, with `\c`, `\p`, `\v`. Italics (`\it`) and small caps (`\sc`) are kept |
 | `original-douay-rheims-verse-only-markdown.zip` | One `.md` per book, bold verse numbers, italics kept |
 | `original-douay-rheims-verse-only-text.zip` | One `.txt` per book, wrapped at 76 columns with hanging verse numbers |
-| `original-douay-rheims-verse-only.md` / `.txt` | The whole Bible in one file |
-| `original-douay-rheims-verse-only.csv` | `book,code,chapter,verse,part,text`, one row per verse |
-| `original-douay-rheims-verse-only.sqlite` | Tables `books` and `verses`, plus an FTS5 index `verses_fts` for full-text search |
+| `original-douay-rheims-verse-only.md.zip` / `.txt.zip` | The whole Bible in one file |
+| `original-douay-rheims-verse-only.csv.zip` | `book,code,chapter,verse,part,text`, one row per verse |
+| `original-douay-rheims-verse-only.sqlite.zip` | Tables `books` and `verses`, plus an FTS5 index `verses_fts` for full-text search |
+
+The whole-Bible files are zipped to keep the release small. Releases v3.1 to
+v3.6 left these assets out; v3.0 has the earlier, unzipped build.
 
 `part` is empty unless a chapter repeats a verse number, which the current text
 does not.
 
 ## Reading editions (EPUB, OSIS, DOCX, HTML)
 
-The text as e-books, Word documents, Bible-software files and web pages, published as release assets. Every file is a combination of three choices, and every combination is built:
+The text as e-books, Word documents, Bible-software files and web pages, published as release assets. Every file is a combination of four choices, and every combination is built:
 
 | Choice | Values |
 |--------|--------|
+| Spelling | modern, or original (`-original-spelling` in the file name) |
 | Edition | `verse-only` (scripture text alone) or `study` (with the printed apparatus) |
-| Layout | `verse` (one paragraph per verse), `paragraph` (the site's paragraphs) or `flowing` (one paragraph per chapter) |
+| Layout | `verse` (one paragraph per verse) or `paragraph` (the site's paragraphs) |
 | Format | `epub`, `osis`, `docx` or `html` |
 
 Each combination has two assets:
 
-- **Whole Bible**: one file, `original-douay-rheims-<edition>-<layout>.<ext>`, for example `original-douay-rheims-verse-only-verse.html`.
+- **Whole Bible**: one file, `original-douay-rheims-<edition>-<layout>.<ext>`, for example `original-douay-rheims-study-verse.epub`. The HTML and OSIS files are plain text, so they ship zipped, for example `original-douay-rheims-verse-only-verse.html.zip`.
 - **Book by book**: one zip of 76 files, one per book, `original-douay-rheims-<edition>-<layout>.<ext>.by-book.zip`, for example `original-douay-rheims-study-paragraph.epub.by-book.zip`. The zip holds only single-book files and does not repeat the whole Bible.
 
-That is 24 whole-Bible files and 24 book-by-book zips. Only EPUB files carry the 1582 Rheims title page as a cover image. DOCX, HTML and OSIS have no images.
+The original-spelling assets have the same names with `original-douay-rheims-original-spelling-` at the start, for example `original-douay-rheims-original-spelling-study-verse.epub`.
+
+That is 16 whole-Bible files and 16 book-by-book zips in each spelling. Only the whole-Bible EPUB files carry the 1582 Rheims title page as a cover image. The book-by-book EPUBs, DOCX, HTML and OSIS have no images.
 
 ### Editions
 
@@ -213,7 +258,9 @@ Twenty-three notes have no marker in the text. The USFM files leave them out; th
 
 ### Layouts
 
-`paragraph` uses the paragraph breaks from the reading site, which come from the CPDV edition's USFM and are applied to this text by verse number. They are not the breaks of the 1582 and 1609 printings. Psalms, the Canticle of Canticles, 3 Esdras, 4 Esdras and the Prayer of Manasses have no paragraph data, so in the `paragraph` layout each of their chapters is one paragraph. The `verse` layout covers those books verse by verse. In OSIS, `flowing` puts the verses directly in the chapter and the other two layouts wrap them in `<p>`.
+`paragraph` uses the paragraph breaks from the reading site, which come from the CPDV edition's USFM and are applied to this text by verse number. They are not the breaks of the 1582 and 1609 printings. Psalms, the Canticle of Canticles, 3 Esdras, 4 Esdras and the Prayer of Manasses have no paragraph data, so in the `paragraph` layout each of their chapters is one paragraph. The `verse` layout covers those books verse by verse. In OSIS, both layouts wrap the verses in `<p>`.
+
+Releases up to v3.6 also have a `flowing` layout, with one paragraph per chapter. It was dropped in v4.0 to keep the release small; it differs from `paragraph` only in where the paragraph breaks fall.
 
 ### Formats
 
@@ -224,4 +271,4 @@ Twenty-three notes have no marker in the text. The USFM files leave them out; th
 | `docx` | Word documents with heading styles for testament, book and chapter, Word footnotes in the study edition, and a contents page of links at the start: every book, with a link to each of its chapters. Each book also opens with a row of chapter links |
 | `html` | One self-contained page per file with no images, a collapsible contents sidebar, a row of chapter links under each book title, and light and dark themes. It works offline and without scripts, though the sidebar collapse needs them |
 
-Releases v3.1 to v3.4 hold earlier builds under their older names (`original-douay-rheims-verse-only-epub.zip` and so on), and v3.4 still has the cover image in its DOCX and HTML files. Those DOCX files have a Word table of contents field that stays empty until the reader updates it. The v3.4 DOCX files replace it with the contents page of links.
+Up to v3.6, every book-by-book EPUB carried the cover image, which made those zips about ten times larger, and the whole-Bible HTML and OSIS files were not zipped. Releases v3.1 to v3.4 hold earlier builds under their older names (`original-douay-rheims-verse-only-epub.zip` and so on), and v3.4 still has the cover image in its DOCX and HTML files. Those DOCX files have a Word table of contents field that stays empty until the reader updates it. The v3.4 DOCX files replace it with the contents page of links.

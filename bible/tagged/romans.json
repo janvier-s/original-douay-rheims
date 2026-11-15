@@ -2506,7 +2506,7 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Let <cr>[1]</cr> every soul be subject to higher powers, for there is no power but of God. And those that are, of God are ordained.",
+          "text": "<sc>Let</sc> <cr>[1]</cr> every soul be subject to higher powers, for there is no power but of God. And those that are, of God are ordained.",
           "has_annotation": true,
           "cross_refs": [
             {
@@ -3033,7 +3033,7 @@
         },
         {
           "verse": 7,
-          "text": "Salute Andronicus and <na>[1]</na> <alt>Iulia</alt> my cousins and fellow captives: who are noble among the Apostles, who also before me were in Christ.",
+          "text": "Salute Andronicus and <na>[1]</na> <alt>Julia</alt> my cousins and fellow captives: who are noble among the Apostles, who also before me were in Christ.",
           "notes": [
             {
               "label": "1",
@@ -3086,7 +3086,7 @@
         },
         {
           "verse": 15,
-          "text": "Salute Philologus and Iulia, Nereus, and his sister, and Olympias; and all the saints that are with them."
+          "text": "Salute Philologus and Julia, Nereus, and his sister, and Olympias; and all the saints that are with them."
         },
         {
           "verse": 16,

@@ -19,7 +19,13 @@ usfm-study/<NN-BBB>.usfm         derived: the same, plus annotations as \ef
 annotations/<book>/<NNN>.json    1,521 annotations in 397 files
 reference/{ot,nt}/*.json         34 documents of prefatory matter
 index/lemmas/<book>.json         derived: catchword spans into the tagged text
+original-spelling/               the same trees and manifest.json in the 1582/1609
+                                 spelling (no reference/: modern spelling only)
 ```
+
+Everything in this file applies to both spellings. The original-spelling book
+files add one top-level field, `"spelling": "original"`; their counts are in
+`original-spelling/manifest.json`.
 
 ## Counts
 
@@ -27,16 +33,17 @@ index/lemmas/<book>.json         derived: catchword spans into the tagged text
 |---|---|
 | Books | 76 |
 | Chapters | 1,361 |
-| Verses in the corpus | 37,201 |
-| Verse entries in the JSON trees | 37,152 |
-| `\v` lines emitted in USFM | 37,151 |
+| Verses in the corpus | 37,202 (original spelling: 37,180) |
+| Verse entries in the JSON trees | 37,154 |
+| `\v` lines emitted in USFM | 37,153 |
 | Annotations | 1,521 (in 397 files) |
 | Annotation sub-notes | 3,606 |
 | Reference documents | 34 |
 
-The three differ for two reasons. 49 fragments the corpus numbers as verse 0
-are not scripture and are folded into the summary they complete (see *Verse 0*),
-which accounts for the JSON trees holding 37,152 entries. The USFM drops one
+The three differ for two reasons. 48 fragments the corpus numbers as verse 0
+(26 in the original spelling) are not scripture and are folded into the summary
+they complete (see *Verse 0*), which accounts for the JSON trees holding 37,154
+entries in both spellings. The USFM drops one
 more because the Tobias heading the corpus files as chapter 0 is emitted as an
 introduction paragraph (`\ip`) rather than a `\v` line. `manifest.json` reports
 the corpus figure as `verses` and the USFM figure as `usfmVerses`.
@@ -50,7 +57,7 @@ intros[]      { title, text, notes[] }              notes[]: { marker, text }
 endMatters[]  { title, text, notes[] }              notes[]: { marker, text }
 chapters[]    { chapter, verses[], summary, summary_notes[], summary_continuation, articles[] }
   summary_notes[]        { marker, text }
-  summary_continuation   { text, notes[], cross_refs[] }   49 chapters, see Verse 0
+  summary_continuation   { text, notes[], cross_refs[] }   48 chapters, see Verse 0
   articles[]       { title, text, notes[] }         notes[]: { marker, text }
 verses[]      { verse, text, has_annotation, cross_refs[], notes[] }
   cross_refs[]  { text }
@@ -489,7 +496,8 @@ duplicate, so no verse number repeats and no segment letters are emitted.
 
 ### Verse 0
 
-49 chapters across 27 books hold a verse numbered 0. It is never scripture: it
+48 chapters across 26 books hold a verse numbered 0 (26 chapters across 19
+books in the original spelling). It is never scripture: it
 is the tail of a chapter summary that ran past its field, finishing the
 summary's sentence.
 
@@ -502,8 +510,7 @@ USFM verse numbers start at 1, so emitting these as `\v 0` would be invalid and
 would claim the editor's summary is text of the Bible. Each fragment is appended
 to the `\cd` it continues, and the chapter's verse loop skips it.
 
-12 of the 49 sit in a chapter with no `summary` at all, so the fragment becomes
-the whole `\cd`. 10 carry notes, and the Tobias preface carries five
+Every one of them follows a `summary`. 10 carry notes, and the Tobias preface carries five
 cross-references; those travel with the words in the trailing form `\cd` already
 gives summary notes.
 

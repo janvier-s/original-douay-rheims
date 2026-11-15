@@ -1,0 +1,429 @@
+{
+  "book": "habacuc",
+  "book_title": "The Prophecy of Habacuc.",
+  "short_title": "Habacuc",
+  "hebrew_title": null,
+  "intros": [
+    {
+      "title": "THE PROPHECIE OF HABACUC.",
+      "text": "HABACVC borne in Bezochar prophecied the ſame time with Nahum, foreshewing the victories of the Chaldees ſubdewing manie nations, namely the Kingdom of Iuda, deſtroying Ieruſalem & the temple, & carying the people captiue into Babylon, and afterwards the ruine of the ſame Chaldees, and relaxation of the Jews: at laſt the coming of Chriſt, with diuers particular Myſteries deſcribed in a Canticle from his incarnation to the general Iudgement, and eternitie of the next world.\n\nobſcure.",
+      "default": true,
+      "notes": [
+        {
+          "marker": "◦",
+          "text": "Habacuc prophecied of the tvvo tribes: of the Chaldees: and of Chriſt."
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "THE burden that Habacuc the prophete ſaw.",
+          "notes": [
+            {
+              "label": "a",
+              "text": "This prophet expreſſeth not againſt what kingdom citie or perſon this burden is: the reaſon wherof ſemeth to be, becauſe it is againſt very manie and diuers, yea againſt al perſecuters of Gods ſeruantes.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "How long ô Lord shal I crie, and thou wilt not heare? shal I crie out to thee ſuffering violence, and thou wilt not ſaue?"
+        },
+        {
+          "verse": 3,
+          "text": "Why haſt thou shewed me iniquitie and labour, to ſee praye and iniuſtice againſt me? and iudgement is made, & contradiction more mightie."
+        },
+        {
+          "verse": 4,
+          "text": "For this cauſe is the law torne, & iudgement came not to the end: becauſe the impious preuaileth agaynſt the iuſt, therfore doth there come forth peruerte iudgement."
+        },
+        {
+          "verse": 5,
+          "text": "Behold ye in the nations, and ſee: meruel, and be aſtonied: becauſe a worke is done in your dayes, which no man wil beleue when it shal be told.",
+          "cross_refs": [
+            {
+              "text": "Act. 13. v. 41."
+            }
+          ],
+          "notes": [
+            {
+              "label": "b",
+              "text": "S. Paul alleageth this place in the myſtical ſenſe Act 13. in the literal the coherence is very obſcure.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 6,
+          "text": "Becauſe loe I wil rayſe vp the Chaldees, a bitter & ſwift nation, walking vpon the latitude of the earth, to poſſeſſe tabernacles not their owne.",
+          "notes": [
+            {
+              "label": "c",
+              "text": "The Chaldees were not yet comen to their greatnes, and therfore this could not be the ſame Habacuc mentioned. Daniel 14. v. 32.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 7,
+          "text": "It is horrible, and terrible: out of it ſelf shal the iudgement, and the burden therof procede."
+        },
+        {
+          "verse": 8,
+          "text": "His horſes lighter then leopards, and ſwifter then euening wolues; and his horſemen shal be ſpred abrode, for his horſemen shal come from a far, they shal flie as an eagle haſtening to eate."
+        },
+        {
+          "verse": 9,
+          "text": "Al shal come to the praye, their faces a burning winde: & he shal gather together as the ſand, captiuitie."
+        },
+        {
+          "verse": 10,
+          "text": "And he shal triumph ouer kinges, & tyrants shal be his laughing flocke, and he shal laugh vpon euerie munition, and shal caſt vp a mount, and shal take it."
+        },
+        {
+          "verse": 11,
+          "text": "Then shal the ſpirit be changed, and he shal paſſe, & fal: this is his ſtrength of his God.",
+          "notes": [
+            {
+              "label": "d",
+              "text": "After that the Chaldees shal haue ſubdued the Aſſirians, they shal alſo be ouerthrowne by others, to witte, by the Medes and Perſians.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 12,
+          "text": "Why waſt thou not from the beginning ô Lord my God, my holie one, & we shal not dye? Lord thou haſt appoynted him for iudgement: and ſtrong to chaſtiſe, thou haſt founded him."
+        },
+        {
+          "verse": 13,
+          "text": "Thine eyes are cleane, from ſeing euil, & thou canſt not looke toward iniquitie. Why lookeſt thou not vpon them that doe vniuſt thinges, & holdeſt thy peace when the impious deuoureth him that is more iuſt then him ſelf?"
+        },
+        {
+          "verse": 14,
+          "text": "And thou wilt make men as the fishes of the ſea, & as the creeping beaſt not hauing a prince."
+        },
+        {
+          "verse": 15,
+          "text": "He lifted vp al in the hooke, he drew it in his traine, and gathered it into his nette: vpon this he wil be glad and reioyce.",
+          "notes": [
+            {
+              "label": "e",
+              "text": "The Chaldees and other victorious nations conquering other countries attribute al to their owne induſtrie, & forces, honoring themſelues, and not God.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 16,
+          "text": "Therfore wil he immolate to his trayne, and he wil ſacrifice do his nette: becauſe by them his portion is fatte, and his meate choſen."
+        },
+        {
+          "verse": 17,
+          "text": "For this cauſe therfore ſpreddeth he his trayne, and alwayes tô kil the nations he wil not ſpare.",
+          "notes": [
+            {
+              "label": "f",
+              "text": "Men of al nations.",
+              "kind": "gloss"
+            }
+          ]
+        }
+      ],
+      "summary": "The prophet lamenteth the imminent ruine of the people, by the inſolent crueltie of the Chaldees: 12. eſpecially for that the holie citie shal be ranſacked by idolaters, and moſt wicked men."
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "I WIL ſtand vpon my watch, and fixe my ſteppe vpon the munition: and I wil behold, to ſee what may be ſayd to me, and what I may anſwer to him that rebuketh me.",
+          "notes": [
+            {
+              "label": "a",
+              "text": "The wordes of the prophet expecting what God wil further reuele vnto him.",
+              "kind": "gloss"
+            },
+            {
+              "label": "1",
+              "text": "Iſa. 21.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "And our Lord anſwered me, & ſayd: Write the viſion, & make it playne vpon tables: that he which runneth may read it ouer."
+        },
+        {
+          "verse": 3,
+          "text": "Becauſe as yet the viſion is far, and it shal appeare at the end, and shal not lye: if he shal make tariance, expect him: becauſe coming he wil come, & he wil not ſlacke.",
+          "notes": [
+            {
+              "label": "b",
+              "text": "He that cometh at the time appointed though it be long, is not ſlacke.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 4,
+          "text": "Behold he that is incredulous, his ſoule shal not be right in him ſelf: but the iuſt shal liue in his faith.",
+          "notes": [
+            {
+              "label": "c",
+              "text": "The principal comforte of the iuſt conſiſteth in their faith and confidence of the world to come. Wherby they liue with conſolation, wheras otherwiſe this miſerable life were rather a death. Heb. 10. v. 38. ſee alſo S. Aug. li. 3. c. 5. cont. duas epiſt. Pelag. li. 14. de Trinit. c. 12. & de ſpiritu & lit. c. 9. & 11. explicating with the Apoſtle that faith is the beginning of ſpiritual life by grace, to which workes of the law without faith in Chriſt ſufficed not. Rom. 1. Gal. 3.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 5,
+          "text": "And as wine deceiueth him that drinketh: ſo shal the prowd man be, and he shal not be beautified: who as it were hel, hath dilated his ſoule: and himſelf as death, and he is not filled: and he hath gathered together vnto him al nations, and hath heaped together vnto him al peoples.",
+          "cross_refs": [
+            {
+              "text": "Ioan. 3. Rom. 1. Gal. 3. Heb. 10."
+            }
+          ]
+        },
+        {
+          "verse": 6,
+          "text": "Why, shal not al theſe take vp a parable vpon him, and a ſpeach of obſcure ſayings of him: and it be ſayd: Wo to him, that multiplieth thinges not his owne? how long alſo doth he agrauat againſt himſelf thicke clay?"
+        },
+        {
+          "verse": 7,
+          "text": "Why, shal they not riſe ſodenly, that shal bite thee: and they that teare thee, be rayſed vp, and thou be for a ſpoile to them?"
+        },
+        {
+          "verse": 8,
+          "text": "Becauſe thou haſt ſpoiled manie nations, al that shal be left of the peoples shal ſpoile thee: for the bloud of man, and the iniquitie of the land, of the citie, and of al that dwel therein.",
+          "notes": [
+            {
+              "label": "d",
+              "text": "For much bloudshed by the Chaldees for auarice, iniuſtice & other wickednes they shal at laſt be ruined.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "text": "Wo to him that gathereth together naughtie auarice to his houſe, that his neſt may be on high, and thinketh he is deliuered out of the hand of euil."
+        },
+        {
+          "verse": 10,
+          "text": "Thou haſt thought confuſion to thy houſe, thou haſt cut in ſunder manie peoples, and thy ſoule hath ſinned.",
+          "notes": [
+            {
+              "label": "e",
+              "text": "Vvhiles thou thoughteſt by rapine & auarice to eternize thy familie & kingdom thou haſt merited the ruine therof.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 11,
+          "text": "Becauſe the ſtone out of the wal shal crie: and the timber, that is betwen the iunctures of the buildings, shal anſwer."
+        },
+        {
+          "verse": 12,
+          "text": "Wo to him that buildeth a citie in blouds, and prepareth a citie in iniquitie.",
+          "cross_refs": [
+            {
+              "text": "Ezec. 24. Nahu. 3."
+            }
+          ]
+        },
+        {
+          "verse": 13,
+          "text": "Why, are not theſe thinges from the Lord of hoſts? For the peoples shal labour in much fire: and the nations in vaine, and they shal faynt."
+        },
+        {
+          "verse": 14,
+          "text": "Becauſe the earth shal be replenished, that they may know the glorie of our Lord, as waters couering the ſea."
+        },
+        {
+          "verse": 15,
+          "text": "Wo to him that geueth drinke to his freind, putting in his gal, and making drunke, that he may behold his nakednes."
+        },
+        {
+          "verse": 16,
+          "text": "Thou art filled with ignominie for glorie, drinke thou alſo, and be faſt a ſleepe: the cuppe of the right hand of our Lord shal compaſſe thee, and the vomite of ignominie vpon thy glorie."
+        },
+        {
+          "verse": 17,
+          "text": "Becauſe the iniquitie of Libanus shal couer thee, and the waſting of the beaſts shal terrifie them for the blouds of men, and the iniquitie of the land, and of the citie, and of al that dwel therein."
+        },
+        {
+          "verse": 18,
+          "text": "What profiteth the thing engrauen, that the forger therof hath grauen it, a molten, and a falſe image? becauſe the forger therof hath hoped in his forgerie, to make dumme idols."
+        },
+        {
+          "verse": 19,
+          "text": "Wo vnto him that ſayth to wood: Awake: Ariſe, to the dumme ſtone. Why, can it teach? Behold, this ſame is couered with gold, and ſiluer: and there is no ſpirit in the bowels therof.",
+          "cross_refs": [
+            {
+              "text": "Pſal. 10."
+            }
+          ]
+        },
+        {
+          "verse": 20,
+          "text": "But our Lord is in his holie temple: let al the earth be ſilent at his preſence."
+        }
+      ],
+      "summary": "The captiuitie of the two tribes, their relaxation, Chriſt wil aſſuredly come though not quickly. 5. Their afflicters ( the Chaldees ) shal be deſtroyed; 18. and al other idolaters."
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "The prayer of Habacuc the prophet for ignorances.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "* All ſins in ſome ſort proceed of ignorance: for remiſſion whereof the Prophet prayeth in this Canticle, and that for the ſame Chriſt's coming may not be deferred: 2. So propheſieth his Incarnation, 3. Nativity, 4. Miracles and Doctrine, 5. Paſſion, Reſurrection, and converſion of Gentiles: 16. The general Judgement, Glory of the bleſſed, and Damnation of the reprobate.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "LORD I heard thy hearing, and was afrayd. Lord thy worke in the middes of yeares, quicken it: In the middes of yeares shalt thou make it knowen: when thou art angrie, thou wilt remember mercie.",
+          "notes": [
+            {
+              "label": "a",
+              "text": "For the great excellent, and admirable mercie of God I was aſtonished as one afrayde, ſeing God himſelf wil take mans nature, and therin pay ranſom & redeme mankind.",
+              "kind": "gloss"
+            },
+            {
+              "label": "b",
+              "text": "in the time deſigned for this purpoſe. The 70. Interpreters reade, betwen two liuing creatures thou shalt be found and ſo the Church hath in the office of Chriſts Natiuitie and Circumciſion betvven an oxe and an aſſe in the ſtall.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 3,
+          "text": "God wil come from the South, and the holie one from mount Pharan: His glorie shal couer the heauens, and the earth is ful of his prayſe.",
+          "notes": [
+            {
+              "label": "c",
+              "text": "From Bethlem which is ſouthward from Ieruſalé.",
+              "kind": "gloss"
+            },
+            {
+              "label": "1",
+              "text": "Sela. See Annot. Pſal. 9.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 4,
+          "text": "His brightnes shal be as the light, hornes in his handes: There is his ſtrength hid."
+        },
+        {
+          "verse": 5,
+          "text": "Before his face shal death goe. and the deuil shal goe forth before his feete."
+        },
+        {
+          "verse": 6,
+          "text": "He ſtood and meaſured the earth. he beheld, and diſſolued the Gentils: and the mountaines of the world were broken. The hilles of the world were bowed, by the wayes of his eternitie."
+        },
+        {
+          "verse": 7,
+          "text": "For iniquitie I ſaw the tents of Æthiopia, the skinnes of the land of Madian shal be trubled.",
+          "notes": [
+            {
+              "label": "d",
+              "text": "In Madian a part of Æthiopia the people liued moſt in tentes, not in houſes ſo here is ſignified that in the tumulte of warres vvil be much remouing of skinnes that is, of their tentes made of skinnes.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 8,
+          "text": "Why, waſt thou angrie with the riuers ô Lord? or was thy furie in the riuers? or thine indignation in the ſea? Who wilt mount vpon thy horſes, and thy chariots ſaluation."
+        },
+        {
+          "verse": 9,
+          "text": "Rayſing thou wilt rayſe vp thy bow: the othe to the tribes which thou haſt ſpoken. Thou wilt cutte the riuers of the earth.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "Sela.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "text": "The mountaines ſaw thee, and were ſorie, the gulfe of water paſſed. The depth gaue his voice: the height lifted vp his handes."
+        },
+        {
+          "verse": 11,
+          "text": "The ſunne, and the moone ſtood in their habitation, in the light of thine arrowes, they shal goe in the brightnes of thy glittering ſpeare."
+        },
+        {
+          "verse": 12,
+          "text": "In freating thou wilt treade downe the earth: in furie thou wilt aſtonish the Gentils."
+        },
+        {
+          "verse": 13,
+          "text": "Thou wentſt forth the ſaluation of thy people: ſaluation with thy Chriſt. Thou ſtrokeſt the head out of the houſe of the impious, thou haſt diſcouered the fundation euen to the neck.",
+          "notes": [
+            {
+              "label": "e",
+              "text": "Antichriſt the head of the malignant houſe, or conuenticle, shal be deſtroyed by Chriſt. Iſa. 11. v. 4. 2. Theſs. 2.",
+              "kind": "gloss"
+            },
+            {
+              "label": "1",
+              "text": "Sela.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 14,
+          "text": "Thou haſt curſed his ſcepters, the head of his warriers, them that come as a whirlewinde to diſperſe me. Their exultation, as his that deuoureth the poore in ſecrete."
+        },
+        {
+          "verse": 15,
+          "text": "Thou madeſt a way in the ſea for thy horſes, in the middes of manie waters."
+        },
+        {
+          "verse": 16,
+          "text": "I heard, and my bellie was trubled: at the voice my lippes trembled. let rottenes enter in my bones, & ſwarme vnder me. That I may reſt in the day of tribulation: that I may aſcend to our girded people.",
+          "notes": [
+            {
+              "label": "f",
+              "text": "Al afflictions are to be patiently ſuſtayned, that we may haue reſt in the day of iudgement,",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 17,
+          "text": "For the figtree shal not florish: and there shal be no ſpring in the vines. The worke of the oliuetree shal deceiue: and the fields shal not yeld meate: the cattel shal be cut of from the fold, and there shal be no heard in the ſtalles."
+        },
+        {
+          "verse": 18,
+          "text": "But I wil ioy in our Lord: and wil reioyce in God my IESVS."
+        },
+        {
+          "verse": 19,
+          "text": "God our Lord is my ſtrength: and he wil make my feete as of the harts. and vpon my high places he the conquerer wil lead me ſinging in pſalmes."
+        }
+      ]
+    }
+  ],
+  "spelling": "original"
+}

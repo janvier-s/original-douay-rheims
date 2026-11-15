@@ -1,0 +1,1363 @@
+{
+  "book": "ecclesiastes",
+  "book_title": "Ecclesiastes,\nin Hebrew called Coheleth. קהלת",
+  "short_title": "Ecclesiastes",
+  "hebrew_title": null,
+  "intros": [
+    {
+      "title": "THE ARGUMENT OF ECCLESIASTES.",
+      "text": "King <i>Salomon</i> a diuine <i>Preacher</i>, wherof this Booke is called <i>Eccleſiaſtes</i>, exhorteth al ſuch as <mn>[1]</mn> haue lerned the principles of good life, to contemne this world: becauſe al thinges therin are vaine, and inſufficient to give repoſe to mans ſoule: shewing that true <i>felicitie</i>, which al men deſire, <i>conſiſteth not</i> in natural knowlege, gotten by witte and induſtrie; nor in worldlie pleaſures, much leſſe in carnal; nor in riches; nor in auctoritie or dominion; nor <i>in anie</i> other <i>temporal thing</i>; as diuers diuerſly thinke: <i>but</i> only <i>in the true ſeruice of God</i>, by flying from ſinne, and doing good workes, as in the meritorious cauſe, <i>and</i> eſſentially <i>in the clere viſion of God</i>: the proper end, for which man was created. And ſo this Booke conteyneth three principal parts. Firſt this diuine preacher <mn>[2]</mn> confuteth al their opinions, that imagine a falſe felicitie in humane, worldlie, or temporal thinges: to the beginning of the 7. chapter. In the reſt of that chapter, and three folowing, he teacheth that true felicitie conſiſteth in the eternal fruition of God: and is procured by declining from vices, and embracing vertues. In the two laſt chapters, he exhorteth al to beginne Spedily to ſerue God, and to perſeuere therin to the end of this life.",
+      "default": true,
+      "notes": [
+        {
+          "marker": 1,
+          "text": "This booke called Eccleſiaſtes, teacheth to contemne this vvorld. Becauſe felicitie conſiſteth not in anie temporal thing: but in the eternal ſight of God."
+        },
+        {
+          "marker": 2,
+          "text": "Diuided into three parts."
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "THE wordes of Eccleſiaſtes, the ſonne of Dauid, king of Ieruſalem."
+        },
+        {
+          "verse": 2,
+          "text": "Vanitie of vanities, ſayd Eccleſiaſtes: vanitie of vanities, & al thinges vanitie."
+        },
+        {
+          "verse": 3,
+          "text": "What hath a man more of al his labour, wherby he laboreth vnder the ſunne?"
+        },
+        {
+          "verse": 4,
+          "text": "Generation paſſeth, and generation cometh: but <na>(a)</na> the earth ſtandeth for euer.",
+          "notes": [
+            {
+              "label": "a",
+              "text": "In the end of this world the earth shal be purified, & ſo remaine for euer.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 5,
+          "text": "The ſunne riſeth, and goeth downe, and returneth to his place: and there riſing againe,"
+        },
+        {
+          "verse": 6,
+          "text": "compaſſeth by the South, and bendeth to the North: compaſſing al thinges, goeth forward in circuite, & returneth vnto his circles."
+        },
+        {
+          "verse": 7,
+          "text": "Al riuers enter into the ſea, and the ſea ouerfloweth not: to the place, whence the riuers iſſueforth, they do returne, that they may flow againe."
+        },
+        {
+          "verse": 8,
+          "text": "Al thinges are hard: man can not explicate them in word. The eye is not filled with ſeing, neither is the eare filled with hearing."
+        },
+        {
+          "verse": 9,
+          "text": "What is that hath bene? the ſame thing that shal be. What is that hath bene done? the ſame that is to be done."
+        },
+        {
+          "verse": 10,
+          "text": "<na>(b)</na> Nothing vnder the ſunne is new, neither is anie man able to ſay: Behold this is new: for it hath already gone before in the ages, that were before vs.",
+          "notes": [
+            {
+              "label": "b",
+              "text": "Mens ſoules dayly created are of the ſame kind as Adams ſoule: other creatures either were in their kindes from the beginning of the vvorld, or are procreated of diuers kindes preexiſting. S. Tho. p. 1. q. 73. a. 1. ad. 3.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 11,
+          "text": "There is no memorie of former thinges: but neither of thoſe thinges verily, which hereafter are to come, shal there be remenbrance with them, that shal be in the later end."
+        },
+        {
+          "verse": 12,
+          "text": "I Eccleſiaſtes haue bene king of Iſrael in Ieruſalem,"
+        },
+        {
+          "verse": 13,
+          "text": "and haue propoſed in my mind, to ſeke and ſearch wiſely of al thinges, that are done vnder the ſunne. This very euil occupation hath God geuen to the children of men, that they might be occupied in it."
+        },
+        {
+          "verse": 14,
+          "text": "I haue ſene al thinges, that are done vnder the ſunne, and behold al <na>(c)</na> are vanitie, & affliction of ſpirit.",
+          "notes": [
+            {
+              "label": "c",
+              "text": "Al natural thinges are inſufficient meanes to attaine felicitie.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 15,
+          "text": "The peruerſe are hardly corrected, and the number of fooles is infinite."
+        },
+        {
+          "verse": 16,
+          "text": "I haue ſpoken in my hart, ſaying: Loe I haue bene made great, and haue gone beyond al in wiſdom, that were before me in Ieruſalem: and my minde hath contemplated manie thinges wiſely, and I haue lerned."
+        },
+        {
+          "verse": 17,
+          "text": "And I haue geuen my hart to know prudence, and doctrine, and errors and follie: and I haue perceiued that in theſe alſo there was labour, and affliction of ſpirite,"
+        },
+        {
+          "verse": 18,
+          "text": "for that in much <na>(d)</na> wiſdom there is much indignation: and he that addeth knowlege, addeth alſo labour.",
+          "has_annotation": true,
+          "notes": [
+            {
+              "label": "d",
+              "text": "VViſdom is the beſt thing in this vvorld, yet is not perfect felicitie, but the meanes to attaine it.",
+              "kind": "gloss"
+            }
+          ]
+        }
+      ],
+      "summary": "Al temporal thinges (in compariſon of true felicitie) are vaine, 4. becauſe they are mutable, 8. neither can anie man attaine perfect knowlege, to his ſatisfaction: 12. as appeareth by Salomons owne experience. <na>[1]</na>",
+      "summary_notes": [
+        {
+          "marker": 1,
+          "text": "The firſt part sheweth, that Felicity conſiſteth not in any temporal thing."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "I Sayde <na>(a)</na> therfore in my hart: I wil goe, & flow in delightes, and enioy good thinges. <na>(b)</na> And I ſaw that this alſo was vanitie.",
+          "notes": [
+            {
+              "label": "a",
+              "text": "A vvordlie man may obiect, that ſeing wiſdom bringeth not felicitie in this life, it ſemeth beſt to take his pleaſure & eaſe, & not to labour for it.",
+              "kind": "gloss"
+            },
+            {
+              "label": "b",
+              "text": "But the wiſe man cōfuteth this conceipt. Becauſe wordlie ioy is short & vncertaine, neither is anie ioy that men haue in this life true ioy of the bleſſed, but only a conſolation in miſeries.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "Laughter I haue reputed errour: and to ioy I haue ſaide: Why art thou deceiued in vaine?"
+        },
+        {
+          "verse": 3,
+          "text": "I haue thought in my hart, to withdraw my flesh from wine, that I might transferre my minde to wiſdom, and might auoid follie, til I might ſee what should be profitable for the children of men: what is nedeful to be done vnder the ſunne, in the number of the dayes of their life."
+        },
+        {
+          "verse": 4,
+          "text": "I haue magnified my workes, I haue built me houſes, & planted vineyards,"
+        },
+        {
+          "verse": 5,
+          "text": "I haue made gardens, and orchards, and ſet them with trees of al kindes,"
+        },
+        {
+          "verse": 6,
+          "text": "and I haue made me ponds of waters, to watter the wood of ſpringing trees,"
+        },
+        {
+          "verse": 7,
+          "text": "I haue poſſeſſed menſeruants and wemenſeruants, and haue had a great familie: heardes alſo, and great flockes of shepe, aboue al that were before me in Ieruſalem:"
+        },
+        {
+          "verse": 8,
+          "text": "I haue heaped together to myſelf ſiluer, and gold, and the ſubſtance of kinges, and prouinces: I made me ſingingmen, & ſingingwemen, and the delightes of the children of men: cuppes, and goblets to ſerue to powre out wines:"
+        },
+        {
+          "verse": 9,
+          "text": "and I ſurpaſſed in riches al, that were before me in Ieruſalem: wiſdom alſo hath perſeuered with me."
+        },
+        {
+          "verse": 10,
+          "text": "And al thinges, that myne eies deſired, I haue not denied to them: neither haue I ſtayed my hart, but that it enioyed al pleaſure, & delighted itſelf in theſe thinges, which I had prepared: and this I eſteemed my portion, if I did vſe my labour."
+        },
+        {
+          "verse": 11,
+          "text": "And when I had turned myſelf to al the workes, which my handes had done, & to the laboures, wherin I had ſwette in vaine, I ſaw in al thinges vanitie, and affliction of minde, & nothing to be permanent vnder the ſunne."
+        },
+        {
+          "verse": 12,
+          "text": "I paſſed further to contemplate wiſdom, and errors, and follie (what is man, quoth I, that he can folow the king his Maker?)"
+        },
+        {
+          "verse": 13,
+          "text": "and I ſaw that wiſdom ſo much excelled follie, as light differeth from darknes."
+        },
+        {
+          "verse": 14,
+          "text": "The <na>(c)</na> eyes of a wiſeman are in his head: the foole walketh in darknes: and I haue lerned that there was one death of both.",
+          "notes": [
+            {
+              "label": "c",
+              "text": "Conſideration iſ the directorie of al good workes.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 15,
+          "text": "And I ſayd in my hart: If the fal of the foole & myne shal be one, <na>(d)</na> what doth it profite me, that I haue beſtowed greater labour for wiſdom? And ſpeaking with my minde, I perceiued that this alſo was vanitie.",
+          "notes": [
+            {
+              "label": "d",
+              "text": "The conceit of worldlie men not conſidering the life to come.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 16,
+          "text": "For there shal be no memorie of the wiſe in like maner as of the foole for euer, and the times to come shal couer al thinges together with obliuion: the lerned dieth in like maner as the vnlerned."
+        },
+        {
+          "verse": 17,
+          "text": "And therfore I haue bene wearie of my life, ſeing al thinges vnder the ſunne to be euil, and al thinges vanitie and affliction of ſpirite."
+        },
+        {
+          "verse": 18,
+          "text": "Againe I deteſted al myne induſtrie, wherwith I haue laboured vnder the ſunne moſt ſtudiouſly, being like to haue an heyre after me:"
+        },
+        {
+          "verse": 19,
+          "text": "whom I know not, whether he wil be a wiſeman or a foole, and he shal rule in my labours, wherewith I haue ſwette and haue bene careful: and is there anie thing ſo vaine?"
+        },
+        {
+          "verse": 20,
+          "text": "Wherfore I ceaſed, and my hart hath renounced to labour anie more vnder the ſunne."
+        },
+        {
+          "verse": 21,
+          "text": "For whereas one laboreth in wiſdom, and doctrine, and carefulnes, he leaueth the thinges gotten to an idleman: and this therfore is vanitie, and great euil."
+        },
+        {
+          "verse": 22,
+          "text": "For what profite shal be to a man of al his labour, and affliction of ſpirite, wherwith he is vexed vnder the ſunne?"
+        },
+        {
+          "verse": 23,
+          "text": "Al his daies are ful of ſorowes and miſeries, neither by night doth he reſt in minde, and is not this vanitie?"
+        },
+        {
+          "verse": 24,
+          "text": "Is it not better to eate and drinke, and shew vnto his ſoule good thinges of his laboures? <na>(e)</na> & this is of the hand of God.",
+          "notes": [
+            {
+              "label": "e",
+              "text": "It is better to vſe that is honeſtly gotten for our neceſſitie, then to be ſtil ſolicitous to get more.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 25,
+          "text": "Who shal ſo deuour, and flow with delightes as I?"
+        },
+        {
+          "verse": 26,
+          "text": "To a man good in his ſight, God hath geuen wiſdom, and knowlege, and ioy: but to the ſinner he hath geuen affliction, and ſuperfluous care, to adde, and to gather together, and deliuer it to him that hath pleaſed God: but this alſo is vanitie, & vaine carefulnes of the minde."
+        }
+      ],
+      "summary": "Humane delightes are al vaine: 4. as gorgious buildinges, fruitful vinyards, plentie of fish, cattle, ſeruantes, ſiluer, gold, muſike: 11. not ſatisfying mans deſire. 18. Neither can anie man know, how his heyre wil behaue himſelf."
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "AL thinges haue a time, and in their ſpaces al thinges paſſe vnder <na>(a)</na> heauen.",
+          "notes": [
+            {
+              "label": "a",
+              "text": "Generation, Corruption, & Alteration perteine only to thinges of this world vnder heauen, often here deſcribed by the terme, Vnder the ſunne. For ſpiritual ſubſtances are not comprehended in time, nor place. <i>S. Ierom in hunc locum. 107</i>.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "A time to be borne, & a time to dye. A time to plant, & a time to pluck vp that which was planted."
+        },
+        {
+          "verse": 3,
+          "text": "A time to kil, and a time to heale. A time to deſtroy, and a time to builde."
+        },
+        {
+          "verse": 4,
+          "text": "A time to wepe, & a time to laugh. A time to mourne, and a time to dance."
+        },
+        {
+          "verse": 5,
+          "text": "A time to diſperſe ſtones, and a time to gather. A time to embrace, and a time to be farre from embracings."
+        },
+        {
+          "verse": 6,
+          "text": "A time to gette, and a time to loſe. A time to kepe, and a time to caſt away."
+        },
+        {
+          "verse": 7,
+          "text": "A time to rent, and a time to ſow together. A time to kepe ſilence, & a time to ſpeake."
+        },
+        {
+          "verse": 8,
+          "text": "A time of loue, and a time of hatred. A time of warre, and a time of peace."
+        },
+        {
+          "verse": 9,
+          "text": "<na>(b)</na> What hath man more of his labour?",
+          "notes": [
+            {
+              "label": "b",
+              "text": "Al this ſheweth that nothing of this world is perpetual, but to be vſed interchangeably, in due time, place, maner, and order. For diſorder maketh confuſion.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "text": "I haue ſene the affliction, which God hath geuen to the children of men, that they may be diſtracted in it."
+        },
+        {
+          "verse": 11,
+          "text": "He hath made al thinges good in their time, and hath deliuered the world to their diſputation, and that man can not finde the worke, which God hath wrought from the beginning vnto the end."
+        },
+        {
+          "verse": 12,
+          "text": "And I haue knowne that there was no better thing then to reioyce, and to do wel in his life."
+        },
+        {
+          "verse": 13,
+          "text": "For euerie man, that eateth and drinketh, and ſeeth good of his labour, this is the gift of God."
+        },
+        {
+          "verse": 14,
+          "text": "I haue lerned that al the workes, which God hath made, perſeuere for euer: we can not adde anie thing, nor take away from thoſe thinges, which God hath made that he may be feared."
+        },
+        {
+          "verse": 15,
+          "text": "That which hath bene made, the ſame is permanent: the thinges that shal be, haue already bene: and God reſtoreth that which is paſt."
+        },
+        {
+          "verse": 16,
+          "text": "I ſaw vnder the ſunne in the place of iudgement impietie, and in the place of iuſtice iniquitie."
+        },
+        {
+          "verse": 17,
+          "text": "And I ſayde in my hart: the iuſt and the impious God wil iudge, and then shal be the time of euerie thing."
+        },
+        {
+          "verse": 18,
+          "text": "I ſayd in my hart of the children of men, that God would proue them, and shew them to be like beaſtes."
+        },
+        {
+          "verse": 19,
+          "text": "Therfore there is one death of man, and beaſtes, and the condition of both equal: as man dieth, ſo they alſo dye: al thinges breath alike, and man hath nothing more then beaſt: al thinges are ſubiect to vanitie,"
+        },
+        {
+          "verse": 20,
+          "text": "and al thinges paſſe to one place: of earth they were made, and into earth they returne together."
+        },
+        {
+          "verse": 21,
+          "text": "Who knoweth if the ſpirit of the children of Adam aſcend vpward, and if the ſpirite of beaſtes deſcend downward?"
+        },
+        {
+          "verse": 22,
+          "text": "And I haue found that nothing is better then for a man to reioyce in his worke, and that this is his portion. For who shal bring him, to know the thinges that shal be after him?"
+        }
+      ],
+      "summary": "Contrarie thinges ſuccede in their ſeaſons, and paſſe away, 9. wherof man getteth no perfect knowlege, how long ſoeuer he liueth, and laboreth to know them: 16. neither wil there be equitie where it ought to be in this world: 21. but in the next, good and euil shal be ſeparated, and iudged according to their deſertes."
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "I Turned my ſelf to other thinges, and I ſaw the oppreſſions, that are done vnder the ſunne, and the <na>(a)</na> teares of the innocents, and no comforter: & that they can not reſiſt their violence, being deſtitute of al mens helpe.",
+          "notes": [
+            {
+              "label": "a",
+              "text": "God ſuffereth the innocent to be afflicted for a time, of his ſpecial prouidence: becauſe they therby merite a great reward Pſal 71.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "And I praiſed rather the dead, then the liuing:"
+        },
+        {
+          "verse": 3,
+          "text": "and happier then both haue I iudged him, that is not <na>(b)</na> yet borne, nor hath ſene the euils that are done vnder the ſunne.",
+          "notes": [
+            {
+              "label": "b",
+              "text": "It is in dede better not to be at al then to be in eternal miſerie, <i>(Mat. 26. v. 24</i>.) but temporal affliction which the iuſt ſuffer is not miſerie, as wordlie men eſteme it, but a ſpecial meane to attaine eternal felicitie.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 4,
+          "text": "Againe I haue contemplated al the labours of men, and their induſtries I haue perceiued to lie open to the enuie of their neighbour: and in this therfore there is vanitie, and ſuperfluous care."
+        },
+        {
+          "verse": 5,
+          "text": "A foole foldeth his handes together, and eateth his owne flesh, ſaying:"
+        },
+        {
+          "verse": 6,
+          "text": "Better is an handful with reſt, then both handes ful with labour, and affliction of mind."
+        },
+        {
+          "verse": 7,
+          "text": "Conſidering I found alſo an other vanitie vnder the ſunne:"
+        },
+        {
+          "verse": 8,
+          "text": "There is one, and he hath not a ſecond, not a ſonne, not a brother, and yet he ceaſeth not to labour, neither are his eyes ſatisfied with riches, neither doth he recount, ſaying: For whom do I labour, and defraud my ſoule of good thinges? in this alſo is vanitie, and very il affliction."
+        },
+        {
+          "verse": 9,
+          "text": "It is better therfore that two be together, then one: for they haue profite of their ſocietie:",
+          "has_annotation": true
+        },
+        {
+          "verse": 10,
+          "text": "if one fal, he shal be ſtayed vp of the other. Woe to him that is alone: becauſe when he falleth, he hath none to lift him vp."
+        },
+        {
+          "verse": 11,
+          "text": "And if two ſleepe together, they shal warme eche other: one how shal he be warmed?"
+        },
+        {
+          "verse": 12,
+          "text": "And if a man preuaile againſt one, two reſiſt him: a <na>(c)</na> triple coard is hardly broken.",
+          "notes": [
+            {
+              "label": "c",
+              "text": "True charitie not contaminate with enuie, by how much it is increaſed in number, ſo much it increaſeth in ſtreingth. S. Ierom.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 13,
+          "text": "Better is a child that is poore and wiſe, then a king old and foolish, that knoweth not to foreſee for hereafter"
+        },
+        {
+          "verse": 14,
+          "text": "Becauſe out of the priſon, and cheynes ſometime there cometh one forth to a kingdom: and an other borne in his kingdom, is conſumed with pouertie."
+        },
+        {
+          "verse": 15,
+          "text": "I ſaw al men aliue, that walke vnder the ſunne, with the ſecond yongman, which shal riſe vp for him."
+        },
+        {
+          "verse": 16,
+          "text": "The number of the people, of al that haue bene before him is infinite: and they that shal be afterward, shal not reioyce in him. But this alſo is vanitie, and affliction of ſpirite."
+        },
+        {
+          "verse": 17,
+          "text": "Take heede to kepe thy foote, when thou entreſt into the houſe of God, and approch thou to heare."
+        },
+        {
+          "verse": 18,
+          "text": "<cr>[1]</cr> For much better is obedience, then the victimes of fooles, who know not what euil they doe.",
+          "cross_refs": [
+            {
+              "text": "1. Reg. 15. Oſee 6."
+            }
+          ]
+        }
+      ],
+      "summary": "In this world manie innocents are oppreſſed, 4. The potent enuied, ſometimes contemned, 15. and forſaken by their ſubiectes, 17. eſpecially when the superiors obey not God."
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "SPEAKE <na>(a)</na> not anie thing rashly, neither let thy hart be ſwift to vtter a word before God. For God is in heauen, and thou vpon the earth: therfore let thy wordes be few.",
+          "notes": [
+            {
+              "label": "a",
+              "text": "Becauſe no man is able to attaine perfect knowlege of God, it behoueth al to ſpeake and thinke ſoberly of him.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "Dreames do folow manie cares, and in manie wordes follie wil be found."
+        },
+        {
+          "verse": 3,
+          "text": "<na>(b)[1]</na> If thou haſt vowed anie thing to God, differre not to pay it: for an vnfaithful and foolish promiſe diſpleaſeth him. But what ſoeuer thou haſt vowed, pay it:",
+          "notes": [
+            {
+              "label": "b",
+              "text": "Deut. 23. · Vow or promiſe once made muſt be fulfilled.",
+              "kind": "gloss"
+            },
+            {
+              "label": "1",
+              "text": "Deu. 23.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 4,
+          "text": "and it is much better not to vow, then after a vow not to performe the thinges promiſed."
+        },
+        {
+          "verse": 5,
+          "text": "Geue not thy mouth to make thy flesh to ſinne: neither ſay thou before <na>(c)</na> the Angel: There is no prouidence: leſt perhaps God being wrath againſt thy wordes, diſſipate al the workes of thy handes.",
+          "notes": [
+            {
+              "label": "c",
+              "text": "The proper Angel which aſſociateth euerie man.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 6,
+          "text": "Where manie dreames are, there are manie vanities, and wordes innumerable: but do thou feare God."
+        },
+        {
+          "verse": 7,
+          "text": "If thou shalt ſee the oppreſſions of the poore, and violent iudgements, and iuſtice to be ſubuerted in the prouince, meruel not at this matter: becauſe there is an other higher then the high, and ouer theſe alſo there are others more eminent:"
+        },
+        {
+          "verse": 8,
+          "text": "and beſides the king of al the earth reigneth ouer his ſeruant."
+        },
+        {
+          "verse": 9,
+          "text": "A couetous man shal not be filled with money: and he that loueth riches, shal take no fruite of them: and this therfore is vanitie."
+        },
+        {
+          "verse": 10,
+          "text": "Where great riches are, there are alſo manie that eate them. And what doth it profite the owner, but that he ſeeth the riches with his eyes?"
+        },
+        {
+          "verse": 11,
+          "text": "Sleepe is ſwete to him that worketh, whether he eate much or litle: but the ſatietie of the rich doth not ſuffer him to ſleepe. <cr>[1]</cr>",
+          "cross_refs": [
+            {
+              "text": "Job. 20."
+            },
+            {
+              "text": "Job 2",
+              "source": "sancta"
+            }
+          ]
+        },
+        {
+          "verse": 12,
+          "text": "There is alſo an other very il infirmitie, which I haue ſene vnder the ſunne: riches kept to the hurt of the owner."
+        },
+        {
+          "verse": 13,
+          "text": "For they perish in very euil affliction: he <na>(a)</na> hath begotten a ſonne, which shal be in great pouertie.",
+          "notes": [
+            {
+              "label": "a",
+              "text": "As temporal riches are often the occaſion of their owners ruine: ſo vaine philoſophie, and hereſie auaile not heretikes, nor their folowers, but as they came naked from their mothers wombe, the peruerſe Church, ſo shal both ſuch maſters, and ſcolars depart without comforth into the wrath which they prepare to themſelues. <i>S. Ierom, in hunc locum</i>.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 14,
+          "text": "As he came forth naked from his mothers wombe, ſo shal he returne, and shal take nothing away with him of his labour."
+        },
+        {
+          "verse": 15,
+          "text": "An infirmitie vtterly miſerable: as he came, ſo shal he returne. What doth it then profite him, that he hath labored into the winde?"
+        },
+        {
+          "verse": 16,
+          "text": "Al the dayes of his life he eateth in darknes, and in miſerie, and in heauines."
+        },
+        {
+          "verse": 17,
+          "text": "This therfore hath ſemed good to me, that a man eate, and drinke, and take ioy of his labour, wherwith he hath labored vnder the ſunne, the number of the dayes of his life, which God hath geuen him, and this is his portion."
+        },
+        {
+          "verse": 18,
+          "text": "And to euerie man, vnto whom God hath geuen riches, and ſubſtance, and hath geuen him powre to eate of them, and to enioy his portion, and to reioyce of his labour: this is the gift of God."
+        },
+        {
+          "verse": 19,
+          "text": "For he shal not greatly remember the dayes of his life, becauſe God doth occupie his hart with delightes."
+        }
+      ],
+      "summary": "An exhortation to ſpeake diſcretly, and reuerently of God; 3. to performe vowes; 6. not to be trubled with imaginations, nor preſent-oppreſſions of the poore. 9. Auarice is neuer ſatiate, 11. riches ſometimes cauſeth ſicknes, ruine of the bodie, 18. and obliuion of God."
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "THERE is alſo an other euil, which I haue ſene vnder the ſunne, and that frequent with men:"
+        },
+        {
+          "verse": 2,
+          "text": "A man to whom God hath geuen riches, and ſubſtance, and honour, and nothing is lacking to his ſoule of al thinges, which he deſireth: neither doth God geue him powre to eate therof: but a ſtrange man shal eate it vp. This is <na>(b)</na> vanitie and great miſerie.",
+          "notes": [
+            {
+              "label": "b",
+              "text": "Al this sheweth euidently that felicitie conſiſteth not in riches.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 3,
+          "text": "If a man shal begette an hundred children, and shal liue manie yeares, and haue manie dayes of age, and his ſoule vſe not the goods of his ſubſtance, and he lacke burial: of this man I pronounce, that the vntimely borne is better then he."
+        },
+        {
+          "verse": 4,
+          "text": "For he came in vaine, and paſſeth to darknes, and his name shal be cleane forgotten."
+        },
+        {
+          "verse": 5,
+          "text": "He hath not ſene the ſunne, nor knowen the diſtance of good and euil:"
+        },
+        {
+          "verse": 6,
+          "text": "although he liued two thouſand yeares, and hath not enioyed good thinges: do not al thinges haſten to one place?"
+        },
+        {
+          "verse": 7,
+          "text": "Al the labour of man is in his mouth: but his ſoule shal not be filled."
+        },
+        {
+          "verse": 8,
+          "text": "What hath the wiſeman more then the foole? and what the poore man, but to paſſe thither, where life is?"
+        },
+        {
+          "verse": 9,
+          "text": "Better it is to ſee that, which thou maiſt couete, then to deſire that, which thou canſt not know. But this alſo is vanitie, and preſumption of ſpirite."
+        },
+        {
+          "verse": 10,
+          "text": "<na>(c)</na> He that shal be, his name is already called: and it is knowne, that he is a man, and can not contend in iudgement againſt a ſtronger then himſelf.",
+          "notes": [
+            {
+              "label": "c",
+              "text": "It is plainly preached (ſaith S. Iero.) of the coming of Chriſt, whoſe name was geuen, and knowen before he vvas borne in flesh.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 11,
+          "text": "There be manie wordes, that haue much vanitie in diſputing."
+        }
+      ],
+      "summary": "Riches make not men happie, becauſe manie dye shortly: 3. and manie rich men wil not vſe their riches. 8. Likewiſe ſtudie to know al ſecrete thinges is vanitie, not felicitie."
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "VVHAT <na>[1]</na> nedeth a man to ſeke thinges greater then himſelf, wheras he is ignorant, what is profitable for him in his life, in the number of the dayes of his peregrination, and the time that paſſeth as a shadow? Or who can tel him what shal be after him vnder the ſunne?",
+          "notes": [
+            {
+              "label": "1",
+              "text": "None can perfectly knovv the nature of al thinges preſent, or to come.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "<cr>[1]</cr> Better is <na>[2]</na> a good name then precious ointments: and the day of death, then the day of natiuitie.",
+          "cross_refs": [
+            {
+              "text": "Pro. 22."
+            }
+          ],
+          "notes": [
+            {
+              "label": "2",
+              "text": "The 2. part. True felicitie is procured by good life, and conſiſteth in the eternal ſight of God. · Prou. 22.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 3,
+          "text": "It is better to goe to the houſe of mourning, then to the houſe of banketing: for in that the end of al men is ſignified, and he that liueth thinketh what shal be."
+        },
+        {
+          "verse": 4,
+          "text": "<na>(a)</na> Anger is better then laughter: becauſe by ſadnes of the countenance, the mind of the offender is corrected.",
+          "notes": [
+            {
+              "label": "a",
+              "text": "Anger rightly vſed, is commendable & beneficial to correcte our owne faultes and others.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 5,
+          "text": "The hart of wiſemen where ſadnes is, and the hart of fooles where mirth."
+        },
+        {
+          "verse": 6,
+          "text": "It is better to be rebuked of a wiſeman, then to be deceiued with the flaterie of fooles."
+        },
+        {
+          "verse": 7,
+          "text": "Becauſe as the ſound of thornes burning vnder a potte, ſo the laughter of a foole: but this alſo is vanitie."
+        },
+        {
+          "verse": 8,
+          "text": "Oppreſſion trubleth the wiſe, and shal deſtroy the ſtreingth of his hart."
+        },
+        {
+          "verse": 9,
+          "text": "Better is the end of a ſpeach, then the beginning. <na>(b)</na> Better is the patient man then the arrogant.",
+          "notes": [
+            {
+              "label": "b",
+              "text": "But haſtie, or inmoderate anger is ſinful and hatful.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "text": "Be not quickly angrie, becauſe anger reſteth in the boſom of a foole."
+        },
+        {
+          "verse": 11,
+          "text": "Say not: What is the cauſe thinkeſt thou that the former times were better then they are now? for this maner of queſtion is foolish."
+        },
+        {
+          "verse": 12,
+          "text": "Wiſdom with <na>(c)</na> riches is more profitable, and doth more profite them that ſee the ſunne.",
+          "notes": [
+            {
+              "label": "c",
+              "text": "Likewiſe moderate riches profite the ſeruants of God, ſo that they ſette not their mind vpon them.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 13,
+          "text": "For as wiſdom protecteth, ſo money protecteth. But lerning and wiſdom haue this much more, that they geue life to their owner."
+        },
+        {
+          "verse": 14,
+          "text": "Conſider the workes of God, that no man can correct whom he hath deſpiſed."
+        },
+        {
+          "verse": 15,
+          "text": "In the good day enioy good thinges, and beware before of the euil day. For as this, ſo that alſo hath God made, that man finde not againſt him iuſt complants."
+        },
+        {
+          "verse": 16,
+          "text": "Theſe thinges alſo I ſaw in the dayes of my vanitie: The iuſt man perisheth in his iuſtice, and the impious liueth a long time in his malice."
+        },
+        {
+          "verse": 17,
+          "text": "Be not iuſt too much: neither be more wiſe, then is neceſſarie, leſt thou become more dul."
+        },
+        {
+          "verse": 18,
+          "text": "Doe not impiouſly much: and be not foolish, leſt thou dye not in thy time."
+        },
+        {
+          "verse": 19,
+          "text": "It is good that thou hold vp the iuſt; yea and from him withdraw not thy hand: becauſe he that feareth God, neglecteth nothing."
+        },
+        {
+          "verse": 20,
+          "text": "Wiſdom hath ſtreingthned the wiſe aboue tenne princes of the citie."
+        },
+        {
+          "verse": 21,
+          "text": "<cr>[1]</cr> For there is no iuſt man in the earth, that doth good, and ſinneth not.",
+          "cross_refs": [
+            {
+              "text": "3. Reg. 8. 2. Par. 6. Pro. 20. 1. Ioan. 1."
+            }
+          ]
+        },
+        {
+          "verse": 22,
+          "text": "But to al wordes alſo, that are ſpoken, do not applie thy hart: leſt perhaps thou heare thy ſeruant curſing thee."
+        },
+        {
+          "verse": 23,
+          "text": "For thy conſcience knoweth, that thou alſo haſt curſed others."
+        },
+        {
+          "verse": 24,
+          "text": "I haue proued al thinges in wiſdom. I haue ſayd: I wil become wiſe, & it departed farder from me"
+        },
+        {
+          "verse": 25,
+          "text": "much more then it was: and a depe profunditie, who shal finde it?"
+        },
+        {
+          "verse": 26,
+          "text": "I haue vewed al thinges with my minde, that I might know, and conſider, and might ſeke wiſdom, and reaſon: and that I might know the impietie of the foole, and the errour of the imprudent:"
+        },
+        {
+          "verse": 27,
+          "text": "and I haue found that a woman is more bitter then death, who is the ſnare of hunters, and her hart a nette, her handes are bandes. He that pleaſeth God, wil auoide her: but he that is a ſinner, wil be caught of her."
+        },
+        {
+          "verse": 28,
+          "text": "Loe this haue I found, ſayd <na>[1]</na> Eccleſiaſtes, one thing and an other, that I might finde reaſon,",
+          "notes": [
+            {
+              "label": "1",
+              "text": "<i>The preacher</i>.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 29,
+          "text": "which yet my ſoule ſeketh, and I haue not found it. <na>(d)</na> A man of a thouſand I haue found one, <na>(e)</na> a woman of al I haue not found.",
+          "notes": [
+            {
+              "label": "d",
+              "text": "Mans reaſon which is the ſuperior part of his ſoule, rarely thinketh good:",
+              "kind": "gloss"
+            },
+            {
+              "label": "e",
+              "text": "Senſualitie ſtil inclineth to euil.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 30,
+          "text": "Only this I haue found, that <na>(f)</na> God made man right, and he hath intangled himſelf with infinite queſtions. Who is ſuch a one as the wiſe? and who hath knowne the reſolution of <na>[1]</na> the word.",
+          "notes": [
+            {
+              "label": "f",
+              "text": "God made man right, & he of his owne wil fel from God. See <i>s. Aug. li. 14. c. 11. ciuit</i>.",
+              "kind": "gloss"
+            },
+            {
+              "label": "1",
+              "text": "<i>The obſcure thing</i>.",
+              "kind": "gloss"
+            }
+          ]
+        }
+      ],
+      "summary": "It is in vaine to ſeke, and vnpoſſible to know al natural thinges. 2. It importeth to leade this shorte life in mortification, 4. pænance, 8. and patience: 12. ſeeking wiſdom, with competent temporal meanes; 15. prouiding for the next world; 24. not yelding to concupiſcence."
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "THE <na>(a)</na> wiſdom of a man shineth in his countenance, and the moſt mightie wil change his face,",
+          "notes": [
+            {
+              "label": "a",
+              "text": "As probable coniecture of a mans inward diſpoſition is made by his exterior countenance: ſo his good workes ſhining before men are good ſigne of internal vertues; which in dede are right and meritorious, when the intention is ſincere, referring al to Gods glorie, & edification of others, without deſire of vaine praiſe in the world.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "I obſerue the mouth of the king, and the precepts of the oath of God."
+        },
+        {
+          "verse": 3,
+          "text": "Haſten not to depart from his face, nor continew thou in an euil worke: becauſe al that he pleaſeth, he wil doe,"
+        },
+        {
+          "verse": 4,
+          "text": "and his word is ful of powre: neither can anie man ſay to him. Why doſt thou ſo?"
+        },
+        {
+          "verse": 5,
+          "text": "He that kepeth the precept, shal finde no euil. The hart of a wiſeman vnderſtandeth time and anſwer."
+        },
+        {
+          "verse": 6,
+          "text": "There is a time for al buſines, and opportunitie, and much affliction of man:"
+        },
+        {
+          "verse": 7,
+          "text": "becauſe he is ignorant of thinges paſt, and thinges to come he can know by no meſſenger."
+        },
+        {
+          "verse": 8,
+          "text": "It is not in mans powre to prohibite the ſpirite, neither hath he powre in the day of death, neither is he ſuffered to reſt when warre is at hand, neither shal impietie ſaue the impious."
+        },
+        {
+          "verse": 9,
+          "text": "Al theſe thinges I haue conſidered, and gaue my hart on al the workes, that are done vnder the ſunne. Sometime man ruleth ouer man to his owne hurt."
+        },
+        {
+          "verse": 10,
+          "text": "I ſaw the impious buried: who alſo when they yet liued, were in holie place, and were praiſed in the citie as men of iuſt workes. But this alſo is vanitie."
+        },
+        {
+          "verse": 11,
+          "text": "Becauſe ſentence is not ſpeedely pronounced againſt the euil, the children of men committe euils without anie feare."
+        },
+        {
+          "verse": 12,
+          "text": "But yet a ſinner by this that he doth euil an hundred times, & by patience is borne withal, I know that it shal be good to them that feare God, which dread his face."
+        },
+        {
+          "verse": 13,
+          "text": "Let there be no good to the impious, neither let his dayes be prolonged, but as a shadow let them paſſe, that feare not the face of our Lord."
+        },
+        {
+          "verse": 14,
+          "text": "There is alſo an <na>(b)</na> other vanitie, which is done vpon the earth. There are iuſt men, to whom euils happen, as though they had done the workes of the impious: and there are impious men, which are ſo ſecure, as though they had the dedes of the iuſt. But this alſo I iudge moſt vaine.",
+          "notes": [
+            {
+              "label": "b",
+              "text": "By this terme vanitie is ſtil vnderſtood that felicitie is not in proſperous thinges of this world: neither are al men miſerable, that ſuffer aduerſitie.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 15,
+          "text": "I therfore haue praiſed mirth that there was no good thing for a man vnder the ſunne, but that he should eate, and drinke, and be glad: and this only he should take away with him of his labour in the dayes of his life, which God hath geuen him vnder the ſunne."
+        },
+        {
+          "verse": 16,
+          "text": "And I haue ſet my hart to know wiſdom, and to vnderſtand the <na>[1]</na> diſtraction that is in the earth: There is a man that dayes and nightes taketh no ſlepe with his eyes.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "<i>Buſie ſearching</i>",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 17,
+          "text": "And I vnderſtood that man can finde no reaſon of al thoſe workes of God, that are done vnder the ſunne: and the more he shal labour to ſeke, ſo much the leſſe he can finde: yea if the wiſman shal ſay, that he knoweth, he is not able to finde it."
+        }
+      ],
+      "summary": "A ſigne of true wiſdom appereth in obſeruing Gods commandments, 6. in this shorte time of meriting eternal reward. 9. Rule of others, 11. and want of feare hurt manie. 14. Why God ſuffereth the wicked to proſper, and the iuſt to be afflicted in this life, no mortal man can know."
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "AL theſe thinges haue I diſcourſed in my hart, that I might curiouſly vnderſtand them: there are iuſt men and wiſe, and their workes are in the hand of God: and yet <na>(a)</na> man knoweth not, whether he be worthie of loue, or hatred:",
+          "notes": [
+            {
+              "label": "a",
+              "text": "Mortal men ſuffering calamities knovv not vvhether the ſame be inflicted for their proofe and merite as in Iob and Tobie, or for their ſinnes only, as in Pharao, & the Ægyptians: but shal know in the iudgement after their death.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "but al thinges are reſerued vncertaine for the time to come, becauſe al thinges do equally chance to the iuſt and impious, to the good and the euil, to the cleane and vncleane, to him that immoleth victimes, and him that contemneth ſacrifices. As the good ſo alſo is the ſinner: as the periured, ſo he alſo that ſweareth truth."
+        },
+        {
+          "verse": 3,
+          "text": "This is a very euil thing among al, which are done vnder the ſunne, that the ſame thinges chance to al men. Wherby alſo the hartes of the children of men are filled with malice, and with contempt in their life, and after that they shal be brought downe to hel."
+        },
+        {
+          "verse": 4,
+          "text": "There is no man that may liue alwayes, and that can haue confidence of this thing: better is <na>(b)</na> a dog liuing then a lion dead.",
+          "notes": [
+            {
+              "label": "b",
+              "text": "A ſinner in this life may amend if he vvil, & become iuſt: but after death he can not repent. chap. 11. v. 3. Myſtically, the Gentiles were iudged by Salomon better then the Iewes. <i>S. Ierom.</i>",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 5,
+          "text": "For the liuing know that they shal dye, but the dead know nothing more, neither haue they reward anie more: becauſe the memorie of them is forgotten."
+        },
+        {
+          "verse": 6,
+          "text": "Loue alſo, and hatred, and enuies haue perished together, neither haue they part in this world, and in the worke, that is done vnder the ſunne."
+        },
+        {
+          "verse": 7,
+          "text": "Goe therfore and eate thy bread in ioy, & drinke thy wine with gladnes: becauſe thy workes pleaſe God.",
+          "cross_refs": [
+            {
+              "text": "chap. 11. v. 5",
+              "source": "sancta"
+            }
+          ]
+        },
+        {
+          "verse": 8,
+          "text": "At al time let thy garments be white, and let not oyle fal from of thy head."
+        },
+        {
+          "verse": 9,
+          "text": "Enioy life, with thy wife whom thou loueſt, al the dayes of the life of thy inſtabilitie, which are geuen to thee vnder the ſunne, al the time of thy vanitie: for this is the portion in life, and in thy labour, wherwith thou laboreſt vnder the ſunne."
+        },
+        {
+          "verse": 10,
+          "text": "Whatſoeuer thy hand is able to doe, worke it inſtantly: for neither worke, nor reaſon, nor wiſdom nor knowlege shal be in hel, whither thou doſt haſten."
+        },
+        {
+          "verse": 11,
+          "text": "I turned me to an other thing, and I ſaw vnder the ſunne, that neither running is of the ſwift, nor warre of the ſtrong, nor bread of the wiſe, nor riches of the lerned, nor grace of the artificers: but time and chance in al."
+        },
+        {
+          "verse": 12,
+          "text": "Man knoweth not his owne end: but as fishes are taken with the hooke, and as birdes are caught with the ſnare: ſo men are taken in the euil time, when it shal ſudenly come vpon them."
+        },
+        {
+          "verse": 13,
+          "text": "This wiſdom alſo I haue ſene vnder the ſunne, and haue proued it to be very great:"
+        },
+        {
+          "verse": 14,
+          "text": "A litle citie, and few men in it: there came againſt it a great king, and compaſſed it, and builded fortes round about, and the ſiege was perfited."
+        },
+        {
+          "verse": 15,
+          "text": "And there was found in it a man poore and wiſe, and he deliuered the citie by his wiſdom, and no man afterward remembred that pooreman."
+        },
+        {
+          "verse": 16,
+          "text": "And I ſayd, that wiſdom is better then ſtreingth: how then was the wiſdom of the pooreman contemned, & his wordes were not heard?"
+        },
+        {
+          "verse": 17,
+          "text": "The wordes of the wiſe are heard in ſilence, more then the crie of a prince among fooles."
+        },
+        {
+          "verse": 18,
+          "text": "Better is wiſdom, then weapons of warre: and he that shal offend in one point, shal loſe manie good thinges."
+        }
+      ],
+      "summary": "None knoweth (certainly and ordinarily) whether they be in Gods grace or no. 4. The euil are in worſe caſe dead then aliue, 11. neither can we know the euent of temporal thinges, nor the terme of our life, nor how gratful others wil be towards vs. 16. Sure it is, that wiſdom is better then ſtreingth."
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "FLIES <na>(a)</na> dying marre the ſweetnes of ointment. Wiſdom and glorie is more precious, then a litle and temporal follie.",
+          "notes": [
+            {
+              "label": "a",
+              "text": "Baſe & vicious men mixt with the good corrupt the whole companie: much more a mortal ſinne in a mans ſoule deſtroyeth al the vertues, that were there before.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "The hart of a wiſeman is in his righthand, and the hart of a foole is in his lefthand."
+        },
+        {
+          "verse": 3,
+          "text": "Yea and the foole walking in the way, wheras himſelf is vnwiſe, eſtemeth al men fooles."
+        },
+        {
+          "verse": 4,
+          "text": "If the ſpirite of him that hath powre, aſcend vpon thee, leaue not thy place: becauſe carefulnes wil make the greateſt ſinnes to ceaſe."
+        },
+        {
+          "verse": 5,
+          "text": "There is an euil that I haue ſene vnder the ſunne, as it were by errour proceding from the face of the prince:"
+        },
+        {
+          "verse": 6,
+          "text": "a foole ſet in high dignitie, and the rich to ſitte beneth."
+        },
+        {
+          "verse": 7,
+          "text": "I haue ſene <na>(b)</na> ſeruants vpon horſes: and princes walking on the ground as ſeruants.",
+          "notes": [
+            {
+              "label": "b",
+              "text": "Euil men aduanced ſeme to proſper:",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 8,
+          "text": "He <na>(c)</na> that diggeth a pitte, shal fal into it: and he that breaketh the hedge, a ſerpent shal bite him.",
+          "notes": [
+            {
+              "label": "c",
+              "text": "But they fal into their owne trappes.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "text": "He that remoueth ſtones, shal be afflicted in them: and he that cutteth trees, shal be wounded of them."
+        },
+        {
+          "verse": 10,
+          "text": "If the iron shal be blunt, and that not as before, but shal be made blunt, it shal be sharpened by great labour, and after induſtrie shal wiſdom folow."
+        },
+        {
+          "verse": 11,
+          "text": "If a ſerpent bite in ſilence, nothing leſſe then it hath he, that detracteth ſecretly."
+        },
+        {
+          "verse": 12,
+          "text": "The wordes of the mouth of a wiſeman grace: and the lippes of the vnwiſe shal throw him downe headlong."
+        },
+        {
+          "verse": 13,
+          "text": "The beginning of his wordes is follie, and the later end of his mouth is moſt wicked errour."
+        },
+        {
+          "verse": 14,
+          "text": "A foole multiplieth wordes. A man is ignorant what hath bene before him: and what shal be after him, who can tel him?"
+        },
+        {
+          "verse": 15,
+          "text": "The labour of fooles shal afflict them, that know not to goe into <na>(d)</na> the cittie.",
+          "notes": [
+            {
+              "label": "d",
+              "text": "Such as ſeke by ſenſe and reaſon to obtaine true knowlege, enter not into the citie, the Church: They labour in vaine and are afflicted in ſtudie of Scriptures, when they walke in the deſert, and can not finde the citie. S. Ierom.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 16,
+          "text": "Woe to thee ô land, whoſe king is a childe, and whoſe princes eate in the morning.",
+          "has_annotation": true
+        },
+        {
+          "verse": 17,
+          "text": "Bleſſed is the land, whoſe king is noble, & whoſe princes eate in their time to refection, and not to riotouſnes."
+        },
+        {
+          "verse": 18,
+          "text": "In ſlouthfulnes the roofe of the houſe shal goe to ruine, & in the infirmitie of the handes the houſe shal droppe through."
+        },
+        {
+          "verse": 19,
+          "text": "They make bread for laughter, and wine that liuing they may make merie: and to money al thinges obey."
+        },
+        {
+          "verse": 20,
+          "text": "In thy cogitation detract not from the king, and in the ſecret of thy chamber curſe not the richman: becauſe euen the birdes of the ayre wil carie thy voice, and he that hath winges wil declare the ſentence."
+        }
+      ],
+      "summary": "Conſidering the great difference betwen wiſdom and follie, 4. it behoueth to reſiſt vehement tentations diligently. 5. As when euil, & ignorant men haue auctoritie ouer the wiſe. 8. The wicked often fal into their owne ſnares, 10. are hard, yet not vnpoſſible to be corrected. 11. Detracters are like ſerpents. 12. Wiſe graue princes are profitable; childish are hurtful to the commonwealth; 18. which by their negligence tendeth to ruine: 20. yet ſubiectes ought not to iudge euil of them."
+    },
+    {
+      "chapter": 11,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "CAST thy bread vpon the paſſing waters: <na>(a)</na> becauſe after much time thou shalt finde it.",
+          "notes": [
+            {
+              "label": "a",
+              "text": "Of al vertues, the workes of mercie, corporal and ſpiritual, moſt auaile for obtaining eternal felicitie : <i>Mat 25</i>.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "Geue a portion <na>(b)</na> to ſeuen, and alſo to eight: becauſe thou knoweſt not what euil shal be vpon the earth:",
+          "notes": [
+            {
+              "label": "b",
+              "text": "So the ſame be grounded in true faith, believing all that is written in the old and new teſtament, ſignified by ſeven and eight.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 3,
+          "text": "If the cloudes be ful, they wil powre out raine vpon the earth. If the tree shal fal to the South, or to the North, in what place ſoeuer it shal fal, <na>(c)</na> there shal it be.",
+          "notes": [
+            {
+              "label": "c",
+              "text": "After death none can either merite or demerite.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 4,
+          "text": "He that obſerueth the winde, ſoweth not: and he that conſidereth the cloudes, shal neuer reape."
+        },
+        {
+          "verse": 5,
+          "text": "As thou art ignorant which is the way of the ſpirite, & how the bones are framed together in the wombe of her that conceiueth childe: ſo thou knoweſt not the workes of God, who is the maker of al."
+        },
+        {
+          "verse": 6,
+          "text": "In <na>(d)</na> the morning ſow thy ſeede, and in the euening let not thy hand ceaſe: for thou knoweſt not which may rather ſpring, this or that: and if both together, it shal be the better.",
+          "notes": [
+            {
+              "label": "d",
+              "text": "Both in youth and old age do good workes.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 7,
+          "text": "The light is ſweete: and it is delectable for the eyes to ſee the ſunne."
+        },
+        {
+          "verse": 8,
+          "text": "If a man shal liue manie yeares, and shal haue reioyced in them al, he muſt remember the darkeſome time, and manie dayes: which when they shal come, the thinges paſt shal be reproued of vanitie."
+        },
+        {
+          "verse": 9,
+          "text": "Reioyce therfore yongman in thy youth, and let thy hart be in good, in the dayes of thy youth, and walke in the wayes of thy hart, and in the ſight of thyne eyes: and know that for al theſe God wil bring thee into iudgement."
+        },
+        {
+          "verse": 10,
+          "text": "Take away anger from thy hart, and remoue malice from thy flesh. For youth and pleaſure are vaine."
+        }
+      ],
+      "summary": "Workes of mercie are neceſſarie, whiles we haue time, 3. becauſe after death none can merite : 4. neither muſt we differ to beginne, nor ceaſe from good dedes, 8. but ſtil be mindful of death and iudgement : 10. auoiding wrath and malice. <na>[1]</na>",
+      "summary_notes": [
+        {
+          "marker": 1,
+          "text": "The 3. part. An exhortation to begin quickly, and perſevere in God'ſ ſervice."
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "REMEMBER thy Creator in the dayes <na>(a)</na> of thy youth, before the time of affliction come, & the yeares approch, of which thou maiſt ſay: They pleaſe me not,",
+          "notes": [
+            {
+              "label": "a",
+              "text": "An admonition to al in general to liue wel in this world, remembring the day of general iudgement before which ſuch ſignes shal come as are deſcribed here, and by our Sauiour <i>Mat 24</i> And likewiſe euerie one is admonished in particular to ſerue God diligently whiles he hath time, before death come, when al his ſenſes & former helpes shal faile.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "before the ſunne, and light, and moone, and ſtarres be darke, and the cloudes returne after the raine:"
+        },
+        {
+          "verse": 3,
+          "text": "when the kepers of the houſe shal be moued, and the ſtrongeſt men shal ſtagger, and the grinders shal be idle in a ſmal number: and they shal waxe darke that looke through the holes:"
+        },
+        {
+          "verse": 4,
+          "text": "and they shal shut the doores in the ſtreate, at the baſenes of the grinders voice, and they shal riſe vp at the voice of the birde, and al the daughters of ſong shal be deafe."
+        },
+        {
+          "verse": 5,
+          "text": "The high thinges alſo shal feare, and they shal be afrayd in the way, the almondtree shal florish, the locuſt shal be fatted, and the capertree shal be deſtroyed: becauſe man shal goe into the houſe of his eternitie, and the mourners shal goe round about in the ſtreate."
+        },
+        {
+          "verse": 6,
+          "text": "Before the ſiluer coard be broken, and the golden headband recurre, and the water pot be broken vpon the fountaine, and the wheele be broken vpon the ceſterne,"
+        },
+        {
+          "verse": 7,
+          "text": "and the duſt returne into his earth, from whence it was, and the ſpirite returne to God, who gaue it."
+        },
+        {
+          "verse": 8,
+          "text": "Vanitie of vanities, ſayd <na>[1]</na> Eccleſiaſtes, and al thinges vanitie.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "<i>The preacher</i>.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "text": "And wheras Eccleſiaſtes was moſt wiſe, he taught the people, and declared the thinges that he had done: and ſearching forth made manie parables."
+        },
+        {
+          "verse": 10,
+          "text": "He ſought profitable wordes, and wrote wordes moſt right, and ful of truth."
+        },
+        {
+          "verse": 11,
+          "text": "The wordes of wiſemen are as prickes, and as nailes deepely ſtricken in, which by the counſel of maiſters are geuen of one paſtour."
+        },
+        {
+          "verse": 12,
+          "text": "More then theſe my ſonne require not. Of making manie bookes there is no end: and often meditation is affliction of the flesh."
+        },
+        {
+          "verse": 13,
+          "text": "<na>(b)</na> Let vs al heare together the end of ſpeaking. Feare God, and obſerue his commandments: for this is euerie man:",
+          "notes": [
+            {
+              "label": "b",
+              "text": "This is the brief ſumme of al profitable doctrine: Feare God, & kepe his commandments.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 14,
+          "text": "and al thinges that are done, God wil bring into iudgement for euerie <na>[1]</na> errour, whether it be good, or euil.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "<i>Hidden, or obſcure thing</i>.",
+              "kind": "gloss"
+            }
+          ]
+        }
+      ],
+      "summary": "In youth is fitteſt time, and moſt meritorious to ſerue God. In age the ſame is more and more neceſſarie, but harder then to beginne, and leſſe gratful. 5. In this booke the preacher hath shewed, that al worldlie thinges are vanitie, 13. and that true felicitie is only procured by wiſdom, which conſiſteth in the feare of God; and obſeruation of his commandments."
+    }
+  ],
+  "spelling": "original"
+}

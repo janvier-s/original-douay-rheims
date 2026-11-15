@@ -1,0 +1,338 @@
+{
+  "book": "titus",
+  "book_title": "The Epistle of Paul to Titus.",
+  "short_title": "Titus",
+  "hebrew_title": null,
+  "intros": [
+    {
+      "title": "THE ARGUMENT OF THE EPISTLE OF S. PAUL TO TITUS.",
+      "text": "THAT Titus was a Gentil, and not a Iew, and that he was in S. Paules traine, at the leaſt the 14 yere after his conuerſion, if not before, we vnderſtand by the Epiſtle to the Galatians c. 2. And that he continued with him to the very end, appeareth in the ſecond to Timothee c. 4. Where he maketh mention that he ſent him from Rome into Dalmatia, when himſelf was ſhortly after to be put to death.<br>And therefore although S. Luke neuer name him in the Actes, as neither himſelf, yet no doubt he comprehendeth him commonly, when he ſpeaketh thus in the firſt perſon plurall: <i>Forthwith we ſought to goe into Macedonia. Act. 16.</i> For S. Paul alſo ſent him to Corinth, betwene the writing of his 1. & 2. to the Corinthians (which time concurreth with Act. 19) by occaſion whereof he maketh much and honorable mention of him in the ſaid ſecond Epiſtle c. 2. & c. 7. and againe he ſent him <mn>◦</mn> with the ſame Epiſtle: both times about great matters: ſo that no doubt he was euen then alſo a Biſhop, and receiued accordingly of the Corinthians, <i>with Feare and trembling.</i> 2. Cor. 7, v. 15. But the ſame is plainer in this Epiſtle to himſelf c. 1. v. 5. Where the Apoſtle ſaith: <i>for this cauſe I left thee at Crete, &c.</i> By which wordes it is manifeſt alſo, that this Epiſtle was not written during the ſtorie of the Actes (ſeing that no mention is there of S. Paules being in the ile of Crete) but after his diſmiſſion at Rome out of his firſt trouble, and before his ſecond or laſt trouble there, as is euident by theſe wordes: <i>When I ſhall ſend to thee Artemas or Tychicus, make haſt to come to me to Nicopolis, for there I haue determined to winter.</i> Tit. 3.\n\nTherefore he inſtructeth him (and in him, all Biſhops) much like as he doth Timothee, what qualities he muſt require in them that he ſhall make prieſts and Biſhops, in what ſort to preach, and to teach al ſortes of men, to commend good workes vnto them: finally, himſelf to be their example in all goodnes.",
+      "default": true,
+      "notes": [
+        {
+          "marker": "◦",
+          "text": "<i>2. Corinth. 8.</i>"
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "<sc>PAVL</sc> the ſeruant of God, and an Apoſtle of <sc>IESVS</sc> Chriſt according to the faith of the elect of God and knowledge of the truth: vvhich is according to pietie"
+        },
+        {
+          "verse": 2,
+          "text": "into the hope of life euerlaſting, vvhich he promiſed that lieth not, God, <cr>[1]</cr> before the ſecular times:",
+          "cross_refs": [
+            {
+              "text": "2. Tim. 1, 9."
+            }
+          ]
+        },
+        {
+          "verse": 3,
+          "text": "but hath manifeſted in due times his vvord in preaching, vvhich is committed to me according to the precept of our Sauiour God:"
+        },
+        {
+          "verse": 4,
+          "text": "to Titus my beloued ſonne according to the common faith, grace and peace from God the father, and Chriſt <sc>IESVS</sc> our Sauiour."
+        },
+        {
+          "verse": 5,
+          "text": "For this cauſe left I thee in Crete, that thou ſhouldeſt reforme the things that are vvanting, and ſhouldeſt ordaine prieſtes by cities, as I alſo appointed thee:",
+          "has_annotation": true
+        },
+        {
+          "verse": 6,
+          "text": "<cr>[1]</cr> if any be vvithout crime, the huſband of one vvife, hauing faithful children, not in the accuſation of riote, or not obedient.",
+          "has_annotation": true,
+          "cross_refs": [
+            {
+              "text": "1. Tim. 3, 2."
+            }
+          ]
+        },
+        {
+          "verse": 7,
+          "text": "For a Biſhop muſt be vvithout crime, as the ſtevvard of God: not proud, not angrie, not giuen to vvine, no ſtriker, not couetous of filthy lucre:"
+        },
+        {
+          "verse": 8,
+          "text": "but giuen to hoſpitalitie, gentle, ſober, iuſt, holy, continent:"
+        },
+        {
+          "verse": 9,
+          "text": "embracing that faithful vvord vvhich is according to doctrine, that he may be able to exhort in ſound doctrine, & to reproue them that gaineſay it."
+        },
+        {
+          "verse": 10,
+          "text": "For there be many diſobedient, vaine-ſpeakers, and ſeducers, eſpecially they that are of the Circumciſion."
+        },
+        {
+          "verse": 11,
+          "text": "vvho muſt be controuled. vvho ſubuert vvhole houſes, teaching the things they ought not, for filthie lucre."
+        },
+        {
+          "verse": 12,
+          "text": "One of them ſaid, their ovvne proper prophete, <na>[1]</na> <i>The Cretenſians alvvaies liers, naughtie beaſtes, ſlouthful bellies</i>.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "Epimenides.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 13,
+          "text": "This teſtimonie is true. For the vvhich cauſe rebuke them ſharpely, that they may be ſound in the faith,"
+        },
+        {
+          "verse": 14,
+          "text": "not attending to Ievviſh fables, and commaundements of men auerting them ſelues from the truth."
+        },
+        {
+          "verse": 15,
+          "text": "<cr>[1]</cr> Al things are <na>[2]</na> cleane to the cleane: but to the polluted and to infidels nothing is cleane: but polluted are both their minde and conſcience.",
+          "cross_refs": [
+            {
+              "text": "Rom. 14, 20."
+            }
+          ],
+          "notes": [
+            {
+              "label": "2",
+              "text": "Rom. 14, 20. · He ſpeaketh not of the Churches abſtaining from meates ſome times, vvhich is not for any vncleannes in the creatures, but for chaſtening their bodies: but he meaneth the Iewiſh ſuperſtition, who now being Chriſtians, would not ceaſe to put difference of cleane and vncleane according to their old law. See S. Auguſtine Cont. Fauſt. li. 31. c. 4.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 16,
+          "text": "They confeſſe that they knovv God: but in their vvorkes they deny, vvhereas they be abominable and incredulous and to euery good vvorke reprobate."
+        }
+      ],
+      "summary": "Of what qualitie the Prieſts and Biſhops muſt be: 9 namely learned, conſidering the Iudaical ſeducers of that time. 12 That the Cretenſians muſt be roughly vſed, to haue them continue ſound in faith."
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "<sc>BVT</sc> doe thou ſpeake the things that become ſound doctrine."
+        },
+        {
+          "verse": 2,
+          "text": "Old men that they be ſober, <na>[1]</na> cchaſt, vviſe, ſound in the faith, in loue, in patience.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "<i>σεμνοὺς pudicos</i>",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 3,
+          "text": "Old women in like maner, in holy attire, not il ſpeakers, not giuen to much wine: teaching vvel,"
+        },
+        {
+          "verse": 4,
+          "text": "that they may teach the yong women vviſedom, to loue their huſbands, to loue their children,"
+        },
+        {
+          "verse": 5,
+          "text": "vviſe, chaſt, ſober, hauing a care of the houſe, gentle, ſubiect to their huſbandes, that the vvord of God be not blaſphemed."
+        },
+        {
+          "verse": 6,
+          "text": "Yong men in like maner exhort that they be ſober."
+        },
+        {
+          "verse": 7,
+          "text": "In al things ſhevv thy ſelf an example of good vvorkes, in doctrine, in integritie, in grauitie,"
+        },
+        {
+          "verse": 8,
+          "text": "the vvord ſound, irreprehenſible: that he vvhich is on the contrarie part, may be afraid, hauing no euil to ſay of vs."
+        },
+        {
+          "verse": 9,
+          "text": "<cr>[1]</cr> Seruants to be ſubiect to their maiſters, in al things pleaſing, not gainſaying:",
+          "cross_refs": [
+            {
+              "text": "Eph. 6, 5. Col. 3, 22. 1. Pet. 2, 18."
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "text": "not defrauding, but in al things ſhewing good faith, that they may adorne the doctrine of our Sauiour God in al things."
+        },
+        {
+          "verse": 11,
+          "text": "<na>[1]</na> For the grace of God our Sauiour hath appeared to al men:",
+          "notes": [
+            {
+              "label": "1",
+              "text": "The Epiſtle at the firſt Maſſe on Chriſtmas day, and vpon the Circumciſion of our Lord.",
+              "kind": "lectionary"
+            }
+          ]
+        },
+        {
+          "verse": 12,
+          "text": "inſtructing vs that denying impietie & worldly deſires, vve liue ſoberly, and iuſtly, and godly in this vvorld,"
+        },
+        {
+          "verse": 13,
+          "text": "expecting the bleſſed hope and <na>[1]</na> caduent of the glorie of the great God and our Sauiour <sc>IESVS</sc> Chriſt,",
+          "notes": [
+            {
+              "label": "1",
+              "text": "<i>c ἐπιφὰνειαν</i>",
+              "kind": "word"
+            }
+          ]
+        },
+        {
+          "verse": 14,
+          "text": "vvho gaue him ſelf for vs, that he might redeeme vs from al iniquitie, and might cleanſe to him ſelf a people acceptable, a purſuer of good vvorkes."
+        },
+        {
+          "verse": 15,
+          "text": "Theſe things ſpeake, and exhort ⊢ and rebuke <na>[1]</na> vvith al authoritie. Let no man contemne thee.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "Biſhops muſt be ſtout and cōmaund in Gods cauſe, and the people muſt in no vviſe diſobey or contemne them.",
+              "kind": "gloss"
+            }
+          ]
+        }
+      ],
+      "summary": "What to preach both to old and yong (not onely with word but vvith example alſo) and to ſeruants. 11 For there are of al ſortes in the Church, and they muſt be inſtructed accordingly."
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "<sc>ADMONISH</sc> them to be ſubiect to Princes and Poteſtates, to obey at a vvord, to be ready to euery good vvorke,"
+        },
+        {
+          "verse": 2,
+          "text": "to blaſpheme no man, not to be litigious, but modeſt: ſhevving al mildenes tovvard al men."
+        },
+        {
+          "verse": 3,
+          "text": "for we alſo vvere ſometime vnwiſe, incredulous, erring, ſeruing diuerſe deſires & voluptuouſneſſes, liuing in malice & enuie, odible, hating one an other."
+        },
+        {
+          "verse": 4,
+          "text": "But when <na>[1]</na> the benignitie and <na>[2]</na> ckindnes tovvard man of our Sauiour God appeared:",
+          "notes": [
+            {
+              "label": "1",
+              "text": "The Epiſtle at the 2 Maſſe on Chriſtmas day, and in the Votiue Maſſe of our B. Lady betwene Chriſtmas and Candlemas.",
+              "kind": "lectionary"
+            },
+            {
+              "label": "2",
+              "text": "<i>c φιλανθρωπία</i>",
+              "kind": "word"
+            }
+          ]
+        },
+        {
+          "verse": 5,
+          "text": "<cr>[1]</cr> not by the vvorkes of iuſtice vvhich vve did, but according to his mercie he hath ſaued vs <na>[2]</na> by the lauer of regeneratiō and renouation of the holy Ghoſt,",
+          "cross_refs": [
+            {
+              "text": "2. Tim. 1, 9."
+            }
+          ],
+          "notes": [
+            {
+              "label": "2",
+              "text": "As before in the Sacrament of holy Orders ( <i>1. Tim. 4. and 2 Tim. 1</i> ) ſo here it is plaine that Baptiſme giueth grace, & that by it as by an inſtrumental cauſe we be ſaued.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 6,
+          "text": "vvhom he hath povvred vpon vs aboundantly by <sc>IESVS</sc> Chriſt our Sauiour:"
+        },
+        {
+          "verse": 7,
+          "text": "that being iuſtified by his grace, vve may be heires according to hope of life euerlaſting. ⊢"
+        },
+        {
+          "verse": 8,
+          "text": "<cr>[1]</cr> It is a faithful ſaying, and of theſe things I vvil haue thee auouch earneſtly: that they vvhich beleeue in God, be careful to excell in good vvorkes. Theſe things be good and profitable for men.",
+          "cross_refs": [
+            {
+              "text": "1. Tim. 4."
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "text": "But <cr>[1]</cr> fooliſh queſtions, and genealogies, and contentions, and controuerſies of the Lavv auoid. For they are vnprofitable and vaine.",
+          "cross_refs": [
+            {
+              "text": "2. Tim. 2, 23."
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "text": "A man that is an heretike after the firſt and ſecond <na>[1]</na> admonition auoid:",
+          "has_annotation": true,
+          "notes": [
+            {
+              "label": "1",
+              "text": "Theſe admonitions or correptions muſt be giuen to ſuch as erre, by our Spiritual Gouernours and Paſtors: to whom if they yeld not, Chriſtian men muſt auoid them.",
+              "kind": "gloss"
+            }
+          ]
+        },
+        {
+          "verse": 11,
+          "text": "knovving that he that is ſuch an one, is ſubuerted, and ſinneth, being condemned by his ovvne iudgement.",
+          "has_annotation": true
+        },
+        {
+          "verse": 12,
+          "text": "VVhen I ſhal ſend to thee Artemas or Tychicus, haſten to come vnto me to Nicopolis. for there I haue determined to vvinter."
+        },
+        {
+          "verse": 13,
+          "text": "Set forvvard Zenas the lavvyer and Apollos carefully, that nothing be vvanting to them."
+        },
+        {
+          "verse": 14,
+          "text": "And let our men alſo learne <na>[1]</na> to excel in good vvorkes to neceſſarie vſes: that they be not vnfruiteful.",
+          "notes": [
+            {
+              "label": "1",
+              "text": "c προίςασθαι præeſſe.",
+              "kind": "word"
+            }
+          ]
+        },
+        {
+          "verse": 15,
+          "text": "Al that are vvith me, ſalute thee: ſalute them that loue vs in the faith. The grace of God be vvith you al. Amen."
+        }
+      ],
+      "summary": "To teach them obedience vnto Princes, and meekenes tovvardes al men, conſidering that we alſo were as they, til God of his goodnes brought vs to Baptiſme. 8 To teach good vvorkes, 9 and to auoid vaine queſtions, 10 and obſtinate Heretikes."
+    }
+  ],
+  "spelling": "original"
+}

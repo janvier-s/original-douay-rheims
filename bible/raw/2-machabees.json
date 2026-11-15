@@ -116,7 +116,7 @@
           "notes": [
             {
               "label": "c",
-              "text": "Chaldea being near to Persis, is sometimes comprehended under the same name so Mamertinus, in Panagerica ad Iulia, reciteth Tigris and Euphrates amongst the rivers of Persis, & S. Chrysostom. ho. 6. in Math. saith the Jews were delivered from captivity of Persis, meaning Babylon.",
+              "text": "Chaldea being near to Persis, is sometimes comprehended under the same name so Mamertinus, in Panagerica ad Julia, reciteth Tigris and Euphrates amongst the rivers of Persis, & S. Chrysostom. ho. 6. in Math. saith the Jews were delivered from captivity of Persis, meaning Babylon.",
               "kind": "gloss"
             }
           ]
@@ -1278,7 +1278,7 @@
           "notes": [
             {
               "label": "f",
-              "text": "Old age (saith S. Ambrose. li. 2. c. 10. de Iacob patri, ) ought to be the haven, not the shipwreck of thy former life.",
+              "text": "Old age (saith S. Ambrose. li. 2. c. 10. de Jacob patri, ) ought to be the haven, not the shipwreck of thy former life.",
               "kind": "gloss"
             }
           ]
@@ -1323,7 +1323,7 @@
           "notes": [
             {
               "label": "1",
-              "text": "Whosoever please to read more of these glorious Martyrs, may see the large discourses of Flavius Iosephus in his book de Machabeis. And of sundry ancient Fathers: S. Cyprian. li. 4. Epist. ep. 6. S. Chrysostom, homilia de nativitate septem Machabæorum. S. Ambrose. li. 1. Offic. c. 40. &c. li. 11. de Iacob. c. 9. S. Augustin, de origine anima. Tract. 8. in Epist. 1. Ioan. & Ser. 110. de diversis. S. Prosper: li. de prædict. par. 2. c. 40. S. Prudentius. hymno de Romano Martyre. S. Leo. Ser. de Nat. septem fratrum. Machab. S. Gaudentius Brixanus Tractatu de Machabeis. S. Ephrem. Ser. de morte. S. Victorinus Afer. Carmine de septem Machabeis.",
+              "text": "Whosoever please to read more of these glorious Martyrs, may see the large discourses of Flavius Iosephus in his book de Machabeis. And of sundry ancient Fathers: S. Cyprian. li. 4. Epist. ep. 6. S. Chrysostom, homilia de nativitate septem Machabæorum. S. Ambrose. li. 1. Offic. c. 40. &c. li. 11. de Jacob. c. 9. S. Augustin, de origine anima. Tract. 8. in Epist. 1. Ioan. & Ser. 110. de diversis. S. Prosper: li. de prædict. par. 2. c. 40. S. Prudentius. hymno de Romano Martyre. S. Leo. Ser. de Nat. septem fratrum. Machab. S. Gaudentius Brixanus Tractatu de Machabeis. S. Ephrem. Ser. de morte. S. Victorinus Afer. Carmine de septem Machabeis.",
               "kind": "gloss"
             },
             {
@@ -2541,6 +2541,7 @@
         {
           "verse": 46,
           "text": "It is therefore a holy, and healthful cogitation to pray for the dead, that they may be loosed from sins.",
+          "has_annotation": true,
           "notes": [
             {
               "label": "h",
@@ -2557,8 +2558,7 @@
               "text": "This text is clear for praying for the dead.",
               "kind": "gloss"
             }
-          ],
-          "has_annotation": true
+          ]
         }
       ],
       "summary": "Whilst the Jews have peace with the King, others still persecute them: 5. which Judas revengeth: 13. and in Caspin maketh great slaughter, and reposeth in Characa. Ten thousand of Timothee's men are slain. 20. whom Judas pursuing killeth many in Carnion: 34. taketh him, but releaseth him again: 27. the like in Ephron. 32. Some Jews are slain in battle against Gorgias. 38. Judas and his men are purified, and gathering the dead bodies, find that some had taken unlawful spoils. 42. For whose souls he prayeth, and causeth sacrifice to be offered."
