@@ -1,10 +1,11 @@
 # Original Douay-Rheims Bible: JSON and USFM Dataset
 
+⚠️ This version is still in beta, and is regularly being improved. Contents provided as-is for now. ⚠️ 
 The complete text of the Original Douay-Rheims Bible (Old Testament 1609, New
 Testament 1582) in structured JSON, with footnotes, cross-references,
 annotations, and reference documents.
 
-This is the unmodified historic translation, which predates the 18th-century
+This is the original historic translation, which predates the 18th-century
 Challoner revision, rendered faithfully from the original printed volumes.
 
 It comes in two spellings of the same text:
